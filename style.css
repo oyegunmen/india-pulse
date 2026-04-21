@@ -21,7 +21,8 @@ html, body {
     top: 0;
     left: 0;
     z-index: 3000;
-    padding: 16px calc((100% - 1100px) / 2 + 20px);
+    justify-content: center;
+    padding: 16px;
     width: 100%;
     box-shadow: 0 2px 10px rgba(0,0,0,0.05); 
 }
