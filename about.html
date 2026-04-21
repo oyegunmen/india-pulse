@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About | Indian Defense Pulse</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/@knadh/oat/oat.min.css">
+    <style>
+        body { max-width: 800px; margin: auto; padding: 40px 20px; line-height: 1.8; }
+        section { margin-bottom: 40px; }
+        .back-btn { margin-bottom: 20px; display: inline-block; }
+    </style>
+</head>
+<body>
+
+    <a href="../" class="button outline back-btn">← Back</a>
+
+    <header>
+        <h1>ABOUT</h1>
+        <p class="gray">A Centralized, Noise Free Dashboard for Monitoring Defense and Geopolitical Situations.</p>
+        <img src="img/meme-01.jpg" alt="Monitoring the Situation">
+    </header>
+    <br>
+
+    <section id="motivation">
+        <h3>MOTIVATION</h3>
+        <p>I loved monitoring military and geopolitical situations as they unfold. However, browsing on Twitter (X), Media Outlets, and YouTube channels became increasingly "Distracting" for me. Despite my best efforts, the "NOISE" on these platforms made it difficult to stay focused.</p>
+        <p>I wanted a centralized, organized place where I could monitor developments without the distractions of algorithms or social media bloat. That is why I built this platform. It give you snapshot information at your fingertips so you can quickly monitor the situation and deep-dive only into what truly matters.</p>
+    </section>
+
+    <section id="usage">
+        <h3>USAGE</h3>
+        <p>The platform gets updated every <strong>60 minutes</strong>. This ensures the data remains current without hitting the limitations of the free hosting tiers that keep this project sustainable.</p>
+        <p>To keep the experience fast and relevant, the platform only displays information from the <strong>past 48 hours</strong>. Older data is not stored in any form; it is discarded to ensure the dashboard remains a "pulse" of the current situation.</p>
+    </section>
+
+    <section id="content">
+        <h3>CONTENT</h3>
+        <p>This is an aggregator website; I do not own any of the content presented here. All copyrights belong to their respective owners.</p>
+        <p>Everyone has specific preferences for media outlets, Twitter handles, or YouTube channels. The built-in <strong>Source Filter</strong> allows you to curate the feed to your specific needs, making the tool useful for a wider audience interested in defense and geopolitics.</p>
+    </section>
+
+    <section id="support">
+        <h3>SUPPORT</h3>
+        <p>This is purely volunteer-based software. While it will always remain <strong>free to use</strong>, the quality of the feed depends on the data it consumes. I aim to make the list of outlets as exhaustive as possible, but I cannot do it without your support.</p>
+        <p><strong>How you can help:</strong></p>
+        <ul>
+        <li><strong>Suggestions:</strong> If I’ve missed a major news outlet or a specific analyst, youtube channel, please suggest them. You can reach out via <strong><a href="#contact">contact</a></strong>.</li>
+        <li><strong>Sponsorship:</strong> If you wish to sponsor the project, your contributions could help secure a custom domain so users don't have to remember a long GitHub link.</li>
+        </ul>
+    </section>
+
+    <section id="sources">
+        <h3>SOURCES</h3>
+        <p>Our list of sources are a work in progress and will continue to grow. Below you can find the outlets we currently monitor. Every hour, our software checks each site's <a href="https://www.reddit.com/r/explainlikeimfive/comments/15kfcsm/eli5_what_is_rss_feed_and_how_is_it_useful/">RSS Feed</a>, a standardized way for machines to read website updates, so that we can display the most relevant information here for you.</p>
+        <p><strong>LIST OF MEDIA OUTLETS</strong></p>
+        <ul id="list-news"></ul>
+        <p><strong>LIST OF TWITTER HANDLES</strong></p>
+        <ul id="list-tweets"></ul>
+        <p><strong>LIST OF YOUTUBE CHANNELS</strong></p>
+        <ul id="list-youtube"></ul>
+    </section>
+
+    <section id="contact">
+        <h3>CONTACT</h3>
+        <p>If you have a <strong>feature request</strong> or want to suggest sources for <strong>News, Twitter, or YouTube</strong>, please reach out.</p>
+        <p>You can contact me via:</p>
+        <ul>
+            <li><a href="https://www.reddit.com/user/soil_to_death/" target="_blank">Reddit</a></li>
+            <li><a href="https://x.com/oyegunmen" target="_blank">Twitter / X</a></li>
+        </ul>
+    </section>
+
+<footer style="margin: 40px 0 120px 0; border-top: 1px solid var(--border); padding-top: 20px;">
+    <div class="hstack" style="justify-content: center; gap: 15px;">
+        <a href="about.html">About</a>
+        <a href="https://github.com/kashmirdiary" target="_blank">GitHub</a>
+    </div>
+</footer>
+<script src="about.js"></script>
+</body>
+</html>

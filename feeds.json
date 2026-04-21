@@ -1,0 +1,158 @@
+[
+    {
+        "type": "news",
+        "name": "Republic World",
+        "url": "https://www.republicworld.com/rss/defence.xml",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com/section/world/feed/",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "DD News International",
+        "url": "https://www.newsonair.gov.in/category/international/feed/",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "DD News National",
+        "url": "https://www.newsonair.gov.in/category/national/feed/",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "The Print",
+        "url": "https://theprint.in/category/defence/feed/",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "Live Fist Defense",
+        "url": "https://www.livefistdefence.com/feed/",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "India Strategic",
+        "url": "https://www.indiastrategic.in/feed/",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "Defense Monitor",
+        "url": "https://defencemonitor.in/category/categories/indian-defence/feed/",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "Foreign Policy",
+        "url": "https://foreignpolicy.com/tag/india/feed/",
+        "hide_desc": false
+    },
+    {
+        "type": "news",
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/search?q=reuters%20India&hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "hide_desc": true
+    },
+    {
+        "type": "news",
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/search?q=Al%20Jazeera%20India&hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "hide_desc": true
+    },
+    {
+        "type": "tweets",
+        "name": "War & Gore",
+        "url": "https://nitter.net/Goreunit/rss",
+        "hide_desc": false
+    },
+    {
+        "type": "tweets",
+        "name": "WarMonitor",
+        "url": "https://nitter.net/WarMonitorINTL/rss",
+        "hide_desc": false
+    },
+    {
+        "type": "tweets",
+        "name": "Netram Defense",
+        "url": "https://nitter.net/NetramDefence/rss",
+        "hide_desc": false
+    },
+    {
+        "type": "tweets",
+        "name": "Elite Predators",
+        "url": "https://nitter.net/elitepredatorss/rss",
+        "hide_desc": false
+    },
+    {
+        "type": "tweets",
+        "name": "OsintTV",
+        "url": "https://nitter.net/OsintTV/rss",
+        "hide_desc": false
+    },
+    {
+        "type": "tweets",
+        "name": "AngryRumi",
+        "url": "https://nitter.net/AngryRumi7/rss",
+        "hide_desc": false
+    },
+    {
+        "type": "tweets",
+        "name": "Sidhant Sibal",
+        "url": "https://nitter.net/sidhant/rss",
+        "hide_desc": false
+    },
+    {
+        "type": "tweets",
+        "name": "Open Source Intel",
+        "url": "https://nitter.net/Osint613/rss",
+        "hide_desc": false
+    },
+    {
+        "type": "youtube",
+        "name": "Indian Defence Updates",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUFwrNEs9MnFTc8LcQh8Pg",
+        "hide_desc": false
+    },
+    {
+        "type": "youtube",
+        "name": "Indian Defense News",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBcG9TT58nA1w9Oo3Os3MMg",
+        "hide_desc": false
+    },
+    {
+        "type": "youtube",
+        "name": "Elite Predators",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9FUmGRv0LL58RppMFEsv3w",
+        "hide_desc": false
+    },
+    {
+        "type": "youtube",
+        "name": "Alpha Defense - Hindi",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrJRNE5lnnfXb9rP4lTGmvw",
+        "hide_desc": false
+    },
+    {
+        "type": "youtube",
+        "name": "Defense Squad",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQRIKdVEcMTIBaoHLMEN5uA",
+        "hide_desc": false
+    }
+]

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Indian Defense Pulse</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/@knadh/oat/oat.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Indian Defense Pulse</h1>
+    </header>
+
+    <div style="margin-bottom: 30px;">
+        <p>Monitor the Indian Defense and Geopolitical News, Tweets & Youtube Videos from the past 48 hours aggregated in one place.</p>
+        <a href="about.html">About →</a>
+    </div>
+
+    <div>
+        <button class="outline" onclick="toggleFilterMenu()">Filter Sources 🔎︎</button>
+        <div id="filter-menu">
+            <strong id="filter-title">Filter Sources:</strong>
+            <div id="site-checklist" class="checklist" style="margin-top:10px;"></div>
+        </div>
+    </div>
+
+    <main id="news-section" class="news-grid"></main>
+    <main id="tweets-section" class="news-grid hidden"></main>
+    <main id="youtube-section" class="news-grid hidden"></main>
+
+    <nav class="bottom-nav">
+        <button id="btn-news" class="active" onclick="showTab('news')">News</button>
+        <button id="btn-tweets" onclick="showTab('tweets')">Tweets</button>
+        <button id="btn-youtube" onclick="showTab('youtube')">YouTube</button>
+    </nav>
+    
+    <footer style="margin: 40px 0 120px 0; border-top: 1px solid var(--border); padding-top: 20px;">
+    <div class="hstack" style="justify-content: center; gap: 15px;">
+        <a href="about.html">About</a>
+        <a href="https://github.com/kashmirdiary" target="_blank">GitHub</a>
+    </div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
