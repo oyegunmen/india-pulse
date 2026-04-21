@@ -1,5 +1,6 @@
 :root {
     --bg: #1b1a1a;
+    --head-bg: #232121;
     --fg: #ffffff;
     --card-bg: #272221;
     --border: #e2e8f0;
@@ -16,7 +17,7 @@ html, body {
 }
 
 .status-bar {
-    background-color: var(--card-bg);
+    background-color: var(--head-bg);
     position: fixed;
     top: 0;
     left: 0;
