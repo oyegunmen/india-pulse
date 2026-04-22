@@ -3,12 +3,8 @@ import json
 from datetime import datetime, timedelta, timezone
 
 ist_tz = timezone(timedelta(hours=5, minutes=30))
-
 last_run_time = datetime.now(ist_tz)
-next_run_time = last_run_time + timedelta(hours=1)
-
 last_run_str = last_run_time.strftime("%I:%M %p IST")
-next_run_str = next_run_time.strftime("%I:%M %p IST")
 
 def fetch_all():
     with open('feeds.json', 'r') as f:
@@ -17,7 +13,6 @@ def fetch_all():
     data = {"news": [], "tweets": [], "youtube": []}
     data["metadata"] = {
     "last_updated": last_run_str,
-    "next_update": next_run_str
     }
     now_utc = datetime.now(timezone.utc)
     cutoff = now_utc - timedelta(hours=48)

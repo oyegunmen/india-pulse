@@ -9,7 +9,6 @@ let allData = {};
 
                 if (allData.metadata) {
                     document.getElementById('last-run').innerText = allData.metadata.last_updated;
-                    document.getElementById('next-run').innerText = allData.metadata.next_update;
                 }
                 
                 const allItems = [...allData.news, ...allData.tweets, ...allData.youtube];

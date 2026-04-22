@@ -13,7 +13,11 @@
 body { max-width: 1100px; margin: auto; padding: 20px 20px 120px 20px; font-family: -apple-system, sans-serif; }
 
 html, body {
-    background-color: var(--bg) !important;
+    background-color: var(--bg), !important;
+}
+
+p{
+    color: var(--fg);
 }
 
 .status-bar {
@@ -79,21 +83,20 @@ html, body {
     margin: 0 5px; 
     border-radius: 4px; 
     font-weight: bold;
-    border: 1px solid var(--border);
-    background: var(--accent);
-    color: var(--card-bg);
+    border: 1px solid var(--border);;
+    color: var(--fg);
     transition: all 0.2s;
 }
 
 .bottom-nav button.active { 
     background: var(--primary) !important; 
-    color: var(--secondary);
+    color: var(--bg);
     border-color: var(--primary) !important;
 }
 
 .button.outline:hover {
     background-color: var(--primary) !important;
-    color: var(--secondary) !important;
+    color: var(--bg) !important;
     border-color: var(--primary) !important;
     cursor: pointer;
     transform: translateY(-1px); 
@@ -122,11 +125,11 @@ a.outline.button {
 .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
 
 .tweet-card p { font-size: 1rem; color: var(--fg); line-height: 1.5; margin: 0; white-space: pre-wrap; }
-.news-card h3 { font-size: 1.15rem; margin-bottom: 10px; }
+.news-card h3 { font-size: 1.15rem; margin-bottom: 10px; color: var(--fg); }
 .news-card p { font-size: 0.95rem; color: var(--gray); line-height: 1.6; }
 .yt-card img { width: 100%; border-radius: 6px; margin-bottom: 15px; aspect-ratio: 16/9; object-fit: cover; }
 
-#filter-menu { display: none; background: var(--bg-light); padding: 20px; border: 1px solid var(--border); border-radius: 8px; margin: 20px 0; }
+#filter-menu { display: none; background: var(--card-bg); padding: 20px; border: 1px solid var(--border); border-radius: 8px; margin: 20px 0; }
 .checklist { display: flex; gap: 12px; flex-wrap: wrap; }
 .check-item { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; cursor: pointer; border: 1px solid var(--border); padding: 5px 12px; border-radius: 20px; }
 
