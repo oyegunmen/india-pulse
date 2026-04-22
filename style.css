@@ -16,7 +16,7 @@ html, body {
     background-color: var(--bg);
 }
 
-p li{
+p{
     color: var(--fg);
 }
 
@@ -134,5 +134,6 @@ a.outline.button {
 .check-item { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; cursor: pointer; border: 1px solid var(--border); padding: 5px 12px; border-radius: 20px; }
 
 .special-btn{ color: var(--fg)}
+.special-list{ color: var(--fg)}
 
 .hidden { display: none; }
