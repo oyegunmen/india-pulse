@@ -2,7 +2,7 @@ name: Update Pulse Data
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '22 * * * *' # Runs every hour
   workflow_dispatch: # Allows you to run it manually for testing
 
 jobs:
