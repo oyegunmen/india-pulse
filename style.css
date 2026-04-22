@@ -32,6 +32,12 @@ p{
     box-shadow: 0 2px 10px rgba(0,0,0,0.05); 
 }
 
+.nav-btn{
+    color: var(--bg);
+    background-color: var(--fg);
+    border-color: var(--fg);
+}
+
 @media (max-width: 1140px) {
     .status-bar {
         padding: 10px 20px;
@@ -76,8 +82,7 @@ p{
     justify-content: center; 
     padding: 20px; 
     z-index: 2000;
-    pointer-events: none;
-    background-color: var(--fg);
+    pointer-events: none;;
 }
 .bottom-nav button { 
     pointer-events: auto;
@@ -128,7 +133,7 @@ a.outline.button {
 
 .tweet-card p { font-size: 1rem; color: var(--fg); line-height: 1.5; margin: 0; white-space: pre-wrap; }
 .news-card h3 { font-size: 1.15rem; margin-bottom: 10px; color: var(--fg); }
-.news-card p { font-size: 0.95rem; color: var(--gray); line-height: 1.6; }
+.news-card p { font-size: 0.95rem; color: var(--fg); line-height: 1.6; }
 .yt-card img { width: 100%; border-radius: 6px; margin-bottom: 15px; aspect-ratio: 16/9; object-fit: cover; }
 
 #filter-menu { display: none; background: var(--card-bg); padding: 20px; border: 1px solid var(--border); border-radius: 8px; margin: 20px 0; color: var(--fg); }
