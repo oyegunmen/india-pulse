@@ -35,7 +35,6 @@ p{
 .nav-btn{
     color: var(--bg);
     background-color: var(--fg);
-    border-color: var(--fg);
 }
 
 @media (max-width: 1140px) {
