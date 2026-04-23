@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Two trains collide in Denmark, leaving several critically injured",
+      "link": "https://www.thehindu.com/news/international/denmark-train-collision-copenhagen-injured-updates/article70896159.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T14:17:49+05:30",
+      "time": "23 Apr, 02:17 PM",
+      "type": "news",
+      "description": "A police statement called it \u201ca serious accident\u201d, but a police spokesman told AFP that all passengers had been evacuated from the trains."
+    },
+    {
+      "title": "IMD forecasts heatwave conditions over Delhi, Chhattisgarh, Haryana, Chandigarh, MP, Punjab, Rajasthan",
+      "link": "https://www.newsonair.gov.in/imd-forecasts-hot-and-humid-weather-in-andhra-pradesh-karnataka-tamil-nadu-kerala/",
+      "source": "DD News National",
+      "sort_key": "2026-04-23T14:17:47+05:30",
+      "time": "23 Apr, 02:17 PM",
+      "type": "news",
+      "description": "The India Meteorological Department (IMD) has predicted heatwave conditions over Delhi, Chhattisgarh, Haryana, Chandigarh, Madhya Pradesh, Punjab, Raj"
+    },
+    {
+      "title": "Israel-Iran LIVE: Iran official says Tehran receives first revenue from Strait of Hormuz tolls",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T14:12:59+05:30",
+      "time": "23 Apr, 02:12 PM",
+      "type": "news",
+      "description": "ran\u2019s vow not to reopen the Strait of Hormuz so long as a U.S. naval blockade remained in place"
+    },
+    {
+      "title": "VP Radhakrishnan attends 6th Convocation Ceremony of AIIMS Rishikesh",
+      "link": "https://www.newsonair.gov.in/vp-radhakrishnan-attends-6th-convocation-ceremony-of-aiims-rishikesh/",
+      "source": "DD News National",
+      "sort_key": "2026-04-23T14:10:35+05:30",
+      "time": "23 Apr, 02:10 PM",
+      "type": "news",
+      "description": "The Vice President, C. P. Radhakrishnan, attended the 6th Convocation Ceremony of the All India Institute of Medical Sciences, Rishikesh. On this occa"
+    },
+    {
+      "title": "BAE Systems awarded $180 million contract from Sweden for TRIDON Mk2",
+      "link": "https://www.indiastrategic.in/bae-systems-awarded-180-million-contract-from-sweden-for-tridon-mk2/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-23T14:00:42+05:30",
+      "time": "23 Apr, 02:00 PM",
+      "type": "news",
+      "description": "<p>KARLSKOGA, Sweden/NewDelhi, April 23, 2026. BAE Systems has secured a contract worth $180 million from the Swedish Defence Materiel Administration "
+    },
+    {
+      "title": "India's future warfare will depend on theatre commands, AI and space systems: Ex-IAF Chief RKS Bhadauria",
+      "link": "https://economictimes.indiatimes.com/news/defence/indias-future-warfare-will-depend-on-theatre-commands-ai-and-space-systems-ex-iaf-chief-rks-bhadauria/articleshow/130462115.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-23T13:55:31+05:30",
+      "time": "23 Apr, 01:55 PM",
+      "type": "news",
+      "description": "India's military is set for a major transformation. Theater-based integration, rapid technology adoption, and AI-driven systems will be key. Ongoing d"
+    },
+    {
+      "title": "Dubai Metro Gold Line: How the city\u2019s first fully underground line will transform connectivity",
+      "link": "https://indianexpress.com/article/world/dubai-metro-gold-line-how-the-citys-first-fully-underground-line-will-transform-connectivity-10650861/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-23T13:53:17+05:30",
+      "time": "23 Apr, 01:53 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Middle East conflict re-sets equations: Flurry of activity in Beijing as US depletes power",
+      "link": "https://www.indiastrategic.in/middle-east-conflict-re-sets-equations-flurry-of-activity-in-beijing-as-us-depletes-power/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-23T13:51:05+05:30",
+      "time": "23 Apr, 01:51 PM",
+      "type": "news",
+      "description": "<p>By Simran Sodhi New Delhi. After a 40-day period of conflict between the United States-Israel and Iran, the world is in the middle of a fragile cea"
+    },
+    {
+      "title": "Govt launches first-ever Structured Pulse Procurement in Bihar under Atmanirbhar Pulses Mission",
+      "link": "https://www.newsonair.gov.in/govt-launches-first-ever-structured-pulse-procurement-in-bihar-under-atmanirbhar-pulses-mission/",
+      "source": "DD News National",
+      "sort_key": "2026-04-23T13:50:45+05:30",
+      "time": "23 Apr, 01:50 PM",
+      "type": "news",
+      "description": "The Government has significantly expanded procurement operations under the PM-AASHA scheme, with the National Cooperative Consumers\u2019 Federation of Ind"
+    },
+    {
+      "title": "Navy chief Admiral Dinesh K Tripathi stresses operational synergy to address emerging challenges in Indo-Pacific",
+      "link": "https://economictimes.indiatimes.com/news/defence/navy-chief-admiral-dinesh-k-tripathi-stresses-operational-synergy-to-address-emerging-challenges-in-indo-pacific/articleshow/130461995.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-23T13:49:13+05:30",
+      "time": "23 Apr, 01:49 PM",
+      "type": "news",
+      "description": "Navy chief Admiral Dinesh K Tripathi visited the Andaman and Nicobar Command. He emphasized coordination among Army, Navy, Air Force, and Coast Guard "
+    },
+    {
+      "title": "Samsung workers rally in South Korea, demanding higher pay, threatening to strike",
+      "link": "https://www.thehindu.com/news/international/samsung-workers-rally-in-south-korea-demanding-higher-pay-threatening-to-strike/article70896376.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T13:40:50+05:30",
+      "time": "23 Apr, 01:40 PM",
+      "type": "news",
+      "description": "Samsung's union, which represents about 74,000 workers, says the company has failed to offer adequate compensation despite its strong performance"
+    },
+    {
       "title": "Hormuz crisis deepens: Mine clearance may take six months",
       "link": "https://economictimes.indiatimes.com/news/defence/strait-of-hormuz-crisis-pentagon-estimate-reveals-6-month-mine-clearance-timeline-amid-rising-oil-prices/articleshow/130461466.cms",
       "source": "Economic Times",
@@ -37,15 +136,6 @@
       "description": ""
     },
     {
-      "title": "Israel-Iran LIVE: Iran says won\u2019t reopen Hormuz if US upholds naval blockade",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T13:11:18+05:30",
-      "time": "23 Apr, 01:11 PM",
-      "type": "news",
-      "description": "Iran attacks 3 ships in Strait of Hormuz; Lebanon-Israel truce extension talks to happen in Washington"
-    },
-    {
       "title": "Iran says won't reopen Hormuz if U.S. upholds naval blockade",
       "link": "https://www.thehindu.com/news/international/iran-says-wont-reopen-hormuz-if-us-upholds-naval-blockade/article70896406.ece",
       "source": "The Hindu",
@@ -55,6 +145,15 @@
       "description": "While strikes around the region have mostly ceased since the truce began, there has been no letup in the pressure around the crucial trade route, with"
     },
     {
+      "title": "India stocks, rupee, bonds, swaps, call at 1:00 p.m. IST - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQm00TzU1b0xuVjlfdkVDR0JKam1EWHBVcmtQNVZ1MHJCQmZGY2VQS3RrckUyTzI4NXFHV3pBc0lCMzBDdWVCbkp3UVpPRkpudHd4ZzBGbTJKeW1ka2J3NVVQVFI0UTk4YlFQaUM1a1NLaHB1TVpGbEJrTm5nUERuSVRrVVpjR1pwdE5ya0dYbjc4dVFLRl9VaElSNk9zd2ctYlZuVktrTEJQOHFOS3JiVXkxRjZkUGJEWmlsRVln?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-23T13:03:00+05:30",
+      "time": "23 Apr, 01:03 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "India to get German submarines soon: Check key features and capabilities of TKMS Type 214 submarines to be acquired under $8 billion",
       "link": "https://economictimes.indiatimes.com/news/defence/india-to-get-german-submarines-soon-check-key-features-and-capabilities-of-tkms-type-214-submarines-to-be-acquired-under-8-billion/articleshow/130460328.cms",
       "source": "Economic Times",
@@ -62,15 +161,6 @@
       "time": "23 Apr, 01:00 PM",
       "type": "news",
       "description": "India is set to acquire advanced Type 214 submarines from Germany. Defence ministers from both nations visited a submarine facility, highlighting coop"
-    },
-    {
-      "title": "Samsung workers rally in South Korea, demanding higher pay, threatening to strike",
-      "link": "https://www.thehindu.com/news/international/samsung-workers-rally-in-south-korea-demanding-higher-pay-threatening-to-strike/article70896376.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T12:59:57+05:30",
-      "time": "23 Apr, 12:59 PM",
-      "type": "news",
-      "description": "Samsung's union, which represents about 74,000 workers, says the company has failed to offer adequate compensation despite its strong performance"
     },
     {
       "title": "Modernisation of railway tracks powering faster and more dependable network: PM Modi",
@@ -136,15 +226,6 @@
       "description": "Union Ports, Shipping and Waterways Minister, Sarbananda Sonowal, today said that India&#8217;s maritime sector has transformed into an engine of unma"
     },
     {
-      "title": "Two trains collide in Denmark, prompting massive emergency response",
-      "link": "https://www.thehindu.com/news/international/denmark-train-collision-copenhagen-injured-updates/article70896159.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T12:28:04+05:30",
-      "time": "23 Apr, 12:28 PM",
-      "type": "news",
-      "description": "The collision occurred around 6.30 a.m. about 40 kilometres (25 miles) north of Copenhagen. It was not immediately clear how many people were injured."
-    },
-    {
       "title": "Elbit Systems Awarded Contracts in an Aggregate Amount of Approximately $200 Million for the Supply of Advanced Airborne Munitions to the Israel Ministry of Defense",
       "link": "https://www.indiastrategic.in/elbit-systems-awarded-contracts-in-an-aggregate-amount-of-approximately-200-million-for-the-supply-of-advanced-airborne-munitions-to-the-israel-ministry-of-defense/",
       "source": "India Strategic",
@@ -172,7 +253,7 @@
       "description": "The Ministry of Petroleum and Natural Gas has refuted some news reports suggesting a possible hike in petrol and diesel prices. The Ministry has clari"
     },
     {
-      "title": "India emerged as one of Africa\u2019s largest trading partners and bilateral investors: EAM Jaishankar",
+      "title": "India-Africa partnership assumes significance amid growing global challenges: EAM Jaishankar",
       "link": "https://www.newsonair.gov.in/india-emerged-as-one-of-africas-largest-trading-partners-and-bilateral-investors-eam-jaishankar/",
       "source": "DD News National",
       "sort_key": "2026-04-23T11:56:49+05:30",
@@ -181,7 +262,7 @@
       "description": "External Affairs Minister Dr S Jaishankar said that the India-Africa partnership assumes significance as the world navigates through complex geopoliti"
     },
     {
-      "title": "US Iran War News Live Updates: Responsibility for consequences of war lies with \u2018aggressors\u2019, says Iran\u2019s Foreign Minister Araghchi",
+      "title": "US Iran War News Live Updates: Israel, Lebanon to meet in Washington today; Iran-US talks are in limbo",
       "link": "https://indianexpress.com/article/world/united-states-iran-war-news-live-updates-lebanon-israel-trump-peace-talks-10651366/",
       "source": "The Indian Express",
       "sort_key": "2026-04-23T11:56:39+05:30",
@@ -226,13 +307,13 @@
       "description": ""
     },
     {
-      "title": "India and Egypt reaffirm commitment to further strengthen defence ties",
+      "title": "India and Egypt agree on bilateral defence cooperation plan 2026-27, strengthening Joint training exchanges",
       "link": "https://www.newsonair.gov.in/india-and-egypt-reaffirm-commitment-to-further-strengthen-defence-ties/",
       "source": "DD News International",
       "sort_key": "2026-04-23T11:36:10+05:30",
       "time": "23 Apr, 11:36 AM",
       "type": "news",
-      "description": "The 11th India-Egypt Joint Defence Committee meeting concluded yesterday in Cairo, marking another important step in deepening bilateral defence coope"
+      "description": "The India-Egypt Joint Defence Committee (JDC) held productive discussions towards enhancing bilateral defence cooperation during its 11th meeting in C"
     },
     {
       "title": "From machine tools to military tech: German industry dons fatigues",
@@ -289,15 +370,6 @@
       "description": "Defence Minister Rajnath Singh visited Germany, touring a submarine shipyard. India and Germany signed key defence cooperation agreements. These pacts"
     },
     {
-      "title": "MEA Secretary Sibi George meets UN Secretary General Antonio\u00a0Guterres",
-      "link": "https://www.newsonair.gov.in/mea-secretary-sibi-george-meets-un-secretary-general-antonio-guterres/",
-      "source": "DD News National",
-      "sort_key": "2026-04-23T11:09:58+05:30",
-      "time": "23 Apr, 11:09 AM",
-      "type": "news",
-      "description": "Secretary (West) in the Ministry of External Affairs, Sibi George, has called on Secretary-General of the United Nations, Antonio Guterres. In a socia"
-    },
-    {
       "title": "Watch: Donald Trump should lift the blockade | The Hindu Editorial",
       "link": "https://www.thehindu.com/videos/watch-donald-trump-should-lift-the-blockade-the-hindu-editorial/article70895995.ece",
       "source": "The Hindu",
@@ -343,7 +415,7 @@
       "description": "A number of reform-focused ordinances introduced during Bangladesh\u2019s interim administration have lost legal validity, triggering sharp political react"
     },
     {
-      "title": "Nokia beats first-quarter estimates as AI boom lifts sales again - Reuters",
+      "title": "AI boom lifts Nokia sales, shares hit 16-year high after earnings beat - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTJrUzA4SWRoS2U2T0RzY2E5U3JiX0JoNFBJa3ZxY3B4RzlwbkJJUHdPN0FiYkFfZXB4MWJ1T082eDdwSnN1YmhKdExudkx0UVZsSWZoSGlxZENzNTZBQ3BsSjJrQ1h1MDJ0bHViQm1WNDM5VTlXaVQ1aC1TNVJFVVlzRHRnWG5jSHdabXU2b1c1THVwdUFQY3dGZkZzZFVMUThteHFRZm9FQQ?oc=5",
       "source": "Reuters",
       "sort_key": "2026-04-23T10:38:00+05:30",
@@ -415,15 +487,6 @@
       "description": "<p>BETHESDA, Md. Lockheed Martin on April 22, 2026 announced a $25 million investment in Fortem Technologies, a global leader in airspace security. Th"
     },
     {
-      "title": "India's digital currency push targets its leaky welfare system - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTI2QlhDUDFtVWcwcTVRQVpwVkpuTTAzNVR5ZnZ1TGlFaU91dGlxemt1N18ySXRWSkV3cmpKLXZRU0dvdk5US1MzNFBrM1lVSGI2RjlxSnJQR3kzMUpJYWp2TzQ0VmExZHAxdnJtU1ViWWxvM2JxQ2xTYVktRGdZano3UExWWUFUdmo4Zl85eGEtNW4tV0VEUUdhZ0U1NTdkVkFIQ0J0OHFJMVk5Z3dPR05yM3lDZmRocWliYjNZYUhQZ0hfTjl3Qnk2WTQ?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-23T10:08:00+05:30",
-      "time": "23 Apr, 10:08 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "HSBC downgrades India to 'underweight' as oil shock clouds earnings recovery - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0drTjRFTDQyUXlLSVN1cExoUnFXSk13Mjc2aWZoR29VVnQxTm1fV2xCX21jMzBGVjg1RDZibncyMGt4S3NCQWN5akRUaXM4bnpZQ2tkM3ltMGdxNUc0OEs3MkU1ZEFFRnJPRHh5VHJpRGthaFp1d203NlZYQlowLTN3S3hWRFkzbUN5U2FjcnR1Z3BzT01wc2lZZVBLSnZzWXduVXVaX0RoQmdUb29wRmdGRzBpekk?oc=5",
       "source": "Reuters",
@@ -469,24 +532,6 @@
       "description": "UK Parliament passes Tobacco and Vapes Bill banning cigarette sales to anyone born on or after January 1, 2009, aiming to create a smoke-free generati"
     },
     {
-      "title": "ECI issues show cause notice to Congress President Mallikarjun Kharge for violating Model Code of Conduct",
-      "link": "https://www.newsonair.gov.in/eci-issues-show-cause-notice-to-mallikarjun-kharge-over-derogatory-remarks-against-pm-modi/",
-      "source": "DD News National",
-      "sort_key": "2026-04-23T09:05:26+05:30",
-      "time": "23 Apr, 09:05 AM",
-      "type": "news",
-      "description": "The Election Commission has issued a show-cause notice to Congress President Mallikarjun Kharge for violating the provisions of the Model Code of Cond"
-    },
-    {
-      "title": "Tathagata holy sacred relics of Lord Buddha set to travel to Ladakh",
-      "link": "https://www.newsonair.gov.in/tathagata-holy-sacred-relics-of-lord-buddha-set-to-travel-to-ladakh/",
-      "source": "DD News National",
-      "sort_key": "2026-04-23T09:00:03+05:30",
-      "time": "23 Apr, 09:00 AM",
-      "type": "news",
-      "description": "Tathagata holy sacred relics of Lord Buddha are set to travel to the Union Territory of Ladakh. This marks the first time these holy remains will leav"
-    },
-    {
       "title": "Trump seeks exit from conflict, but Iran holds firm",
       "link": "https://economictimes.indiatimes.com/news/defence/trumps-struggle-for-peace-irans-resistance-to-ceasefire-and-blockade-tensions/articleshow/130455678.cms",
       "source": "Economic Times",
@@ -501,15 +546,6 @@
       "source": "Reuters",
       "sort_key": "2026-04-23T08:33:00+05:30",
       "time": "23 Apr, 08:33 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Gold falls on oil-driven inflation fears; US-Iran developments in focus - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUhzZnR5V2FWcF8tblZRUTZPSktlVDB1RmwtTElEWGdiMHg5VnE2QVJiSUdFb1lLLXk4TV9iVGNsbmppcjBYZzIyVWRXTlB2aGNkdTVwN2RSRFl3NS1pWVVyVk9SdzlXVFRGaGRXWWtmUnBIb0tiRWg4ZTFNWG5EWHYtN184cTgza1BfdU9pS3MwWGRCRmtsLWJ3aTczWndpRURQeXdrZUFsWUVhcGc?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-23T08:16:00+05:30",
-      "time": "23 Apr, 08:16 AM",
       "type": "news",
       "description": ""
     },
@@ -1061,24 +1097,6 @@
       "time": "22 Apr, 03:24 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "INS Nireekshak arrives at Colombo, Sri Lanka to Participate in IN-SLN DIVEX 2026",
-      "link": "https://www.indiastrategic.in/ins-nireekshak-arrives-at-colombo-sri-lanka-to-participate-in-in-sln-divex-2026/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-22T15:15:41+05:30",
-      "time": "22 Apr, 03:15 PM",
-      "type": "news",
-      "description": "<p>New Delhi, April 22. INS Nireekshak, the Diving Support and Submarine Rescue Vessel of Indian Navy, arrived at the port of Colombo, Sri Lanka, on A"
-    },
-    {
-      "title": "Defence Minister Rajnath Singh interacts with Indian diaspora in Germany",
-      "link": "https://www.indiastrategic.in/defence-minister-rajnath-singh-interacts-with-indian-diaspora-in-germany/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-22T14:58:45+05:30",
-      "time": "22 Apr, 02:58 PM",
-      "type": "news",
-      "description": "<p>Defence Minister exhorts Indian diaspora in Germany to continue contributing to stronger bilateral ties while staying rooted in their own heritage "
     },
     {
       "title": "Day before second round of peace talks, Hezbollah strikes Israel after \u2018ceasefire violations\u2019",
@@ -2015,63 +2033,81 @@
       "time": "21 Apr, 02:38 PM",
       "type": "news",
       "description": "Since October last year, Japan PM Sanae Takaichi has planned to increase defence spending target to 2 percent of GDP."
-    },
-    {
-      "title": "US Senate hearing warns of rising nuclear threat from China, Russia",
-      "link": "https://defencemonitor.in/us-senate-hearing-warns-of-rising-nuclear-threat-from-china-russia/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-04-21T14:17:45+05:30",
-      "time": "21 Apr, 02:17 PM",
-      "type": "news",
-      "description": "<p>Washington, April 21 (IANS) The United States is confronting a \u201cmore dangerous era\u201d marked by simultaneous nuclear competition with China and Russi"
-    },
-    {
-      "title": "Defence Minister Rajnath Singh arrives in Germany to advance defence cooperation",
-      "link": "https://defencemonitor.in/defence-minister-rajnath-singh-arrives-in-germany-to-advance-defence-cooperation/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-04-21T14:14:38+05:30",
-      "time": "21 Apr, 02:14 PM",
-      "type": "news",
-      "description": "<p>Berlin, April 21 (IANS) Defence Minister Rajnath Singh on Tuesday arrived in Germany to discuss advancing defence cooperation between the two natio"
-    },
-    {
-      "title": "India may face solar cell crunch from June on local sourcing rules, industry body says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTWVadzlCU1ptcUN4c2NVbGZyRHpuYnBVSkY1LVV3NG1qU3JFaGtEblZlLTF2V0FDa0dkdTdMbGZ2VHhZc1NUM2UzQWVsRE5FMnAxSU4zTzNBTVlQaHpxVG16cFF6VENnb1BoeXc0RHBUS2hsclBDWXBRLU5YeG5najNkd0FxMXNHTG4zSFU5VUstUnpxOFpqUzRmSmV3MGpvQmtsZU1JRERUaklTUXRyWUowR1BDYnVWTkhwVDhZcFBCbTllcmlNVlRIYTlkaDRERkExc0lKX2dta202djVqT2NsRFBoRjFj?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-21T14:13:44+05:30",
-      "time": "21 Apr, 02:13 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "US, Iran ceasefire nears expiry as Hormuz tensions cloud talks",
-      "link": "https://defencemonitor.in/us-iran-ceasefire-nears-expiry-as-hormuz-tensions-cloud-talks/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-04-21T14:13:41+05:30",
-      "time": "21 Apr, 02:13 PM",
-      "type": "news",
-      "description": "<p>Washington, April 21 (IANS) The fragile two-week US-Iran ceasefire is set to expire Wednesday evening, clouding prospects for fresh negotiations an"
-    },
-    {
-      "title": "Tehran will not negotiate under threat or force: Iranian envoy",
-      "link": "https://defencemonitor.in/tehran-will-not-negotiate-under-threat-or-force-iranian-envoy/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-04-21T14:12:53+05:30",
-      "time": "21 Apr, 02:12 PM",
-      "type": "news",
-      "description": "<p>Washington, April 21 (IANS) Iran&#8217;s Ambassador to Pakistan Reza Amiri Moghadam said on Tuesday that negotiations cannot take place under threa"
-    },
-    {
-      "title": "India, UK discuss evolving nature of conflict and deepening military-to-military cooperation",
-      "link": "https://defencemonitor.in/india-uk-discuss-evolving-nature-of-conflict-and-deepening-military-to-military-cooperation/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-04-21T14:10:16+05:30",
-      "time": "21 Apr, 02:10 PM",
-      "type": "news",
-      "description": "<p>London, April 21 (IANS) Chief of Defence Staff (CDS) General Anil Chauhan met the UK&#8217;s Minister of State for Defence Readiness and Industry L"
     }
   ],
   "tweets": [
+    {
+      "title": "The U.S. Department of War has told the U.S. Congress that \"clearing naval mines in the Strait of Hormuz could take up to six months.\"\n\nU.S. intelligence reports indicate that Iran has deployed 20 or more naval mines in the Strait of Hormuz and surrounding areas, including some advanced types that utilize GPS-based remote technologies.",
+      "link": "https://nitter.net/NetramDefence/status/2047235083803799720#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-23T14:14:14+05:30",
+      "time": "23 Apr, 02:14 PM",
+      "type": "tweets",
+      "content": "The U.S. Department of War has told the U.S. Congress that \"clearing naval mines in the Strait of Hormuz could take up to six months.\"\n\nU.S. intelligence reports indicate that Iran has deployed 20 or more naval mines in the Strait of Hormuz and surrounding areas, including some advanced types that utilize GPS-based remote technologies."
+    },
+    {
+      "title": "Iran says it has collected its first revenue from Strait of Hormuz tolls.",
+      "link": "https://nitter.net/Osint613/status/2047232879982149827#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T14:05:28+05:30",
+      "time": "23 Apr, 02:05 PM",
+      "type": "tweets",
+      "content": "Iran says it has collected its first revenue from Strait of Hormuz tolls."
+    },
+    {
+      "title": "Reza Pahlavi:\n\n\"As long as this regime is in place, you will continue to face these threats. And they will only get worse. No deal will solve this. No negotiations will solve this. It is in their DNA.\"",
+      "link": "https://nitter.net/Osint613/status/2047230302414664096#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T13:55:14+05:30",
+      "time": "23 Apr, 01:55 PM",
+      "type": "tweets",
+      "content": "Reza Pahlavi:\n\n\"As long as this regime is in place, you will continue to face these threats. And they will only get worse. No deal will solve this. No negotiations will solve this. It is in their DNA.\""
+    },
+    {
+      "title": "Iran's exiled Prince Reza Pahlavi, speaking in Berlin:\n\n\"Iran's lead negotiator Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi are not pragmatists; they are not reformers, nor are the IRGC killers behind the curtains. They are different faces of the same machine.\"",
+      "link": "https://nitter.net/Osint613/status/2047230046230724868#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T13:54:13+05:30",
+      "time": "23 Apr, 01:54 PM",
+      "type": "tweets",
+      "content": "Iran's exiled Prince Reza Pahlavi, speaking in Berlin:\n\n\"Iran's lead negotiator Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi are not pragmatists; they are not reformers, nor are the IRGC killers behind the curtains. They are different faces of the same machine.\""
+    },
+    {
+      "title": "Iranian state TV airs footage of soldiers boarding two container ships in the Strait of Hormuz.",
+      "link": "https://nitter.net/Osint613/status/2047229626355724621#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T13:52:33+05:30",
+      "time": "23 Apr, 01:52 PM",
+      "type": "tweets",
+      "content": "Iranian state TV airs footage of soldiers boarding two container ships in the Strait of Hormuz."
+    },
+    {
+      "title": "District Administration of Kathua, J&K will conduct a civil defence mock drill, including an air raid and blackout exercise, across the district today at 8:30 PM.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2047229215465250909#m",
+      "source": "WarMonitor",
+      "sort_key": "2026-04-23T13:50:55+05:30",
+      "time": "23 Apr, 01:50 PM",
+      "type": "tweets",
+      "content": "District Administration of Kathua, J&K will conduct a civil defence mock drill, including an air raid and blackout exercise, across the district today at 8:30 PM."
+    },
+    {
+      "title": "JUST IN \ud83d\udd34\n\nIDF: \u201cThe Air Force successfully intercepted a suspicious aerial target in southern Lebanon\u201d\n\nAccording to President Trump, what is Israel suppose to do?",
+      "link": "https://nitter.net/Osint613/status/2047228730490139047#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T13:48:59+05:30",
+      "time": "23 Apr, 01:48 PM",
+      "type": "tweets",
+      "content": "JUST IN \ud83d\udd34\n\nIDF: \u201cThe Air Force successfully intercepted a suspicious aerial target in southern Lebanon\u201d\n\nAccording to President Trump, what is Israel suppose to do?"
+    },
+    {
+      "title": "Islamic Regime: \u201cThe revenue from the Strait of Hormuz tolls has been deposited into the Central Bank account\u201d \n\nAccording to the regime, paying for passage of the Hormuz have been continuing.",
+      "link": "https://nitter.net/Osint613/status/2047228072085131266#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T13:46:22+05:30",
+      "time": "23 Apr, 01:46 PM",
+      "type": "tweets",
+      "content": "Islamic Regime: \u201cThe revenue from the Strait of Hormuz tolls has been deposited into the Central Bank account\u201d \n\nAccording to the regime, paying for passage of the Hormuz have been continuing."
+    },
     {
       "title": "District Administration Kathua to conduct Civil Defence air raid/blackout mock drill today at 8:30 PM across Kathua.",
       "link": "https://nitter.net/Goreunit/status/2047226278315798691#m",
@@ -2143,15 +2179,6 @@
       "time": "23 Apr, 12:55 PM",
       "type": "tweets",
       "content": "India Africa Forum Summit logo:"
-    },
-    {
-      "title": "Section 3/4 Official Secrets Acts 1923 and 61(2) BNS 2023* has been registered at PS Khilchian, Amritsar against one Bikramjit Singh alias Vicky , related to espionage and leaking critical information to Pakistan.\n\nSource : AmritsarRuralPolice (X)/Dainik Bhaskar",
-      "link": "https://nitter.net/AngryRumi7/status/2047212972557406463#m",
-      "source": "AngryRumi",
-      "sort_key": "2026-04-23T12:46:22+05:30",
-      "time": "23 Apr, 12:46 PM",
-      "type": "tweets",
-      "content": "Section 3/4 Official Secrets Acts 1923 and 61(2) BNS 2023* has been registered at PS Khilchian, Amritsar against one Bikramjit Singh alias Vicky , related to espionage and leaking critical information to Pakistan.\n\nSource : AmritsarRuralPolice (X)/Dainik Bhaskar"
     },
     {
       "title": "The IRGC Navy seized two container ships in the Strait of Hormuz this morning and released footage of the operation.",
@@ -2512,60 +2539,6 @@
       "time": "23 Apr, 05:08 AM",
       "type": "tweets",
       "content": "54 homes were destroyed in a fast-moving wildfire in Brantley County, Georgia.\n\nThe county manager says the only reported injury is a firefighter who is expected to recover, and so far no deaths have been reported."
-    },
-    {
-      "title": "U.S. Navy Secretary John Phelan was fired, Reuters and Fox News reports.",
-      "link": "https://nitter.net/Osint613/status/2047082452313604551#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T04:07:44+05:30",
-      "time": "23 Apr, 04:07 AM",
-      "type": "tweets",
-      "content": "U.S. Navy Secretary John Phelan was fired, Reuters and Fox News reports."
-    },
-    {
-      "title": "BREAKING: \ud83d\udd34\n\nPentagon: U.S. Secretary of the Navy John Phelan is departing the Trump administration, effective immediately.",
-      "link": "https://nitter.net/Osint613/status/2047069835968811426#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T03:17:36+05:30",
-      "time": "23 Apr, 03:17 AM",
-      "type": "tweets",
-      "content": "BREAKING: \ud83d\udd34\n\nPentagon: U.S. Secretary of the Navy John Phelan is departing the Trump administration, effective immediately."
-    },
-    {
-      "title": "Hezbollah members Mouhamad Hourani and Ali Bazzi were eliminated in an IDF targeted strike.",
-      "link": "https://nitter.net/Osint613/status/2047057637485740103#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T02:29:07+05:30",
-      "time": "23 Apr, 02:29 AM",
-      "type": "tweets",
-      "content": "Hezbollah members Mouhamad Hourani and Ali Bazzi were eliminated in an IDF targeted strike."
-    },
-    {
-      "title": "Al-Akhbar, a Lebanese outlet linked to Hezbollah, reports that the body of its journalist Amal Khalil was recovered from the rubble of a building hit by the IDF in A-Tiri.",
-      "link": "https://nitter.net/Osint613/status/2047056296663228457#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T02:23:48+05:30",
-      "time": "23 Apr, 02:23 AM",
-      "type": "tweets",
-      "content": "Al-Akhbar, a Lebanese outlet linked to Hezbollah, reports that the body of its journalist Amal Khalil was recovered from the rubble of a building hit by the IDF in A-Tiri."
-    },
-    {
-      "title": "JUST IN \ud83d\udd34\n\nU.S. forces have intercepted at least 3 Iranian oil tankers in Asian waters, according to shipping and maritime security sources.",
-      "link": "https://nitter.net/Osint613/status/2047054343623286945#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T02:16:02+05:30",
-      "time": "23 Apr, 02:16 AM",
-      "type": "tweets",
-      "content": "JUST IN \ud83d\udd34\n\nU.S. forces have intercepted at least 3 Iranian oil tankers in Asian waters, according to shipping and maritime security sources."
-    },
-    {
-      "title": "Reports from Iran: Over 100 Basij members were hospitalized in Parand, Tehran, after their food was poisoned by an unidentified individual. One Basij member, according to the report died from severe poisoning.",
-      "link": "https://nitter.net/Osint613/status/2047050397710233774#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T02:00:21+05:30",
-      "time": "23 Apr, 02:00 AM",
-      "type": "tweets",
-      "content": "Reports from Iran: Over 100 Basij members were hospitalized in Parand, Tehran, after their food was poisoned by an unidentified individual. One Basij member, according to the report died from severe poisoning."
     },
     {
       "title": "RT by @NetramDefence: On April 22, 2026, security forces dismantled six illegal bunkers in Kangpokpi district: two in Tingpibung Village, three on Lungter Hill, and one in Leplen Village. Additionally, twelve empty 7.62 mm ammunition cases were recovered from the locations.",
@@ -3009,15 +2982,6 @@
       "content": "R to @NetramDefence: Orders for high-resolution satellite frequency ranges in Pahalgam from a US-based firm peaked in February 2025, with purchases made on the 12th, 15th, 18th, and 22nd. There were no orders in March. An order was placed on April 12, 2025, just ten days before the attack.\n\n11/13"
     },
     {
-      "title": "R to @NetramDefence: Adil Houssain Thoker was a resident of Guree Bijbehara. He came into the limelight in  his 20s when he was seen attending funerals of terrorists in South Kashmir in 2018. The  same year, he went to Pakistan on a VTD Valid Travel Document via the Wagah border  and disappeared thereafter.\n\n10/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842780643955023#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:22+05:30",
-      "time": "22 Apr, 12:15 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Adil Houssain Thoker was a resident of Guree Bijbehara. He came into the limelight in  his 20s when he was seen attending funerals of terrorists in South Kashmir in 2018. The  same year, he went to Pakistan on a VTD Valid Travel Document via the Wagah border  and disappeared thereafter.\n\n10/13"
-    },
-    {
       "title": "EU statement on anniversary of the TERRORIST attack at Pahalgam.",
       "link": "https://nitter.net/Goreunit/status/2046835484383691054#m",
       "source": "War & Gore",
@@ -3245,6 +3209,15 @@
       "thumbnail": "https://img.youtube.com/vi/IWFxGt8HUVg/mqdefault.jpg"
     },
     {
+      "title": "Defence Updates - 2 ISI Operative Arrested, India T72 & T90 Tanks Upgrade, Philippines BrahMos Power",
+      "link": "https://www.youtube.com/watch?v=T5C7jyw0cIk",
+      "source": "Defense Squad",
+      "sort_key": "2026-04-21T22:11:46+05:30",
+      "time": "21 Apr, 10:11 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/T5C7jyw0cIk/mqdefault.jpg"
+    },
+    {
       "title": "Rafale Deal Cancel? \ud83d\ude33 India\u2019s BIG Condition SHOCKS France |,KF-21 Entry Confirmed?",
       "link": "https://www.youtube.com/watch?v=Y2-FRlUVjJc",
       "source": "Indian Defense News",
@@ -3282,7 +3255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:46 PM IST",
-    "next_update": "02:46 PM IST"
+    "last_updated": "02:22 PM IST",
+    "next_update": "03:22 PM IST"
   }
 }
