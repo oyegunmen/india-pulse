@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Iran receives first payment from commercial vessel transiting Strait of Hormuz",
+      "link": "https://www.newsonair.gov.in/iran-receives-first-payment-from-commercial-vessel-transiting-strait-of-hormuz/",
+      "source": "AIR International",
+      "sort_key": "2026-04-23T20:20:33+05:30",
+      "time": "23 Apr, 08:20 PM",
+      "type": "news",
+      "description": "Iran announced it has collected its first payment from a commercial vessel transiting the Strait of Hormuz. If confirmed, it is a move without modern "
+    },
+    {
+      "title": "Indian seafarer among crew of ship held by Iran in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/national/indian-seafarer-among-crew-of-ship-held-by-iran-in-strait-of-hormuz/article70898158.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T20:16:54+05:30",
+      "time": "23 Apr, 08:16 PM",
+      "type": "news",
+      "description": "Of two vessels in Iranian custody, one Indian is among the 21 crew onboard Epaminondas"
+    },
+    {
+      "title": "India and South Korea prioritise more reciprocal and mutually beneficial partnerships: Union Minister Piyush Goyal",
+      "link": "https://www.newsonair.gov.in/india-and-south-korea-prioritise-more-reciprocal-and-mutually-beneficial-partnerships-union-minister-piyush-goyal/",
+      "source": "AIR National",
+      "sort_key": "2026-04-23T20:09:05+05:30",
+      "time": "23 Apr, 08:09 PM",
+      "type": "news",
+      "description": "Union Minister of Commerce and Industry Piyush Goyal has said that India and the Republic of South Korea have decided to go beyond the earlier agreed "
+    },
+    {
+      "title": "India's Infosys forecasts weak revenue growth as AI-driven caution dents IT spending - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZExETUc3TW1hOWNIMDVsTXo3a3lWSFZPeHE0TlBFSWVWZUw4RTJMa3Y2MXlQMl9jeTRySHRST29PTHJQaUZ3RzJ3R1o3ZjV5TEdCQ2lodTVIS3J5MjR2Mms2dVE1OXV6Y0sySFRuTXR4Ty1GdElKeHIwYUkxa0VpOUUwMG8xazI3THF1N3RUNUxfMUdLQzZlTDI5dUN3Q2FzMlBDZkl3cldrcS1FYkZBQklOZHJzNkFDSU5nWXln?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-23T20:02:28+05:30",
+      "time": "23 Apr, 08:02 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Israel-Iran LIVE: Trump orders U.S. Navy to 'shoot, kill' small boats laying mines in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T19:56:44+05:30",
+      "time": "23 Apr, 07:56 PM",
+      "type": "news",
+      "description": "Iran\u2019s vow not to reopen the Strait of Hormuz so long as a U.S. naval blockade remained in place"
+    },
+    {
+      "title": "Military pushes for private participation in space, more Indian satellites. \u2018Can\u2019t rely on single entity\u2019",
+      "link": "https://theprint.in/defence/military-pushes-for-private-participation-in-space-more-indian-satellites-cant-rely-on-single-entity/2912428/",
+      "source": "The Print",
+      "sort_key": "2026-04-23T19:50:50+05:30",
+      "time": "23 Apr, 07:50 PM",
+      "type": "news",
+      "description": "CDS Anil Chauhan says future space capability will not be built by government agencies alone. \u2018It will be co-developed with industry, start-ups, and t"
+    },
+    {
       "title": "Trump orders U.S. military to 'shoot and kill' Iranian small boats choking Strait of Hormuz",
       "link": "https://www.thehindu.com/news/international/trump-us-military-shoot-and-kill-order-strait-of-hormuz-blockade-iran-boats/article70897694.ece",
       "source": "The Hindu",
@@ -8,15 +62,6 @@
       "time": "23 Apr, 07:11 PM",
       "type": "news",
       "description": "Pentagon blasted as cherry picking and false a news report saying that the dept. assessed it could take six months to completely clear the Strait of H"
-    },
-    {
-      "title": "Israel-Iran LIVE: Trump orders U.S. Navy to 'shoot, kill' small boats laying mines in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T18:59:08+05:30",
-      "time": "23 Apr, 06:59 PM",
-      "type": "news",
-      "description": "Iran\u2019s vow not to reopen the Strait of Hormuz so long as a U.S. naval blockade remained in place"
     },
     {
       "title": "\u2018Sealed up tight\u2019: Trump says US controls Hormuz until Iran agrees to deal",
@@ -109,15 +154,6 @@
       "description": ""
     },
     {
-      "title": "India's inflation risks rise on supply-side disruptions, central bank says - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTdMQ3hXT1MxTFR6ZXdpUHVSNWZCenk4eHpXMVpoNktBY3oyODR1QlRZNEI2ZTJBRGp1OXhsSU8ySko0a0piV1lVQl9XZUZ2QmlFeVVlQ1BuMjBOTmdtWFBGVVBMSmZfVGgzRTdGTTVFaEZ4RWhQT0VzLTdZNXp0NjUtc3VyVTd5Qlc4?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-23T18:19:24+05:30",
-      "time": "23 Apr, 06:19 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Russia says it's maintaining oil supplies but has no new OPEC+ initiatives",
       "link": "https://www.thehindu.com/news/international/russia-says-its-maintaining-oil-supplies-but-has-no-new-opec-initiatives/article70897206.ece",
       "source": "The Hindu",
@@ -204,15 +240,6 @@
       "source": "Al Jazeera",
       "sort_key": "2026-04-23T17:35:21+05:30",
       "time": "23 Apr, 05:35 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "India's Infosys pegs fiscal year 2027 revenue growth at 1.5%-3.5% - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZExETUc3TW1hOWNIMDVsTXo3a3lWSFZPeHE0TlBFSWVWZUw4RTJMa3Y2MXlQMl9jeTRySHRST29PTHJQaUZ3RzJ3R1o3ZjV5TEdCQ2lodTVIS3J5MjR2Mms2dVE1OXV6Y0sySFRuTXR4Ty1GdElKeHIwYUkxa0VpOUUwMG8xazI3THF1N3RUNUxfMUdLQzZlTDI5dUN3Q2FzMlBDZkl3cldrcS1FYkZBQklOZHJzNkFDSU5nWXln?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-23T17:33:33+05:30",
-      "time": "23 Apr, 05:33 PM",
       "type": "news",
       "description": ""
     },
@@ -431,15 +458,6 @@
       "time": "23 Apr, 03:39 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "NCB issued advisory for Indian travellers on new anti-narcotics laws in Maldives",
-      "link": "https://www.newsonair.gov.in/ncb-issued-advisory-for-indian-travellers-on-new-anti-narcotics-laws-in-maldives/",
-      "source": "AIR National",
-      "sort_key": "2026-04-23T15:32:23+05:30",
-      "time": "23 Apr, 03:32 PM",
-      "type": "news",
-      "description": "The Narcotics Control Bureau (NCB) has issued an advisory to all Indian citizens travelling to or visiting the Maldives following the recent strengthe"
     },
     {
       "title": "Iran says won't reopen Hormuz if U.S. upholds naval blockade",
@@ -928,15 +946,6 @@
       "description": ""
     },
     {
-      "title": "Strait of Hormuz cannot be opened due to ceasefire breaches: Iran",
-      "link": "https://www.newsonair.gov.in/strait-of-hormuz-cannot-be-opened-due-to-ceasefire-breaches-iran/",
-      "source": "AIR International",
-      "sort_key": "2026-04-23T08:11:49+05:30",
-      "time": "23 Apr, 08:11 AM",
-      "type": "news",
-      "description": "Iran has said that the Strait of Hormuz cannot be opened due to ceasefire breaches by the US and Israel. In a post on Social media, Iran&#8217;s chief"
-    },
-    {
       "title": "US military says 31 vessels turned back in Iran port blockade, mostly oil tankers",
       "link": "https://economictimes.indiatimes.com/news/defence/us-military-says-31-vessels-turned-back-in-iran-port-blockade-mostly-oil-tankers/articleshow/130454999.cms",
       "source": "Economic Times",
@@ -1315,6 +1324,15 @@
       "description": ""
     },
     {
+      "title": "HCLTech's $4.5 billion wipeout sparks broad IT selloff, reviving doubts over sector recovery - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXk5R2s2MVQ5SFpleldMSkRwdU5CMGRUU3dOdlZtODlaXzNEMHAyZWkwSjJVVi1xNW1WOFZlZFN4Sm1CR3ZmdE84TE1zRTBZZ3I2NnhUdVJOX1FDdFhoZGxGdHFkM2gwbzREYVc5MXNDQVZKbFd5ODU4bVFJSlVFVUZULTFGVHRFZGZrb0dfMXcxcFlsZkxUUDRfbmRIc3pRWGNVZVV0d3lDWUw0TVNmOVFYZGt5U1F1VXc?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-22T16:47:13+05:30",
+      "time": "22 Apr, 04:47 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Nepal Home Minister Sudhan Gurung resigns amid questions over financial conduct",
       "link": "https://www.thehindu.com/news/international/nepal-home-minister-sudhan-gurung-resigns-april-22-2026/article70892347.ece",
       "source": "The Hindu",
@@ -1675,15 +1693,6 @@
       "description": ""
     },
     {
-      "title": "HCLTech's $4.5 billion wipeout sparks broad IT selloff, reviving doubts over sector recovery - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXk5R2s2MVQ5SFpleldMSkRwdU5CMGRUU3dOdlZtODlaXzNEMHAyZWkwSjJVVi1xNW1WOFZlZFN4Sm1CR3ZmdE84TE1zRTBZZ3I2NnhUdVJOX1FDdFhoZGxGdHFkM2gwbzREYVc5MXNDQVZKbFd5ODU4bVFJSlVFVUZULTFGVHRFZGZrb0dfMXcxcFlsZkxUUDRfbmRIc3pRWGNVZVV0d3lDWUw0TVNmOVFYZGt5U1F1VXc?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-22T09:23:00+05:30",
-      "time": "22 Apr, 09:23 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Pentagon intel says Iran retains 'key military capabilities,' contradicting Trump-Hegseth claims: US Media Report",
       "link": "https://economictimes.indiatimes.com/news/defence/pentagon-intel-says-iran-retains-key-military-capabilities-contradicting-trump-hegseth-claims-us-media-report/articleshow/130431406.cms",
       "source": "Economic Times",
@@ -1999,15 +2008,6 @@
       "description": ""
     },
     {
-      "title": "Iran Foreign Ministry condemns arrests in UAE as 'baseless'",
-      "link": "https://www.thehindu.com/news/international/iran-foreign-ministry-condemns-arrests-in-uae-as-baseless/article70889334.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-21T21:05:24+05:30",
-      "time": "21 Apr, 09:05 PM",
-      "type": "news",
-      "description": "Iran accuses Gulf states of allowing U.S. forces to carry out attacks from their territory, and launched missile and drone strikes against what it cal"
-    },
-    {
       "title": "NATO intercepts Russian military aircraft flying over Baltic Sea",
       "link": "https://economictimes.indiatimes.com/news/defence/nato-intercepts-russian-military-aircraft-flying-over-baltic-sea/articleshow/130421197.cms",
       "source": "Economic Times",
@@ -2042,63 +2042,27 @@
       "time": "21 Apr, 08:35 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Iran-US Islamabad talks: Why Tehran is delaying Round 2, and what happens if ceasefire expires",
-      "link": "https://indianexpress.com/article/world/us-iran-islamabad-talks-trump-ceasefire-expiry-jd-vance-qalibaf-oil-prices-10648303/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-21T20:00:20+05:30",
-      "time": "21 Apr, 08:00 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "India's HCLTech forecasts weak annual revenue growth as clients rein in discretionary spends - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmx3MlZKQldnX2JvWG9KbmNZVHFLM2hQWl9SZkd2WlpYVWF1WHFkc2NUT0N1U3FtWWRvQmtYQXFUaTI5VUo4TmdKdmhQdlBNT2p5V18yUDhPa0xNeEE1emJJX2pwLTdyRUhqT1pwWl9wSUtZWndsUUxvSFFMSHpmbGNOckVUZGxZc2VOVzhR?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-21T19:57:23+05:30",
-      "time": "21 Apr, 07:57 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "US-Iran war: US military forces board sanctioned oil tanker in Indian Ocean, Pentagon says",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-war-military-forces-board-sanctioned-oil-tanker-in-indian-ocean-pentagon-says/articleshow/130419794.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-21T19:44:03+05:30",
-      "time": "21 Apr, 07:44 PM",
-      "type": "news",
-      "description": "American forces have seized an oil tanker in international waters. The vessel, the M/T Tifani, was previously sanctioned for smuggling Iranian oil. Th"
-    },
-    {
-      "title": "Defence Chief General Anil Chauhan holds high-level talks on evolving nature of conflict in UK",
-      "link": "https://economictimes.indiatimes.com/news/defence/defence-chief-general-anil-chauhan-holds-high-level-talks-on-evolving-nature-of-conflict-in-uk/articleshow/130420065.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-21T19:41:59+05:30",
-      "time": "21 Apr, 07:41 PM",
-      "type": "news",
-      "description": "During a pivotal visit to London, India's Chief of Defence Staff, General Anil Chauhan, engaged in crucial dialogues surrounding modern military strat"
-    },
-    {
-      "title": "India's Tata Elxsi snaps five-quarter run of profit decline on transport, media units growth - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVFLVGdaX1lPWWpicDFRUnB1Sm84YXlyRDlfNVZ5WDd2dTdTUDRNSjlsT0o3NUlXQ3NSejNPazZVeUhteU5yNm9zeHR4TVlOZk80cTdyRVU0NkNtdlY2YnltUzdLTy0tckFteklPeXhVSWs0ZU5qSXBnMlNVbUJhN3FWTUJpblFtWmNpUmFLY0liN1NYek5OcWt0TTlER1ZURFhwTE1wZXNrS095WC1CcGtBUktRMjJiOUhNVVRqcUJCUms?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-21T19:30:52+05:30",
-      "time": "21 Apr, 07:30 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Meet Gen Ahmad Vahidi, the man who now calls the shots in Iran",
-      "link": "https://economictimes.indiatimes.com/news/defence/meet-gen-ahmad-vahidi-the-man-who-now-calls-the-shots-in-iran/articleshow/130419601.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-21T19:26:11+05:30",
-      "time": "21 Apr, 07:26 PM",
-      "type": "news",
-      "description": "Iran's internal hardliners are now dictating policy. Maj. Gen. Ahmad Vahidi, a key figure, leads the Islamic Revolutionary Guard Corps. His influence "
     }
   ],
   "tweets": [
+    {
+      "title": "South Africa celebrates 'Freedom Day' in Delhi. HC @AnilSooklalji leads the celebration.",
+      "link": "https://nitter.net/sidhant/status/2047316604816658754#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-23T19:38:10+05:30",
+      "time": "23 Apr, 07:38 PM",
+      "type": "tweets",
+      "content": "South Africa celebrates 'Freedom Day' in Delhi. HC @AnilSooklalji leads the celebration."
+    },
+    {
+      "title": "Absolute insane level of cope, expected from Pakistani though \ud83e\udd23",
+      "link": "https://nitter.net/elitepredatorss/status/2047313200245559791#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-23T19:24:38+05:30",
+      "time": "23 Apr, 07:24 PM",
+      "type": "tweets",
+      "content": "Absolute insane level of cope, expected from Pakistani though \ud83e\udd23"
+    },
     {
       "title": "India \"Great Country\", Says Trump\n\n\"India is a great country with a very good friend of mine at the top,\" says Trump after 'hell-hole' row",
       "link": "https://nitter.net/WarMonitorINTL/status/2047309629345141105#m",
@@ -2395,15 +2359,6 @@
       "time": "23 Apr, 04:18 PM",
       "type": "tweets",
       "content": "We are for peace, dialogue & diplomacy, says MEA Spox Randhir Jaiswal on West Asia situation"
-    },
-    {
-      "title": "India Reacts on Customs Duty being implemented at the border by Nepal Govt.",
-      "link": "https://nitter.net/sidhant/status/2047266115827765700#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-23T16:17:33+05:30",
-      "time": "23 Apr, 04:17 PM",
-      "type": "tweets",
-      "content": "India Reacts on Customs Duty being implemented at the border by Nepal Govt."
     },
     {
       "title": "The civil defence mock drill concluded successfully in Kishtwar dist of Jammu UT.\n\nShared visual is from the District Hospital, Kishtwar town.\n\nCredit @AsifNaik",
@@ -3088,15 +3043,6 @@
       "time": "21 Apr, 09:10 PM",
       "type": "tweets",
       "content": "Just witnessed Pakistanis claiming building fungus and dirt patches on ground as hits on Udhampur \ud83e\udd23"
-    },
-    {
-      "title": "RT by @elitepredatorss: All the Pakistanis crying that Indian media shared a CNIC which has a formatting issue. Here is the phone numbers linked with this CNIC; go and check yourself if you have resources to verify.",
-      "link": "https://nitter.net/EPINSIGHTS/status/2046593372593566055#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-21T19:44:18+05:30",
-      "time": "21 Apr, 07:44 PM",
-      "type": "tweets",
-      "content": "RT by @elitepredatorss: All the Pakistanis crying that Indian media shared a CNIC which has a formatting issue. Here is the phone numbers linked with this CNIC; go and check yourself if you have resources to verify."
     }
   ],
   "youtube": [
@@ -3165,7 +3111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 PM IST",
-    "next_update": "08:24 PM IST"
+    "last_updated": "08:24 PM IST",
+    "next_update": "09:24 PM IST"
   }
 }
