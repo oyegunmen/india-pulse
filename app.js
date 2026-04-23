@@ -17,7 +17,7 @@ let allData = {};
                 
                 showTab('news');
             } catch(e) {
-                document.querySelectorAll('.news-grid').forEach(g => g.innerHTML = "<p>Error loading data.json.</p>");
+                document.querySelectorAll('.news-grid').forEach(g => g.innerHTML = "<p>We’re having trouble loading the data. Please <a href='/about.html#contact' target='_blank'>report</a> this issue here</p>");
             }
         }
 
@@ -72,7 +72,7 @@ let allData = {};
                     message = `
                         <div class="error-state" style="grid-column: 1/-1; text-align: center; padding: 20px;">
                             <p>There is a known documented issue with the YouTube RSS feed intermittently returning error 404 due to a platform bug.</p>
-                            <p>Expect downtime for youtube feed from <a href="https://www.reddit.com/r/youtube/comments/1r61jpo/all_youtube_channel_rss_feeds_are_down_return_404/" target="_blank" style="text-decoration: underline;">10 AM – 1:30 PM</a> IST, please check back shortly.</p>
+                            <p>Expect downtime for youtube feed from <a href="https://www.reddit.com/r/youtube/comments/1r61jpo/all_youtube_channel_rss_feeds_are_down_return_404/" target="_blank" style="text-decoration: underline;">8 AM – 1 PM</a> IST, please check back shortly.</p>
                             <a href="https://www.reddit.com/r/youtube/search/?q=RSS+404" target="_blank" style="color: #ff0000; text-decoration: underline;">
                                 View complaints of User
                             </a>

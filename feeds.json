@@ -19,13 +19,13 @@
     },
     {
         "type": "news",
-        "name": "DD News International",
+        "name": "AIR International",
         "url": "https://www.newsonair.gov.in/category/international/feed/",
         "hide_desc": false
     },
     {
         "type": "news",
-        "name": "DD News National",
+        "name": "AIR National",
         "url": "https://www.newsonair.gov.in/category/national/feed/",
         "hide_desc": false
     },

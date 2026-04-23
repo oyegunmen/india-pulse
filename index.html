@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Indian Defense Pulse</title>
+    <title>Indian Pulse</title>
     <link rel="icon" type="image/png" href="img/favicon.png">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,17 +40,21 @@
 
     <div class="hero-features">
         <div class="feature-item"><span>✓</span>Ad-Free</div>
-        <div class="feature-item"><span>✓</span>No Signup</div>
+        <div class="feature-item"><span>✓</span>Anonymous</div>
+        <div class="feature-item"><span>✓</span>Curated</div>
         <div class="feature-item"><span>✓</span>Centralized</div>
-        <div class="feature-item"><span>✓</span>Feed Curation</div>
+        <div class="feature-item"><span>✓</span>Lightweight</div>
     </div>
 
-    <div>
-        <button class="button outline special-btn" onclick="toggleFilterMenu()">Filter Sources 🔎︎</button>
-        <div id="filter-menu">
-            <strong id="filter-title">Filter Sources:</strong>
-            <div id="site-checklist" class="checklist" style="margin-top:10px;"></div>
+    <div style="display: flex; justify-content: space-between; align-items: center; position: relative;">
+        <div>
+            <button class="button outline special-btn" onclick="toggleFilterMenu()">Filter Sources 🔎︎</button>
+            <div id="filter-menu" style="position: absolute; z-index: 1000;">
+                <strong id="filter-title">Filter Sources:</strong>
+                <div id="site-checklist" class="checklist" style="margin-top:10px;"></div>
+            </div>
         </div>
+        <a href="about.html#sources" class="source-link">Sources List ↗</a>
     </div>
 
     <main id="news-section" class="news-grid"></main>
