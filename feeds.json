@@ -49,6 +49,18 @@
     },
     {
         "type": "news",
+        "name": "Swarajya",
+        "url": "https://news.google.com/rss/search?q=defense+india+site:swarajyamag.com&hl=en-IN&gl=IN&ceid=IN:en",
+        "hide_desc": true
+    },
+    {
+        "type": "news",
+        "name": "IDRW",
+        "url": "https://news.google.com/rss/search?q=site%3Ahttps%3A%2F%2Fidrw.org&hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "hide_desc": true
+    },
+    {
+        "type": "news",
         "name": "India Strategic",
         "url": "https://www.indiastrategic.in/feed/",
         "hide_desc": false
