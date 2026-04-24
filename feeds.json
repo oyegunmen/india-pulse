@@ -25,12 +25,6 @@
     },
     {
         "type": "news",
-        "name": "AIR National",
-        "url": "https://www.newsonair.gov.in/category/national/feed/",
-        "hide_desc": false
-    },
-    {
-        "type": "news",
         "name": "Economic Times",
         "url": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms",
         "hide_desc": false
@@ -55,12 +49,6 @@
     },
     {
         "type": "news",
-        "name": "IDRW",
-        "url": "https://news.google.com/rss/search?q=site%3Ahttps%3A%2F%2Fidrw.org&hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "hide_desc": true
-    },
-    {
-        "type": "news",
         "name": "India Strategic",
         "url": "https://www.indiastrategic.in/feed/",
         "hide_desc": false
@@ -76,18 +64,6 @@
         "name": "Foreign Policy",
         "url": "https://foreignpolicy.com/tag/india/feed/",
         "hide_desc": false
-    },
-    {
-        "type": "news",
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/search?q=reuters%20India&hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "hide_desc": true
-    },
-    {
-        "type": "news",
-        "name": "Al Jazeera",
-        "url": "https://news.google.com/rss/search?q=Al%20Jazeera%20India&hl=en-IN&gl=IN&ceid=IN%3Aen",
-        "hide_desc": true
     },
     {
         "type": "tweets",
