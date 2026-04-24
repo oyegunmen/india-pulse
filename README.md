@@ -1,3 +1,4 @@
+![Monitor the situation](img/social-preview.png)
 Static Website to Monitor the Situation.
 
 ## Project Purpose
