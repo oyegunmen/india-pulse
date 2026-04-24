@@ -1,7 +1,7 @@
 Static Website to Monitor the Situation.
 
 ## Project Purpose
-[Indian News Pulse](https://indipulse.in) is a specialized, lightweight aggregator for Indian Defense and Geopolitical news, social media updates (X/Twitter), and YouTube content.
+[India Pulse](https://indipulse.in) is a aggregator website for Indian Defense and Geopolitical news, social media updates (X/Twitter), and YouTube content.
 * **Target Audience:** Non-technical Indian users looking for a clean, ad-free monitoring tool.
 * **Core Value:** Ad-free, Anonymous, Curated, and Centralized.
 * **Guiding Principle:** Avoid LLM summaries, vector databases, or complex AI features to keep the project sustainable on free hosting resources.
