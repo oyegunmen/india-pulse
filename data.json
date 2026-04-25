@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Bangladesh issues nationwide security alert over possible militant attacks",
+      "link": "https://www.thehindu.com/news/international/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks/article70904952.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T15:09:08+05:30",
+      "time": "25 Apr, 03:09 PM",
+      "type": "news",
+      "description": "\"The alert has been issued based on intelligence reports,\u201d a police headquarters (PHQ) official said, requesting anonymity. The official described the"
+    },
+    {
+      "title": "Trump has paused 3 Mideast wars, but grievances remain and could reignite them",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-has-paused-3-mideast-wars-but-grievances-remain-and-could-reignite-them/articleshow/130511459.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-25T14:29:11+05:30",
+      "time": "25 Apr, 02:29 PM",
+      "type": "news",
+      "description": "The Middle East faces a fragile peace after recent events. Conditional ceasefires are in place, but underlying issues persist. Millions remain displac"
+    },
+    {
+      "title": "Iran executes man over 'mission' for Israel's spy agency",
+      "link": "https://www.thehindu.com/news/international/iran-executes-man-over-mission-for-israels-spy-agency/article70904834.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T14:22:42+05:30",
+      "time": "25 Apr, 02:22 PM",
+      "type": "news",
+      "description": "Erfan Kiani was hanged after his sentence was upheld by the country's Supreme Court, the judiciary's Mizan Online website said."
+    },
+    {
       "title": "Israel-Iran war LIVE: Iran Foreign Minister Araghchi meets Pakistan Army chief Munir",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
       "source": "The Hindu",
@@ -71,15 +98,6 @@
       "time": "25 Apr, 01:43 PM",
       "type": "news",
       "description": "Russia has been launching smaller \u2060barrages of dozens of drones every night at Ukraine, interspersing them \u200cwith occasional large-scale attacks that u"
-    },
-    {
-      "title": "Iran executes man over 'mission' for Israel's spy agency",
-      "link": "https://www.thehindu.com/news/international/iran-executes-man-over-mission-for-israels-spy-agency/article70904834.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T13:35:00+05:30",
-      "time": "25 Apr, 01:35 PM",
-      "type": "news",
-      "description": "Erfan Kiani was hanged after his sentence was upheld by the country's Supreme Court, the judiciary's Mizan Online website said."
     },
     {
       "title": "Iran executes atomic agency worker over \u2018spying\u2019 charge, hangs protester as crackdown intensifies",
@@ -415,7 +433,7 @@
       "description": "In the United States, the Justice Department has decided to adopt firing squads as a permitted method of execution as the Trump administration moves t"
     },
     {
-      "title": "US Iran War News Live Updates: Iran\u2019s IRGC arrests 240 suspects in massive crackdown",
+      "title": "US Iran War News Live Updates: Commercial flights from Tehran\u2019s international airport resume",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T07:24:02+05:30",
@@ -1117,15 +1135,6 @@
       "description": "It is hard to imagine the grouping enduring another two and a half years of Trump."
     },
     {
-      "title": "Teenager becomes first Congo virus fatality in Pakistan's Karachi",
-      "link": "https://www.thehindu.com/news/international/congo-virus-pakistan-karachi-first-recorded-death-teenager-cchf/article70898425.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T22:39:40+05:30",
-      "time": "23 Apr, 10:39 PM",
-      "type": "news",
-      "description": "Concern among health officials in Karachi with the festival of Id al-Azha due next month"
-    },
-    {
       "title": "Pakistan-US thaw may influence India's response to future terror attacks, says ex-US envoy Juster",
       "link": "https://economictimes.indiatimes.com/news/defence/pakistan-us-thaw-may-influence-indias-response-to-future-terror-attacks-says-ex-us-envoy-juster/articleshow/130474240.cms",
       "source": "Economic Times",
@@ -1268,45 +1277,72 @@
       "time": "23 Apr, 04:06 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Defence and maritime cooperation of India-Africa driven by vision 'MAHASAGAR', says EAM S Jaishankar",
-      "link": "https://economictimes.indiatimes.com/news/defence/defence-and-maritime-cooperation-of-india-africa-driven-by-vision-mahasagar-says-eam-s-jaishankar/articleshow/130463500.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T15:02:49+05:30",
-      "time": "23 Apr, 03:02 PM",
-      "type": "news",
-      "description": "Highlighting the strategic dimension, Jaishankar said, \"Defence, security and maritime cooperation play an important role in our engagement. Driven by"
-    },
-    {
-      "title": "Watch: Iran captures container vessel in Strait of Hormuz, releases dramatic footage",
-      "link": "https://economictimes.indiatimes.com/news/defence/watch-video-iran-captures-container-vessel-in-strait-of-hormuz-releases-dramatic-footage/articleshow/130463014.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T14:57:47+05:30",
-      "time": "23 Apr, 02:57 PM",
-      "type": "news",
-      "description": "Iran's Revolutionary Guard has seized two commercial ships, including the Panama-flagged MSC Francesca, in the Strait of Hormuz, citing navigational v"
-    },
-    {
-      "title": "US orders citizens to flee Lebanon as fragile ceasefire ends, airport roads blocked",
-      "link": "https://indianexpress.com/article/world/us-state-dept-citizens-leave-lebanon-ceasefire-israel-10651705/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-23T14:48:27+05:30",
-      "time": "23 Apr, 02:48 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "China teases new aircraft carrier in video, vows to build up islands",
-      "link": "https://economictimes.indiatimes.com/news/defence/china-teases-new-aircraft-carrier-in-video-vows-to-build-up-islands/articleshow/130462715.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T14:30:18+05:30",
-      "time": "23 Apr, 02:30 PM",
-      "type": "news",
-      "description": "China has revealed a video hinting at a new nuclear-powered aircraft carrier. The nation also plans to strengthen its island infrastructure. These mov"
     }
   ],
   "tweets": [
+    {
+      "title": "R to @elitepredatorss: TATA Harrier as Primary Jammer vehicle.",
+      "link": "https://nitter.net/elitepredatorss/status/2047974829165625446#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T15:13:43+05:30",
+      "time": "25 Apr, 03:13 PM",
+      "type": "tweets",
+      "content": "R to @elitepredatorss: TATA Harrier as Primary Jammer vehicle."
+    },
+    {
+      "title": "R to @elitepredatorss: XUV700 as assault and weapon support vehicle.",
+      "link": "https://nitter.net/elitepredatorss/status/2047974814498099599#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T15:13:39+05:30",
+      "time": "25 Apr, 03:13 PM",
+      "type": "tweets",
+      "content": "R to @elitepredatorss: XUV700 as assault and weapon support vehicle."
+    },
+    {
+      "title": "R to @elitepredatorss: Armored Safari for day to day communte of high level dignitaries.",
+      "link": "https://nitter.net/elitepredatorss/status/2047974799008465101#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T15:13:36+05:30",
+      "time": "25 Apr, 03:13 PM",
+      "type": "tweets",
+      "content": "R to @elitepredatorss: Armored Safari for day to day communte of high level dignitaries."
+    },
+    {
+      "title": "R to @elitepredatorss: Force Urbania as command and control center on wheels.",
+      "link": "https://nitter.net/elitepredatorss/status/2047974786215862695#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T15:13:33+05:30",
+      "time": "25 Apr, 03:13 PM",
+      "type": "tweets",
+      "content": "R to @elitepredatorss: Force Urbania as command and control center on wheels."
+    },
+    {
+      "title": "Imagine a defence companies + auto manufacturer consortium of India who just build badass super protected vehicles.\n\nScorpion-N as a support and escord vehicle.",
+      "link": "https://nitter.net/elitepredatorss/status/2047974703525134540#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T15:13:13+05:30",
+      "time": "25 Apr, 03:13 PM",
+      "type": "tweets",
+      "content": "Imagine a defence companies + auto manufacturer consortium of India who just build badass super protected vehicles.\n\nScorpion-N as a support and escord vehicle."
+    },
+    {
+      "title": "RT by @OsintTV: SOG teams (@JmuKmrPolice)  on the hunt for Pakistani terrorists across J&K. The message is clear\u2014there is no safe haven. As the DGP J&K has stated: \u201cYou can run, but you can\u2019t hide.\u201d",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2047963369324609747#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-25T14:28:11+05:30",
+      "time": "25 Apr, 02:28 PM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: SOG teams (@JmuKmrPolice)  on the hunt for Pakistani terrorists across J&K. The message is clear\u2014there is no safe haven. As the DGP J&K has stated: \u201cYou can run, but you can\u2019t hide.\u201d"
+    },
+    {
+      "title": "Germany unveils military strategy, aiming to become Europe's strongest conventional force by 2039.\n\nDefense Minister Boris Pistorius\u2019s new \"Responsibility for Europe\" doctrine marks a major shift, identifying Russia as an existential threat.\n\nPillars of the 2039 roadmap:\n- Force expansion to 460,000 (Active + Reserve)\n- Defense spending to hit 3.5% of GDP by 2029\n- Heavy investment in AI, drones, and hypersonic defense\n- Germany to serve as the logistical \"backbone\" of NATO",
+      "link": "https://nitter.net/NetramDefence/status/2047962147968483827#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-25T14:23:20+05:30",
+      "time": "25 Apr, 02:23 PM",
+      "type": "tweets",
+      "content": "Germany unveils military strategy, aiming to become Europe's strongest conventional force by 2039.\n\nDefense Minister Boris Pistorius\u2019s new \"Responsibility for Europe\" doctrine marks a major shift, identifying Russia as an existential threat.\n\nPillars of the 2039 roadmap:\n- Force expansion to 460,000 (Active + Reserve)\n- Defense spending to hit 3.5% of GDP by 2029\n- Heavy investment in AI, drones, and hypersonic defense\n- Germany to serve as the logistical \"backbone\" of NATO"
+    },
     {
       "title": "RT by @NetramDefence: BREAKING: Tension escalated during the COCOMI mass rally in Imphal, Manipur on Saturday as a confrontation broke out between the rally participants and police personnel. Police fired tear gas shells to disperse the crowd and bring the situation under control.",
       "link": "https://nitter.net/KangleipakDaily/status/2047955935340204148#m",
@@ -1342,6 +1378,15 @@
       "time": "25 Apr, 01:19 PM",
       "type": "tweets",
       "content": "I stand by that statement even today, \"not an inch has been lost to China\": Former Army Chief Gen M.M Naravane to ANI"
+    },
+    {
+      "title": "RT by @NetramDefence: \ud83e\uddf5THREAD: First Bnei Menashe Immigrants from NE India Arrive in Israel\n\n1/4\n\n240 members of the Bnei Menashe community from Manipur & Mizoram arrived in Israel on April 23, 2026.\nThis marks the launch of Operation \u201cWings of Dawn\u201d.\n\n@govt_of_manipur",
+      "link": "https://nitter.net/MN_Unfiltered/status/2047938606539341876#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-25T12:49:47+05:30",
+      "time": "25 Apr, 12:49 PM",
+      "type": "tweets",
+      "content": "RT by @NetramDefence: \ud83e\uddf5THREAD: First Bnei Menashe Immigrants from NE India Arrive in Israel\n\n1/4\n\n240 members of the Bnei Menashe community from Manipur & Mizoram arrived in Israel on April 23, 2026.\nThis marks the launch of Operation \u201cWings of Dawn\u201d.\n\n@govt_of_manipur"
     },
     {
       "title": "Chinese ZFB-05 APC was stuck in snow somewhere at the India China line of actual control (LAC).\n\nThe same APC showed its poor performance in the failed  BOLIVIAN military coup too.",
@@ -1540,6 +1585,15 @@
       "time": "25 Apr, 07:04 AM",
       "type": "tweets",
       "content": "No meeting is planned to take place between Iran and the U.S. Iran's observations would be conveyed to Pakistan, Iran foreign ministry Esmaeil Bagaei says"
+    },
+    {
+      "title": "RT by @NetramDefence: Iran\u2019s position is in contrast to what Pakistan and US are saying.\n\nAraghchi said that the trip\u2019s purpose is regarding bilateral matters, and that their neighbors are priority.\n\nHowever there is news that Jared Kushner and Steve Witkoff will go to Pakistan for talks with Iran.",
+      "link": "https://nitter.net/Globalwatchh/status/2047779610054603232#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-25T02:17:59+05:30",
+      "time": "25 Apr, 02:17 AM",
+      "type": "tweets",
+      "content": "RT by @NetramDefence: Iran\u2019s position is in contrast to what Pakistan and US are saying.\n\nAraghchi said that the trip\u2019s purpose is regarding bilateral matters, and that their neighbors are priority.\n\nHowever there is news that Jared Kushner and Steve Witkoff will go to Pakistan for talks with Iran."
     },
     {
       "title": "RT by @OsintTV: BREAKING | \ud83c\uddf5\ud83c\uddf0\n\nPakistan\u2019s military regime again has increased petrol and diesel prices by Rs. 26.77 per litre.",
@@ -2181,15 +2235,6 @@
       "content": "Is the BJP winning in West Bengal?"
     },
     {
-      "title": "Pakistan is Hit Hard by Qatar's LNG Blackout\n\nPakistan is being forced back into the expensive spot LNG market for the first time in nearly 3 years as Qatar\u2019s LNG supply collapses amid the Gulf conflict.\n\nWhat\u2019s happening:\n- Damage to Ras Laffan LNG complex + Hormuz disruption choking supply\n-'20% of global LNG flows impacted\n- Pakistan facing power cuts, fuel shortages, industrial shutdowns\n-  Emergency tender issued for spot LNG cargoes (high prices)\n\nQatar\u2019s losses estimated at $20B/year, with repairs taking up to 5 years.",
-      "link": "https://nitter.net/NetramDefence/status/2047298558878245064#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-23T18:26:28+05:30",
-      "time": "23 Apr, 06:26 PM",
-      "type": "tweets",
-      "content": "Pakistan is Hit Hard by Qatar's LNG Blackout\n\nPakistan is being forced back into the expensive spot LNG market for the first time in nearly 3 years as Qatar\u2019s LNG supply collapses amid the Gulf conflict.\n\nWhat\u2019s happening:\n- Damage to Ras Laffan LNG complex + Hormuz disruption choking supply\n-'20% of global LNG flows impacted\n- Pakistan facing power cuts, fuel shortages, industrial shutdowns\n-  Emergency tender issued for spot LNG cargoes (high prices)\n\nQatar\u2019s losses estimated at $20B/year, with repairs taking up to 5 years."
-    },
-    {
       "title": "Journalist: Donald Trump has reposted a letter referring to India and other countries as \u201chellholes\u201d. Any response?\n\nMEA: We have seen some reports. That is where I leave it",
       "link": "https://nitter.net/WarMonitorINTL/status/2047280306261307673#m",
       "source": "War Monitor",
@@ -2197,33 +2242,6 @@
       "time": "23 Apr, 05:13 PM",
       "type": "tweets",
       "content": "Journalist: Donald Trump has reposted a letter referring to India and other countries as \u201chellholes\u201d. Any response?\n\nMEA: We have seen some reports. That is where I leave it"
-    },
-    {
-      "title": "Met someone last evening. The guy is into the waste processing business and was earlier in the scrap collection business. I am generally very curious about how different businesses work and what kind of potential they have in the future. Heard some shocking facts:\n\n- A seasoned mid-level scrap collector can earn up to \u20b910K\u2013\u20b912K per day. The game is to build a network of other waste collectors who can supply good-quality scrap.\n\n- The industry is booming, and businesses in it are extremely cash-rich. You\u2019re looking at millionaire-level annual numbers here.\n\nI have always had a theory in my mind: are there groups across countries motivated to damage infrastructure and steal public assets meant for citizens\u2019 safety and convenience?\n\nThings like construction materials, especially iron, bridge railings, reflectors, metal signboards, benches at bus stops.\n\nHe didn\u2019t confirm it outright, but he seemed uncomfortable. After gently pushing for a couple of minutes, he partially acknowledged it and said such activities can be politically motivated, and that if one digs deeper, a religious angle might also emerge.\n\n\ud83d\udcf7Picture for representation",
-      "link": "https://nitter.net/elitepredatorss/status/2047254508980330675#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-23T15:31:25+05:30",
-      "time": "23 Apr, 03:31 PM",
-      "type": "tweets",
-      "content": "Met someone last evening. The guy is into the waste processing business and was earlier in the scrap collection business. I am generally very curious about how different businesses work and what kind of potential they have in the future. Heard some shocking facts:\n\n- A seasoned mid-level scrap collector can earn up to \u20b910K\u2013\u20b912K per day. The game is to build a network of other waste collectors who can supply good-quality scrap.\n\n- The industry is booming, and businesses in it are extremely cash-rich. You\u2019re looking at millionaire-level annual numbers here.\n\nI have always had a theory in my mind: are there groups across countries motivated to damage infrastructure and steal public assets meant for citizens\u2019 safety and convenience?\n\nThings like construction materials, especially iron, bridge railings, reflectors, metal signboards, benches at bus stops.\n\nHe didn\u2019t confirm it outright, but he seemed uncomfortable. After gently pushing for a couple of minutes, he partially acknowledged it and said such activities can be politically motivated, and that if one digs deeper, a religious angle might also emerge.\n\n\ud83d\udcf7Picture for representation"
-    },
-    {
-      "title": "\ud83d\uddd2\ufe0f\ud83e\udd71Number of Terrorists in Jammu Kashmir is at all time low ,any Haphazard  hysterical move  is tantamount to autophagy",
-      "link": "https://nitter.net/AngryRumi7/status/2047251020968026170#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-04-23T15:17:34+05:30",
-      "time": "23 Apr, 03:17 PM",
-      "type": "tweets",
-      "content": "\ud83d\uddd2\ufe0f\ud83e\udd71Number of Terrorists in Jammu Kashmir is at all time low ,any Haphazard  hysterical move  is tantamount to autophagy"
-    },
-    {
-      "title": "Four over ground workers (OGWs), including one woman, were arrested in Srinagar.\nAll accused are residents of Hazratbal.\nArrested individuals: Zahoor Ahmad Mir, Bashir Ahmad Bhat, Ghulam Mohammad Bhat, and Shazia Mohammad.\nThey were allegedly providing logistic support to terrorists.\n\nRecovered items: one hand grenade, 15 AK-47 rounds, four mobile phones, and cash.",
-      "link": "https://nitter.net/Goreunit/status/2047246995040186852#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-23T15:01:34+05:30",
-      "time": "23 Apr, 03:01 PM",
-      "type": "tweets",
-      "content": "Four over ground workers (OGWs), including one woman, were arrested in Srinagar.\nAll accused are residents of Hazratbal.\nArrested individuals: Zahoor Ahmad Mir, Bashir Ahmad Bhat, Ghulam Mohammad Bhat, and Shazia Mohammad.\nThey were allegedly providing logistic support to terrorists.\n\nRecovered items: one hand grenade, 15 AK-47 rounds, four mobile phones, and cash."
     }
   ],
   "youtube": [
@@ -2301,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST",
-    "next_update": "03:24 PM IST"
+    "last_updated": "03:24 PM IST",
+    "next_update": "04:24 PM IST"
   }
 }
