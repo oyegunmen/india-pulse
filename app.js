@@ -9,7 +9,6 @@ let allData = {};
 
                 if (allData.metadata) {
                     document.getElementById('last-run').innerText = allData.metadata.last_updated;
-                    document.getElementById('next-run').innerText = allData.metadata.next_update;
                 }
                 
                 const allItems = [...allData.news, ...allData.tweets, ...allData.youtube];
@@ -86,18 +85,34 @@ let allData = {};
             }
 
             container.innerHTML = items.map(item => {
-                const meta = `<div class="meta"><span class="source">${item.source}</span><span class="date">${item.time}</span></div>`;
+                const meta = `<div class="hstack justify-between mb-2"><span class="source">${item.source}</span><span class="date">${item.time}</span></div>`;
                 let content = "";
+                let actionText = "Read Article ↗";
                 
                 if (currentTab === 'youtube') {
-                    content = `<img src="${item.thumbnail}" loading="lazy"><h3>${item.title}</h3>`;
+                    actionText = "Watch Video ↗";
+                    content = `<img src="${item.thumbnail}" class="thumbnail" loading="lazy"><h3 class="mb-2 mt-2">${item.title}</h3>`;
                 } else if (currentTab === 'tweets') {
-                    content = `<p>${item.content}</p>`;
+                    actionText = "View Tweet ↗";
+                    let tweetHtml = item.content;
+                    let retweetBadge = '';
+                    const rtMatch = item.title.match(/^RT by (@\w+):/i);
+                    if (rtMatch) {
+                        const retweeter = rtMatch[1];
+                        const originalAuthor = item.author || "this user";
+                        
+                        retweetBadge = `<div><strong>${retweeter}</strong> Retweeted a post from <strong>${originalAuthor}</strong><br><br></div>`;}
+
+                    tweetHtml = tweetHtml.replace(/<hr\s*\/?>/gi, '');
+                    tweetHtml = tweetHtml.replace(/<footer>[\s\S]*?href="([^"]+)"[\s\S]*?<\/footer>/i, (match, url) => {
+                            return `<footer class="retweet-footer"><a href="${url}" class="retweet-btn">View Quoted Tweet</a></footer>`;
+                        });
+                    content = `${retweetBadge}<div class="tweet-content">${tweetHtml}</div>`;
                 } else {
-                    content = `<h3>${item.title}</h3>${item.description ? `<p>${item.description}</p>` : ''}`;
+                    content = `<h3 class="mt-2 mb-2">${item.title}</h3>${item.description ? `<p>${item.description}</p>` : ''}`;
                 }
                 
-                return `<article class="card ${currentTab}-card"><a href="${item.link}" target="_blank">${meta}${content}</a></article>`;
+                return `<article class="card ${currentTab}-card col-4">${meta}<div class="card-body mt-2">${content}</div><div class="mt-2"><a href="${item.link}">${actionText}</a></div></article>`;
             }).join('');
         }
 

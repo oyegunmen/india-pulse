@@ -5,10 +5,7 @@ from datetime import datetime, timedelta, timezone
 ist_tz = timezone(timedelta(hours=5, minutes=30))
 
 last_run_time = datetime.now(ist_tz) + timedelta(minutes=2)
-next_run_time = last_run_time + timedelta(hours=1)
-
 last_run_str = last_run_time.strftime("%I:%M %p IST")
-next_run_str = next_run_time.strftime("%I:%M %p IST")
 
 def fetch_all():
     with open('feeds.json', 'r') as f:
@@ -17,7 +14,6 @@ def fetch_all():
     data = {"news": [], "tweets": [], "youtube": []}
     data["metadata"] = {
     "last_updated": last_run_str,
-    "next_update": next_run_str
     }
     now_utc = datetime.now(timezone.utc)
     cutoff = now_utc - timedelta(hours=48)
@@ -53,12 +49,14 @@ def fetch_all():
                 
                 if category == "news":
                     if not source.get('hide_desc'):
-                        item["description"] = entry.get('summary', entry.get('description', ''))[:150]
+                        text = entry.get('summary', entry.get('description', ''))
+                        item["description"] = text[:150] + '...' if len(text) > 150 else text   
                     else:
                         item["description"] = ""
 
                 if category == "tweets":
-                    item["content"] = entry.title
+                    item["content"] = entry.get('description', '')
+                    item["author"] = entry.get('author', '')
 
                 data[category].append(item)
 

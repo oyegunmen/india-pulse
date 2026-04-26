@@ -15,75 +15,79 @@
     <meta property="og:description" content="Monitor the Indian Defense and Geopolitical News, Tweets & Youtube Videos from the past 48 hours aggregated in one place.">
     <meta property="og:image" content="https://indipulse.in/img/social-preview.png">
 
-    <link rel="stylesheet" href="https://unpkg.com/@knadh/oat/oat.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="oat.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
 </head>
 <body>
-
-    <a href="index.html" class="button outline special-btn">← Back</a>
+<main class="container p-4">
+    <a href="/" class="button outline special-btn">← Back</a>
 
     <header>
-        <h1 class="head-title">ABOUT</h1>
+        <h1 class="head-title mt-4 mb-2">ABOUT</h1>
         <p>A Centralized, Noise Free Dashboard for Monitoring Defense and Geopolitical Situations.</p>
         <img src="img/meme-01.jpg" style="border-radius: 10px;" alt="Monitoring the Situation">
     </header>
     <br>
 
-    <section id="motivation">
-        <h3 class="head-title">MOTIVATION</h3>
+    <div id="motivation">
+        <h3 class="mb-2 head-title">MOTIVATION</h3>
         <p>I loved monitoring military and geopolitical situations as they unfold. However, browsing on Twitter (X), Media Outlets, and YouTube channels became increasingly "Distracting" for me.</p>
         <p>I wanted a centralized, organized place where I could monitor developments without the distractions of algorithms or social media bloat. So I wrote simple script, basically few lines of code, which curates data from multiple sources and presents it in single beautiful, noise-free dashboard. This was my personal offline tool to keep myself informed about latest developements.</p>
         <p>Now it's public, because probably many people might be dealing with the same problem. This platform gives you a snapshot of what's happening, so you only deep-dive into what actually matters.</p>
-    </section>
+    </div>
 
-    <section id="content">
-        <h3 class="head-title">CONTENT</h3>
+    <div id="content">
+        <h3 class="mb-2 mt-4 head-title">CONTENT</h3>
         <p>The platform gets updated every <strong>60 minutes</strong>, fast enough to stay current, & slow enough to avoid IP blocks from platforms like Twitter, YouTube, and major media outlets</p>
         <p>Only the last <strong>48 hours</strong> of data is shown, older feed is not stored in any form. The dashboard is meant to be a "pulse", not an "archive".</p>
         <p>Since everyone has their own preferred news outlets and analysts, there's a built-in <strong>Source Filter</strong> so you can tune the feed to what matters to you.</p>
-    </section>
+    </div>
 
-    <section id="support">
-        <h3 class="head-title">SUPPORT</h3>
+    <div id="support">
+        <h3 class="mb-2 mt-4 head-title">SUPPORT</h3>
         <p>This is purely volunteer-based software. While it will always remain <strong>free to use</strong>, the quality of the feed depends on the data it consumes. I aim to make the list of outlets as exhaustive as possible, but I cannot do it without your support.</p>
         <p><strong>How you can help:</strong></p>
         <ul class="special-list">
         <li><strong>Suggestions:</strong> If I’ve missed a major news outlet or a specific analyst, youtube channel, please suggest them. You can reach out via <strong><a href="#contact">Contact</a></strong>.</li>
         <li><strong>Sponsorship:</strong> If you find this tool valuable, consider making a one time donation of any amount, to cover operational costs while also keeping the platform independent and ad-free.</li>
         </ul>
-    </section>
+    </div>
 
-    <section id="sources">
-        <h3 class="head-title">SOURCES</h3>
+    <div id="sources">
+        <h3 class="mb-2 mt-4 head-title">SOURCES</h3>
         <p>Our list of sources are a work in progress and will continue to grow. Below you can find the outlets we currently monitor.</p>
         <p class="head-title"><strong>LIST OF MEDIA OUTLETS</strong></p>
-        <ul id="list-news" class="special-list"></ul>
+        <ul id="list-news"></ul>
         <p class="head-title"><strong>LIST OF TWITTER HANDLES</strong></p>
-        <ul id="list-tweets" class="special-list"></ul>
+        <ul id="list-tweets"></ul>
         <p class="head-title"><strong>LIST OF YOUTUBE CHANNELS</strong></p>
-        <ul id="list-youtube" class="special-list"></ul>
-    </section>
-
-    <section id="copyright">
-        <h3 class="head-title">COPYRIGHT</h3>
-        <p>This is an aggregator website; I do not own any of the content presented here. All copyrights belong to their respective owners.</p>
-    </section>
-
-    <section id="contact">
-        <h3 class="head-title">CONTACT</h3>
-        <p>If you have a <strong>feature request</strong>, want to <strong>suggest sources</strong> for News, Twitter, or YouTube, or want to <strong>report a bug</strong>, please fill out this <a href="https://forms.gle/1d45uUPxMFrVfjLe9" target="_blank">Form</a>.</p>
-        <p>For anything else, just hit me up on <a href="https://www.reddit.com/user/soil_to_death/" target="_blank">Reddit</a> (u/soil_to_death).</p>
-    </section>
-
-<footer style="margin: 60px 0 120px 0; border-top: 1px solid var(--border); padding-top: 30px; text-align: center;">
-    <p style="font-weight: 500; color: var(--fg);">Made with ❤️ to Monitor the Situation</p>
-    
-    <div class="hstack" style="justify-content: center; gap: 20px; margin-top: 10px;">
-        <a href="about.html">About</a>
-        <a href="about.html#contact">Contact</a>
+        <ul id="list-youtube"></ul>
     </div>
-</footer>
+
+    <div id="copyright">
+        <h3 class="mb-2 mt-4 head-title">COPYRIGHT</h3>
+        <p>This is an aggregator website; I do not own any of the content presented here. All copyrights belong to their respective owners.</p>
+    </div>
+
+    <div id="contact">
+        <h3 class="mb-2 mt-4 head-title">CONTACT</h3>
+        <p>If you have a <strong>feature request</strong>, want to <strong>suggest sources</strong> for News, Twitter, or YouTube, or want to <strong>report a bug</strong>, please fill out this <a href="https://forms.gle/1d45uUPxMFrVfjLe9" target="_blank">form</a>.</p>
+        <p>For anything else, just hit me up on <a href="https://www.reddit.com/user/soil_to_death/" target="_blank">Reddit</a> (u/soil_to_death).</p>
+    </div>
+
+    <div class="mt-4"><a href="/">Home Page →</a></div>
+
+    <footer class="align-center">
+        <hr>
+        <p>Made with ❤️ to Monitor the Situation</p>   
+        <div class="hstack justify-center" style="gap: 20px;">
+            <a href="about.html">About</a>
+            <a href="about.html#contact">Contact</a>
+        </div>
+    </footer>
 <script src="about.js"></script>
+<script src="oat.min.js"></script>
 <script data-goatcounter="https://indipulse.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</main>
 </body>
 </html>

@@ -21,61 +21,77 @@
     <meta property="twitter:description" content="Monitor the Indian Defense and Geopolitical News, Tweets & Youtube Videos from the past 48 hours aggregated in one place.">
     <meta property="twitter:image" content="https://indipulse.in/img/social-preview.png">
 
-    <link rel="stylesheet" href="https://unpkg.com/@knadh/oat/oat.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="oat.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
 </head>
-<body>
+<body data-theme="light">
+<main class="container p-4">
 
-    <div id="pulse-status" class="status-bar">
-        <span class="dot"></span> 
-        LAST PULSE :<span id="last-run">--:--</span> |
-        NEXT :<span id="next-run">--:--</span>
-    </div>
-
-    <div style="margin-bottom: 30px; text-align: center; margin-top: 50px;">
-        <h1 style="text-align: center; font-weight: 800;" class="head-title">India Pulse</h1>
-        <p>Monitor the Indian Defense and Geopolitical News, Tweets & Youtube Videos of past 48 hours, aggregated in one place.</p>
-        <a href="about.html" class="outline button special-btn">About →</a>
-    </div>
-
-    <div class="hero-features">
-        <div class="feature-item"><span>✓</span>Ad-Free</div>
-        <div class="feature-item"><span>✓</span>Anonymous</div>
-        <div class="feature-item"><span>✓</span>Curated</div>
-        <div class="feature-item"><span>✓</span>Centralized</div>
-        <div class="feature-item"><span>✓</span>Lightweight</div>
-    </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: center; position: relative;">
-        <div>
-            <button class="button outline special-btn" onclick="toggleFilterMenu()">Filter Sources 🔎︎</button>
-            <div id="filter-menu" style="position: absolute; z-index: 1000;">
-                <strong id="filter-title">Filter Sources:</strong>
-                <div id="site-checklist" class="checklist" style="margin-top:10px;"></div>
-            </div>
+    <header class="hstack justify-between">
+        <strong class="head-title">IndiPulse</strong>
+        <button id="theme-toggle" class="button outline small hstack gap-2" onclick="toggleTheme()">
+            <img id="theme-icon" src="img/moon.svg" alt="Theme" width="14" height="14">
+            <span id="theme-text">Dark</span>
+        </button>
+    </header>
+    
+    <section class="align-center">
+        <div title="Updates Hourly" class="badge outline pulse">LAST PULSE : <span id="last-run">--:--</span><img id="info-icon" src="img/info.svg" alt="Info" width="12" height="auto">
         </div>
-        <a href="about.html#sources" class="source-link">Sources List ↗</a>
-    </div>
+        <h1 style="margin: var(--space-2) 0;" class="head-title">India Pulse</h1>
+        <p class="mb-6">Monitor the Indian Defense and Geopolitical News, Tweets & Youtube Videos of past 48 hours, aggregated in one place.</p>
+        <div class="hstack justify-center">
+            <a href="about.html" class="button">About →</a>
+            <a href="https://github.com/oyegunmen/india-pulse" class="button outline">
+                <span id="theme-text">Github</span>                
+                <img src="img/github.svg" width="14" height="14">
+            </a>
+        </div>
+    </section>
 
-    <main id="news-section" class="news-grid"></main>
-    <main id="tweets-section" class="news-grid hidden"></main>
-    <main id="youtube-section" class="news-grid hidden"></main>
+    <section class="vstack">
+        <div class="hstack justify-between">
+            <ot-dropdown>
+                <button popovertarget="filter-menu" class="button outline hstack gap-2">
+                    <span id="theme-text">Filter</span>
+                    <img src="img/funnel.svg" alt="Theme" width="14" height="14">
+                </button>
+                <menu popover id="filter-menu" class="p-4">
+                    <strong id="filter-title">Filter Sources</strong>
+                    <hr>
+                    <div id="site-checklist" class="mt-2 hstack"></div>
+                </menu>
+            </ot-dropdown>
 
-    <nav class="bottom-nav">
-        <button id="btn-news" class="active nav-btn" onclick="showTab('news')">News</button>
-        <button id="btn-tweets" class="nav-btn" onclick="showTab('tweets')">Tweets</button>
-        <button id="btn-youtube" class="nav-btn" onclick="showTab('youtube')">YouTube</button>
-    </nav>
+            <a href="about.html#sources">Sources List ↗</a>
+        </div>
+
+        <div class="justify-between">
+        <ot-tabs>
+            <div role="tabpanel"><div class="row" id="news-section"></div></div>
+            <div role="tabpanel"><div class="row" id="tweets-section"></div></div>
+            <div role="tabpanel"><div class="row" id="youtube-section"></div></div>
+
+            <div role="tablist" class="bottom-nav">
+                <button role="tab" id="btn-news" onclick="showTab('news')">News</button>
+                <button role="tab" id="btn-tweets" onclick="showTab('tweets')">Tweets</button>
+                <button role="tab" id="btn-youtube" onclick="showTab('youtube')">Youtube</button>
+            </div>
+        </ot-tabs>
+        </div>
+    </section>
     
-<footer style="margin: 60px 0 120px 0; border-top: 1px solid var(--border); padding-top: 30px; text-align: center;">
-    <p style="font-weight: 500; color: var(--fg);">Made with ❤️ to Monitor the Situation</p>
-    
-    <div class="hstack" style="justify-content: center; gap: 20px; margin-top: 10px;">
-        <a href="about.html">About</a>
-        <a href="about.html#contact">Contact</a>
-    </div>
-</footer>
+    <footer class="align-center">
+        <hr>
+        <p>Made with ❤️ to Monitor the Situation</p>   
+        <div class="hstack justify-center" style="gap: 20px;">
+            <a href="about.html">About</a>
+            <a href="about.html#contact">Contact</a>
+        </div>
+    </footer>
+</main>
 <script src="app.js"></script>
+<script src="oat.min.js"></script>
 <script data-goatcounter="https://indipulse.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
