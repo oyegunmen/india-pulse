@@ -6,7 +6,7 @@
     --card: light-dark(#fbfbfb, #27272b);
     --card-foreground: light-dark(#09090b, #fafafa);
     --nav-background:light-dark(#ecebeb, #343434);
-    --primary: light-dark(#eea061, #eea061);
+    --primary: light-dark(#ed832c, #ed832c);
     --primary-foreground: light-dark(#fafafa, #18181b);
     --secondary: light-dark(#f4f4f5, #27272a);
     --secondary-foreground: light-dark(#574747, #fafafa);
@@ -41,10 +41,6 @@ main{
 
 section{
     margin-top: var(--space-12);
-}
-
-#site-checklist{
-    gap: var(--space-3);
 }
 
 .bottom-nav {

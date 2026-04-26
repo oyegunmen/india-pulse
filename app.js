@@ -87,13 +87,13 @@ let allData = {};
             container.innerHTML = items.map(item => {
                 const meta = `<div class="hstack justify-between mb-2"><span class="source">${item.source}</span><span class="date">${item.time}</span></div>`;
                 let content = "";
-                let actionText = "Read Article ↗";
+                let actionText = "Read Article ↗&#xFE0E;";
                 
                 if (currentTab === 'youtube') {
-                    actionText = "Watch Video ↗";
+                    actionText = "Watch Video ↗&#xFE0E;";
                     content = `<img src="${item.thumbnail}" class="thumbnail" loading="lazy"><h3 class="mb-2 mt-2">${item.title}</h3>`;
                 } else if (currentTab === 'tweets') {
-                    actionText = "View Tweet ↗";
+                    actionText = "View Tweet ↗&#xFE0E;";
                     let tweetHtml = item.content;
                     let retweetBadge = '';
                     const rtMatch = item.title.match(/^RT by (@\w+):/i);
