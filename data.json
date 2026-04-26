@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T04:30:29+05:30",
+      "time": "27 Apr, 04:30 AM",
+      "type": "news",
+      "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
+    },
+    {
       "title": "Magnitude 6.1 earthquake strikes in northern Japan",
       "link": "https://www.thehindu.com/news/international/magnitude-61-earthquake-strikes-in-northern-japan/article70909918.ece",
       "source": "The Hindu",
@@ -8,15 +17,6 @@
       "time": "27 Apr, 04:07 AM",
       "type": "news",
       "description": "The quake struck 18 kilometres (11 miles) west of the small town of Sarabetsu in Hokkaido at a depth of 81 kilometres (50 miles), according to the USG..."
-    },
-    {
-      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T03:12:34+05:30",
-      "time": "27 Apr, 03:12 AM",
-      "type": "news",
-      "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
     },
     {
       "title": "White House correspondents' dinner shooting updates: King Charles state visit to U.S. to go on as planned after shooting",
@@ -1286,15 +1286,6 @@
       "time": "25 Apr, 05:41 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "\u2018The damage is done\u2019: Why the IEA chief believes the global oil market will never return to normal",
-      "link": "https://indianexpress.com/article/world/us-news/iea-chief-fatih-birol-global-oil-crisis-energy-market-reshape-10654642/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-25T05:01:37+05:30",
-      "time": "25 Apr, 05:01 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
@@ -2356,6 +2347,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 AM IST"
+    "last_updated": "05:24 AM IST"
   }
 }
