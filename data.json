@@ -1,58 +1,139 @@
 {
   "news": [
     {
+      "title": "DRDO unveils Advanced Armoured Platforms (Tracked & Wheeled)",
+      "link": "https://www.indiastrategic.in/drdo-unveils-advanced-armoured-platforms-tracked-wheeled/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-26T11:10:24+05:30",
+      "time": "26 Apr, 11:10 AM",
+      "type": "news",
+      "description": "<p>New Delhi. The Advanced Armoured Platforms (Tracked and Wheeled), designed and developed by Vehicles Research &#38; Development Establishment, were"
+    },
+    {
+      "title": "Israel-Iran live: Pakistan PM dials Iranian President, discusses evolving regional situation",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:06:10+05:30",
+      "time": "26 Apr, 11:06 AM",
+      "type": "news",
+      "description": "U.S. President Trump cancels Pakistan talks trip and says Iran war on hold; U.S. Navy intercepts Iran-linked vessel in Arabian Sea"
+    },
+    {
+      "title": "Russian strikes kill three, wound four in Ukraine",
+      "link": "https://www.thehindu.com/news/international/russian-strikes-in-ukraine-death-toll-injuries-april-26-2026/article70907842.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:04:12+05:30",
+      "time": "26 Apr, 11:04 AM",
+      "type": "news",
+      "description": "In the northeastern Ukraine border region of Sumy, one Russian drone attack killed two civilians, according to the head of Sumy\u2019s regional military ad"
+    },
+    {
       "title": "Shooting suspect was 'would-be assassin,' Trump says following shooting incident at WH Correspondents' Dinner | LIVE",
       "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-26T10:06:10+05:30",
-      "time": "26 Apr, 10:06 AM",
+      "sort_key": "2026-04-26T11:03:08+05:30",
+      "time": "26 Apr, 11:03 AM",
       "type": "news",
       "description": "The shooting suspect accused of storming the Washington media gala will be arraigned in the U.S. capital on April 27, 2026, the federal prosecutor sai"
+    },
+    {
+      "title": "What we know about the Donald Trump press gala shooting",
+      "link": "https://www.thehindu.com/news/international/what-we-know-about-the-donald-trump-press-gala-shooting/article70907849.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:02:28+05:30",
+      "time": "26 Apr, 11:02 AM",
+      "type": "news",
+      "description": "As details continue to emerge and investigations are underway, here is what we know about the shooting"
+    },
+    {
+      "title": "Pakistan PM dials Iranian President, discusses evolving regional situation",
+      "link": "https://www.thehindu.com/news/national/pakistan-pm-dials-iranian-president-discusses-evolving-regional-situation/article70907837.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T10:59:37+05:30",
+      "time": "26 Apr, 10:59 AM",
+      "type": "news",
+      "description": "During their warm and cordial conversation that lasted fifty minutes, the two leaders had a detailed exchange of views on the current regional situati"
+    },
+    {
+      "title": "IAF seeks indigenous drone swarm radar system to boost surveillance in contested zones",
+      "link": "https://economictimes.indiatimes.com/news/defence/iaf-seeks-indigenous-drone-swarm-radar-system-to-boost-surveillance-in-contested-zones/articleshow/130526777.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-26T10:57:58+05:30",
+      "time": "26 Apr, 10:57 AM",
+      "type": "news",
+      "description": "The Indian Air Force is seeking domestic industry, academia, and startups to develop collaborative drone-based surveillance radar systems under the Me"
+    },
+    {
+      "title": "Bangladesh Police Issue Nationwide Security Alert Over Possible Militant Attack Threats",
+      "link": "https://www.newsonair.gov.in/bangladesh-police-issue-nationwide-security-alert-over-possible-militant-attack-threats/",
+      "source": "AIR International",
+      "sort_key": "2026-04-26T10:47:10+05:30",
+      "time": "26 Apr, 10:47 AM",
+      "type": "news",
+      "description": "Bangladesh Police has issued a nationwide security alert over possible militant attacks on key installations, including the parliament complex. Offici"
+    },
+    {
+      "title": "Trump unharmed after shooting incident at WH correspondents\u2019 dinner",
+      "link": "https://www.thehindu.com/news/international/shots-fired-at-white-house-correspondents-dinner-trump-and-others-evacuated/article70907601.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T10:45:42+05:30",
+      "time": "26 Apr, 10:45 AM",
+      "type": "news",
+      "description": "The Secret Service and other authorities swarmed the banquet hall as guests ducked under tables by the hundreds"
+    },
+    {
+      "title": "FBI Director Kash Patel likely to be fired from Trump administration: Report",
+      "link": "https://indianexpress.com/article/world/us-news/kash-patel-fbi-director-firing-rumors-pam-bondi-drinking-scandal-10656243/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-26T10:44:35+05:30",
+      "time": "26 Apr, 10:44 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "Donald Trump says suspect was armed with multiple weapons at White House correspondents\u2019 dinner",
       "link": "https://www.thehindu.com/news/international/shooting-incident-white-house-correspondents-dinner-meeting-donald-trump-briefing/article70907678.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-26T10:04:41+05:30",
-      "time": "26 Apr, 10:04 AM",
+      "sort_key": "2026-04-26T10:27:42+05:30",
+      "time": "26 Apr, 10:27 AM",
       "type": "news",
       "description": "One officer was shot, but he was protected by a bulletproof vest"
+    },
+    {
+      "title": "Loud bangs and a Trump evacuation: chaos at correspondents' dinner",
+      "link": "https://www.thehindu.com/news/international/loud-bangs-and-a-trump-evacuation-chaos-at-correspondents-dinner/article70907670.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T10:26:09+05:30",
+      "time": "26 Apr, 10:26 AM",
+      "type": "news",
+      "description": "The Secret Service and other authorities swarmed the banquet hall as guests ducked under tables by the hundreds"
+    },
+    {
+      "title": "Donald Trump says shooting won\u2019t \u2018deter\u2019 him from Iran war",
+      "link": "https://www.thehindu.com/news/international/donald-trump-says-shooting-wont-deter-him-from-iran-war/article70907726.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T10:25:22+05:30",
+      "time": "26 Apr, 10:25 AM",
+      "type": "news",
+      "description": "The U.S. President had cancelled his envoys\u2019 trip to Pakistan for peace talks with Iran"
     },
     {
       "title": "Who is Cole Tomas Allen, suspect apprehended in connection to shooting in Washington",
       "link": "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-who-is-cole-tomas-allen-suspect-apprehended/article70907732.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-26T10:03:05+05:30",
-      "time": "26 Apr, 10:03 AM",
+      "sort_key": "2026-04-26T10:23:41+05:30",
+      "time": "26 Apr, 10:23 AM",
       "type": "news",
       "description": "The shooting suspect \u2014 described by Trump as a \u201csick person\u201d \u2014 was identified as Cole Tomas Allen, 31, of Torrance, California"
     },
     {
-      "title": "Who is Cole Tomas Allen? The 31-year-old California man identified as suspect White House shooting suspect",
+      "title": "Who is Cole Tomas Allen? The 31-year-old California man identified as White House shooting suspect",
       "link": "https://indianexpress.com/article/world/us-news/whjtw-house-shooting-suspect-cole-tomas-allen-white-house-correspondents-dinner-shooting-suspect-trump-evacuated-10656228/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T10:02:10+05:30",
       "time": "26 Apr, 10:02 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Loud bangs and a Trump evacuation: chaos at correspondents' dinner",
-      "link": "https://www.thehindu.com/news/international/loud-bangs-and-a-trump-evacuation-chaos-at-correspondents-dinner/article70907670.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T10:01:21+05:30",
-      "time": "26 Apr, 10:01 AM",
-      "type": "news",
-      "description": "The Secret Service and other authorities swarmed the banquet hall as guests ducked under tables by the hundreds"
-    },
-    {
-      "title": "Trump uninjured after security incident at White House Correspondents\u2019 Dinner",
-      "link": "https://www.thehindu.com/news/international/shots-fired-at-white-house-correspondents-dinner-trump-and-others-evacuated/article70907601.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T10:00:05+05:30",
-      "time": "26 Apr, 10:00 AM",
-      "type": "news",
-      "description": "The Secret Service and other authorities swarmed the banquet hall as guests ducked under tables by the hundreds"
     },
     {
       "title": "Trump vows \u2018the show will go on\u2019 following shooting at correspondents\u2019 dinner; key highlights from press briefing",
@@ -64,25 +145,7 @@
       "description": ""
     },
     {
-      "title": "Israel-Iran live: U.S. Navy intercepts Iran-linked vessel in Arabian Sea",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T09:45:55+05:30",
-      "time": "26 Apr, 09:45 AM",
-      "type": "news",
-      "description": "U.S. President Trump cancels Pakistan talks trip and says Iran war on hold"
-    },
-    {
-      "title": "Donald Trump says shooting won\u2019t \u2018deter\u2019 him from Iran war",
-      "link": "https://www.thehindu.com/news/international/donald-trump-says-shooting-wont-deter-him-from-iran-war/article70907726.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T09:41:49+05:30",
-      "time": "26 Apr, 09:41 AM",
-      "type": "news",
-      "description": "The U.S. President had cancelled his envoys\u2019 trip to Pakistan for peace talks with Iran"
-    },
-    {
-      "title": "\u2018Incident won\u2019t deter me from winning Iran war\u2019: Trump after White House shooting",
+      "title": "\u2018Probably a lone shooter, with multiple weapons\u2019: What Trump said about White House shooting suspect",
       "link": "https://indianexpress.com/article/world/us-news/donald-trump-white-house-shooting-iran-war-10656223/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T09:28:46+05:30",
@@ -730,15 +793,6 @@
       "description": "The West Bank-based Palestinian Authority hopes the symbolic inclusion of the Gazan city \u2060of Deir al-Balah will help reinforce its claim to authority "
     },
     {
-      "title": "Mexican President Says Sovereignty Is Not Negotiable, Rejects US Interference",
-      "link": "https://www.newsonair.gov.in/mexican-president-says-sovereignty-is-not-negotiable-rejects-foreign-interference/",
-      "source": "AIR International",
-      "sort_key": "2026-04-25T12:16:06+05:30",
-      "time": "25 Apr, 12:16 PM",
-      "type": "news",
-      "description": "Mexican President Claudia Sheinbaum has said that the country&#8217;s sovereignty is not negotiable, rejecting any form of foreign interference, parti"
-    },
-    {
       "title": "From 90kg to 50kg: Ukraine sacks top commander after \u2018starving\u2019 soldiers\u2019 rib-showing photos go viral",
       "link": "https://indianexpress.com/article/world/ukraines-army-removed-personnel-says-they-are-given-food-in-17-days-10655047/",
       "source": "The Indian Express",
@@ -1090,15 +1144,6 @@
       "description": "<p>Hamburg, Germany, April 24, 2026. The first of 30 Airbus A321XLRs for Canada\u2019s flag carrier Air Canada, has been delivered. The aircraft is on leas"
     },
     {
-      "title": "Putin may attend G20 summit in Miami after U.S. invitation: Kremlin",
-      "link": "https://www.thehindu.com/news/international/putin-may-attend-g20-summit-in-miami-after-us-invitation-kremlin/article70902455.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T20:21:25+05:30",
-      "time": "24 Apr, 08:21 PM",
-      "type": "news",
-      "description": "The Russian President has not attended a G20 summit since 2019; Trump has adopted a more friendly attitude towards Russia in his second term in office"
-    },
-    {
       "title": "Project DANTAK marks 66 years in Bhutan, underscoring India-Bhutan partnership through infrastructure",
       "link": "https://www.indiastrategic.in/project-dantak-marks-66-years-in-bhutan-underscoring-india-bhutan-partnership-through-infrastructure/",
       "source": "India Strategic",
@@ -1106,15 +1151,6 @@
       "time": "24 Apr, 08:15 PM",
       "type": "news",
       "description": "<p>New Delhi, April 24. Project DANTAK of the Border Roads Organisation (BRO) marked its 66th Raising Day in Thimphu on April 24, celebrating 65 years"
-    },
-    {
-      "title": "PM Sanchez sidesteps Spain-U.S. dispute at NATO, brushing off reported Pentagon email",
-      "link": "https://www.thehindu.com/news/international/pm-sanchez-sidesteps-spain-us-dispute-at-nato-brushing-off-reported-pentagon-email/article70902102.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T20:10:31+05:30",
-      "time": "24 Apr, 08:10 PM",
-      "type": "news",
-      "description": "Pentagon is reported to be mulling whether to suspend Spain from NATO, according to an unidentified U.S. official referring to a U.S. Defence Departme"
     },
     {
       "title": "INS Sudarshini makes maiden Canary Islands call ahead of trans-Atlantic voyage under Lokayan 26",
@@ -1133,15 +1169,6 @@
       "time": "24 Apr, 08:00 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Netanyahu treated for early-stage prostate cancer, says he is in \u2018excellent\u2019 physical condition",
-      "link": "https://www.thehindu.com/news/international/israel-pm-netanyahu-prostate-cancer-treatment-medical-report/article70901683.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T18:31:53+05:30",
-      "time": "24 Apr, 06:31 PM",
-      "type": "news",
-      "description": "The Israeli PM said he requested a delay in the publication of his annual medical report to not allow Iran to \u2018spread even more false propaganda\u2019 amid"
     },
     {
       "title": "Defence Minister addresses Defence Investor Summit in Berlin",
@@ -1250,27 +1277,45 @@
       "time": "24 Apr, 11:47 AM",
       "type": "news",
       "description": "Pakistan has successfully test-fired its Taimoor air-launched cruise missile. This indigenous weapon can strike enemy ships from up to 600 kilometers "
-    },
-    {
-      "title": "Pentagon email outlines possible NATO penalties, including Spain suspension, over Iran war rift, source says",
-      "link": "https://economictimes.indiatimes.com/news/defence/pentagon-proposes-nato-penalties-over-iran-war-support-spains-suspension-and-britains-falkland-claim-at-stake/articleshow/130484499.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-24T11:00:54+05:30",
-      "time": "24 Apr, 11:00 AM",
-      "type": "news",
-      "description": "A Pentagon email reveals potential U.S. actions against NATO allies not supporting the Iran war. Options include suspending Spain from the alliance an"
-    },
-    {
-      "title": "Army chief Upendra Dwivedi inducted into International Hall of Fame at US Army War College",
-      "link": "https://economictimes.indiatimes.com/news/defence/army-chief-upendra-dwivedi-inducted-into-international-hall-of-fame-at-us-army-war-college/articleshow/130484449.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-24T10:51:43+05:30",
-      "time": "24 Apr, 10:51 AM",
-      "type": "news",
-      "description": "India's Army chief General Upendra Dwivedi was inducted into the International Hall of Fame at the US Army War College, becoming the third Indian Army"
     }
   ],
   "tweets": [
+    {
+      "title": "Just a Chill Uncle!",
+      "link": "https://nitter.net/Goreunit/status/2048275877080023276#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-26T11:09:58+05:30",
+      "time": "26 Apr, 11:09 AM",
+      "type": "tweets",
+      "content": "Just a Chill Uncle!"
+    },
+    {
+      "title": "Delhi",
+      "link": "https://nitter.net/sidhant/status/2048275270885663209#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-26T11:07:34+05:30",
+      "time": "26 Apr, 11:07 AM",
+      "type": "tweets",
+      "content": "Delhi"
+    },
+    {
+      "title": "Forwarded as received.....",
+      "link": "https://nitter.net/OsintTV/status/2048269787952730615#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-26T10:45:47+05:30",
+      "time": "26 Apr, 10:45 AM",
+      "type": "tweets",
+      "content": "Forwarded as received....."
+    },
+    {
+      "title": "The establishment is pouring massive money into PR. It is aggressively shaping narratives across global media and social platforms. \n\nA dedicated media propaganda wing, controlled by the \u201cwolf man & L.Churan\u201d taking care of all these things.",
+      "link": "https://nitter.net/OsintTV/status/2048269159234994655#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-26T10:43:17+05:30",
+      "time": "26 Apr, 10:43 AM",
+      "type": "tweets",
+      "content": "The establishment is pouring massive money into PR. It is aggressively shaping narratives across global media and social platforms. \n\nA dedicated media propaganda wing, controlled by the \u201cwolf man & L.Churan\u201d taking care of all these things."
+    },
     {
       "title": "BREAKING: NSA Ajit Doval Meets UAE President in Abu Dhabi\n\nAjit Doval met Sheikh Mohamed bin Zayed Al Nahyan in Abu Dhabi to discuss regional stability and evolving tensions in West Asia following the Israel\u2013Iran conflict.\n\nThe meeting comes after Doval\u2019s recent visit to Saudi Arabia, part of India\u2019s active Gulf outreach under Narendra Modi.",
       "link": "https://nitter.net/NetramDefence/status/2048263323263848830#m",
@@ -1306,6 +1351,15 @@
       "time": "26 Apr, 09:38 AM",
       "type": "tweets",
       "content": "R to @sidhant: Russia has a program 'We Stand for Cleanliness' & a nationwide volunteer program. The embassy as part of a public initiative, combined with India's Swachh Bharat program. The ambassador praises NDMC, saying though not much to clean, the message is of community action."
+    },
+    {
+      "title": "RT by @OsintTV: Dear, \n\nManipur if you still want to march behind radicals like COCOMI, AMUCO, COTU, TNL , you haven\u2019t learned anything from this conflict, same people and groups like NSCN(IM) , Arambai, UNLF , PLA were firing at you during MP election but you stood strong and brought a change. \n\nDon\u2019t fall for militants group and their org like COCOMI and AMUCO\u2019s propaganda. They are running a conflict economy which has to end one day otherwise this cycle of violence, extortion & corruption will never end in Manipur. Eradicate them for once and all. \n\nChoose your leadership carefully, don\u2019t let power-hungry interests turn people into tools for their politics. Give new CM Khemchand some time he will prove himself or else you have elections coming \u2026.\n\n#manipur #imphal",
+      "link": "https://nitter.net/Dig_raw21/status/2048251447846834210#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-26T09:32:54+05:30",
+      "time": "26 Apr, 09:32 AM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: Dear, \n\nManipur if you still want to march behind radicals like COCOMI, AMUCO, COTU, TNL , you haven\u2019t learned anything from this conflict, same people and groups like NSCN(IM) , Arambai, UNLF , PLA were firing at you during MP election but you stood strong and brought a change. \n\nDon\u2019t fall for militants group and their org like COCOMI and AMUCO\u2019s propaganda. They are running a conflict economy which has to end one day otherwise this cycle of violence, extortion & corruption will never end in Manipur. Eradicate them for once and all. \n\nChoose your leadership carefully, don\u2019t let power-hungry interests turn people into tools for their politics. Give new CM Khemchand some time he will prove himself or else you have elections coming \u2026.\n\n#manipur #imphal"
     },
     {
       "title": "Russian Ambassador Denis Alipov @RusEmbIndia @AmbRus_India joins Swachh Bharat with Russia's volunteer cleanup drive this morning around the embassy in Delhi",
@@ -1605,15 +1659,6 @@
       "content": "Trump cancels Kushner, Witkoff's Islamabad visit. Iran had made it clear, no talks with US\n\nFrom Fox News:"
     },
     {
-      "title": "R to @sidhant: 25th April (Day 56) \n-Iran FM in Islamabad, Tehran says no talks with US \n-Trump cancels Kushner, Witkoff's Islamabad visit\n-Iranian FM leaves Islamabad after bilat visit \n-Imam Khomeini Airport resumes international service \n-IDF struck Hezbollah in S Lebanon: Israel Statement",
-      "link": "https://nitter.net/sidhant/status/2048070709239505222#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-25T21:34:43+05:30",
-      "time": "25 Apr, 09:34 PM",
-      "type": "tweets",
-      "content": "R to @sidhant: 25th April (Day 56) \n-Iran FM in Islamabad, Tehran says no talks with US \n-Trump cancels Kushner, Witkoff's Islamabad visit\n-Iranian FM leaves Islamabad after bilat visit \n-Imam Khomeini Airport resumes international service \n-IDF struck Hezbollah in S Lebanon: Israel Statement"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: \n25th April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf Iranian FM Araghchi began his meetings with Pakistani officials today. He emphasized that his tour is focused on a \"neighborhood first\" policy with partners in Pakistan, Oman, and Russia.\n\n\u25cf US officials Witkoff and Kushner arrive in Islamabad, however Iran denies any talks with US.\n\n\u25cf UKMTO reported the hijacking of a tanker approximately 45nm northeast of Mareeyo, Somalia.\n\n\u25cf Iran\u2019s Khatam al-Anbiya Central HQ warned that if US continues its naval blockade and maritime piracy in the region, it will encounter a severe reaction from Iran\u2019s armed forces.\n\n\u25cf Israeli PM Netanyahu is expected to travel to Washington in about two and a half weeks for the summit with President Trump and Lebanese President Aoun.\n\n\u25cf Iran resumes international services of Imam Khomeini Airport.\n\n\u25cf Despite the ceasefire extension, the IDF struck Hezbollah sites in southern Lebanon today, killing at least four people.\n\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2048069673892356209#m",
       "source": "Netram Defense",
@@ -1767,24 +1812,6 @@
       "content": "R to @elitepredatorss: XUV700 as assault and weapon support vehicle."
     },
     {
-      "title": "R to @elitepredatorss: Armored Safari for day to day communte of high level dignitaries.",
-      "link": "https://nitter.net/elitepredatorss/status/2047974799008465101#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-25T15:13:36+05:30",
-      "time": "25 Apr, 03:13 PM",
-      "type": "tweets",
-      "content": "R to @elitepredatorss: Armored Safari for day to day communte of high level dignitaries."
-    },
-    {
-      "title": "R to @elitepredatorss: Force Urbania as command and control center on wheels.",
-      "link": "https://nitter.net/elitepredatorss/status/2047974786215862695#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-25T15:13:33+05:30",
-      "time": "25 Apr, 03:13 PM",
-      "type": "tweets",
-      "content": "R to @elitepredatorss: Force Urbania as command and control center on wheels."
-    },
-    {
       "title": "Imagine a defence companies + auto manufacturer consortium of India who just build badass super protected vehicles.\n\nScorpion-N as a support and escord vehicle.",
       "link": "https://nitter.net/elitepredatorss/status/2047974703525134540#m",
       "source": "Elite Predators",
@@ -1857,13 +1884,13 @@
       "content": "RT by @NetramDefence: \ud83d\udea8\ud83c\uddee\ud83c\uddf3 Full blockade of the Strait of Hormuz might choke India?  \n\nNot so fast. India has a powerful ace up its sleeve: the Chennai-Vladivostok Eastern Maritime Corridor.  \n\nThis ambitious sea route is now one of the top strategic priorities for both Russia and India. It\u2019s designed to slash dependence on traditional chokepoints and unlock direct, reliable trade between the two nations.  \n\nThe corridor will boost joint projects in Russia\u2019s Far East while dramatically expanding trade in crude oil, metals, machinery and equipment.  \n\nSigned back in September 2019 at the Eastern Economic Forum, the route stretches over 10,000 kilometres. It officially began operations in early 2024 and is already changing the game.  \n\nWhile the world watches tensions in the Middle East, India and Russia have built a vital alternative that keeps energy and goods flowing no matter what happens in Hormuz."
     },
     {
-      "title": "Chinese ZFB-05 APC was stuck in snow somewhere at the India China line of actual control (LAC).\n\nThe same APC showed its poor performance in the failed  BOLIVIAN military coup too.",
+      "title": "RT by @Goreunit: Chinese ZFB-05 APC was stuck in snow somewhere at the India China line of actual control (LAC).\n\nThe same APC showed its poor performance in the failed  BOLIVIAN military coup too.",
       "link": "https://nitter.net/Goreunit/status/2047921756049215994#m",
       "source": "War & Gore",
       "sort_key": "2026-04-25T11:42:49+05:30",
       "time": "25 Apr, 11:42 AM",
       "type": "tweets",
-      "content": "Chinese ZFB-05 APC was stuck in snow somewhere at the India China line of actual control (LAC).\n\nThe same APC showed its poor performance in the failed  BOLIVIAN military coup too."
+      "content": "RT by @Goreunit: Chinese ZFB-05 APC was stuck in snow somewhere at the India China line of actual control (LAC).\n\nThe same APC showed its poor performance in the failed  BOLIVIAN military coup too."
     },
     {
       "title": "RT by @OsintTV: This is a deliberate misrepresentation by @thewire_in . PSA wasn\u2019t invoked for \u2018protesting\u2019, it was invoked against those who vandalized school property, ransacked premises, and damaged vehicles. Protest was hijacked by some miscreants who turned it into a law and order breakdown. Action was taken against criminal acts. Authorities acted against those specific elements who crossed that line, not against genuine voices seeking accountability. Mischaracterising such actions only obscures the real issue and legitimizes disorder.",
@@ -2028,15 +2055,6 @@
       "content": "Daily US-Israel-Iran War Brief: \n24th April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf The FMs of Qatar, Jordan, UAE, Indonesia, Pakistan, Turkey, Saudi Arabia, and Egypt have condemned repeated Israeli violations of the historical and legal status quo of Islamic and Christian holy sites in Jerusalem.\n\n\u25cf The airspace at the Kuwait International Airport will reopen. Kuwait is the last GCC country to open its airspace, following the regional crisis since February 28.\n\n\u25cf Trump said that the meeting with representatives of Israel and Lebanon went well, and that the ceasefire between Israel and Lebanon would be extended by three weeks.\n\n\u25cf Iran's state TV released that the energy facilities in Qatar, UAE, Saudi Arabia, and Kuwait will be targeted when the war resumes.\n\n\u25cf Iran's FM Araghchi to commence a diplomatic tour of Islamabad, Muscat, and Moscow. The mission underscores Iran's \"neighborhood first\" policy.\n\n\u25cf US-sanctioned tanker, YURI, carrying ~2mil barrels of Iranian crude was tracked near the Strait of Hormuz today. It had gone dark for several days, and was seen passing Larak Island late Thursday.\n\n\u25cf CENTCOM: To date, US forces have redirected 34 vessels.\n\n\u25cf Secretary of War Pete Hegseth announced that the US naval blockade is going global.\n\nEND IF THE BRIEF"
     },
     {
-      "title": "Amritsar, Punjab: A large-scale mock drill was conducted across Punjab to assess preparedness for emergency situations, with a blackout exercise led by Civil Defence in Amritsar. Authorities urged people not to panic and to follow instructions, including switching off lights during sirens. Officials said the drill aims to raise awareness and train citizens to respond effectively during disasters or hostile situations.\n\nGood to see young NCC cadets getting involved in the mock drill \n\nIANS",
-      "link": "https://nitter.net/OsintTV/status/2047708578027315288#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-24T21:35:44+05:30",
-      "time": "24 Apr, 09:35 PM",
-      "type": "tweets",
-      "content": "Amritsar, Punjab: A large-scale mock drill was conducted across Punjab to assess preparedness for emergency situations, with a blackout exercise led by Civil Defence in Amritsar. Authorities urged people not to panic and to follow instructions, including switching off lights during sirens. Officials said the drill aims to raise awareness and train citizens to respond effectively during disasters or hostile situations.\n\nGood to see young NCC cadets getting involved in the mock drill \n\nIANS"
-    },
-    {
       "title": "Standby Folks\n\n#Incoming",
       "link": "https://nitter.net/Goreunit/status/2047691891970584969#m",
       "source": "War & Gore",
@@ -2044,15 +2062,6 @@
       "time": "24 Apr, 08:29 PM",
       "type": "tweets",
       "content": "Standby Folks\n\n#Incoming"
-    },
-    {
-      "title": "RT by @OsintTV: Standby Folks\n\n#Incoming",
-      "link": "https://nitter.net/Goreunit/status/2047691891970584969#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-24T20:29:25+05:30",
-      "time": "24 Apr, 08:29 PM",
-      "type": "tweets",
-      "content": "RT by @OsintTV: Standby Folks\n\n#Incoming"
     },
     {
       "title": "Fauj cooking something? \ud83d\udc40",
@@ -2071,15 +2080,6 @@
       "time": "24 Apr, 07:59 PM",
       "type": "tweets",
       "content": "RT by @NetramDefence: Good fact-check by Netram Defence once again. This handle is doing a better job at dispelling defense related fake news and fighting the infowar by Pakistan. Do follow, run by our ex-military guys. They definitely should get to 60k followers."
-    },
-    {
-      "title": "Unconfirmed reports say 8 Pakistani soldiers were poisoned in Dara adamkhel.\n\nThey have been shifted for Peshawar for further treatment and remain in critical condition.",
-      "link": "https://nitter.net/OsintTV/status/2047679209829462262#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-24T19:39:02+05:30",
-      "time": "24 Apr, 07:39 PM",
-      "type": "tweets",
-      "content": "Unconfirmed reports say 8 Pakistani soldiers were poisoned in Dara adamkhel.\n\nThey have been shifted for Peshawar for further treatment and remain in critical condition."
     },
     {
       "title": "Reasi conducts civil defence mock drill",
@@ -2271,73 +2271,9 @@
       "content": "FTAs  FOR THE WIN \ud83d\udcaf\n\nASEAN \u2705\nSAFTA \u2705\nEU \u2705\nUK \u2705\nUAE \u2705\nOman \u2705\nAustralia \u2705\nJapan \u2705\nSouth Korea \u2705\nIsrael \u2705\n\nNZ \ud83d\udfe2\nGCC - Loading \ud83d\udfe2\nCanada - Loading\ud83d\udfe2\nMexico - Loading\ud83d\udfe2\nEuraisan Economic Union led by Russia - Loading \ud83d\udfe2\n\nThe whole world wants to trade with India."
     }
   ],
-  "youtube": [
-    {
-      "title": "Tejas Mk2 Stealth Upgrade ,China Warning on India-Japan Defence Pact!,New Stealth UCAV?",
-      "link": "https://www.youtube.com/watch?v=NEwiP9dzVq0",
-      "source": "Indian Defense News",
-      "sort_key": "2026-04-26T06:30:21+05:30",
-      "time": "26 Apr, 06:30 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/NEwiP9dzVq0/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Mock War Drill In India, DRDO 2 New Weapons, SSS Defence 3000+ Rifles Induction",
-      "link": "https://www.youtube.com/watch?v=oE6cTPY2b8o",
-      "source": "Defense Squad",
-      "sort_key": "2026-04-25T22:15:41+05:30",
-      "time": "25 Apr, 10:15 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/oE6cTPY2b8o/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : India-Ukraine Mega Deal,Rudram-4 Test,AMCA Integration,BrahMos Crisis ?",
-      "link": "https://www.youtube.com/watch?v=TnhIyizCVPM",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-04-25T18:06:49+05:30",
-      "time": "25 Apr, 06:06 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/TnhIyizCVPM/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - No 114 Rafale Deal, Army Operation Sindoor 2.0, UP ATS Arrest 2 ISI Spy",
-      "link": "https://www.youtube.com/watch?v=vTKvdcn2EJI",
-      "source": "Defense Squad",
-      "sort_key": "2026-04-24T22:21:19+05:30",
-      "time": "24 Apr, 10:21 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/vTKvdcn2EJI/mqdefault.jpg"
-    },
-    {
-      "title": "China ne Badal Diya Warfare!,Kya India Ready hai ATLAS ke liye?,P-8I me aa raha hai US-level Radar!",
-      "link": "https://www.youtube.com/watch?v=6b-4r3HTMhY",
-      "source": "Indian Defense News",
-      "sort_key": "2026-04-24T22:00:05+05:30",
-      "time": "24 Apr, 10:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/6b-4r3HTMhY/mqdefault.jpg"
-    },
-    {
-      "title": "Japan vs India Frigate War?,Mogami Deal Ka Asli Sach!,6th Gen Fighter Shock,Taiwan Sub Link Exposed!",
-      "link": "https://www.youtube.com/watch?v=UvQnxCggo3k",
-      "source": "Indian Defense News",
-      "sort_key": "2026-04-24T17:31:04+05:30",
-      "time": "24 Apr, 05:31 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/UvQnxCggo3k/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : Su-57 Dual Offer,6th Gen Fighter Deal,Achuk-150 Test,PAK Taimur ALCM Test",
-      "link": "https://www.youtube.com/watch?v=giOkhibVLJM",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-04-24T17:09:23+05:30",
-      "time": "24 Apr, 05:09 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/giOkhibVLJM/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "10:24 AM IST",
-    "next_update": "11:24 AM IST"
+    "last_updated": "11:24 AM IST",
+    "next_update": "12:24 PM IST"
   }
 }
