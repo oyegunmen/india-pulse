@@ -29,14 +29,14 @@
         "url": "https://www.newsonair.gov.in/category/international/feed/",
         "hide_desc": false,
         "filter_enabled": false,
-        "keywords": ["Tejas", "DRDO", "Navy"]
+        "keywords": ["Bangladesh"]
     },
     {
         "type": "news",
         "name": "Deccan Chronicle",
         "url": "https://www.deccanchronicle.com/feeds.xml",
         "hide_desc": true,
-        "filter_enabled": true,
+        "filter_enabled": false,
         "keywords": ["maoist", "naxal", "insurgency", "encounter", "bastar", "sukma", "crpf", "security forces", "military", "defence", "nia"]
     },
     {
