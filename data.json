@@ -1,17 +1,24 @@
 {
   "news": [
     {
-<<<<<<< HEAD
-      "title": "Suspected gunman at correspondents\u2019 dinner raises security questions; response termed \u2018success story\u2019",
-      "link": "https://indianexpress.com/article/world/us-news/secret-service-success-story-washington-hilton-shooting-trump-10657662/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-27T12:54:01+05:30",
-      "time": "27 Apr, 12:54 PM",
+      "title": "Iran proposes to reopen Strait of Hormuz without nuclear agreement",
+      "link": "https://www.thehindu.com/news/international/iran-proposal-reopen-strait-of-hormuz-nuclear-agreement-abbas-araghchi-iran-fm-us-iran-talks/article70911158.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T13:32:12+05:30",
+      "time": "27 Apr, 01:32 PM",
       "type": "news",
-      "description": ""
+      "description": "Iran FM in Saint Petersburg blames U.S. for failure of Pakistan talks, state media said"
     },
     {
-=======
+      "title": "Strikes continue in Lebanon as ceasefire holds under strain",
+      "link": "https://www.newsonair.gov.in/strikes-continue-in-lebanon-as-ceasefire-holds-under-strain/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T13:28:24+05:30",
+      "time": "27 Apr, 01:28 PM",
+      "type": "news",
+      "description": "Israeli airstrikes in southern Lebanon have killed at least 14 people, according to Lebanon\u2019s Ministry of Health, as tensions persist despite an ongoi..."
+    },
+    {
       "title": "Rajnath Singh to attend SCO Defence Ministers\u2019 meet in Bishkek amid heightened regional security concerns",
       "link": "https://www.indiastrategic.in/rajnath-singh-to-attend-sco-defence-ministers-meet-in-bishkek-amid-heightened-regional-security-concerns/",
       "source": "India Strategic",
@@ -66,7 +73,6 @@
       "description": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Put..."
     },
     {
->>>>>>> 43d4e80e81c8be3967b2ba6010c4fb2fe6d9ecb5
       "title": "Sri Lanka\u2019s Criminal Investigation Department intensifies investigations into 2.5 million dollar cyber fraud",
       "link": "https://www.newsonair.gov.in/sri-lankas-criminal-investigation-department-intensifies-investigations-into-2-5-million-dollar-cyber-fraud/",
       "source": "AIR International",
@@ -76,18 +82,6 @@
       "description": "Sri Lanka\u2019s Criminal Investigation Department has intensified investigations into a 2.5 million dollar cyber fraud involving the Finance Ministry\u2019s De..."
     },
     {
-<<<<<<< HEAD
-      "title": "King Charles III heads to Washington on a delicate mission to restore the U.K.-U.S. relationship",
-      "link": "https://www.thehindu.com/news/international/king-charles-iii-washington-visit-uk-us-ties-updates/article70910980.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T12:24:24+05:30",
-      "time": "27 Apr, 12:24 PM",
-      "type": "news",
-      "description": "The President has spoken in glowing terms about King Charles, repeatedly referring to the monarch as his \u201cfriend\u201d and a \u201cgreat guy\u201d"
-    },
-    {
-=======
->>>>>>> 43d4e80e81c8be3967b2ba6010c4fb2fe6d9ecb5
       "title": "Iran\u2019s Parliament Speaker Mohammad Bagher Ghalibaf says Iran still has leverage against US",
       "link": "https://www.newsonair.gov.in/irans-parliament-speaker-mohammad-bagher-ghalibaf-says-iran-still-has-leverage-against-us/",
       "source": "AIR International",
@@ -97,18 +91,6 @@
       "description": "Iran&#8217;s Parliament Speaker Mohammad Bagher Ghalibaf today said Iran still has leverage against the United States, pushing back against claims by ..."
     },
     {
-<<<<<<< HEAD
-      "title": "Russian drone attack on Odesa wounds 10, officials say",
-      "link": "https://www.thehindu.com/news/international/russian-drone-attack-on-odesa-wounds-10-officials-say/article70910964.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T12:01:27+05:30",
-      "time": "27 Apr, 12:01 PM",
-      "type": "news",
-      "description": "Russia struck \u200bport infrastructure on \u200cthe Black \u200bSea \u2060in Odesa, which damaged \u200ban \u200cenergy facility within the cargo terminal"
-    },
-    {
-=======
->>>>>>> 43d4e80e81c8be3967b2ba6010c4fb2fe6d9ecb5
       "title": "Guns, drones &amp; algos: AI joins the fight on frontlines",
       "link": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-is-rapidly-transforming-modern-warfare-enabling-real-time-intelligence-autonomous-drones-and-faster-battlefield-decision-making-across-global-conflicts-/articleshow/130545354.cms",
       "source": "Economic Times",
@@ -118,18 +100,6 @@
       "description": "Artificial intelligence is revolutionizing global warfare. Nations are significantly increasing AI spending for defense. This technology enables faste..."
     },
     {
-<<<<<<< HEAD
-      "title": "Israel-Iran LIVE: Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T11:54:00+05:30",
-      "time": "27 Apr, 11:54 AM",
-      "type": "news",
-      "description": "Iran FM arrives in Saint Petersburg for Putin talks, says Iranian state media; Iran gave U.S. a proposal for reopening the Strait Of Hormuz and ending..."
-    },
-    {
-=======
->>>>>>> 43d4e80e81c8be3967b2ba6010c4fb2fe6d9ecb5
       "title": "U.S. says three killed in boat strike as campaign toll hits 185",
       "link": "https://www.thehindu.com/news/international/usa-military-strikes-on-drug-boat-in-pacific-ocean-death-toll/article70910847.ece",
       "source": "The Hindu",
@@ -256,7 +226,7 @@
       "description": "Russian and Iranian state media confirmed Mr. Araghchi\u2019s talks with Putin, citing officials from their respective governments"
     },
     {
-      "title": "Iran US War News Live Updates: Araghchi to meet Putin; Trump says Tehran can call for talks",
+      "title": "Iran US War News Live Updates: Iran FM Abbas Araghchi blames US \u2018excessive demands\u2019 for failed Pakistan talks",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks-10657521/",
       "source": "The Indian Express",
       "sort_key": "2026-04-27T09:31:31+05:30",
@@ -569,15 +539,6 @@
       "time": "26 Apr, 10:48 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "India Hands Over Two Personal Watercrafts and Safety Gear to Sri Lanka Coast Guard",
-      "link": "https://www.newsonair.gov.in/india-hands-over-two-personal-watercrafts-and-safety-gear-to-sri-lanka-coast-guard/",
-      "source": "AIR International",
-      "sort_key": "2026-04-26T22:33:52+05:30",
-      "time": "26 Apr, 10:33 PM",
-      "type": "news",
-      "description": "India handed over two Personal Watercrafts (PWCs) and safety gear to the Sri Lanka Coast Guard today. \u00a0 In a social media post, the High Commission of..."
     },
     {
       "title": "Israel PM says Hezbollah 'dismantling' ceasefire with Lebanon",
@@ -1210,15 +1171,6 @@
       "description": "\u201cI am deeply sorry that we did not alert law enforcement to the account that was banned in June,\u201d Mr. Altman said"
     },
     {
-      "title": "Six killed in Israeli strikes on south Lebanon: Health Ministry",
-      "link": "https://www.thehindu.com/news/international/six-killed-in-israeli-strikes-on-south-lebanon-health-ministry/article70906459.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T01:47:56+05:30",
-      "time": "26 Apr, 01:47 AM",
-      "type": "news",
-      "description": "identified two projectiles launched from Lebanon, decrying \u201ca blatant violation of the ceasefire understandings\u201d by Hezbollah and later intercepted an..."
-    },
-    {
       "title": "Defence Indigenous Push: DRDO, Navy Complete Advanced Hydrodynamic Testing For Frontline Warship",
       "link": "https://www.republicworld.com/defence/defence-indigenous-push-drdo-navy-complete-advanced-hydrodynamic-testing-for-frontline-warship",
       "source": "Republic World",
@@ -1361,21 +1313,20 @@
       "time": "25 Apr, 02:12 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Iran executes atomic agency worker over \u2018spying\u2019 charge, hangs protester as crackdown intensifies",
-      "link": "https://indianexpress.com/article/world/iran-executions-mehdi-farid-mossad-spy-erfan-kiani-protests-10655191/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-25T13:34:23+05:30",
-      "time": "25 Apr, 01:34 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
     {
-<<<<<<< HEAD
-=======
+      "title": "I avoid talking politics, but we have some big names who actually played on the side of Pakistan just because they wanted to ambush the BJP.\n\nAs a nation, we have to draw a line here.",
+      "link": "https://nitter.net/elitepredatorss/status/2048672045442179289#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-27T13:24:12+05:30",
+      "time": "27 Apr, 01:24 PM",
+      "type": "tweets",
+      "content": "<p>I avoid talking politics, but we have some big names who actually played on the side of Pakistan just because they wanted to ambush the BJP.<br />\n<br />\nAs a nation, we have to draw a line here.</p>\n<img src=\"https://nitter.net/pic/media%2FHG5XzTTa8AAvkGC.png\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Why Pakistan's peace efforts failed as per me :</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2043720874109313038#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2043440361666994176%2Fimg%2Fl7OHBBS0G6Ww5Faz.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2043720874109313038#m\">https://nitter.net/elitepredatorss/status/2043720874109313038#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
       "title": "India is set to establish 7 space labs across universities and colleges to provide hands-on training in satellite systems, rocketry, and mission design.\n\nBacked by the growing ecosystem led by Indian Space Research Organisation and IN-SPACe, the move aims to bridge the talent gap in India\u2019s rapidly expanding space sector.",
       "link": "https://nitter.net/NetramDefence/status/2048667138966331511#m",
       "source": "Netram Defense",
@@ -1396,7 +1347,6 @@
       "author": "@sidhant"
     },
     {
->>>>>>> 43d4e80e81c8be3967b2ba6010c4fb2fe6d9ecb5
       "title": "\ud83c\uddee\ud83c\uddf3\ud83e\ude96 In a precise 22 minutes operation.... \ud83d\udd25 \n\n\u2022 9 terror hubs destructed.....\n\u2022 And their command structure crippled.....",
       "link": "https://nitter.net/OsintTV/status/2048655340388986989#m",
       "source": "Osint TV",
@@ -1767,19 +1717,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-<<<<<<< HEAD
-      "title": "Iran Foreign Minister meets Oman Sultan in Muscat.",
-      "link": "https://nitter.net/sidhant/status/2048400680160002365#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T19:25:54+05:30",
-      "time": "26 Apr, 07:25 PM",
-      "type": "tweets",
-      "content": "<p>Iran Foreign Minister meets Oman Sultan in Muscat.</p>\n<a href=\"https://nitter.net/sidhant/status/2048400680160002365#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048344036642377728%2Fimg%2FGRK3kVypVCdLD7h8.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-=======
->>>>>>> 43d4e80e81c8be3967b2ba6010c4fb2fe6d9ecb5
       "title": "RT by @OsintTV: Awaz kaha tak jayegi\ud83c\uddee\ud83c\uddf3\n\u2026\u2026",
       "link": "https://nitter.net/manishindiatv/status/2048393049194250304#m",
       "source": "Osint TV",
@@ -2298,29 +2235,6 @@
       "type": "tweets",
       "content": "<p>BREAKING: Tension escalated during the COCOMI mass rally in Imphal, Manipur on Saturday as a confrontation broke out between the rally participants and police personnel. Police fired tear gas shells to disperse the crowd and bring the situation under control.</p>\n<a href=\"https://nitter.net/KangleipakDaily/status/2047955935340204148#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2047955703596523520%2Fimg%2F3aDZwVplKW3jRprd.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/KangleipakDaily/status/2047955935340204148#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2047955719316762624%2Fimg%2FeTqzd_1nXJBf99Zj.jpg\" />\n</a>",
       "author": "@KangleipakDaily"
-    },
-    {
-      "title": "RT by @OsintTV: Who was the brave unsung hero Tahir Fazal Chaudhary and why he was honoured by Indian army ?\n\nTahir Fazal Chaudhary, also known as \"Bahadur-e-Hill Kaka,\" an unsung hero from Op Sarp Vinash, passed away very recently, on April 22, 2026, at the age of 62 due to a heart attack in Uttarakhand. 16RR paid tribute by performing full military honors. \n\nIn 2002, Tahir was working in Saudi Arabia when he received news that his brother, Haji Mohammad Arif, had been brutally killed by militants. He immediately quit his job and returned to Poonch, taking a solemn oath to avenge his brother and liberate his homeland.\u00a0\n\nAfter His Return To India\nHe mobilized local youth to stand against foreign terrorists and formed \u2018Pir Panjal Scouts,' initially funded by himself, who jointly worked with 9 Para SF & 16 RR.\n\nHis Role in OP Sarp Vinash\nAs a local, he became the eye, ear, and heart of the Indian Army. Where the Army helicopter couldn\u2019t land, he used to provide the precise location of the hideout to foot soldiers of the Indian Army, which led to the killing of 80+ terrorists and dismantled the whole terrorist network in the Pir Panjal mountains.\n\nAftermath Of His Role\nTahir killed terrorist commander Kassid, who killed his brother, and kept his AK-47 as a trophy of war for life.",
-      "link": "https://nitter.net/OsintTV/status/2047949044387910008#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-25T13:31:15+05:30",
-      "time": "25 Apr, 01:31 PM",
-      "type": "tweets",
-      "content": "<p>Who was the brave unsung hero Tahir Fazal Chaudhary and why he was honoured by Indian army ?<br />\n<br />\nTahir Fazal Chaudhary, also known as \"Bahadur-e-Hill Kaka,\" an unsung hero from Op Sarp Vinash, passed away very recently, on April 22, 2026, at the age of 62 due to a heart attack in Uttarakhand. 16RR paid tribute by performing full military honors. <br />\n<br />\nIn 2002, Tahir was working in Saudi Arabia when he received news that his brother, Haji Mohammad Arif, had been brutally killed by militants. He immediately quit his job and returned to Poonch, taking a solemn oath to avenge his brother and liberate his homeland.\u00a0<br />\n<br />\nAfter His Return To India<br />\nHe mobilized local youth to stand against foreign terrorists and formed \u2018Pir Panjal Scouts,' initially funded by himself, who jointly worked with 9 Para SF & 16 RR.<br />\n<br />\nHis Role in OP Sarp Vinash<br />\nAs a local, he became the eye, ear, and heart of the Indian Army. Where the Army helicopter couldn\u2019t land, he used to provide the precise location of the hideout to foot soldiers of the Indian Army, which led to the killing of 80+ terrorists and dismantled the whole terrorist network in the Pir Panjal mountains.<br />\n<br />\nAftermath Of His Role<br />\nTahir killed terrorist commander Kassid, who killed his brother, and kept his AK-47 as a trophy of war for life.</p>\n<img src=\"https://nitter.net/pic/media%2FHGvGSkhbgAEjLsK.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHGvGSkebIAAqvy2.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHGvGSj_WIAA8lmC.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHGvGSkCXIAAIqYp.jpg\" />",
-      "author": "@OsintTV"
-<<<<<<< HEAD
-    },
-    {
-      "title": "I stand by that statement even today, \"not an inch has been lost to China\": Former Army Chief Gen M.M Naravane to ANI",
-      "link": "https://nitter.net/OsintTV/status/2047946019241930926#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-25T13:19:14+05:30",
-      "time": "25 Apr, 01:19 PM",
-      "type": "tweets",
-      "content": "<p>I stand by that statement even today, \"not an inch has been lost to China\": Former Army Chief Gen M.M Naravane to ANI</p>\n<img src=\"https://nitter.net/pic/media%2FHGvD7c8XEAAdF9P.jpg\" />",
-      "author": "@OsintTV"
-=======
->>>>>>> 43d4e80e81c8be3967b2ba6010c4fb2fe6d9ecb5
     }
   ],
   "youtube": [
@@ -2380,10 +2294,6 @@
     }
   ],
   "metadata": {
-<<<<<<< HEAD
-    "last_updated": "01:00 PM IST"
-=======
-    "last_updated": "01:24 PM IST"
->>>>>>> 43d4e80e81c8be3967b2ba6010c4fb2fe6d9ecb5
+    "last_updated": "01:43 PM IST"
   }
 }
