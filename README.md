@@ -4,11 +4,9 @@ Website - [www.indipulse.in](http://www.indipulse.in)
 
 There's no shortage of data on the internet,the problem is most of it is noise. India Pulse cuts through that, targetting the Indian defense and geopolitical space. It pulls open-source data from News, Twitter, and YouTube RSS feeds, filters it by keywords, and presents it in a clean readable format without ads, account and paywall.
 
-## How it works
+## Working
 
-The project is built on the [Flat Data](https://githubnext.com/projects/flat-data/) principle, officially supported by GitHub. A Python script runs hourly, scrapes RSS feeds, filters the content, and dumps everything into a flat `data.json` file. A static website then reads that file and renders it.
-
-That's it. No live server, no database, no over-engineering. Could it use SQLite? Yes. Does it need to? Probably not. A `data.json` file serves the purpose just fine, and that's the point.
+The project is built on the [Flat Data](https://githubnext.com/projects/flat-data/) principle, officially supported by GitHub. A Python script runs hourly, scrapes RSS feeds, filters the content, and dumps everything into a flat `data.json` file. A static website then reads that file and renders it. That's it. No live server, no database, no over-engineering. Could it use SQLite? Yes. Does it need to? Probably not. A `data.json` file serves the purpose just fine, and that's the point.
 
 ![Workflow Diagram](img/workflow.png)
 
@@ -29,14 +27,12 @@ The file holds three types of content:
 
 ### 3. Frontend - `index.html` + `app.js`
 
-No frameworks like React, Vue, or Tailwind are utilised. Just vanilla HTML, CSS, and JavaScript; with one small library, [@knadh/oat](https://github.com/knadh/oat), that styles elements through semantic HTML tags keeping the website clean, minimal and lightweight by design.
+No frameworks like React, Vue, or Tailwind are utilised. Just HTML, CSS, and vanilla JavaScript; with one small library, [@knadh/oat](https://github.com/knadh/oat), that styles elements through semantic HTML tags keeping the website clean, minimal and lightweight by design.
 
 
 ## Customization
 
-The hourly update limit isn't arbitrary, it respects free hosting limits and avoids hammering content platforms with requests.
-
-Swap out `feeds.json` with your own RSS sources and keywords, and you've got a custom feed for whatever you care about, agriculture, finance, tech, anything. You just need to find and plug in the right sources.
+The hourly update limit isn't arbitrary, it respects free hosting limits and avoids hammering content platforms with requests. Swap out `feeds.json` with your own RSS sources and keywords, and you've got a custom feed for whatever you care about, agriculture, finance, tech, anything. You just need to find and plug in the right sources.
 
 ## Local Setup
 
