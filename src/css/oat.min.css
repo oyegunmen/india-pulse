@@ -6,7 +6,7 @@
     --card: light-dark(#fbfbfb, #27272b);
     --card-foreground: light-dark(#09090b, #fafafa);
     --nav-background:light-dark(#ecebeb, #343434);
-    --primary: light-dark(#ed832c, #ed832c);
+    --primary: light-dark(#e79033, #e79033);
     --primary-foreground: light-dark(#fafafa, #18181b);
     --secondary: light-dark(#f4f4f5, #27272a);
     --secondary-foreground: light-dark(#574747, #fafafa);
@@ -86,11 +86,12 @@ section{
 }
 
 .tweet-content img{
-    width: 100%;
+    width: auto;
+    height: auto;
+    max-width: 100%;
     border-radius: 6px;
     margin-top: var(--space-1);
-    aspect-ratio: 16/9;
-    object-fit: cover;
+    display: block;
 }
 
 .head-title{

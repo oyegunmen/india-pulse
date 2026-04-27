@@ -69,10 +69,10 @@ let allData = {};
                 
                 if (currentTab === 'youtube' && activeSources.size > 0) {
                     message = `
-                        <div class="error-state" style="grid-column: 1/-1; text-align: center; padding: 20px;">
-                            <p>There is a known documented issue with the YouTube RSS feed intermittently returning error 404 due to a platform bug.</p>
-                            <p>Expect downtime for youtube feed from <a href="https://www.reddit.com/r/youtube/comments/1r61jpo/all_youtube_channel_rss_feeds_are_down_return_404/" target="_blank" style="text-decoration: underline;">8 AM – 1 PM</a> IST, please check back shortly.</p>
-                            <a href="https://www.reddit.com/r/youtube/search/?q=RSS+404" target="_blank" style="color: #ff0000; text-decoration: underline;">
+                        <div style="grid-column: 1/-1; text-align: center; padding: 20px;">
+                            <p>There is a documented issue with the YouTube RSS feed returning error 404 due to a platform bug.</p>
+                            <p>Expect downtime for youtube feed from <a href="https://www.reddit.com/r/youtube/comments/1r61jpo/all_youtube_channel_rss_feeds_are_down_return_404/" target="_blank">9 AM – 1 PM</a> IST, check back shortly.</p>
+                            <a href="https://www.reddit.com/r/youtube/search/?q=RSS+404" target="_blank">
                                 View complaints of User
                             </a>
                         </div>`;
@@ -91,7 +91,8 @@ let allData = {};
                 
                 if (currentTab === 'youtube') {
                     actionText = "Watch Video ↗&#xFE0E;";
-                    content = `<img src="${item.thumbnail}" class="thumbnail" loading="lazy"><h3 class="mb-2 mt-2">${item.title}</h3>`;
+                    let embedUrl = item.link.replace("watch?v=", "embed/") + "?rel=0";
+                    content = `<div><iframe width="100%" frameborder="0" src="${embedUrl}" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" class="thumbnail" loading="lazy" allowfullscreen></iframe></div><h3 class="mb-2 mt-2">${item.title}</h3>`;
                 } else if (currentTab === 'tweets') {
                     actionText = "View Tweet ↗&#xFE0E;";
                     let tweetHtml = item.content;
