@@ -65,14 +65,6 @@
     },
     {
         "type": "news",
-        "name": "Swarajya",
-        "url": "https://news.google.com/rss/search?q=defense+india+site:swarajyamag.com&hl=en-IN&gl=IN&ceid=IN:en",
-        "hide_desc": true,
-        "filter_enabled": false,
-        "keywords": ["Tejas", "DRDO", "Navy"]
-    },
-    {
-        "type": "news",
         "name": "India Strategic",
         "url": "https://www.indiastrategic.in/feed/",
         "hide_desc": false,

@@ -2,6 +2,8 @@ import feedparser
 import json
 from datetime import datetime, timedelta, timezone
 
+HEADERS = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
 ist_tz = timezone(timedelta(hours=5, minutes=30))
 
 last_run_time = datetime.now(ist_tz) + timedelta(minutes=2)
@@ -34,7 +36,7 @@ def fetch_all():
 
     for source in sources:
         print(f"Fetching: {source['name']}")
-        feed = feedparser.parse(source['url'])
+        feed = feedparser.parse(source['url'], agent=HEADERS['User-Agent'])
         category = source.get('type', 'news')
         
         for entry in feed.entries:
