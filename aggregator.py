@@ -12,7 +12,6 @@ def matches_filter(item_title, item_body, source_config):
         return True
     
     keywords = source_config.get('keywords', [])
-
     if not keywords:
         return True
     
