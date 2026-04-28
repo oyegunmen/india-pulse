@@ -1,22 +1,76 @@
 {
   "news": [
     {
-      "title": "Gunman opens fire at two locations in the Greek capital, leaving several people wounded",
-      "link": "https://www.thehindu.com/news/international/greece-athens-shooting-april-28-2026/article70915750.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T15:09:45+05:30",
-      "time": "28 Apr, 03:09 PM",
+      "title": "Uganda authorities detains 231 foreigners in crackdown on illegal migration and cybercrime",
+      "link": "https://www.newsonair.gov.in/uganda-detains-231-foreigners-in-crackdown-on-illegal-migration-and-cybercrime/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T17:13:27+05:30",
+      "time": "28 Apr, 05:13 PM",
       "type": "news",
-      "description": "Police said that the man was armed with a shotgun and initially opened fire at a social security office in the centre of the Greek capital, wounding a..."
+      "description": "Ugandan authorities have detained 231 foreigners in a major crackdown on illegal migration linked to suspected human trafficking and cybercrime operat..."
     },
     {
-      "title": "Israel-Iran war LIVE: \u00a0Iran says U.S. no longer in position to \u2018dictate\u2019 policy to other nations",
+      "title": "Keralam DGP Dismisses Reports Claiming Terrorist Presence In Guruvayur",
+      "link": "https://www.deccanchronicle.com/southern-states/kerala/keralam-dgp-dismisses-reports-claiming-terrorist-presence-in-guruvayur-1953303",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-04-28T16:57:09+05:30",
+      "time": "28 Apr, 04:57 PM",
+      "type": "news",
+      "description": "Keralam state DGP informed that a Kashmiri man found in the temple town on April 22 had been taken into police custody and examined in detail."
+    },
+    {
+      "title": "Israel-Iran war LIVE: U.S. says examining latest Iran proposal on Strait of Hormuz",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-28T14:57:21+05:30",
-      "time": "28 Apr, 02:57 PM",
+      "sort_key": "2026-04-28T16:51:54+05:30",
+      "time": "28 Apr, 04:51 PM",
       "type": "news",
       "description": "U.S., Iran clash over Tehran's nuclear programme as review of atomic treaty begins at UN; Iranian Foreign Minister praises Russia ties, welcomes Mosco..."
+    },
+    {
+      "title": "Former Pakistan PM Imran Khan treated for eye ailment then sent back to prison",
+      "link": "https://www.thehindu.com/news/international/former-pakistan-pm-imran-khan-treated-for-eye-ailment-then-sent-back-to-prison/article70916024.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T16:49:01+05:30",
+      "time": "28 Apr, 04:49 PM",
+      "type": "news",
+      "description": "Khan\u2019s ongoing eye treatment raises concerns among supporters and family, who demand better medical care and the presence of loved ones during procedu..."
+    },
+    {
+      "title": "Alleged drug trafficking kingpin deported from T\u00fcrkiye to India",
+      "link": "https://www.thehindu.com/news/national/key-dawood-associate-and-drug-kingpin-salim-dola-deported-to-india-after-arrest-in-istanbul/article70915182.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T16:26:14+05:30",
+      "time": "28 Apr, 04:26 PM",
+      "type": "news",
+      "description": "59-year-old accused Salim Dola was handed over to the Narcotics Control Bureau and taken to its headquarters in Delhi"
+    },
+    {
+      "title": "External Affairs Minister S Jaishankar meets UNGA President Annalena Baerbock in New Delhi",
+      "link": "https://www.newsonair.gov.in/external-affairs-minister-s-jaishankar-meets-unga-president-annalena-baerbock-in-new-delhi/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T16:11:02+05:30",
+      "time": "28 Apr, 04:11 PM",
+      "type": "news",
+      "description": "External Affairs Minister Dr S Jaishankar today met United Nations General Assembly President Annalena Baerbock in New Delhi. In a social media post, ..."
+    },
+    {
+      "title": "U.S. no longer in position to \u2018dictate\u2019 policy to other nations, says Iran",
+      "link": "https://www.thehindu.com/news/international/us-no-longer-in-position-to-dictate-policy-to-other-nations-says-iran/article70915569.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T15:51:36+05:30",
+      "time": "28 Apr, 03:51 PM",
+      "type": "news",
+      "description": "While a ceasefire has halted the fighting between Iran, the U.S. and Israel, talks on bringing a permanent conclusion to the conflict have been inconc..."
+    },
+    {
+      "title": "German Chancellor Merz says Iran is humiliating U.S. as talks stall",
+      "link": "https://www.thehindu.com/news/international/german-chancellor-merz-says-iran-is-humiliating-us-as-talks-stall/article70913590.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T15:48:34+05:30",
+      "time": "28 Apr, 03:48 PM",
+      "type": "news",
+      "description": "\u201cThe Iranians are obviously very skilled at negotiating, \u2060or rather, very skilful at not negotiating, letting the Americans travel to Islamabad and th..."
     },
     {
       "title": "U.S. says examining latest Iran proposal on Hormuz",
@@ -55,33 +109,6 @@
       "description": "<p>New Delhi, April 28. The Indian Navy\u2019s offshore patrol vessel INS Sunayna reached Changi Naval Base on April 26 as the fourth halt of her ongoing I..."
     },
     {
-      "title": "Alleged drug trafficking kingpin deported from T\u00fcrkiye to India",
-      "link": "https://www.thehindu.com/news/national/key-dawood-associate-and-drug-kingpin-salim-dola-deported-to-india-after-arrest-in-istanbul/article70915182.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T14:38:21+05:30",
-      "time": "28 Apr, 02:38 PM",
-      "type": "news",
-      "description": "59-year-old accused Salim Dola was handed over to the Narcotics Control Bureau and taken to its headquarters in Delhi"
-    },
-    {
-      "title": "Mount Everest summit route cleared by Sherpas after 2-week blockage",
-      "link": "https://indianexpress.com/article/world/mount-everest-summit-route-cleared-by-sherpas-after-2-week-blockage-10660033/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-28T14:22:20+05:30",
-      "time": "28 Apr, 02:22 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "U.S. no longer in position to \u2018dictate\u2019 policy to other nations, says Iran",
-      "link": "https://www.thehindu.com/news/international/us-no-longer-in-position-to-dictate-policy-to-other-nations-says-iran/article70915569.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T14:18:12+05:30",
-      "time": "28 Apr, 02:18 PM",
-      "type": "news",
-      "description": "While a ceasefire has halted the fighting between Iran, the U.S. and Israel, talks on bringing a permanent conclusion to the conflict have been inconc..."
-    },
-    {
       "title": "Rajnath Singh urges SCO to act against terror safe havens, cites \u2018Operation Sindoor\u2019 as message of resolve",
       "link": "https://www.indiastrategic.in/rajnath-singh-urges-sco-to-act-against-terror-safe-havens-cites-operation-sindoor-as-message-of-resolve/",
       "source": "India Strategic",
@@ -98,15 +125,6 @@
       "time": "28 Apr, 02:04 PM",
       "type": "news",
       "description": "Defence Minister Rajnath Singh today called for a unified front to tackle terrorism, separatism and extremism by eliminating safe havens and rejecting..."
-    },
-    {
-      "title": "German tourist dies in Egypt after snake crawls into pants, bites him during show",
-      "link": "https://indianexpress.com/article/world/german-tourist-death-egypt-snake-bite-hurghada-hotel-show-investigation-10659424/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-28T14:00:40+05:30",
-      "time": "28 Apr, 02:00 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "UNICEF warns Afghanistan may lose 20,000 women teachers by 2030 amid restrictions",
@@ -262,15 +280,6 @@
       "description": "Dr. Jamal Eltaeb was leading Al Nao hospital in Omdurman, just outside the capital, Khartoum, as control of the urban area shifted between Sudan\u2019s arm..."
     },
     {
-      "title": "White House to review presidential security; spotlight on line of succession",
-      "link": "https://www.thehindu.com/news/international/white-house-to-review-presidential-security-spotlight-on-line-of-succession/article70914799.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T11:31:00+05:30",
-      "time": "28 Apr, 11:31 AM",
-      "type": "news",
-      "description": "The foiled attack at the Washington Hilton hotel, the venue of the White House Correspondents Association Dinner, has also brought into focus the pres..."
-    },
-    {
       "title": "U.S. Trade Representative's Office to hear investigations on Trump\u2019s new import taxes",
       "link": "https://www.thehindu.com/news/international/us-trade-representatives-office-to-hear-investigations-on-trumps-new-import-taxes/article70914823.ece",
       "source": "The Hindu",
@@ -287,15 +296,6 @@
       "time": "28 Apr, 11:18 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Indonesian police charge 13 in daycare abuse scandal",
-      "link": "https://www.thehindu.com/news/international/indonesian-police-charge-13-in-daycare-abuse-scandal/article70914898.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T10:48:54+05:30",
-      "time": "28 Apr, 10:48 AM",
-      "type": "news",
-      "description": "Those in custody include 11 child carers, as well as the headmaster and the head of the foundation that ran the centre"
     },
     {
       "title": "German Chancellor Merz says Iranians are outplaying US, mocks Trump over \u2018failed\u2019 Tehran talks",
@@ -343,15 +343,6 @@
       "description": "Negotiations around a possible Iran\u2013US ceasefire have shifted focus towards a Gulf state near the Strait of Hormuz, raising questions over Pakistan\u2019s ..."
     },
     {
-      "title": "\u2018Friendly Federal Assassin\u2019: US justice department reveals chilling details about Washington dinner shooting suspect",
-      "link": "https://indianexpress.com/article/world/friendly-federal-assassin-us-doj-reveals-chilling-details-from-white-house-shooting-suspects-manifesto-10659441/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-28T10:06:43+05:30",
-      "time": "28 Apr, 10:06 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "White House Correspondents\u2019 dinner shooting suspect charged with attempt to assassinate US President",
       "link": "https://www.newsonair.gov.in/white-house-correspondents-dinner-shooting-suspect-charged-with-attempt-to-assassinate-us-president/",
       "source": "All India Radio",
@@ -388,33 +379,6 @@
       "description": "Lashkar-e-Taiba (LeT) figure Sheikh Yousaf Afridi, a close associate of Hafiz Saeed, was shot dead by unidentified gunmen in Pakistan's Khyber Pakhtun..."
     },
     {
-      "title": "Freedom of navigation not negotiable: IMO addresses UN Security Council on maritime safety in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/freedom-of-navigation-not-negotiable-imo-addresses-un-security-council-on-maritime-safety-in-strait-of-hormuz/article70913759.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T09:12:23+05:30",
-      "time": "28 Apr, 09:12 AM",
-      "type": "news",
-      "description": "Any deviation from these well-established and recognized principles would set a negative precedent and severely undermine the integrity and stability ..."
-    },
-    {
-      "title": "14 killed, over 80 injured after 2 trains collide in Indonesia; rescue operations underway",
-      "link": "https://indianexpress.com/article/world/indonesia-train-collision-deaths-injured-rescue-operations-10659372/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-28T08:59:09+05:30",
-      "time": "28 Apr, 08:59 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Indonesia train crash toll rises to 14 as rescuers work to remove trapped passengers",
-      "link": "https://www.thehindu.com/news/international/indonesia-train-crash-death-toll-updates/article70914646.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T08:52:57+05:30",
-      "time": "28 Apr, 08:52 AM",
-      "type": "news",
-      "description": "\u201cA taxi on the train tracks was hit by the commuter train, and the long-distance train hit a women-only carriage on the commuter train,\u201d Bobby Rasyidi..."
-    },
-    {
       "title": "UN Chief Ant\u00f3nio Guterres warns of rising nuclear risks and testing concerns",
       "link": "https://www.newsonair.gov.in/un-chief-antonio-guterres-warns-of-rising-nuclear-risks-and-testing-concerns/",
       "source": "All India Radio",
@@ -433,38 +397,11 @@
       "description": "Iran's Foreign Minister Abbas Araghchi is in Islamabad for diplomatic talks. This visit follows his engagements in Russia. Pakistan is playing a key r..."
     },
     {
-      "title": "South African consulate marks Freedom Day in Mumbai",
-      "link": "https://www.newsonair.gov.in/south-african-consulate-marks-freedom-day-in-mumbai/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-28T08:41:13+05:30",
-      "time": "28 Apr, 08:41 AM",
-      "type": "news",
-      "description": "The South African Consul in India celebrated 32 years of South Africa&#8217;s freedom in Mumbai yesterday. The day also coincides with 30 years of the..."
-    },
-    {
-      "title": "US considering Iran\u2019s offer to open Strait of Hormuz in exchange for Washington lifting blockade on Iranians ports and to end war",
-      "link": "https://www.newsonair.gov.in/us-considering-irans-offer-to-open-strait-of-hormuz-in-exchange-for-washington-lifting-blockade-on-iranians-ports-and-to-end-war/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-28T08:25:19+05:30",
-      "time": "28 Apr, 08:25 AM",
-      "type": "news",
-      "description": "US President Donald Trump met with his national security team to discuss Iran&#8217;s latest proposal to open the Strait of Hormuz. \u00a0 Addressing a pre..."
-    },
-    {
       "title": "Indian-origin man sentenced to 19-month jail in Singapore for molesting minor",
       "link": "https://indianexpress.com/article/world/indian-origin-man-sentenced-singapore-minor-molestation-case-court-verdict-10659262/",
       "source": "The Indian Express",
       "sort_key": "2026-04-28T08:23:26+05:30",
       "time": "28 Apr, 08:23 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Sweet diplomacy: Honey, hives and high-level talks mark King Charles\u2019 visit to US amid strained ties",
-      "link": "https://indianexpress.com/article/world/us-news/king-charles-queen-camilla-us-state-visit-donald-trump-white-house-diplomacy-10659283/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-28T08:05:40+05:30",
-      "time": "28 Apr, 08:05 AM",
       "type": "news",
       "description": ""
     },
@@ -494,15 +431,6 @@
       "time": "28 Apr, 07:09 AM",
       "type": "news",
       "description": "Taiwan's defense ministry reported spotting two Chinese warships, a destroyer and a frigate, operating southwest of the Penghu islands. Taiwan's naval..."
-    },
-    {
-      "title": "Islamic State militants kill at least 29 in attack on a village in northeastern Nigeria",
-      "link": "https://www.thehindu.com/news/international/islamic-state-militants-kill-at-least-29-in-attack-on-a-village-in-northeastern-nigeria/article70914644.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T07:05:06+05:30",
-      "time": "28 Apr, 07:05 AM",
-      "type": "news",
-      "description": "The Islamic State group claimed responsibility for the attack in a message on the Telegram messaging app"
     },
     {
       "title": "Afghan officials say Pakistani strikes killed 7, wounded 85 in first attacks since peace talks",
@@ -604,15 +532,6 @@
       "description": "Jammu and Kashmir administration has declared Darul Uloom Jamia Siraj-ul-Uloom in Shopian an unlawful entity. The seminary faces allegations of links ..."
     },
     {
-      "title": "U.K. PM Starmer faces possible Parliament probe over Mandelson",
-      "link": "https://www.thehindu.com/news/international/uk-pm-starmer-faces-possible-parliament-probe-over-mandelson/article70913673.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T23:13:17+05:30",
-      "time": "27 Apr, 11:13 PM",
-      "type": "news",
-      "description": "It is the latest development in an unrelenting scandal that has plagued Mr. Starmer's government for months and led to calls for him to resign"
-    },
-    {
       "title": "China vows countermeasures if EU enacts 'Made in Europe' plan",
       "link": "https://www.thehindu.com/news/international/china-vows-countermeasures-if-eu-enacts-made-in-europe-plan/article70913665.ece",
       "source": "The Hindu",
@@ -629,15 +548,6 @@
       "time": "27 Apr, 10:53 PM",
       "type": "news",
       "description": "The Ministry, in a statement, listed the dozens stripped of their citizenship, which it said included dependents, adding they \"were found to have supp..."
-    },
-    {
-      "title": "German Chancellor Merz says Iran is humiliating U.S. as talks stall",
-      "link": "https://www.thehindu.com/news/international/german-chancellor-merz-says-iran-is-humiliating-us-as-talks-stall/article70913590.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T22:32:44+05:30",
-      "time": "27 Apr, 10:32 PM",
-      "type": "news",
-      "description": "\u201cThe Iranians are obviously very skilled at negotiating, \u2060or rather, very skilful at not negotiating, letting the Americans travel to Islamabad and th..."
     },
     {
       "title": "Russian drone attack wounds 14 while Ukrainian drones kill two in Russia-held area",
@@ -712,15 +622,6 @@
       "description": ""
     },
     {
-      "title": "Urdu Wikisource, open source global digital library for Urdu literature, launched",
-      "link": "https://www.thehindu.com/news/national/urdu-wikisource-open-source-global-digital-library-for-urdu-literature-launched/article70911838.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T19:56:36+05:30",
-      "time": "27 Apr, 07:56 PM",
-      "type": "news",
-      "description": "International partnerships provide foundational content, including rare Urdu texts, for the Wikisource platform to reach this milestone"
-    },
-    {
       "title": "Watch: Big trade boost: India, New Zealand ink historic deal",
       "link": "https://www.thehindu.com/videos/watch-big-trade-boost-india-new-zealand-ink-historic-deal/article70912867.ece",
       "source": "The Hindu",
@@ -728,15 +629,6 @@
       "time": "27 Apr, 07:45 PM",
       "type": "news",
       "description": "India and New Zealand sign a landmark free trade agreement in New Delhi, unlocking 100% duty-free access for Indian exports"
-    },
-    {
-      "title": "UK PM Starmer could face parliamentary inquiry over Epstein-linked Mandelson appointment",
-      "link": "https://indianexpress.com/article/world/uk-pm-keir-starmer-parliament-vote-peter-mandelson-inquiry-10658711/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-27T19:31:22+05:30",
-      "time": "27 Apr, 07:31 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Iran\u2019s FM Araghchi calls his Islamabad visit \u2018successful'\u2019 after arriving in Russia",
@@ -773,15 +665,6 @@
       "time": "27 Apr, 04:41 PM",
       "type": "news",
       "description": "The proposed structure envisions the post of Chief of Defence Staff (CDS) rotating between the Army, Navy and Air Force, it is learnt."
-    },
-    {
-      "title": "Archbishop of Canterbury Sarah Mullally meets with pope and prays at the Vatican",
-      "link": "https://www.thehindu.com/news/international/archbishop-of-canterbury-sarah-mullally-meets-with-pope-and-prays-at-the-vatican/article70911589.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T15:39:26+05:30",
-      "time": "27 Apr, 03:39 PM",
-      "type": "news",
-      "description": "Archbishop Mullally is on a four-day pilgrimage to Rome that has included visits to the main pontifical basilicas, where she has prayed at the tombs o..."
     },
     {
       "title": "In a first, Israel deploys Iron Dome to UAE to counter Iran missile and drone attacks",
@@ -838,15 +721,6 @@
       "description": "Iran also wants the U.S. to end its blockade of the country as part of its proposal, said the two officials, who spoke on condition of anonymity to di..."
     },
     {
-      "title": "\u2018Were groomed to protect him\u2019: In U-turn after 16 years, Michael Jackson\u2019s \u2018second family\u2019 says he abused them",
-      "link": "https://indianexpress.com/article/world/michael-jackson-second-family-sexual-abuse-10658042/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-27T14:48:32+05:30",
-      "time": "27 Apr, 02:48 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Iran war disrupts the\u00a0circuit board supply chain, raises costs for tech firms",
       "link": "https://www.thehindu.com/sci-tech/technology/iran-war-disrupts-thecircuit-board-supply-chain-raises-costs-for-tech-firms/article70911358.ece",
       "source": "The Hindu",
@@ -856,15 +730,6 @@
       "description": "The disruption is a fresh blow to electronics manufacturers which are already grappling with soaring memory chip \u200ccosts and highlights the broadening ..."
     },
     {
-      "title": "\u2018Get out of my country\u2019: Sikh man assaulted in Canada in suspected \u2018hate\u2019 crime, say police",
-      "link": "https://indianexpress.com/article/world/canada-news/sikh-man-assaulted-canada-woodstock-ontario-hate-crime-10657740/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-27T13:09:05+05:30",
-      "time": "27 Apr, 01:09 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "King Charles III heads to Washington on a delicate mission to restore the U.K.-U.S. relationship",
       "link": "https://www.thehindu.com/news/international/king-charles-iii-washington-visit-uk-us-ties-updates/article70910980.ece",
       "source": "The Hindu",
@@ -872,15 +737,6 @@
       "time": "27 Apr, 01:01 PM",
       "type": "news",
       "description": "The President has spoken in glowing terms about King Charles, repeatedly referring to the monarch as his \u201cfriend\u201d and a \u201cgreat guy\u201d"
-    },
-    {
-      "title": "Suspected gunman at correspondents\u2019 dinner raises security questions; response termed \u2018success story\u2019",
-      "link": "https://indianexpress.com/article/world/us-news/secret-service-success-story-washington-hilton-shooting-trump-10657662/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-27T12:54:01+05:30",
-      "time": "27 Apr, 12:54 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Guns, drones &amp; algos: War gets smarter, faster &amp; uncomfortably less human",
@@ -917,15 +773,6 @@
       "time": "27 Apr, 11:34 AM",
       "type": "news",
       "description": "Defence Minister Rajnath Singh is in Bishkek, Kyrgyzstan for the SCO Defence Ministers' Meeting. He will highlight India's commitment to global peace ..."
-    },
-    {
-      "title": "Malaysia\u2019s jailed ex-PM Najib withdraws appeal on house arrest, local media reports",
-      "link": "https://www.thehindu.com/news/international/malaysias-jailed-ex-pm-najib-withdraws-appeal-on-house-arrest-local-media-reports/article70910831.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T11:02:57+05:30",
-      "time": "27 Apr, 11:02 AM",
-      "type": "news",
-      "description": "The withdrawal of \u200cappeal for home detention would mark yet another setback for Najib, \u200bafter he was jailed a further 15 years and fined $2.8 billion ..."
     },
     {
       "title": "U.S. State Department orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
@@ -973,7 +820,7 @@
       "description": "Russian and Iranian state media confirmed Mr. Araghchi\u2019s talks with Putin, citing officials from their respective governments"
     },
     {
-      "title": "Iran US War News Live Updates | Philippines not concerned Iran war will distract US from region, Defense Secy says",
+      "title": "Iran US War News Live Updates | \u2018We support Pakistan\u2026in favour of comprehensive deal to end conflict\u2019, says Qatar",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks-10657521/",
       "source": "The Indian Express",
       "sort_key": "2026-04-27T09:31:31+05:30",
@@ -1045,15 +892,6 @@
       "description": "The Malian government confirmed the death of the defence chief, Gen. Sadio Camara, in a post on the defence ministry's Facebook page"
     },
     {
-      "title": "Magnitude 6.2 earthquake shakes part of northern Japan",
-      "link": "https://www.thehindu.com/news/international/magnitude-61-earthquake-strikes-in-northern-japan/article70909918.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T07:40:50+05:30",
-      "time": "27 Apr, 07:40 AM",
-      "type": "news",
-      "description": "The quake struck 18 kilometres (11 miles) west of the small town of Sarabetsu in Hokkaido at a depth of 81 kilometres (50 miles), according to the USG..."
-    },
-    {
       "title": "\u2018I\u2019m not a pedophile\u2026 you are a disgrace\u2019: Trump snaps at reporter over shooter \u2018manifesto\u2019",
       "link": "https://indianexpress.com/article/world/us-news/trump-snaps-reporter-pedophile-manifesto-washington-dinner-shooting-10657387/",
       "source": "The Indian Express",
@@ -1081,15 +919,6 @@
       "description": "Iran, via Pakistani mediators, has offered the United States a new proposal to reopen the Strait of Hormuz and end the war, while deferring nuclear ne..."
     },
     {
-      "title": "Magnitude 6.2 earthquake shakes part of northern Japan",
-      "link": "https://indianexpress.com/article/world/magnitude-6-2-earthquake-shakes-part-of-northern-japan-10657430/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-27T06:40:05+05:30",
-      "time": "27 Apr, 06:40 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "US-Pakistan tango: This risky double-game may dent Islamabad\u2019s relations with Beijing, and also cause international humiliation",
       "link": "https://economictimes.indiatimes.com/news/defence/us-pakistan-tango-this-risky-double-game-may-dent-islamabads-relations-with-beijing-and-also-cause-international-humiliation/articleshow/130541592.cms",
       "source": "Economic Times",
@@ -1097,15 +926,6 @@
       "time": "27 Apr, 06:39 AM",
       "type": "news",
       "description": "Iran's foreign minister refused to meet a US delegation in Pakistan, exposing Islamabad's risky diplomatic tightrope walk. This move, allegedly influe..."
-    },
-    {
-      "title": "King Charles state visit to U.S. to go on as planned after shooting",
-      "link": "https://www.thehindu.com/news/international/king-charles-state-visit-to-us-to-go-on-as-planned-after-shooting/article70909912.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T05:54:42+05:30",
-      "time": "27 Apr, 05:54 AM",
-      "type": "news",
-      "description": "Earlier, senior U.K. Minister Darren Jones told British broadcasters during a round of interviews that security teams in Britain and the U.S. were \"wo..."
     },
     {
       "title": "\u2018I wasn\u2019t worried\u2026 we live in a crazy world\u2019: Donald Trump on shooting scare at Washington dinner",
@@ -1124,15 +944,6 @@
       "time": "27 Apr, 05:18 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Israel-Iran war updates: Trump says Iran can call U.S. if it wants to negotiate",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T04:51:05+05:30",
-      "time": "27 Apr, 04:51 AM",
-      "type": "news",
-      "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
     },
     {
       "title": "Trump says US shooting suspect wrote anti-Christian manifesto, called himself a \u2018Friendly Federal Assassin\u2019",
@@ -1243,15 +1054,6 @@
       "description": ""
     },
     {
-      "title": "\u2018Shots will be fired\u2019: White House press secretary Leavitt\u2019s remarks ahead of shooting goes viral",
-      "link": "https://indianexpress.com/article/world/karoline-leavitt-shots-fired-comment-donald-trump-white-house-dinner-shooting-cole-tomas-allen-10656881/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-26T17:57:34+05:30",
-      "time": "26 Apr, 05:57 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Iran behind Trump dinner shooting? US President hits back with \u2018winning the\u2026war\u2019 message",
       "link": "https://indianexpress.com/article/world/trump-iran-link-white-house-correspondents-dinner-shooting-10656868/",
       "source": "The Indian Express",
@@ -1286,18 +1088,209 @@
       "time": "26 Apr, 05:25 PM",
       "type": "news",
       "description": "President Donald Trump's ambitious Golden Dome missile defence system faces significant hurdles. Concerns are mounting over its massive cost, estimate..."
-    },
-    {
-      "title": "\u2018Shots fired\u2019: Inside Washington Hilton attack, how President Trump was escorted out",
-      "link": "https://indianexpress.com/article/world/us-news/donald-trump-evacuated-white-house-correspondents-dinner-shooting-timeline-cole-tomas-allen-10656689/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-26T16:53:48+05:30",
-      "time": "26 Apr, 04:53 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Afghanistan summons Pakistan Diplomat in Kabul over university attack that killed many",
+      "link": "https://nitter.net/sidhant/status/2049080529602130359#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T16:27:22+05:30",
+      "time": "28 Apr, 04:27 PM",
+      "type": "tweets",
+      "content": "<p>Afghanistan summons Pakistan Diplomat in Kabul over university attack that killed many</p>\n<hr />\n<blockquote>\n<b>Ministry of Foreign Affairs - Afghanistan (@MoFA_Afg)</b>\n<p>\n<p>\u0646\u0646 \u062f \u0627.\u0627.\u0627  \u0628\u0647\u0631\u0646\u06cc\u0648 \u0686\u0627\u0631\u0648 \u0648\u0632\u0627\u0631\u062a  \u067e\u0647 \u06a9\u0627\u0628\u0644 \u06a9\u06d0 \u062f \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u062f \u0633\u0641\u0627\u0631\u062a \u0634\u0627\u0631\u0698\u062f\u0627\u0641\u06cc\u0631 \u0627\u062d\u0636\u0627\u0631 \u06a9\u0693 \u0627\u0648 \u062f \u06a9\u0646\u0693 \u0645\u0631\u06a9\u0632 \u06a9\u06d0 \u067e\u0647 \u067e\u0648\u0647\u0646\u062a\u0648\u0646 \u0633\u0631\u0628\u06d0\u0631\u0647 \u062f \u0689\u06cc\u0648\u0631\u0646\u0689 \u06a9\u0631\u069a\u06d0 \u067e\u0647 \u0627\u0648\u0696\u062f\u0648 \u06a9\u06d0 \u062f \u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u064a \u0681\u0648\u0627\u06a9\u0648\u0646\u0648 \u0644\u0647 \u0644\u0648\u0631\u064a \u067e\u0631 \u0645\u0644\u06a9\u064a \u0627\u0647\u062f\u0627\u0641\u0648 \u0627\u0648 \u0639\u0627\u0645\u0647 \u062a\u0623\u0633\u06cc\u0633\u0627\u062a\u0648 \u062f \u062a\u0631\u0633\u0631\u0647 \u0634\u0648\u06cc\u0648 \u0628\u0631\u06cc\u062f\u0648\u0646\u0648 \u067e\u0647 \u062a\u0693\u0627\u0648 \u062e\u067e\u0644 \u0627\u062d\u062a\u062c\u0627\u062c \u0644\u06cc\u06a9 \u0648\u0631\u062a\u0647 \u0648\u0633\u067e\u0627\u0631\u0647.</p>\n<img src=\"https://nitter.net/pic/media%2FHG_LNbla0AAnrPG.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MoFA_Afg/status/2049079839983014341#m\">https://nitter.net/MoFA_Afg/status/2049079839983014341#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Coming Soon......\n\n\u0905\u092e\u0932 \u0938\u0947 \u091c\u093c\u093f\u0902\u0926\u0917\u0940 \u092c\u0928\u0924\u0940 \u0939\u0948 \u091c\u0928\u094d\u0928\u0924 \u092d\u0940, \u091c\u0939\u0928\u094d\u0928\u0941\u092e \u092d\u0940\n\u092f\u0939\u093e\u0901 \u0917\u0941\u0928\u093e\u0939\u094b\u0902 \u0915\u093e \u0939\u0936\u094d\u0930 \u092d\u0940 \u0939\u0930 \u0926\u092b\u093c\u093e \u092e\u0941\u0915\u093c\u0930\u094d\u0930\u0930 \u0939\u094b\u0924\u093e \u0939\u0948 \u0964\n\n\u0639\u0645\u0644 \u0633\u06d2 \u0632\u0646\u062f\u06af\u06cc \u0628\u0646\u062a\u06cc \u06c1\u06d2 \u062c\u0646\u062a \u0628\u06be\u06cc\u060c \u062c\u06c1\u0646\u0645 \u0628\u06be\u06cc\n\u06cc\u06c1\u0627\u06ba \u06af\u0646\u0627\u06c1\u0648\u06ba \u06a9\u0627 \u062d\u0634\u0631 \u0628\u06be\u06cc \u06c1\u0631 \u062f\u0641\u0639\u06c1 \u0645\u0642\u0631\u0631 \u06c1\u0648\u062a\u0627 \u06c1\u06d2\n\nFrom deeds, life becomes both heaven and hell,\nHere, every wrongdoing meets its destined end.\n\n#SindoorAnniversary \n#JusticeEndures",
+      "link": "https://nitter.net/OsintTV/status/2049079851735204070#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-28T16:24:41+05:30",
+      "time": "28 Apr, 04:24 PM",
+      "type": "tweets",
+      "content": "<p>Coming Soon......<br />\n<br />\n\u0905\u092e\u0932 \u0938\u0947 \u091c\u093c\u093f\u0902\u0926\u0917\u0940 \u092c\u0928\u0924\u0940 \u0939\u0948 \u091c\u0928\u094d\u0928\u0924 \u092d\u0940, \u091c\u0939\u0928\u094d\u0928\u0941\u092e \u092d\u0940<br />\n\u092f\u0939\u093e\u0901 \u0917\u0941\u0928\u093e\u0939\u094b\u0902 \u0915\u093e \u0939\u0936\u094d\u0930 \u092d\u0940 \u0939\u0930 \u0926\u092b\u093c\u093e \u092e\u0941\u0915\u093c\u0930\u094d\u0930\u0930 \u0939\u094b\u0924\u093e \u0939\u0948 \u0964<br />\n<br />\n\u0639\u0645\u0644 \u0633\u06d2 \u0632\u0646\u062f\u06af\u06cc \u0628\u0646\u062a\u06cc \u06c1\u06d2 \u062c\u0646\u062a \u0628\u06be\u06cc\u060c \u062c\u06c1\u0646\u0645 \u0628\u06be\u06cc<br />\n\u06cc\u06c1\u0627\u06ba \u06af\u0646\u0627\u06c1\u0648\u06ba \u06a9\u0627 \u062d\u0634\u0631 \u0628\u06be\u06cc \u06c1\u0631 \u062f\u0641\u0639\u06c1 \u0645\u0642\u0631\u0631 \u06c1\u0648\u062a\u0627 \u06c1\u06d2<br />\n<br />\nFrom deeds, life becomes both heaven and hell,<br />\nHere, every wrongdoing meets its destined end.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23SindoorAnniversary\">#SindoorAnniversary</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23JusticeEndures\">#JusticeEndures</a></p>\n<a href=\"https://nitter.net/OsintTV/status/2049079851735204070#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049079697666191360%2Fimg%2FI09xQ7UzGRRMxfcd.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Salim Dola detained and deported from \"Turkey\". The Pakistanis terrorists will probably have only one place to hide now - The United States.\n\nDola is a drug lord, whenever you heard drug always remember it is the best source of income for terror groups.\n\nDola's custody will absolutely aid the anti-narcotics ops being carried out by forces on daily basis especially on the border area.\n\nWhich will eventually impact our counter terrorist ops on east and west.",
+      "link": "https://nitter.net/elitepredatorss/status/2049079318769479797#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-28T16:22:34+05:30",
+      "time": "28 Apr, 04:22 PM",
+      "type": "tweets",
+      "content": "<p>Salim Dola detained and deported from \"Turkey\". The Pakistanis terrorists will probably have only one place to hide now - The United States.<br />\n<br />\nDola is a drug lord, whenever you heard drug always remember it is the best source of income for terror groups.<br />\n<br />\nDola's custody will absolutely aid the anti-narcotics ops being carried out by forces on daily basis especially on the border area.<br />\n<br />\nWhich will eventually impact our counter terrorist ops on east and west.</p>\n<img src=\"https://nitter.net/pic/media%2FHG_Kx_yb0AAX7NY.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "UNGA President Annalena Baerbock hopes next UN SG is a woman.",
+      "link": "https://nitter.net/sidhant/status/2049076920600735922#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T16:13:02+05:30",
+      "time": "28 Apr, 04:13 PM",
+      "type": "tweets",
+      "content": "<p>UNGA President Annalena Baerbock hopes next UN SG is a woman.</p>\n<a href=\"https://nitter.net/sidhant/status/2049076920600735922#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049076772038406145%2Fpu%2Fimg%2FOZHFok_XJhE4d9VN.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "At the SCO Defence Ministers' Meet in Kyrgyzstan, RM @rajnathsingh delivered a clear message: terrorism is the \"gravest threat\" to global peace. He reiterated India's zero-tolerance policy, citing the Pahalgam attack & Operation Sindoor.",
+      "link": "https://nitter.net/NetramDefence/status/2049076885121044928#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T16:12:54+05:30",
+      "time": "28 Apr, 04:12 PM",
+      "type": "tweets",
+      "content": "<p>At the SCO Defence Ministers' Meet in Kyrgyzstan, RM <a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a> delivered a clear message: terrorism is the \"gravest threat\" to global peace. He reiterated India's zero-tolerance policy, citing the Pahalgam attack &amp; Operation Sindoor.</p>\n<img src=\"https://nitter.net/pic/media%2FHG_IjA-bIAE15oP.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "UNGA President Annalena Baerbock on Venezuela\n\n'.. Unilateral actions should not be allowed...'\n\n'..UN Charter is not optional..'",
+      "link": "https://nitter.net/sidhant/status/2049075527055818898#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T16:07:30+05:30",
+      "time": "28 Apr, 04:07 PM",
+      "type": "tweets",
+      "content": "<p>UNGA President Annalena Baerbock on Venezuela<br />\n<br />\n'.. Unilateral actions should not be allowed...'<br />\n<br />\n'..UN Charter is not optional..'</p>\n<a href=\"https://nitter.net/sidhant/status/2049075527055818898#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049075223488843776%2Fpu%2Fimg%2FggM5NMYM3wLHMEa4.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>UNGA President Annalena Baerbock begins a press conference in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHG-_bM_aYAAwYJR.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049066833521848633#m\">https://nitter.net/sidhant/status/2049066833521848633#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"Zaib Zuber Ansari\".\n\n>31 yo\n>Zaib Zuber\n>Lived in US\n>Lost Job & came India\n>Stabbed Hindu Guards\n>Rajkumar Mishra & Subroto Sen \n>He asked Guards to recite Kalma.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2049075165531943371#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-28T16:06:04+05:30",
+      "time": "28 Apr, 04:06 PM",
+      "type": "tweets",
+      "content": "<p>\"Zaib Zuber Ansari\".<br />\n<br />\n&gt;31 yo<br />\n&gt;Zaib Zuber<br />\n&gt;Lived in US<br />\n&gt;Lost Job &amp; came India<br />\n&gt;Stabbed Hindu Guards<br />\n&gt;Rajkumar Mishra &amp; Subroto Sen <br />\n&gt;He asked Guards to recite Kalma.</p>\n<img src=\"https://nitter.net/pic/media%2FHG_GoPIbwAA4bRJ.png\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "In Delhi, UNGA President Annalena Baerbock condemns the killing of UN peacekeepers in Lebanon.",
+      "link": "https://nitter.net/sidhant/status/2049072260640907671#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:54:31+05:30",
+      "time": "28 Apr, 03:54 PM",
+      "type": "tweets",
+      "content": "<p>In Delhi, UNGA President Annalena Baerbock condemns the killing of UN peacekeepers in Lebanon.</p>\n<a href=\"https://nitter.net/sidhant/status/2049072260640907671#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049071934974095360%2Fpu%2Fimg%2FMUxJzVEIzEM7lhTN.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "In Delhi, UNGA President Annalena Baerbock says 'small steps' taken on UNSC reforms",
+      "link": "https://nitter.net/sidhant/status/2049072065270149405#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:53:44+05:30",
+      "time": "28 Apr, 03:53 PM",
+      "type": "tweets",
+      "content": "<p>In Delhi, UNGA President Annalena Baerbock says 'small steps' taken on UNSC reforms</p>\n<a href=\"https://nitter.net/sidhant/status/2049072065270149405#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049071729268666368%2Fpu%2Fimg%2FUK95dZMiuxuiCHli.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Air India, IndiGo, SpiceJet seek ATF price relief; say airline industry on verge of \u2018stopping operations\u2019",
+      "link": "https://nitter.net/WarMonitorINTL/status/2049071820146606196#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-28T15:52:46+05:30",
+      "time": "28 Apr, 03:52 PM",
+      "type": "tweets",
+      "content": "<p>Air India, IndiGo, SpiceJet seek ATF price relief; say airline industry on verge of \u2018stopping operations\u2019</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Osint Report \ud83e\ude96\ud83c\uddf5\ud83c\uddf0 : \n\n\u2022 Pakistan has inducted around 150 Cobra 8\u00d78 and 4\u00d74 Al-Fast armored and heavy-duty vehicles from Turkey for the Pakistan Army.\n\n\u2022 Initial deployment includes 20 to 30 vehicles along the Afghan border and 20 to 25 in Pakistan-occupied Kashmir.\n\n\u2022 8\u00d78 variants will support weapons transport. 4\u00d74 units will be used in frontline security operations.\n\n\u2022 The vehicles are designed for high-threat environments, with protection against IEDs and landmines.\n\n\u2022 This is part of an ongoing procurement phase, with more units expected to be purchased by pak army.",
+      "link": "https://nitter.net/OsintTV/status/2049069472300913128#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-28T15:43:26+05:30",
+      "time": "28 Apr, 03:43 PM",
+      "type": "tweets",
+      "content": "<p>Osint Report \ud83e\ude96\ud83c\uddf5\ud83c\uddf0 : <br />\n<br />\n\u2022 Pakistan has inducted around 150 Cobra 8\u00d78 and 4\u00d74 Al-Fast armored and heavy-duty vehicles from Turkey for the Pakistan Army.<br />\n<br />\n\u2022 Initial deployment includes 20 to 30 vehicles along the Afghan border and 20 to 25 in Pakistan-occupied Kashmir.<br />\n<br />\n\u2022 8\u00d78 variants will support weapons transport. 4\u00d74 units will be used in frontline security operations.<br />\n<br />\n\u2022 The vehicles are designed for high-threat environments, with protection against IEDs and landmines.<br />\n<br />\n\u2022 This is part of an ongoing procurement phase, with more units expected to be purchased by pak army.</p>\n<img src=\"https://nitter.net/pic/media%2FHG_ByYzb0AA2UCF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG_ByYLXIAAzYG_.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "PGA Mentions & pays homage to Dr Hansa Mehta",
+      "link": "https://nitter.net/sidhant/status/2049068817482145802#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:40:50+05:30",
+      "time": "28 Apr, 03:40 PM",
+      "type": "tweets",
+      "content": "<p>PGA Mentions &amp; pays homage to Dr Hansa Mehta</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>UNGA President Annalena Baerbock begins a press conference in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHG-_bM_aYAAwYJR.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049066833521848633#m\">https://nitter.net/sidhant/status/2049066833521848633#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "In Delhi, UNGA President Annalena Baerbock calls for UN reforms; Mentions the process of appointment of new UNSG",
+      "link": "https://nitter.net/sidhant/status/2049068606772944924#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:40:00+05:30",
+      "time": "28 Apr, 03:40 PM",
+      "type": "tweets",
+      "content": "<p>In Delhi, UNGA President Annalena Baerbock calls for UN reforms; Mentions the process of appointment of new UNSG</p>\n<a href=\"https://nitter.net/sidhant/status/2049068606772944924#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049068556063842304%2Fpu%2Fimg%2F79qt-FOdN3-ak7C0.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "In Delhi, UNGA President Annalena Baerbock lauds India's role in UN peacekeeping, support for the India UN development partnership fund.",
+      "link": "https://nitter.net/sidhant/status/2049068292187496647#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:38:45+05:30",
+      "time": "28 Apr, 03:38 PM",
+      "type": "tweets",
+      "content": "<p>In Delhi, UNGA President Annalena Baerbock lauds India's role in UN peacekeeping, support for the India UN development partnership fund.</p>\n<a href=\"https://nitter.net/sidhant/status/2049068292187496647#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049068202198773760%2Fpu%2Fimg%2FqNwswR7p3OzNgugj.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "In Delhi, UNGA President Annalena Baerbock says 'we are witnessing growing geopolitical tensions'",
+      "link": "https://nitter.net/sidhant/status/2049067819946627239#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:36:52+05:30",
+      "time": "28 Apr, 03:36 PM",
+      "type": "tweets",
+      "content": "<p>In Delhi, UNGA President Annalena Baerbock says 'we are witnessing growing geopolitical tensions'</p>\n<a href=\"https://nitter.net/sidhant/status/2049067819946627239#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049067740691107840%2Fpu%2Fimg%2FxM-5lppjQxDMZIa3.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "UNGA President Annalena Baerbock begins a press conference in Delhi",
+      "link": "https://nitter.net/sidhant/status/2049066833521848633#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:32:57+05:30",
+      "time": "28 Apr, 03:32 PM",
+      "type": "tweets",
+      "content": "<p>UNGA President Annalena Baerbock begins a press conference in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHG-_bM_aYAAwYJR.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Delhi:\n\n\u2018Operation Global-Hunt'\n\nMohammed Salim Dola under the custody of NCB.",
+      "link": "https://nitter.net/Goreunit/status/2049066214677413909#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-28T15:30:30+05:30",
+      "time": "28 Apr, 03:30 PM",
+      "type": "tweets",
+      "content": "<p>Delhi:<br />\n<br />\n\u2018Operation Global-Hunt'<br />\n<br />\nMohammed Salim Dola under the custody of NCB.</p>\n<a href=\"https://nitter.net/Goreunit/status/2049066214677413909#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049066146348126208%2Fpu%2Fimg%2Fa7hYj0MPIRsZCkWa.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Salim Dola, an associate of Dawood Ibrahim, has been deported from Istanbul to India following a coordinated operation by intelligence agencies</p>\n<a href=\"https://nitter.net/Goreunit/status/2049007087431365070#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049007043349213184%2Fpu%2Fimg%2F2QZ6rhMvQ836OAK1.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2049007087431365070#m\">https://nitter.net/Goreunit/status/2049007087431365070#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "UNGA President Annalena Baerbock, EAM Jaishankar hold talks in Delhi",
+      "link": "https://nitter.net/sidhant/status/2049065624081698983#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:28:09+05:30",
+      "time": "28 Apr, 03:28 PM",
+      "type": "tweets",
+      "content": "<p>UNGA President Annalena Baerbock, EAM Jaishankar hold talks in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHG--U2EaoAAfLjN.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "UNGA President Annalena Baerbock to do a press conference in Delhi shortly",
+      "link": "https://nitter.net/sidhant/status/2049064325730693154#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:22:59+05:30",
+      "time": "28 Apr, 03:22 PM",
+      "type": "tweets",
+      "content": "<p>UNGA President Annalena Baerbock to do a press conference in Delhi shortly</p>\n<img src=\"https://nitter.net/pic/media%2FHG-9JR4bsAAeiQW.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @OsintTV: Visuals of Md Salim Dola, Big breakthrough as Narcotics Control Bureau @narcoticsbureau secures return of drug trafficker Mohammad Salim Dola from #T\u00fcrkiye under Operation Global-Hunt. @HMOIndia @indiatvnews",
+      "link": "https://nitter.net/manishindiatv/status/2049064043219222737#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-28T15:21:52+05:30",
+      "time": "28 Apr, 03:21 PM",
+      "type": "tweets",
+      "content": "<p>Visuals of Md Salim Dola, Big breakthrough as Narcotics Control Bureau <a href=\"https://nitter.net/narcoticsbureau\" title=\"NCB INDIA\">@narcoticsbureau</a> secures return of drug trafficker Mohammad Salim Dola from <a href=\"https://nitter.net/search?f=tweets&amp;q=%23T\u00fcrkiye\">#T\u00fcrkiye</a> under Operation Global-Hunt. <a href=\"https://nitter.net/HMOIndia\" title=\"\u0917\u0943\u0939\u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f, HMO India\">@HMOIndia</a> <a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2049064043219222737#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049064024021827584%2Fimg%2FSUbSk1ejOtemr7DC.jpg\" />\n</a>",
+      "author": "@manishindiatv"
+    },
     {
       "title": "Defence Minister Rajnath Singh meets Belarus Defence minister Lieutenant General Viktor Khrenin in Kyrgystan",
       "link": "https://nitter.net/sidhant/status/2049062451023691970#m",
@@ -1359,16 +1352,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Image",
-      "link": "https://nitter.net/Goreunit/status/2049047230200664471#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-28T14:15:03+05:30",
-      "time": "28 Apr, 02:15 PM",
-      "type": "tweets",
-      "content": "<p></p>\n<img src=\"https://nitter.net/pic/media%2FHG-tl4TaQAA0xdK.jpg\" />\n\n<hr />\n<blockquote>\n<b>Lala (@FabulasGuy)</b>\n<p>\n<p>One of the finest mind from Bengal\ud83d\udd25<br />\n<br />\n\u201cPM Modi made a statue worth \u20b9300 crore. If he had given \u20b91 crore to every Indian, no one would have remained poor\u201d<br />\n<br />\nDo Bhakts and PM Modi have any answer?</p>\n<a href=\"https://nitter.net/FabulasGuy/status/2048763733187678521#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048763634399236097%2Fimg%2FqkXNmM-Qyed09iCL.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/FabulasGuy/status/2048763733187678521#m\">https://nitter.net/FabulasGuy/status/2048763733187678521#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "The 4th squadron of S400 has been dispatched from Russia to India, which will arrive in India by the end of May and can be deployed in the Rajasthan sector.",
       "link": "https://nitter.net/Goreunit/status/2049044948339872219#m",
       "source": "War & Gore",
@@ -1389,6 +1372,16 @@
       "author": "@Adam_Burakowski"
     },
     {
+      "title": "RT by @sidhant: SCO Defence Ministers meeting in Kyrgyzstan; Defence Minister Rajnath Singh reiterates zero tolerance against terror\n\nRajnath Singh: Operation Sindoor proved no terror epicentre is immune to punishment\n\n@sidhant joins @kripatistic with more details",
+      "link": "https://nitter.net/WIONews/status/2049040615695106129#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T13:48:46+05:30",
+      "time": "28 Apr, 01:48 PM",
+      "type": "tweets",
+      "content": "<p>SCO Defence Ministers meeting in Kyrgyzstan; Defence Minister Rajnath Singh reiterates zero tolerance against terror<br />\n<br />\nRajnath Singh: Operation Sindoor proved no terror epicentre is immune to punishment<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> joins <a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> with more details</p>\n<a href=\"https://nitter.net/WIONews/status/2049040615695106129#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049039008232321024%2Fimg%2FA-yv9WO9jmgxRWeR.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
       "title": "Mediator is getting mediated again.\n\nIranian Foreign Minister has offered to mediate between Afghan Taliban and Pakistan  just weeks after Chinese mediation efforts which have already failed to calm the border  tensions between both sides.",
       "link": "https://nitter.net/OsintTV/status/2049034561946808357#m",
       "source": "Osint TV",
@@ -1405,97 +1398,7 @@
       "sort_key": "2026-04-28T12:59:37+05:30",
       "time": "28 Apr, 12:59 PM",
       "type": "tweets",
-      "content": "<p>By tackling terrorism, separatism, and extremism without exception, we transform regional security from a challenge into a cornerstone for peace and prosperity: Defence Minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Operation Sindoor demonstrated India\u2019s firm resolve that terrorism epicentres are no longer immune to justifiable punishment: Defence minister Rajnath Singh at SCO meet",
-      "link": "https://nitter.net/sidhant/status/2049028228912951756#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:59:33+05:30",
-      "time": "28 Apr, 12:59 PM",
-      "type": "tweets",
-      "content": "<p>Operation Sindoor demonstrated India\u2019s firm resolve that terrorism epicentres are no longer immune to justifiable punishment: Defence minister Rajnath Singh at SCO meet</p>\n<img src=\"https://nitter.net/pic/media%2FHG-cTLQb0AEN6Xi.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Need to focus on global consensus where co-existence, co-habitation & compassion take precedence over chaos, competition & conflict: Defence minister Rajnath Singh",
-      "link": "https://nitter.net/sidhant/status/2049027907205636204#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:58:16+05:30",
-      "time": "28 Apr, 12:58 PM",
-      "type": "tweets",
-      "content": "<p>Need to focus on global consensus where co-existence, co-habitation &amp; compassion take precedence over chaos, competition &amp; conflict: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "It is SCO\u2019s responsibility to ensure regional as well as global peace & stability: Defence minister Rajnath Singh",
-      "link": "https://nitter.net/sidhant/status/2049027821075571168#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:57:56+05:30",
-      "time": "28 Apr, 12:57 PM",
-      "type": "tweets",
-      "content": "<p>It is SCO\u2019s responsibility to ensure regional as well as global peace &amp; stability: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "SCO should not hesitate in seeking appropriate action against those who abet, shelter & provide safe havens to terrorists: Defence minister Rajnath Singh",
-      "link": "https://nitter.net/sidhant/status/2049027733792207287#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:57:35+05:30",
-      "time": "28 Apr, 12:57 PM",
-      "type": "tweets",
-      "content": "<p>SCO should not hesitate in seeking appropriate action against those who abet, shelter &amp; provide safe havens to terrorists: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Terrorism has no nationality, no theology; Nations must take firm & collective stance against the menace: Defence minister Rajnath Singh",
-      "link": "https://nitter.net/sidhant/status/2049027664032485723#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:57:18+05:30",
-      "time": "28 Apr, 12:57 PM",
-      "type": "tweets",
-      "content": "<p>Terrorism has no nationality, no theology; Nations must take firm &amp; collective stance against the menace: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "SCO Defence ministers meet in Kyrgyzstan. Defence minister Rajnath Singh represented India.",
-      "link": "https://nitter.net/sidhant/status/2049026379614965849#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:52:12+05:30",
-      "time": "28 Apr, 12:52 PM",
-      "type": "tweets",
-      "content": "<p>SCO Defence ministers meet in Kyrgyzstan. Defence minister Rajnath Singh represented India.</p>\n<img src=\"https://nitter.net/pic/media%2FHG-aoDma8AAXbPg.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Indian address during Bahrain Presidency of UNSC. Bahrain hosted a meeting on maritime safety. \n\nIndia highlighted the role of IFC-IOR, concern of pollution due to attack on commercial vessels.",
-      "link": "https://nitter.net/sidhant/status/2049024834886352958#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:46:04+05:30",
-      "time": "28 Apr, 12:46 PM",
-      "type": "tweets",
-      "content": "<p>Indian address during Bahrain Presidency of UNSC. Bahrain hosted a meeting on maritime safety. <br />\n<br />\nIndia highlighted the role of IFC-IOR, concern of pollution due to attack on commercial vessels.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian CdA to UN in New York @PatelYojna calls for 'free, open, rules based' maritime order, emphasising on freedom of navigation. Says, 'any threat to intl waterways' has an impact on global trade, 'deploring' attacks on commercial vessels in Hormuz.",
-      "link": "https://nitter.net/sidhant/status/2049024315774124212#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:44:00+05:30",
-      "time": "28 Apr, 12:44 PM",
-      "type": "tweets",
-      "content": "<p>Indian CdA to UN in New York <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> calls for 'free, open, rules based' maritime order, emphasising on freedom of navigation. Says, 'any threat to intl waterways' has an impact on global trade, 'deploring' attacks on commercial vessels in Hormuz.</p>\n<a href=\"https://nitter.net/sidhant/status/2049024315774124212#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048935732346249216%2Fimg%2Fu5j5JcZ6jbQwv-eE.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "UNGA President at Rajghat:",
-      "link": "https://nitter.net/sidhant/status/2049020648027197656#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T12:29:26+05:30",
-      "time": "28 Apr, 12:29 PM",
-      "type": "tweets",
-      "content": "<p>UNGA President at Rajghat:</p>\n<img src=\"https://nitter.net/pic/media%2FHG-VaVia0AAmJBt.jpg\" />",
+      "content": "<p>By tackling terrorism, separatism, and extremism without exception, we transform regional security from a challenge into a cornerstone for peace and prosperity: Defence Minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049094245722517505%2Fez9cBBt7%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1519,26 +1422,6 @@
       "author": "@EmbassyMorocco"
     },
     {
-      "title": "Terrorism cant be given \"political acceptance\", need strong action against terror safe haven, cross border terrorism, says Indian Defence Minister Rajnath Singh",
-      "link": "https://nitter.net/sidhant/status/2049012521101930902#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T11:57:08+05:30",
-      "time": "28 Apr, 11:57 AM",
-      "type": "tweets",
-      "content": "<p>Terrorism cant be given \"political acceptance\", need strong action against terror safe haven, cross border terrorism, says Indian Defence Minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "With Pakistan looking, Indian Defence Minister Rajnath Singh calls for strong action against terrorism, recalls Pahalgam terror attack, operation Sindoor. Says, \"we have Zero tolerance against terrorism\"",
-      "link": "https://nitter.net/sidhant/status/2049012144616972700#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T11:55:38+05:30",
-      "time": "28 Apr, 11:55 AM",
-      "type": "tweets",
-      "content": "<p>With Pakistan looking, Indian Defence Minister Rajnath Singh calls for strong action against terrorism, recalls Pahalgam terror attack, operation Sindoor. Says, \"we have Zero tolerance against terrorism\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Mumbai police tracked him down and arrested him within 90 minutes.\n\nKudos @MumbaiPolice",
       "link": "https://nitter.net/OsintTV/status/2049010455398506861#m",
       "source": "Osint TV",
@@ -1549,16 +1432,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.\n\nhttps://x.com/i/broadcasts/1XGygmVrVqZxM",
-      "link": "https://nitter.net/sidhant/status/2049010343654072322#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T11:48:29+05:30",
-      "time": "28 Apr, 11:48 AM",
-      "type": "tweets",
-      "content": "<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "The investigation team found handwritten notes in which he expressed his desire to join the terror group Islamic State of Iraq and Syria (ISIS).",
       "link": "https://nitter.net/Goreunit/status/2049007567641485451#m",
       "source": "War & Gore",
@@ -1567,16 +1440,6 @@
       "type": "tweets",
       "content": "<p>The investigation team found handwritten notes in which he expressed his desire to join the terror group Islamic State of Iraq and Syria (ISIS).</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Lone wolf attack in Mumbai <br />\n<br />\nZaib Zuber Ansari, 31  Stabs 2 Security Guards After Asking Them To Recite The Kalma.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2049005782054912196#m\">https://nitter.net/Goreunit/status/2049005782054912196#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Indian Ocean Ship (IOS) SAGAR , INS Sunayna arrives at Changi Naval Base. This is the fourth port call during the ongoing IOS SAGAR deployment.",
-      "link": "https://nitter.net/sidhant/status/2049007104628011393#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T11:35:37+05:30",
-      "time": "28 Apr, 11:35 AM",
-      "type": "tweets",
-      "content": "<p>Indian Ocean Ship (IOS) SAGAR , INS Sunayna arrives at Changi Naval Base. This is the fourth port call during the ongoing IOS SAGAR deployment.</p>\n<img src=\"https://nitter.net/pic/media%2FHG-I7T_awAAHOWy.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG-I7Tmb0AABmWa.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG-I7VAbsAA-eUz.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG-JAGDaYAAisB8.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Salim Dola, an associate of Dawood Ibrahim, has been deported from Istanbul to India following a coordinated operation by intelligence agencies",
@@ -1859,6 +1722,16 @@
       "author": "@OsintTV"
     },
     {
+      "title": "Viewers Discretion Advised \n\nAfghan Taliban killed at least 4 Pakistani soldiers and captured one alive with 4 rifles at the Spin Boldak border.",
+      "link": "https://nitter.net/OsintTV/status/2048776194850500885#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-27T20:18:03+05:30",
+      "time": "27 Apr, 08:18 PM",
+      "type": "tweets",
+      "content": "<p>Viewers Discretion Advised <br />\n<br />\nAfghan Taliban killed at least 4 Pakistani soldiers and captured one alive with 4 rifles at the Spin Boldak border.</p>\n<img src=\"https://nitter.net/pic/media%2FHG627MQaEAAyqqF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG627LYXIAA-B3I.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG627L8aYAAP3Qh.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG63AaTW8AEmun2.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
       "title": "Pakistanis conducted a strike in Kunar province of Afghanistan.\n\nThen it emerged that children were hit in the strike, making it yet another failed operation after the Kabul bombing, where around 400 innocent people were killed.\n\nNow the entire ecosystem is busy claiming that no such strike took place.",
       "link": "https://nitter.net/elitepredatorss/status/2048767688290209982#m",
       "source": "Elite Predators",
@@ -2069,16 +1942,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "The conflict has sent a clear message to the world that neither Iran nor the United States is universally viewed as a fully reliable ally in global affairs.",
-      "link": "https://nitter.net/OsintTV/status/2048431238008979554#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-26T21:27:19+05:30",
-      "time": "26 Apr, 09:27 PM",
-      "type": "tweets",
-      "content": "<p>The conflict has sent a clear message to the world that neither Iran nor the United States is universally viewed as a fully reliable ally in global affairs.</p>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Donald Trump:\n\n11 planes were shot down during the India-Pakistan war.",
       "link": "https://nitter.net/WarMonitorINTL/status/2048429492356735025#m",
       "source": "War Monitor",
@@ -2129,26 +1992,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "RT by @OsintTV: Awaz kaha tak jayegi\ud83c\uddee\ud83c\uddf3\n\u2026\u2026",
-      "link": "https://nitter.net/manishindiatv/status/2048393049194250304#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-26T18:55:34+05:30",
-      "time": "26 Apr, 06:55 PM",
-      "type": "tweets",
-      "content": "<p>Awaz kaha tak jayegi\ud83c\uddee\ud83c\uddf3<br />\n\u2026\u2026</p>\n<a href=\"https://nitter.net/manishindiatv/status/2048393049194250304#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048392985809960961%2Fimg%2Fx34NZz7xyGiOPnGs.jpg\" />\n</a>",
-      "author": "@manishindiatv"
-    },
-    {
-      "title": "RT by @OsintTV: This moment reflects a divided land and separated families, a consequence of unresolved history. The only lasting solution lies in unity and sovereignty. Sooner or later, the unfinished agenda will be addressed. Pakistan occupied Kashmir is an integral part of India, and the aspiration remains that it will reunite with the nation. Boundaries that divide people will not endure forever; the vision is clear, complete integration and lasting peace under one flag \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2048391283216175501#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-26T18:48:33+05:30",
-      "time": "26 Apr, 06:48 PM",
-      "type": "tweets",
-      "content": "<p>This moment reflects a divided land and separated families, a consequence of unresolved history. The only lasting solution lies in unity and sovereignty. Sooner or later, the unfinished agenda will be addressed. Pakistan occupied Kashmir is an integral part of India, and the aspiration remains that it will reunite with the nation. Boundaries that divide people will not endure forever; the vision is clear, complete integration and lasting peace under one flag \ud83c\uddee\ud83c\uddf3</p>\n<hr />\n<blockquote>\n<b>Jalaluddin Mughal (@Jalalmughal)</b>\n<p>\n<p>The coffin was brought to the eastern bank of the Neelum River in Keran village, on the Indian-administered side of Jammu and Kashmir, only to be shown from a distance to part of the family living on the western bank, in Pakistan-administered Jammu and Kashmir. 1/2</p>\n<img src=\"https://nitter.net/pic/media%2FHG1Irr1a4AAhT0o.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Jalalmughal/status/2048373331804729804#m\">https://nitter.net/Jalalmughal/status/2048373331804729804#m</a>\n</footer>\n</blockquote>",
-      "author": "@MikeLimaBravo12"
-    },
-    {
       "title": "Realization that the Prime Minister of the country you called a \"hellhole\" held: \n\n-  Two massive roadshows\n-  One photography session in the middle of a river\n- Atleast 5 public gatherings with approximately 1 million people in attendance throughout the week.\n\nMeanwhile you ducking for bullets in a building filled with security forces teams.",
       "link": "https://nitter.net/elitepredatorss/status/2048382730963152948#m",
       "source": "Elite Predators",
@@ -2157,36 +2000,6 @@
       "type": "tweets",
       "content": "<p>Realization that the Prime Minister of the country you called a \"hellhole\" held: <br />\n<br />\n-  Two massive roadshows<br />\n-  One photography session in the middle of a river<br />\n- Atleast 5 public gatherings with approximately 1 million people in attendance throughout the week.<br />\n<br />\nMeanwhile you ducking for bullets in a building filled with security forces teams.</p>\n<img src=\"https://nitter.net/pic/media%2FHG1QFlNaUAAM49t.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG1QFgkaEAAwRz6.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "UAE President Sheikh Mohamed bin Zayed Al Nahyan holds a meeting with Indian NSA Ajit Doval.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2048354071145525372#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-26T16:20:41+05:30",
-      "time": "26 Apr, 04:20 PM",
-      "type": "tweets",
-      "content": "<p>UAE President Sheikh Mohamed bin Zayed Al Nahyan holds a meeting with Indian NSA Ajit Doval.</p>\n<img src=\"https://nitter.net/pic/media%2FHG03BgPbIAAD1eV.jpg\" />",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "If somebody can fire shots in a building full of security guards, secret service, pre-event sweeping and President and Vice President in the same room with multiple other important people of the world.\n\nThat's a real \"Hellhole\" right there \ud83d\udcaf",
-      "link": "https://nitter.net/elitepredatorss/status/2048345560583942348#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-26T15:46:52+05:30",
-      "time": "26 Apr, 03:46 PM",
-      "type": "tweets",
-      "content": "<p>If somebody can fire shots in a building full of security guards, secret service, pre-event sweeping and President and Vice President in the same room with multiple other important people of the world.<br />\n<br />\nThat's a real \"Hellhole\" right there \ud83d\udcaf</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @NetramDefence: It is good we are facilitating matters in West Asia in our own way.\n\nUAE and Saudi Arabia are not on the same page.",
-      "link": "https://nitter.net/KanwalSibal/status/2048339886093336742#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-26T15:24:19+05:30",
-      "time": "26 Apr, 03:24 PM",
-      "type": "tweets",
-      "content": "<p>It is good we are facilitating matters in West Asia in our own way.<br />\n<br />\nUAE and Saudi Arabia are not on the same page.</p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>BREAKING: NSA Ajit Doval Meets UAE President in Abu Dhabi<br />\n<br />\nAjit Doval met Sheikh Mohamed bin Zayed Al Nahyan in Abu Dhabi to discuss regional stability and evolving tensions in West Asia following the Israel\u2013Iran conflict.<br />\n<br />\nThe meeting comes after Doval\u2019s recent visit to Saudi Arabia, part of India\u2019s active Gulf outreach under Narendra Modi.</p>\n<img src=\"https://nitter.net/pic/media%2FHGzkf4EaYAEE--b.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2048263323263848830#m\">https://nitter.net/NetramDefence/status/2048263323263848830#m</a>\n</footer>\n</blockquote>",
-      "author": "@KanwalSibal"
     }
   ],
   "youtube": [
@@ -2255,6 +2068,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
