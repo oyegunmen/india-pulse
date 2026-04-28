@@ -1,13 +1,76 @@
 {
   "news": [
     {
+      "title": "Gunman opens fire at two locations in the Greek capital, leaving several people wounded",
+      "link": "https://www.thehindu.com/news/international/greece-athens-shooting-april-28-2026/article70915750.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T15:09:45+05:30",
+      "time": "28 Apr, 03:09 PM",
+      "type": "news",
+      "description": "Police said that the man was armed with a shotgun and initially opened fire at a social security office in the centre of the Greek capital, wounding a..."
+    },
+    {
       "title": "Israel-Iran war LIVE: \u00a0Iran says U.S. no longer in position to \u2018dictate\u2019 policy to other nations",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-28T14:18:52+05:30",
-      "time": "28 Apr, 02:18 PM",
+      "sort_key": "2026-04-28T14:57:21+05:30",
+      "time": "28 Apr, 02:57 PM",
       "type": "news",
       "description": "U.S., Iran clash over Tehran's nuclear programme as review of atomic treaty begins at UN; Iranian Foreign Minister praises Russia ties, welcomes Mosco..."
+    },
+    {
+      "title": "U.S. says examining latest Iran proposal on Hormuz",
+      "link": "https://www.thehindu.com/news/international/us-says-examining-latest-iran-proposal-on-hormuz/article70915729.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T14:56:50+05:30",
+      "time": "28 Apr, 02:56 PM",
+      "type": "news",
+      "description": "Iran has blockaded the waterway \u2014 a vital conduit for oil and gas shipments \u2014 since the start of the U.S.-Israeli offensive two months ago, sending sh..."
+    },
+    {
+      "title": "Iran war: Why Strait of Hormuz tensions threaten cables powering India\u2019s internet, aluminium supply",
+      "link": "https://indianexpress.com/article/world/strait-of-hormuz-digital-chokepoint-internet-cables-india-aluminium-auto-impact-10660025/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-28T14:49:45+05:30",
+      "time": "28 Apr, 02:49 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "UNGA President Annalena Baerbock pays homage to Mahatma Gandhi at Rajghat",
+      "link": "https://www.indiastrategic.in/unga-president-annalena-baerbock-pays-homage-to-mahatma-gandhi-at-rajghat/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-28T14:45:52+05:30",
+      "time": "28 Apr, 02:45 PM",
+      "type": "news",
+      "description": "<p>New Delhi. United Nations General Assembly (UNGA) President Annalena Baerbock paid homage to Mahatma Gandhi at Rajghat in the national capital on A..."
+    },
+    {
+      "title": "INS Sunayna docks in Singapore on IOS SAGAR mission, deepens India-Singapore maritime engagement",
+      "link": "https://www.indiastrategic.in/ins-sunayna-docks-in-singapore-on-ios-sagar-mission-deepens-india-singapore-maritime-engagement/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-28T14:39:26+05:30",
+      "time": "28 Apr, 02:39 PM",
+      "type": "news",
+      "description": "<p>New Delhi, April 28. The Indian Navy\u2019s offshore patrol vessel INS Sunayna reached Changi Naval Base on April 26 as the fourth halt of her ongoing I..."
+    },
+    {
+      "title": "Alleged drug trafficking kingpin deported from T\u00fcrkiye to India",
+      "link": "https://www.thehindu.com/news/national/key-dawood-associate-and-drug-kingpin-salim-dola-deported-to-india-after-arrest-in-istanbul/article70915182.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T14:38:21+05:30",
+      "time": "28 Apr, 02:38 PM",
+      "type": "news",
+      "description": "59-year-old accused Salim Dola was handed over to the Narcotics Control Bureau and taken to its headquarters in Delhi"
+    },
+    {
+      "title": "Mount Everest summit route cleared by Sherpas after 2-week blockage",
+      "link": "https://indianexpress.com/article/world/mount-everest-summit-route-cleared-by-sherpas-after-2-week-blockage-10660033/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-28T14:22:20+05:30",
+      "time": "28 Apr, 02:22 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "U.S. no longer in position to \u2018dictate\u2019 policy to other nations, says Iran",
@@ -71,15 +134,6 @@
       "time": "28 Apr, 01:33 PM",
       "type": "news",
       "description": "<p>By R Anil Kumar New York/ Bengaluru, April 27, 2026. United Nations (UN) Secretary-General, Antonio Guterres said that ensuring the security of glo..."
-    },
-    {
-      "title": "Alleged drug trafficking kingpin deported from T\u00fcrkiye to India",
-      "link": "https://www.thehindu.com/news/national/key-dawood-associate-and-drug-kingpin-salim-dola-deported-to-india-after-arrest-in-istanbul/article70915182.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T13:30:18+05:30",
-      "time": "28 Apr, 01:30 PM",
-      "type": "news",
-      "description": "The 59-year-old accused, Salim Dola, was handed over to the Narcotics Control Bureau (NCB) and taken to its headquarters in Delhi. He will soon be pro..."
     },
     {
       "title": "INS Sunayna reaches Singapore\u2019s Changi Naval Base under MAHASAGAR vision",
@@ -190,15 +244,6 @@
       "description": "<p>Medium Aerial Resupply Vehicle \u2013 Expeditionary Logistics (MARV-EL) program moves forward with MATRIX\u2122 autonomy system and R66 TURBINETRUCK. Initiat..."
     },
     {
-      "title": "Rolls-Royce powers unmanned US Navy MQ-25A to successful first flight",
-      "link": "https://www.indiastrategic.in/rolls-royce-powers-unmanned-us-navy-mq-25a-to-successful-first-flight/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-28T12:25:37+05:30",
-      "time": "28 Apr, 12:25 PM",
-      "type": "news",
-      "description": "<p>April 27, 2026. Rolls-Royce powered the first flight of the US Navy MQ-25A Stingray\u2122 on April 25, marking a pivotal program milestone that moves th..."
-    },
-    {
       "title": "Trump administration fires entire National Science Board",
       "link": "https://www.thehindu.com/news/international/trump-administration-fires-entire-national-science-board/article70914743.ece",
       "source": "The Hindu",
@@ -206,15 +251,6 @@
       "time": "28 Apr, 12:06 PM",
       "type": "news",
       "description": "Board members were told on April 24 they were being ousted effective immediately, members Yolanda Gil and Keivan Stassun, said in emailed statements; ..."
-    },
-    {
-      "title": "SAP and S3NS accelerate trusted cloud adoption in France with Thales as first strategic customer",
-      "link": "https://www.indiastrategic.in/sap-and-s3ns-accelerate-trusted-cloud-adoption-in-france-with-thales-as-first-strategic-customer/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-28T11:44:35+05:30",
-      "time": "28 Apr, 11:44 AM",
-      "type": "news",
-      "description": "<p>Thales adopts SAP RISE private cloud edition on S3NS to transform its ERP (Enterprise Resource Planning) landscape and operationalize digital sover..."
     },
     {
       "title": "How a surgeon kept a Sudan hospital functioning on the war\u2019s front line",
@@ -1099,24 +1135,6 @@
       "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
     },
     {
-      "title": "White House correspondents' dinner shooting updates: King Charles state visit to U.S. to go on as planned after shooting",
-      "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T03:07:03+05:30",
-      "time": "27 Apr, 03:07 AM",
-      "type": "news",
-      "description": "The accused gunman who tried to storm the ballroom at the White House Correspondents' Association dinner with guns and knives left writings that calle..."
-    },
-    {
-      "title": "Hindu temple caretaker found dead in Bangladesh, minority group demands strong action",
-      "link": "https://www.thehindu.com/news/international/hindu-temple-caretaker-found-dead-in-bangladesh-minority-group-demands-strong-action/article70909769.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T01:11:12+05:30",
-      "time": "27 Apr, 01:11 AM",
-      "type": "news",
-      "description": "Bangladesh Puja Celebration Council\u2019s Cox\u2019s Bazar unit general secretary Jony Dhar said the body was recovered three days after Nayan went missing, in..."
-    },
-    {
       "title": "Trump says US shooting suspect wrote anti-Christian manifesto, called himself a \u2018Friendly Federal Assassin\u2019",
       "link": "https://indianexpress.com/article/world/donald-trump-white-house-dinner-shooter-cole-tomas-allen-manifesto-kash-patel-10657215/",
       "source": "The Indian Express",
@@ -1281,6 +1299,66 @@
   ],
   "tweets": [
     {
+      "title": "Defence Minister Rajnath Singh meets Belarus Defence minister Lieutenant General Viktor Khrenin in Kyrgystan",
+      "link": "https://nitter.net/sidhant/status/2049062451023691970#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:15:32+05:30",
+      "time": "28 Apr, 03:15 PM",
+      "type": "tweets",
+      "content": "<p>Defence Minister Rajnath Singh meets Belarus Defence minister Lieutenant General Viktor Khrenin in Kyrgystan</p>\n<img src=\"https://nitter.net/pic/media%2FHG-7byNbsAAxE27.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India's Narcotics Control Bureau (NCB) that drug trafficker Mohammad Salim Dola has been brought from Turkiye. Major India- T\u00fcrkiye anti narcotics cooperation. An interpol red corner notice was issued against him.",
+      "link": "https://nitter.net/sidhant/status/2049059998987399551#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T15:05:48+05:30",
+      "time": "28 Apr, 03:05 PM",
+      "type": "tweets",
+      "content": "<p>India's Narcotics Control Bureau (NCB) that drug trafficker Mohammad Salim Dola has been brought from Turkiye. Major India- T\u00fcrkiye anti narcotics cooperation. An interpol red corner notice was issued against him.</p>\n<img src=\"https://nitter.net/pic/media%2FHG-5M6lbYAEf0AA.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "There is a reason why Pakistanis were showing just one road during their reels talk propaganda.\n\nThe rest of their roads looks like this \ud83e\udd23",
+      "link": "https://nitter.net/elitepredatorss/status/2049057878879949051#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-28T14:57:22+05:30",
+      "time": "28 Apr, 02:57 PM",
+      "type": "tweets",
+      "content": "<p>There is a reason why Pakistanis were showing just one road during their reels talk propaganda.<br />\n<br />\nThe rest of their roads looks like this \ud83e\udd23</p>\n<hr />\n<blockquote>\n<b>SILENT BRIEF (@SilentBriefHQ)</b>\n<p>\n<p>Welcome to Karachi, Islamic Republic of Pakistan - clean roads, world-class standard. \ud83e\udd23\ud83d\ude02</p>\n<a href=\"https://nitter.net/SilentBriefHQ/status/2048821565727625283#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048821496609714176%2Fpu%2Fimg%2FcUihxu4OGbGZkGBv.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/SilentBriefHQ/status/2048821565727625283#m\">https://nitter.net/SilentBriefHQ/status/2048821565727625283#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "SCO defence ministers meet in Kyrgystan",
+      "link": "https://nitter.net/sidhant/status/2049053857632940199#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T14:41:23+05:30",
+      "time": "28 Apr, 02:41 PM",
+      "type": "tweets",
+      "content": "<p>SCO defence ministers meet in Kyrgystan</p>\n<img src=\"https://nitter.net/pic/media%2FHG-znFHaEAAVo7J.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "As Operation Sindoor\u2019s anniversary approaches, India strengthens its skies.\n\nThe 4th S-400 from Russia is on its way and is expected to be received  by mid-May. \n\nThe 5th S-400 system, is expected to be shipped to India in November this year.\n\nReport",
+      "link": "https://nitter.net/OsintTV/status/2049052394449670369#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-28T14:35:35+05:30",
+      "time": "28 Apr, 02:35 PM",
+      "type": "tweets",
+      "content": "<p>As Operation Sindoor\u2019s anniversary approaches, India strengthens its skies.<br />\n<br />\nThe 4th S-400 from Russia is on its way and is expected to be received  by mid-May. <br />\n<br />\nThe 5th S-400 system, is expected to be shipped to India in November this year.<br />\n<br />\nReport</p>\n<img src=\"https://nitter.net/pic/media%2FHG-yLPyX0AEK9Sy.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "The Indian Army will host delegations from 11 friendly countries for the inaugural multilateral exercise \u201cPRAGATI\u201d at the Foreign Training Node, Umroi.(Meghalaya).\n - Focus on collective security in the Indian Ocean Region\n - \u201cPRAGATI\u201d = Partnership of Regional Armies for Growth and Transformation",
+      "link": "https://nitter.net/NetramDefence/status/2049052144838541513#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T14:34:35+05:30",
+      "time": "28 Apr, 02:34 PM",
+      "type": "tweets",
+      "content": "<p>The Indian Army will host delegations from 11 friendly countries for the inaugural multilateral exercise \u201cPRAGATI\u201d at the Foreign Training Node, Umroi.(Meghalaya).<br />\n - Focus on collective security in the Indian Ocean Region<br />\n - \u201cPRAGATI\u201d = Partnership of Regional Armies for Growth and Transformation</p>\n<img src=\"https://nitter.net/pic/media%2FHG-xpbEbwAAsZro.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "Image",
       "link": "https://nitter.net/Goreunit/status/2049047230200664471#m",
       "source": "War & Gore",
@@ -1327,7 +1405,7 @@
       "sort_key": "2026-04-28T12:59:37+05:30",
       "time": "28 Apr, 12:59 PM",
       "type": "tweets",
-      "content": "<p>By tackling terrorism, separatism, and extremism without exception, we transform regional security from a challenge into a cornerstone for peace and prosperity: Defence Minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049047894473461760%2FamsCPTVx%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>By tackling terrorism, separatism, and extremism without exception, we transform regional security from a challenge into a cornerstone for peace and prosperity: Defence Minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1347,7 +1425,7 @@
       "sort_key": "2026-04-28T12:58:16+05:30",
       "time": "28 Apr, 12:58 PM",
       "type": "tweets",
-      "content": "<p>Need to focus on global consensus where co-existence, co-habitation &amp; compassion take precedence over chaos, competition &amp; conflict: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049047894473461760%2FamsCPTVx%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Need to focus on global consensus where co-existence, co-habitation &amp; compassion take precedence over chaos, competition &amp; conflict: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1357,7 +1435,7 @@
       "sort_key": "2026-04-28T12:57:56+05:30",
       "time": "28 Apr, 12:57 PM",
       "type": "tweets",
-      "content": "<p>It is SCO\u2019s responsibility to ensure regional as well as global peace &amp; stability: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049047894473461760%2FamsCPTVx%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>It is SCO\u2019s responsibility to ensure regional as well as global peace &amp; stability: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1367,7 +1445,7 @@
       "sort_key": "2026-04-28T12:57:35+05:30",
       "time": "28 Apr, 12:57 PM",
       "type": "tweets",
-      "content": "<p>SCO should not hesitate in seeking appropriate action against those who abet, shelter &amp; provide safe havens to terrorists: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049047894473461760%2FamsCPTVx%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>SCO should not hesitate in seeking appropriate action against those who abet, shelter &amp; provide safe havens to terrorists: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1377,7 +1455,7 @@
       "sort_key": "2026-04-28T12:57:18+05:30",
       "time": "28 Apr, 12:57 PM",
       "type": "tweets",
-      "content": "<p>Terrorism has no nationality, no theology; Nations must take firm &amp; collective stance against the menace: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049047894473461760%2FamsCPTVx%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Terrorism has no nationality, no theology; Nations must take firm &amp; collective stance against the menace: Defence minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1447,7 +1525,7 @@
       "sort_key": "2026-04-28T11:57:08+05:30",
       "time": "28 Apr, 11:57 AM",
       "type": "tweets",
-      "content": "<p>Terrorism cant be given \"political acceptance\", need strong action against terror safe haven, cross border terrorism, says Indian Defence Minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049047894473461760%2FamsCPTVx%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Terrorism cant be given \"political acceptance\", need strong action against terror safe haven, cross border terrorism, says Indian Defence Minister Rajnath Singh</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1457,7 +1535,7 @@
       "sort_key": "2026-04-28T11:55:38+05:30",
       "time": "28 Apr, 11:55 AM",
       "type": "tweets",
-      "content": "<p>With Pakistan looking, Indian Defence Minister Rajnath Singh calls for strong action against terrorism, recalls Pahalgam terror attack, operation Sindoor. Says, \"we have Zero tolerance against terrorism\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049047894473461760%2FamsCPTVx%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>With Pakistan looking, Indian Defence Minister Rajnath Singh calls for strong action against terrorism, recalls Pahalgam terror attack, operation Sindoor. Says, \"we have Zero tolerance against terrorism\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049010343654072322#m\">https://nitter.net/sidhant/status/2049010343654072322#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1477,7 +1555,7 @@
       "sort_key": "2026-04-28T11:48:29+05:30",
       "time": "28 Apr, 11:48 AM",
       "type": "tweets",
-      "content": "<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049047894473461760%2FamsCPTVx%3Fformat%3Djpg%26name%3D800x419\" />",
+      "content": "<p>Indian Defence Minister Rajnath Singh addresses SCO Defence Ministers meet in Kyrgyzstan. Calls for fight against terrorism, extremism, separatism.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1XGygmVrVqZxM\">nitter.net/i/broadcasts/1XGygmVrV\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2049063915158646784%2F567DIpsu%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@sidhant"
     },
     {
@@ -1529,36 +1607,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8Maharashtra ATS has launched an investigation into the attack on two security guards in Mumbai treating it as a possible \"lone wolf\" terror attack.<br />\n<br />\n\ud83d\udccdThe accused, Jabar Zubair Ansari (31), targeted two security guards on duty. Eyewitnesses says that the accused first asked the guards for directions and then returned to ask their religion.<br />\n<br />\n\ud83d\udccdHe further said that the accused forced one of the guards to recite the Kalma and, when he failed, the accused attacked them with a sharp-edged weapon. <br />\n<br />\n\ud83d\udccdWhen police searched Ansari's home after his arrest, the investigation team found handwritten notes in which he expressed his desire to join ISIS. <br />\n<br />\n\ud83d\udccdAccording to sources, in these notes, the accused described the attack as his \"first step\" towards joining a terrorist organization. <br />\n<br />\n\ud83d\udccdInvestigations revealed that the accused, Jaber Zubair Ansari, was a science graduate and had lived in the United States for several years. <br />\n<br />\n\ud83d\udccdAgencies are now examining the digital footprints of his mobile phone and laptop to determine if he was in direct contact with any handlers across the border.<br />\n<br />\nMedia Report</p>\n<img src=\"https://nitter.net/pic/media%2FHG-D1F4WgAAwn5h.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Salim Dola, drug kingpin and close aide of fugitive Dawood Ibrahim, was arrested in Istanbul, Turkey. He was deported to India today.",
-      "link": "https://nitter.net/sidhant/status/2049000838643974201#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T11:10:43+05:30",
-      "time": "28 Apr, 11:10 AM",
-      "type": "tweets",
-      "content": "<p>Salim Dola, drug kingpin and close aide of fugitive Dawood Ibrahim, was arrested in Istanbul, Turkey. He was deported to India today.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "A university has been attacked by Pakistan in Kunar province, says Afghanistan govt. Comes weeks after Pakistan airstrike at a drug rehabilitation centre in Kabul killed over 200 people.\n\nVisuals:",
-      "link": "https://nitter.net/sidhant/status/2048999724703944728#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T11:06:17+05:30",
-      "time": "28 Apr, 11:06 AM",
-      "type": "tweets",
-      "content": "<p>A university has been attacked by Pakistan in Kunar province, says Afghanistan govt. Comes weeks after Pakistan airstrike at a drug rehabilitation centre in Kabul killed over 200 people.<br />\n<br />\nVisuals:</p>\n<a href=\"https://nitter.net/sidhant/status/2048999724703944728#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048807268762943488%2Fimg%2Fx8c51iv9_wMaTAf3.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Russia's special envoy Zamir Kabulov in Afghanistan. To meet Afghan leadership.",
-      "link": "https://nitter.net/sidhant/status/2048998989417304382#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T11:03:22+05:30",
-      "time": "28 Apr, 11:03 AM",
-      "type": "tweets",
-      "content": "<p>Russia's special envoy Zamir Kabulov in Afghanistan. To meet Afghan leadership.</p>",
-      "author": "@sidhant"
     },
     {
       "title": "A blast attempt on a railway track in Punjab's Patiala district was foiled late night after the suspect carrying out the detonation was killed in the explosion.\n\nAccording to SSP Varun Sharma, the incident near the Shambh Haryana border was not a low-intensity blast but a failed detonation attempt.",
@@ -2139,16 +2187,6 @@
       "type": "tweets",
       "content": "<p>It is good we are facilitating matters in West Asia in our own way.<br />\n<br />\nUAE and Saudi Arabia are not on the same page.</p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>BREAKING: NSA Ajit Doval Meets UAE President in Abu Dhabi<br />\n<br />\nAjit Doval met Sheikh Mohamed bin Zayed Al Nahyan in Abu Dhabi to discuss regional stability and evolving tensions in West Asia following the Israel\u2013Iran conflict.<br />\n<br />\nThe meeting comes after Doval\u2019s recent visit to Saudi Arabia, part of India\u2019s active Gulf outreach under Narendra Modi.</p>\n<img src=\"https://nitter.net/pic/media%2FHGzkf4EaYAEE--b.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2048263323263848830#m\">https://nitter.net/NetramDefence/status/2048263323263848830#m</a>\n</footer>\n</blockquote>",
       "author": "@KanwalSibal"
-    },
-    {
-      "title": "DRDO Unveils Next-Gen Indigenous Armoured Platforms\n\nDefence Research and Development Organisation has flagged off advanced tracked and wheeled armoured platforms at VRDE, Ahilyanagar. Built with ~65% indigenous content (target 90%), manufactured by Tata Advanced Systems Limited and Bharat Forge Limited.\n\nHighlights:\n- Designed for Infantry Combat Vehicle (ICV) & APC roles\n- Equipped with 30mm crewless turret + ATGM capability\n- STANAG Level 4\u20135 protection with modular armour\n- Amphibious capability with hydro jets",
-      "link": "https://nitter.net/NetramDefence/status/2048337146696880528#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-26T15:13:26+05:30",
-      "time": "26 Apr, 03:13 PM",
-      "type": "tweets",
-      "content": "<p>DRDO Unveils Next-Gen Indigenous Armoured Platforms<br />\n<br />\nDefence Research and Development Organisation has flagged off advanced tracked and wheeled armoured platforms at VRDE, Ahilyanagar. Built with ~65% indigenous content (target 90%), manufactured by Tata Advanced Systems Limited and Bharat Forge Limited.<br />\n<br />\nHighlights:<br />\n- Designed for Infantry Combat Vehicle (ICV) & APC roles<br />\n- Equipped with 30mm crewless turret + ATGM capability<br />\n- STANAG Level 4\u20135 protection with modular armour<br />\n- Amphibious capability with hydro jets</p>\n<img src=\"https://nitter.net/pic/media%2FHG0ne3raIAAlZO6.jpg\" />",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
@@ -2217,6 +2255,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
