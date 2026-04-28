@@ -25,21 +25,26 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
 </head>
 <body data-theme="light">
-<main class="container p-4">
 
-    <header class="hstack justify-between">
-        <strong class="head-title">IndiPulse</strong>
+    <header>
+        <div class="header-container hstack justify-between">
+        <div class="hstack logo">         
+            <img src="img/activity.svg" width="16" height="16">
+            <span>Pulse</span>
+        </div>
+        <div title="Updates Hourly" class="badge outline pulse" data-tooltip-placement="bottom">LAST:<span id="last-run">--:--</span><img id="info-icon" src="img/info.svg" alt="Info" width="12" height="auto">
+        </div>
         <button id="theme-toggle" class="button outline small hstack gap-2" onclick="toggleTheme()">
-            <img id="theme-icon" src="img/moon.svg" alt="Theme" width="14" height="14">
+            <img id="theme-icon" src="img/moon.svg" alt="Theme" width="10" height="10">
             <span id="theme-text">Dark</span>
         </button>
-    </header>
-    
-    <section class="align-center">
-        <div title="Updates Hourly" class="badge outline pulse">LAST PULSE : <span id="last-run">--:--</span><img id="info-icon" src="img/info.svg" alt="Info" width="12" height="auto">
         </div>
-        <h1 style="margin: var(--space-2) 0;" class="head-title">India Pulse</h1>
-        <p class="mb-6">Monitor the Indian Defense and Geopolitical News, Tweets & Youtube Videos of past 48 hours, aggregated in one place.</p>
+    </header>
+<main class="container">
+    
+    <section class="align-center hero">
+        <h1 class="head-title mb-2">India Pulse</h1>
+        <p class="mb-4">Monitor the Indian Defense and Geopolitical News, Tweets & Youtube Videos of past 48 hours, aggregated in one place.</p>
         <div class="hstack justify-center">
             <a href="about.html" class="button">About →</a>
             <a href="https://github.com/oyegunmen/india-pulse" class="button outline" target="_blank">

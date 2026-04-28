@@ -20,48 +20,59 @@
 </head>
 <body>
 <main class="container p-4">
+
     <a href="/" class="button outline special-btn">← Back</a>
 
-    <header>
-        <h1 class="head-title mt-4 mb-2">ABOUT</h1>
-        <p>A Centralized, Noise Free Dashboard for Monitoring Defense and Geopolitical Situations.</p>
-        <img src="img/meme-01.jpg" style="border-radius: 10px;" alt="Monitoring the Situation">
-    </header>
+    <div>
+    <h1 class="head-title mt-4 mb-2">ABOUT</h1>
+    <p>A Centralized, Noise Free Dashboard for Monitoring Defense and Geopolitical Situations.</p>
+    <img src="img/meme-01.jpg" style="border-radius: 10px;" alt="Monitoring the Situation">
+    </div>
     <br>
 
     <div id="motivation">
         <h3 class="mb-2 head-title">MOTIVATION</h3>
-        <p>I loved monitoring military and geopolitical situations as they unfold. However, browsing on Twitter (X), Media Outlets, and YouTube channels became increasingly "Distracting" for me.</p>
-        <p>I wanted a centralized, organized place where I could monitor developments without the distractions of algorithms or social media bloat. So I wrote simple script, basically few lines of code, which curates data from multiple sources and presents it in single beautiful, noise-free dashboard. This was my personal offline tool to keep myself informed about latest developements.</p>
-        <p>Now it's public, because probably many people might be dealing with the same problem. This platform gives you a snapshot of what's happening, so you only deep-dive into what actually matters.</p>
+        <p>I built this to solve my own frustration. Monitoring geopolitics across X, YouTube, and News sites became too distracting, ads-heavy and filled with algorithmic-bloat. This was my personal offline tool to keep myself informed about latest developements.</p>
+        <p>Now it's public and open-source, because probably many people might be dealing with the same problem. This platform gives you a snapshot of what's happening, so you only deep-dive into what actually matters.</p>
     </div>
 
     <div id="content">
         <h3 class="mb-2 mt-4 head-title">CONTENT</h3>
-        <p>The platform gets updated every <strong>60 minutes</strong>, fast enough to stay current, & slow enough to avoid IP blocks from platforms like Twitter, YouTube, and major media outlets</p>
-        <p>Only the last <strong>48 hours</strong> of data is shown, older feed is not stored in any form. The dashboard is meant to be a "pulse", not an "archive".</p>
+        <p>The website gets updated every <strong>60 minutes</strong>, fast enough to stay current, & slow enough to avoid IP blocks from platforms like Twitter, YouTube, and major media outlets. Only the last <strong>48 hours</strong> of data is shown, older feed is not stored in any form. The dashboard is meant to be a "pulse", not an "archive".</p>
         <p>Since everyone has their own preferred news outlets and analysts, there's a built-in <strong>Source Filter</strong> so you can tune the feed to what matters to you.</p>
     </div>
 
     <div id="support">
         <h3 class="mb-2 mt-4 head-title">SUPPORT</h3>
-        <p>This is purely volunteer-based software. While it will always remain <strong>free to use</strong>, the quality of the feed depends on the data it consumes. I aim to make the list of outlets as exhaustive as possible, but I cannot do it without your support.</p>
+        <p>This is a volunteer-led effort. While the website will always remain <strong>free to use</strong>, its value is defined by the quality and reach of its data. There are several ways you can help me improve, depending on your interests and skills.</p>
         <p><strong>How you can help:</strong></p>
         <ul class="special-list">
-        <li><strong>Suggestions:</strong> If I’ve missed a major news outlet or a specific analyst, youtube channel, please suggest them. You can reach out via <strong><a href="#contact">Contact</a></strong>.</li>
-        <li><strong>Sponsorship:</strong> If you find this tool valuable, consider making a one time donation of any amount, to cover operational costs while also keeping the platform independent and ad-free.</li>
+        <li><strong>Feed Curator:</strong> Help us make the feed exhaustive. If we’ve missed a major news outlet, a specific analyst, or a YouTube channel, suggest them by opening a Pull Request or reaching out via <strong><a href="#contact">Contact</a></strong>.</li>
+        <li><strong>Development:</strong> Help me refine the website. Whether it’s optimizing the UI, improving feed parsing, or fixing bugs, your code contributions on <a href="https://github.com/oyegunmen/india-pulse" target="_blank">GitHub</a> can help make this website faster and more reliable.</li>
+        <li><strong>Donation:</strong> If you find this tool valuable, consider making a donation of any amount, to support the creator.</li>
+        <li><strong>Spread the Word:</strong> Share the platform with your community or give us a Star on GitHub. Visibility is the best way to ensure the project continues to evolve.</li>
         </ul>
     </div>
 
     <div id="sources">
         <h3 class="mb-2 mt-4 head-title">SOURCES</h3>
-        <p>Our list of sources are a work in progress and will continue to grow. Below you can find the outlets we currently monitor.</p>
-        <p class="head-title"><strong>LIST OF MEDIA OUTLETS</strong></p>
-        <ul id="list-news"></ul>
-        <p class="head-title"><strong>LIST OF TWITTER HANDLES</strong></p>
-        <ul id="list-tweets"></ul>
-        <p class="head-title"><strong>LIST OF YOUTUBE CHANNELS</strong></p>
-        <ul id="list-youtube"></ul>
+        <p>Our list of sources are a work in progress and will continue to grow. Below you can find the sources we currently monitor based on activity from the <strong>last 48 hours</strong>.</p>
+        <div>
+            <div class="mt-2">
+                <span class="badge small" data-variant="success">Active</span> 
+                <span> - Recent updates detected.</span>
+            </div>
+            <div class="mt-2">
+                <span class="badge small" data-variant="warning">Inactive</span> 
+                <span> - No recent updates.</span>
+            </div>
+        </div>
+        <p class="head-title mt-4 mb-2"><strong>NEWS OUTLETS</strong></p>
+        <div id="table-news"></div>
+        <p class="head-title mt-4 mb-2"><strong>TWITTER HANDLES</strong></p>
+        <div id="table-tweets"></div>
+        <p class="head-title mt-4 mb-2"><strong>YOUTUBE CHANNELS</strong></p>
+        <div id="table-youtube"></div>
     </div>
 
     <div id="copyright">
