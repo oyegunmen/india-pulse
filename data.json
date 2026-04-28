@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "\u2018Friendly Federal Assassin\u2019: US justice department reveals chilling details about Washington dinner shooting suspect",
+      "link": "https://indianexpress.com/article/world/friendly-federal-assassin-us-doj-reveals-chilling-details-from-white-house-shooting-suspects-manifesto-10659441/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-28T10:06:43+05:30",
+      "time": "28 Apr, 10:06 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "White House Correspondents\u2019 dinner shooting suspect charged with attempt to assassinate US President",
+      "link": "https://www.newsonair.gov.in/white-house-correspondents-dinner-shooting-suspect-charged-with-attempt-to-assassinate-us-president/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T09:53:15+05:30",
+      "time": "28 Apr, 09:53 AM",
+      "type": "news",
+      "description": "In the United States, the suspect in the White House Correspondents\u2019 Dinner shooting in Washington, Cole Tomas Allen, has been charged with attempting..."
+    },
+    {
+      "title": "Hafiz Saeed's close aide and key LeT figure Sheikh Yousaf Afridi shot dead in Pakistan",
+      "link": "https://www.thehindu.com/news/international/hafiz-saeeds-close-aide-and-key-let-figure-sheikh-yousaf-afridi-shot-dead-in-pakistan/article70914754.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T09:48:59+05:30",
+      "time": "28 Apr, 09:48 AM",
+      "type": "news",
+      "description": "Afridi also reportedly played a role in the recruitment and coordination of the terror group\u2019s activities in Khyber Pakhtunkhwa"
+    },
+    {
+      "title": "Britain\u2019s King Charles, Queen Camilla arrive in US; welcomed by President Trump",
+      "link": "https://www.newsonair.gov.in/britains-king-charles-queen-camilla-arrive-in-us-welcomed-by-president-trump/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T09:45:41+05:30",
+      "time": "28 Apr, 09:45 AM",
+      "type": "news",
+      "description": "Britain&#8217;s King Charles and Queen Camilla arrived in the United States \u200bon a four-day visit yesterday.\u00a0 US President Donald Trump and First Lady ..."
+    },
+    {
+      "title": "Israel-Iran war LIVE: Trump unhappy with Iranian proposal, U.S. official says",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T09:39:43+05:30",
+      "time": "28 Apr, 09:39 AM",
+      "type": "news",
+      "description": "U.S., Iran clash over Tehran's nuclear programme as review of atomic treaty begins at UN; Iranian Foreign Minister praises Russia ties, welcomes Mosco..."
+    },
+    {
+      "title": "Legal limits on U.S. war involvement",
+      "link": "https://www.thehindu.com/news/international/legal-limits-on-us-war-involvement/article70913674.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T09:31:39+05:30",
+      "time": "28 Apr, 09:31 AM",
+      "type": "news",
+      "description": "The War Powers Act requires the President to seek authorisation from Congress for the continued use of military force abroad beyond 60 days of such in..."
+    },
+    {
+      "title": "Trump not happy with latest Iran proposal to end the war, U.S. official says",
+      "link": "https://www.thehindu.com/news/international/trump-not-happy-with-latest-iran-proposal-to-end-the-war-us-official-says/article70914710.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T09:24:20+05:30",
+      "time": "28 Apr, 09:24 AM",
+      "type": "news",
+      "description": "With the warring sides still seemingly far \u200bapart, oil prices resumed their upward march, extending gains in early Asia trade on Tuesday (April 28, 20..."
+    },
+    {
       "title": "Trumps call for ABC to fire Jimmy Kimmel \u2014 again \u2014 after morbid joke about First Lady",
       "link": "https://www.thehindu.com/news/international/trumps-call-for-abc-to-fire-jimmy-kimmel-again-after-morbid-joke-about-first-lady/article70914732.ece",
       "source": "The Hindu",
@@ -8,6 +71,15 @@
       "time": "28 Apr, 09:20 AM",
       "type": "news",
       "description": "The remark about the President's wife was part of a routine in \u201cJimmy Kimmel Live\u201d where the host pretended to deliver a comedy routine at the White H..."
+    },
+    {
+      "title": "Hafiz Saeed's close aide and key LeT figure Sheikh Yousaf Afridi shot dead in Pakistan",
+      "link": "https://economictimes.indiatimes.com/news/defence/hafiz-saeeds-close-aide-and-key-let-figure-sheikh-yousaf-afridi-shot-dead-in-pakistan/articleshow/130568758.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-28T09:17:25+05:30",
+      "time": "28 Apr, 09:17 AM",
+      "type": "news",
+      "description": "Lashkar-e-Taiba (LeT) figure Sheikh Yousaf Afridi, a close associate of Hafiz Saeed, was shot dead by unidentified gunmen in Pakistan's Khyber Pakhtun..."
     },
     {
       "title": "Freedom of navigation not negotiable: IMO addresses UN Security Council on maritime safety in Strait of Hormuz",
@@ -26,15 +98,6 @@
       "time": "28 Apr, 09:06 AM",
       "type": "news",
       "description": "The President has spoken in glowing terms about King Charles, repeatedly referring to the monarch as his \u201cfriend\u201d and a \u201cgreat guy\u201d"
-    },
-    {
-      "title": "Israel-Iran war LIVE: Trump unhappy with Iranian proposal, U.S. official says",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T09:04:08+05:30",
-      "time": "28 Apr, 09:04 AM",
-      "type": "news",
-      "description": "U.S., Iran clash over Tehran's nuclear programme as review of atomic treaty begins at UN; Iranian Foreign Minister praises Russia ties, welcomes Mosco..."
     },
     {
       "title": "7 killed, over 80 injured after 2 trains collide in Indonesia; rescue operations underway",
@@ -307,15 +370,6 @@
       "description": "The EU unveiled in March new \"Made in Europe\" rules for companies trying to access public funds in strategic sectors including cars, green tech and st..."
     },
     {
-      "title": "Legal limits on U.S. war involvement",
-      "link": "https://www.thehindu.com/news/international/legal-limits-on-us-war-involvement/article70913674.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T23:07:29+05:30",
-      "time": "27 Apr, 11:07 PM",
-      "type": "news",
-      "description": "The War Powers Act requires the President to seek authorisation from Congress for the continued use of military force abroad beyond 60 days of such in..."
-    },
-    {
       "title": "Bahrain strips dozens of citizenship over Iran support",
       "link": "https://www.thehindu.com/news/international/bahrain-strips-dozens-of-citizenship-over-iran-support/article70913643.ece",
       "source": "The Hindu",
@@ -395,24 +449,6 @@
       "time": "27 Apr, 09:35 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Three people killed and 45 injured in Pakistani military attacks in Kunar province of Afghanistan",
-      "link": "https://www.newsonair.gov.in/three-people-killed-and-45-injured-in-pakistani-military-attacks-in-kunar-province-of-afghanistan/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-27T21:24:23+05:30",
-      "time": "27 Apr, 09:24 PM",
-      "type": "news",
-      "description": "At least three people were killed and 45 others injured in Pakistani military attacks in the Kunar province of Afghanistan. According to provincial of..."
-    },
-    {
-      "title": "Israel Defence Force says it destroyed 14 kilometres of underground tunnels in Northern Gaza Strip",
-      "link": "https://www.newsonair.gov.in/israel-defence-force-says-it-destroyed-14-kilometres-of-underground-tunnels-in-northern-gaza-strip/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-27T20:58:33+05:30",
-      "time": "27 Apr, 08:58 PM",
-      "type": "news",
-      "description": "The Israel Defence Force (IDF) today said that it has destroyed 14 kilometres of underground tunnels in the Northern Gaza Strip. The IDF said that the..."
     },
     {
       "title": "Ukraine, West Asia conflicts put attack drones at the centre of modern warfare",
@@ -1063,15 +1099,6 @@
       "description": "Under the terms of the truce, which was recently extended, Israel reserves the right to respond to \u201cplanned, imminent or ongoing attacks\u201d and has been..."
     },
     {
-      "title": "Zelenskyy accuses Russia of 'nuclear terrorism' on Chernobyl anniversary",
-      "link": "https://www.thehindu.com/news/international/zelenskyy-accuses-russia-of-nuclear-terrorism-on-chernobyl-anniversary/article70909561.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T22:18:10+05:30",
-      "time": "26 Apr, 10:18 PM",
-      "type": "news",
-      "description": "Five people were killed across Ukraine after Moscow launched more than 100 drones overnight, the latest in an almost nightly barrage the country has f..."
-    },
-    {
       "title": "Mystery Maoist Leader Forms North Group, Vows To Continue Armed Struggle",
       "link": "https://www.deccanchronicle.com/southern-states/telangana/mystery-maoist-leader-forms-north-group-vows-to-continue-armed-struggle-1952950",
       "source": "Deccan Chronicle",
@@ -1079,15 +1106,6 @@
       "time": "26 Apr, 10:08 PM",
       "type": "news",
       "description": "Telangana is Maoist-free; intelligence agencies and armed forces are very active along the state borders. There is also considerable speculation about..."
-    },
-    {
-      "title": "Trump has \u2018good conversations\u2019 with Putin, Zelenskyy: report",
-      "link": "https://www.thehindu.com/news/international/trump-speaks-to-putin-zelenskyy-ukraine-russia-war/article70909546.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T22:07:04+05:30",
-      "time": "26 Apr, 10:07 PM",
-      "type": "news",
-      "description": "The U.S. President said \u201chatred \u200cbetween Putin and Zelenskyy is ridiculous\u201d; did not want to reveal when he spoke to Russia\u2019s President last"
     },
     {
       "title": "Trump says Iran can call US if it wants to negotiate",
@@ -1286,36 +1304,49 @@
       "time": "26 Apr, 10:44 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Who is Cole Tomas Allen? The 31-year-old California man identified as Trump dinner shooting suspect",
-      "link": "https://indianexpress.com/article/world/us-news/whjtw-house-shooting-suspect-cole-tomas-allen-white-house-correspondents-dinner-shooting-suspect-trump-evacuated-10656228/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-26T10:02:10+05:30",
-      "time": "26 Apr, 10:02 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Trump vows \u2018the show will go on\u2019 following shooting at correspondents\u2019 dinner; key highlights from press briefing",
-      "link": "https://indianexpress.com/article/world/trump-shooting-at-white-house-correspondents-association-dinner-key-highlights-from-press-briefing-10656303/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-26T09:56:19+05:30",
-      "time": "26 Apr, 09:56 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "\u2018Probably a lone shooter, with multiple weapons\u2019: What Trump said about White House shooting suspect",
-      "link": "https://indianexpress.com/article/world/us-news/donald-trump-white-house-shooting-iran-war-10656223/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-26T09:28:46+05:30",
-      "time": "26 Apr, 09:28 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Railway track blast near Patiala, Punjab: Accused died in 'detonation attempt', say police",
+      "link": "https://nitter.net/WarMonitorINTL/status/2048982177367703759#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-28T09:56:33+05:30",
+      "time": "28 Apr, 09:56 AM",
+      "type": "tweets",
+      "content": "<p>Railway track blast near Patiala, Punjab: Accused died in 'detonation attempt', say police</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "In the rural area of Pakistani Punjab, a video shows a mosque loudspeaker being used to announce a Pakistan Army recruitment drive, calling young men to enlist.\n\nWhy is a religious platform being used for military recruitment?\n\nIs the army facing a troop shortage?\nAre young people refusing to join?\nAre standard recruitment channels no longer working?\n\nWhat is really happening here?\n\nLocation: Rural area of Chichawatni, Sahiwal dist, \nPunjab, Pakistan",
+      "link": "https://nitter.net/OsintTV/status/2048981007081087247#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-28T09:51:54+05:30",
+      "time": "28 Apr, 09:51 AM",
+      "type": "tweets",
+      "content": "<p>In the rural area of Pakistani Punjab, a video shows a mosque loudspeaker being used to announce a Pakistan Army recruitment drive, calling young men to enlist.<br />\n<br />\nWhy is a religious platform being used for military recruitment?<br />\n<br />\nIs the army facing a troop shortage?<br />\nAre young people refusing to join?<br />\nAre standard recruitment channels no longer working?<br />\n<br />\nWhat is really happening here?<br />\n<br />\nLocation: Rural area of Chichawatni, Sahiwal dist, <br />\nPunjab, Pakistan</p>\n<a href=\"https://nitter.net/OsintTV/status/2048981007081087247#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048980508420489216%2Fimg%2F4Q1tTulPJM9w4vxV.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Dawood Ibrahim\u2019s close associate Salim Dola brought to India from Turkey in joint intelligence operation with international agencies",
+      "link": "https://nitter.net/Goreunit/status/2048977571057135799#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-28T09:38:15+05:30",
+      "time": "28 Apr, 09:38 AM",
+      "type": "tweets",
+      "content": "<p>Dawood Ibrahim\u2019s close associate Salim Dola brought to India from Turkey in joint intelligence operation with international agencies</p>\n<img src=\"https://nitter.net/pic/media%2FHG9trC6bwAA8H3D.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Defence minister Rajnath Singh will speak at SCO Defence Ministers\u2019s Meet in Bishkek at around 10.30 AM.",
+      "link": "https://nitter.net/sidhant/status/2048974718339051814#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T09:26:55+05:30",
+      "time": "28 Apr, 09:26 AM",
+      "type": "tweets",
+      "content": "<p>Defence minister Rajnath Singh will speak at SCO Defence Ministers\u2019s Meet in Bishkek at around 10.30 AM.</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "Dawood Aide Salim Dola Brought to India After Istanbul Detention\n\nTop aide of Dawood Ibrahim, Salim Dola, has been brought to Mumbai after being detained in Istanbul; agencies are interrogating him over a \u20b95,000 crore global drug syndicate.",
       "link": "https://nitter.net/elitepredatorss/status/2048971465769570706#m",
@@ -1384,6 +1415,16 @@
       "time": "28 Apr, 02:35 AM",
       "type": "tweets",
       "content": "<p>As people were protesting against Asim Munir\u2019s junta army for carrying out drone strikes on civilian homes in Khyber Pakhtunkhwa, Pakistani security forces once again demonstrated brutality. <br />\n<br />\nThey first fired tear gas shells at demonstrators and then opened indiscriminate fire to disperse the crowds. At least 11 people were seriously injured in the crackdown. Civilians protesting the killing of civilians were met with further violence.</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2048871219110547473#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048871093113589761%2Fimg%2Fq8owFmJ7B2pRBbT5.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048871219110547473#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048871092874285056%2Fimg%2F3K2-ayB_3mjZfxfL.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048871219110547473#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048871093042053120%2Fimg%2FsH9LXggiQFDkccPO.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048871219110547473#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048871092903686144%2Fimg%2FpTKPsf8JjDri_acw.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>Public anger erupted late at night across Khyber district due to Pakistan Armed Forces killing its own Citizens at Khyber District in the Drone strike.<br />\n<br />\nProtesters, including workers of Pakistan Tehreek-e-Insaf (PTI) and local civil society groups, poured onto the streets demanding accountability. Elected representatives Abdul Ghani Afridi and Iqbal Afridi joined the protests, sitting on roads in defiance, while Pashtun leader Khan Wali Afridi led demonstrations outside the Frontier Corps Teaching Hospital.<br />\n<br />\nThe message from the ground was unambiguous. Protesters openly equated the military\u2019s actions with terrorism, raising slogans: \u201cYeh jo dehshatgardi hai, iske peeche wardi hai.\u201d</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048870169729241088%2Fimg%2FXguFfaRq8Ci9zdjW.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048870169561202688%2Fimg%2FyGNoKE_A7O4HtVXT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048870169779269632%2Fimg%2F9OG84-MkRVbXaN0i.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048870169683050496%2Fimg%2Ft3XO1uiu9iJHMntC.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">https://nitter.net/shivank_8mishra/status/2048870306266112481#m</a>\n</footer>\n</blockquote>",
+      "author": "@shivank_8mishra"
+    },
+    {
+      "title": "RT by @OsintTV: Public anger erupted late at night across Khyber district due to Pakistan Armed Forces killing its own Citizens at Khyber District in the Drone strike.\n\nProtesters, including workers of Pakistan Tehreek-e-Insaf (PTI) and local civil society groups, poured onto the streets demanding accountability. Elected representatives Abdul Ghani Afridi and Iqbal Afridi joined the protests, sitting on roads in defiance, while Pashtun leader Khan Wali Afridi led demonstrations outside the Frontier Corps Teaching Hospital.\n\nThe message from the ground was unambiguous. Protesters openly equated the military\u2019s actions with terrorism, raising slogans: \u201cYeh jo dehshatgardi hai, iske peeche wardi hai.\u201d",
+      "link": "https://nitter.net/shivank_8mishra/status/2048870306266112481#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-28T02:32:01+05:30",
+      "time": "28 Apr, 02:32 AM",
+      "type": "tweets",
+      "content": "<p>Public anger erupted late at night across Khyber district due to Pakistan Armed Forces killing its own Citizens at Khyber District in the Drone strike.<br />\n<br />\nProtesters, including workers of Pakistan Tehreek-e-Insaf (PTI) and local civil society groups, poured onto the streets demanding accountability. Elected representatives Abdul Ghani Afridi and Iqbal Afridi joined the protests, sitting on roads in defiance, while Pashtun leader Khan Wali Afridi led demonstrations outside the Frontier Corps Teaching Hospital.<br />\n<br />\nThe message from the ground was unambiguous. Protesters openly equated the military\u2019s actions with terrorism, raising slogans: \u201cYeh jo dehshatgardi hai, iske peeche wardi hai.\u201d</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048870169729241088%2Fimg%2FXguFfaRq8Ci9zdjW.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048870169561202688%2Fimg%2FyGNoKE_A7O4HtVXT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048870169779269632%2Fimg%2F9OG84-MkRVbXaN0i.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048870306266112481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048870169683050496%2Fimg%2Ft3XO1uiu9iJHMntC.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>While the world was shocked at how a self-declared \u201cdemocratic\u201d junta regime could attack civilian homes and universities in Pakistan, the junta military under Asim Munir went two steps further and killed its own citizens in a Drone strike at Bara Tehsil of Khyber District at KPK.<br />\n<br />\n2 children were killed, 3 children (under two years of age) were injured, and the total number of injured is 9.</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2048869439316308111#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048869303806746624%2Fimg%2FgWq4DsOfd6d2eURs.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/shivank_8mishra/status/2048869439316308111#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048869303295074304%2Fimg%2Fbr4V0gPyJBUVocyO.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHG8LxqobUAArHYh.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2048869439316308111#m\">https://nitter.net/shivank_8mishra/status/2048869439316308111#m</a>\n</footer>\n</blockquote>",
       "author": "@shivank_8mishra"
     },
     {
@@ -1694,16 +1735,6 @@
       "time": "27 Apr, 06:23 PM",
       "type": "tweets",
       "content": "<p>Statement:<br />\n<br />\nAn incident was reported involving a Togo-flagged oil/chemical tanker MT CHIRON 7 (IMO No. 9127291), which had 17 Indian seafarers onboard (total crew: 24) on 25th April 2026. The incident occurred at Shinas Outer Port Limit, Oman. The vessel was navigating near ships intercepted by the Iranian Coast Guard, during which warning shots were fired. All 17 Indian seafarers onboard are safe.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Air India and Indigo plan to resume flight operations from Qatar to India soon: India statement",
-      "link": "https://nitter.net/sidhant/status/2048747215511044171#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-27T18:22:54+05:30",
-      "time": "27 Apr, 06:22 PM",
-      "type": "tweets",
-      "content": "<p>Air India and Indigo plan to resume flight operations from Qatar to India soon: India statement</p>\n<img src=\"https://nitter.net/pic/media%2FHG6csfyaYAAKtTI.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -2055,40 +2086,29 @@
       "type": "tweets",
       "content": "<p>The establishment is pouring massive money into PR. It is aggressively shaping narratives across global media and social platforms. <br />\n<br />\nA dedicated media propaganda wing, controlled by the \u201cwolf man &amp; L.Churan\u201d taking care of all these things.</p>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @NetramDefence: BREAKING: NSA Ajit Doval Meets UAE President in Abu Dhabi\n\nAjit Doval met Sheikh Mohamed bin Zayed Al Nahyan in Abu Dhabi to discuss regional stability and evolving tensions in West Asia following the Israel\u2013Iran conflict.\n\nThe meeting comes after Doval\u2019s recent visit to Saudi Arabia, part of India\u2019s active Gulf outreach under Narendra Modi.",
-      "link": "https://nitter.net/NetramDefence/status/2048263323263848830#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-26T10:20:05+05:30",
-      "time": "26 Apr, 10:20 AM",
-      "type": "tweets",
-      "content": "<p>BREAKING: NSA Ajit Doval Meets UAE President in Abu Dhabi<br />\n<br />\nAjit Doval met Sheikh Mohamed bin Zayed Al Nahyan in Abu Dhabi to discuss regional stability and evolving tensions in West Asia following the Israel\u2013Iran conflict.<br />\n<br />\nThe meeting comes after Doval\u2019s recent visit to Saudi Arabia, part of India\u2019s active Gulf outreach under Narendra Modi.</p>\n<img src=\"https://nitter.net/pic/media%2FHGzkf4EaYAEE--b.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Shots were fired during a White House press dinner, triggering chaos as Donald Trump was rushed to safety by Secret Service.\nAuthorities say the heavily armed suspect was subdued and arrested, with Trump describing him as a possible \u201clone wolf\u201d, though investigations are ongoing.\n\nAt least one security officer was injured but survived due to protective gear. The attacker reportedly breached security and charged toward the venue before being stopped.",
-      "link": "https://nitter.net/NetramDefence/status/2048259485320511672#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-26T10:04:50+05:30",
-      "time": "26 Apr, 10:04 AM",
-      "type": "tweets",
-      "content": "<p>Shots were fired during a White House press dinner, triggering chaos as Donald Trump was rushed to safety by Secret Service.<br />\nAuthorities say the heavily armed suspect was subdued and arrested, with Trump describing him as a possible \u201clone wolf\u201d, though investigations are ongoing.<br />\n<br />\nAt least one security officer was injured but survived due to protective gear. The attacker reportedly breached security and charged toward the venue before being stopped.</p>\n<img src=\"https://nitter.net/pic/media%2FHGzg_hUacAAxQdT.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "RT by @OsintTV: Dear, \n\nManipur if you still want to march behind radicals like COCOMI, AMUCO, COTU, TNL , you haven\u2019t learned anything from this conflict, same people and groups like NSCN(IM) , Arambai, UNLF , PLA were firing at you during MP election but you stood strong and brought a change. \n\nDon\u2019t fall for militants group and their org like COCOMI and AMUCO\u2019s propaganda. They are running a conflict economy which has to end one day otherwise this cycle of violence, extortion & corruption will never end in Manipur. Eradicate them for once and all. \n\nChoose your leadership carefully, don\u2019t let power-hungry interests turn people into tools for their politics. Give new CM Khemchand some time he will prove himself or else you have elections coming \u2026.\n\n#manipur #imphal",
-      "link": "https://nitter.net/Dig_raw21/status/2048251447846834210#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-26T09:32:54+05:30",
-      "time": "26 Apr, 09:32 AM",
-      "type": "tweets",
-      "content": "<p>Dear, <br />\n<br />\nManipur if you still want to march behind radicals like COCOMI, AMUCO, COTU, TNL , you haven\u2019t learned anything from this conflict, same people and groups like NSCN(IM) , Arambai, UNLF , PLA were firing at you during MP election but you stood strong and brought a change. <br />\n<br />\nDon\u2019t fall for militants group and their org like COCOMI and AMUCO\u2019s propaganda. They are running a conflict economy which has to end one day otherwise this cycle of violence, extortion & corruption will never end in Manipur. Eradicate them for once and all. <br />\n<br />\nChoose your leadership carefully, don\u2019t let power-hungry interests turn people into tools for their politics. Give new CM Khemchand some time he will prove himself or else you have elections coming \u2026.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23manipur\">#manipur</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23imphal\">#imphal</a></p>\n<a href=\"https://nitter.net/Dig_raw21/status/2048251447846834210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048251386165706753%2Fimg%2FjdJia4BAOEdBiov5.jpg\" />\n</a>",
-      "author": "@Dig_raw21"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Defence Updates - US Big Loss Against Iran, India Missile Detect Satellite, Pakistan Failed DALAAL",
+      "link": "https://www.youtube.com/watch?v=P2t-DdHu6U0",
+      "source": "Defense Squad",
+      "sort_key": "2026-04-27T21:59:01+05:30",
+      "time": "27 Apr, 09:59 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/P2t-DdHu6U0/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - BrahMos Production Delay, DRDO Vikram Platform, Unknown Gunmen Strikes",
+      "link": "https://www.youtube.com/watch?v=78emqC42uRA",
+      "source": "Defense Squad",
+      "sort_key": "2026-04-26T21:53:31+05:30",
+      "time": "26 Apr, 09:53 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/78emqC42uRA/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "10:24 AM IST"
   }
 }
