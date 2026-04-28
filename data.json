@@ -1,13 +1,94 @@
 {
   "news": [
     {
+      "title": "Nepal Government Pushes Ordinances on Governance Reforms",
+      "link": "https://www.newsonair.gov.in/nepal-government-pushes-ordinances-on-governance-reforms/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T22:20:08+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "news",
+      "description": "Nepal\u2019s Government has recommended two ordinances to President Ram Chandra Paudel for issuance related to cooperatives and the Constitutional Council,..."
+    },
+    {
+      "title": "Mexico's military captures top cartel leader in another blow to the Jalisco New Generation Cartel",
+      "link": "https://www.thehindu.com/news/international/mexicos-military-captures-top-cartel-leader-in-another-blow-to-the-jalisco-new-generation-cartel/article70917786.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T22:06:49+05:30",
+      "time": "28 Apr, 10:06 PM",
+      "type": "news",
+      "description": "Last year, Mr. Trump designated the Jalisco New Generation Cartel and five other Mexican cartels as foreign terrorist organizations"
+    },
+    {
+      "title": "Global Oil Prices Spike Amid Strait of Hormuz Concerns",
+      "link": "https://www.newsonair.gov.in/global-oil-prices-spike-amid-strait-of-hormuz-concerns/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T21:57:18+05:30",
+      "time": "28 Apr, 09:57 PM",
+      "type": "news",
+      "description": "Global crude oil prices jumped over three per cent, extending the previous session\u2019s gains, as the Strait of Hormuz waterway remained largely shut. Br..."
+    },
+    {
+      "title": "Iran, Russia Hold High-Level Talks on Regional Stability",
+      "link": "https://www.newsonair.gov.in/iran-russia-hold-high-level-talks-on-regional-stability/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T21:55:31+05:30",
+      "time": "28 Apr, 09:55 PM",
+      "type": "news",
+      "description": "Iranian Foreign Minister Abbas Araghchi has said that cooperation between Iran and Russia continues to expand amid regional uncertainty. Araghchi, who..."
+    },
+    {
+      "title": "Watch: UAE shocks world with dramatic OPEC exit | Above the Fold | 28.04.2026",
+      "link": "https://www.thehindu.com/videos/watch-uae-shocks-world-with-dramatic-opec-exit-above-the-fold-28042026/article70917770.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T21:53:07+05:30",
+      "time": "28 Apr, 09:53 PM",
+      "type": "news",
+      "description": "From the UAE\u2019s OPEC exit to India\u2019s heatwave, SCO meet updates and the Jakarta train crash, we bring you the top stories that matter with clarity and ..."
+    },
+    {
+      "title": "Trump and Charles greet each other warmly as king begins day of diplomacy in Washington",
+      "link": "https://indianexpress.com/article/world/king-charles-donald-trump-white-house-visit-congress-speech-uk-us-relations-10660944/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-28T21:51:31+05:30",
+      "time": "28 Apr, 09:51 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "At UN, China denounces Japan and EU over South China Sea remarks",
+      "link": "https://www.thehindu.com/news/international/at-un-china-denounces-japan-and-eu-over-south-china-sea-remarks/article70917741.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T21:50:26+05:30",
+      "time": "28 Apr, 09:50 PM",
+      "type": "news",
+      "description": "China\u2019s deputy \u200cU.N. ambassador Sun Lei called the Japanese remarks \u201cunwarranted,\u201d saying they \u201ccompletely confound black and white.\u201d"
+    },
+    {
+      "title": "Marathi Films Jeev and April May 99 Selected for Cannes International Film Festival",
+      "link": "https://www.newsonair.gov.in/marathi-films-jeev-and-april-may-99-selected-for-cannes-international-film-festival/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T21:31:41+05:30",
+      "time": "28 Apr, 09:31 PM",
+      "type": "news",
+      "description": "Two Marathi films, Jeev \u2013 The Creature and April May 99, have been selected for the film market section of the prestigious Cannes International Film F..."
+    },
+    {
+      "title": "Israel Orders Evacuation in South Lebanon Amid Renewed Tensions",
+      "link": "https://www.newsonair.gov.in/israel-orders-evacuation-in-south-lebanon-amid-renewed-tensions/",
+      "source": "All India Radio",
+      "sort_key": "2026-04-28T21:26:28+05:30",
+      "time": "28 Apr, 09:26 PM",
+      "type": "news",
+      "description": "The Israeli military has ordered residents of 16 towns and villages in southern Lebanon to evacuate immediately to the Sidon area. The affected towns ..."
+    },
+    {
       "title": "UAE\u2019s OPEC departure hints at a new era of flexibility in the world oil market",
       "link": "https://www.indiastrategic.in/uaes-opec-departure-hints-at-a-new-era-of-flexibility-in-the-world-oil-market/",
       "source": "India Strategic",
       "sort_key": "2026-04-28T21:03:03+05:30",
       "time": "28 Apr, 09:03 PM",
       "type": "news",
-      "description": "<p>New Delhi, April 28. The decision by the United Arab Emirates (UAE) to quit the Organisation of the Petroleum Exporting Countries (OPEC) and the wi..."
+      "description": "<p>Abu Dhabi, April 28. The decision by the United Arab Emirates (UAE) to quit the Organisation of the Petroleum Exporting Countries (OPEC) and the wi..."
     },
     {
       "title": "Pakistan Army targets Afghan Taliban posts in retaliatory fire along border",
@@ -53,6 +134,24 @@
       "time": "28 Apr, 08:38 PM",
       "type": "news",
       "description": "<p>By R Anil Kumar New York, April 28, 2026. United Nations Secretary-General Ant\u00f3nio Guterres warned on Monday, April 27, that nuclear proliferation ..."
+    },
+    {
+      "title": "Israel-Iran war LIVE: Trump claims Iran 'just' informed U.S. it's in 'state of collapse'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T20:36:33+05:30",
+      "time": "28 Apr, 08:36 PM",
+      "type": "news",
+      "description": "Ceasefire efforts appears at a standstill, with Iran saying Washington could no longer dictate terms"
+    },
+    {
+      "title": "Alleged drug trafficking kingpin deported from T\u00fcrkiye to India",
+      "link": "https://www.thehindu.com/news/national/key-dawood-associate-and-drug-kingpin-salim-dola-deported-to-india-after-arrest-in-istanbul/article70915182.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T20:27:41+05:30",
+      "time": "28 Apr, 08:27 PM",
+      "type": "news",
+      "description": "59-year-old accused Salim Dola was handed over to the Narcotics Control Bureau and taken to its headquarters in Delhi"
     },
     {
       "title": "UAE Announces Exit from OPEC, Decision to Take Effect from May 1, 2026",
@@ -109,6 +208,15 @@
       "description": "Fresh US\u2013Iran talks to end a two-month conflict face deep mistrust, hardened positions and starkly different negotiating styles, raising doubts over a..."
     },
     {
+      "title": "Ukraine says it shot down 33,000 Russian drones in March, monthly record",
+      "link": "https://www.thehindu.com/news/international/ukraine-says-it-shot-down-33000-russian-drones-in-march-monthly-record/article70916306.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-28T18:30:44+05:30",
+      "time": "28 Apr, 06:30 PM",
+      "type": "news",
+      "description": "Ukraine has developed cutting-edge and battle-tested drone technology that has proved essential in holding back Russia's bigger army and has drawn mil..."
+    },
+    {
       "title": "Former Pakistan PM Imran Khan treated for eye ailment then sent back to prison",
       "link": "https://www.thehindu.com/news/international/former-pakistan-pm-imran-khan-treated-for-eye-ailment-then-sent-back-to-prison/article70916024.ece",
       "source": "The Hindu",
@@ -125,15 +233,6 @@
       "time": "28 Apr, 06:16 PM",
       "type": "news",
       "description": "The move came after the UAE, a regional business hub and one of Washington\u2019s most important allies, criticised fellow Arab states for not doing enough..."
-    },
-    {
-      "title": "Israel-Iran war LIVE: U.S. says examining latest Iran proposal on Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-28-2026/article70914662.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T18:14:04+05:30",
-      "time": "28 Apr, 06:14 PM",
-      "type": "news",
-      "description": "U.S., Iran clash over Tehran's nuclear programme as review of atomic treaty begins at UN; Iranian Foreign Minister praises Russia ties, welcomes Mosco..."
     },
     {
       "title": "Iran war: How a $500 million Russian superyacht breached the blockaded Strait of Hormuz",
@@ -172,15 +271,6 @@
       "description": "Araghchi, who met Russian President Vladimir Putin in St. Petersburg on Monday, said he was \"pleased to engage\" with Russia at the highest level as th..."
     },
     {
-      "title": "Ukraine says it shot down 33,000 Russian drones in March, monthly record",
-      "link": "https://www.thehindu.com/news/international/ukraine-says-it-shot-down-33000-russian-drones-in-march-monthly-record/article70916306.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T17:35:58+05:30",
-      "time": "28 Apr, 05:35 PM",
-      "type": "news",
-      "description": "Ukraine has developed cutting-edge and battle-tested drone technology that has proved essential in holding back Russia's bigger army and has drawn mil..."
-    },
-    {
       "title": "Fourth S-400 sets sail for India, to arrive by mid-May; likely to be deployed along Pakistan border",
       "link": "https://theprint.in/defence/fourth-s-400-sets-sail-for-india-to-arrive-by-mid-may-likely-to-be-deployed-along-pakistan-border/2916533/",
       "source": "The Print",
@@ -188,15 +278,6 @@
       "time": "28 Apr, 05:26 PM",
       "type": "news",
       "description": "The fifth S-400 air defence system is undergoing various stages of production trials, and will be delivered by November-December this year, it is lear..."
-    },
-    {
-      "title": "Union Minister Rajnath Singh meets Kyrgyz Defence Minister on SCO sidelines in Bishkek",
-      "link": "https://www.newsonair.gov.in/union-minister-rajnath-singh-meets-kyrgyz-defence-minister-on-sco-sidelines-in-bishkek/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-28T17:24:47+05:30",
-      "time": "28 Apr, 05:24 PM",
-      "type": "news",
-      "description": "Defence Minister Rajnath Singh today met Kyrgyzstan\u2019s Defence Minister Major General Mukambetov Ruslan Mustafaevich on the sidelines of SCO Defence Mi..."
     },
     {
       "title": "Operation Sindoor demonstrated India\u2019s resolve against terrorism, says Rajnath Singh at SCO meet",
@@ -217,15 +298,6 @@
       "description": "Iran has blockaded the waterway \u2014 a vital conduit for oil and gas shipments \u2014 since the start of the U.S.-Israeli offensive two months ago, sending sh..."
     },
     {
-      "title": "Uganda authorities detains 231 foreigners in crackdown on illegal migration and cybercrime",
-      "link": "https://www.newsonair.gov.in/uganda-detains-231-foreigners-in-crackdown-on-illegal-migration-and-cybercrime/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-28T17:13:27+05:30",
-      "time": "28 Apr, 05:13 PM",
-      "type": "news",
-      "description": "Ugandan authorities have detained 231 foreigners in a major crackdown on illegal migration linked to suspected human trafficking and cybercrime operat..."
-    },
-    {
       "title": "Keralam DGP Dismisses Reports Claiming Terrorist Presence In Guruvayur",
       "link": "https://www.deccanchronicle.com/southern-states/kerala/keralam-dgp-dismisses-reports-claiming-terrorist-presence-in-guruvayur-1953303",
       "source": "Deccan Chronicle",
@@ -233,24 +305,6 @@
       "time": "28 Apr, 04:57 PM",
       "type": "news",
       "description": "Keralam state DGP informed that a Kashmiri man found in the temple town on April 22 had been taken into police custody and examined in detail."
-    },
-    {
-      "title": "Alleged drug trafficking kingpin deported from T\u00fcrkiye to India",
-      "link": "https://www.thehindu.com/news/national/key-dawood-associate-and-drug-kingpin-salim-dola-deported-to-india-after-arrest-in-istanbul/article70915182.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T16:26:14+05:30",
-      "time": "28 Apr, 04:26 PM",
-      "type": "news",
-      "description": "59-year-old accused Salim Dola was handed over to the Narcotics Control Bureau and taken to its headquarters in Delhi"
-    },
-    {
-      "title": "External Affairs Minister S Jaishankar meets UNGA President Annalena Baerbock in New Delhi",
-      "link": "https://www.newsonair.gov.in/external-affairs-minister-s-jaishankar-meets-unga-president-annalena-baerbock-in-new-delhi/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-28T16:11:02+05:30",
-      "time": "28 Apr, 04:11 PM",
-      "type": "news",
-      "description": "External Affairs Minister Dr S Jaishankar today met United Nations General Assembly President Annalena Baerbock in New Delhi. In a social media post, ..."
     },
     {
       "title": "U.S. no longer in position to \u2018dictate\u2019 policy to other nations, says Iran",
@@ -305,24 +359,6 @@
       "time": "28 Apr, 02:13 PM",
       "type": "news",
       "description": "<p>Bishkek (Kyrgyzstan), April 28. Defence Minister Rajnath Singh on April 28 called on member states of the Shanghai Cooperation Organisation (SCO) t..."
-    },
-    {
-      "title": "Defence Minister Rajnath Singh issues stern warning against terrorism at SCO Defence Ministers\u2019 Meeting in Kyrgyzstan",
-      "link": "https://www.newsonair.gov.in/defence-minister-rajnath-singh-highlights-scos-role-amid-rising-global-fragmentation-at-bishkek-meet/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-28T14:04:02+05:30",
-      "time": "28 Apr, 02:04 PM",
-      "type": "news",
-      "description": "Defence Minister Rajnath Singh today called for a unified front to tackle terrorism, separatism and extremism by eliminating safe havens and rejecting..."
-    },
-    {
-      "title": "UNICEF warns Afghanistan may lose 20,000 women teachers by 2030 amid restrictions",
-      "link": "https://www.newsonair.gov.in/unicef-warns-afghanistan-may-lose-20000-women-teachers-by-2030-amid-restrictions/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-28T13:48:31+05:30",
-      "time": "28 Apr, 01:48 PM",
-      "type": "news",
-      "description": "The United Nations International Children&#8217;s Emergency Fund (UNICEF) today warned that Afghanistan risks losing up to 20,000 women teachers and 5..."
     },
     {
       "title": "UN Security Council Calls for Urgent, Unconditional reopening of Strait of Hormuz",
@@ -928,40 +964,13 @@
       "description": "Russian and Iranian state media confirmed Mr. Araghchi\u2019s talks with Putin, citing officials from their respective governments"
     },
     {
-      "title": "Iran US War News Live Updates: Marco Rubio says Iran will seek nuclear weapon if radical, clerical regimes stay",
+      "title": "Iran US War News Live Updates: US gas prices hit highest since beginning of the conflict",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks-10657521/",
       "source": "The Indian Express",
       "sort_key": "2026-04-27T09:31:31+05:30",
       "time": "27 Apr, 09:31 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "UAE-Iran differences and India\u2019s plans to dilute language on Israel-Palestine derail joint statement at BRICS meet",
-      "link": "https://www.thehindu.com/news/national/uae-iran-differences-and-indias-plans-to-dilute-language-on-israel-palestine-derail-joint-statement-at-brics-meet/article70909165.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T09:30:16+05:30",
-      "time": "27 Apr, 09:30 AM",
-      "type": "news",
-      "description": "Deeply polarised deputy FMs meeting in Delhi spell trouble for India\u2019s BRICS Presidency; as the language of a joint statement eluded diplomats, India ..."
-    },
-    {
-      "title": "Suspect in shooting at Trump press dinner to appear in court",
-      "link": "https://www.thehindu.com/news/international/suspect-in-shooting-at-trump-press-dinner-to-appear-in-court/article70910618.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T09:16:06+05:30",
-      "time": "27 Apr, 09:16 AM",
-      "type": "news",
-      "description": "Mr. Trump said at a hastily arranged late-night news conference at the White House that he first thought the noise was a tray being dropped, before re..."
-    },
-    {
-      "title": "Lebanon says Israel strikes kill 14 in deadliest day since truce",
-      "link": "https://www.thehindu.com/news/international/lebanon-says-israel-strikes-kill-14-in-deadliest-day-since-truce/article70910594.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T08:20:47+05:30",
-      "time": "27 Apr, 08:20 AM",
-      "type": "news",
-      "description": "Israeli strikes have killed at least 36 people since the truce began, according to an AFP tally of Health Ministry figures"
     },
     {
       "title": "Iran offers US new proposal seeking to reopen Strait of Hormuz, end war: Report",
@@ -980,15 +989,6 @@
       "time": "27 Apr, 07:53 AM",
       "type": "news",
       "description": "India has boosted Sri Lanka's coast guard with two personal watercraft for search and rescue operations. This follows a joint naval diving exercise in..."
-    },
-    {
-      "title": "\u200bTurning point: On the U.S. and India\u2019s independent foreign policy",
-      "link": "https://www.thehindu.com/opinion/editorial/turning-point-on-the-us-and-indias-independent-foreign-policy/article70909254.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T07:42:41+05:30",
-      "time": "27 Apr, 07:42 AM",
-      "type": "news",
-      "description": "The U.S. is slicing away at India\u2019s ability to pursue an independent foreign policy"
     },
     {
       "title": "Mali Defence Minister Killed as Jihadis, Rebels Seize Towns, Military Bases",
@@ -1079,27 +1079,139 @@
       "time": "26 Apr, 11:00 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Mystery Maoist Leader Forms North Group, Vows To Continue Armed Struggle",
-      "link": "https://www.deccanchronicle.com/southern-states/telangana/mystery-maoist-leader-forms-north-group-vows-to-continue-armed-struggle-1952950",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-04-26T22:08:07+05:30",
-      "time": "26 Apr, 10:08 PM",
-      "type": "news",
-      "description": "Telangana is Maoist-free; intelligence agencies and armed forces are very active along the state borders. There is also considerable speculation about..."
-    },
-    {
-      "title": "Trump says Iran can call US if it wants to negotiate",
-      "link": "https://indianexpress.com/article/world/donald-trump-iran-negotiations-call-envoys-pakistan-trip-canceled-10657104/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-26T21:47:12+05:30",
-      "time": "26 Apr, 09:47 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "R to @NetramDefence: To conclude, Pakistan is actively laying the groundwork for destabilization in India's Northeast. By spreading fake narratives, recycling old footage, and manufacturing fake news, this state-backed operation aims to exacerbate communal tensions. This sustained disinformation campaign represents the preparatory phase of a broader hybrid warfare strategy targeting a vulnerable region of India.\n\n10/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169473681473781#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:48+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>To conclude, Pakistan is actively laying the groundwork for destabilization in India's Northeast. By spreading fake narratives, recycling old footage, and manufacturing fake news, this state-backed operation aims to exacerbate communal tensions. This sustained disinformation campaign represents the preparatory phase of a broader hybrid warfare strategy targeting a vulnerable region of India.<br />\n<br />\n10/10</p>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: BCB is preparing for an escalated second phase of disinformation. New accounts, including @MANIPURTI (suspended now @MANIPURTIM42847), @FreeManipur_, and @TheNewManipur, have been established recently. These accounts are currently in an incubation period, building followers before transitioning to active propaganda dissemination.\n\n9/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169470338613409#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:48+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>BCB is preparing for an escalated second phase of disinformation. New accounts, including <a href=\"https://nitter.net/MANIPURTI\" title=\"MANIPUR TIMES\">@MANIPURTI</a> (suspended now <a href=\"https://nitter.net/MANIPURTIM42847\" title=\"MANIPURTIMES\">@MANIPURTIM42847</a>), <a href=\"https://nitter.net/FreeManipur_\" title=\"Manipur Freedom\">@FreeManipur_</a>, and <a href=\"https://nitter.net/TheNewManipur\" title=\"TheManipurViolence\">@TheNewManipur</a>, have been established recently. These accounts are currently in an incubation period, building followers before transitioning to active propaganda dissemination.<br />\n<br />\n9/10</p>\n<img src=\"https://nitter.net/pic/media%2FHHAZJGnbwAgX5kf.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: The wing also executes defensive information warfare. A significant portion of BCB's operational bandwidth is dedicated to identifying and suppressing content related to Balochistan's Independence, actively targeting accounts sympathetic to the Baloch people's plight. We have accessed internal report of their campaign against @bahott_baloch (a Baloch actvist and Journalist).\n\n8/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169466383384579#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:47+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>The wing also executes defensive information warfare. A significant portion of BCB's operational bandwidth is dedicated to identifying and suppressing content related to Balochistan's Independence, actively targeting accounts sympathetic to the Baloch people's plight. We have accessed internal report of their campaign against <a href=\"https://nitter.net/bahott_baloch\" title=\"B\u00e0hot \u0628\u0627\u06be\u0648\u0679\">@bahott_baloch</a> (a Baloch actvist and Journalist).<br />\n<br />\n8/10</p>\n<img src=\"https://nitter.net/pic/media%2FHHAXet7boAA4w_u.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHAYJHTbwAEs2OQ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHAYQzRbwAMfvLu.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHAYd9YbMAAkwON.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Similarly, the account @_VoNEI (suspended now operates as @Vnorth__) positioned itself as a local civil society critic but was assessed to be operating from Pakistan. It specifically focused on alleging minority oppression to inflame communal tensions while injecting Pakistani strategic messaging.\n\n7/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169462415470751#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:46+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>Similarly, the account <a href=\"https://nitter.net/_VoNEI\" title=\"Voice of North East India\">@_VoNEI</a> (suspended now operates as <a href=\"https://nitter.net/Vnorth__\" title=\"Voice of North East\">@Vnorth__</a>) positioned itself as a local civil society critic but was assessed to be operating from Pakistan. It specifically focused on alleging minority oppression to inflame communal tensions while injecting Pakistani strategic messaging.<br />\n<br />\n7/10</p>\n<img src=\"https://nitter.net/pic/media%2FHHAWawiaYAAwrWr.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: To maximize domestic credibility, BCB utilizes sockpuppet accounts with assumed Indian identities. The account @sen74410 (now suspended), operating as \"Ireima Sen,\" generated anti-government and anti-Armed Forces content that was systematically amplified by a network of Indian Congress IT cell, Pakistani handles, and Khalistani accounts.\n\n6/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169458875539775#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:45+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>To maximize domestic credibility, BCB utilizes sockpuppet accounts with assumed Indian identities. The account <a href=\"https://nitter.net/sen74410\" title=\"Ireima Sen\">@sen74410</a> (now suspended), operating as \"Ireima Sen,\" generated anti-government and anti-Armed Forces content that was systematically amplified by a network of Indian Congress IT cell, Pakistani handles, and Khalistani accounts.<br />\n<br />\n6/10</p>\n<img src=\"https://nitter.net/pic/media%2FHHAV4zzbwAUDpcb.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHAWA-OagAA_tO_.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: BCB's primary offensive operations are concentrated on Manipur and India's Northeast. A key node in this network was @ManipurPost5, an account operated by Mir Abdul Wasae, a member of PMLN's Team Digital Creators. The account actively deployed temporal decontextualization, recycling old insurgent footage to falsely portray current violence in Manipur.\n\n5/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169455541063824#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:44+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>BCB's primary offensive operations are concentrated on Manipur and India's Northeast. A key node in this network was <a href=\"https://nitter.net/ManipurPost5\" title=\"Manipur Post\">@ManipurPost5</a>, an account operated by Mir Abdul Wasae, a member of PMLN's Team Digital Creators. The account actively deployed temporal decontextualization, recycling old insurgent footage to falsely portray current violence in Manipur.<br />\n<br />\n5/10</p>\n<img src=\"https://nitter.net/pic/media%2FHHAVALZaUAAq9jY.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: The operation maintains a public front on X via the handle BadriCyberForce, while operational tasking is coordinated through a private WhatsApp channel. Their internal objectives emphasize mass reporting \"anti-Pakistan\" content to create legitimacy and conducting \"5th and 6th Generation Warfare.\"\n\n4/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169451887870131#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:43+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>The operation maintains a public front on X via the handle BadriCyberForce, while operational tasking is coordinated through a private WhatsApp channel. Their internal objectives emphasize mass reporting \"anti-Pakistan\" content to create legitimacy and conducting \"5th and 6th Generation Warfare.\"<br />\n<br />\n4/10</p>\n<img src=\"https://nitter.net/pic/media%2FHHAUeI0aUAALbVx.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: PMLN social media coordinators, including Imran Shaheen and Ch Adnan Sialvi, initiated a public recruitment drive for 5,000 \"cyber warriors.\" The mandatory conditions for participation included being a Pakistani Muslim and dedicating 30 minutes to the work daily.\n\n3/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169448079134891#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:42+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>PMLN social media coordinators, including Imran Shaheen and Ch Adnan Sialvi, initiated a public recruitment drive for 5,000 \"cyber warriors.\" The mandatory conditions for participation included being a Pakistani Muslim and dedicating 30 minutes to the work daily.<br />\n<br />\n3/10</p>\n<img src=\"https://nitter.net/pic/media%2FHHATQD1aQAIqAo0.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHATpCRbYAA1bF6.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHATwFva4AA6R3z.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Four months after this statement, in January 2026, the Badri 313 Cyber Brigade (BCB) was formally launched. Operating under the joint direction of the Pakistan Army and the Pakistan Muslim League-Nawaz (PMLN), it functions as a hybrid civil-military information warfare unit.\n\n2/10",
+      "link": "https://nitter.net/NetramDefence/status/2049169442240975109#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:41+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>Four months after this statement, in January 2026, the Badri 313 Cyber Brigade (BCB) was formally launched. Operating under the joint direction of the Pakistan Army and the Pakistan Muslim League-Nawaz (PMLN), it functions as a hybrid civil-military information warfare unit.<br />\n<br />\n2/10</p>\n<img src=\"https://nitter.net/pic/media%2FHHASv7YagAAxmtN.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "THREAD\ud83e\uddf5\n\nGensis of Pakistan's \"War from India's East\"\n\nEXCLUSIVE: We studied a Pakistan-based information warfare wing for 3 months. The origins of this operation traces back to August 2025, when Pakistan's Army Chief Field Marshal Asim Munir stated \"We'll start from India's East.\" This marked Pakistan's shift from a western-front-centric posture to exploiting vulnerabilities in India's Northeast.\n\n1/10\n\n@aravind @ShekharGupta @spvaid @sneheshphilip @AnchorAnandN @ARanganathan72 @jsaideepak @major_pawan @easterncomd @official_dgar  @OsintTV @HMOIndia @AmitShahOffice @AmitShah @PMOIndia @DefenceMinIndia @SandeepUnnithan @manupubby @ShivAroor @VishnuNDTV @gauravcsawant @dubey_ajit",
+      "link": "https://nitter.net/NetramDefence/status/2049169437920838087#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-28T22:20:40+05:30",
+      "time": "28 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>THREAD\ud83e\uddf5<br />\n<br />\nGensis of Pakistan's \"War from India's East\"<br />\n<br />\nEXCLUSIVE: We studied a Pakistan-based information warfare wing for 3 months. The origins of this operation traces back to August 2025, when Pakistan's Army Chief Field Marshal Asim Munir stated \"We'll start from India's East.\" This marked Pakistan's shift from a western-front-centric posture to exploiting vulnerabilities in India's Northeast.<br />\n<br />\n1/10<br />\n<br />\n<a href=\"https://nitter.net/aravind\" title=\"Aravind\">@aravind</a> <a href=\"https://nitter.net/ShekharGupta\" title=\"Shekhar Gupta\">@ShekharGupta</a> <a href=\"https://nitter.net/spvaid\" title=\"Shesh Paul Vaid\">@spvaid</a> <a href=\"https://nitter.net/sneheshphilip\" title=\"Snehesh Alex Philip\">@sneheshphilip</a> <a href=\"https://nitter.net/AnchorAnandN\" title=\"Anand Narasimhan\ud83c\uddee\ud83c\uddf3\">@AnchorAnandN</a> <a href=\"https://nitter.net/ARanganathan72\" title=\"Anand Ranganathan\">@ARanganathan72</a> <a href=\"https://nitter.net/jsaideepak\" title=\"Sai Deepak J\">@jsaideepak</a> <a href=\"https://nitter.net/major_pawan\" title=\"Major Pawan Kumar, Shaurya Chakra (Retd) \ud83c\uddee\ud83c\uddf3\">@major_pawan</a> <a href=\"https://nitter.net/easterncomd\" title=\"EasternCommand_IA\">@easterncomd</a> <a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a>  <a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a> <a href=\"https://nitter.net/HMOIndia\" title=\"\u0917\u0943\u0939\u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f, HMO India\">@HMOIndia</a> <a href=\"https://nitter.net/AmitShahOffice\" title=\"Office of Amit Shah\">@AmitShahOffice</a> <a href=\"https://nitter.net/AmitShah\" title=\"Amit Shah\">@AmitShah</a> <a href=\"https://nitter.net/PMOIndia\" title=\"PMO India\">@PMOIndia</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/SandeepUnnithan\" title=\"Sandeep\">@SandeepUnnithan</a> <a href=\"https://nitter.net/manupubby\" title=\"Manu Pubby\">@manupubby</a> <a href=\"https://nitter.net/ShivAroor\" title=\"Shiv Aroor\">@ShivAroor</a> <a href=\"https://nitter.net/VishnuNDTV\" title=\"Vishnu Som\">@VishnuNDTV</a> <a href=\"https://nitter.net/gauravcsawant\" title=\"GAURAV C SAWANT\">@gauravcsawant</a> <a href=\"https://nitter.net/dubey_ajit\" title=\"Ajit Dubey\">@dubey_ajit</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHARK1la8AAO46Q.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "We have to make sure the government gets all the backing from us on this issue, and criticism only when it is absolutely evident that they are backtracking.\n\nWhy? Read !\n\nIn 2008, the sowing period from August to October 2008 and badly affected the agriculture sector of Pakistan. Pakistan lost 23000 cusecs of water; farmers could not irrigate their fields due to a shortage of water and as a result 3.5 million agricultural tracts got barren.\n\nThat was just Baglihar doing its thing!\n\nOne more incident,\n\nLast year in May, we did surprise de-silting exercises without notifying Pakistan. The impact of this - You saw visuals of floods in Pakistan, and days later, there was drought because we shut the gates to fill the reservoir again.\n\nFor the first time in history, India is seeing Pakistan as the enemy it is; don't jump the gun and give the leverage to the people who want to extend the lives of these beggars.\n\nFOR GODSAKE \ud83d\ude4f",
+      "link": "https://nitter.net/elitepredatorss/status/2049167450256949528#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-28T22:12:46+05:30",
+      "time": "28 Apr, 10:12 PM",
+      "type": "tweets",
+      "content": "<p>We have to make sure the government gets all the backing from us on this issue, and criticism only when it is absolutely evident that they are backtracking.<br />\n<br />\nWhy? Read !<br />\n<br />\nIn 2008, the sowing period from August to October 2008 and badly affected the agriculture sector of Pakistan. Pakistan lost 23000 cusecs of water; farmers could not irrigate their fields due to a shortage of water and as a result 3.5 million agricultural tracts got barren.<br />\n<br />\nThat was just Baglihar doing its thing!<br />\n<br />\nOne more incident,<br />\n<br />\nLast year in May, we did surprise de-silting exercises without notifying Pakistan. The impact of this - You saw visuals of floods in Pakistan, and days later, there was drought because we shut the gates to fill the reservoir again.<br />\n<br />\nFor the first time in history, India is seeing Pakistan as the enemy it is; don't jump the gun and give the leverage to the people who want to extend the lives of these beggars.<br />\n<br />\nFOR GODSAKE \ud83d\ude4f</p>\n<hr />\n<blockquote>\n<b>SRT (@wip2050)</b>\n<p>\n<p>Doesnt matter, at this rate he will eventually open IWT. We haven\u2019t even designated Pakistan terrorist state ourselves.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/wip2050/status/2049159799447687441#m\">https://nitter.net/wip2050/status/2049159799447687441#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Read the full statement before the outrage; he was being very strategic, trying to rally all SCO nations as an observer.\n\nWhy does he bring in the religious angle using the most commonly used \u201cdiplomatic language\u201d while addressing Islamic terrorism?\n\nBecause 7 out of the 10 permanent member states of the Shanghai Cooperation Organisation (SCO) are Muslim-majority countries.\n\nYou don\u2019t axe the branch you want to sit on.",
+      "link": "https://nitter.net/elitepredatorss/status/2049158934758588492#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-28T21:38:56+05:30",
+      "time": "28 Apr, 09:38 PM",
+      "type": "tweets",
+      "content": "<p>Read the full statement before the outrage; he was being very strategic, trying to rally all SCO nations as an observer.<br />\n<br />\nWhy does he bring in the religious angle using the most commonly used \u201cdiplomatic language\u201d while addressing Islamic terrorism?<br />\n<br />\nBecause 7 out of the 10 permanent member states of the Shanghai Cooperation Organisation (SCO) are Muslim-majority countries.<br />\n<br />\nYou don\u2019t axe the branch you want to sit on.</p>\n<img src=\"https://nitter.net/pic/media%2FHHARh-9bIAAoyyw.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri is likely to travel to Nepal in May, this will be followed by visit Nepal FM & PM Balen Shah. Balen's India visit will be the first visit of a Nepal PM since 2023.",
+      "link": "https://nitter.net/sidhant/status/2049154888354189542#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-28T21:22:51+05:30",
+      "time": "28 Apr, 09:22 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri is likely to travel to Nepal in May, this will be followed by visit Nepal FM &amp; PM Balen Shah. Balen's India visit will be the first visit of a Nepal PM since 2023.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Plans underway for the visit of Indian Foreign secretary Vikram Misri to Nepal very soon. This will be followed by the visit of Nepal Foreign minister Shisir Khanal to India.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2044481001179779563#m\">https://nitter.net/sidhant/status/2044481001179779563#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "Russian Presidential Envoy Zamir Kabulov meets Afghan Interior minister Sirajuddin Haqqani",
       "link": "https://nitter.net/sidhant/status/2049154302443479163#m",
@@ -1119,16 +1231,6 @@
       "type": "tweets",
       "content": "<p>UK King &amp; Queen at the White House, meet Trump &amp; Melania Trump.</p>\n<a href=\"https://nitter.net/sidhant/status/2049153854315581885#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049142303240155136%2Fimg%2FikyrdDwxYrP15Kg_.jpg\" />\n</a>",
       "author": "@sidhant"
-    },
-    {
-      "title": "Pakistan?",
-      "link": "https://nitter.net/elitepredatorss/status/2049151173941477503#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-28T21:08:05+05:30",
-      "time": "28 Apr, 09:08 PM",
-      "type": "tweets",
-      "content": "<p>Pakistan?</p>\n<hr />\n<blockquote>\n<b>\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India (@DefenceMinIndia)</b>\n<p>\n<p>It was a testimony to our zero-tolerance outlook towards terrorism and its perpetrators, which was endorsed by this esteemed Forum. But the real test of our collective credibility remains in consistency. We must not forget that terrorism has no nationality and no theology. No grievance, real or supposed, can become an excuse for terrorism and humanitarian loss: Raksha Mantri Shri <a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceMinIndia/status/2049009624062533635#m\">https://nitter.net/DefenceMinIndia/status/2049009624062533635#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     },
     {
       "title": "R to @sidhant: 28th April (Day 60)\n-UAE leaves OPEC\n-Trump claims Iran wants US to open Hormuz\n-Indian airlines seek government relief over high fuel prices\n-At maritime meet at UNSC, India calls for freedom of navigation\n-Pakistan open 6 land routes with Iran amid Trump blockade.",
@@ -1438,16 +1540,6 @@
       "time": "28 Apr, 03:40 PM",
       "type": "tweets",
       "content": "<p>PGA Mentions &amp; pays homage to Dr Hansa Mehta</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>UNGA President Annalena Baerbock begins a press conference in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHG-_bM_aYAAwYJR.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049066833521848633#m\">https://nitter.net/sidhant/status/2049066833521848633#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "In Delhi, UNGA President Annalena Baerbock calls for UN reforms; Mentions the process of appointment of new UNSG",
-      "link": "https://nitter.net/sidhant/status/2049068606772944924#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-28T15:40:00+05:30",
-      "time": "28 Apr, 03:40 PM",
-      "type": "tweets",
-      "content": "<p>In Delhi, UNGA President Annalena Baerbock calls for UN reforms; Mentions the process of appointment of new UNSG</p>\n<a href=\"https://nitter.net/sidhant/status/2049068606772944924#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049068556063842304%2Fpu%2Fimg%2F79qt-FOdN3-ak7C0.jpg\" />\n</a>",
       "author": "@sidhant"
     },
     {
@@ -1901,16 +1993,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "India is set to establish 7 space labs across universities and colleges to provide hands-on training in satellite systems, rocketry, and mission design.\n\nBacked by the growing ecosystem led by Indian Space Research Organisation and IN-SPACe, the move aims to bridge the talent gap in India\u2019s rapidly expanding space sector.",
-      "link": "https://nitter.net/NetramDefence/status/2048667138966331511#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-27T13:04:42+05:30",
-      "time": "27 Apr, 01:04 PM",
-      "type": "tweets",
-      "content": "<p>India is set to establish 7 space labs across universities and colleges to provide hands-on training in satellite systems, rocketry, and mission design.<br />\n<br />\nBacked by the growing ecosystem led by Indian Space Research Organisation and IN-SPACe, the move aims to bridge the talent gap in India\u2019s rapidly expanding space sector.</p>\n<img src=\"https://nitter.net/pic/media%2FHG5T4JDaYAAgNEX.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "\ud83c\uddee\ud83c\uddf3\ud83e\ude96 In a precise 22 minutes operation.... \ud83d\udd25 \n\n\u2022 9 terror hubs destructed.....\n\u2022 And their command structure crippled.....",
       "link": "https://nitter.net/OsintTV/status/2048655340388986989#m",
       "source": "Osint TV",
@@ -1939,26 +2021,6 @@
       "type": "tweets",
       "content": "<p>A top LET commander, Sheikh Yousuf Afridi, has reportedly been killed by unidentified gunmen.<br />\n<br />\nSOURCE - NDTV</p>\n<img src=\"https://nitter.net/pic/media%2FHG4sarSa8AAyVyw.jpg\" />",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Iran Sends New Peace Proposal to U.S. via Pakistan\n\nIran has reportedly submitted a \u201cnew proposal\u201d to the United States through Pakistani intermediaries, aiming to reopen the Strait of Hormuz and end the war, according to reports.\n\n Key points of the proposal:\n- Two-stage plan; first restore maritime flow & ease blockade\n- Option of extended ceasefire or permanent end to conflict\n- Nuclear talks to be deferred until after Hormuz is reopened\n\nIran\u2019s Foreign Minister Abbas Araghchi reportedly told mediators there is no internal consensus yet on U.S. demands like halting uranium enrichment.",
-      "link": "https://nitter.net/NetramDefence/status/2048609348151321012#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-27T09:15:04+05:30",
-      "time": "27 Apr, 09:15 AM",
-      "type": "tweets",
-      "content": "<p>Iran Sends New Peace Proposal to U.S. via Pakistan<br />\n<br />\nIran has reportedly submitted a \u201cnew proposal\u201d to the United States through Pakistani intermediaries, aiming to reopen the Strait of Hormuz and end the war, according to reports.<br />\n<br />\n Key points of the proposal:<br />\n- Two-stage plan; first restore maritime flow & ease blockade<br />\n- Option of extended ceasefire or permanent end to conflict<br />\n- Nuclear talks to be deferred until after Hormuz is reopened<br />\n<br />\nIran\u2019s Foreign Minister Abbas Araghchi reportedly told mediators there is no internal consensus yet on U.S. demands like halting uranium enrichment.</p>\n<img src=\"https://nitter.net/pic/media%2FHG4fVVjakAAsBCw.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "BREAKING: NIA Probes Recovery of 79 Crude Bombs in West Bengal\n\nNational Investigation Agency has registered a case to investigate the recovery of 79 crude bombs in West Bengal, The explosives were recovered in Bhangar, South 24 Parganas, district bordering Bangladesh, where they were reportedly stored in a residential premises.",
-      "link": "https://nitter.net/NetramDefence/status/2048587501296816317#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-27T07:48:15+05:30",
-      "time": "27 Apr, 07:48 AM",
-      "type": "tweets",
-      "content": "<p>BREAKING: NIA Probes Recovery of 79 Crude Bombs in West Bengal<br />\n<br />\nNational Investigation Agency has registered a case to investigate the recovery of 79 crude bombs in West Bengal, The explosives were recovered in Bhangar, South 24 Parganas, district bordering Bangladesh, where they were reportedly stored in a residential premises.</p>\n<img src=\"https://nitter.net/pic/media%2FHG4LdlpaIAAQpwV.jpg\" />",
-      "author": "@NetramDefence"
     },
     {
       "title": "I think we have finally figured out our game of ecosystem of platforms.\n\nI hope we figure out anti-drone game for these vehicles, otherwise they are sitting ducks.",
@@ -1999,49 +2061,18 @@
       "type": "tweets",
       "content": "<p>The 2026 Global Report on Food Crises (GRFC) places Pakistan and Bangladesh among the top 10 countries worst affected by acute food insecurity.<br />\n<br />\nThe report highlights that around 11 million people in Pakistan faced severe food insecurity in 2025 .</p>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Daily US-Israel-Iran War Brief: \n26th April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf Iran\u2019s Foreign Minister Araghchi met Oman's Sultan in Muscat, discussing Strait of Hormuz security and broader regional efforts.\n\n\u25cf Iran FM returns to Pakistan; phones Saudi & Egyptian counterparts.\n\n\u25cf After Pakistan and Oman, Araghchi is scheduled to meet Russian leaders in Moscow tomorrow for consultations on Iran-US negotiations.\n\n\u25cf Iranian MP Ebrahim Rezaei previously questioned Pakistan\u2019s role as a fully neutral mediator.\n\n\u25cf Kuwait International Airport resumed limited commercial operations.\n\n\u25cf Israel reports strikes on Hezbollah facilities in Lebanon.\n\n\u25cf India\u2019s NSA Ajit Doval meets UAE President in Abu Dhabi on West Asia situation.\n\n\u25cf A fire broke out in a storage building at the UK base used by the US Air Force for Iran-related operations. No injuries or aircraft damage reported; cause believed accidental.\n\n\u25cf An armed suspect opened fire while attempting to breach security at the event in Washington, where Trump was present. Trump was unharmed; the suspect was apprehended by Secret Service.\n\nEND OF THE BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2048441995639799880#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-26T22:10:04+05:30",
-      "time": "26 Apr, 10:10 PM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief: <br />\n26th April 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Iran\u2019s Foreign Minister Araghchi met Oman's Sultan in Muscat, discussing Strait of Hormuz security and broader regional efforts.<br />\n<br />\n\u25cf Iran FM returns to Pakistan; phones Saudi & Egyptian counterparts.<br />\n<br />\n\u25cf After Pakistan and Oman, Araghchi is scheduled to meet Russian leaders in Moscow tomorrow for consultations on Iran-US negotiations.<br />\n<br />\n\u25cf Iranian MP Ebrahim Rezaei previously questioned Pakistan\u2019s role as a fully neutral mediator.<br />\n<br />\n\u25cf Kuwait International Airport resumed limited commercial operations.<br />\n<br />\n\u25cf Israel reports strikes on Hezbollah facilities in Lebanon.<br />\n<br />\n\u25cf India\u2019s NSA Ajit Doval meets UAE President in Abu Dhabi on West Asia situation.<br />\n<br />\n\u25cf A fire broke out in a storage building at the UK base used by the US Air Force for Iran-related operations. No injuries or aircraft damage reported; cause believed accidental.<br />\n<br />\n\u25cf An armed suspect opened fire while attempting to breach security at the event in Washington, where Trump was present. Trump was unharmed; the suspect was apprehended by Secret Service.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHG2HHoLboAA_yKr.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n25th April 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Iranian FM Araghchi began his meetings with Pakistani officials today. He emphasized that his tour is focused on a \"neighborhood first\" policy with partners in Pakistan, Oman, and Russia.<br />\n<br />\n\u25cf US officials Witkoff and Kushner arrive in Islamabad, however Iran denies any talks with US.<br />\n<br />\n\u25cf UKMTO reported the hijacking of a tanker approximately 45nm northeast of Mareeyo, Somalia.<br />\n<br />\n\u25cf Iran\u2019s Khatam al-Anbiya Central HQ warned that if US continues its naval blockade and maritime piracy in the region, it will encounter a severe reaction from Iran\u2019s armed forces.<br />\n<br />\n\u25cf Israeli PM Netanyahu is expected to travel to Washington in about two and a half weeks for the summit with President Trump and Lebanese President Aoun.<br />\n<br />\n\u25cf Iran resumes international services of Imam Khomeini Airport.<br />\n<br />\n\u25cf Despite the ceasefire extension, the IDF struck Hezbollah sites in southern Lebanon today, killing at least four people.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHGw0ZhgaMAAJieR.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2048069673892356209#m\">https://nitter.net/NetramDefence/status/2048069673892356209#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Western Command :)",
-      "link": "https://nitter.net/Goreunit/status/2048436144686432719#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-26T21:46:49+05:30",
-      "time": "26 Apr, 09:46 PM",
-      "type": "tweets",
-      "content": "<p>Western Command :)</p>\n<a href=\"https://nitter.net/Goreunit/status/2048436144686432719#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048436109282258944%2Fpu%2Fimg%2FzAPMk2Dd0Tb7Qi8k.jpg\" />\n</a>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Donald Trump:\n\nWe have great respect for the field marshal of Pakistan and for the prime minister of Pakistan. \nThey are great people.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2048431539810345143#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-26T21:28:31+05:30",
-      "time": "26 Apr, 09:28 PM",
-      "type": "tweets",
-      "content": "<p>Donald Trump:<br />\n<br />\nWe have great respect for the field marshal of Pakistan and for the prime minister of Pakistan. <br />\nThey are great people.</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "The conflict has sent a clear message to the world that neither Iran nor the United States is universally viewed as a fully reliable ally in global affairs.",
-      "link": "https://nitter.net/OsintTV/status/2048431238008979554#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-26T21:27:19+05:30",
-      "time": "26 Apr, 09:27 PM",
-      "type": "tweets",
-      "content": "<p>The conflict has sent a clear message to the world that neither Iran nor the United States is universally viewed as a fully reliable ally in global affairs.</p>",
-      "author": "@OsintTV"
     }
   ],
   "youtube": [
+    {
+      "title": "Ultra Heavy Lift Helicopter for India",
+      "link": "https://www.youtube.com/watch?v=E2HYX3hJXjA",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-04-28T21:29:47+05:30",
+      "time": "28 Apr, 09:29 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/E2HYX3hJXjA/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Su-57 with Kover,2nd S5 SSBN,Dhvani HGV Test,S-400 Delivery,Akash To UAE",
       "link": "https://www.youtube.com/watch?v=ePWvqxzL8A0",
@@ -2095,18 +2126,9 @@
       "time": "26 Apr, 11:00 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/dst4GSaHkfk/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - BrahMos Production Delay, DRDO Vikram Platform, Unknown Gunmen Strikes",
-      "link": "https://www.youtube.com/watch?v=78emqC42uRA",
-      "source": "Defense Squad",
-      "sort_key": "2026-04-26T21:53:31+05:30",
-      "time": "26 Apr, 09:53 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/78emqC42uRA/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
