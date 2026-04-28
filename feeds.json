@@ -35,9 +35,9 @@
         "type": "news",
         "name": "Deccan Chronicle",
         "url": "https://www.deccanchronicle.com/feeds.xml",
-        "hide_desc": true,
-        "filter_enabled": false,
-        "keywords": ["maoist", "naxal", "insurgency", "encounter", "bastar", "sukma", "crpf", "security forces", "military", "defence", "nia"]
+        "hide_desc": false,
+        "filter_enabled": true,
+        "keywords": ["maoist", "naxal", "insurgency", "encounter", "bastar", "sukma", "crpf", "security forces", "defence", "terrorism", "terrorist"]
     },
     {
         "type": "news",
