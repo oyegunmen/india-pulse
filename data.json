@@ -1,11 +1,38 @@
 {
   "news": [
     {
+      "title": "New York Mayor Zohran Mamdani backs return of Koh-i-Noor diamond to India amid King Charles\u2019 US visit",
+      "link": "https://indianexpress.com/article/world/us-news/nyc-mayor-zohran-mamdani-king-charles-kohinoor-diamond-india-return-10663262/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-30T09:10:50+05:30",
+      "time": "30 Apr, 09:10 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "NYC Mayor Mamdani says he would encourage King Charles to return the Koh-i-Noor diamond",
+      "link": "https://www.thehindu.com/news/international/nyc-mayor-mamdani-says-he-would-encourage-king-charles-to-return-the-koh-i-noor-diamond/article70923107.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-30T08:45:19+05:30",
+      "time": "30 Apr, 08:45 AM",
+      "type": "news",
+      "description": "India has indicated that it will continue to explore ways to bring back the Koh-i-noor from the United Kingdom"
+    },
+    {
+      "title": "Iran unlikely to concede ground on Hormuz as Trump indicates continued blockade: Analysis",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-unlikely-to-concede-ground-on-hormuz-as-trump-indicates-continued-blockade-analysis/articleshow/130622025.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-30T08:44:55+05:30",
+      "time": "30 Apr, 08:44 AM",
+      "type": "news",
+      "description": "Iran maintains a firm stance on its nuclear program and control of the Strait of Hormuz. The United States continues its naval blockade, viewing it as..."
+    },
+    {
       "title": "Israel-Iran war LIVE: Trump warns U.S. naval blockade against Iran could last months",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-30-2026/article70923050.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-30T08:02:51+05:30",
-      "time": "30 Apr, 08:02 AM",
+      "sort_key": "2026-04-30T08:41:18+05:30",
+      "time": "30 Apr, 08:41 AM",
       "type": "news",
       "description": "Russian President Vladimir Putin warned Donald Trump against \"damaging consequences\" of a new military action in Iran, Kremlin aide told reporters on ..."
     },
@@ -80,6 +107,15 @@
       "time": "30 Apr, 03:12 AM",
       "type": "news",
       "description": "\u201cAfter my term as chair ends \u200bon May 15, I will continue to serve as a governor for a period of time to \u2060be determined,\u201d Mr. Powell told a news confer..."
+    },
+    {
+      "title": "India Rethinks Energy Security Amid War",
+      "link": "https://foreignpolicy.com/2026/04/29/india-energy-security-iran-war-uae-green-technology/",
+      "source": "Foreign Policy",
+      "sort_key": "2026-04-30T02:43:40+05:30",
+      "time": "30 Apr, 02:43 AM",
+      "type": "news",
+      "description": "As New Delhi feels the crunch, diplomacy in Abu Dhabi hints at expanding green cooperation."
     },
     {
       "title": "Made-in-India Naval Thrust: DRDO, Indian Navy Successfully Conduct First Salvo Launch Of Twin Anti-Ship Missiles From Helicopter",
@@ -766,7 +802,7 @@
       "description": ""
     },
     {
-      "title": "US Iran War Live Updates: Trump urges Tehran to \u2018just give up\u2019 as oil prices surge above $120",
+      "title": "US Iran War News Live Updates: US Central Command chief to brief Trump on latest plans for potential military action against Iran, says report",
       "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-trump-tehran-state-of-collapse-strait-of-hormuz-oil-prices-10661090/",
       "source": "The Indian Express",
       "sort_key": "2026-04-29T05:44:04+05:30",
@@ -1124,36 +1160,19 @@
       "time": "28 Apr, 10:17 AM",
       "type": "news",
       "description": "Negotiations around a possible Iran\u2013US ceasefire have shifted focus towards a Gulf state near the Strait of Hormuz, raising questions over Pakistan\u2019s ..."
-    },
-    {
-      "title": "Hafiz Saeed's close aide and key LeT figure Sheikh Yousaf Afridi shot dead in Pakistan",
-      "link": "https://economictimes.indiatimes.com/news/defence/hafiz-saeeds-close-aide-and-key-let-figure-sheikh-yousaf-afridi-shot-dead-in-pakistan/articleshow/130568758.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-28T09:17:25+05:30",
-      "time": "28 Apr, 09:17 AM",
-      "type": "news",
-      "description": "Lashkar-e-Taiba (LeT) figure Sheikh Yousaf Afridi, a close associate of Hafiz Saeed, was shot dead by unidentified gunmen in Pakistan's Khyber Pakhtun..."
-    },
-    {
-      "title": "Iran FM Abbas Araghchi lands in Pakistan for third visit in 48 hours",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-fm-abbas-araghchi-lands-in-pakistan-for-third-visit-in-48-hours/articleshow/130568237.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-28T08:43:06+05:30",
-      "time": "28 Apr, 08:43 AM",
-      "type": "news",
-      "description": "Iran's Foreign Minister Abbas Araghchi is in Islamabad for diplomatic talks. This visit follows his engagements in Russia. Pakistan is playing a key r..."
-    },
-    {
-      "title": "Indian-origin man sentenced to 19-month jail in Singapore for molesting minor",
-      "link": "https://indianexpress.com/article/world/indian-origin-man-sentenced-singapore-minor-molestation-case-court-verdict-10659262/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-28T08:23:26+05:30",
-      "time": "28 Apr, 08:23 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Nashik court heard the final argument on TCS forced conversion and harassment case accused anticipatory bail plea.\n\nThe agencies have told the court that they have discovered new leads, judicial custody of Nida Khan is essential.\n\nPolice have uncovered digital evidence of social media posts and apps aimed for conversion.\n\nPolice is suspecting that if Nida will get bail then the chances of rest victims coming forward will get thin.",
+      "link": "https://nitter.net/elitepredatorss/status/2049692889366806995#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-30T09:00:40+05:30",
+      "time": "30 Apr, 09:00 AM",
+      "type": "tweets",
+      "content": "<p>Nashik court heard the final argument on TCS forced conversion and harassment case accused anticipatory bail plea.<br />\n<br />\nThe agencies have told the court that they have discovered new leads, judicial custody of Nida Khan is essential.<br />\n<br />\nPolice have uncovered digital evidence of social media posts and apps aimed for conversion.<br />\n<br />\nPolice is suspecting that if Nida will get bail then the chances of rest victims coming forward will get thin.</p>\n<img src=\"https://nitter.net/pic/media%2FHHH40iXbkAAtqeB.jpg\" />",
+      "author": "@elitepredatorss"
+    },
     {
       "title": "Nepal airlines apologises for using incorrect map of India",
       "link": "https://nitter.net/sidhant/status/2049679457657741512#m",
@@ -2155,6 +2174,16 @@
       "author": "@Goreunit"
     },
     {
+      "title": "R to @Goreunit: Last year unknown Gunman killed a person who was involved in a collection of donations for terror recruitment in POJK. (Yes low rank terror associate was killed.) \n\nGod knows who this unknown Gunman is, \n\n80 to 90% cases are not covered in Indian SM, this SPECIFIC unknown GUNMAN is involved in assassination of very low rank terror associates in tier 3 cities to the assassination of top terror commanders.",
+      "link": "https://nitter.net/Goreunit/status/2048996848179044410#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-28T10:54:51+05:30",
+      "time": "28 Apr, 10:54 AM",
+      "type": "tweets",
+      "content": "<p>Last year unknown Gunman killed a person who was involved in a collection of donations for terror recruitment in POJK. (Yes low rank terror associate was killed.) <br />\n<br />\nGod knows who this unknown Gunman is, <br />\n<br />\n80 to 90% cases are not covered in Indian SM, this SPECIFIC unknown GUNMAN is involved in assassination of very low rank terror associates in tier 3 cities to the assassination of top terror commanders.</p>",
+      "author": "@Goreunit"
+    },
+    {
       "title": "Not associated with LeT\n\nHe is very likely killed by ISI stooges due to the intersection of interests within the adversary party operating in KPK.",
       "link": "https://nitter.net/Goreunit/status/2048996845322731536#m",
       "source": "War & Gore",
@@ -2203,30 +2232,10 @@
       "type": "tweets",
       "content": "<p>Dawood Ibrahim\u2019s close associate Salim Dola brought to India from Turkey in joint intelligence operation with international agencies</p>\n<img src=\"https://nitter.net/pic/media%2FHG9trC6bwAA8H3D.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Dawood Aide Salim Dola Brought to India After Istanbul Detention\n\nTop aide of Dawood Ibrahim, Salim Dola, has been brought to Mumbai after being detained in Istanbul; agencies are interrogating him over a \u20b95,000 crore global drug syndicate.",
-      "link": "https://nitter.net/elitepredatorss/status/2048971465769570706#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-28T09:14:00+05:30",
-      "time": "28 Apr, 09:14 AM",
-      "type": "tweets",
-      "content": "<p>Dawood Aide Salim Dola Brought to India After Istanbul Detention<br />\n<br />\nTop aide of Dawood Ibrahim, Salim Dola, has been brought to Mumbai after being detained in Istanbul; agencies are interrogating him over a \u20b95,000 crore global drug syndicate.</p>\n<img src=\"https://nitter.net/pic/media%2FHG9ooN6bEAApF66.jpg\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Punjab: Blast on railway track near Patiala; 1 suspect killed while planting bomb, materials seized.",
-      "link": "https://nitter.net/elitepredatorss/status/2048962019358044431#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-28T08:36:27+05:30",
-      "time": "28 Apr, 08:36 AM",
-      "type": "tweets",
-      "content": "<p>Punjab: Blast on railway track near Patiala; 1 suspect killed while planting bomb, materials seized.</p>\n<img src=\"https://nitter.net/pic/media%2FHG9gCXYasAA9Hi2.jpg\" />",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
