@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Indian-origin woman, among 3 activists, fined for staging pro-Palestine protest in Singapore",
+      "link": "https://www.thehindu.com/news/international/indian-origin-woman-among-3-activists-fined-for-staging-pro-palestine-protest-in-singapore/article70924179.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-30T16:17:17+05:30",
+      "time": "30 Apr, 04:17 PM",
+      "type": "news",
+      "description": "Court emphasises the responsibility of organisers to be aware of restricted areas, amidst growing tensions surrounding the Israel-Palestine conflict"
+    },
+    {
+      "title": "Israel-Iran war LIVE: Iran president says U.S. naval blockade 'doomed to fail'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-30-2026/article70923050.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-30T16:14:33+05:30",
+      "time": "30 Apr, 04:14 PM",
+      "type": "news",
+      "description": "Oil surges to four-year high; U.S. Defence Secretary Peter Hegseth questioned in first congressional appearance since the war began"
+    },
+    {
+      "title": "US seeks international help to reopen Strait of Hormuz as crude prices surge",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-seeks-international-help-to-reopen-strait-of-hormuz-as-crude-prices-surge/articleshow/130630828.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-30T16:08:01+05:30",
+      "time": "30 Apr, 04:08 PM",
+      "type": "news",
+      "description": "The United States is forming an international coalition to reopen the Strait of Hormuz.  Global oil prices are surging as the vital waterway remains c..."
+    },
+    {
+      "title": "West Asia War sends Pakistan\u2019s weekly oil import bill spiralling to 167% to $800 million",
+      "link": "https://indianexpress.com/article/world/west-asia-war-sends-pakistans-weekly-oil-import-bill-spiralling-to-167-to-800-million-10664141/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-30T16:07:44+05:30",
+      "time": "30 Apr, 04:07 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Pakistan navy to add advanced Chinese submarines",
+      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-navy-to-add-advanced-chinese-submarines/articleshow/130630100.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-30T15:39:37+05:30",
+      "time": "30 Apr, 03:39 PM",
+      "type": "news",
+      "description": "Pakistan's Navy is acquiring advanced Chinese submarines. This move enhances maritime security and defense cooperation with China. The first submarine..."
+    },
+    {
+      "title": "China holds naval, air patrols near Scarborough Shoal as Philippines, US stage drills",
+      "link": "https://economictimes.indiatimes.com/news/defence/china-holds-naval-air-patrols-near-scarborough-shoal-as-philippines-us-stage-drills/articleshow/130629981.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-30T15:35:10+05:30",
+      "time": "30 Apr, 03:35 PM",
+      "type": "news",
+      "description": "China's navy and air force held combat patrols near Scarborough Shoal. This action follows annual regional drills involving Australia, New Zealand, th..."
+    },
+    {
       "title": "DRDO ready for Agni 6, awaits Centre's nod",
       "link": "https://economictimes.indiatimes.com/news/defence/drdo-ready-for-agni-6-awaits-centres-nod/articleshow/130629401.cms",
       "source": "Economic Times",
@@ -46,6 +100,15 @@
       "description": "The Italian Defence Minister Guido Crosetto laid a wreath at the National War Memorial and inspected the Guard of Honour.Italian Defence Minister Cros..."
     },
     {
+      "title": "Iran offers to end chokehold on Strait of Hormuz, asks U.S. to end blockade",
+      "link": "https://www.thehindu.com/news/international/iran-offers-to-end-chokehold-on-strait-of-hormuz-asks-us-to-end-blockade/article70911449.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-30T14:34:06+05:30",
+      "time": "30 Apr, 02:34 PM",
+      "type": "news",
+      "description": "Iran also wants the U.S. to end its blockade of the country as part of its proposal, said the two officials, who spoke on condition of anonymity to di..."
+    },
+    {
       "title": "Rajnath Singh says Operation Sindoor marked India\u2019s shift to decisive counter-terror action, highlights AI-driven military transformation",
       "link": "https://www.indiastrategic.in/rajnath-singh-says-operation-sindoor-marked-indias-shift-to-decisive-counter-terror-action-highlights-ai-driven-military-transformation/",
       "source": "India Strategic",
@@ -53,6 +116,24 @@
       "time": "30 Apr, 02:33 PM",
       "type": "news",
       "description": "<p>New Delhi, April 30. Defence Minister Rajnath Singh on April 30 said Operation Sindoor sent a clear global signal that India will no longer rely so..."
+    },
+    {
+      "title": "Oil prices ease after rally as UAE exits OPEC; Iran conflict, Hormuz blockade keep supply concerns high",
+      "link": "https://www.thehindu.com/news/international/oil-prices-ease-after-rally-as-uae-exits-opec-iran-conflict-hormuz-blockade-keep-supply-concerns-high/article70919229.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-30T14:33:11+05:30",
+      "time": "30 Apr, 02:33 PM",
+      "type": "news",
+      "description": "Brent crude futures for June dipped 1% to $111.25 a barrel, having climbed for the previous seven sessions"
+    },
+    {
+      "title": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
+      "link": "https://www.thehindu.com/news/international/trump-warns-iran-better-get-smart-soon-and-accept-nuclear-deal/article70921854.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-30T14:32:42+05:30",
+      "time": "30 Apr, 02:32 PM",
+      "type": "news",
+      "description": "U.S. could extend its naval blockade of Iran for months more, oil executives were told in a meeting with Mr. Trump, an official said, after press repo..."
     },
     {
       "title": "India becomes Australia\u2019s largest foreign-born group, overtakes England",
@@ -134,15 +215,6 @@
       "time": "30 Apr, 01:36 PM",
       "type": "news",
       "description": "Global crude oil prices continued to surge, extending gains from their highest close in nearly four years. Washington has signalled no easing of its n..."
-    },
-    {
-      "title": "Israel-Iran war LIVE: Iran president says U.S. naval blockade 'doomed to fail'",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-30-2026/article70923050.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-30T13:02:59+05:30",
-      "time": "30 Apr, 01:02 PM",
-      "type": "news",
-      "description": "Oil surges to four-year high; U.S. Defence Secretary Peter Hegseth questioned in first congressional appearance since the war began"
     },
     {
       "title": "Why the UAE is leaving OPEC",
@@ -424,6 +496,15 @@
       "description": "\u201cAfter my term as chair ends \u200bon May 15, I will continue to serve as a governor for a period of time to \u2060be determined,\u201d Mr. Powell told a news confer..."
     },
     {
+      "title": "India Rethinks Energy Security Amid War",
+      "link": "https://foreignpolicy.com/2026/04/29/india-energy-security-iran-war-uae-green-technology/",
+      "source": "Foreign Policy",
+      "sort_key": "2026-04-30T02:43:40+05:30",
+      "time": "30 Apr, 02:43 AM",
+      "type": "news",
+      "description": "As New Delhi feels the crunch, diplomacy in Abu Dhabi hints at expanding green cooperation."
+    },
+    {
       "title": "Made-in-India Naval Thrust: DRDO, Indian Navy Successfully Conduct First Salvo Launch Of Twin Anti-Ship Missiles From Helicopter",
       "link": "https://www.republicworld.com/defence/made-in-india-naval-thrust-drdo-indian-navy-successfully-conduct-first-salvo-launch-of-twin-anti-ship-missiles-from-helicopter",
       "source": "Republic World",
@@ -539,15 +620,6 @@
       "time": "29 Apr, 10:17 PM",
       "type": "news",
       "description": "<p>New Delhi, April 29, 2026. Defence Research &#38; Development Organisation (DRDO) and Indian Navy have successfully conducted the maiden salvo laun..."
-    },
-    {
-      "title": "Trump warns Iran better 'get smart soon' and accept nuclear deal",
-      "link": "https://www.thehindu.com/news/international/trump-warns-iran-better-get-smart-soon-and-accept-nuclear-deal/article70921854.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-29T22:09:28+05:30",
-      "time": "29 Apr, 10:09 PM",
-      "type": "news",
-      "description": "U.S. could extend its naval blockade of Iran for months more, oil executives were told in a meeting with Mr. Trump, an official said, after press repo..."
     },
     {
       "title": "US war in Iran has cost $25 billion so far, says Pentagon official",
@@ -802,15 +874,6 @@
       "description": ""
     },
     {
-      "title": "Oil prices ease after rally as UAE exits OPEC; Iran conflict, Hormuz blockade keep supply concerns high",
-      "link": "https://www.thehindu.com/news/international/oil-prices-ease-after-rally-as-uae-exits-opec-iran-conflict-hormuz-blockade-keep-supply-concerns-high/article70919229.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-29T11:56:29+05:30",
-      "time": "29 Apr, 11:56 AM",
-      "type": "news",
-      "description": "Brent crude futures for June dipped 1% to $111.25 a barrel, having climbed for the previous seven sessions"
-    },
-    {
       "title": "Rajasthan: Flights resume at Jodhpur as IAF Dornier lands after runway upgrade",
       "link": "https://economictimes.indiatimes.com/news/defence/rajasthan-flights-resume-at-jodhpur-as-iaf-dornier-lands-after-runway-upgrade/articleshow/130597759.cms",
       "source": "Economic Times",
@@ -991,7 +1054,7 @@
       "description": ""
     },
     {
-      "title": "US Iran War News Live Updates: Israeli military launches new wave of airstrikes targeting Hezbollah sites in southern Lebanon",
+      "title": "US Iran War News Live Updates: Mojtaba Khamenei says new chapter for Gulf, Strait of Hormuz taking shape",
       "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-trump-tehran-state-of-collapse-strait-of-hormuz-oil-prices-10661090/",
       "source": "The Indian Express",
       "sort_key": "2026-04-29T05:44:04+05:30",
@@ -1088,15 +1151,6 @@
       "time": "28 Apr, 10:19 PM",
       "type": "news",
       "description": "The grid in Bangladesh is stretched every year during the summer heat, when people crank up power-hungry air conditioners"
-    },
-    {
-      "title": "Mexico's military captures top cartel leader in another blow to the Jalisco New Generation Cartel",
-      "link": "https://www.thehindu.com/news/international/mexicos-military-captures-top-cartel-leader-in-another-blow-to-the-jalisco-new-generation-cartel/article70917786.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-28T22:06:49+05:30",
-      "time": "28 Apr, 10:06 PM",
-      "type": "news",
-      "description": "Last year, Mr. Trump designated the Jalisco New Generation Cartel and five other Mexican cartels as foreign terrorist organizations"
     },
     {
       "title": "Trump and Charles greet each other warmly as king begins day of diplomacy in Washington",
@@ -1244,6 +1298,66 @@
     }
   ],
   "tweets": [
+    {
+      "title": "DRDO ready for Agni 6, awaits Centre's nod",
+      "link": "https://nitter.net/WarMonitorINTL/status/2049803463970930859#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-30T16:20:03+05:30",
+      "time": "30 Apr, 04:20 PM",
+      "type": "tweets",
+      "content": "<p>DRDO ready for Agni 6, awaits Centre's nod</p>\n<img src=\"https://nitter.net/pic/media%2FHHJdPMVa0AAFDg1.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "April hailstorm in parts of Delhi",
+      "link": "https://nitter.net/sidhant/status/2049799649998078141#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-30T16:04:54+05:30",
+      "time": "30 Apr, 04:04 PM",
+      "type": "tweets",
+      "content": "<p>April hailstorm in parts of Delhi</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "A security alert was issued in Nagpur after an anonymous letter warned of a possible radioactive attack on the RSS headquarters and Smriti Mandir\n\nA large-scale search operation is underway, but nothing suspicious has been found so far",
+      "link": "https://nitter.net/WarMonitorINTL/status/2049795265255850020#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-30T15:47:29+05:30",
+      "time": "30 Apr, 03:47 PM",
+      "type": "tweets",
+      "content": "<p>A security alert was issued in Nagpur after an anonymous letter warned of a possible radioactive attack on the RSS headquarters and Smriti Mandir<br />\n<br />\nA large-scale search operation is underway, but nothing suspicious has been found so far</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Pakistan is considered the the epicenter of International Terrorism, says Rajnath Singh",
+      "link": "https://nitter.net/WarMonitorINTL/status/2049792422314668228#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-30T15:36:11+05:30",
+      "time": "30 Apr, 03:36 PM",
+      "type": "tweets",
+      "content": "<p>Pakistan is considered the the epicenter of International Terrorism, says Rajnath Singh</p>\n<a href=\"https://nitter.net/WarMonitorINTL/status/2049792422314668228#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049792097184886784%2Fimg%2F-xLN-DH2i7nkOllw.jpg\" />\n</a>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Hi @grok, is this claim true?",
+      "link": "https://nitter.net/WarMonitorINTL/status/2049791936593371462#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-30T15:34:15+05:30",
+      "time": "30 Apr, 03:34 PM",
+      "type": "tweets",
+      "content": "<p>Hi <a href=\"https://nitter.net/grok\" title=\"Grok\">@grok</a>, is this claim true?</p>\n<img src=\"https://nitter.net/pic/media%2FHHJStCDbcAI2CBH.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Ambassador Designate of India to China, Vikram Doraiswami @VDoraiswami calls on Army Chief General Upendra Dwivedi.",
+      "link": "https://nitter.net/sidhant/status/2049789730590687383#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-30T15:25:29+05:30",
+      "time": "30 Apr, 03:25 PM",
+      "type": "tweets",
+      "content": "<p>Ambassador Designate of India to China, Vikram Doraiswami <a href=\"https://nitter.net/VDoraiswami\" title=\"Vikram Doraiswami\">@VDoraiswami</a> calls on Army Chief General Upendra Dwivedi.</p>\n<img src=\"https://nitter.net/pic/media%2FHHJQ4fJa4AAGciW.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "BREAKING: China to Offer Zero Tariffs to All African Partners\n\nStarting May 1, China will extend zero-tariff treatment to all African countries with diplomatic ties, marking a major shift in China\u2013Africa trade relations.\n\nWhat it means:\n- Duty-free access for African exports into China\n- Push to boost trade, investment, and supply chains\n- Greater economic alignment across the Global South\n\nBeijing says it aims to import more African goods and expand growth opportunities, calling it a landmark step in international economic cooperation.",
       "link": "https://nitter.net/NetramDefence/status/2049787667072876739#m",
@@ -1551,7 +1665,7 @@
       "sort_key": "2026-04-30T09:36:49+05:30",
       "time": "30 Apr, 09:36 AM",
       "type": "tweets",
-      "content": "<p>Porki \u26a0\ufe0f</p>\n<img src=\"https://nitter.net/pic/media%2FHHIBFo0bIAA264W.jpg\" />\n\n<hr />\n<blockquote>\n<b>Iranian Force (@MrImranPk)</b>\n<p>\n<p>Breaking News!!!!<br />\n<br />\nTurkiye and Pakistan are coming into Brics ,India is leaving .</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MrImranPk/status/2049496636854878283#m\">https://nitter.net/MrImranPk/status/2049496636854878283#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Porki \u26a0\ufe0f</p>\n<img src=\"https://nitter.net/pic/media%2FHHIBFo0bIAA264W.jpg\" />\n\n<hr />\n<blockquote>\n<b>Iranian Force (@MrImranPk)</b>\n<p>\n<p>Breaking News!!!!<br />\n<br />\nTurkiye and Pakistan are coming into Brics ,India is leaving .</p>\n<p><b>Community note:</b> India remains a founding member of BRICS and is chairing its 2026 presidency; neither Turkey nor Pakistan has joined. <a href=\"https://nitter.net/t.co/2PXRSPDQ7N\">brics2026.gov.in/about-us</a> <a href=\"https://nitter.net/t.co/wme6sLuPBi\">riotimesonline.com/brics-2026-com\u2026</a> <a href=\"https://nitter.net/t.co/nC50JiGnMw\">asia.nikkei.com/politics/inter\u2026</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MrImranPk/status/2049496636854878283#m\">https://nitter.net/MrImranPk/status/2049496636854878283#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1652,16 +1766,6 @@
       "time": "29 Apr, 11:49 PM",
       "type": "tweets",
       "content": "<p>The Brits has taken the diamond \ud83d\udc8e from India after occupation of the country.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India's Ambassador designate to China @VDoraiswami receives his credentials from President Murmu.",
-      "link": "https://nitter.net/sidhant/status/2049553165088125137#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-29T23:45:28+05:30",
-      "time": "29 Apr, 11:45 PM",
-      "type": "tweets",
-      "content": "<p>India's Ambassador designate to China <a href=\"https://nitter.net/VDoraiswami\" title=\"Vikram Doraiswami\">@VDoraiswami</a> receives his credentials from President Murmu.</p>\n<img src=\"https://nitter.net/pic/media%2FHHF5vgma4AAfmGX.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -2273,36 +2377,6 @@
       "type": "tweets",
       "content": "<p>Salim Dola detained and deported from \"Turkey\". The Pakistanis terrorists will probably have only one place to hide now - The United States.<br />\n<br />\nDola is a drug lord, whenever you heard drug always remember it is the best source of income for terror groups.<br />\n<br />\nDola's custody will absolutely aid the anti-narcotics ops being carried out by forces on daily basis especially on the border area.<br />\n<br />\nWhich will eventually impact our counter terrorist ops on east and west.</p>\n<img src=\"https://nitter.net/pic/media%2FHG_Kx_yb0AAX7NY.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Air India, IndiGo, SpiceJet seek ATF price relief; say airline industry on verge of \u2018stopping operations\u2019",
-      "link": "https://nitter.net/WarMonitorINTL/status/2049071820146606196#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-28T15:52:46+05:30",
-      "time": "28 Apr, 03:52 PM",
-      "type": "tweets",
-      "content": "<p>Air India, IndiGo, SpiceJet seek ATF price relief; say airline industry on verge of \u2018stopping operations\u2019</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Osint Report \ud83e\ude96\ud83c\uddf5\ud83c\uddf0 : \n\n\u2022 Pakistan has inducted around 150 Cobra 8\u00d78 and 4\u00d74 Al-Fast armored and heavy-duty vehicles from Turkey for the Pakistan Army.\n\n\u2022 Initial deployment includes 20 to 30 vehicles along the Afghan border and 20 to 25 in Pakistan-occupied Kashmir.\n\n\u2022 8\u00d78 variants will support weapons transport. 4\u00d74 units will be used in frontline security operations.\n\n\u2022 The vehicles are designed for high-threat environments, with protection against IEDs and landmines.\n\n\u2022 This is part of an ongoing procurement phase, with more units expected to be purchased by pak army.",
-      "link": "https://nitter.net/OsintTV/status/2049069472300913128#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-28T15:43:26+05:30",
-      "time": "28 Apr, 03:43 PM",
-      "type": "tweets",
-      "content": "<p>Osint Report \ud83e\ude96\ud83c\uddf5\ud83c\uddf0 : <br />\n<br />\n\u2022 Pakistan has inducted around 150 Cobra 8\u00d78 and 4\u00d74 Al-Fast armored and heavy-duty vehicles from Turkey for the Pakistan Army.<br />\n<br />\n\u2022 Initial deployment includes 20 to 30 vehicles along the Afghan border and 20 to 25 in Pakistan-occupied Kashmir.<br />\n<br />\n\u2022 8\u00d78 variants will support weapons transport. 4\u00d74 units will be used in frontline security operations.<br />\n<br />\n\u2022 The vehicles are designed for high-threat environments, with protection against IEDs and landmines.<br />\n<br />\n\u2022 This is part of an ongoing procurement phase, with more units expected to be purchased by pak army.</p>\n<img src=\"https://nitter.net/pic/media%2FHG_ByYzb0AA2UCF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG_ByYLXIAAzYG_.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Delhi:\n\n\u2018Operation Global-Hunt'\n\nMohammed Salim Dola under the custody of NCB.",
-      "link": "https://nitter.net/Goreunit/status/2049066214677413909#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-28T15:30:30+05:30",
-      "time": "28 Apr, 03:30 PM",
-      "type": "tweets",
-      "content": "<p>Delhi:<br />\n<br />\n\u2018Operation Global-Hunt'<br />\n<br />\nMohammed Salim Dola under the custody of NCB.</p>\n<a href=\"https://nitter.net/Goreunit/status/2049066214677413909#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049066146348126208%2Fpu%2Fimg%2Fa7hYj0MPIRsZCkWa.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Salim Dola, an associate of Dawood Ibrahim, has been deported from Istanbul to India following a coordinated operation by intelligence agencies</p>\n<a href=\"https://nitter.net/Goreunit/status/2049007087431365070#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049007043349213184%2Fpu%2Fimg%2F2QZ6rhMvQ836OAK1.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2049007087431365070#m\">https://nitter.net/Goreunit/status/2049007087431365070#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -2371,6 +2445,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "04:24 PM IST"
   }
 }
