@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "As warheads proliferate, decades old nuclear weapons treaty must evolve, warns UN chief",
+      "link": "https://www.indiastrategic.in/as-warheads-proliferate-decades-old-nuclear-weapons-treaty-must-evolve-warns-un-chief/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-30T11:07:50+05:30",
+      "time": "30 Apr, 11:07 AM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar UN, April 29, 2026. With top diplomats gathered at UN Headquarters to review the 1970 Treaty on the Non-Proliferation of Nuclear We..."
+    },
+    {
+      "title": "Lockheed\u202fMartin Completes Critical Production Milestone for Next-Generation GPS IIIF Satellites",
+      "link": "https://www.indiastrategic.in/lockheed-martin-completes-critical-production-milestone-for-next-generation-gps-iiif-satellites/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-30T10:57:17+05:30",
+      "time": "30 Apr, 10:57 AM",
+      "type": "news",
+      "description": "<p>DENVER, April 29,\u202f2026. Lockheed\u202fMartin has successfully completed the \u201ccore mate\u201d phase of GPS\u202fIIIF\u202fSpace Vehicle\u202f11 (GPS\u202fIIIF\u202fSV11), a critical p..."
+    },
+    {
+      "title": "US war in Iran has cost $25 billion so far, says Pentagon official",
+      "link": "https://indianexpress.com/article/world/us-news/us-war-in-iran-cost-pentagon-official-10663521/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-30T10:56:42+05:30",
+      "time": "30 Apr, 10:56 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Rolls-Royce wins back LATAM Airlines with order for Trent 1000 XE engines",
+      "link": "https://www.indiastrategic.in/rolls-royce-wins-back-latam-airlines-with-order-for-trent-1000-xe-engines/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-30T10:49:20+05:30",
+      "time": "30 Apr, 10:49 AM",
+      "type": "news",
+      "description": "<p>April 29, 2026. The Trent 1000 XE engines feature several upgrades following Rolls-Royce&#8217;s certified two-phase durability enhancement program..."
+    },
+    {
       "title": "Israel-Iran war LIVE: Oil surges to four-year high, stocks slip after Trump blockade warning",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-30-2026/article70923050.ece",
       "source": "The Hindu",
@@ -703,24 +739,6 @@
       "description": "Ceasefire efforts appears at a standstill, with Iran saying Washington could no longer dictate terms"
     },
     {
-      "title": "UNGA President Baerbock calls for stronger multilateral cooperation during India visit",
-      "link": "https://www.indiastrategic.in/unga-president-baerbock-calls-for-stronger-multilateral-cooperation-during-india-visit/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-29T11:08:56+05:30",
-      "time": "29 Apr, 11:08 AM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar New Delhi, April 28, 2026. \u201cThe United Nations, multilateralism, and international law are under direct attack,\u201d the President of t..."
-    },
-    {
-      "title": "Defence Minister holds bilateral meetings in Bishkek",
-      "link": "https://www.indiastrategic.in/defence-minister-holds-bilateral-meetings-in-bishkek/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-29T11:02:33+05:30",
-      "time": "29 Apr, 11:02 AM",
-      "type": "news",
-      "description": "<p>Defence Minister holds bilateral meetings with his Kyrgyz, Kazakh &#38; Belarusian counterparts in Bishkek to further strengthen defence cooperatio..."
-    },
-    {
       "title": "U.S. Senate blocks bid to prevent Trump from military action against Cuba",
       "link": "https://www.thehindu.com/news/international/us-senate-blocks-bid-to-prevent-trump-from-military-action-against-cuba/article70918984.ece",
       "source": "The Hindu",
@@ -1000,15 +1018,6 @@
       "description": "China\u2019s deputy \u200cU.N. ambassador Sun Lei called the Japanese remarks \u201cunwarranted,\u201d saying they \u201ccompletely confound black and white.\u201d"
     },
     {
-      "title": "UAE\u2019s OPEC departure hints at a new era of flexibility in the world oil market",
-      "link": "https://www.indiastrategic.in/uaes-opec-departure-hints-at-a-new-era-of-flexibility-in-the-world-oil-market/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-28T21:03:03+05:30",
-      "time": "28 Apr, 09:03 PM",
-      "type": "news",
-      "description": "<p>Abu Dhabi, April 28. The decision by the United Arab Emirates (UAE) to quit the Organisation of the Petroleum Exporting Countries (OPEC) and the wi..."
-    },
-    {
       "title": "Pakistan Army targets Afghan Taliban posts in retaliatory fire along border",
       "link": "https://economictimes.indiatimes.com/news/defence/pakistan-army-targets-afghan-taliban-posts-in-retaliatory-fire-along-border/articleshow/130584305.cms",
       "source": "Economic Times",
@@ -1160,27 +1169,119 @@
       "time": "28 Apr, 02:49 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Seven dead, 85 wounded in Pakistani strikes in Afghanistan: Report",
-      "link": "https://indianexpress.com/article/world/pakistan-strikes-afghanistan-kunar-university-deadly-escalation-10659442/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-28T11:18:12+05:30",
-      "time": "28 Apr, 11:18 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "German Chancellor Merz says Iranians are outplaying US, mocks Trump over \u2018failed\u2019 Tehran talks",
-      "link": "https://indianexpress.com/article/world/germany-questions-trump-negotiation-skills-iran-war-10659369/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-28T10:48:28+05:30",
-      "time": "28 Apr, 10:48 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "The rupee has fallen to a record low of 95.19 against the US dollar.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2049726954715443296#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-30T11:16:02+05:30",
+      "time": "30 Apr, 11:16 AM",
+      "type": "tweets",
+      "content": "<p>The rupee has fallen to a record low of 95.19 against the US dollar.</p>\n<img src=\"https://nitter.net/pic/media%2FHHIXlfZbMAE-qpt.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Chennai man kills influencer wife with 3 lakh followers. Then dies by suicide",
+      "link": "https://nitter.net/WarMonitorINTL/status/2049725587598798867#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-30T11:10:36+05:30",
+      "time": "30 Apr, 11:10 AM",
+      "type": "tweets",
+      "content": "<p>Chennai man kills influencer wife with 3 lakh followers. Then dies by suicide</p>\n<img src=\"https://nitter.net/pic/media%2FHHIWJZbb0AA02MU.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "SCO meeting ended yesterday, and the Defence Minister is letting everyone know that he had his gun cocked since the very beginning.\n\nThat is exactly why I supported his address to the SCO.\n\nIndia's position on Pakistan is very clear.\n\nWE WILL MAKE THEM PAY. \n\nIt just doesn't have to be explicit and kinetic every time.",
+      "link": "https://nitter.net/elitepredatorss/status/2049724411323036119#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-30T11:05:56+05:30",
+      "time": "30 Apr, 11:05 AM",
+      "type": "tweets",
+      "content": "<p>SCO meeting ended yesterday, and the Defence Minister is letting everyone know that he had his gun cocked since the very beginning.<br />\n<br />\nThat is exactly why I supported his address to the SCO.<br />\n<br />\nIndia's position on Pakistan is very clear.<br />\n<br />\nWE WILL MAKE THEM PAY. <br />\n<br />\nIt just doesn't have to be explicit and kinetic every time.</p>\n<hr />\n<blockquote>\n<b>ANI (@ANI)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WATCH\">#WATCH</a> | Delhi: At the ANI National Security Summit 2.0, Defence Minister Rajnath Singh says, \"We have always seen that countries like Pakistan have consistently supported terrorism, and this is why both India and Pakistan gained independence at the same time but today, India is known worldwide for its Information Technology, while Pakistan is considered the the epicenter of other IT, i.e., International Terrorism.\"</p>\n<a href=\"https://nitter.net/ANI/status/2049716691601637567#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049716485090861056%2Fimg%2Ffip_zhRnRzg32_Og.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ANI/status/2049716691601637567#m\">https://nitter.net/ANI/status/2049716691601637567#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Maldives President Muizzu to visit Sri Lanka next week:",
+      "link": "https://nitter.net/sidhant/status/2049724119592390739#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-30T11:04:46+05:30",
+      "time": "30 Apr, 11:04 AM",
+      "type": "tweets",
+      "content": "<p>Maldives President Muizzu to visit Sri Lanka next week:</p>\n<img src=\"https://nitter.net/pic/media%2FHHIVKVabIAA6Kq4.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indus Water Treaty: Asymmetric obligations, unequal concessions and Pakistan's aggression.\n\nA detailed explainer here\n\nhttps://www.ptinews.com/story/national/indus-water-treaty-asymmetric-obligations-unequal-concessions-and-pakistans-aggression/3617437",
+      "link": "https://nitter.net/sidhant/status/2049717372588847354#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-30T10:37:58+05:30",
+      "time": "30 Apr, 10:37 AM",
+      "type": "tweets",
+      "content": "<p>Indus Water Treaty: Asymmetric obligations, unequal concessions and Pakistan's aggression.<br />\n<br />\nA detailed explainer here<br />\n<br />\n<a href=\"https://www.ptinews.com/story/national/indus-water-treaty-asymmetric-obligations-unequal-concessions-and-pakistans-aggression/3617437\">ptinews.com/story/national/i\u2026</a></p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Defence Minister Rajnath Singh, Italian Defence Minister Guido Crosetto to hold talks in Delhi shortly",
+      "link": "https://nitter.net/sidhant/status/2049717124978082138#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-30T10:36:59+05:30",
+      "time": "30 Apr, 10:36 AM",
+      "type": "tweets",
+      "content": "<p>Defence Minister Rajnath Singh, Italian Defence Minister Guido Crosetto to hold talks in Delhi shortly</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @Goreunit: You can join us on telegram \nhttps://t.me/goreunit",
+      "link": "https://nitter.net/Goreunit/status/2049716457391652974#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-30T10:34:19+05:30",
+      "time": "30 Apr, 10:34 AM",
+      "type": "tweets",
+      "content": "<p>You can join us on telegram <br />\n<a href=\"https://t.me/goreunit\">t.me/goreunit</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2048828175262580736%2F539kQXAy%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "R to @Goreunit: Early morning Sargodha witnessed a long blackout.",
+      "link": "https://nitter.net/Goreunit/status/2049716451427401841#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-30T10:34:18+05:30",
+      "time": "30 Apr, 10:34 AM",
+      "type": "tweets",
+      "content": "<p>Early morning Sargodha witnessed a long blackout.</p>\n<a href=\"https://nitter.net/Goreunit/status/2049716451427401841#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049716434796998656%2Fpu%2Fimg%2F5mbCxbXh9opx5U_t.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "R to @Goreunit: Indian strike in broad daylight on Sargodha airbase when Pakistan was attacking civilians of Jammu under so-called Operation Bunyanum Marsoos.\n9:50 AM 10 May 2025",
+      "link": "https://nitter.net/Goreunit/status/2049716419076685902#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-30T10:34:10+05:30",
+      "time": "30 Apr, 10:34 AM",
+      "type": "tweets",
+      "content": "<p>Indian strike in broad daylight on Sargodha airbase when Pakistan was attacking civilians of Jammu under so-called Operation Bunyanum Marsoos.<br />\n9:50 AM 10 May 2025</p>\n<a href=\"https://nitter.net/Goreunit/status/2049716419076685902#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049716349086384128%2Fpu%2Fimg%2FZjwzX_bhKRaNjo0E.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2049716419076685902#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049716361518354432%2Fpu%2Fimg%2F8-9ABYCYt8PiAKAu.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2049716419076685902#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049716394015830016%2Fpu%2Fimg%2FwWkm5UiPxFF62utA.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "BREAKING: CENTCOM to Brief Trump on New Iran Military Options\n\nThe U.S. Central Command (CENTCOM) is set to brief President Donald Trump on fresh military options against Iran, according to an Axios report. Plans reportedly include a \u201cshort and powerful\u201d wave of strikes targeting Iranian infrastructure.\n\nOther options under discussion may involve securing key areas of the Strait of Hormuz or special operations targeting nuclear assets. The briefing will be led by CENTCOM Commander Admiral Brad Cooper, with top U.S. military leadership present.",
+      "link": "https://nitter.net/NetramDefence/status/2049716293759353242#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-30T10:33:40+05:30",
+      "time": "30 Apr, 10:33 AM",
+      "type": "tweets",
+      "content": "<p>BREAKING: CENTCOM to Brief Trump on New Iran Military Options<br />\n<br />\nThe U.S. Central Command (CENTCOM) is set to brief President Donald Trump on fresh military options against Iran, according to an Axios report. Plans reportedly include a \u201cshort and powerful\u201d wave of strikes targeting Iranian infrastructure.<br />\n<br />\nOther options under discussion may involve securing key areas of the Strait of Hormuz or special operations targeting nuclear assets. The briefing will be led by CENTCOM Commander Admiral Brad Cooper, with top U.S. military leadership present.</p>\n<img src=\"https://nitter.net/pic/media%2FHHIOFhDboAEvKo1.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "When Pakistan was attacking civilians of Jammu under so-called Operation Bunyanum Marsoos,\nAt the same time, India was striking deep inside Pakistani military facilities. \nTime- 9:55 AM IST approx \nDate- 10 May 2025",
+      "link": "https://nitter.net/Goreunit/status/2049715423651000508#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-30T10:30:13+05:30",
+      "time": "30 Apr, 10:30 AM",
+      "type": "tweets",
+      "content": "<p>When Pakistan was attacking civilians of Jammu under so-called Operation Bunyanum Marsoos,<br />\nAt the same time, India was striking deep inside Pakistani military facilities. <br />\nTime- 9:55 AM IST approx <br />\nDate- 10 May 2025</p>\n<a href=\"https://nitter.net/Goreunit/status/2049715423651000508#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049715363622068224%2Fpu%2Fimg%2FyoT0Z5DmVK0YXtnY.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Big Brother (@ThatBigBrother)</b>\n<p>\n<p>Operation Ghazab Lil Haq<br />\nOperation Bunyanum Marsoos<br />\n<br />\nPakistan Zindabad</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThatBigBrother/status/2049549344681128392#m\">https://nitter.net/ThatBigBrother/status/2049549344681128392#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
     {
       "title": "The 7th edition of the India\u2013Uzbekistan joint military exercise, DUSTLIK 2026, was successfully concluded at Gurumsaray Field Training Area in Namangan, Uzbekistan.\n\nAIR",
       "link": "https://nitter.net/OsintTV/status/2049710993865953284#m",
@@ -1190,16 +1291,6 @@
       "type": "tweets",
       "content": "<p>The 7th edition of the India\u2013Uzbekistan joint military exercise, DUSTLIK 2026, was successfully concluded at Gurumsaray Field Training Area in Namangan, Uzbekistan.<br />\n<br />\nAIR</p>\n<a href=\"https://nitter.net/OsintTV/status/2049710993865953284#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049710865776066560%2Fimg%2FI9s1o2BbG1plnQaf.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Nepal airlines apologises for using incorrect map of India",
-      "link": "https://nitter.net/WarMonitorINTL/status/2049710549815201947#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-30T10:10:51+05:30",
-      "time": "30 Apr, 10:10 AM",
-      "type": "tweets",
-      "content": "<p>Nepal airlines apologises for using incorrect map of India</p>\n<img src=\"https://nitter.net/pic/media%2FHHII389bQAA0mUB.jpg\" />\n\n<hr />\n<blockquote>\n<b>WarMonitor (@WarMonitorINTL)</b>\n<p>\n<p>Official Account of Nepal Airlines Shows Kashmir being ENTIRELY with Paxtan.<br />\n<br />\nI hope the Indian authorities take a note of this kind gesture and return the favour with gratitude</p>\n<img src=\"https://nitter.net/pic/media%2FHHFSrxtaUAA_7ah.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/WarMonitorINTL/status/2049513746582925561#m\">https://nitter.net/WarMonitorINTL/status/2049513746582925561#m</a>\n</footer>\n</blockquote>",
-      "author": "@WarMonitorINTL"
     },
     {
       "title": "In influencer marketing, if you are assigned a campaign to shoot a video on a certain topic.\n\nThe client doesn't care where you should be, what you should be doing and whether it is your niche or not!\n\nYou have to reach the spot, shoot the video and deliver it as per the client's demand.",
@@ -1509,36 +1600,6 @@
       "time": "29 Apr, 09:16 PM",
       "type": "tweets",
       "content": "<p>We welcome the announcement of a ceasefire in Lebanon and hope that this will advance the negotiations between Israel and Lebanon, leading to lasting peace in the region and an end to suffering of people on both sides: India's CdA <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> at UNSC</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India's Cd\u2019A to UN <a href=\"https://nitter.net/IndiaUNNewYork\" title=\"India at UN, NY\">@IndiaUNNewYork</a> <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> at UNSC<br />\n<br />\n\"For India, Middle East is our proximate neighborhood and we have significant stakes in the security and stability of the region\"<br />\n<br />\n\"Middle East cannot remain a theater of conflict\"<br />\n<br />\nFull Address</p>\n<a href=\"https://nitter.net/sidhant/status/2049515315168772364#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049323414289371136%2Fimg%2Fe_69E18IlsjtkzCl.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049515315168772364#m\">https://nitter.net/sidhant/status/2049515315168772364#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We strongly condemn all attacks on UN peacekeepers deployed in UNIFIL. Such attacks must be thoroughly investigated in an expeditious manner and perpetrators brought to justice: India's CdA @PatelYojna at UNSC",
-      "link": "https://nitter.net/sidhant/status/2049515727737303492#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-29T21:16:42+05:30",
-      "time": "29 Apr, 09:16 PM",
-      "type": "tweets",
-      "content": "<p>We strongly condemn all attacks on UN peacekeepers deployed in UNIFIL. Such attacks must be thoroughly investigated in an expeditious manner and perpetrators brought to justice: India's CdA <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> at UNSC</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India's Cd\u2019A to UN <a href=\"https://nitter.net/IndiaUNNewYork\" title=\"India at UN, NY\">@IndiaUNNewYork</a> <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> at UNSC<br />\n<br />\n\"For India, Middle East is our proximate neighborhood and we have significant stakes in the security and stability of the region\"<br />\n<br />\n\"Middle East cannot remain a theater of conflict\"<br />\n<br />\nFull Address</p>\n<a href=\"https://nitter.net/sidhant/status/2049515315168772364#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049323414289371136%2Fimg%2Fe_69E18IlsjtkzCl.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049515315168772364#m\">https://nitter.net/sidhant/status/2049515315168772364#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India has been supporting Palestinians in Gaza and West Bank through the implementation of projects with a view towards making a tangible impact on their daily lives: India's CdA @PatelYojna at UNSC",
-      "link": "https://nitter.net/sidhant/status/2049515595276935237#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-29T21:16:10+05:30",
-      "time": "29 Apr, 09:16 PM",
-      "type": "tweets",
-      "content": "<p>India has been supporting Palestinians in Gaza and West Bank through the implementation of projects with a view towards making a tangible impact on their daily lives: India's CdA <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> at UNSC</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India's Cd\u2019A to UN <a href=\"https://nitter.net/IndiaUNNewYork\" title=\"India at UN, NY\">@IndiaUNNewYork</a> <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> at UNSC<br />\n<br />\n\"For India, Middle East is our proximate neighborhood and we have significant stakes in the security and stability of the region\"<br />\n<br />\n\"Middle East cannot remain a theater of conflict\"<br />\n<br />\nFull Address</p>\n<a href=\"https://nitter.net/sidhant/status/2049515315168772364#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049323414289371136%2Fimg%2Fe_69E18IlsjtkzCl.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049515315168772364#m\">https://nitter.net/sidhant/status/2049515315168772364#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Commercial shipping must not be the target of military attacks and such attempts are deplorable. India notes with concern that precious lives of Indian seafarers aboard ships have been lost during the course of the conflict: India's CdA @PatelYojna at UNSC",
-      "link": "https://nitter.net/sidhant/status/2049515506068246528#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-29T21:15:49+05:30",
-      "time": "29 Apr, 09:15 PM",
-      "type": "tweets",
-      "content": "<p>Commercial shipping must not be the target of military attacks and such attempts are deplorable. India notes with concern that precious lives of Indian seafarers aboard ships have been lost during the course of the conflict: India's CdA <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> at UNSC</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India's Cd\u2019A to UN <a href=\"https://nitter.net/IndiaUNNewYork\" title=\"India at UN, NY\">@IndiaUNNewYork</a> <a href=\"https://nitter.net/PatelYojna\" title=\"Ambassador Yojna Patel\">@PatelYojna</a> at UNSC<br />\n<br />\n\"For India, Middle East is our proximate neighborhood and we have significant stakes in the security and stability of the region\"<br />\n<br />\n\"Middle East cannot remain a theater of conflict\"<br />\n<br />\nFull Address</p>\n<a href=\"https://nitter.net/sidhant/status/2049515315168772364#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049323414289371136%2Fimg%2Fe_69E18IlsjtkzCl.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049515315168772364#m\">https://nitter.net/sidhant/status/2049515315168772364#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1942,16 +2003,6 @@
       "author": "@DefenceSahil"
     },
     {
-      "title": "RT by @NetramDefence: THREAD\ud83e\uddf5\n\nGensis of Pakistan's \"War from India's East\"\n\nEXCLUSIVE: We studied a Pakistan-based information warfare wing for 3 months. The origins of this operation traces back to August 2025, when Pakistan's Army Chief Field Marshal Asim Munir stated \"We'll start from India's East.\" This marked Pakistan's shift from a western-front-centric posture to exploiting vulnerabilities in India's Northeast.\n\n1/10\n\n@aravind @ShekharGupta @spvaid @sneheshphilip @AnchorAnandN @ARanganathan72 @jsaideepak @major_pawan @easterncomd @official_dgar  @OsintTV @HMOIndia @AmitShahOffice @AmitShah @PMOIndia @DefenceMinIndia @SandeepUnnithan @manupubby @ShivAroor @VishnuNDTV @gauravcsawant @dubey_ajit",
-      "link": "https://nitter.net/NetramDefence/status/2049169437920838087#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-28T22:20:40+05:30",
-      "time": "28 Apr, 10:20 PM",
-      "type": "tweets",
-      "content": "<p>THREAD\ud83e\uddf5<br />\n<br />\nGensis of Pakistan's \"War from India's East\"<br />\n<br />\nEXCLUSIVE: We studied a Pakistan-based information warfare wing for 3 months. The origins of this operation traces back to August 2025, when Pakistan's Army Chief Field Marshal Asim Munir stated \"We'll start from India's East.\" This marked Pakistan's shift from a western-front-centric posture to exploiting vulnerabilities in India's Northeast.<br />\n<br />\n1/10<br />\n<br />\n<a href=\"https://nitter.net/aravind\" title=\"Aravind\">@aravind</a> <a href=\"https://nitter.net/ShekharGupta\" title=\"Shekhar Gupta\">@ShekharGupta</a> <a href=\"https://nitter.net/spvaid\" title=\"Shesh Paul Vaid\">@spvaid</a> <a href=\"https://nitter.net/sneheshphilip\" title=\"Snehesh Alex Philip\">@sneheshphilip</a> <a href=\"https://nitter.net/AnchorAnandN\" title=\"Anand Narasimhan\ud83c\uddee\ud83c\uddf3\">@AnchorAnandN</a> <a href=\"https://nitter.net/ARanganathan72\" title=\"Anand Ranganathan\">@ARanganathan72</a> <a href=\"https://nitter.net/jsaideepak\" title=\"Sai Deepak J\">@jsaideepak</a> <a href=\"https://nitter.net/major_pawan\" title=\"Major Pawan Kumar, Shaurya Chakra (Retd) \ud83c\uddee\ud83c\uddf3\">@major_pawan</a> <a href=\"https://nitter.net/easterncomd\" title=\"EasternCommand_IA\">@easterncomd</a> <a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a>  <a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a> <a href=\"https://nitter.net/HMOIndia\" title=\"\u0917\u0943\u0939\u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f, HMO India\">@HMOIndia</a> <a href=\"https://nitter.net/AmitShahOffice\" title=\"Office of Amit Shah\">@AmitShahOffice</a> <a href=\"https://nitter.net/AmitShah\" title=\"Amit Shah\">@AmitShah</a> <a href=\"https://nitter.net/PMOIndia\" title=\"PMO India\">@PMOIndia</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/SandeepUnnithan\" title=\"Sandeep\">@SandeepUnnithan</a> <a href=\"https://nitter.net/manupubby\" title=\"Manu Pubby\">@manupubby</a> <a href=\"https://nitter.net/ShivAroor\" title=\"Shiv Aroor\">@ShivAroor</a> <a href=\"https://nitter.net/VishnuNDTV\" title=\"Vishnu Som\">@VishnuNDTV</a> <a href=\"https://nitter.net/gauravcsawant\" title=\"GAURAV C SAWANT\">@gauravcsawant</a> <a href=\"https://nitter.net/dubey_ajit\" title=\"Ajit Dubey\">@dubey_ajit</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHARK1la8AAO46Q.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "RT by @OsintTV: THREAD\ud83e\uddf5\n\nGensis of Pakistan's \"War from India's East\"\n\nEXCLUSIVE: We studied a Pakistan-based information warfare wing for 3 months. The origins of this operation traces back to August 2025, when Pakistan's Army Chief Field Marshal Asim Munir stated \"We'll start from India's East.\" This marked Pakistan's shift from a western-front-centric posture to exploiting vulnerabilities in India's Northeast.\n\n1/10\n\n@aravind @ShekharGupta @spvaid @sneheshphilip @AnchorAnandN @ARanganathan72 @jsaideepak @major_pawan @easterncomd @official_dgar  @OsintTV @HMOIndia @AmitShahOffice @AmitShah @PMOIndia @DefenceMinIndia @SandeepUnnithan @manupubby @ShivAroor @VishnuNDTV @gauravcsawant @dubey_ajit",
       "link": "https://nitter.net/NetramDefence/status/2049169437920838087#m",
       "source": "Osint TV",
@@ -2200,60 +2251,10 @@
       "type": "tweets",
       "content": "<p>Salim Dola, an associate of Dawood Ibrahim, has been deported from Istanbul to India following a coordinated operation by intelligence agencies</p>\n<a href=\"https://nitter.net/Goreunit/status/2049007087431365070#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049007043349213184%2Fpu%2Fimg%2F2QZ6rhMvQ836OAK1.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Lone wolf attack in Mumbai \n\nZaib Zuber Ansari, 31  Stabs 2 Security Guards After Asking Them To Recite The Kalma.",
-      "link": "https://nitter.net/Goreunit/status/2049005782054912196#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-28T11:30:21+05:30",
-      "time": "28 Apr, 11:30 AM",
-      "type": "tweets",
-      "content": "<p>Lone wolf attack in Mumbai <br />\n<br />\nZaib Zuber Ansari, 31  Stabs 2 Security Guards After Asking Them To Recite The Kalma.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83d\udea8Maharashtra ATS has launched an investigation into the attack on two security guards in Mumbai treating it as a possible \"lone wolf\" terror attack.\n\n\ud83d\udccdThe accused, Jabar Zubair Ansari (31), targeted two security guards on duty. Eyewitnesses says that the accused first asked the guards for directions and then returned to ask their religion.\n\n\ud83d\udccdHe further said that the accused forced one of the guards to recite the Kalma and, when he failed, the accused attacked them with a sharp-edged weapon. \n\n\ud83d\udccdWhen police searched Ansari's home after his arrest, the investigation team found handwritten notes in which he expressed his desire to join ISIS. \n\n\ud83d\udccdAccording to sources, in these notes, the accused described the attack as his \"first step\" towards joining a terrorist organization. \n\n\ud83d\udccdInvestigations revealed that the accused, Jaber Zubair Ansari, was a science graduate and had lived in the United States for several years. \n\n\ud83d\udccdAgencies are now examining the digital footprints of his mobile phone and laptop to determine if he was in direct contact with any handlers across the border.\n\nMedia Report",
-      "link": "https://nitter.net/OsintTV/status/2049001409639518293#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-28T11:12:59+05:30",
-      "time": "28 Apr, 11:12 AM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Maharashtra ATS has launched an investigation into the attack on two security guards in Mumbai treating it as a possible \"lone wolf\" terror attack.<br />\n<br />\n\ud83d\udccdThe accused, Jabar Zubair Ansari (31), targeted two security guards on duty. Eyewitnesses says that the accused first asked the guards for directions and then returned to ask their religion.<br />\n<br />\n\ud83d\udccdHe further said that the accused forced one of the guards to recite the Kalma and, when he failed, the accused attacked them with a sharp-edged weapon. <br />\n<br />\n\ud83d\udccdWhen police searched Ansari's home after his arrest, the investigation team found handwritten notes in which he expressed his desire to join ISIS. <br />\n<br />\n\ud83d\udccdAccording to sources, in these notes, the accused described the attack as his \"first step\" towards joining a terrorist organization. <br />\n<br />\n\ud83d\udccdInvestigations revealed that the accused, Jaber Zubair Ansari, was a science graduate and had lived in the United States for several years. <br />\n<br />\n\ud83d\udccdAgencies are now examining the digital footprints of his mobile phone and laptop to determine if he was in direct contact with any handlers across the border.<br />\n<br />\nMedia Report</p>\n<img src=\"https://nitter.net/pic/media%2FHG-D1F4WgAAwn5h.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "R to @Goreunit: Although India doesn't operate in neighbouring countries especially in such ops. We don't interfere in the internal matters of neighbouring countries. \ud83d\ude4f\ud83c\udffb",
-      "link": "https://nitter.net/Goreunit/status/2048996853501538332#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-28T10:54:53+05:30",
-      "time": "28 Apr, 10:54 AM",
-      "type": "tweets",
-      "content": "<p>Although India doesn't operate in neighbouring countries especially in such ops. We don't interfere in the internal matters of neighbouring countries. \ud83d\ude4f\ud83c\udffb</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "R to @Goreunit: The recent approach of assassination of low rank terror associates should also be appreciated.",
-      "link": "https://nitter.net/Goreunit/status/2048996851064730064#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-28T10:54:52+05:30",
-      "time": "28 Apr, 10:54 AM",
-      "type": "tweets",
-      "content": "<p>The recent approach of assassination of low rank terror associates should also be appreciated.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Not associated with LeT\n\nHe is very likely killed by ISI stooges due to the intersection of interests within the adversary party operating in KPK.",
-      "link": "https://nitter.net/Goreunit/status/2048996845322731536#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-28T10:54:51+05:30",
-      "time": "28 Apr, 10:54 AM",
-      "type": "tweets",
-      "content": "<p>Not associated with LeT<br />\n<br />\nHe is very likely killed by ISI stooges due to the intersection of interests within the adversary party operating in KPK.</p>\n<img src=\"https://nitter.net/pic/media%2FHG9_l9Vb0AAI2E3.jpg\" />",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
