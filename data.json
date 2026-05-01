@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "Small plane crash in Texas Hill Country",
+      "link": "https://www.newsonair.gov.in/small-plane-crash-in-texas-hill-country/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-01T21:05:50+05:30",
+      "time": "01 May, 09:05 PM",
+      "type": "news",
+      "description": "A small plane crashed in Texas, killing all five people aboard. The Federal Aviation Administration stated that Cessna 421C crashed last night in Wimb..."
+    },
+    {
+      "title": "Israel-Iran war LIVE: Iran offers new proposal to U.S. via Pakistan, state media reports; White House declines to comment",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-01T21:05:43+05:30",
+      "time": "01 May, 09:05 PM",
+      "type": "news",
+      "description": "Trump administration says its war in Iran has been \u2019terminated\u2019 before 60-day deadline"
+    },
+    {
+      "title": "West Asia crisis: Drone industry lauds govt's no-penalty relief for disrupted contracts",
+      "link": "https://economictimes.indiatimes.com/news/defence/west-asia-crisis-drone-industry-lauds-govts-no-penalty-relief-for-disrupted-contracts/articleshow/130681481.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-01T21:03:31+05:30",
+      "time": "01 May, 09:03 PM",
+      "type": "news",
+      "description": "The Indian drone industry has received timely relief. The government has recognized the West Asia situation as a Force Majeure. This allows for deadli..."
+    },
+    {
+      "title": "Lt Gen Balbir Singh Assumes Command of Chinar Corps",
+      "link": "https://www.deccanchronicle.com/news/current-affairs/lt-gen-balbir-singh-assumes-command-of-chinar-corps-1954018",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-01T20:53:38+05:30",
+      "time": "01 May, 08:53 PM",
+      "type": "news",
+      "description": "An accomplished officer with extensive operational experience in the region, Lt. Gen. Singh has held several pivotal roles in counter\u2011insurgency and c..."
+    },
+    {
+      "title": "Manipur: Indian Army defuses explosive near Moulsang village, averts threat to civilians",
+      "link": "https://economictimes.indiatimes.com/news/defence/manipur-indian-army-defuses-explosive-near-moulsang-village-averts-threat-to-civilians/articleshow/130680861.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-01T20:28:02+05:30",
+      "time": "01 May, 08:28 PM",
+      "type": "news",
+      "description": "Indian Army troops discovered a suspected explosive device near Moulsang village in Churachandpur district, Manipur. A Bomb Disposal Team was quickly ..."
+    },
+    {
+      "title": "USS Gerald R. Ford aircraft carrier leaves Middle East",
+      "link": "https://economictimes.indiatimes.com/news/defence/uss-gerald-r-ford-aircraft-carrier-leaves-middle-east/articleshow/130680903.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-01T20:25:53+05:30",
+      "time": "01 May, 08:25 PM",
+      "type": "news",
+      "description": "The USS Gerald R. Ford has exited the Middle East after a record 10-month deployment, reducing US naval presence amid an ongoing but fragile ceasefire..."
+    },
+    {
+      "title": "Iran \u2018digging out missiles\u2019 after strikes, US fears renewed attacks: Report",
+      "link": "https://indianexpress.com/article/world/trump-iran-drone-missile-rebuilding-strait-of-hormuz-ceasefire-10666373/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-01T20:25:29+05:30",
+      "time": "01 May, 08:25 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Buddha Purnima celebrated across Nepal with pilgrimages and cultural programmes",
       "link": "https://www.newsonair.gov.in/buddha-purnima-celebrated-across-nepal-with-pilgrimages-and-cultural-programmes/",
       "source": "All India Radio",
@@ -8,15 +71,6 @@
       "time": "01 May, 08:14 PM",
       "type": "news",
       "description": "Across Nepal, Buddha Purnima is being celebrated today. It&#8217;s a public holiday in Nepal. The day is marked by massive pilgrimages to Lumbini, whi..."
-    },
-    {
-      "title": "Israel-Iran war LIVE: Iran has sent latest proposal to U.S. via Pakistan, state media reports",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-01T19:47:45+05:30",
-      "time": "01 May, 07:47 PM",
-      "type": "news",
-      "description": "Trump administration says its war in Iran has been \u2019terminated\u2019 before 60-day deadline"
     },
     {
       "title": "LNG ship from India heading towards Hormuz drops anchor",
@@ -433,7 +487,7 @@
       "description": "Trump has used alcohol as a pressure point in his tariff threats."
     },
     {
-      "title": "Iran-US War Ceasefire Live Updates: Tehran sent its latest proposal to US via Pakistani mediators, says report",
+      "title": "Iran-US War Ceasefire Live Updates: Tehran says Strait of Hormuz is its \u2018natural right\u2019",
       "link": "https://indianexpress.com/article/world/us-news/iran-us-war-live-updates-trump-blockade-pezeshkian-ceasefire-deadline-10665110/",
       "source": "The Indian Express",
       "sort_key": "2026-05-01T08:55:31+05:30",
@@ -683,15 +737,6 @@
       "time": "30 Apr, 09:38 PM",
       "type": "news",
       "description": "The spat is the latest to rile up Mr. Trump against Washington's European NATO allies, with the U.S. leader already lashing out over their response to..."
-    },
-    {
-      "title": "17 killed in Jaljala Jeep crash in Thawang Rural Municipality, Nepal",
-      "link": "https://www.newsonair.gov.in/17-killed-in-jaljala-jeep-crash-in-thawang-rural-municipality-nepal/",
-      "source": "All India Radio",
-      "sort_key": "2026-04-30T21:37:16+05:30",
-      "time": "30 Apr, 09:37 PM",
-      "type": "news",
-      "description": "A jeep accident in Thawang, Rolpa district, Lumbini Province, Nepal, has claimed the lives of 17 people. The vehicle, travelling from Rukum (East), me..."
     },
     {
       "title": "Mission Sudarshan Chakra: Rajnath, DRDO reveal roadmap of India\u2019s Indigenous defence shield",
@@ -1198,15 +1243,6 @@
       "description": ""
     },
     {
-      "title": "India, U.K. need to simplify their regulatory mechanisms: London\u2019s Lady Mayor",
-      "link": "https://www.thehindu.com/news/national/india-uk-need-to-simplify-their-regulatory-mechanisms-londons-lady-mayor/article70919352.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-30T00:21:24+05:30",
-      "time": "30 Apr, 12:21 AM",
-      "type": "news",
-      "description": "During her maiden visit to India, Mayor Dame Susan Langley emphasised on the need for both the countries to understand each other\u2019s markets more strat..."
-    },
-    {
       "title": "Germany\u2019s Merz says relations with Trump are good despite spat over Iran",
       "link": "https://indianexpress.com/article/world/friedrich-merz-donald-trump-iran-war-strait-of-hormuz-energy-crisis-10663008/",
       "source": "The Indian Express",
@@ -1268,27 +1304,59 @@
       "time": "29 Apr, 09:48 PM",
       "type": "news",
       "description": "Militants attacked Senakeithei Village in Ukhrul District, leading to a volatile situation. This follows a deadly clash on Friday in Mullam village wh..."
-    },
-    {
-      "title": "Indian drone tech company ideaForge signs MoU with Japanese firm to develop next-gen AI powered drones",
-      "link": "https://theprint.in/defence/indian-drone-tech-company-ideaforge-signs-mou-with-japanese-firm-to-develop-next-gen-ai-powered-drones/2917828/",
-      "source": "The Print",
-      "sort_key": "2026-04-29T21:17:48+05:30",
-      "time": "29 Apr, 09:17 PM",
-      "type": "news",
-      "description": "By pairing Indian drone engineering with Japanese semiconductor expertise, the two firms aim to develop more advanced autonomous systems tailored to b..."
-    },
-    {
-      "title": "DRDO &amp; Indian Navy conduct maiden successful Salvo launch of NASM-SR missiles",
-      "link": "https://economictimes.indiatimes.com/news/defence/drdo-indian-navy-conduct-maiden-successful-salvo-launch-of-nasm-sr-missiles/articleshow/130610918.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-29T20:29:19+05:30",
-      "time": "29 Apr, 08:29 PM",
-      "type": "news",
-      "description": "During the trial, two missiles were launched in quick succession from the same helicopter, making it the first salvo launch of an advanced air-launche..."
     }
   ],
   "tweets": [
+    {
+      "title": "\u0936\u093e\u0902\u0924, \u0924\u0940\u0935\u094d\u0930 \u0914\u0930 \u0928\u093f\u0930\u094d\u0923\u093e\u092f\u0915\u0964\n\nSilent, Swift & Decisive.\n\n#SindoorAnniversary\n#JusticeEndures\n#NationFirst",
+      "link": "https://nitter.net/OsintTV/status/2050240145408852024#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-01T21:15:16+05:30",
+      "time": "01 May, 09:15 PM",
+      "type": "tweets",
+      "content": "<p>\u0936\u093e\u0902\u0924, \u0924\u0940\u0935\u094d\u0930 \u0914\u0930 \u0928\u093f\u0930\u094d\u0923\u093e\u092f\u0915\u0964<br />\n<br />\nSilent, Swift &amp; Decisive.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23SindoorAnniversary\">#SindoorAnniversary</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23JusticeEndures\">#JusticeEndures</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23NationFirst\">#NationFirst</a></p>\n<a href=\"https://nitter.net/OsintTV/status/2050240145408852024#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050240014013865984%2Fimg%2FBzhePyB_jWKXQXTj.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Japan PM on Vietnam visit",
+      "link": "https://nitter.net/sidhant/status/2050234055703384314#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-01T20:51:05+05:30",
+      "time": "01 May, 08:51 PM",
+      "type": "tweets",
+      "content": "<p>Japan PM on Vietnam visit</p>\n<img src=\"https://nitter.net/pic/media%2FHHPlAiBaMAANL-j.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "You provoked a different kind of wing buddy, we will educate on it in coming hours.",
+      "link": "https://nitter.net/elitepredatorss/status/2050230600540598380#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-01T20:37:21+05:30",
+      "time": "01 May, 08:37 PM",
+      "type": "tweets",
+      "content": "<p>You provoked a different kind of wing buddy, we will educate on it in coming hours.</p>\n<img src=\"https://nitter.net/pic/media%2FHHPh01QasAAgESu.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "R to @NetramDefence: Evidence:",
+      "link": "https://nitter.net/NetramDefence/status/2050230080333578411#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-01T20:35:17+05:30",
+      "time": "01 May, 08:35 PM",
+      "type": "tweets",
+      "content": "<p>Evidence:</p>\n<img src=\"https://nitter.net/pic/media%2FHHPhISJaEAAON3j.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHPhISPawAA_MYm.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "FAKE NEWS ALERT \n\nThe viral videos circulated by Pakistani accounts as Indian S400 are of the aftermath of a Ukrainian ATACMS strike on a Russian S-400 \"Triumf\" system near Klenivka village in the Donetsk region, on 22 May 2024 - approximately 65 km from the frontline. \n\nPakistan has become a global hotspot of fake information dissemination on the Internet backed by it's military. Stay vigilant.",
+      "link": "https://nitter.net/NetramDefence/status/2050230071299113278#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-01T20:35:15+05:30",
+      "time": "01 May, 08:35 PM",
+      "type": "tweets",
+      "content": "<p>FAKE NEWS ALERT <br />\n<br />\nThe viral videos circulated by Pakistani accounts as Indian S400 are of the aftermath of a Ukrainian ATACMS strike on a Russian S-400 \"Triumf\" system near Klenivka village in the Donetsk region, on 22 May 2024 - approximately 65 km from the frontline. <br />\n<br />\nPakistan has become a global hotspot of fake information dissemination on the Internet backed by it's military. Stay vigilant.</p>\n<img src=\"https://nitter.net/pic/media%2FHHPgx-wagAErw8n.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "Article by our community member \n@sagorika_s\n\n\"From Sterlite to Nicobar: How activism is challenging India\u2019s strategic growth\"\n\nhttps://www.firstpost.com/opinion/us-iran-war-trump-foreign-policy-confusion-strait-of-hormuz-crisis-iran-strategic-win-14006506.html",
       "link": "https://nitter.net/NetramDefence/status/2050216102014455864#m",
@@ -1820,16 +1888,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "Kailash Manasarovar Yatra organised by the Ministry of External Affairs in coordination with the Government of the People\u2019s Republic of China is set to take place during June to August 2026: India Statement",
-      "link": "https://nitter.net/sidhant/status/2049931381292007442#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-01T00:48:21+05:30",
-      "time": "01 May, 12:48 AM",
-      "type": "tweets",
-      "content": "<p>Kailash Manasarovar Yatra organised by the Ministry of External Affairs in coordination with the Government of the People\u2019s Republic of China is set to take place during June to August 2026: India Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHHLRuJHWYAAWnSm.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "EC has deployed a large number of CRPF personnel outside the Bhawanipore strongroom.",
       "link": "https://nitter.net/WarMonitorINTL/status/2049927825906717172#m",
       "source": "War Monitor",
@@ -2126,7 +2184,7 @@
       "sort_key": "2026-04-30T10:34:19+05:30",
       "time": "30 Apr, 10:34 AM",
       "type": "tweets",
-      "content": "<p>You can join us on telegram <br />\n<a href=\"https://t.me/goreunit\">t.me/goreunit</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2048828175262580736%2F539kQXAy%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "content": "<p>You can join us on telegram <br />\n<a href=\"https://t.me/goreunit\">t.me/goreunit</a></p>",
       "author": "@Goreunit"
     },
     {
@@ -2240,16 +2298,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @NetramDefence: BREAKING | Manipur Deputy CM: \"People Fed Up With Violence\"\n\nDeputy Chief Minister Losii Dikho said that people are now fed up with ongoing violence, shutdowns, and instability, stressing that such disruptions won't give any positive outcome.",
-      "link": "https://nitter.net/KangleipakDaily/status/2049546892733022653#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-29T23:20:32+05:30",
-      "time": "29 Apr, 11:20 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING | Manipur Deputy CM: \"People Fed Up With Violence\"<br />\n<br />\nDeputy Chief Minister Losii Dikho said that people are now fed up with ongoing violence, shutdowns, and instability, stressing that such disruptions won't give any positive outcome.</p>\n<img src=\"https://nitter.net/pic/media%2FHHFzxYgbQAA49D6.jpg\" />",
-      "author": "@KangleipakDaily"
-    },
-    {
       "title": "RT by @NetramDefence: A 2014 Intelligence Bureau (IB) report concluded that foreign funded NGO-led activism was stalling major Indian infrastructure and industrial projects, constituting \"economic sabotage\". The report stated these \"anti-development\" protests, targeted projects like nuclear power plants, coal mines, and industrial sites, caused a negative impact of 2-3% of India's annual GDP growth.\n\n#GreatNicobarProject",
       "link": "https://nitter.net/NetramDefence/status/2049538801010446818#m",
       "source": "Netram Defense",
@@ -2288,16 +2336,6 @@
       "type": "tweets",
       "content": "<p>Well, shit !</p>\n<img src=\"https://nitter.net/pic/media%2FHHFaUqgbMAArUjc.png\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @Goreunit: Jai Hind \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/DefenceSphere/status/2049504203756978319#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-29T20:30:54+05:30",
-      "time": "29 Apr, 08:30 PM",
-      "type": "tweets",
-      "content": "<p>Jai Hind \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/DefenceSphere/status/2049504203756978319#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2049504169724448768%2Fpu%2Fimg%2F5gESfL1BPPPMbL1r.jpg\" />\n</a>",
-      "author": "@DefenceSphere"
     }
   ],
   "youtube": [
@@ -2375,6 +2413,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
