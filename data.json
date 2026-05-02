@@ -1,22 +1,67 @@
 {
   "news": [
     {
+      "title": "Israel-Iran war LIVE: U.S. warns shipping firms they could face sanctions over paying Iranian tolls in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-02T13:16:28+05:30",
+      "time": "02 May, 01:16 PM",
+      "type": "news",
+      "description": "The alert posted Friday (May 2, 2026) by the U.S. Office of Foreign Assets Control adds another layer of pressure in the standoff between the U.S. and..."
+    },
+    {
+      "title": "U.S. warns shipping firms they could face sanctions over paying Iranian tolls in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/us-warns-shipping-firms-they-could-face-sanctions-over-paying-iranian-tolls-in-strait-of-hormuz/article70931118.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-02T13:15:49+05:30",
+      "time": "02 May, 01:15 PM",
+      "type": "news",
+      "description": "About a fifth of the world's trade in oil and natural gas typically passes through the strait at the mouth of the Persian Gulf in peacetime"
+    },
+    {
+      "title": "UN Committee against Torture flags concern over Pakistan\u2019s mass deportation of Afghan refugees",
+      "link": "https://www.newsonair.gov.in/un-committee-against-torture-flags-concern-over-pakistans-mass-deportation-of-afghan-refugees/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-02T13:10:23+05:30",
+      "time": "02 May, 01:10 PM",
+      "type": "news",
+      "description": "The United Nations Committee against Torture has expressed serious concern over Pakistan\u2019s mass deportation of Afghan refugees, including children, fo..."
+    },
+    {
+      "title": "Nobel peace laureate Narges Mohammadi in Iran hospital after \u2018cardiac crisis\u2019",
+      "link": "https://www.thehindu.com/news/international/nobel-peace-laureate-narges-mohammadi-in-iran-hospital-after-cardiac-crisis/article70931091.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-02T13:03:28+05:30",
+      "time": "02 May, 01:03 PM",
+      "type": "news",
+      "description": "Ms. Mohammadi won \u200cthe 2023 peace prize while in prison for her campaign to advance women\u2019s rights and abolish the death penalty in \u200cIran"
+    },
+    {
+      "title": "Iran executes two for spying for Israel",
+      "link": "https://www.thehindu.com/news/international/iran-executes-two-for-spying-for-israel/article70931078.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-02T12:55:05+05:30",
+      "time": "02 May, 12:55 PM",
+      "type": "news",
+      "description": "I\u200cranian  media said Karimpour passed sensitive information to a Mossad officer, while \u200cBakarzadeh was accused \u200bof collecting details on government an..."
+    },
+    {
+      "title": "U.S. military reaches deals with 7 tech companies to use their AI on classified systems; Anthropic not on the list",
+      "link": "https://www.thehindu.com/sci-tech/technology/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems-anthropic-not-on-the-list/article70930704.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-02T12:22:03+05:30",
+      "time": "02 May, 12:22 PM",
+      "type": "news",
+      "description": "The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks"
+    },
+    {
       "title": "Spirit Airlines says it\u2019s going out of business after 34 years and is ending operations",
       "link": "https://www.thehindu.com/business/Industry/spirit-airlines-appears-closer-to-shutdown-as-time-dwindles-for-government-bailout/article70930780.ece",
       "source": "The Hindu",
-      "sort_key": "2026-05-02T12:04:46+05:30",
-      "time": "02 May, 12:04 PM",
+      "sort_key": "2026-05-02T12:11:32+05:30",
+      "time": "02 May, 12:11 PM",
       "type": "news",
       "description": "The U.S. President floated the idea of a bailout last week after the airline found itself in bankruptcy proceedings for the second time in less than t..."
-    },
-    {
-      "title": "Israel-Iran war LIVE: U.S. bases in Gulf become Achilles heel as Iran inflicts 'unprecedented damage', says report",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T12:02:32+05:30",
-      "time": "02 May, 12:02 PM",
-      "type": "news",
-      "description": "Iran's strikes damaged at least 16 U.S. installations across eight countries"
     },
     {
       "title": "\u2018We are like pirates\u2019: Donald Trump defends seizure of oil tanker amid claimed Iran blockade",
@@ -667,15 +712,6 @@
       "description": ""
     },
     {
-      "title": "Buddha Purnima celebrated across Nepal with pilgrimages and cultural programmes",
-      "link": "https://www.newsonair.gov.in/buddha-purnima-celebrated-across-nepal-with-pilgrimages-and-cultural-programmes/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-01T20:14:25+05:30",
-      "time": "01 May, 08:14 PM",
-      "type": "news",
-      "description": "Across Nepal, Buddha Purnima is being celebrated today. It&#8217;s a public holiday in Nepal. The day is marked by massive pilgrimages to Lumbini, whi..."
-    },
-    {
       "title": "LNG ship from India heading towards Hormuz drops anchor",
       "link": "https://www.thehindu.com/news/international/lng-ship-from-india-heading-towards-hormuz-drops-anchor/article70928906.ece",
       "source": "The Hindu",
@@ -955,6 +991,15 @@
       "description": "The USS Gerald R. Ford carrier strike group is set to depart the Middle East after an extended 10-month deployment, reducing US naval presence amid st..."
     },
     {
+      "title": "76 yrs on, exhibition on Korean War brings to life independent India\u2019s 1st overseas military deployment",
+      "link": "https://theprint.in/defence/76-yrs-on-exhibition-on-korean-war-brings-to-life-independent-indias-1st-overseas-military-deployment/2919166/",
+      "source": "The Print",
+      "sort_key": "2026-05-01T10:51:26+05:30",
+      "time": "01 May, 10:51 AM",
+      "type": "news",
+      "description": "'Guardians of Neutrality: India's Korean Mission', organised in Delhi, brought out unknown and forgotten aspects of the war."
+    },
+    {
       "title": "Iran activates air defences as Trump faces congressional deadline",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-activates-air-defences-as-trump-faces-congressional-deadline/articleshow/130670427.cms",
       "source": "Economic Times",
@@ -991,7 +1036,7 @@
       "description": "Trump has used alcohol as a pressure point in his tariff threats."
     },
     {
-      "title": "Iran-US War Ceasefire Live Updates: Trump calls Iran \u2018lunatic\u2019 over its nuke strategy, rejects peace proposal as US deadline lapses",
+      "title": "Iran-US War Ceasefire Live Updates: Iran says war will \u2018likely\u2019 resume after US rejects peace proposal",
       "link": "https://indianexpress.com/article/world/us-news/iran-us-war-live-updates-trump-blockade-pezeshkian-ceasefire-deadline-10665110/",
       "source": "The Indian Express",
       "sort_key": "2026-05-01T08:55:31+05:30",
@@ -1135,15 +1180,6 @@
       "description": "Speaking to a delegation from the International Federation of Red Cross and Red Crescent Societies, President Joseph Aoun had earlier slammed \u201ccontinu..."
     },
     {
-      "title": "U.K. calls antisemitism an emergency as police investigate stabbing attack on 2 Jewish men",
-      "link": "https://www.thehindu.com/news/international/uk-calls-antisemitism-an-emergency-as-police-investigate-stabbing-attack-on-2-jewish-men/article70926071.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-30T22:52:23+05:30",
-      "time": "30 Apr, 10:52 PM",
-      "type": "news",
-      "description": "Police have arrested a 45-year-old man on suspicion of attempted murder and labelled the stabbing attack as an act of terrorism. Detectives are workin..."
-    },
-    {
       "title": "JPMorgan executive Lorna Hajdini sued for sexually abusing \u2018Brown boy Indian\u2019 junior, says report",
       "link": "https://indianexpress.com/article/world/jpmorgan-executive-lorna-hajdini-lawsuit-sexual-abuse-racial-harassment-10664604/",
       "source": "The Indian Express",
@@ -1151,24 +1187,6 @@
       "time": "30 Apr, 10:38 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Gaza flotilla organisers say 211 activists \u2018kidnapped\u2019 by Israel",
-      "link": "https://www.thehindu.com/news/international/israel-says-intercepted-175-gaza-flotilla-activists-on-20-boats/article70923657.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-30T22:26:28+05:30",
-      "time": "30 Apr, 10:26 PM",
-      "type": "news",
-      "description": "\u201cApproximately 175 activists from more than 20 boats... are now making their way peacefully to Israel,\u201d Israel\u2019s Foreign Ministry said in a statement,..."
-    },
-    {
-      "title": "Trump in fresh attack on Germany's Merz over Iran",
-      "link": "https://www.thehindu.com/news/international/trump-in-fresh-attack-on-germanys-merz-over-iran/article70926007.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-30T22:17:07+05:30",
-      "time": "30 Apr, 10:17 PM",
-      "type": "news",
-      "description": "He added that Merz should spend \"less time on interfering with those that are getting rid of the Iran Nuclear threat, thereby making the World, includ..."
     },
     {
       "title": "Hezbollah hitting Israel with fiber-optic drones that can\u2019t be jammed",
@@ -1388,6 +1406,56 @@
     }
   ],
   "tweets": [
+    {
+      "title": "R to @Goreunit: 2/2 The Swiss CHPM report details the scale of PAF losses during Operation Sindoor after sustained IAF SEAD/DEAD strikes:\n\n\u2022 At least 4 PAF F-16s shot down\n\u2022 1 Saab Erieye AEW&C destroyed/damaged\n\u2022 1 C-130 transport aircraft destroyed\n\u2022 Several MALE drones neutralised\n\u2022 2 radars destroyed\n\u2022 2 command-and-control centres hit\n\u2022 Atleast 1 HQ-9 / multiple SAM sites targeted\n\u2022 Multiple airbases struck: Nur Khan, Murid, Rafiqui, Sargodha, Jacobabad, Bholari, Sukkur\n\u2022 ~50 long-range precision munitions used by IAF in the decisive phase\n\nThe report concludes Pakistan requested a ceasefire by noon on 10 May after its air defence and operational network suffered major degradation.",
+      "link": "https://nitter.net/Goreunit/status/2050480496728285534#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-02T13:10:21+05:30",
+      "time": "02 May, 01:10 PM",
+      "type": "tweets",
+      "content": "<p>2/2 The Swiss CHPM report details the scale of PAF losses during Operation Sindoor after sustained IAF SEAD/DEAD strikes:<br />\n<br />\n\u2022 At least 4 PAF F-16s shot down<br />\n\u2022 1 Saab Erieye AEW&amp;C destroyed/damaged<br />\n\u2022 1 C-130 transport aircraft destroyed<br />\n\u2022 Several MALE drones neutralised<br />\n\u2022 2 radars destroyed<br />\n\u2022 2 command-and-control centres hit<br />\n\u2022 Atleast 1 HQ-9 / multiple SAM sites targeted<br />\n\u2022 Multiple airbases struck: Nur Khan, Murid, Rafiqui, Sargodha, Jacobabad, Bholari, Sukkur<br />\n\u2022 ~50 long-range precision munitions used by IAF in the decisive phase<br />\n<br />\nThe report concludes Pakistan requested a ceasefire by noon on 10 May after its air defence and operational network suffered major degradation.</p>\n<img src=\"https://nitter.net/pic/media%2FHHTFJD-aEAAAJWw.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHTFJRIbwAA0D0V.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "A detailed and neutral Swiss CHPM report on Operation Sindoor confirms that IAF SEAD/DEAD strikes crippled Pakistan\u2019s air defence network and rendered much of it's fighter fleet grounded. \n\nWith the IAF establishing overwhelming air dominance, Islamabad \ud83c\uddf5\ud83c\uddf0 was ultimately forced to seek a ceasefire as the operational situation tilted decisively in India\u2019s favour.",
+      "link": "https://nitter.net/Goreunit/status/2050479807667065028#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-02T13:07:36+05:30",
+      "time": "02 May, 01:07 PM",
+      "type": "tweets",
+      "content": "<p>A detailed and neutral Swiss CHPM report on Operation Sindoor confirms that IAF SEAD/DEAD strikes crippled Pakistan\u2019s air defence network and rendered much of it's fighter fleet grounded. <br />\n<br />\nWith the IAF establishing overwhelming air dominance, Islamabad \ud83c\uddf5\ud83c\uddf0 was ultimately forced to seek a ceasefire as the operational situation tilted decisively in India\u2019s favour.</p>\n<img src=\"https://nitter.net/pic/media%2FHHTEhKUa4AAvsQ2.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Mock drills \u2705 \nAlert testing \u2705\nNext.....?",
+      "link": "https://nitter.net/WarMonitorINTL/status/2050475220788707838#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-02T12:49:23+05:30",
+      "time": "02 May, 12:49 PM",
+      "type": "tweets",
+      "content": "<p>Mock drills \u2705 <br />\nAlert testing \u2705<br />\nNext.....?</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Local police has issued alert stating BLA has done all preparations for operation Herof 3. \nBLA might be cooking something \ud83d\udc40\ud83d\udc40",
+      "link": "https://nitter.net/Goreunit/status/2050474109843468312#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-02T12:44:58+05:30",
+      "time": "02 May, 12:44 PM",
+      "type": "tweets",
+      "content": "<p>Local police has issued alert stating BLA has done all preparations for operation Herof 3. <br />\nBLA might be cooking something \ud83d\udc40\ud83d\udc40</p>\n<img src=\"https://nitter.net/pic/media%2FHHS_R7waMAA828K.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "The Indian government sent a test alert to all mobile phones, with a loud alarm and a voice message.\n\ndid anyone else receive it?",
+      "link": "https://nitter.net/WarMonitorINTL/status/2050470157798297742#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-02T12:29:16+05:30",
+      "time": "02 May, 12:29 PM",
+      "type": "tweets",
+      "content": "<p>The Indian government sent a test alert to all mobile phones, with a loud alarm and a voice message.<br />\n<br />\ndid anyone else receive it?</p>",
+      "author": "@WarMonitorINTL"
+    },
     {
       "title": "Pradhaanmantri achanak heartattack yojna",
       "link": "https://nitter.net/WarMonitorINTL/status/2050468316557488588#m",
@@ -2119,6 +2187,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "RT by @NetramDefence: Certain social media accounts are questioning the importance of the Great Nicobar Project with illogical arguments here is the fact check of their claims.\n\nClaim 1: The \"Width\" Comparison (50km vs. 200km)\n\nFacts:\nComparing the Strait of Hormuz to Great Nicobar based solely on physical width is a 19th-century view of naval warfare. In 2026, a \"choke point\" is defined by the range of stationed sensors and strike systems. With BrahMos missiles (range 450km\u2013800km) and P-8I Poseidon aircraft operating from the islands, India can monitor and interdict the entire 200km Six Degree Channel with 100% overlap. Physical narrowness is irrelevant when the entire gap is within high-precision strike range.",
+      "link": "https://nitter.net/NetramDefence/status/2050122109591105895#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-01T13:26:15+05:30",
+      "time": "01 May, 01:26 PM",
+      "type": "tweets",
+      "content": "<p>Certain social media accounts are questioning the importance of the Great Nicobar Project with illogical arguments here is the fact check of their claims.<br />\n<br />\nClaim 1: The \"Width\" Comparison (50km vs. 200km)<br />\n<br />\nFacts:<br />\nComparing the Strait of Hormuz to Great Nicobar based solely on physical width is a 19th-century view of naval warfare. In 2026, a \"choke point\" is defined by the range of stationed sensors and strike systems. With BrahMos missiles (range 450km\u2013800km) and P-8I Poseidon aircraft operating from the islands, India can monitor and interdict the entire 200km Six Degree Channel with 100% overlap. Physical narrowness is irrelevant when the entire gap is within high-precision strike range.</p>\n<img src=\"https://nitter.net/pic/media%2FHHN-YwCbUAALLQj.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "R to @NetramDefence: Claim 2: Shipping Traffic Proximity\n\nFacts:\nThe claim that ships stay 50km away from Indian islands ignores maritime geography. The Six Degree Channel (the Grand Channel) is the primary gateway for all East-West trade entering the Malacca Strait. Every vessel coming from the Suez Canal or the Persian Gulf converges at this specific latitude. Ships don't need to \"hug the coast\" for a terminal like the Galathea Bay ICTT to be effective; they simply have no other deep-water entry point into the Malacca funnel without a massive detour.",
       "link": "https://nitter.net/NetramDefence/status/2050122112569094598#m",
       "source": "Netram Defense",
@@ -2126,16 +2204,6 @@
       "time": "01 May, 01:26 PM",
       "type": "tweets",
       "content": "<p>Claim 2: Shipping Traffic Proximity<br />\n<br />\nFacts:<br />\nThe claim that ships stay 50km away from Indian islands ignores maritime geography. The Six Degree Channel (the Grand Channel) is the primary gateway for all East-West trade entering the Malacca Strait. Every vessel coming from the Suez Canal or the Persian Gulf converges at this specific latitude. Ships don't need to \"hug the coast\" for a terminal like the Galathea Bay ICTT to be effective; they simply have no other deep-water entry point into the Malacca funnel without a massive detour.</p>\n<img src=\"https://nitter.net/pic/media%2FHHN-cflaQAAVDVe.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Certain social media accounts are questioning the importance of the Great Nicobar Project with illogical arguments here is the fact check of their claims.\n\nClaim 1: The \"Width\" Comparison (50km vs. 200km)\n\nFacts:\nComparing the Strait of Hormuz to Great Nicobar based solely on physical width is a 19th-century view of naval warfare. In 2026, a \"choke point\" is defined by the range of stationed sensors and strike systems. With BrahMos missiles (range 450km\u2013800km) and P-8I Poseidon aircraft operating from the islands, India can monitor and interdict the entire 200km Six Degree Channel with 100% overlap. Physical narrowness is irrelevant when the entire gap is within high-precision strike range.",
-      "link": "https://nitter.net/NetramDefence/status/2050122109591105895#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-01T13:26:15+05:30",
-      "time": "01 May, 01:26 PM",
-      "type": "tweets",
-      "content": "<p>Certain social media accounts are questioning the importance of the Great Nicobar Project with illogical arguments here is the fact check of their claims.<br />\n<br />\nClaim 1: The \"Width\" Comparison (50km vs. 200km)<br />\n<br />\nFacts:<br />\nComparing the Strait of Hormuz to Great Nicobar based solely on physical width is a 19th-century view of naval warfare. In 2026, a \"choke point\" is defined by the range of stationed sensors and strike systems. With BrahMos missiles (range 450km\u2013800km) and P-8I Poseidon aircraft operating from the islands, India can monitor and interdict the entire 200km Six Degree Channel with 100% overlap. Physical narrowness is irrelevant when the entire gap is within high-precision strike range.</p>\n<img src=\"https://nitter.net/pic/media%2FHHN-YwCbUAALLQj.jpg\" />",
       "author": "@NetramDefence"
     },
     {
@@ -2299,16 +2367,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "Indian Govt increases commercial LPG cylinder prices Up by \u20b9993.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050071692643545262#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-01T10:05:54+05:30",
-      "time": "01 May, 10:05 AM",
-      "type": "tweets",
-      "content": "<p>Indian Govt increases commercial LPG cylinder prices Up by \u20b9993.</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "RT by @NetramDefence: BREAKING: Manipur Govt Launches Official Fact-Check Page\n\nThe Directorate of Information and Public Relations (DIPR), Manipur has launched a dedicated \u201cDIPR Manipur Fact Check\u201d page on Facebook to counter misinformation online.\n\nfocus:\n- Verify government orders, circulars & official documents\n- Counter fake news, rumours & manipulated content\n- Coordinate with departments for authentic information dissemination\n\nOfficials warned that misinformation, especially in the AI era, poses a serious threat to peace and public trust, urging citizens and media to verify before sharing.\n\n Officially account:\nhttps://www.facebook.com/share/1919ScT9E9/",
       "link": "https://nitter.net/NetramDefence/status/2050027646718009525#m",
       "source": "Netram Defense",
@@ -2337,16 +2395,6 @@
       "type": "tweets",
       "content": "<p>\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093e\u092f\u0941\u0938\u0947\u0928\u093e \u0915\u0940 \u2018\u091c\u0902\u092c\u094b\u2019 \u0924\u093e\u0915\u0924 \u0915\u0940 \u0927\u092e\u093e\u0915\u0947\u0926\u093e\u0930 \u0935\u093e\u092a\u0938\u0940 \u0924\u092f: \u0935\u0930\u094d\u0937\u094b\u0902 \u0938\u0947 \u0917\u094d\u0930\u093e\u0909\u0902\u0921\u0947\u0921 Mi-26 \u0939\u0947\u0932\u093f\u0915\u0949\u092a\u094d\u091f\u0930 \u0939\u094b\u0902\u0917\u0947 \u092b\u093f\u0930 \u0938\u0947 \u0911\u092a\u0930\u0947\u0936\u0928\u0932, \u0939\u093f\u092e\u093e\u0932\u092f\u0940 \u092e\u094b\u0930\u094d\u091a\u0947 \u0915\u0947 \u0932\u093f\u090f 3 \u0905\u0932\u094d\u091f\u094d\u0930\u093e \u0939\u0947\u0935\u0940-\u0932\u093f\u092b\u094d\u091f \u0939\u0947\u0932\u093f\u0915\u0949\u092a\u094d\u091f\u0930 \u0932\u0940\u091c \u092a\u0930 \u0932\u0947\u0928\u0947 \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940, \u0926\u0941\u0936\u094d\u092e\u0928\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0938\u093e\u092b \u0930\u0923\u0928\u0940\u0924\u093f\u0915 \u0938\u0902\u0926\u0947\u0936<br />\n<br />\nIndia is set to revive its heavy-lift dominance as the Indian Air Force moves to lease ultra heavy-lift helicopters while simultaneously working to bring back the iconic Mi-26 \u201cJumbo\u201d fleet. With unmatched capability to operate in extreme Himalayan conditions, lift massive payloads, and support both military and humanitarian missions, the return of Mi-26 marks a major boost to India\u2019s strategic mobility and operational readiness. This dual approach of leasing and overhaul highlights India\u2019s evolving defence strategy and its commitment to strengthening high-altitude logistics and rapid deployment capabilities.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianAirForce\">#IndianAirForce</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Mi26\">#Mi26</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23HeavyLift\">#HeavyLift</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceNews\">#DefenceNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryAviation\">#MilitaryAviation</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23HimalayanOps\">#HimalayanOps</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23StrategicAirlift\">#StrategicAirlift</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IAF\">#IAF</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaDefense\">#IndiaDefense</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AviationNews\">#AviationNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Geopolitics\">#Geopolitics</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryPower\">#MilitaryPower</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AtmanirbharBharat\">#AtmanirbharBharat</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceStrategy\">#DefenceStrategy</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHLWZl2aIAAyk_q.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHLWZmEbwAAAMGj.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHLWZozbsAAEeTF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHLWZynaEAAUkwJ.jpg\" />",
       "author": "@DefenceSahil"
-    },
-    {
-      "title": "Breaking:\n\nActing Indian High Commissioner in Dhaka summoned by Bangladesh foreign ministry.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2049931627451809926#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-01T00:49:20+05:30",
-      "time": "01 May, 12:49 AM",
-      "type": "tweets",
-      "content": "<p>Breaking:<br />\n<br />\nActing Indian High Commissioner in Dhaka summoned by Bangladesh foreign ministry.</p>",
-      "author": "@WarMonitorINTL"
     },
     {
       "title": "Hizbul Mujahideen commander Ahmed Sajad, R/O Baramulla, J&K who was operating from Pakistan , has reportedly died under mysterious circumstances in Pakistani capital.",
@@ -2469,8 +2517,81 @@
       "author": "@OsintTV"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Naval Blockade on China : Possibility",
+      "link": "https://www.youtube.com/watch?v=-RlB5aBgZCA",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-01T23:37:58+05:30",
+      "time": "01 May, 11:37 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/-RlB5aBgZCA/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - India Hypersonic Missile Test, India New Laser System, Unknown Gunmen In Action",
+      "link": "https://www.youtube.com/watch?v=DvFCUqIUMHc",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-01T21:37:26+05:30",
+      "time": "01 May, 09:37 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/DvFCUqIUMHc/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Agni-6 Ready,LRAShM Fired,4th P17A Frigate Delivered,5800Cr Vietnam Brahmos",
+      "link": "https://www.youtube.com/watch?v=aMncAwAqbRI",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-01T17:28:17+05:30",
+      "time": "01 May, 05:28 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/aMncAwAqbRI/mqdefault.jpg"
+    },
+    {
+      "title": "Great Nicobar & Choke Point logic",
+      "link": "https://www.youtube.com/watch?v=SwklPl8R8go",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-01T16:47:01+05:30",
+      "time": "01 May, 04:47 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/SwklPl8R8go/mqdefault.jpg"
+    },
+    {
+      "title": "India\u2019s Deadliest Artillery,One Shot Kill\u2019 Shell , 6th Gen Fighter Entry!,Agni-6 Truth Exposed!!",
+      "link": "https://www.youtube.com/watch?v=DtLw55dzTGw",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-01T07:00:22+05:30",
+      "time": "01 May, 07:00 AM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/DtLw55dzTGw/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - PAK Air Force High Alert, DRDO Agni-6 Missile Update, AMCA 250 Units Induction",
+      "link": "https://www.youtube.com/watch?v=RM2mfT83XOk",
+      "source": "Defense Squad",
+      "sort_key": "2026-04-30T22:26:01+05:30",
+      "time": "30 Apr, 10:26 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/RM2mfT83XOk/mqdefault.jpg"
+    },
+    {
+      "title": "2 Sixth Gen Jets: India Open for Both",
+      "link": "https://www.youtube.com/watch?v=-po1UeDahwo",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-04-30T22:13:34+05:30",
+      "time": "30 Apr, 10:13 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/-po1UeDahwo/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : 114 Rafale Cancel,100 Su-57 Order,2nd Tejas MK2,TGM Artillery,NASM-SR Test",
+      "link": "https://www.youtube.com/watch?v=vmKdTsKmTVc",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-04-30T16:45:38+05:30",
+      "time": "30 Apr, 04:45 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/vmKdTsKmTVc/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
