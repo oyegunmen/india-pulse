@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Israel-Iran war LIVE: Iran says it is reviewing U.S. response to latest proposal",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T23:08:15+05:30",
+      "time": "03 May, 11:08 PM",
+      "type": "news",
+      "description": "Bulk carrier near Strait of Hormuz reportedly being attacked, U.K. military says"
+    },
+    {
+      "title": "Iran\u2019s new 30-day offer to US and a bunch of conditions. Will this peace plan win over Trump?",
+      "link": "https://indianexpress.com/article/world/iran-14-point-proposal-us-trump-response-30-day-peace-plan-65-day-war-10671041/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-03T22:34:42+05:30",
+      "time": "03 May, 10:34 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Paramilitary forces drone strike kills at least five near Sudan capital: rights group",
+      "link": "https://www.thehindu.com/news/international/paramilitary-forces-drone-strike-kills-at-least-five-near-sudan-capital-rights-group/article70936060.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T22:30:58+05:30",
+      "time": "03 May, 10:30 PM",
+      "type": "news",
+      "description": "The Rapid Support Forces, which have been at war with the Sudanese Army for over three years, did not immediately claim the attack"
+    },
+    {
       "title": "Israel court extends detention of two Gaza flotilla activists",
       "link": "https://www.thehindu.com/news/international/israel-court-extends-detention-of-two-gaza-flotilla-activists/article70936065.ece",
       "source": "The Hindu",
@@ -44,15 +71,6 @@
       "time": "03 May, 09:59 PM",
       "type": "news",
       "description": "China remains the world&#8217;s largest prison for journalists, and its regime conducted a campaign of repression against journalism and the right to ..."
-    },
-    {
-      "title": "Israel-Iran war LIVE: Bulk carrier near Strait of Hormuz reportedly being attacked, U.K. military says",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T21:56:00+05:30",
-      "time": "03 May, 09:56 PM",
-      "type": "news",
-      "description": "Iran Guards say U.S. faces two options - an \u2018impossible\u2019 military operation or a \u2018bad deal\u2019"
     },
     {
       "title": "Verdict Day: Poll-bound States on Edge",
@@ -1045,15 +1063,6 @@
       "description": "Unlike conventional drones guided by GPS or radio, which can therefore be jammed, Hezbollah is using devices linked to their launch site by a thin fib..."
     },
     {
-      "title": "Explosion of bombs left over from strikes kills 14 Iranian Revolutionary Guard members, reports say",
-      "link": "https://www.thehindu.com/news/international/explosion-of-bombs-left-over-from-strikes-kills-14-iranian-revolutionary-guard-members-reports-say/article70930690.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T08:07:27+05:30",
-      "time": "02 May, 08:07 AM",
-      "type": "news",
-      "description": "A report by the Nournews website, believed to be close to Iran's security, said the explosion happened near the northern city of Zanjan, which is nort..."
-    },
-    {
       "title": "Donald Trump says US could \u2018take over\u2019 Cuba \u2018almost immediately\u2019",
       "link": "https://indianexpress.com/article/world/us-news/donald-trump-cuba-takeover-uss-abraham-lincoln-sanctions-havana-10666879/",
       "source": "The Indian Express",
@@ -1061,15 +1070,6 @@
       "time": "02 May, 08:01 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Trump says he\u2019ll place 25% tariff on automobiles from EU, accusing bloc of not complying with trade deal",
-      "link": "https://www.thehindu.com/news/international/trump-says-hell-place-25-tariff-on-autos-from-eu-accusing-bloc-of-not-complying-with-trade-deal/article70929464.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T07:42:06+05:30",
-      "time": "02 May, 07:42 AM",
-      "type": "news",
-      "description": "Both the U.S. and the EU had previously confirmed their commitment to preserving the trade framework, known as the Turnberry Agreement, which was name..."
     },
     {
       "title": "Iran eases conditions for US peace talks yet postpones nuclear issue, WSJ reports",
@@ -1196,27 +1196,49 @@
       "time": "02 May, 12:15 AM",
       "type": "news",
       "description": "The Iran war is choking supply of the world\u2019s most expensive spice."
-    },
-    {
-      "title": "Imprisoned Iranian Nobel laureate Narges Mohammadi transferred to hospital",
-      "link": "https://indianexpress.com/article/world/imprisoned-iranian-nobel-laureate-narges-mohammadi-transferred-to-hospital-10666663/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-01T23:06:02+05:30",
-      "time": "01 May, 11:06 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Iran's Supreme Leader calls US bases 'paper tiger', questions its regional security capability",
-      "link": "https://economictimes.indiatimes.com/news/defence/irans-supreme-leader-calls-us-bases-paper-tiger-questions-its-regional-security-capability/articleshow/130683228.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-01T22:47:40+05:30",
-      "time": "01 May, 10:47 PM",
-      "type": "news",
-      "description": "Iran's Supreme Leader Ayatollah Mojtaba Khamenei declared US bases in West Asia are weak. He stated the Persian Gulf's future will exclude America. Kh..."
     }
   ],
   "tweets": [
+    {
+      "title": "Nepal's Lipulekh claim comes days before Indian foreign secretary Vikram Misri is expected to visit Kathmandu & Nepalese Foreign Minister Shisir Khanal will be visiting Delhi in his first formal visit. Kanal was in Delhi last month as a stopover to his visit to Mauritius.",
+      "link": "https://nitter.net/sidhant/status/2050994957629235500#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T23:14:38+05:30",
+      "time": "03 May, 11:14 PM",
+      "type": "tweets",
+      "content": "<p>Nepal's Lipulekh claim comes days before Indian foreign secretary Vikram Misri is expected to visit Kathmandu &amp; Nepalese Foreign Minister Shisir Khanal will be visiting Delhi in his first formal visit. Kanal was in Delhi last month as a stopover to his visit to Mauritius.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Balen Govt revives Oli Govt's Lipulekh claim citing 1816 Sugauli Treaty, India says claim 'untenable'; emphasizes on Dialogue &amp; Diplomacy. <br />\n<br />\nNepal, India statements</p>\n<img src=\"https://nitter.net/pic/media%2FHHaXw6ZbQAExAxI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHaXw7cakAARW7S.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050993550368874516#m\">https://nitter.net/sidhant/status/2050993550368874516#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Balen Govt revives Oli Govt's Lipulekh claim citing 1816 Sugauli Treaty, India says claim 'untenable'; emphasizes on Dialogue & Diplomacy. \n\nNepal, India statements",
+      "link": "https://nitter.net/sidhant/status/2050993550368874516#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T23:09:02+05:30",
+      "time": "03 May, 11:09 PM",
+      "type": "tweets",
+      "content": "<p>Balen Govt revives Oli Govt's Lipulekh claim citing 1816 Sugauli Treaty, India says claim 'untenable'; emphasizes on Dialogue &amp; Diplomacy. <br />\n<br />\nNepal, India statements</p>\n<img src=\"https://nitter.net/pic/media%2FHHaXw6ZbQAExAxI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHaXw7cakAARW7S.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Nepal's new Political Map is unveiled by the Ministry of Land Management, Cooperatives &amp; Poverty Alleviation. Close up shot of the Indian territories of Lipulekh, Kalapani, Limpiyadhura shown.</p>\n<img src=\"https://nitter.net/pic/media%2FEYcw3MCWkAAYg91.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/1263031948118720512#m\">https://nitter.net/sidhant/status/1263031948118720512#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BREAKING:\n\nIndia reacts to Nepal comments on Kailash Mansarovar Yatra through Lipulekh\n\n'This is not a new development'\n\nOn Nepal's claim to Lipulekh \n\n'Such unilateral artificial enlargement of territorial claims is untenable'\n\n'Open to constructive dialogue'",
+      "link": "https://nitter.net/sidhant/status/2050992070677164211#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T23:03:09+05:30",
+      "time": "03 May, 11:03 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING:<br />\n<br />\nIndia reacts to Nepal comments on Kailash Mansarovar Yatra through Lipulekh<br />\n<br />\n'This is not a new development'<br />\n<br />\nOn Nepal's claim to Lipulekh <br />\n<br />\n'Such unilateral artificial enlargement of territorial claims is untenable'<br />\n<br />\n'Open to constructive dialogue'</p>\n<img src=\"https://nitter.net/pic/media%2FHHaWaugaIAADIl_.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.<br />\n<br />\nNepal Foreign ministry:</p>\n<img src=\"https://nitter.net/pic/media%2FHHZw-HMakAAP_BC.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050950895559729597#m\">https://nitter.net/sidhant/status/2050950895559729597#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\ud83d\udccd\ud83c\uddee\ud83c\uddf3\ud83e\ude96 Stealth, precision, and unwavering commitment. \n\nAn inside look at the gear and grit of a JKP SOG operator. \n\nStanding tall through every challenge.",
+      "link": "https://nitter.net/OsintTV/status/2050984463572533395#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-03T22:32:56+05:30",
+      "time": "03 May, 10:32 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udccd\ud83c\uddee\ud83c\uddf3\ud83e\ude96 Stealth, precision, and unwavering commitment. <br />\n<br />\nAn inside look at the gear and grit of a JKP SOG operator. <br />\n<br />\nStanding tall through every challenge.</p>\n<img src=\"https://nitter.net/pic/media%2FHHaPfTfW0AAC0LY.jpg\" />",
+      "author": "@OsintTV"
+    },
     {
       "title": "R to @sidhant: Controversy over Lipulekh is not new. In 2020, KP Oli govt issued a new map of the country, & brought in constitutional amendment that showed these Indian territories as part of Nepali territories. \n\nhttps://x.com/i/status/1266971654099554305",
       "link": "https://nitter.net/sidhant/status/2050977473345851835#m",
@@ -1508,6 +1530,16 @@
       "author": "@OsintTV"
     },
     {
+      "title": "RT by @OsintTV: \u0907\u0928\u094d\u0939\u0947\u0902 \u092a\u093e\u0928\u0940 \u091a\u093e\u0939\u093f\u090f\u0964",
+      "link": "https://nitter.net/Drishti_K47/status/2050868281377251431#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-03T14:51:16+05:30",
+      "time": "03 May, 02:51 PM",
+      "type": "tweets",
+      "content": "<p>\u0907\u0928\u094d\u0939\u0947\u0902 \u092a\u093e\u0928\u0940 \u091a\u093e\u0939\u093f\u090f\u0964</p>\n<a href=\"https://nitter.net/Drishti_K47/status/2050868281377251431#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050868186602704896%2Fpu%2Fimg%2FcvrW4oFneDXRjveL.jpg\" />\n</a>",
+      "author": "@Drishti_K47"
+    },
+    {
       "title": "RT by @OsintTV: Store water during the summer season and release it during the rainy season.",
       "link": "https://nitter.net/Theunk5555/status/2050867867072286948#m",
       "source": "Osint TV",
@@ -1668,26 +1700,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Tamil Nadu Elections is a major story in Sri Lanka, while West Bengal elections is a major story in Bangladesh",
-      "link": "https://nitter.net/sidhant/status/2050825667022033103#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T12:01:56+05:30",
-      "time": "03 May, 12:01 PM",
-      "type": "tweets",
-      "content": "<p>Tamil Nadu Elections is a major story in Sri Lanka, while West Bengal elections is a major story in Bangladesh</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Canada's Intel agency: Khalistani extremists continue to pose a national security threat\n\nReporting \n\nhttps://www.wionews.com/world/canada-s-intel-agency-khalistani-extremists-continues-to-pose-a-national-security-threat-1777788977837",
-      "link": "https://nitter.net/sidhant/status/2050824633675555049#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T11:57:49+05:30",
-      "time": "03 May, 11:57 AM",
-      "type": "tweets",
-      "content": "<p>Canada's Intel agency: Khalistani extremists continue to pose a national security threat<br />\n<br />\nReporting <br />\n<br />\n<a href=\"https://www.wionews.com/world/canada-s-intel-agency-khalistani-extremists-continues-to-pose-a-national-security-threat-1777788977837\">wionews.com/world/canada-s-i\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2050824598242172928%2FvVx7Xr1f%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "Kuwait reported no crude oil exports in a single month for the first time in 35 years\n\nApril 2026 was the first instance since the 1991 Gulf War when Kuwait exported no oil",
       "link": "https://nitter.net/WarMonitorINTL/status/2050821481182191829#m",
       "source": "War Monitor",
@@ -1706,16 +1718,6 @@
       "type": "tweets",
       "content": "<p>Security forces destroy 23 bunkers in Manipur's Ukhrul; seize arms, 18 IEDs in Tengnoupal</p>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Marshall Islands-flagged LPG tanker Sarv Shakti, carrying 46,000 tonnes of LPG for India, has crossed the Strait of Hormuz and is en route to India",
-      "link": "https://nitter.net/sidhant/status/2050810690232062281#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T11:02:25+05:30",
-      "time": "03 May, 11:02 AM",
-      "type": "tweets",
-      "content": "<p>Marshall Islands-flagged LPG tanker Sarv Shakti, carrying 46,000 tonnes of LPG for India, has crossed the Strait of Hormuz and is en route to India</p>",
-      "author": "@sidhant"
     },
     {
       "title": "Multiple USAF aircraft, including C-17A and C-5M transports and a P-8A Poseidon, have departed Middle Eastern bases in the past hour; a similar movement occurred hours before the February 28 conflict began.",
@@ -1918,16 +1920,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Stealth Unmanned Combat Aerial Vehicle 'Ghatak' will be ready in the next 7 to 8 yrs (2033-34): DRDO Sec Dr Samir V. Kamat",
-      "link": "https://nitter.net/OsintTV/status/2050538500055789922#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T17:00:50+05:30",
-      "time": "02 May, 05:00 PM",
-      "type": "tweets",
-      "content": "<p>Stealth Unmanned Combat Aerial Vehicle 'Ghatak' will be ready in the next 7 to 8 yrs (2033-34): DRDO Sec Dr Samir V. Kamat</p>\n<a href=\"https://nitter.net/OsintTV/status/2050538500055789922#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050503719276756992%2Fimg%2FHLnKrIpBRKVzbfT4.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Kanker Chhattisgarh \n\nThree DRG Jawans attained veergati in an IED blast. \n\nOm Shanti",
       "link": "https://nitter.net/Goreunit/status/2050521700685758898#m",
       "source": "War & Gore",
@@ -2086,16 +2078,6 @@
       "type": "tweets",
       "content": "<p>A 4-year-old video has more clarity on the Andaman and Nicobar Islands and their importance than a whole political spectrum :<br />\n<br />\n<a href=\"https://piped.video/EwzrFemWSAs?si=1LrPEWhug7D1tvxz\">piped.video/EwzrFemWSAs?si=1LrP\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2050329152549773312%2FSLbsH7gK%3Fformat%3Djpg%26name%3D800x320_1\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "The Vande Bharat Express rolled into Srinagar today, marking its first public run from Jammu. \n\nPassengers and local residents welcomed the arrival with visible excitement, calling it a major boost for connectivity and comfort in the region.",
-      "link": "https://nitter.net/OsintTV/status/2050445421474939046#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T10:50:58+05:30",
-      "time": "02 May, 10:50 AM",
-      "type": "tweets",
-      "content": "<p>The Vande Bharat Express rolled into Srinagar today, marking its first public run from Jammu. <br />\n<br />\nPassengers and local residents welcomed the arrival with visible excitement, calling it a major boost for connectivity and comfort in the region.</p>\n<a href=\"https://nitter.net/OsintTV/status/2050445421474939046#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050420704236253184%2Fimg%2Fu1Fc3ynit_dqAPc5.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "& Osman Bin Laden was killed on this day inside the epicenter of terrorism \ud83c\uddf5\ud83c\uddf0.",
@@ -2270,6 +2252,15 @@
   ],
   "youtube": [
     {
+      "title": "India vs China & Pakistan Su-57 Deal EXPOSED: India ke liye Power ya Strategic Risk?",
+      "link": "https://www.youtube.com/watch?v=hxVNjZVzh-0",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-03T22:30:51+05:30",
+      "time": "03 May, 10:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/hxVNjZVzh-0/mqdefault.jpg"
+    },
+    {
       "title": "Defence Updates - 140 AMCA Production, Army BMP-2 Flame Thrower, IIT Jammu Stealth Drone",
       "link": "https://www.youtube.com/watch?v=GPkUxj1Ec4M",
       "source": "Defense Squad",
@@ -2343,6 +2334,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
