@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "UAE resumes normal flight operations to multiple destinations in India after brief suspension amid West Asia conflict",
+      "link": "https://www.newsonair.gov.in/uae-resumes-normal-flight-operations-to-multiple-destinations-in-india-after-brief-suspension-amid-west-asia-conflict/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-03T21:12:35+05:30",
+      "time": "03 May, 09:12 PM",
+      "type": "news",
+      "description": "The United Arab Emirates (UAE) has resumed normal flight operations to multiple destinations in India after a brief suspension amid the West Asia conf..."
+    },
+    {
+      "title": "Canada declares Khalistan extremists as \u2018national security threat\u2019",
+      "link": "https://www.thehindu.com/news/international/canada-declares-khalistan-extremists-as-national-security-threat/article70935574.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T20:37:40+05:30",
+      "time": "03 May, 08:37 PM",
+      "type": "news",
+      "description": "The 2025 Public Report of the Canadian Security Intelligence Service comes a year after the 40th anniversary of the bombing of Air India Flight 182, w..."
+    },
+    {
+      "title": "Israel-Iran war LIVE: Iran presses for end to war within 30 days even as Trump expresses doubts",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T20:32:35+05:30",
+      "time": "03 May, 08:32 PM",
+      "type": "news",
+      "description": "Iran Guards say U.S. faces two options - an \u2018impossible\u2019 military operation or a \u2018bad deal\u2019"
+    },
+    {
       "title": "2 US service members missing after military exercises in Morocco",
       "link": "https://indianexpress.com/article/world/us-service-members-missing-morocco-african-lion-exercise-search-rescue-10670942/",
       "source": "The Indian Express",
@@ -53,15 +80,6 @@
       "time": "03 May, 07:03 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Israel-Iran war LIVE: Iran presses for end to war within 30 days even as Trump expresses doubts",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T19:00:21+05:30",
-      "time": "03 May, 07:00 PM",
-      "type": "news",
-      "description": "Iran Guards say U.S. faces two options - an \u2018impossible\u2019 military operation or a \u2018bad deal\u2019"
     },
     {
       "title": "OPEC+ countries agree in principle to raise oil output targets for June amid West Asia conflict",
@@ -289,15 +307,6 @@
       "description": ""
     },
     {
-      "title": "Cuba denounces escalation of US military threats against country by US Trump",
-      "link": "https://www.newsonair.gov.in/cuba-denounces-escalation-of-us-military-threats-against-country-by-us-trump/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-03T12:44:45+05:30",
-      "time": "03 May, 12:44 PM",
-      "type": "news",
-      "description": "Cuba denounced the escalation of US military threats against the country by US President Donald Trump. Cuban President Miguel D\u00edaz-Canel said on socia..."
-    },
-    {
       "title": "Russian strike kills one as Ukraine launches hundreds of drones",
       "link": "https://www.thehindu.com/news/international/russian-strike-kills-one-as-ukraine-launches-hundreds-of-drones/article70934520.ece",
       "source": "The Hindu",
@@ -343,7 +352,7 @@
       "description": ""
     },
     {
-      "title": "Iran-US War Ceasefire Live Updates | Iran calls on US to lift sanctions, end naval blockade in new proposal to end war: Report",
+      "title": "Iran-US War Ceasefire Live Updates | Bulk carrier near Strait of Hormuz attacked, UK military says",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310/",
       "source": "The Indian Express",
       "sort_key": "2026-05-03T09:58:42+05:30",
@@ -1135,15 +1144,6 @@
       "description": "IRGC leaders warn that their Navy will use \u201cnew cards\u201d, such as smart targeting, to burn U.S. warships if the U.S. begins strikes on Iran again"
     },
     {
-      "title": "Israel-Iran war updates: Trump says 'not satisfied' with new Iran proposal sent through Pakistan",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T05:13:31+05:30",
-      "time": "02 May, 05:13 AM",
-      "type": "news",
-      "description": "Trump administration says its war in Iran has been \u2019terminated\u2019 before 60-day deadline"
-    },
-    {
       "title": "US withdrawing 5,000 troops from Germany after Merz says US \u2018humiliated\u2019 by Iran",
       "link": "https://indianexpress.com/article/world/us-news/us-germany-troop-withdrawal-friedrich-merz-iran-comments-trump-10666784/",
       "source": "The Indian Express",
@@ -1223,54 +1223,139 @@
       "time": "01 May, 09:50 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "West Asia crisis: Drone industry lauds govt's no-penalty relief for disrupted contracts",
-      "link": "https://economictimes.indiatimes.com/news/defence/west-asia-crisis-drone-industry-lauds-govts-no-penalty-relief-for-disrupted-contracts/articleshow/130681481.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-01T21:03:31+05:30",
-      "time": "01 May, 09:03 PM",
-      "type": "news",
-      "description": "The Indian drone industry has received timely relief. The government has recognized the West Asia situation as a Force Majeure. This allows for deadli..."
-    },
-    {
-      "title": "Lt Gen Balbir Singh Assumes Command of Chinar Corps",
-      "link": "https://www.deccanchronicle.com/news/current-affairs/lt-gen-balbir-singh-assumes-command-of-chinar-corps-1954018",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-01T20:53:38+05:30",
-      "time": "01 May, 08:53 PM",
-      "type": "news",
-      "description": "An accomplished officer with extensive operational experience in the region, Lt. Gen. Singh has held several pivotal roles in counter\u2011insurgency and c..."
-    },
-    {
-      "title": "Manipur: Indian Army defuses explosive near Moulsang village, averts threat to civilians",
-      "link": "https://economictimes.indiatimes.com/news/defence/manipur-indian-army-defuses-explosive-near-moulsang-village-averts-threat-to-civilians/articleshow/130680861.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-01T20:28:02+05:30",
-      "time": "01 May, 08:28 PM",
-      "type": "news",
-      "description": "Indian Army troops discovered a suspected explosive device near Moulsang village in Churachandpur district, Manipur. A Bomb Disposal Team was quickly ..."
-    },
-    {
-      "title": "USS Gerald R. Ford aircraft carrier leaves Middle East",
-      "link": "https://economictimes.indiatimes.com/news/defence/uss-gerald-r-ford-aircraft-carrier-leaves-middle-east/articleshow/130680903.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-01T20:25:53+05:30",
-      "time": "01 May, 08:25 PM",
-      "type": "news",
-      "description": "The USS Gerald R. Ford has exited the Middle East after a record 10-month deployment, reducing US naval presence amid an ongoing but fragile ceasefire..."
-    },
-    {
-      "title": "Iran \u2018digging out missiles\u2019 after strikes, US fears renewed attacks: Report",
-      "link": "https://indianexpress.com/article/world/trump-iran-drone-missile-rebuilding-strait-of-hormuz-ceasefire-10666373/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-01T20:25:29+05:30",
-      "time": "01 May, 08:25 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Canada's Intel agency: Khalistani extremists continue to pose a national security threat\n\nReporting",
+      "link": "https://nitter.net/sidhant/status/2050965167857701143#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T21:16:15+05:30",
+      "time": "03 May, 09:16 PM",
+      "type": "tweets",
+      "content": "<p>Canada's Intel agency: Khalistani extremists continue to pose a national security threat<br />\n<br />\nReporting</p>\n<a href=\"https://nitter.net/sidhant/status/2050965167857701143#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050934275172917248%2Fimg%2F3oZevI6S7Ne4Ow2o.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "UAE's top official emphasising on his country's 'strategic autonomy' amid the West Asia crisis.",
+      "link": "https://nitter.net/sidhant/status/2050964416460640732#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T21:13:16+05:30",
+      "time": "03 May, 09:13 PM",
+      "type": "tweets",
+      "content": "<p>UAE's top official emphasising on his country's 'strategic autonomy' amid the West Asia crisis.</p>\n<hr />\n<blockquote>\n<b>\u062f. \u0623\u0646\u0648\u0631 \u0642\u0631\u0642\u0627\u0634 (@AnwarGargash)</b>\n<p>\n<p>The UAE\u2019s journey, from difficult beginnings to a consequential & assertive state, was not an easy one. It reflects leadership, vision & discipline. Our resilience & strategic autonomy will ensure we navigate current regional challenges successfully, while continuing to drive stability & progress.<br />\n<br />\nAnd we remain confident in the direction we have set.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AnwarGargash/status/2050949470331060255#m\">https://nitter.net/AnwarGargash/status/2050949470331060255#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking:\n\nNepal\u2019s Balen Shah-led government has asked India and China not to conduct the Kailash Mansarovar Yatra via Lipulekh, stating it falls within Nepal\u2019s territory.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2050963384024387976#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-03T21:09:10+05:30",
+      "time": "03 May, 09:09 PM",
+      "type": "tweets",
+      "content": "<p>Breaking:<br />\n<br />\nNepal\u2019s Balen Shah-led government has asked India and China not to conduct the Kailash Mansarovar Yatra via Lipulekh, stating it falls within Nepal\u2019s territory.</p>\n<img src=\"https://nitter.net/pic/media%2FHHZ8S2nakAE_uX8.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "New set of pictures from Sid Archives released ahead of Operation Sindoor's one year anniversary this week.\n\nThese pictures were clicked last year by me, as India's counter terror response was underway in Pakistan after Pahalgam terror attack. \n\n\u00a9\ufe0fSid",
+      "link": "https://nitter.net/sidhant/status/2050961845469745172#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T21:03:03+05:30",
+      "time": "03 May, 09:03 PM",
+      "type": "tweets",
+      "content": "<p>New set of pictures from Sid Archives released ahead of Operation Sindoor's one year anniversary this week.<br />\n<br />\nThese pictures were clicked last year by me, as India's counter terror response was underway in Pakistan after Pahalgam terror attack. <br />\n<br />\n\u00a9\ufe0fSid</p>\n<img src=\"https://nitter.net/pic/media%2FHHZ6xSHbwAEXQl-.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHZ6yscaUAAmxwf.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHZ60-ea0AAEI_6.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHZ6uc5bEAAINTt.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Netherlands Frigate HNLMS De Ruyter will make a port call to India this week as part of visit to the Indo Pacific region. In 2024, HNLMS Tromp made a port call to Mumbai.",
+      "link": "https://nitter.net/sidhant/status/2050957392645677406#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T20:45:22+05:30",
+      "time": "03 May, 08:45 PM",
+      "type": "tweets",
+      "content": "<p>Netherlands Frigate HNLMS De Ruyter will make a port call to India this week as part of visit to the Indo Pacific region. In 2024, HNLMS Tromp made a port call to Mumbai.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "What do you mean by \u201cif you stop water\u201d? It has already been stopped for more than a year....\ud83e\udd23\n\nAur zor se chillaao, cheekho....",
+      "link": "https://nitter.net/OsintTV/status/2050956382875078673#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-03T20:41:21+05:30",
+      "time": "03 May, 08:41 PM",
+      "type": "tweets",
+      "content": "<p>What do you mean by \u201cif you stop water\u201d? It has already been stopped for more than a year....\ud83e\udd23<br />\n<br />\nAur zor se chillaao, cheekho....</p>\n<a href=\"https://nitter.net/OsintTV/status/2050956382875078673#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050955525060255744%2Fimg%2Ff6skLnOa-yuecqPP.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Wasim Abbas (@skystars555)</b>\n<p>\n<p>If you stop water blood will definitely flow from here</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/skystars555/status/2050881249850593572#m\">https://nitter.net/skystars555/status/2050881249850593572#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "UKMTO reports incident: Bulk carrier comes under attack",
+      "link": "https://nitter.net/sidhant/status/2050954785030017198#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T20:35:00+05:30",
+      "time": "03 May, 08:35 PM",
+      "type": "tweets",
+      "content": "<p>UKMTO reports incident: Bulk carrier comes under attack</p>\n<img src=\"https://nitter.net/pic/media%2FHHZ0XnSakAArfUY.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: It is understood that Nepal govt has sent a diplomatic note to Delhi, Beijing over the issue.",
+      "link": "https://nitter.net/sidhant/status/2050953275164541404#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T20:29:00+05:30",
+      "time": "03 May, 08:29 PM",
+      "type": "tweets",
+      "content": "<p>It is understood that Nepal govt has sent a diplomatic note to Delhi, Beijing over the issue.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BREAKING: Nepal's Balen govt opposes Kailash Mansarovar Yatra through Lipulekh. Says, \"Limpiyadhura, Lipulek, and Kalapani, east of the Mahakali River, have been an integral part of Nepal\u2019s territory since the Sugauli Treaty of 1816\"",
+      "link": "https://nitter.net/sidhant/status/2050952202341286379#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T20:24:44+05:30",
+      "time": "03 May, 08:24 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING: Nepal's Balen govt opposes Kailash Mansarovar Yatra through Lipulekh. Says, \"Limpiyadhura, Lipulek, and Kalapani, east of the Mahakali River, have been an integral part of Nepal\u2019s territory since the Sugauli Treaty of 1816\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.<br />\n<br />\nNepal Foreign ministry:</p>\n<img src=\"https://nitter.net/pic/media%2FHHZw-HMakAAP_BC.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050950895559729597#m\">https://nitter.net/sidhant/status/2050950895559729597#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "It is also clarified that the Government of Nepal has officially informed the friendly nation China that the Lipulek area is Nepali territory: Nepal govt on Kailash Mansarovar Yatra through Lipulek",
+      "link": "https://nitter.net/sidhant/status/2050951949353427334#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T20:23:44+05:30",
+      "time": "03 May, 08:23 PM",
+      "type": "tweets",
+      "content": "<p>It is also clarified that the Government of Nepal has officially informed the friendly nation China that the Lipulek area is Nepali territory: Nepal govt on Kailash Mansarovar Yatra through Lipulek</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.<br />\n<br />\nNepal Foreign ministry:</p>\n<img src=\"https://nitter.net/pic/media%2FHHZw-HMakAAP_BC.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050950895559729597#m\">https://nitter.net/sidhant/status/2050950895559729597#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The Government of Nepal has consistently urged the Government of India not to undertake any activities such as road construction or expansion, border trade, or pilgrimage in the said area (Lipulekh): Nepal Govt",
+      "link": "https://nitter.net/sidhant/status/2050951781803524181#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T20:23:04+05:30",
+      "time": "03 May, 08:23 PM",
+      "type": "tweets",
+      "content": "<p>The Government of Nepal has consistently urged the Government of India not to undertake any activities such as road construction or expansion, border trade, or pilgrimage in the said area (Lipulekh): Nepal Govt</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.<br />\n<br />\nNepal Foreign ministry:</p>\n<img src=\"https://nitter.net/pic/media%2FHHZw-HMakAAP_BC.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050950895559729597#m\">https://nitter.net/sidhant/status/2050950895559729597#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Regarding the proposed Kailash Mansarovar Yatra to be conducted via Nepali territory through Lipulek, the Government of Nepal has once again formally conveyed its clear position and concerns to both India and China through diplomatic channels: Nepal Statement",
+      "link": "https://nitter.net/sidhant/status/2050951688757170186#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T20:22:42+05:30",
+      "time": "03 May, 08:22 PM",
+      "type": "tweets",
+      "content": "<p>Regarding the proposed Kailash Mansarovar Yatra to be conducted via Nepali territory through Lipulek, the Government of Nepal has once again formally conveyed its clear position and concerns to both India and China through diplomatic channels: Nepal Statement</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.<br />\n<br />\nNepal Foreign ministry:</p>\n<img src=\"https://nitter.net/pic/media%2FHHZw-HMakAAP_BC.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050950895559729597#m\">https://nitter.net/sidhant/status/2050950895559729597#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.\n\nNepal Foreign ministry:",
+      "link": "https://nitter.net/sidhant/status/2050950895559729597#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T20:19:32+05:30",
+      "time": "03 May, 08:19 PM",
+      "type": "tweets",
+      "content": "<p>Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.<br />\n<br />\nNepal Foreign ministry:</p>\n<img src=\"https://nitter.net/pic/media%2FHHZw-HMakAAP_BC.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Kailash Manasarovar Yatra organised by the Ministry of External Affairs in coordination with the Government of the People\u2019s Republic of China is set to take place during June to August 2026: India Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHHLRuJHWYAAWnSm.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049931381292007442#m\">https://nitter.net/sidhant/status/2049931381292007442#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "This is not road blockage, it is cross border fuel smuggling.\n\nAlong the Iran Pakistan border, hundreds of Pakistani pickup trucks are smuggling illegal fuel into Pakistan through the porous Pir Kor border.\n\nThe Pakistan govt is not stopping it as large share of the money flows through these networks\n\nVideo @Osint613",
       "link": "https://nitter.net/OsintTV/status/2050946742674194894#m",
@@ -1472,6 +1557,26 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "R to @NetramDefence: Terrestrial Wildlife Corridors\nTo prevent habitat fragmentation, 8 dedicated wildlife corridors have been integrated into the project design. These ensure safe movement for endemic species like the Nicobar Macaque and the Robber Crab between the inland forests and the shore. \n\n5/7",
+      "link": "https://nitter.net/NetramDefence/status/2050854934141411641#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-03T13:58:13+05:30",
+      "time": "03 May, 01:58 PM",
+      "type": "tweets",
+      "content": "<p>Terrestrial Wildlife Corridors<br />\nTo prevent habitat fragmentation, 8 dedicated wildlife corridors have been integrated into the project design. These ensure safe movement for endemic species like the Nicobar Macaque and the Robber Crab between the inland forests and the shore. <br />\n<br />\n5/7</p>\n<img src=\"https://nitter.net/pic/media%2FHHYYy30bQAAS2iF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHYZD44aoAA4NIz.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Galathea Bay is a critical marine habitat. The Zoological Survey of India (ZSI) is currently overseeing the translocation of ~16,150 coral colonies to nearby reefs. \n\n The government has established three new Wildlife Sanctuaries:\n1\ufe0f\u20e3 Meroe Island: Dedicated specifically for Coral conservation.\n2\ufe0f\u20e3 Little Nicobar: A 13.75 sq. km sanctuary for Leatherback Turtles.  \n3\ufe0f\u20e3 Menchal Island: A sanctuary for the endemic Nicobar Megapode.\n\n4/7",
+      "link": "https://nitter.net/NetramDefence/status/2050854930395836598#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-03T13:58:13+05:30",
+      "time": "03 May, 01:58 PM",
+      "type": "tweets",
+      "content": "<p>Galathea Bay is a critical marine habitat. The Zoological Survey of India (ZSI) is currently overseeing the translocation of ~16,150 coral colonies to nearby reefs. <br />\n<br />\n The government has established three new Wildlife Sanctuaries:<br />\n1\ufe0f\u20e3 Meroe Island: Dedicated specifically for Coral conservation.<br />\n2\ufe0f\u20e3 Little Nicobar: A 13.75 sq. km sanctuary for Leatherback Turtles.  <br />\n3\ufe0f\u20e3 Menchal Island: A sanctuary for the endemic Nicobar Megapode.<br />\n<br />\n4/7</p>\n<img src=\"https://nitter.net/pic/media%2FHHYYgF3aIAAGUW5.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHYYqKqaoAAth37.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "RT by @NetramDefence: The project will divert roughly 130 sq. km of forest land (1.82% of the islands' total forest). To minimize impact, tree felling is strictly limited to 49.86 sq. km and is being executed in a phased manner over 22 years (2025\u20132047). An area of 65.99 sq. km shall be retained as a green area with no tree felling.\n\n3/7",
       "link": "https://nitter.net/NetramDefence/status/2050854927518650388#m",
       "source": "Netram Defense",
@@ -1479,6 +1584,16 @@
       "time": "03 May, 01:58 PM",
       "type": "tweets",
       "content": "<p>The project will divert roughly 130 sq. km of forest land (1.82% of the islands' total forest). To minimize impact, tree felling is strictly limited to 49.86 sq. km and is being executed in a phased manner over 22 years (2025\u20132047). An area of 65.99 sq. km shall be retained as a green area with no tree felling.<br />\n<br />\n3/7</p>\n<img src=\"https://nitter.net/pic/media%2FHHYZdG0a8AAYFTc.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: A \"Zero-Displacement\" mandate is in place for the Shompen (a PVTG). While 73 sq. km of land was de-notified for the project, the government re-notified 76 sq. km of new land as Tribal Reserve.\n\nA dedicated \"Committee on Tribal Welfare\" oversees all construction to ensure zero contact and zero interference with Shompen habitations. \n\n2/7",
+      "link": "https://nitter.net/NetramDefence/status/2050854923852718447#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-03T13:58:11+05:30",
+      "time": "03 May, 01:58 PM",
+      "type": "tweets",
+      "content": "<p>A \"Zero-Displacement\" mandate is in place for the Shompen (a PVTG). While 73 sq. km of land was de-notified for the project, the government re-notified 76 sq. km of new land as Tribal Reserve.<br />\n<br />\nA dedicated \"Committee on Tribal Welfare\" oversees all construction to ensure zero contact and zero interference with Shompen habitations. <br />\n<br />\n2/7</p>\n<img src=\"https://nitter.net/pic/media%2FHHYVmzFbIAAMd8N.jpg\" />",
       "author": "@NetramDefence"
     },
     {
@@ -1642,66 +1757,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Given the presence in Canada of supporters of the Khalistan separatist movement, Canada must remain vigilant regarding potential transnational repression activities: Canada Intel CSIS",
-      "link": "https://nitter.net/sidhant/status/2050791897816584332#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T09:47:44+05:30",
-      "time": "03 May, 09:47 AM",
-      "type": "tweets",
-      "content": "<p>Given the presence in Canada of supporters of the Khalistan separatist movement, Canada must remain vigilant regarding potential transnational repression activities: Canada Intel CSIS</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking:<br />\n<br />\nCanada intel CSIS, in a report, has said, 'ongoing involvement in violent extremist activities by Canada based Khalistani extremists continue to pose a national security threat to Canada and to Canadian interests'<br />\n<br />\nThe 2025 report was released ystdy</p>\n<img src=\"https://nitter.net/pic/media%2FHHXeusTaQAApm1P.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHXeuuNbkAACQbZ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050790114465657198#m\">https://nitter.net/sidhant/status/2050790114465657198#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Some Canada-based Khalistani \nextremists are well connected to Canadian citizens who leverage Canadian institutions to promote their violent extremist agenda and collect funds from unsuspecting community members that \nare then diverted toward violent activities: Canada Intel",
-      "link": "https://nitter.net/sidhant/status/2050791400162390017#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T09:45:46+05:30",
-      "time": "03 May, 09:45 AM",
-      "type": "tweets",
-      "content": "<p>Some Canada-based Khalistani <br />\nextremists are well connected to Canadian citizens who leverage Canadian institutions to promote their violent extremist agenda and collect funds from unsuspecting community members that <br />\nare then diverted toward violent activities: Canada Intel</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking:<br />\n<br />\nCanada intel CSIS, in a report, has said, 'ongoing involvement in violent extremist activities by Canada based Khalistani extremists continue to pose a national security threat to Canada and to Canadian interests'<br />\n<br />\nThe 2025 report was released ystdy</p>\n<img src=\"https://nitter.net/pic/media%2FHHXeusTaQAApm1P.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHXeuuNbkAACQbZ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050790114465657198#m\">https://nitter.net/sidhant/status/2050790114465657198#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India acts to counter perceived \nthreats to its domestic stability, including Khalistan  separatism. In Canada, advocacy for Khalistan \nseparatism is lawful political activity: Canada Intel CSIS",
-      "link": "https://nitter.net/sidhant/status/2050791019969712360#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T09:44:15+05:30",
-      "time": "03 May, 09:44 AM",
-      "type": "tweets",
-      "content": "<p>India acts to counter perceived <br />\nthreats to its domestic stability, including Khalistan  separatism. In Canada, advocacy for Khalistan <br />\nseparatism is lawful political activity: Canada Intel CSIS</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking:<br />\n<br />\nCanada intel CSIS, in a report, has said, 'ongoing involvement in violent extremist activities by Canada based Khalistani extremists continue to pose a national security threat to Canada and to Canadian interests'<br />\n<br />\nThe 2025 report was released ystdy</p>\n<img src=\"https://nitter.net/pic/media%2FHHXeusTaQAApm1P.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHXeuuNbkAACQbZ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050790114465657198#m\">https://nitter.net/sidhant/status/2050790114465657198#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "This past year marked the 40th anniversary of the bombing of Air India Flight 182, whose suspects \nwere members of Canada-based Khalistani extremist (CBKE) groups. It remains to this day \nthe deadliest terrorist attack in Canadian history: Canada Intel CSIS Report",
-      "link": "https://nitter.net/sidhant/status/2050790589348917444#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T09:42:33+05:30",
-      "time": "03 May, 09:42 AM",
-      "type": "tweets",
-      "content": "<p>This past year marked the 40th anniversary of the bombing of Air India Flight 182, whose suspects <br />\nwere members of Canada-based Khalistani extremist (CBKE) groups. It remains to this day <br />\nthe deadliest terrorist attack in Canadian history: Canada Intel CSIS Report</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking:<br />\n<br />\nCanada intel CSIS, in a report, has said, 'ongoing involvement in violent extremist activities by Canada based Khalistani extremists continue to pose a national security threat to Canada and to Canadian interests'<br />\n<br />\nThe 2025 report was released ystdy</p>\n<img src=\"https://nitter.net/pic/media%2FHHXeusTaQAApm1P.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHXeuuNbkAACQbZ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050790114465657198#m\">https://nitter.net/sidhant/status/2050790114465657198#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Breaking:\n\nCanada intel CSIS, in a report, has said, 'ongoing involvement in violent extremist activities by Canada based Khalistani extremists continue to pose a national security threat to Canada and to Canadian interests'\n\nThe 2025 report was released ystdy",
-      "link": "https://nitter.net/sidhant/status/2050790114465657198#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T09:40:39+05:30",
-      "time": "03 May, 09:40 AM",
-      "type": "tweets",
-      "content": "<p>Breaking:<br />\n<br />\nCanada intel CSIS, in a report, has said, 'ongoing involvement in violent extremist activities by Canada based Khalistani extremists continue to pose a national security threat to Canada and to Canadian interests'<br />\n<br />\nThe 2025 report was released ystdy</p>\n<img src=\"https://nitter.net/pic/media%2FHHXeusTaQAApm1P.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHXeuuNbkAACQbZ.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Khalistani 'extremists' use Canada for violence in India says, Canadian Intel<br />\n<br />\nCanada intelligence agency CSIS report, in a first says \"Khalistani <br />\nextremists continue to use Canada as a base for the promotion, fundraising or planning of violence primarily in India\"</p>\n<img src=\"https://nitter.net/pic/media%2FGtvjInvaQAIxIKE.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/1935390205009367072#m\">https://nitter.net/sidhant/status/1935390205009367072#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: \"India is the world's greatest growth story. Sri Lanka can become one of its most valuable growth partners.\" - Hanif Yusoof, Governor of the Western Province & Special Envoy of the President on Foreign Investment at the @ZeeNews @WIONews Global Innovation & Leadership Summit in Colombo, #SriLanka. \n\n@governorWP\n#India\n\nhttps://youtu.be/vaud6K-t2Kk?si=LXmSqZruy35mINZl",
-      "link": "https://nitter.net/Mahishini/status/2050785080596127964#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T09:20:39+05:30",
-      "time": "03 May, 09:20 AM",
-      "type": "tweets",
-      "content": "<p>\"India is the world's greatest growth story. Sri Lanka can become one of its most valuable growth partners.\" - Hanif Yusoof, Governor of the Western Province & Special Envoy of the President on Foreign Investment at the <a href=\"https://nitter.net/ZeeNews\" title=\"Zee News\">@ZeeNews</a> <a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a> Global Innovation & Leadership Summit in Colombo, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SriLanka\">#SriLanka</a>. <br />\n<br />\n<a href=\"https://nitter.net/governorWP\" title=\"Hanif Yusoof\">@governorWP</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23India\">#India</a><br />\n<br />\n<a href=\"https://piped.video/vaud6K-t2Kk?si=LXmSqZruy35mINZl\">piped.video/vaud6K-t2Kk?si=LXmS\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2050571215476244480%2FKEXfWW0X%3Fformat%3Djpg%26name%3D800x320_1\" />",
-      "author": "@Mahishini"
-    },
-    {
       "title": "Exposing Pakistan's state sponsored propaganda after defeat in Operation Sindoor. \nYou can Watch us on YouTube \ud83d\udc47\ud83c\udffb\nhttps://youtube.com/shorts/P4NpG6ORpUM?si=X5FJcwIi2lDf6s7V",
       "link": "https://nitter.net/Goreunit/status/2050784865659113788#m",
       "source": "War & Gore",
@@ -1710,56 +1765,6 @@
       "type": "tweets",
       "content": "<p>Exposing Pakistan's state sponsored propaganda after defeat in Operation Sindoor. <br />\nYou can Watch us on YouTube \ud83d\udc47\ud83c\udffb<br />\n<a href=\"https://piped.video/shorts/P4NpG6ORpUM?si=X5FJcwIi2lDf6s7V\">piped.video/shorts/P4NpG6ORp\u2026</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2050784865659113788#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050784798323757056%2Fpu%2Fimg%2FPGee4Q8Kn_yCPquF.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Indian Army contingent that will take part in the second edition of India - Cambodia Bilateral Military Exercise CINBAX-II.",
-      "link": "https://nitter.net/sidhant/status/2050776119587316040#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T08:45:03+05:30",
-      "time": "03 May, 08:45 AM",
-      "type": "tweets",
-      "content": "<p>Indian Army contingent that will take part in the second edition of India - Cambodia Bilateral Military Exercise CINBAX-II.</p>\n<img src=\"https://nitter.net/pic/media%2FHHXSAPsbAAALBR0.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Dr S Jaishankar in Jamaica",
-      "link": "https://nitter.net/sidhant/status/2050771997324664978#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T08:28:40+05:30",
-      "time": "03 May, 08:28 AM",
-      "type": "tweets",
-      "content": "<p>EAM Dr S Jaishankar in Jamaica</p>\n<img src=\"https://nitter.net/pic/media%2FHHXOQXWbwAAkM54.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: Points well taken. Things are going well currently. But we need a major push to enhance our relationship even more! @santoshm",
-      "link": "https://nitter.net/ShashiTharoor/status/2050759821226627573#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T07:40:17+05:30",
-      "time": "03 May, 07:40 AM",
-      "type": "tweets",
-      "content": "<p>Points well taken. Things are going well currently. But we need a major push to enhance our relationship even more! <a href=\"https://nitter.net/santoshm\" title=\"Santosh Menon\">@santoshm</a></p>\n<hr />\n<blockquote>\n<b>WION (@WIONews)</b>\n<p>\n<p>\"Indians are investing close to $30 billion every year around the world, but only about $1 billion has come into Sri Lanka. So, we need to be critical. Around 30 million Indian tourists travel across the world every year, yet only 452,000 have visited Sri Lanka. For me, all of this represents huge opportunities. We need to ask why this is happening and what is preventing trade and investment from benefiting both countries,\" says Santosh Menon (<a href=\"https://nitter.net/santoshm\" title=\"Santosh Menon\">@santoshm</a>), President of the Lanka India Business Association</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/WIONews/status/2050540257636962680#m\">https://nitter.net/WIONews/status/2050540257636962680#m</a>\n</footer>\n</blockquote>",
-      "author": "@ShashiTharoor"
-    },
-    {
-      "title": "Trump says US to cut down troops from Germany",
-      "link": "https://nitter.net/sidhant/status/2050713572242551256#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T04:36:30+05:30",
-      "time": "03 May, 04:36 AM",
-      "type": "tweets",
-      "content": "<p>Trump says US to cut down troops from Germany</p>\n<a href=\"https://nitter.net/sidhant/status/2050713572242551256#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050706886354145280%2Fimg%2FDzbfoaofN-gTtr1c.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Trump on Iranian plan:",
-      "link": "https://nitter.net/sidhant/status/2050713259930501198#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T04:35:16+05:30",
-      "time": "03 May, 04:35 AM",
-      "type": "tweets",
-      "content": "<p>Trump on Iranian plan:</p>\n<img src=\"https://nitter.net/pic/media%2FHHWY1UNbwAAW4ZC.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Daily US-Israel-Iran War Brief: \n2nd May 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf Israeli forces struck the southern Lebanese village of Zawtar with white phosphorus shells.\n\n\u25cf UAE announces the full resumption of normal air navigation operations across its airspace.\n\n\u25cf India-linked LPG tanker, SARV SHAKTI, was making a rare transit through Strait of Hormuz with 45,000 tons of LPG. Its full transit could take ~10-14 hours.\n\n\u25cf President Trump announced he is raising tariffs on cars and trucks from the EU to 25%, effective next week.\n\n\u25cf China's Commerce Ministry today issued an injunction blocking U.S. sanctions on five Chinese refineries buying Iranian oil, shielding its energy imports.\n\n\u25cf Seven OPEC+ member countries have reached a preliminary agreement to increase oil production targets by roughly 188,000 barrels per day in June, despite UAE\u2019s exit.\n\n\u25cf The Trump administration announced over $8.6 billion in emergency arms sales to Middle Eastern partners today, including Israel, Qatar, Kuwait, and the UAE.\n\nEND OF THE BRIEF",
@@ -2330,29 +2335,18 @@
       "type": "tweets",
       "content": "<p>Assam's CM says 'illegal' Bangladeshi immigrants are pushed back into Bangladesh at night. Bangladesh Foreign Ministry summoned India's acting envoy over these remarks.</p>\n<a href=\"https://nitter.net/OsintTV/status/2050242546547175601#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050242201930563584%2Fimg%2FI5crHw6aeWgax0Mc.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "\u0936\u093e\u0902\u0924, \u0924\u0940\u0935\u094d\u0930 \u0914\u0930 \u0928\u093f\u0930\u094d\u0923\u093e\u092f\u0915\u0964\n\nSilent, Swift & Decisive.\n\n#SindoorAnniversary\n#JusticeEndures\n#NationFirst",
-      "link": "https://nitter.net/OsintTV/status/2050240145408852024#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-01T21:15:16+05:30",
-      "time": "01 May, 09:15 PM",
-      "type": "tweets",
-      "content": "<p>\u0936\u093e\u0902\u0924, \u0924\u0940\u0935\u094d\u0930 \u0914\u0930 \u0928\u093f\u0930\u094d\u0923\u093e\u092f\u0915\u0964<br />\n<br />\nSilent, Swift &amp; Decisive.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23SindoorAnniversary\">#SindoorAnniversary</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23JusticeEndures\">#JusticeEndures</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23NationFirst\">#NationFirst</a></p>\n<a href=\"https://nitter.net/OsintTV/status/2050240145408852024#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050240014013865984%2Fimg%2FBzhePyB_jWKXQXTj.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "You provoked a different kind of wing buddy, we will educate on it in coming hours.",
-      "link": "https://nitter.net/elitepredatorss/status/2050230600540598380#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-01T20:37:21+05:30",
-      "time": "01 May, 08:37 PM",
-      "type": "tweets",
-      "content": "<p>You provoked a different kind of wing buddy, we will educate on it in coming hours.</p>\n<img src=\"https://nitter.net/pic/media%2FHHPh01QasAAgESu.jpg\" />",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
+    {
+      "title": "Defence Updates - 140 AMCA Production, Army BMP-2 Flame Thrower, IIT Jammu Stealth Drone",
+      "link": "https://www.youtube.com/watch?v=GPkUxj1Ec4M",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-03T21:13:22+05:30",
+      "time": "03 May, 09:13 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/GPkUxj1Ec4M/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : FCAS 6th Gen Entry,140 AMCA in Andhra,Anti-Hypersonic Radar,PAK F16 Upgrade",
       "link": "https://www.youtube.com/watch?v=0RKVyTSsi-8",
@@ -2427,6 +2421,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
