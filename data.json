@@ -1,11 +1,56 @@
 {
   "news": [
     {
+      "title": "Indian students in UAE appear for NEET-UG with examination centres open in both Dubai, Sharjah",
+      "link": "https://www.newsonair.gov.in/indian-students-in-uae-appear-for-neet-ug-with-examination-centres-open-in-both-dubai-sharjah/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-03T12:22:05+05:30",
+      "time": "03 May, 12:22 PM",
+      "type": "news",
+      "description": "Indian students in the UAE are appearing for the National Eligibility cum Entrance Test (NEET-UG) 2026 today, with examination centres open in both Du..."
+    },
+    {
+      "title": "Between a fatwa and war: how Iran makes sense of its nuclear capability",
+      "link": "https://www.thehindu.com/news/international/between-a-fatwa-and-war-how-iran-makes-sense-of-its-nuclear-capability/article70934543.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T12:00:50+05:30",
+      "time": "03 May, 12:00 PM",
+      "type": "news",
+      "description": "Iran has \u2018vowed\u2019 to protect its nuclear stockpile against Trump\u2019s threats even as its former Ayatollah Ali Khamenei disapproved of using nuclear weapo..."
+    },
+    {
+      "title": "Russian strike kills one as Ukraine launches hundreds of drones",
+      "link": "https://www.thehindu.com/news/international/russian-strike-kills-one-as-ukraine-launches-hundreds-of-drones/article70934520.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T11:37:44+05:30",
+      "time": "03 May, 11:37 AM",
+      "type": "news",
+      "description": "Russia said air defence units intercepted and destroyed 334 Ukrainian drones overnight across more than a dozen regions near its western border"
+    },
+    {
+      "title": "Iranian supertanker carrying $220m oil cargo slips past US blockade",
+      "link": "https://indianexpress.com/article/world/us-news/iranian-supertanker-huge-evades-us-blockade-oil-cargo-10668417/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-03T11:35:33+05:30",
+      "time": "03 May, 11:35 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Trump administration approves $8.6 billion arms sales to Middle East amid Iran war deadlock",
+      "link": "https://indianexpress.com/article/world/trump-administration-arms-sales-middle-east-iran-war-deadlock-10668393/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-03T11:30:50+05:30",
+      "time": "03 May, 11:30 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Israel-Iran war LIVE: Israeli military urges southern Lebanon residents to evacuate amid operations against Hezbollah",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
       "source": "The Hindu",
-      "sort_key": "2026-05-03T10:56:18+05:30",
-      "time": "03 May, 10:56 AM",
+      "sort_key": "2026-05-03T10:58:58+05:30",
+      "time": "03 May, 10:58 AM",
       "type": "news",
       "description": "Mr. Trump say he was \u201cnot satisfied\u201d with Iran's latest proposal in negotiations to end the war between the countries, rejecting the plan almost as so..."
     },
@@ -37,7 +82,7 @@
       "description": "President Donald Trump has said that the US will significantly reduce its troop presence in Germany, escalating a dispute with German Chancellor Fried..."
     },
     {
-      "title": "Iran-US War Ceasefire Live Updates: Iranian supertanker carrying $220M of oil evades US blockade, says tracker",
+      "title": "Iran-US War Ceasefire Live Updates: Trump says Iran has not yet \u2018paid a big enough price\u2019 as he reviews new peace proposal",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310/",
       "source": "The Indian Express",
       "sort_key": "2026-05-03T09:58:42+05:30",
@@ -431,15 +476,6 @@
       "time": "02 May, 05:07 PM",
       "type": "news",
       "description": "<p>New Delhi, May 1. Anugraha Narayana Das, a 1991-batch officer of the Indian Defence Accounts Service (IDAS), took over as the Controller General of..."
-    },
-    {
-      "title": "Heavy Rains Trigger Floods and Landslides in Kenya",
-      "link": "https://www.newsonair.gov.in/heavy-rains-trigger-floods-and-landslides-in-kenya/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-02T16:57:04+05:30",
-      "time": "02 May, 04:57 PM",
-      "type": "news",
-      "description": "In Kenya, ten people have been killed after heavy rains triggered flooding and landslides across multiple regions. Landslides hit parts of Elgeyo Mara..."
     },
     {
       "title": "Germany urges stronger European defence after US announces troop drawdown",
@@ -1126,15 +1162,6 @@
       "description": ""
     },
     {
-      "title": "LNG ship from India heading towards Hormuz drops anchor",
-      "link": "https://www.thehindu.com/news/international/lng-ship-from-india-heading-towards-hormuz-drops-anchor/article70928906.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-01T19:46:39+05:30",
-      "time": "01 May, 07:46 PM",
-      "type": "news",
-      "description": "Umm Al Ashtan had stayed close to Oman during its transit unlike typical Iran-approved transits that hug the Iranian coast."
-    },
-    {
       "title": "Iran sends proposal for negotiations with US to mediator Pakistan",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-delivered-new-proposal-for-us-talks-via-pakistan-state-media/articleshow/130678317.cms",
       "source": "Economic Times",
@@ -1295,27 +1322,69 @@
       "time": "01 May, 12:49 PM",
       "type": "news",
       "description": "America's Central Command wants to send its new Dark Eagle missile to the Middle East. This powerful weapon can strike deep into Iran. It is designed ..."
-    },
-    {
-      "title": "Mixed messages and military mismatch erode U.S. and Europe's Atlantic pact",
-      "link": "https://economictimes.indiatimes.com/news/defence/mixed-messages-and-military-mismatch-erode-u-s-and-europes-atlantic-pact/articleshow/130672057.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-01T12:17:44+05:30",
-      "time": "01 May, 12:17 PM",
-      "type": "news",
-      "description": "European nations are questioning America's commitment to NATO. Unpredictable signals from the Trump administration are causing concern among allies on..."
-    },
-    {
-      "title": "Top Iranian officials seeking removal of Foreign Minister Abbas Araghchi, says report",
-      "link": "https://indianexpress.com/article/world/iran-foreign-minister-abbas-araghchi-removal-pezeshkian-irgc-nuclear-talks-10665345/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-01T11:45:31+05:30",
-      "time": "01 May, 11:45 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "India hosts BIMSTEC Exchange Program for Young Leaders",
+      "link": "https://nitter.net/sidhant/status/2050825820776825005#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T12:02:32+05:30",
+      "time": "03 May, 12:02 PM",
+      "type": "tweets",
+      "content": "<p>India hosts BIMSTEC Exchange Program for Young Leaders</p>\n<hr />\n<blockquote>\n<b>Randhir Jaiswal (@MEAIndia)</b>\n<p>\n<p>Implementing the announcement by PM <a href=\"https://nitter.net/narendramodi\" title=\"Narendra Modi\">@narendramodi</a> to promote youth exchanges across Bay of Bengal region, <a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a> hosted a BIMSTEC Exchange Program for Young Leaders in association with <a href=\"https://nitter.net/ArtOfLiving\" title=\"The Art of Living\">@ArtOfLiving</a> in Bangalore and Bhubaneswar on 25-30 April 2026.<br />\n<br />\nThe initiative is in line with India\u2019s strong commitment to strengthen sustainable regional cooperation in its neighborhood. It is expected to nurture future-ready leaders with an approach of integrating inner well-being with leadership, systems thinking, collaborative problem-solving and community engagement.</p>\n<img src=\"https://nitter.net/pic/media%2FHHXZ_febwAA9GcM.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHXZ_gEawAAXGnM.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MEAIndia/status/2050784906893214113#m\">https://nitter.net/MEAIndia/status/2050784906893214113#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "A Chinese company, Hangeng Trade, has shut down its factory in Gwadar Free Zone citing an \u201cunworkable business climate in Pakistan\u201d and mounting losses. The exit raises fresh questions over the viability of China-Pakistan Economic Corridor (CPEC).\n\nConcerns:\n- Security threats and rising insurgent activity\n- Policy uncertainty and operational hurdles\n- Stalled shipments causing financial strain",
+      "link": "https://nitter.net/NetramDefence/status/2050825786849206620#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-03T12:02:24+05:30",
+      "time": "03 May, 12:02 PM",
+      "type": "tweets",
+      "content": "<p>A Chinese company, Hangeng Trade, has shut down its factory in Gwadar Free Zone citing an \u201cunworkable business climate in Pakistan\u201d and mounting losses. The exit raises fresh questions over the viability of China-Pakistan Economic Corridor (CPEC).<br />\n<br />\nConcerns:<br />\n- Security threats and rising insurgent activity<br />\n- Policy uncertainty and operational hurdles<br />\n- Stalled shipments causing financial strain</p>\n<img src=\"https://nitter.net/pic/media%2FHHX_K0FbkAAXjkt.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Tamil Nadu Elections is a major story in Sri Lanka, while West Bengal elections is a major story in Bangladesh",
+      "link": "https://nitter.net/sidhant/status/2050825667022033103#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T12:01:56+05:30",
+      "time": "03 May, 12:01 PM",
+      "type": "tweets",
+      "content": "<p>Tamil Nadu Elections is a major story in Sri Lanka, while West Bengal elections is a major story in Bangladesh</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Canada's Intel agency: Khalistani extremists continue to pose a national security threat\n\nReporting \n\nhttps://www.wionews.com/world/canada-s-intel-agency-khalistani-extremists-continues-to-pose-a-national-security-threat-1777788977837",
+      "link": "https://nitter.net/sidhant/status/2050824633675555049#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T11:57:49+05:30",
+      "time": "03 May, 11:57 AM",
+      "type": "tweets",
+      "content": "<p>Canada's Intel agency: Khalistani extremists continue to pose a national security threat<br />\n<br />\nReporting <br />\n<br />\n<a href=\"https://www.wionews.com/world/canada-s-intel-agency-khalistani-extremists-continues-to-pose-a-national-security-threat-1777788977837\">wionews.com/world/canada-s-i\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2050824598242172928%2FvVx7Xr1f%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Kuwait reported no crude oil exports in a single month for the first time in 35 years\n\nApril 2026 was the first instance since the 1991 Gulf War when Kuwait exported no oil",
+      "link": "https://nitter.net/WarMonitorINTL/status/2050821481182191829#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-03T11:45:18+05:30",
+      "time": "03 May, 11:45 AM",
+      "type": "tweets",
+      "content": "<p>Kuwait reported no crude oil exports in a single month for the first time in 35 years<br />\n<br />\nApril 2026 was the first instance since the 1991 Gulf War when Kuwait exported no oil</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Security forces destroy 23 bunkers in Manipur's Ukhrul; seize arms, 18 IEDs in Tengnoupal",
+      "link": "https://nitter.net/WarMonitorINTL/status/2050820453216952820#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-03T11:41:13+05:30",
+      "time": "03 May, 11:41 AM",
+      "type": "tweets",
+      "content": "<p>Security forces destroy 23 bunkers in Manipur's Ukhrul; seize arms, 18 IEDs in Tengnoupal</p>",
+      "author": "@WarMonitorINTL"
+    },
     {
       "title": "Marshall Islands-flagged LPG tanker Sarv Shakti, carrying 46,000 tonnes of LPG for India, has crossed the Strait of Hormuz and is en route to India",
       "link": "https://nitter.net/sidhant/status/2050810690232062281#m",
@@ -1555,36 +1624,6 @@
       "type": "tweets",
       "content": "<p>India amends rules on investment for countries that share land borders</p>\n<img src=\"https://nitter.net/pic/media%2FHHVH6OZasAAFz2p.jpg\" />",
       "author": "@sidhant"
-    },
-    {
-      "title": "Colombo",
-      "link": "https://nitter.net/sidhant/status/2050617113078030776#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-02T22:13:13+05:30",
-      "time": "02 May, 10:13 PM",
-      "type": "tweets",
-      "content": "<p>Colombo</p>\n<img src=\"https://nitter.net/pic/media%2FHHVBZYVa8AEtqWG.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: High Commissioner @santjha addressed the Global Innovation & Leadership Summit organised by @ZeeNews & @WIONews in Colombo. The event was graced by the presence of Hon. Hanif Yusoof @governorWP, Hon. Chathuranga Abeysinghe, Deputy Minister of Industry & Entrepreneurship Development and Prof. Ruwan Ranasinghe, Deputy Minister of Tourism. \n\nHigh Commissioner spoke about the civilisational bond between \ud83c\uddee\ud83c\uddf3& \ud83c\uddf1\ud83c\uddf0 as well as the anchorage it provides for building a strong economic partnership.  \n\nHe emphasised on the need to commit to connect, upgrade the FTA & build together for shared prosperity.",
-      "link": "https://nitter.net/IndiainSL/status/2050615040768954384#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-02T22:04:58+05:30",
-      "time": "02 May, 10:04 PM",
-      "type": "tweets",
-      "content": "<p>High Commissioner <a href=\"https://nitter.net/santjha\" title=\"Santosh Jha\">@santjha</a> addressed the Global Innovation & Leadership Summit organised by <a href=\"https://nitter.net/ZeeNews\" title=\"Zee News\">@ZeeNews</a> & <a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a> in Colombo. The event was graced by the presence of Hon. Hanif Yusoof <a href=\"https://nitter.net/governorWP\" title=\"Hanif Yusoof\">@governorWP</a>, Hon. Chathuranga Abeysinghe, Deputy Minister of Industry & Entrepreneurship Development and Prof. Ruwan Ranasinghe, Deputy Minister of Tourism. <br />\n<br />\nHigh Commissioner spoke about the civilisational bond between \ud83c\uddee\ud83c\uddf3& \ud83c\uddf1\ud83c\uddf0 as well as the anchorage it provides for building a strong economic partnership.  <br />\n<br />\nHe emphasised on the need to commit to connect, upgrade the FTA & build together for shared prosperity.</p>\n<img src=\"https://nitter.net/pic/media%2FHHU_fAOakAABpj4.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHU_fAWawAAnv0c.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHU_fADa0AAa4u-.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHU_ffmaMAAKWR3.jpg\" />",
-      "author": "@IndiainSL"
-    },
-    {
-      "title": "RT by @sidhant: It was wonderful to have the opportunity to deliver a special address at WION Global Innovation and Leadership summit. Called for deeper and mutually beneficial cooperation between India and Sri Lanka as civilisational twins. @IndiainSL @IndianDiplomacy",
-      "link": "https://nitter.net/santjha/status/2050610901049593957#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-02T21:48:31+05:30",
-      "time": "02 May, 09:48 PM",
-      "type": "tweets",
-      "content": "<p>It was wonderful to have the opportunity to deliver a special address at WION Global Innovation and Leadership summit. Called for deeper and mutually beneficial cooperation between India and Sri Lanka as civilisational twins. <a href=\"https://nitter.net/IndiainSL\" title=\"India in Sri Lanka\">@IndiainSL</a> <a href=\"https://nitter.net/IndianDiplomacy\" title=\"Indian Diplomacy\">@IndianDiplomacy</a></p>\n<hr />\n<blockquote>\n<b>WION (@WIONews)</b>\n<p>\n<p>Top leaders, diplomats, and business figures from India and Sri Lanka will come together at the WION Global Innovation &amp; Leadership Summit to discuss innovation, trade, and regional cooperation<br />\n<br />\nTune in to watch the full, insightful session</p>\n<a href=\"https://nitter.net/WIONews/status/2050590351375888788#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050589352624082944%2Fimg%2FgdS_IYsdKOvXw0bA.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/WIONews/status/2050590351375888788#m\">https://nitter.net/WIONews/status/2050590351375888788#m</a>\n</footer>\n</blockquote>",
-      "author": "@santjha"
     },
     {
       "title": "RT by @OsintTV: Another day in Pakistan.\n\nThe Islamabad Police, which falls under @MohsinnaqviC42, is busy molesting a 15- year-old boy - that too in a public toilet.\n\n@ICT_Police be like: \"Our boys are no less than @OfficialDGISPR boys when it comes to molestation.\" \n\nThe only difference is that ICT boys under Naqvi molest underage boys in a public toilet, while armed forces colonels and generals under Munir molest girls in a 5star Mess.",
@@ -2047,16 +2086,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "R to @elitepredatorss: I will address your Adani/Ambani fetish in the next thread.",
-      "link": "https://nitter.net/elitepredatorss/status/2050303496331919778#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-02T01:27:00+05:30",
-      "time": "02 May, 01:27 AM",
-      "type": "tweets",
-      "content": "<p>I will address your Adani/Ambani fetish in the next thread.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
       "title": "R to @elitepredatorss: And in case the Chinese decided to attack the Islands, which they have war-gamed already :\n\nRemember that co-bonded warehousing thing?\n\nYou're not attacking India.\n\nYou're attacking German logistics capital. American warehouse equity. Emirati sovereign funds.\n\nYou just made Great Nicobar everybody's problem to protect.",
       "link": "https://nitter.net/elitepredatorss/status/2050303494020866099#m",
       "source": "Elite Predators",
@@ -2067,53 +2096,13 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "R to @elitepredatorss: This much FDI means if anyone touches Singapore, they will not only be touching Singapore but the investments around the world.\n\nAndaman and Nicobar will develop its own shield.\n\nWhy Andaman and Nicober would be a safe heaven?\n\nA stunning island archipelago.\n-  Pristine beaches. \n- Better weather than Singapore. \n- Better air than Dubai.\n- World-class amenities. \n\nAn Offshore HQ address that no CFO can say no to.",
-      "link": "https://nitter.net/elitepredatorss/status/2050303490438955063#m",
+      "title": "R to @elitepredatorss: I will address your Adani/Ambani fetish in the next thread.",
+      "link": "https://nitter.net/elitepredatorss/status/2050303496331919778#m",
       "source": "Elite Predators",
-      "sort_key": "2026-05-02T01:26:59+05:30",
-      "time": "02 May, 01:26 AM",
+      "sort_key": "2026-05-02T01:27:00+05:30",
+      "time": "02 May, 01:27 AM",
       "type": "tweets",
-      "content": "<p>This much FDI means if anyone touches Singapore, they will not only be touching Singapore but the investments around the world.<br />\n<br />\nAndaman and Nicobar will develop its own shield.<br />\n<br />\nWhy Andaman and Nicober would be a safe heaven?<br />\n<br />\nA stunning island archipelago.<br />\n-  Pristine beaches. <br />\n- Better weather than Singapore. <br />\n- Better air than Dubai.<br />\n- World-class amenities. <br />\n<br />\nAn Offshore HQ address that no CFO can say no to.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "R to @elitepredatorss: Singapore's FDI flow, check the numbers below and let me know what Singapore produce and exports for such FDI flow?",
-      "link": "https://nitter.net/elitepredatorss/status/2050303487247024579#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-02T01:26:58+05:30",
-      "time": "02 May, 01:26 AM",
-      "type": "tweets",
-      "content": "<p>Singapore's FDI flow, check the numbers below and let me know what Singapore produce and exports for such FDI flow?</p>\n<img src=\"https://nitter.net/pic/media%2FHHQiteaakAAktLx.jpg\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "R to @elitepredatorss: Singapore's FTZ :\n\nSingapore is the largest transhipment hub of the world, and none of it is its domestic cargo.\n\nIn 2025 alone, Singapore was the second biggest handler of shipping containers in the world, just after guess who?\n\nChina.\n\nWe know whats up buddy.",
-      "link": "https://nitter.net/elitepredatorss/status/2050303483371458637#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-02T01:26:57+05:30",
-      "time": "02 May, 01:26 AM",
-      "type": "tweets",
-      "content": "<p>Singapore's FTZ :<br />\n<br />\nSingapore is the largest transhipment hub of the world, and none of it is its domestic cargo.<br />\n<br />\nIn 2025 alone, Singapore was the second biggest handler of shipping containers in the world, just after guess who?<br />\n<br />\nChina.<br />\n<br />\nWe know whats up buddy.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "R to @elitepredatorss: How do FTZs support the economy?\n\nJAFZA, Jebel Ali Free Zone Dubai, started with just 19 companies; right now, it has 11,000 business and attracted an FDI of $30 billion dollars, a single FTZ.\n\nYou know how many jobs JAFZA created? Over a million direct and indirect jobs that too on a patch of a dessert.",
-      "link": "https://nitter.net/elitepredatorss/status/2050303481039511684#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-02T01:26:57+05:30",
-      "time": "02 May, 01:26 AM",
-      "type": "tweets",
-      "content": "<p>How do FTZs support the economy?<br />\n<br />\nJAFZA, Jebel Ali Free Zone Dubai, started with just 19 companies; right now, it has 11,000 business and attracted an FDI of $30 billion dollars, a single FTZ.<br />\n<br />\nYou know how many jobs JAFZA created? Over a million direct and indirect jobs that too on a patch of a dessert.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "R to @elitepredatorss: The game India wants to play with the Andaman and Nicobar Islands is not just of a Transshipment hub.\n\nBut a FTZ,  A Free Trade Zone.\n\nA zone where you get good from around the world.\n\n- Add your charges and re-export (That's what you called Sukha Profit)\n\n- Ask companies and countries to make co-bonded warehouses.\n\n- Create a ship chandlery, repair and bunking hub (several billion-dollar industry)\n\n- The Offshore HQ hub in Indo-Pacific.",
-      "link": "https://nitter.net/elitepredatorss/status/2050303478560641312#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-02T01:26:56+05:30",
-      "time": "02 May, 01:26 AM",
-      "type": "tweets",
-      "content": "<p>The game India wants to play with the Andaman and Nicobar Islands is not just of a Transshipment hub.<br />\n<br />\nBut a FTZ,  A Free Trade Zone.<br />\n<br />\nA zone where you get good from around the world.<br />\n<br />\n- Add your charges and re-export (That's what you called Sukha Profit)<br />\n<br />\n- Ask companies and countries to make co-bonded warehouses.<br />\n<br />\n- Create a ship chandlery, repair and bunking hub (several billion-dollar industry)<br />\n<br />\n- The Offshore HQ hub in Indo-Pacific.</p>",
+      "content": "<p>I will address your Adani/Ambani fetish in the next thread.</p>",
       "author": "@elitepredatorss"
     },
     {
@@ -2347,16 +2336,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "India has successfully tested a hypersonic LR-AShM missile; Phase-II begins, with speeds above Mach 5 and a range of 1,500 km",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050124132801769610#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-01T13:34:17+05:30",
-      "time": "01 May, 01:34 PM",
-      "type": "tweets",
-      "content": "<p>India has successfully tested a hypersonic LR-AShM missile; Phase-II begins, with speeds above Mach 5 and a range of 1,500 km</p>\n<img src=\"https://nitter.net/pic/media%2FHHOA3TbbUAA_lb5.jpg\" />",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "RT by @NetramDefence: Certain social media accounts are questioning the importance of the Great Nicobar Project with illogical arguments here is the fact check of their claims.\n\nClaim 1: The \"Width\" Comparison (50km vs. 200km)\n\nFacts:\nComparing the Strait of Hormuz to Great Nicobar based solely on physical width is a 19th-century view of naval warfare. In 2026, a \"choke point\" is defined by the range of stationed sensors and strike systems. With BrahMos missiles (range 450km\u2013800km) and P-8I Poseidon aircraft operating from the islands, India can monitor and interdict the entire 200km Six Degree Channel with 100% overlap. Physical narrowness is irrelevant when the entire gap is within high-precision strike range.",
       "link": "https://nitter.net/NetramDefence/status/2050122109591105895#m",
       "source": "Netram Defense",
@@ -2365,16 +2344,6 @@
       "type": "tweets",
       "content": "<p>Certain social media accounts are questioning the importance of the Great Nicobar Project with illogical arguments here is the fact check of their claims.<br />\n<br />\nClaim 1: The \"Width\" Comparison (50km vs. 200km)<br />\n<br />\nFacts:<br />\nComparing the Strait of Hormuz to Great Nicobar based solely on physical width is a 19th-century view of naval warfare. In 2026, a \"choke point\" is defined by the range of stationed sensors and strike systems. With BrahMos missiles (range 450km\u2013800km) and P-8I Poseidon aircraft operating from the islands, India can monitor and interdict the entire 200km Six Degree Channel with 100% overlap. Physical narrowness is irrelevant when the entire gap is within high-precision strike range.</p>\n<img src=\"https://nitter.net/pic/media%2FHHN-YwCbUAALLQj.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "China has agreed to facilitate the Kailash Mansarovar Yatra for 1,000 Indian pilgrims this year.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050121765347811677#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-01T13:24:52+05:30",
-      "time": "01 May, 01:24 PM",
-      "type": "tweets",
-      "content": "<p>China has agreed to facilitate the Kailash Mansarovar Yatra for 1,000 Indian pilgrims this year.</p>",
-      "author": "@WarMonitorINTL"
     },
     {
       "title": "RT by @Goreunit: Another piece of Propaganda by Low IQ Pakis \u26a0\ufe0f\n\nPakistan\u2019s state-affiliated news channel  PTV News is circulating a fabricated article falsely attributed to /@lemondefr and @sophielandrin .\n\nHer last legitimate piece was published on 29 March. \n\nPakistani media is uploading fake & morphed articles to hide their defeat in Op Sindoor.",
@@ -2395,30 +2364,10 @@
       "type": "tweets",
       "content": "<p>Mizoram is 'INSURGENCY FREE', as the last armed group lays down arms: CM Lalduhoma</p>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Meanwhile, Modiji at Adampur Air Base on 11th May.\n\nThe logic of these low IQ Porkis seriously needs to be studied.",
-      "link": "https://nitter.net/Goreunit/status/2050104071189925951#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-01T12:14:34+05:30",
-      "time": "01 May, 12:14 PM",
-      "type": "tweets",
-      "content": "<p>Meanwhile, Modiji at Adampur Air Base on 11th May.<br />\n<br />\nThe logic of these low IQ Porkis seriously needs to be studied.</p>\n<img src=\"https://nitter.net/pic/media%2FHHNuW0-aEAAYsf6.jpg\" />\n\n<hr />\n<blockquote>\n<b>Anti Pooj\u00ea\u0119t\ud83e\udeb3 (@GorkPedia)</b>\n<p>\n<p>10 May 2025:<br />\n<br />\nAn Indian man confirms that Pakistan struck Adampur.<br />\n<br />\nHe kept saying:<br />\n\u201cThey're coming back,  <br />\ndrones are coming again.  <br />\nWatch this morning, it's around 9\u20139:30 o'clock.  <br />\nMore are coming behind, they're coming and going continuously.  <br />\nThey've attacked Adampur Air Force.  <br />\nSharp from the edge, 12\u201313 drones.\u201d</p>\n<a href=\"https://nitter.net/GorkPedia/status/2049906287282941961#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2049906204529303553%2Fimg%2FNkolwEEDM6cfzCs7.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/GorkPedia/status/2049906287282941961#m\">https://nitter.net/GorkPedia/status/2049906287282941961#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: Pakistan\u2019s state-affiliated news channel @PTVNewsOfficial circulating a fabricated article falsely attributed to @lemondefr and @sophielandrin .\n\nHer last legitimate piece was published on 29 March. Everything being aired now is a sham; manufactured, morphed, and force-fed to a domestic audience to fake \u201cvictory\u201d in Operation Sindoor. This isn\u2019t journalism, it\u2019s psychological conditioning dressed up as news. When a state has to invent international coverage to validate itself, it\u2019s not winning anything it\u2019s collapsing under its own propaganda.\n\nThe DeFacto Munir Shehbaz Regime has gone so far that state media is broadcasting a doctored image of an article that was never published.\n\nBravo, @TararAttaullah . Your media ecosystem has officially graduated from spin to straight-up forgery and set a new standards of misinformation. Ahmed Sharif Chaudhry @OfficialDGISPR must be proud.",
-      "link": "https://nitter.net/shivank_8mishra/status/2050092262819004584#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-01T11:27:38+05:30",
-      "time": "01 May, 11:27 AM",
-      "type": "tweets",
-      "content": "<p>Pakistan\u2019s state-affiliated news channel <a href=\"https://nitter.net/PTVNewsOfficial\" title=\"PTV News\">@PTVNewsOfficial</a> circulating a fabricated article falsely attributed to <a href=\"https://nitter.net/lemondefr\" title=\"Le Monde\">@lemondefr</a> and <a href=\"https://nitter.net/sophielandrin\" title=\"Sophie Landrin\">@sophielandrin</a> .<br />\n<br />\nHer last legitimate piece was published on 29 March. Everything being aired now is a sham; manufactured, morphed, and force-fed to a domestic audience to fake \u201cvictory\u201d in Operation Sindoor. This isn\u2019t journalism, it\u2019s psychological conditioning dressed up as news. When a state has to invent international coverage to validate itself, it\u2019s not winning anything it\u2019s collapsing under its own propaganda.<br />\n<br />\nThe DeFacto Munir Shehbaz Regime has gone so far that state media is broadcasting a doctored image of an article that was never published.<br />\n<br />\nBravo, <a href=\"https://nitter.net/TararAttaullah\" title=\"Attaullah Tarar\">@TararAttaullah</a> . Your media ecosystem has officially graduated from spin to straight-up forgery and set a new standards of misinformation. Ahmed Sharif Chaudhry <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a> must be proud.</p>\n<img src=\"https://nitter.net/pic/media%2FHHNfybgbsAACfgr.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHNfyblbEAAyWmU.jpg\" />\n\n<hr />\n<blockquote>\n<b>PTV News (@PTVNewsOfficial)</b>\n<p>\n<p>\u0628\u06be\u0627\u0631\u062a \u06a9\u06cc \u0622\u067e\u0631\u06cc\u0634\u0646 \"\u0633\u0646\u0688\u0648\u0631\" \u0645\u06cc\u06ba \u0646\u0627\u06a9\u0627\u0645\u06cc\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u06a9\u0627 \u0639\u0627\u0644\u0645\u06cc \u06a9\u0631\u062f\u0627\u0631 \u0645\u0632\u06cc\u062f \u0645\u0633\u062a\u062d\u06a9\u0645 \u2014 \u0644\u06d2 \u0645\u0648\u0646\u0688<br />\n<br />\n \u0645\u0648\u062f\u06cc \u06a9\u0648 \u0639\u0627\u0644\u0645\u06cc \u0633\u0637\u062d \u067e\u0631 \u0679\u0631\u0645\u067e \u06a9\u06d2 \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u0633\u06d2 \u0633\u0628\u06a9\u06cc \u06a9\u0627 \u0633\u0627\u0645\u0646\u0627\u060c \u0642\u06cc\u0627\u062f\u062a \u06a9\u06cc \u0633\u0627\u06a9\u06be \u0645\u062a\u0627\u062b\u0631 \u2014 \u0644\u06d2 \u0645\u0648\u0646\u0688<br />\n<br />\n \u0645\u0648\u062f\u06cc \u06a9\u06cc \u0627\u0646\u062a\u062e\u0627\u0628\u06cc \u062d\u062f \u0628\u0646\u062f\u06cc \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u0637\u0627\u0642\u062a \u0645\u0633\u062a\u062d\u06a9\u0645 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u06a9\u0648\u0634\u0634 \u0646\u0627\u06a9\u0627\u0645\u060c \u0622\u0645\u0631\u0627\u0646\u06c1 \u0631\u062c\u062d\u0627\u0646\u0627\u062a \u0646\u0645\u0627\u06cc\u0627\u06ba \u2014 \u0644\u06d2 \u0645\u0648\u0646\u0688<br />\n<br />\n \u0679\u0631\u0645\u067e \u06a9\u06cc \u067e\u0627\u0644\u06cc\u0633\u06cc\u0648\u06ba \u06a9\u06d2 \u0628\u0627\u0639\u062b \u0645\u0648\u062f\u06cc \u06a9\u06cc \u0639\u0627\u0644\u0645\u06cc \u062d\u06cc\u062b\u06cc\u062a \u06a9\u0645\u0632\u0648\u0631\u060c \u0631\u0648\u067e\u06d2 \u06a9\u06cc \u0642\u062f\u0631 \u0645\u06cc\u06ba \u06a9\u0645\u06cc \u0633\u06d2 \u0645\u0639\u06cc\u0634\u062a \u0645\u062a\u0627\u062b\u0631 \u2014 \u0644\u06d2 \u0645\u0648\u0646\u0688<br />\n<br />\n\u0628\u06be\u0627\u0631\u062a \u0645\u06cc\u06ba \u062c\u0645\u06c1\u0648\u0631\u06cc \u0627\u0642\u062f\u0627\u0631 \u067e\u0631 \u0633\u0648\u0627\u0644\u0627\u062a\u060c \u0648\u0648\u0679\u0631 \u0641\u06c1\u0631\u0633\u062a\u0648\u06ba \u0645\u06cc\u06ba \u0645\u062a\u0646\u0627\u0632\u0639 \u062a\u0628\u062f\u06cc\u0644\u06cc\u0627\u06ba \u2014 \u0644\u06d2 \u0645\u0648\u0646\u0688</p>\n<img src=\"https://nitter.net/pic/media%2FHHNWRAcbUAAfSWm.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/PTVNewsOfficial/status/2050077197914820898#m\">https://nitter.net/PTVNewsOfficial/status/2050077197914820898#m</a>\n</footer>\n</blockquote>",
-      "author": "@shivank_8mishra"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
