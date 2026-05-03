@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Indian Army contingent leaves for Cambodia for CINBAX-II joint military exercise",
+      "link": "https://www.indiastrategic.in/indian-army-contingent-leaves-for-cambodia-for-cinbax-ii-joint-military-exercise/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-03T16:14:16+05:30",
+      "time": "03 May, 04:14 PM",
+      "type": "news",
+      "description": "<p>New Delhi, May 3. An Indian Army contingent has departed for the second edition of the India-Cambodia bilateral military exercise, CINBAX-II, sched..."
+    },
+    {
+      "title": "Israel approves deal to buy fighter jets from U.S.",
+      "link": "https://www.thehindu.com/news/international/israel-approves-deal-to-buy-fighter-jets-from-us/article70934804.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T15:55:54+05:30",
+      "time": "03 May, 03:55 PM",
+      "type": "news",
+      "description": "The purchase includes a squadron of F-35 multi-role stealth fighters from Lockheed Martin and another of F-15IA warplanes from Boeing, the Defence Min..."
+    },
+    {
+      "title": "Iran Guards say US options are 'impossible' military operation or 'bad deal'",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-guards-say-us-options-are-impossible-military-operation-or-bad-deal/articleshow/130730669.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-03T15:52:20+05:30",
+      "time": "03 May, 03:52 PM",
+      "type": "news",
+      "description": "Iran's Revolutionary Guards said on Sunday that the United States faced a choice between an \"impossible\" military operation or a \"bad deal\" with the I..."
+    },
+    {
+      "title": "Between a fatwa and war: how Iran makes sense of its nuclear capability",
+      "link": "https://www.thehindu.com/news/international/between-a-fatwa-and-war-how-iran-makes-sense-of-its-nuclear-capability/article70934543.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T15:46:18+05:30",
+      "time": "03 May, 03:46 PM",
+      "type": "news",
+      "description": "Iran has \u2018vowed\u2019 to protect its nuclear stockpile against Trump\u2019s threats even as its former Ayatollah Ali Khamenei disapproved of using nuclear weapo..."
+    },
+    {
+      "title": "Israel-Iran war LIVE: Iran Guards say U.S. options are \u2018impossible\u2019 military operation or \u2018bad deal\u2019",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T15:28:55+05:30",
+      "time": "03 May, 03:28 PM",
+      "type": "news",
+      "description": "Israel said it had approved a multi-billion-dollar deal to acquire two combat squadrons of fighter jets from the United States."
+    },
+    {
       "title": "Taiwan President defiant as he begins Eswatini trip; China calls him a 'rat'",
       "link": "https://www.thehindu.com/news/international/taiwan-president-defiant-as-begins-eswatini-trip-china-calls-him-a-rat/article70934580.ece",
       "source": "The Hindu",
@@ -17,15 +62,6 @@
       "time": "03 May, 03:12 PM",
       "type": "news",
       "description": "A slogan on a wall nearby in Farsi read, \u201cMeydan bashuma, khayabane ba ma\u201d. \u2018The battlefield is yours. The streets are ours.\u2019 Addressed to the Islamic..."
-    },
-    {
-      "title": "Israel-Iran war LIVE: Israel approves deal to buy fighter jets from U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T15:07:12+05:30",
-      "time": "03 May, 03:07 PM",
-      "type": "news",
-      "description": "Mr. Trump say he was \u201cnot satisfied\u201d with Iran's latest proposal in negotiations to end the war between the countries, rejecting the plan almost as so..."
     },
     {
       "title": "Madame Tussauds launches new \u201cIcons of India\u201d exhibition in London",
@@ -127,15 +163,6 @@
       "description": "In Mali, security forces killed more than 200 attackers in targeted airstrikes on Friday morning, Malian state television reported yesterday. The repo..."
     },
     {
-      "title": "Between a fatwa and war: how Iran makes sense of its nuclear capability",
-      "link": "https://www.thehindu.com/news/international/between-a-fatwa-and-war-how-iran-makes-sense-of-its-nuclear-capability/article70934543.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T12:27:20+05:30",
-      "time": "03 May, 12:27 PM",
-      "type": "news",
-      "description": "Iran has \u2018vowed\u2019 to protect its nuclear stockpile against Trump\u2019s threats even as its former Ayatollah Ali Khamenei disapproved of using nuclear weapo..."
-    },
-    {
       "title": "Indian students in UAE appear for NEET-UG with examination centres open in both Dubai, Sharjah",
       "link": "https://www.newsonair.gov.in/indian-students-in-uae-appear-for-neet-ug-with-examination-centres-open-in-both-dubai-sharjah/",
       "source": "All India Radio",
@@ -199,7 +226,7 @@
       "description": "President Donald Trump has said that the US will significantly reduce its troop presence in Germany, escalating a dispute with German Chancellor Fried..."
     },
     {
-      "title": "Iran-US War Ceasefire Live Updates: OPEC+ to agree on third oil output quota hike since Hormuz closure, sources say",
+      "title": "Iran-US War Ceasefire Live Updates: Iran threatens to turn Strait of Hormuz into \u2018graveyard\u2019 of US forces",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310/",
       "source": "The Indian Express",
       "sort_key": "2026-05-03T09:58:42+05:30",
@@ -1072,24 +1099,6 @@
       "description": "The U.K. and France have led talks on a separate maritime effort, recently holding a meeting with more than 50 countries"
     },
     {
-      "title": "Rebels take key military camp in Mali's north",
-      "link": "https://www.thehindu.com/news/international/rebels-take-key-military-camp-in-malis-north/article70929644.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-01T23:35:05+05:30",
-      "time": "01 May, 11:35 PM",
-      "type": "news",
-      "description": "A security source in Gao, south of Tessalit, said \"no clashes took place\" during the rebel forces' capture of Tessalit"
-    },
-    {
-      "title": "Israel's death penalty law perpetuates racial discrimination: UN watchdog",
-      "link": "https://www.thehindu.com/news/international/israels-death-penalty-law-perpetuates-racial-discrimination-un-watchdog/article70929646.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-01T23:27:35+05:30",
-      "time": "01 May, 11:27 PM",
-      "type": "news",
-      "description": "The law is \"de facto applicable to Palestinians only\" and sets a 90-day deadline for executions once a final judgement is rendered, the committee said"
-    },
-    {
       "title": "Imprisoned Iranian Nobel laureate Narges Mohammadi transferred to hospital",
       "link": "https://indianexpress.com/article/world/imprisoned-iranian-nobel-laureate-narges-mohammadi-transferred-to-hospital-10666663/",
       "source": "The Indian Express",
@@ -1243,15 +1252,6 @@
       "description": "<p>New Delhi, May 1. Vishvajit Sahay, a 1990-batch officer of the Indian Defence Accounts Service (IDAS), assumed charge as Secretary (Defence Finance..."
     },
     {
-      "title": "President Droupadi Murmu visits ARTRAC Headquarters in Shimla, reviews Indian Army training initiatives",
-      "link": "https://www.indiastrategic.in/president-droupadi-murmu-visits-artrac-headquarters-in-shimla-reviews-indian-army-training-initiatives/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-01T17:18:33+05:30",
-      "time": "01 May, 05:18 PM",
-      "type": "news",
-      "description": "<p>Shimla, May 1. The President of India and Supreme Commander of the Armed Forces, Droupadi Murmu, visited the Headquarters of the Army Training Comm..."
-    },
-    {
       "title": "Bengal: Security Forces Maintain Strict Vigil In And Around Counting Centres",
       "link": "https://www.deccanchronicle.com/assembly-elections-2026/bengal-polls-security-forces-maintain-strict-vigil-in-and-around-counting-centres-1953958",
       "source": "Deccan Chronicle",
@@ -1259,27 +1259,29 @@
       "time": "01 May, 04:40 PM",
       "type": "news",
       "description": "Any plan to tamper with the counting process will not be tolerated, warns Chief Minister Mamata Banerjee."
-    },
-    {
-      "title": "US Navy turns to AI firm Domino for options to counter Iranian mines",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-navy-turns-to-ai-firm-domino-for-options-to-counter-iranian-mines/articleshow/130675467.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-01T15:52:19+05:30",
-      "time": "01 May, 03:52 PM",
-      "type": "news",
-      "description": "The U.S. Navy is accelerating its artificial intelligence capabilities to detect Iranian mines in the Strait of Hormuz, a critical shipping lane. A ne..."
-    },
-    {
-      "title": "UAE says Iran cannot be trusted over Hormuz, peace efforts at an impasse",
-      "link": "https://economictimes.indiatimes.com/news/defence/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-at-an-impasse/articleshow/130675016.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-01T15:31:02+05:30",
-      "time": "01 May, 03:31 PM",
-      "type": "news",
-      "description": "Tensions remain high over the Strait of Hormuz. A UAE official voiced deep mistrust in Iran's unilateral actions. The vital waterway faces a blockade,..."
     }
   ],
   "tweets": [
+    {
+      "title": "Western Command",
+      "link": "https://nitter.net/Goreunit/status/2050888814122684904#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-03T16:12:51+05:30",
+      "time": "03 May, 04:12 PM",
+      "type": "tweets",
+      "content": "<p>Western Command</p>\n<a href=\"https://nitter.net/Goreunit/status/2050888814122684904#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050888793096687616%2Fpu%2Fimg%2FtFQ3kWukyGNwQP5L.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Blaming others for your failure won\u2019t change the outcome. It only exposes your inability.\n\nAur Jo ukh####### hai .....#######... ja",
+      "link": "https://nitter.net/OsintTV/status/2050877634985267593#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-03T15:28:26+05:30",
+      "time": "03 May, 03:28 PM",
+      "type": "tweets",
+      "content": "<p>Blaming others for your failure won\u2019t change the outcome. It only exposes your inability.<br />\n<br />\nAur Jo ukh####### hai .....#######... ja</p>\n<a href=\"https://nitter.net/OsintTV/status/2050877634985267593#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050876513919307776%2Fimg%2F_V_BCQhezS0vL9Yg.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Muhammad Adnan (@MuhammadAd2700)</b>\n<p>\n<p>Something also will happen in India mark my words</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MuhammadAd2700/status/2050846043768844447#m\">https://nitter.net/MuhammadAd2700/status/2050846043768844447#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
     {
       "title": "Predict the exact number of seats the BJP will win in Bengal.",
       "link": "https://nitter.net/WarMonitorINTL/status/2050874870058319884#m",
@@ -1361,6 +1363,26 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "R to @NetramDefence: Terrestrial Wildlife Corridors\nTo prevent habitat fragmentation, 8 dedicated wildlife corridors have been integrated into the project design. These ensure safe movement for endemic species like the Nicobar Macaque and the Robber Crab between the inland forests and the shore. \n\n5/7",
+      "link": "https://nitter.net/NetramDefence/status/2050854934141411641#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-03T13:58:13+05:30",
+      "time": "03 May, 01:58 PM",
+      "type": "tweets",
+      "content": "<p>Terrestrial Wildlife Corridors<br />\nTo prevent habitat fragmentation, 8 dedicated wildlife corridors have been integrated into the project design. These ensure safe movement for endemic species like the Nicobar Macaque and the Robber Crab between the inland forests and the shore. <br />\n<br />\n5/7</p>\n<img src=\"https://nitter.net/pic/media%2FHHYYy30bQAAS2iF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHYZD44aoAA4NIz.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Galathea Bay is a critical marine habitat. The Zoological Survey of India (ZSI) is currently overseeing the translocation of ~16,150 coral colonies to nearby reefs. \n\n The government has established three new Wildlife Sanctuaries:\n1\ufe0f\u20e3 Meroe Island: Dedicated specifically for Coral conservation.\n2\ufe0f\u20e3 Little Nicobar: A 13.75 sq. km sanctuary for Leatherback Turtles.  \n3\ufe0f\u20e3 Menchal Island: A sanctuary for the endemic Nicobar Megapode.\n\n4/7",
+      "link": "https://nitter.net/NetramDefence/status/2050854930395836598#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-03T13:58:13+05:30",
+      "time": "03 May, 01:58 PM",
+      "type": "tweets",
+      "content": "<p>Galathea Bay is a critical marine habitat. The Zoological Survey of India (ZSI) is currently overseeing the translocation of ~16,150 coral colonies to nearby reefs. <br />\n<br />\n The government has established three new Wildlife Sanctuaries:<br />\n1\ufe0f\u20e3 Meroe Island: Dedicated specifically for Coral conservation.<br />\n2\ufe0f\u20e3 Little Nicobar: A 13.75 sq. km sanctuary for Leatherback Turtles.  <br />\n3\ufe0f\u20e3 Menchal Island: A sanctuary for the endemic Nicobar Megapode.<br />\n<br />\n4/7</p>\n<img src=\"https://nitter.net/pic/media%2FHHYYgF3aIAAGUW5.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHYYqKqaoAAth37.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "RT by @NetramDefence: The project will divert roughly 130 sq. km of forest land (1.82% of the islands' total forest). To minimize impact, tree felling is strictly limited to 49.86 sq. km and is being executed in a phased manner over 22 years (2025\u20132047). An area of 65.99 sq. km shall be retained as a green area with no tree felling.\n\n3/7",
       "link": "https://nitter.net/NetramDefence/status/2050854927518650388#m",
       "source": "Netram Defense",
@@ -1368,6 +1390,16 @@
       "time": "03 May, 01:58 PM",
       "type": "tweets",
       "content": "<p>The project will divert roughly 130 sq. km of forest land (1.82% of the islands' total forest). To minimize impact, tree felling is strictly limited to 49.86 sq. km and is being executed in a phased manner over 22 years (2025\u20132047). An area of 65.99 sq. km shall be retained as a green area with no tree felling.<br />\n<br />\n3/7</p>\n<img src=\"https://nitter.net/pic/media%2FHHYZdG0a8AAYFTc.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: A \"Zero-Displacement\" mandate is in place for the Shompen (a PVTG). While 73 sq. km of land was de-notified for the project, the government re-notified 76 sq. km of new land as Tribal Reserve.\n\nA dedicated \"Committee on Tribal Welfare\" oversees all construction to ensure zero contact and zero interference with Shompen habitations. \n\n2/7",
+      "link": "https://nitter.net/NetramDefence/status/2050854923852718447#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-03T13:58:11+05:30",
+      "time": "03 May, 01:58 PM",
+      "type": "tweets",
+      "content": "<p>A \"Zero-Displacement\" mandate is in place for the Shompen (a PVTG). While 73 sq. km of land was de-notified for the project, the government re-notified 76 sq. km of new land as Tribal Reserve.<br />\n<br />\nA dedicated \"Committee on Tribal Welfare\" oversees all construction to ensure zero contact and zero interference with Shompen habitations. <br />\n<br />\n2/7</p>\n<img src=\"https://nitter.net/pic/media%2FHHYVmzFbIAAMd8N.jpg\" />",
       "author": "@NetramDefence"
     },
     {
@@ -2349,26 +2381,6 @@
       "type": "tweets",
       "content": "<p>Aaj ki tasveer <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SyednaBilal\">#SyednaBilal</a>, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pakistan\">#Pakistan</a> ki.<br />\n\u201cghabrane ka nahi hai\u201d<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a> \ud83c\uddee\ud83c\uddf3</p>\n<img src=\"https://nitter.net/pic/media%2FHHO_eDfbQAASXnr.jpg\" />",
       "author": "@manishindiatv"
-    },
-    {
-      "title": "Try not to laugh while watching....\n\nPak Defense Exfart : \nToh janaab, Pak ne apna ek naya missile test kiya hai. Yeh Fateh-II hai aur Iske upar 'GPS' laga hua hai aur yeh bohot hi accurate hai.... \ud83d\ude1d\nIske baad toh isne bohot zyada TAKE-UP karna shuru kar diya hai, balki ab yeh TAKEOFF kar rahi hai is tarah karke....\ud83e\udd23",
-      "link": "https://nitter.net/OsintTV/status/2050156495744991268#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-01T15:42:53+05:30",
-      "time": "01 May, 03:42 PM",
-      "type": "tweets",
-      "content": "<p>Try not to laugh while watching....<br />\n<br />\nPak Defense Exfart : <br />\nToh janaab, Pak ne apna ek naya missile test kiya hai. Yeh Fateh-II hai aur Iske upar 'GPS' laga hua hai aur yeh bohot hi accurate hai.... \ud83d\ude1d<br />\nIske baad toh isne bohot zyada TAKE-UP karna shuru kar diya hai, balki ab yeh TAKEOFF kar rahi hai is tarah karke....\ud83e\udd23</p>\n<a href=\"https://nitter.net/OsintTV/status/2050156495744991268#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050156104785510401%2Fimg%2FeduC6LXbBJ61uB3x.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @WarMonitorINTL: India is developing the \u20b981,000 crore Great Nicobar mega project to gain Hormuz like strategic leverage near a major global trade route\n\nWhy this project matters:",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050156413511663758#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-01T15:42:33+05:30",
-      "time": "01 May, 03:42 PM",
-      "type": "tweets",
-      "content": "<p>India is developing the \u20b981,000 crore Great Nicobar mega project to gain Hormuz like strategic leverage near a major global trade route<br />\n<br />\nWhy this project matters:</p>\n<a href=\"https://nitter.net/WarMonitorINTL/status/2050156413511663758#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050156231495684096%2Fimg%2F5e9v5sgv2293FlD7.jpg\" />\n</a>",
-      "author": "@WarMonitorINTL"
     }
   ],
   "youtube": [
@@ -2455,6 +2467,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "04:24 PM IST"
   }
 }
