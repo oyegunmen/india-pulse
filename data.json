@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "Israel court extends detention of two Gaza flotilla activists",
+      "link": "https://www.thehindu.com/news/international/israel-court-extends-detention-of-two-gaza-flotilla-activists/article70936065.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T22:16:05+05:30",
+      "time": "03 May, 10:16 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Seven-Armed Firing Incidents Reported in Twin Cities Since Jan 2024",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/seven-armed-firing-incidents-reported-in-twin-cities-since-jan-2024-1954441",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-03T22:11:27+05:30",
+      "time": "03 May, 10:11 PM",
+      "type": "news",
+      "description": "During the past year, seven firing incidents including a police personnel firing in self defence were reported."
+    },
+    {
+      "title": "Israel strikes southern Lebanon, kills one and wounds rescuers",
+      "link": "https://www.thehindu.com/news/international/israel-issues-new-evacuation-warnings-in-south-lebanon-beyond-occupied-area/article70934664.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T22:05:48+05:30",
+      "time": "03 May, 10:05 PM",
+      "type": "news",
+      "description": "The warning covered more than 10 villages and towns including several in the district of Nabatieh, which lies north of the Litani River, south of whic..."
+    },
+    {
+      "title": "Russia, Ukraine drones kill four; hit \u2018shadow fleet\u2019 tankers",
+      "link": "https://www.thehindu.com/news/international/russian-strike-kills-one-as-ukraine-launches-hundreds-of-drones/article70934520.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T22:03:01+05:30",
+      "time": "03 May, 10:03 PM",
+      "type": "news",
+      "description": "Russia fired 268 drones and one ballistic missile in the overnight attack as Ukraine\u2019s army launched at least 334 drones"
+    },
+    {
+      "title": "China remains top jailer of journalists; ranks 178th in press freedom index",
+      "link": "https://www.newsonair.gov.in/china-remains-top-jailer-of-journalists-ranks-178th-in-press-freedom-index/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-03T21:59:24+05:30",
+      "time": "03 May, 09:59 PM",
+      "type": "news",
+      "description": "China remains the world&#8217;s largest prison for journalists, and its regime conducted a campaign of repression against journalism and the right to ..."
+    },
+    {
+      "title": "Israel-Iran war LIVE: Bulk carrier near Strait of Hormuz reportedly being attacked, U.K. military says",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T21:56:00+05:30",
+      "time": "03 May, 09:56 PM",
+      "type": "news",
+      "description": "Iran Guards say U.S. faces two options - an \u2018impossible\u2019 military operation or a \u2018bad deal\u2019"
+    },
+    {
+      "title": "Verdict Day: Poll-bound States on Edge",
+      "link": "https://www.deccanchronicle.com/nation/verdict-day-poll-bound-states-on-edge-1954436",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-03T21:54:21+05:30",
+      "time": "03 May, 09:54 PM",
+      "type": "news",
+      "description": "All eyes are on West Bengal, where the fiercely fought election was branded by the Opposition as a battle between the \u201cIndian State and the Trinamul C..."
+    },
+    {
+      "title": "Russian strikes in Ukraine kill 10, injure at least 76 in past 24 hours",
+      "link": "https://www.newsonair.gov.in/russian-strikes-in-ukraine-kill-10-injure-at-least-76-in-past-24-hours/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-03T21:42:09+05:30",
+      "time": "03 May, 09:42 PM",
+      "type": "news",
+      "description": "Russian drone and missile strikes in Ukraine have killed 10 people and injured at least 76 over the past day. Authorities in five regions of Ukraine r..."
+    },
+    {
+      "title": "Between a fatwa and war: how Iran makes sense of its nuclear capability",
+      "link": "https://www.thehindu.com/news/international/between-a-fatwa-and-war-how-iran-makes-sense-of-its-nuclear-capability/article70934543.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T21:27:23+05:30",
+      "time": "03 May, 09:27 PM",
+      "type": "news",
+      "description": "Iran has \u2018vowed\u2019 to protect its nuclear stockpile against Trump\u2019s threats even as its former Ayatollah Ali Khamenei disapproved of using nuclear weapo..."
+    },
+    {
+      "title": "Sleepless in Tehran as crowds rally behind the flag",
+      "link": "https://www.thehindu.com/news/international/sleepless-in-tehran-as-crowds-rally-behind-the-flag/article70934728.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-03T21:25:16+05:30",
+      "time": "03 May, 09:25 PM",
+      "type": "news",
+      "description": "A slogan on a wall nearby in Farsi read, \u201cMeydan bashuma, khayabane ba ma\u201d. \u2018The battlefield is yours. The streets are ours.\u2019 Addressed to the Islamic..."
+    },
+    {
       "title": "UAE resumes normal flight operations to multiple destinations in India after brief suspension amid West Asia conflict",
       "link": "https://www.newsonair.gov.in/uae-resumes-normal-flight-operations-to-multiple-destinations-in-india-after-brief-suspension-amid-west-asia-conflict/",
       "source": "All India Radio",
@@ -17,15 +107,6 @@
       "time": "03 May, 08:37 PM",
       "type": "news",
       "description": "The 2025 Public Report of the Canadian Security Intelligence Service comes a year after the 40th anniversary of the bombing of Air India Flight 182, w..."
-    },
-    {
-      "title": "Israel-Iran war LIVE: Iran presses for end to war within 30 days even as Trump expresses doubts",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T20:32:35+05:30",
-      "time": "03 May, 08:32 PM",
-      "type": "news",
-      "description": "Iran Guards say U.S. faces two options - an \u2018impossible\u2019 military operation or a \u2018bad deal\u2019"
     },
     {
       "title": "2 US service members missing after military exercises in Morocco",
@@ -199,15 +280,6 @@
       "description": "Iran's Revolutionary Guards said on Sunday that the United States faced a choice between an \"impossible\" military operation or a \"bad deal\" with the I..."
     },
     {
-      "title": "Between a fatwa and war: how Iran makes sense of its nuclear capability",
-      "link": "https://www.thehindu.com/news/international/between-a-fatwa-and-war-how-iran-makes-sense-of-its-nuclear-capability/article70934543.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T15:46:18+05:30",
-      "time": "03 May, 03:46 PM",
-      "type": "news",
-      "description": "Iran has \u2018vowed\u2019 to protect its nuclear stockpile against Trump\u2019s threats even as its former Ayatollah Ali Khamenei disapproved of using nuclear weapo..."
-    },
-    {
       "title": "Taiwan President defiant as he begins Eswatini trip; China calls him a 'rat'",
       "link": "https://www.thehindu.com/news/international/taiwan-president-defiant-as-begins-eswatini-trip-china-calls-him-a-rat/article70934580.ece",
       "source": "The Hindu",
@@ -215,15 +287,6 @@
       "time": "03 May, 03:15 PM",
       "type": "news",
       "description": "Lai Ching-te\u2019s despicable conduct \u2014 \u200blike a rat scurrying across the street \u2014 will inevitably be met with ridicule by the international community, say..."
-    },
-    {
-      "title": "Sleepless in Tehran as crowds rally behind the flag",
-      "link": "https://www.thehindu.com/news/international/sleepless-in-tehran-as-crowds-rally-behind-the-flag/article70934728.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T15:12:48+05:30",
-      "time": "03 May, 03:12 PM",
-      "type": "news",
-      "description": "A slogan on a wall nearby in Farsi read, \u201cMeydan bashuma, khayabane ba ma\u201d. \u2018The battlefield is yours. The streets are ours.\u2019 Addressed to the Islamic..."
     },
     {
       "title": "Madame Tussauds launches new \u201cIcons of India\u201d exhibition in London",
@@ -253,15 +316,6 @@
       "description": "The Philippine Coast Guard (PCG) has announced that it will deploy aircraft and vessels to challenge and drive away four Chinese research vessels dete..."
     },
     {
-      "title": "Israel issues new evacuation warnings in south Lebanon beyond occupied area",
-      "link": "https://www.thehindu.com/news/international/israel-issues-new-evacuation-warnings-in-south-lebanon-beyond-occupied-area/article70934664.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T13:34:20+05:30",
-      "time": "03 May, 01:34 PM",
-      "type": "news",
-      "description": "The warning covers more than 10 villages and towns including several in the district of Nabatieh, which lies north of the Litani River, south of which..."
-    },
-    {
       "title": "Iran executes man convicted over killing of security officer in 2022 unrest",
       "link": "https://www.thehindu.com/news/international/iran-executes-man-convicted-over-killing-of-security-officer-in-2022-unrest/article70934654.ece",
       "source": "The Hindu",
@@ -280,24 +334,6 @@
       "description": "Israel is poised to enhance its aerial capabilities with the procurement of state-of-the-art F-35 and F-15IA fighter jets. This important defense init..."
     },
     {
-      "title": "Iran\u2019s Foreign Ministry spokesman Esmaeil Baghaei criticises Trump\u2019s remarks",
-      "link": "https://www.newsonair.gov.in/irans-foreign-ministry-spokesman-esmaeil-baghaei-criticises-trumps-remarks/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-03T12:48:11+05:30",
-      "time": "03 May, 12:48 PM",
-      "type": "news",
-      "description": "Iran&#8217;s Foreign Ministry spokesman Esmaeil Baghaei has reacted to US President Donald Trump&#8217;s remarks that called the US seizure of Iranian..."
-    },
-    {
-      "title": "Brazil: Thousands displaced after heavy rains hit northeastern part of country",
-      "link": "https://www.newsonair.gov.in/brazil-thousands-displaced-after-heavy-rains-hit-northeastern-part-of-country/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-03T12:46:03+05:30",
-      "time": "03 May, 12:46 PM",
-      "type": "news",
-      "description": "In Brazil, at least six people have died and thousands displaced after heavy rains hit northeastern part of the country. The deaths were reported in t..."
-    },
-    {
       "title": "India-linked LPG tanker makes rare Hormuz crossing amid US blockade: Report",
       "link": "https://indianexpress.com/article/world/india-linked-lpg-tanker-makes-rare-hormuz-crossing-amid-us-blockade-report-10668578/",
       "source": "The Indian Express",
@@ -305,15 +341,6 @@
       "time": "03 May, 12:45 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Russian strike kills one as Ukraine launches hundreds of drones",
-      "link": "https://www.thehindu.com/news/international/russian-strike-kills-one-as-ukraine-launches-hundreds-of-drones/article70934520.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T11:37:44+05:30",
-      "time": "03 May, 11:37 AM",
-      "type": "news",
-      "description": "Russia said air defence units intercepted and destroyed 334 Ukrainian drones overnight across more than a dozen regions near its western border"
     },
     {
       "title": "Iranian supertanker carrying $220m oil cargo slips past US blockade",
@@ -1135,15 +1162,6 @@
       "description": ""
     },
     {
-      "title": "Iran offers new proposal via Pakistan amid stalled talks",
-      "link": "https://www.thehindu.com/news/international/iran-offers-latest-proposal-to-us-via-pakistan-state-media/article70928869.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T05:42:08+05:30",
-      "time": "02 May, 05:42 AM",
-      "type": "news",
-      "description": "IRGC leaders warn that their Navy will use \u201cnew cards\u201d, such as smart targeting, to burn U.S. warships if the U.S. begins strikes on Iran again"
-    },
-    {
       "title": "US withdrawing 5,000 troops from Germany after Merz says US \u2018humiliated\u2019 by Iran",
       "link": "https://indianexpress.com/article/world/us-news/us-germany-troop-withdrawal-friedrich-merz-iran-comments-trump-10666784/",
       "source": "The Indian Express",
@@ -1196,36 +1214,39 @@
       "time": "01 May, 10:47 PM",
       "type": "news",
       "description": "Iran's Supreme Leader Ayatollah Mojtaba Khamenei declared US bases in West Asia are weak. He stated the Persian Gulf's future will exclude America. Kh..."
-    },
-    {
-      "title": "Trump announces 25% tariffs on EU cars, trucks: \u2018Not complying with our fully agreed to trade deal\u2019",
-      "link": "https://indianexpress.com/article/world/trump-eu-car-tariffs-25-percent-trade-tensions-10666605/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-01T21:53:13+05:30",
-      "time": "01 May, 09:53 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Italian Defence Minister Crosetto\u2019s bilateral visit strengthens the Indo-Mediterranean",
-      "link": "https://economictimes.indiatimes.com/news/defence/italian-defence-minister-crosettos-bilateral-visit-strengthens-the-indo-mediterranean/articleshow/130682099.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-01T21:51:13+05:30",
-      "time": "01 May, 09:51 PM",
-      "type": "news",
-      "description": "Rising conflicts in the Indo-Mediterranean, especially after the October 7 attack on Israel and disruptions like the Strait of Hormuz closure, have un..."
-    },
-    {
-      "title": "Trump \u2018not satisfied\u2019 with Iran\u2019s proposal to end war; Strait of Hormuz crisis roils oil markets",
-      "link": "https://indianexpress.com/article/world/iran-us-new-negotiation-proposal-pakistan-strait-of-hormuz-oil-prices-10666598/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-01T21:50:35+05:30",
-      "time": "01 May, 09:50 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "R to @sidhant: Controversy over Lipulekh is not new. In 2020, KP Oli govt issued a new map of the country, & brought in constitutional amendment that showed these Indian territories as part of Nepali territories. \n\nhttps://x.com/i/status/1266971654099554305",
+      "link": "https://nitter.net/sidhant/status/2050977473345851835#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T22:05:09+05:30",
+      "time": "03 May, 10:05 PM",
+      "type": "tweets",
+      "content": "<p>Controversy over Lipulekh is not new. In 2020, KP Oli govt issued a new map of the country, &amp; brought in constitutional amendment that showed these Indian territories as part of Nepali territories. <br />\n<br />\n<a href=\"https://nitter.net/i/status/1266971654099554305\">nitter.net/i/status/1266971654099\u2026</a></p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Just in: Nepal's law minister Shiva Maya Tumbahamphe tables constitutional amendment to give legal backing to new Nepal map in Nepal's house of representatives (Lower house of Nepal Parliament)</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/1266971654099554305#m\">https://nitter.net/sidhant/status/1266971654099554305#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Daily US-Israel-Iran War Brief: \n3rd May 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf Israel has approved its fourth F-35I \u201cAdir\u201d squadron, expanding the IAF fleet toward ~100 advanced stealth fighters from the current 2 operational squadrons at Nevatim.\n\n\u25cf OPEC+ members Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman agreed to a production adjustment of 188,000 barrels/day from their voluntary cuts, effective June 2026.\n\n\u25cf CENTCOM notes that of today, 49 commercial vessels have been redirected to comply with blockade.\n\n\u25cf An Israeli court in Ashkelon has extended the detention of two flotilla activists by two days following their interception by the navy.\n\n\u25cf Iran\u2019s 14-point proposal clashes with US demands, as Tehran wants to delay nuclear talks while Washington insists Iran first give up its 400 kg+ of highly enriched uranium. Iran instead prioritizes reopening the Strait of Hormuz before nuclear negotiations.\n\n\u25cf The India-bound LPG tanker SARV SHAKTI has successfully cleared the Strait of Hormuz as of this morning. It is expected to reach Visakhapatnam by May 13.\n\n\u25cf The Pentagon confirmed it will follow through on plans to pull 5,000 troops from Germany.\n\nEND OF THE BRIEF",
+      "link": "https://nitter.net/NetramDefence/status/2050976047055962546#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-03T21:59:29+05:30",
+      "time": "03 May, 09:59 PM",
+      "type": "tweets",
+      "content": "<p>Daily US-Israel-Iran War Brief: <br />\n3rd May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Israel has approved its fourth F-35I \u201cAdir\u201d squadron, expanding the IAF fleet toward ~100 advanced stealth fighters from the current 2 operational squadrons at Nevatim.<br />\n<br />\n\u25cf OPEC+ members Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman agreed to a production adjustment of 188,000 barrels/day from their voluntary cuts, effective June 2026.<br />\n<br />\n\u25cf CENTCOM notes that of today, 49 commercial vessels have been redirected to comply with blockade.<br />\n<br />\n\u25cf An Israeli court in Ashkelon has extended the detention of two flotilla activists by two days following their interception by the navy.<br />\n<br />\n\u25cf Iran\u2019s 14-point proposal clashes with US demands, as Tehran wants to delay nuclear talks while Washington insists Iran first give up its 400 kg+ of highly enriched uranium. Iran instead prioritizes reopening the Strait of Hormuz before nuclear negotiations.<br />\n<br />\n\u25cf The India-bound LPG tanker SARV SHAKTI has successfully cleared the Strait of Hormuz as of this morning. It is expected to reach Visakhapatnam by May 13.<br />\n<br />\n\u25cf The Pentagon confirmed it will follow through on plans to pull 5,000 troops from Germany.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHaHqk5aYAAn4a2.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n2nd May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Israeli forces struck the southern Lebanese village of Zawtar with white phosphorus shells.<br />\n<br />\n\u25cf UAE announces the full resumption of normal air navigation operations across its airspace.<br />\n<br />\n\u25cf India-linked LPG tanker, SARV SHAKTI, was making a rare transit through Strait of Hormuz with 45,000 tons of LPG. Its full transit could take ~10-14 hours.<br />\n<br />\n\u25cf President Trump announced he is raising tariffs on cars and trucks from the EU to 25%, effective next week.<br />\n<br />\n\u25cf China's Commerce Ministry today issued an injunction blocking U.S. sanctions on five Chinese refineries buying Iranian oil, shielding its energy imports.<br />\n<br />\n\u25cf Seven OPEC+ member countries have reached a preliminary agreement to increase oil production targets by roughly 188,000 barrels per day in June, despite UAE\u2019s exit.<br />\n<br />\n\u25cf The Trump administration announced over $8.6 billion in emergency arms sales to Middle Eastern partners today, including Israel, Qatar, Kuwait, and the UAE.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHVR7QEaYAEHyi7.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2050635347118465215#m\">https://nitter.net/NetramDefence/status/2050635347118465215#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Maldives President Muizzu on Sri Lanka visit.",
+      "link": "https://nitter.net/sidhant/status/2050971225510625514#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-03T21:40:20+05:30",
+      "time": "03 May, 09:40 PM",
+      "type": "tweets",
+      "content": "<p>Maldives President Muizzu on Sri Lanka visit.</p>\n<a href=\"https://nitter.net/sidhant/status/2050971225510625514#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050921227284533248%2Fimg%2F0HHx5OqO2m9xBzSV.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Canada's Intel agency: Khalistani extremists continue to pose a national security threat\n\nReporting",
       "link": "https://nitter.net/sidhant/status/2050965167857701143#m",
@@ -1277,13 +1298,13 @@
       "author": "@sidhant"
     },
     {
-      "title": "What do you mean by \u201cif you stop water\u201d? It has already been stopped for more than a year....\ud83e\udd23\n\nAur zor se chillaao, cheekho....",
+      "title": "RT by @OsintTV: What do you mean by \u201cif you stop water\u201d? It has already been stopped for more than a year....\ud83e\udd23\n\nAur zor se chillaao, cheekho....",
       "link": "https://nitter.net/OsintTV/status/2050956382875078673#m",
       "source": "Osint TV",
       "sort_key": "2026-05-03T20:41:21+05:30",
       "time": "03 May, 08:41 PM",
       "type": "tweets",
-      "content": "<p>What do you mean by \u201cif you stop water\u201d? It has already been stopped for more than a year....\ud83e\udd23<br />\n<br />\nAur zor se chillaao, cheekho....</p>\n<a href=\"https://nitter.net/OsintTV/status/2050956382875078673#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050955525060255744%2Fimg%2Ff6skLnOa-yuecqPP.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Wasim Abbas (@skystars555)</b>\n<p>\n<p>If you stop water blood will definitely flow from here</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/skystars555/status/2050881249850593572#m\">https://nitter.net/skystars555/status/2050881249850593572#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>What do you mean by \u201cif you stop water\u201d? It has already been stopped for more than a year....\ud83e\udd23<br />\n<br />\nAur zor se chillaao, cheekho....</p>\n<a href=\"https://nitter.net/OsintTV/status/2050956382875078673#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050955525060255744%2Fimg%2Ff6skLnOa-yuecqPP.jpg\" />\n</a>",
       "author": "@OsintTV"
     },
     {
@@ -1357,7 +1378,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "This is not road blockage, it is cross border fuel smuggling.\n\nAlong the Iran Pakistan border, hundreds of Pakistani pickup trucks are smuggling illegal fuel into Pakistan through the porous Pir Kor border.\n\nThe Pakistan govt is not stopping it as large share of the money flows through these networks\n\nVideo @Osint613",
+      "title": "RT by @OsintTV: This is not road blockage, it is cross border fuel smuggling.\n\nAlong the Iran Pakistan border, hundreds of Pakistani pickup trucks are smuggling illegal fuel into Pakistan through the porous Pir Kor border.\n\nThe Pakistan govt is not stopping it as large share of the money flows through these networks\n\nVideo @Osint613",
       "link": "https://nitter.net/OsintTV/status/2050946742674194894#m",
       "source": "Osint TV",
       "sort_key": "2026-05-03T20:03:02+05:30",
@@ -1477,7 +1498,7 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "What happened in the Galwan Valley clash? \n\nHear it directly from the Ex Army Chief\u2019s account",
+      "title": "RT by @OsintTV: What happened in the Galwan Valley clash? \n\nHear it directly from the Ex Army Chief\u2019s account",
       "link": "https://nitter.net/OsintTV/status/2050869884888743942#m",
       "source": "Osint TV",
       "sort_key": "2026-05-03T14:57:38+05:30",
@@ -1517,7 +1538,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "One year on, Baglihar Dam gates in Rambhan stay shut. Chenab runs dry.\n\nMessage is blunt. BLOOD & WATER will not flow together.",
+      "title": "RT by @OsintTV: One year on, Baglihar Dam gates in Rambhan stay shut. Chenab runs dry.\n\nMessage is blunt. BLOOD & WATER will not flow together.",
       "link": "https://nitter.net/OsintTV/status/2050865380260827255#m",
       "source": "Osint TV",
       "sort_key": "2026-05-03T14:39:44+05:30",
@@ -1717,7 +1738,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Pakistani military was targeted by IED attack in Panjgur, Balochistan in which at least 3 soldiers have been killed : Source",
+      "title": "RT by @OsintTV: Pakistani military was targeted by IED attack in Panjgur, Balochistan in which at least 3 soldiers have been killed : Source",
       "link": "https://nitter.net/OsintTV/status/2050800014755234200#m",
       "source": "Osint TV",
       "sort_key": "2026-05-03T10:20:00+05:30",
@@ -1735,26 +1756,6 @@
       "type": "tweets",
       "content": "<p>Bangladesh Is Upgrading Air Defence Near India's Siliguri Corridor <br />\n<br />\nReports indicate the Bangladesh Army is installing an air defence and radar system at Lalmonirhat airbase, located less than 20 km from the India border (Cooch Behar sector).<br />\n<br />\nDetails:<br />\n- Installation work ongoing alongside a newly built large hangar<br />\n- Airbase spans ~1,166 acres with a 4 km runway<br />\n- Parallel upgrades underway at Bogura airbase<br />\n- System expected to enhance surveillance & tracking.<br />\n<br />\nIndian authorities are monitoring developments, especially given the base\u2019s proximity to the strategically sensitive Siliguri Corridor (\u201cChicken\u2019s Neck\u201d).</p>\n<img src=\"https://nitter.net/pic/media%2FHHXmSnfa0AAWuud.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHXnZX3aMAAKQFO.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "As part of the ongoing visit to Myanmar, Navy Chief Adm Dinesh K Tripathi, embarked the Myanmar Navy's Frigate UMS Kyan Sit Thar (F12)",
-      "link": "https://nitter.net/sidhant/status/2050794499186758021#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T09:58:05+05:30",
-      "time": "03 May, 09:58 AM",
-      "type": "tweets",
-      "content": "<p>As part of the ongoing visit to Myanmar, Navy Chief Adm Dinesh K Tripathi, embarked the Myanmar Navy's Frigate UMS Kyan Sit Thar (F12)</p>\n<img src=\"https://nitter.net/pic/media%2FHHXiuSGa0AA5Cu7.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "After Muizzu, Nepal PM Balen Shah held no meeting with Sergio Gor, Trump's South & Central Asian envoy.",
-      "link": "https://nitter.net/sidhant/status/2050794206168576439#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T09:56:55+05:30",
-      "time": "03 May, 09:56 AM",
-      "type": "tweets",
-      "content": "<p>After Muizzu, Nepal PM Balen Shah held no meeting with Sergio Gor, Trump's South &amp; Central Asian envoy.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Amid West Asia War, Maldives Prez Muizzu cancelled meeting with US envoy Gor last month<br />\n<br />\n<a href=\"https://www.wionews.com/world/amid-west-asia-war-maldives-cancelled-meeting-with-us-envoy-gor-last-month-1776529191235\">wionews.com/world/amid-west-\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2050690637339500544%2F-YY1yS08%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2045556267415159001#m\">https://nitter.net/sidhant/status/2045556267415159001#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "Exposing Pakistan's state sponsored propaganda after defeat in Operation Sindoor. \nYou can Watch us on YouTube \ud83d\udc47\ud83c\udffb\nhttps://youtube.com/shorts/P4NpG6ORpUM?si=X5FJcwIi2lDf6s7V",
@@ -1957,16 +1958,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "BREAKING: IED Blast Injures 3 DRG Jawans in Chhattisgarh\n\nThree personnel of the District Reserve Guard (DRG) were injured during a demining operation after an IED planted by Naxalites exploded in Kanker district.\n\nThe blast occurred in a forest area under Chhotebethiya police station, near the Narayanpur border, while teams were searching for and neutralising old explosives.\n\nThis is the first such incident since the state was declared free of armed Maoists on March 31.",
-      "link": "https://nitter.net/NetramDefence/status/2050499525597593760#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-02T14:25:57+05:30",
-      "time": "02 May, 02:25 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: IED Blast Injures 3 DRG Jawans in Chhattisgarh<br />\n<br />\nThree personnel of the District Reserve Guard (DRG) were injured during a demining operation after an IED planted by Naxalites exploded in Kanker district.<br />\n<br />\nThe blast occurred in a forest area under Chhotebethiya police station, near the Narayanpur border, while teams were searching for and neutralising old explosives.<br />\n<br />\nThis is the first such incident since the state was declared free of armed Maoists on March 31.</p>\n<img src=\"https://nitter.net/pic/media%2FHHTWb8OaoAAL7t2.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "IED blast during demining operation injures 3 DRG jawans in Chhattisgarh",
       "link": "https://nitter.net/Goreunit/status/2050496389843697936#m",
       "source": "War & Gore",
@@ -2107,16 +2098,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @OsintTV: @TheDailyCPEC @CPEC_Official  Is this true? Why immediately after @PresOfPakistan visit to China, the factories are closing down in Pakistan. The Sadar-e-Riyasat's visit has been termed as highly successful. Please clarify.",
-      "link": "https://nitter.net/Halat_i_Watan/status/2050443546407452993#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T10:43:31+05:30",
-      "time": "02 May, 10:43 AM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/TheDailyCPEC\" title=\"The Daily CPEC\">@TheDailyCPEC</a> <a href=\"https://nitter.net/CPEC_Official\" title=\"CPEC Official\">@CPEC_Official</a>  Is this true? Why immediately after <a href=\"https://nitter.net/PresOfPakistan\" title=\"The President of Pakistan\">@PresOfPakistan</a> visit to China, the factories are closing down in Pakistan. The Sadar-e-Riyasat's visit has been termed as highly successful. Please clarify.</p>\n<img src=\"https://nitter.net/pic/media%2FHHSjiRNaYAAZzSW.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHSjiU_aEAA0e8s.jpg\" />",
-      "author": "@Halat_i_Watan"
-    },
-    {
       "title": "& Osman Bin Laden was killed on this day inside the epicenter of terrorism \ud83c\uddf5\ud83c\uddf0.",
       "link": "https://nitter.net/Goreunit/status/2050429488438358275#m",
       "source": "War & Gore",
@@ -2125,16 +2106,6 @@
       "type": "tweets",
       "content": "<p>&amp; Osman Bin Laden was killed on this day inside the epicenter of terrorism \ud83c\uddf5\ud83c\uddf0.</p>\n<hr />\n<blockquote>\n<b>Sohaib Athar (@ReallyVirtual)</b>\n<p>\n<p>Helicopter hovering above Abbottabad at 1AM (is a rare event).</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ReallyVirtual/status/64780730286358528#m\">https://nitter.net/ReallyVirtual/status/64780730286358528#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "May 2, 2011. \n\nThe tweet that added another golden feather \ud83e\udeb6 to Pakistan\u2019s cap. \n\nOsama bin Laden....",
-      "link": "https://nitter.net/OsintTV/status/2050428849343627451#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T09:45:07+05:30",
-      "time": "02 May, 09:45 AM",
-      "type": "tweets",
-      "content": "<p>May 2, 2011. <br />\n<br />\nThe tweet that added another golden feather \ud83e\udeb6 to Pakistan\u2019s cap. <br />\n<br />\nOsama bin Laden....</p>\n<hr />\n<blockquote>\n<b>Sohaib Athar (@ReallyVirtual)</b>\n<p>\n<p>Helicopter hovering above Abbottabad at 1AM (is a rare event).</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ReallyVirtual/status/64780730286358528#m\">https://nitter.net/ReallyVirtual/status/64780730286358528#m</a>\n</footer>\n</blockquote>",
-      "author": "@OsintTV"
     },
     {
       "title": "India known for IT, Pakistan for international terrorism, says defence minister Rajnath Singh",
@@ -2277,16 +2248,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @OsintTV: \ud83d\ude05 Imagine if OSINT community existed in 2011, that Abbottabad \u201chelicopter at 1:28 AM\u201d tweet wouldn\u2019t stay a mystery for more than 10 minutes.\n\n@OsintTV >@Goreunit @elitepredatorss",
-      "link": "https://nitter.net/shivank_8mishra/status/2050292843038863540#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T00:44:41+05:30",
-      "time": "02 May, 12:44 AM",
-      "type": "tweets",
-      "content": "<p>\ud83d\ude05 Imagine if OSINT community existed in 2011, that Abbottabad \u201chelicopter at 1:28 AM\u201d tweet wouldn\u2019t stay a mystery for more than 10 minutes.<br />\n<br />\n<a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a> <a href=\"https://nitter.net/Goreunit\" title=\"War &amp; Gore\">@Goreunit</a> <a href=\"https://nitter.net/elitepredatorss\" title=\"Elite Predators\">@elitepredatorss</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHQaeK6bgAAtQvr.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHQaeK7bYAA0wRV.jpg\" />",
-      "author": "@shivank_8mishra"
-    },
-    {
       "title": "An explosion in Zanjan, Iran has killed 14 IRGC personnel; the cause remains unknown.",
       "link": "https://nitter.net/WarMonitorINTL/status/2050280206120997264#m",
       "source": "War Monitor",
@@ -2305,36 +2266,6 @@
       "type": "tweets",
       "content": "<p>Pakistan argues at PCA<br />\n<br />\nPakistan flagged multiple Indian hydro projects in Jammu and Kashmir, claiming they affect its water security. India has rejected the entire arbitration process.</p>\n<img src=\"https://nitter.net/pic/media%2FHHQI1nQawAAngSM.jpg\" />",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "RT by @Goreunit: Join us for an open space to discuss this.\n\nNo agenda. No rhetoric.  \nJust numbers, data, and grounded analysis on platforms, capabilities, and strategy.",
-      "link": "https://nitter.net/alpha_defense/status/2050247882629128460#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-01T21:46:01+05:30",
-      "time": "01 May, 09:46 PM",
-      "type": "tweets",
-      "content": "<p>Join us for an open space to discuss this.<br />\n<br />\nNo agenda. No rhetoric.  <br />\nJust numbers, data, and grounded analysis on platforms, capabilities, and strategy.</p>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "Government sources to AajTak:-\nPetrol and diesel prices may increase.",
-      "link": "https://nitter.net/Goreunit/status/2050244319970504981#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-01T21:31:52+05:30",
-      "time": "01 May, 09:31 PM",
-      "type": "tweets",
-      "content": "<p>Government sources to AajTak:-<br />\nPetrol and diesel prices may increase.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Assam's CM says 'illegal' Bangladeshi immigrants are pushed back into Bangladesh at night. Bangladesh Foreign Ministry summoned India's acting envoy over these remarks.",
-      "link": "https://nitter.net/OsintTV/status/2050242546547175601#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-01T21:24:49+05:30",
-      "time": "01 May, 09:24 PM",
-      "type": "tweets",
-      "content": "<p>Assam's CM says 'illegal' Bangladeshi immigrants are pushed back into Bangladesh at night. Bangladesh Foreign Ministry summoned India's acting envoy over these remarks.</p>\n<a href=\"https://nitter.net/OsintTV/status/2050242546547175601#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050242201930563584%2Fimg%2FI5crHw6aeWgax0Mc.jpg\" />\n</a>",
-      "author": "@OsintTV"
     }
   ],
   "youtube": [
@@ -2409,18 +2340,9 @@
       "time": "01 May, 11:37 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/-RlB5aBgZCA/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - India Hypersonic Missile Test, India New Laser System, Unknown Gunmen In Action",
-      "link": "https://www.youtube.com/watch?v=DvFCUqIUMHc",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-01T21:37:26+05:30",
-      "time": "01 May, 09:37 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/DvFCUqIUMHc/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
