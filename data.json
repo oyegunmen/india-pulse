@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Oil slips after Trump says US will assist ships stranded in Strait of Hormuz",
+      "link": "https://indianexpress.com/article/world/oil-slips-after-trump-says-us-will-assist-ships-stranded-in-strait-of-hormuz-10671575/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-04T11:57:28+05:30",
+      "time": "04 May, 11:57 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Rajnath Singh: Operation Sindoor showed world Indian military's capabilities",
+      "link": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-operation-sindoor-showed-world-indian-militarys-capabilities/articleshow/130757098.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-04T11:17:29+05:30",
+      "time": "04 May, 11:17 AM",
+      "type": "news",
+      "description": "Defence Minister Rajnath Singh hailed Operation Sindoor as a unique example of the Indian military's technological prowess in striking terror groups a..."
+    },
+    {
+      "title": "Iran warns of ceasefire violation as U.S. plans to escort Hormuz ships",
+      "link": "https://www.thehindu.com/news/international/iran-warns-of-ceasefire-violation-as-us-plans-to-escort-hormuz-ships/article70937369.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-04T11:15:43+05:30",
+      "time": "04 May, 11:15 AM",
+      "type": "news",
+      "description": "Any American interference in the new maritime regime of the Strait of Hormuz will be considered a violation of the ceasefire, says Iranian parliament'..."
+    },
+    {
       "title": "Shooting at lake near Oklahoma City in U.S. injures at least 10",
       "link": "https://www.thehindu.com/news/international/shooting-at-lake-near-oklahoma-city-in-us-injures-at-least-10/article70937401.ece",
       "source": "The Hindu",
@@ -8,15 +35,6 @@
       "time": "04 May, 10:54 AM",
       "type": "news",
       "description": "Edmond, Oklahoma police spokesperson Emily Ward said authorities received multiple reports of shots being fired at a gathering of young people near Ar..."
-    },
-    {
-      "title": "Iran warns of ceasefire violation as U.S. plans to escort Hormuz ships",
-      "link": "https://www.thehindu.com/news/international/iran-warns-of-ceasefire-violation-as-us-plans-to-escort-hormuz-ships/article70937369.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-04T10:44:23+05:30",
-      "time": "04 May, 10:44 AM",
-      "type": "news",
-      "description": "Any American interference in the new maritime regime of the Strait of Hormuz will be considered a violation of the ceasefire, says Iranian parliament'..."
     },
     {
       "title": "India rejects Nepal\u2019s objection to Kailash Mansarovar Yatra through Lipulekh pass, calls it unjustified",
@@ -134,15 +152,6 @@
       "time": "03 May, 10:03 PM",
       "type": "news",
       "description": "Russia fired 268 drones and one ballistic missile in the overnight attack as Ukraine\u2019s army launched at least 334 drones"
-    },
-    {
-      "title": "China remains top jailer of journalists; ranks 178th in press freedom index",
-      "link": "https://www.newsonair.gov.in/china-remains-top-jailer-of-journalists-ranks-178th-in-press-freedom-index/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-03T21:59:24+05:30",
-      "time": "03 May, 09:59 PM",
-      "type": "news",
-      "description": "China remains the world&#8217;s largest prison for journalists, and its regime conducted a campaign of repression against journalism and the right to ..."
     },
     {
       "title": "Edge-Of-Seat Wait For Results Across 5 States",
@@ -395,6 +404,15 @@
       "time": "03 May, 02:24 PM",
       "type": "news",
       "description": "In Sudan, five people were killed in a drone attack that hit a civilian vehicle on the outskirts of Khartoum. The attack was carried out by the countr..."
+    },
+    {
+      "title": "Philippines to deploy aircraft, ships to push back Chinese research vessels",
+      "link": "https://www.newsonair.gov.in/philippines-to-deploy-aircraft-ships-to-push-back-chinese-research-vessels/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-03T14:21:40+05:30",
+      "time": "03 May, 02:21 PM",
+      "type": "news",
+      "description": "The Philippine Coast Guard (PCG) has announced that it will deploy aircraft and vessels to challenge and drive away four Chinese research vessels dete..."
     },
     {
       "title": "Iran executes man convicted over killing of security officer in 2022 unrest",
@@ -908,72 +926,69 @@
       "time": "02 May, 12:55 PM",
       "type": "news",
       "description": "I\u200cranian  media said Karimpour passed sensitive information to a Mossad officer, while \u200cBakarzadeh was accused \u200bof collecting details on government an..."
-    },
-    {
-      "title": "Spirit Airlines says it\u2019s going out of business after 34 years and is ending operations",
-      "link": "https://www.thehindu.com/business/Industry/spirit-airlines-appears-closer-to-shutdown-as-time-dwindles-for-government-bailout/article70930780.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T12:11:32+05:30",
-      "time": "02 May, 12:11 PM",
-      "type": "news",
-      "description": "The U.S. President floated the idea of a bailout last week after the airline found itself in bankruptcy proceedings for the second time in less than t..."
-    },
-    {
-      "title": "\u2018We are like pirates\u2019: Donald Trump defends seizure of oil tanker amid claimed Iran blockade",
-      "link": "https://indianexpress.com/article/world/us-news/donald-trump-defends-seizure-of-oil-tanker-amid-claimed-iran-blockade-10667110/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-02T11:58:24+05:30",
-      "time": "02 May, 11:58 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Maj Gen Vivek Tyagi, ADG NCC Maharashtra, calls on Mr. Nitin Gadkari during Nagpur visit",
-      "link": "https://www.indiastrategic.in/maj-gen-vivek-tyagi-adg-ncc-maharashtra-calls-on-mr-nitin-gadkari-during-nagpur-visit/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-02T11:49:10+05:30",
-      "time": "02 May, 11:49 AM",
-      "type": "news",
-      "description": "<p>Nagpur. On his review-cum-inspection visit to Nagpur on May 1, 2026, Maj Gen Vivek Tyagi, Additional Director General, NCC Maharashtra Directorate,..."
-    },
-    {
-      "title": "Artemis II astronauts underscore our shared humanity, in historic UN Visit",
-      "link": "https://www.indiastrategic.in/artemis-ii-astronauts-underscore-our-shared-humanity-in-historic-un-visit/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-02T11:42:11+05:30",
-      "time": "02 May, 11:42 AM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar New York, May 1, 2026. A month after completing their historic flyby of the Moon, the astronauts from NASA\u2019s Artemis II mission lan..."
-    },
-    {
-      "title": "Legal limits on U.S. war involvement",
-      "link": "https://www.thehindu.com/news/international/legal-limits-on-us-war-involvement/article70913674.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T11:36:37+05:30",
-      "time": "02 May, 11:36 AM",
-      "type": "news",
-      "description": "The War Powers Act requires the President to seek authorisation from Congress for the continued use of military force abroad beyond 60 days of such in..."
-    },
-    {
-      "title": "U.S. official says Iran war truce \u2018terminated\u2019 hostilities for war powers deadline",
-      "link": "https://www.thehindu.com/news/international/us-official-says-iran-war-truce-terminated-hostilities-for-war-powers-deadline/article70927374.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T11:34:30+05:30",
-      "time": "02 May, 11:34 AM",
-      "type": "news",
-      "description": "There \u2060has been no exchange of fire between the \u2060U.S. armed forces and Iran since a fragile ceasefire began more than three weeks ago"
-    },
-    {
-      "title": "Israeli police arrest man suspected of attacking nun near Jerusalem\u2019s Old City",
-      "link": "https://www.thehindu.com/news/international/israeli-police-arrest-man-suspected-of-attacking-nun-near-jerusalems-old-city/article70930883.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T11:31:21+05:30",
-      "time": "02 May, 11:31 AM",
-      "type": "news",
-      "description": "Police said the 36-year-old man was arrested after the attack \u201con suspicion of a racially motivated attack\u201d and remained in custody"
     }
   ],
   "tweets": [
+    {
+      "title": "WB:- According to ECI\nBJP leading in 170 seats\nTMC leading in 90 seats",
+      "link": "https://nitter.net/Goreunit/status/2051191303631995250#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-04T12:14:50+05:30",
+      "time": "04 May, 12:14 PM",
+      "type": "tweets",
+      "content": "<p>WB:- According to ECI<br />\nBJP leading in 170 seats<br />\nTMC leading in 90 seats</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>BJP crosses the MAJORITY mark in West Bengal in early trends. (Dainik Bhaskar)</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2051162645777264960#m\">https://nitter.net/Goreunit/status/2051162645777264960#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "\ud83d\ude0a",
+      "link": "https://nitter.net/WarMonitorINTL/status/2051186799851253960#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-04T11:56:56+05:30",
+      "time": "04 May, 11:56 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\ude0a</p>\n<img src=\"https://nitter.net/pic/media%2FHHdHRqbaEAAFYB7.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "We can expect movement around the Indo-Bangladesh border if the BJP wins the West Bengal elections.\n\nWe can also expect violence to assert area domination by the communities that will feel threatened by the change in the political situation.",
+      "link": "https://nitter.net/elitepredatorss/status/2051185870943010956#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-04T11:53:15+05:30",
+      "time": "04 May, 11:53 AM",
+      "type": "tweets",
+      "content": "<p>We can expect movement around the Indo-Bangladesh border if the BJP wins the West Bengal elections.<br />\n<br />\nWe can also expect violence to assert area domination by the communities that will feel threatened by the change in the political situation.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Ratna Debnath, whose daughter was the victim in the tragic RG Kar r\u00e0pe and m\u016brder case, is leading the Panihati seat on a BJP ticket.",
+      "link": "https://nitter.net/Goreunit/status/2051184707333955785#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-04T11:48:38+05:30",
+      "time": "04 May, 11:48 AM",
+      "type": "tweets",
+      "content": "<p>Ratna Debnath, whose daughter was the victim in the tragic RG Kar r\u00e0pe and m\u016brder case, is leading the Panihati seat on a BJP ticket.</p>\n<img src=\"https://nitter.net/pic/media%2FHHdFnc2bwAAX49L.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Who will be the next CM of West Bengal?",
+      "link": "https://nitter.net/WarMonitorINTL/status/2051184183696113822#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-04T11:46:33+05:30",
+      "time": "04 May, 11:46 AM",
+      "type": "tweets",
+      "content": "<p>Who will be the next CM of West Bengal?</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "A Ukrainian drone has hit a skyscraper just 6 km away from the Kremlin.",
+      "link": "https://nitter.net/elitepredatorss/status/2051182745687400761#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-04T11:40:50+05:30",
+      "time": "04 May, 11:40 AM",
+      "type": "tweets",
+      "content": "<p>A Ukrainian drone has hit a skyscraper just 6 km away from the Kremlin.</p>",
+      "author": "@elitepredatorss"
+    },
     {
       "title": "RT by @OsintTV: Both, terrorists and Paki Generals are terror exporters and proxies and make money after killing unarmed civilians. They should be on same page, banner...even if it is of vest.",
       "link": "https://nitter.net/LtGenDPPandey/status/2051177802234462654#m",
@@ -1263,26 +1278,6 @@
       "type": "tweets",
       "content": "<p>Only in Pakistan are terrorists and army generals treated as the same.<br />\n<br />\nThe Baniyan Chaddi celebration poster attributed to Lashkar-e-Taiba shows top Pak army generals alongside Pahalgam mastermind Saifullah Kasuri, infamous Abdur Rauf, and Khalid Masood Sindhu.<br />\n<br />\nLocation : Sahiwal, punjab Pakistan <br />\n<br />\nPic <a href=\"https://nitter.net/MikeLimaBravo12\" title=\"Mike Lima\">@MikeLimaBravo12</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHcdynvW0AA2GkS.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Deadliest combo\n\nPorki+ AI",
-      "link": "https://nitter.net/Goreunit/status/2051155975563051083#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-04T09:54:27+05:30",
-      "time": "04 May, 09:54 AM",
-      "type": "tweets",
-      "content": "<p>Deadliest combo<br />\n<br />\nPorki+ AI</p>\n<img src=\"https://nitter.net/pic/media%2FHHcrfFdaIAAaPXY.jpg\" />\n\n<hr />\n<blockquote>\n<b>Strategic Vanguard \u2694\ufe0f (@StrategicVang)</b>\n<p>\n<p>\ud83d\udea8 World Shortest Landing in Aviation History \ud83e\udd23\ud83e\udd23\ud83c\uddee\ud83c\uddf3<br />\nBy making such Landings, they \ud83c\uddee\ud83c\uddf3 Shoot Down 6 out of 10 of their Planes in a Month. \ud83d\ude02\ud83d\ude07</p>\n<a href=\"https://nitter.net/StrategicVang/status/2050867228321702331#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050865129252950016%2Fimg%2FHXIgMi0RfJenXGGh.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/StrategicVang/status/2050867228321702331#m\">https://nitter.net/StrategicVang/status/2050867228321702331#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Forged in the Sands.",
-      "link": "https://nitter.net/Goreunit/status/2051154643808575805#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-04T09:49:10+05:30",
-      "time": "04 May, 09:49 AM",
-      "type": "tweets",
-      "content": "<p>Forged in the Sands.</p>\n<a href=\"https://nitter.net/Goreunit/status/2051154643808575805#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051154407958650880%2Fimg%2FVIg2FvDd2cqyF36I.jpg\" />\n</a>",
-      "author": "@Goreunit"
     },
     {
       "title": "Keep your eyes on Chenab's water level as the de-silting and reservoir refilling at  Baglihar Dam have initiated. \n\nExpect loud crying in couple of days to come from across the border.",
@@ -2013,59 +2008,10 @@
       "type": "tweets",
       "content": "<p>Troops of the Indian Army neutralised a suspected explosive device during a routine patrol in Manipur\u2019s Churachandpur on April 30.<br />\n<br />\nThe Red Shield Division swiftly mobilised a Bomb Disposal Team to the location.<br />\n<br />\nPresence of explosives was confirmed by an Explosive Detector Dog.</p>\n<img src=\"https://nitter.net/pic/media%2FHHTnxiOXcAAt1iq.jpg\" />",
       "author": "@MN_Unfiltered"
-    },
-    {
-      "title": "Mock drills \u2705 \nAlert testing \u2705\nNext.....?",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050475220788707838#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-02T12:49:23+05:30",
-      "time": "02 May, 12:49 PM",
-      "type": "tweets",
-      "content": "<p>Mock drills \u2705 <br />\nAlert testing \u2705<br />\nNext.....?</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "The Indian government sent a test alert to all mobile phones, with a loud alarm and a voice message.\n\ndid anyone else receive it?",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050470157798297742#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-02T12:29:16+05:30",
-      "time": "02 May, 12:29 PM",
-      "type": "tweets",
-      "content": "<p>The Indian government sent a test alert to all mobile phones, with a loud alarm and a voice message.<br />\n<br />\ndid anyone else receive it?</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "\u26a0\ufe0f\ud83d\udea8",
-      "link": "https://nitter.net/elitepredatorss/status/2050463355450888306#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-02T12:02:14+05:30",
-      "time": "02 May, 12:02 PM",
-      "type": "tweets",
-      "content": "<p>\u26a0\ufe0f\ud83d\udea8</p>\n<video loop=\"loop\" poster=\"https://nitter.net/pic/tweet_video_thumb%2FHHS1jRrbgAAZhQO.jpg\">\n  <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHHS1jRrbgAAZhQO.mp4\" type=\"video/mp4\" /></video>",
-      "author": "@elitepredatorss"
     }
   ],
-  "youtube": [
-    {
-      "title": "LCA Tejas Mk2 - 2nd Prototype",
-      "link": "https://www.youtube.com/watch?v=i0GtfJufCRg",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-05-02T20:47:49+05:30",
-      "time": "02 May, 08:47 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/i0GtfJufCRg/mqdefault.jpg"
-    },
-    {
-      "title": "Hypersonic Missile Test Successful",
-      "link": "https://www.youtube.com/watch?v=F0UX_zv6NUE",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-05-02T14:57:20+05:30",
-      "time": "02 May, 02:57 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/F0UX_zv6NUE/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
