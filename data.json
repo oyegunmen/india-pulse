@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Shooting at lake near Oklahoma City in U.S. injures at least 10",
+      "link": "https://www.thehindu.com/news/international/shooting-at-lake-near-oklahoma-city-in-us-injures-at-least-10/article70937401.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-04T10:54:25+05:30",
+      "time": "04 May, 10:54 AM",
+      "type": "news",
+      "description": "Edmond, Oklahoma police spokesperson Emily Ward said authorities received multiple reports of shots being fired at a gathering of young people near Ar..."
+    },
+    {
+      "title": "Iran warns of ceasefire violation as U.S. plans to escort Hormuz ships",
+      "link": "https://www.thehindu.com/news/international/iran-warns-of-ceasefire-violation-as-us-plans-to-escort-hormuz-ships/article70937369.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-04T10:44:23+05:30",
+      "time": "04 May, 10:44 AM",
+      "type": "news",
+      "description": "Any American interference in the new maritime regime of the Strait of Hormuz will be considered a violation of the ceasefire, says Iranian parliament'..."
+    },
+    {
       "title": "India rejects Nepal\u2019s objection to Kailash Mansarovar Yatra through Lipulekh pass, calls it unjustified",
       "link": "https://www.newsonair.gov.in/india-rejects-nepals-objection-to-kailash-mansarovar-yatra-through-lipulekh-pass-calls-it-unjustified/",
       "source": "All India Radio",
@@ -8,6 +26,15 @@
       "time": "04 May, 08:11 AM",
       "type": "news",
       "description": "India has rejected Nepal&#8217;s claim over Lipulekh Pass, termed it as a long-standing route for the Kailash Manasarovar Yatra since 1954 and the Yat..."
+    },
+    {
+      "title": "Trump announces \u2018Project Freedom\u2019 to help stranded ships leave Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/trump-announces-project-freedom-to-help-stranded-ships-leave-strait-of-hormuz/article70936417.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-04T08:07:28+05:30",
+      "time": "04 May, 08:07 AM",
+      "type": "news",
+      "description": "\u201cProject Freedom\u201d would begin on Monday (May 4, 2026) morning in West Asia, Mr. Trump said, adding that his representatives are having discussions wit..."
     },
     {
       "title": "Tanker hit by 'unknown projectiles' off UAE coast: U.K. maritime agency",
@@ -35,15 +62,6 @@
       "time": "04 May, 06:09 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Trump announces \u2018Project Freedom\u2019 to help stranded ships leave Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/trump-announces-project-freedom-to-help-stranded-ships-leave-strait-of-hormuz/article70936417.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-04T04:27:17+05:30",
-      "time": "04 May, 04:27 AM",
-      "type": "news",
-      "description": "\u201cProject Freedom\u201d would begin on Monday (May 4, 2026) morning in West Asia, Mr. Trump said, adding that his representatives are having discussions wit..."
     },
     {
       "title": "Ukrainian drones hit Russia's Primorsk port, oil tankers and military ships",
@@ -442,7 +460,7 @@
       "description": ""
     },
     {
-      "title": "Iran-US War Ceasefire Live Updates | US to start escorting stranded ship through Hormuz as positive discussions continue",
+      "title": "Iran-US War Ceasefire Live Updates | Pakistan foreign minister discusses regional situation on call with Iran\u2019s Araqchi",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310/",
       "source": "The Indian Express",
       "sort_key": "2026-05-03T09:58:42+05:30",
@@ -953,81 +971,149 @@
       "time": "02 May, 11:31 AM",
       "type": "news",
       "description": "Police said the 36-year-old man was arrested after the attack \u201con suspicion of a racially motivated attack\u201d and remained in custody"
-    },
-    {
-      "title": "Nuclear Deterrence, AI in Warfare Deepen Global Risk",
-      "link": "https://www.indiastrategic.in/nuclear-deterrence-ai-in-warfare-deepen-global-risk/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-02T11:12:30+05:30",
-      "time": "02 May, 11:12 AM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar New York, May 1, 2026. Permanent Observer Mission of the Holy See to the United Nations has expressed concern over a renewed normal..."
-    },
-    {
-      "title": "Trump says U.S. Navy acting \u2018like pirates\u2019 to carry out naval blockade of Iranian ports",
-      "link": "https://www.thehindu.com/news/international/trump-says-us-navy-acting-like-pirates-to-carry-out-naval-blockade-of-iranian-ports/article70930689.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T11:07:32+05:30",
-      "time": "02 May, 11:07 AM",
-      "type": "news",
-      "description": "Trump made the comments \u2060while describing the seizure by U.S. forces of a ship a few days ago"
-    },
-    {
-      "title": "India to hold International Day of Yoga event at UN on June 18",
-      "link": "https://www.indiastrategic.in/india-to-hold-international-day-of-yoga-event-at-un-on-june-18/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-02T11:06:21+05:30",
-      "time": "02 May, 11:06 AM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar New York, May 1, 2026. The Permanent Mission of India to the United Nations on Friday announced that the 2026 celebration of the In..."
-    },
-    {
-      "title": "Trump says he won\u2019t end Iran war \u2018early\u2019 without achieving US objectives: \u2018Naval blockade more effective than bombing\u2019",
-      "link": "https://indianexpress.com/article/world/trump-iran-war-update-blockade-strait-of-hormuz-war-deadline-pete-hegseth-10667039/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-02T10:55:41+05:30",
-      "time": "02 May, 10:55 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "U.S. to close its flagship Gaza mission as Donald Trump plan stalls",
-      "link": "https://www.thehindu.com/news/international/us-to-close-its-flagship-gaza-mission-as-donald-trump-plan-stalls/article70930743.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T10:51:10+05:30",
-      "time": "02 May, 10:51 AM",
-      "type": "news",
-      "description": "The closing of the Civil-Military Coordination Centre in Israel would mark the latest blow to President Donald Trump\u2019s Gaza plan"
-    },
-    {
-      "title": "US bases in Gulf become Achilles heel as Iran inflicts 'unprecedented damage': Report",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-bases-in-gulf-become-achilles-heel-as-iran-inflicts-unprecedented-damage-report/articleshow/130710541.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-02T10:45:53+05:30",
-      "time": "02 May, 10:45 AM",
-      "type": "news",
-      "description": "Iran has caused significant damage to American military bases across the Gulf.  Reports reveal extensive destruction at facilities in Kuwait and Qatar..."
-    },
-    {
-      "title": "U.S. sanctions are \u2018collective punishment\u2019, says Cuba during May 1 marches",
-      "link": "https://www.thehindu.com/news/international/us-sanctions-are-collective-punishment-says-cuba-during-may-1-marches/article70930842.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T10:44:39+05:30",
-      "time": "02 May, 10:44 AM",
-      "type": "news",
-      "description": "U.S. President Donald Trump has mused about taking over Cuba, which lies 145 kilometers from Florida and has been under a nearly continuous U.S. trade..."
-    },
-    {
-      "title": "Israel Lebanon war: How Hezbollah\u2019s $4,000 fibre-optic drones are challenging the superior Israeli military",
-      "link": "https://economictimes.indiatimes.com/news/defence/israel-lebanon-war-how-hezbollahs-4000-fibre-optic-drones-are-challenging-the-superior-israeli-military/articleshow/130710126.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-02T10:23:17+05:30",
-      "time": "02 May, 10:23 AM",
-      "type": "news",
-      "description": "Hezbollah is using inexpensive fibre-optic drones against Israeli forces in southern Lebanon. These drones are difficult to detect and counter. The Is..."
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @OsintTV: Both, terrorists and Paki Generals are terror exporters and proxies and make money after killing unarmed civilians. They should be on same page, banner...even if it is of vest.",
+      "link": "https://nitter.net/LtGenDPPandey/status/2051177802234462654#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-04T11:21:11+05:30",
+      "time": "04 May, 11:21 AM",
+      "type": "tweets",
+      "content": "<p>Both, terrorists and Paki Generals are terror exporters and proxies and make money after killing unarmed civilians. They should be on same page, banner...even if it is of vest.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>Only in Pakistan are terrorists and army generals treated as the same.<br />\n<br />\nThe Baniyan Chaddi celebration poster attributed to Lashkar-e-Taiba shows top Pak army generals alongside Pahalgam mastermind Saifullah Kasuri, infamous Abdur Rauf, and Khalid Masood Sindhu.<br />\n<br />\nLocation : Sahiwal, punjab Pakistan <br />\n<br />\nPic <a href=\"https://nitter.net/MikeLimaBravo12\" title=\"Mike Lima\">@MikeLimaBravo12</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHcdynvW0AA2GkS.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2051157371460653227#m\">https://nitter.net/OsintTV/status/2051157371460653227#m</a>\n</footer>\n</blockquote>",
+      "author": "@LtGenDPPandey"
+    },
+    {
+      "title": "Lumber One Country with Lumber one army for a reason !",
+      "link": "https://nitter.net/Goreunit/status/2051177062258688394#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-04T11:18:15+05:30",
+      "time": "04 May, 11:18 AM",
+      "type": "tweets",
+      "content": "<p>Lumber One Country with Lumber one army for a reason !</p>\n<hr />\n<blockquote>\n<b>` (@McgMadMan)</b>\n<p>\n<p>Nahh man in the Era of 5g they are throwing empty Keypad phone boxes at crowd in PSL and calling it a  \" Lucky giveaway \"\ud83d\ude2d\ud83d\ude2d</p>\n<a href=\"https://nitter.net/McgMadMan/status/2051002638788100118#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051002497192652801%2Fimg%2FRmNhqb6AiocKQ--3.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/McgMadMan/status/2051002638788100118#m\">https://nitter.net/McgMadMan/status/2051002638788100118#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "'We are forming our own govt': TVK dismisses alliance talk",
+      "link": "https://nitter.net/WarMonitorINTL/status/2051176699006697879#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-04T11:16:48+05:30",
+      "time": "04 May, 11:16 AM",
+      "type": "tweets",
+      "content": "<p>'We are forming our own govt': TVK dismisses alliance talk</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "\ud83d\udccdNote: Both PAFF/LeT terrorist Asadullah Waleed and JeM terrorist Maulana Salman Azhar were killed in mysterious road accidents.\n\n\u2022 LeT operative Asadullah Waleed was killed in a road accident in Kot Radha Kishan on 12-12-2025.\n\n\u2022 JeM operative Maulana Salman Azhar was killed in a road accident in Bahawalpur on 28-04-2026.\n\nHmmmmmm..... \ud83e\udd14",
+      "link": "https://nitter.net/OsintTV/status/2051175740537000356#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-04T11:13:00+05:30",
+      "time": "04 May, 11:13 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udccdNote: Both PAFF/LeT terrorist Asadullah Waleed and JeM terrorist Maulana Salman Azhar were killed in mysterious road accidents.<br />\n<br />\n\u2022 LeT operative Asadullah Waleed was killed in a road accident in Kot Radha Kishan on 12-12-2025.<br />\n<br />\n\u2022 JeM operative Maulana Salman Azhar was killed in a road accident in Bahawalpur on 28-04-2026.<br />\n<br />\nHmmmmmm..... \ud83e\udd14</p>\n<img src=\"https://nitter.net/pic/media%2FHHcisFqXgAAP1BA.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "If you find anyone worshiping a celebrity, you need to run away from that specific person. It is the biggest sign of being Mentally retard.",
+      "link": "https://nitter.net/Goreunit/status/2051174016166322433#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-04T11:06:09+05:30",
+      "time": "04 May, 11:06 AM",
+      "type": "tweets",
+      "content": "<p>If you find anyone worshiping a celebrity, you need to run away from that specific person. It is the biggest sign of being Mentally retard.</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Tamil Nadu election results: Vijay fan slits his throat over rumours about actor's defeat</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2051173029124980838#m\">https://nitter.net/Goreunit/status/2051173029124980838#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "BREAKING: Six people have been detained in Bareilly after raising pro-Pakistan slogans in a busy market, triggering panic and partial shop shutdowns. FIR has been filed against 40+ individuals,\nmain accused is identified as Kashif, linked to Ittehad-e-Millat Council.\n\nIncident follows past tensions in the city tied to earlier clashes\nPolice are conducting raids to track down other suspects as the situation is brought under control.",
+      "link": "https://nitter.net/NetramDefence/status/2051173505262379154#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-04T11:04:07+05:30",
+      "time": "04 May, 11:04 AM",
+      "type": "tweets",
+      "content": "<p>BREAKING: Six people have been detained in Bareilly after raising pro-Pakistan slogans in a busy market, triggering panic and partial shop shutdowns. FIR has been filed against 40+ individuals,<br />\nmain accused is identified as Kashif, linked to Ittehad-e-Millat Council.<br />\n<br />\nIncident follows past tensions in the city tied to earlier clashes<br />\nPolice are conducting raids to track down other suspects as the situation is brought under control.</p>\n<img src=\"https://nitter.net/pic/media%2FHHc7XdjbIAEWBHc.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Tamil Nadu election results: Vijay fan slits his throat over rumours about actor's defeat",
+      "link": "https://nitter.net/Goreunit/status/2051173029124980838#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-04T11:02:13+05:30",
+      "time": "04 May, 11:02 AM",
+      "type": "tweets",
+      "content": "<p>Tamil Nadu election results: Vijay fan slits his throat over rumours about actor's defeat</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Bangladesh is closely monitoring the election results of West Bengal.",
+      "link": "https://nitter.net/Goreunit/status/2051170713953046638#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-04T10:53:01+05:30",
+      "time": "04 May, 10:53 AM",
+      "type": "tweets",
+      "content": "<p>Bangladesh is closely monitoring the election results of West Bengal.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "ISPR: Paijaan, hum jung jeet gaye... \ud83e\udd23\n\nIt clearly shows they will go to any extent to fool their awaam....",
+      "link": "https://nitter.net/OsintTV/status/2051169504349102461#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-04T10:48:13+05:30",
+      "time": "04 May, 10:48 AM",
+      "type": "tweets",
+      "content": "<p>ISPR: Paijaan, hum jung jeet gaye... \ud83e\udd23<br />\n<br />\nIt clearly shows they will go to any extent to fool their awaam....</p>\n<img src=\"https://nitter.net/pic/media%2FHHc3A3PWwAAnUmv.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Out of curiosity, I tried to find out why each channel has different figures for who is leading and trailing.\n\nGot the answer that each channel has their own data gathering sources, including official data sources and their on-ground reporters.\n\nIs there any rating which conclude which channel had the most accurate data projection at the end of the counting?\n\nCredits : @JaipurDialogues",
+      "link": "https://nitter.net/elitepredatorss/status/2051169028127740221#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-04T10:46:19+05:30",
+      "time": "04 May, 10:46 AM",
+      "type": "tweets",
+      "content": "<p>Out of curiosity, I tried to find out why each channel has different figures for who is leading and trailing.<br />\n<br />\nGot the answer that each channel has their own data gathering sources, including official data sources and their on-ground reporters.<br />\n<br />\nIs there any rating which conclude which channel had the most accurate data projection at the end of the counting?<br />\n<br />\nCredits : <a href=\"https://nitter.net/JaipurDialogues\" title=\"The Jaipur Dialogues\">@JaipurDialogues</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHc2F0Ub0AAINTh.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Tamil Nadu elections, & the special focus on Vijay is the top headlines in Sri Lanka:",
+      "link": "https://nitter.net/sidhant/status/2051166755704520934#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-04T10:37:18+05:30",
+      "time": "04 May, 10:37 AM",
+      "type": "tweets",
+      "content": "<p>Tamil Nadu elections, &amp; the special focus on Vijay is the top headlines in Sri Lanka:</p>\n<img src=\"https://nitter.net/pic/media%2FHHc1SzbboAAhsbi.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>All major Bangladesh media outlets right now have BJP victory in West Bengal as top headlines</p>\n<img src=\"https://nitter.net/pic/media%2FHHc0ON2awAAmWyi.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHc0Oi1aYAA2vO9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHc0O4Ja8AAA7km.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHc0PHhbMAA94Se.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051165592200351787#m\">https://nitter.net/sidhant/status/2051165592200351787#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "All major Bangladesh media outlets right now have BJP victory in West Bengal as top headlines",
+      "link": "https://nitter.net/sidhant/status/2051165592200351787#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-04T10:32:40+05:30",
+      "time": "04 May, 10:32 AM",
+      "type": "tweets",
+      "content": "<p>All major Bangladesh media outlets right now have BJP victory in West Bengal as top headlines</p>\n<img src=\"https://nitter.net/pic/media%2FHHc0ON2awAAmWyi.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHc0Oi1aYAA2vO9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHc0O4Ja8AAA7km.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHc0PHhbMAA94Se.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Whattt..??",
+      "link": "https://nitter.net/WarMonitorINTL/status/2051165390882181260#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-04T10:31:52+05:30",
+      "time": "04 May, 10:31 AM",
+      "type": "tweets",
+      "content": "<p>Whattt..??</p>\n<img src=\"https://nitter.net/pic/media%2FHHc0C2ZaUAACuEp.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Low IQ porkis are getting cheap dopamine from their low-effort and cringe edits \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "link": "https://nitter.net/Goreunit/status/2051163094362239400#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-04T10:22:45+05:30",
+      "time": "04 May, 10:22 AM",
+      "type": "tweets",
+      "content": "<p>Low IQ porkis are getting cheap dopamine from their low-effort and cringe edits \ud83e\udd23\ud83e\udd23\ud83e\udd23</p>\n<hr />\n<blockquote>\n<b>Hamna Javed (@HamnaJaved79764)</b>\n<p>\n<p>Scene from May 2025 When the Indian Air Force first tried to scare Pakistan, then see Pakistan's reply. In just one strike, 11 targets were lit up.\ud83d\ude02</p>\n<a href=\"https://nitter.net/HamnaJaved79764/status/2050821440685957468#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050821410596229120%2Fimg%2Fw80Wvph70iUPFCSS.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/HamnaJaved79764/status/2050821440685957468#m\">https://nitter.net/HamnaJaved79764/status/2050821440685957468#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
     {
       "title": "BJP crosses the MAJORITY mark in West Bengal in early trends. (Dainik Bhaskar)",
       "link": "https://nitter.net/Goreunit/status/2051162645777264960#m",
@@ -1077,6 +1163,16 @@
       "type": "tweets",
       "content": "<p>The most interesting contest is going on in Tamil Nadu, it is very difficult to say which government will be formed.</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>BJP is leading in Puducherry too.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2051159585709547601#m\">https://nitter.net/Goreunit/status/2051159585709547601#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
+    },
+    {
+      "title": "RT by @OsintTV: In Pakistan, during Eid, students at a madrasa were divided into three militant groups, given toy guns, and trained to simulate attacks against each other.",
+      "link": "https://nitter.net/dtbyaadi/status/2051160149575033313#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-04T10:11:03+05:30",
+      "time": "04 May, 10:11 AM",
+      "type": "tweets",
+      "content": "<p>In Pakistan, during Eid, students at a madrasa were divided into three militant groups, given toy guns, and trained to simulate attacks against each other.</p>\n<a href=\"https://nitter.net/dtbyaadi/status/2051160149575033313#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051129943153901568%2Fpu%2Fimg%2F70ozvKj6U8hOy1ea.jpg\" />\n</a>",
+      "author": "@dtbyaadi"
     },
     {
       "title": "BJP is leading in Puducherry too.",
@@ -1539,16 +1635,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.\n\nNepal Foreign ministry:",
-      "link": "https://nitter.net/sidhant/status/2050950895559729597#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T20:19:32+05:30",
-      "time": "03 May, 08:19 PM",
-      "type": "tweets",
-      "content": "<p>Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.<br />\n<br />\nNepal Foreign ministry:</p>\n<img src=\"https://nitter.net/pic/media%2FHHZw-HMakAAP_BC.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Kailash Manasarovar Yatra organised by the Ministry of External Affairs in coordination with the Government of the People\u2019s Republic of China is set to take place during June to August 2026: India Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHHLRuJHWYAAWnSm.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2049931381292007442#m\">https://nitter.net/sidhant/status/2049931381292007442#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "This is not road blockage, it is cross border fuel smuggling.\n\nAlong the Iran Pakistan border, hundreds of Pakistani pickup trucks are smuggling illegal fuel into Pakistan through the porous Pir Kor border.\n\nThe Pakistan govt is not stopping it as large share of the money flows through these networks\n\nVideo @Osint613",
       "link": "https://nitter.net/OsintTV/status/2050946742674194894#m",
       "source": "Osint TV",
@@ -1569,16 +1655,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "literally Porkis Released a song based on their Operation Baniyan Chaddi \ud83d\ude02\ud83d\ude02",
-      "link": "https://nitter.net/Goreunit/status/2050943386635718878#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-03T19:49:42+05:30",
-      "time": "03 May, 07:49 PM",
-      "type": "tweets",
-      "content": "<p>literally Porkis Released a song based on their Operation Baniyan Chaddi \ud83d\ude02\ud83d\ude02</p>\n<img src=\"https://nitter.net/pic/media%2FHHZpX2fakAAq-VS.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
       "title": "RT by @OsintTV: Pakistan stands exposed. A poster attributed to Lashkar-e-Taiba lays bare the nexus between Pakistan\u2019s military leadership and designated terrorists.\n\nThe \u201cBaniyan Chaddi celebration\u201d poster linked to LeT/PMML places senior military figures, Asim Munir, Zaheer Ahmed Baber Sidhu, and Naveed Ashraf, alongside individuals associated with terror networks, including Pahalgam mastermind Saifullah Kasuri, Abdur Rauf, and PMML President Khalid Masood Sindhu.\n\nA second image reportedly shows LeT finance secretary Haris Dar present at a Sahiwal gathering tied to the same \u201cBaniyan Chaddi celebration.\u201d\n\nTaken together, these materials reinforce long-standing concerns about institutional links, patronage, and the normalization of extremist elements within Pakistan\u2019s power structure.",
       "link": "https://nitter.net/MikeLimaBravo12/status/2050940159819149392#m",
       "source": "Osint TV",
@@ -1587,16 +1663,6 @@
       "type": "tweets",
       "content": "<p>Pakistan stands exposed. A poster attributed to Lashkar-e-Taiba lays bare the nexus between Pakistan\u2019s military leadership and designated terrorists.<br />\n<br />\nThe \u201cBaniyan Chaddi celebration\u201d poster linked to LeT/PMML places senior military figures, Asim Munir, Zaheer Ahmed Baber Sidhu, and Naveed Ashraf, alongside individuals associated with terror networks, including Pahalgam mastermind Saifullah Kasuri, Abdur Rauf, and PMML President Khalid Masood Sindhu.<br />\n<br />\nA second image reportedly shows LeT finance secretary Haris Dar present at a Sahiwal gathering tied to the same \u201cBaniyan Chaddi celebration.\u201d<br />\n<br />\nTaken together, these materials reinforce long-standing concerns about institutional links, patronage, and the normalization of extremist elements within Pakistan\u2019s power structure.</p>\n<img src=\"https://nitter.net/pic/media%2FHHZnKzoaIAAw87W.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHZnKzsagAAAiDq.jpg\" />",
       "author": "@MikeLimaBravo12"
-    },
-    {
-      "title": "RT by @sidhant: Canada flags Khalistani extremists \n\nIntel reports warn of extremist activities\n\nCSIS: Extremists use Canada to promote, fundraise or plan violence\n\n@sidhant joins @eriknjoka with more details",
-      "link": "https://nitter.net/WIONews/status/2050934929517838682#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T19:16:06+05:30",
-      "time": "03 May, 07:16 PM",
-      "type": "tweets",
-      "content": "<p>Canada flags Khalistani extremists <br />\n<br />\nIntel reports warn of extremist activities<br />\n<br />\nCSIS: Extremists use Canada to promote, fundraise or plan violence<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> joins <a href=\"https://nitter.net/eriknjoka\" title=\"Eric Njoka \ud83c\uddf0\ud83c\uddea\">@eriknjoka</a> with more details</p>\n<a href=\"https://nitter.net/WIONews/status/2050934929517838682#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050934275172917248%2Fimg%2F3oZevI6S7Ne4Ow2o.jpg\" />\n</a>",
-      "author": "@WIONews"
     },
     {
       "title": "BREAKING: Israel has finalized a major procurement to acquire 25 Lockheed Martin F-35 jets and new Boeing F-15IA fighters, worth around $119 billion\n\n- Third F-35 squadron approved; fleet to reach ~75 jets\n- New F-15IA \u201cspecial\u201d variants tailored for Israeli requirements \n- Deliveries expected from around 2029",
@@ -1617,16 +1683,6 @@
       "type": "tweets",
       "content": "<p>Indian Navy Inducts Stealth Frigate INS Mahendragiri<br />\n<br />\nThe Indian Navy has received INS Mahendragiri, a next-generation stealth frigate under Project 17A (Nilgiri-class), built by Mazagon Dock Shipbuilders Limited.<br />\n<br />\nSpecifications:<br />\n- Advanced stealth design, sensors & multi-role combat systems<br />\n- Capable of anti-air, anti-surface & anti-submarine warfare<br />\n- Powered by CODOG propulsion system<br />\n- Designed by India\u2019s Warship Design Bureau<br />\n<br />\nThe induction strengthens India\u2019s blue-water naval capabilities</p>\n<img src=\"https://nitter.net/pic/media%2FHHZA0JvaIAAiVTm.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Western Command",
-      "link": "https://nitter.net/Goreunit/status/2050888814122684904#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-03T16:12:51+05:30",
-      "time": "03 May, 04:12 PM",
-      "type": "tweets",
-      "content": "<p>Western Command</p>\n<a href=\"https://nitter.net/Goreunit/status/2050888814122684904#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050888793096687616%2Fpu%2Fimg%2FtFQ3kWukyGNwQP5L.jpg\" />\n</a>",
-      "author": "@Goreunit"
     },
     {
       "title": "RT by @NetramDefence: BREAKING: A bomb explosion was reported today around 11:50 AM at Malom, near Imphal International Airport. No injuries have been reported so far. No group has claimed responsibility at this stage.",
@@ -1889,16 +1945,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Exposing Pakistan's state sponsored propaganda after defeat in Operation Sindoor. \nYou can Watch us on YouTube \ud83d\udc47\ud83c\udffb\nhttps://youtube.com/shorts/P4NpG6ORpUM?si=X5FJcwIi2lDf6s7V",
-      "link": "https://nitter.net/Goreunit/status/2050784865659113788#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-03T09:19:48+05:30",
-      "time": "03 May, 09:19 AM",
-      "type": "tweets",
-      "content": "<p>Exposing Pakistan's state sponsored propaganda after defeat in Operation Sindoor. <br />\nYou can Watch us on YouTube \ud83d\udc47\ud83c\udffb<br />\n<a href=\"https://piped.video/shorts/P4NpG6ORpUM?si=X5FJcwIi2lDf6s7V\">piped.video/shorts/P4NpG6ORp\u2026</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2050784865659113788#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050784798323757056%2Fpu%2Fimg%2FPGee4Q8Kn_yCPquF.jpg\" />\n</a>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: \n2nd May 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf Israeli forces struck the southern Lebanese village of Zawtar with white phosphorus shells.\n\n\u25cf UAE announces the full resumption of normal air navigation operations across its airspace.\n\n\u25cf India-linked LPG tanker, SARV SHAKTI, was making a rare transit through Strait of Hormuz with 45,000 tons of LPG. Its full transit could take ~10-14 hours.\n\n\u25cf President Trump announced he is raising tariffs on cars and trucks from the EU to 25%, effective next week.\n\n\u25cf China's Commerce Ministry today issued an injunction blocking U.S. sanctions on five Chinese refineries buying Iranian oil, shielding its energy imports.\n\n\u25cf Seven OPEC+ member countries have reached a preliminary agreement to increase oil production targets by roughly 188,000 barrels per day in June, despite UAE\u2019s exit.\n\n\u25cf The Trump administration announced over $8.6 billion in emergency arms sales to Middle Eastern partners today, including Israel, Qatar, Kuwait, and the UAE.\n\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2050635347118465215#m",
       "source": "Netram Defense",
@@ -1929,16 +1975,6 @@
       "author": "@shivank_8mishra"
     },
     {
-      "title": "RT by @OsintTV: Haris Dar, a senior commander and financial secretary of designated terrorist organisation LeT, has been observed engaging with madrasa children in Pakistan, initiating early stage indoctrination under the guise of religious instruction. Inputs indicate these sessions are not benign but anti-India narratives and distorted interpretations are being systematically fed into impressionable minds.\n\nThis is the pipeline. Radicalisation does not begin with weapons , it begins with words, repeated until they reshape identity and perception. The children seen today are unaware of the ideological burden being placed on them, but sustained exposure ensures that innocence is gradually replaced with hostility, absolutism, and a willingness to justify terrorism and violence.\n\nSuch activity does not occur in isolation. The pattern indicates active facilitation and sponsorship by Pakistan\u2019s security establishment, particularly the ISI, which has historically leveraged proxy networks to sustain this ecosystem. The objective is long-term: grooming recruits, sustaining terrorist infrastructure, and perpetuating cross-border terrorism through indoctrinated cadres.\n\nWhat is being built here is not education, but conditioning. Over time, these same children are groomed to become foot soldiers of proxy terror trained, infiltrated, and deployed against civilians and security forces in India. This cycle is deliberate, structured, and deeply concerning.",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2050588533736575179#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T20:19:39+05:30",
-      "time": "02 May, 08:19 PM",
-      "type": "tweets",
-      "content": "<p>Haris Dar, a senior commander and financial secretary of designated terrorist organisation LeT, has been observed engaging with madrasa children in Pakistan, initiating early stage indoctrination under the guise of religious instruction. Inputs indicate these sessions are not benign but anti-India narratives and distorted interpretations are being systematically fed into impressionable minds.<br />\n<br />\nThis is the pipeline. Radicalisation does not begin with weapons , it begins with words, repeated until they reshape identity and perception. The children seen today are unaware of the ideological burden being placed on them, but sustained exposure ensures that innocence is gradually replaced with hostility, absolutism, and a willingness to justify terrorism and violence.<br />\n<br />\nSuch activity does not occur in isolation. The pattern indicates active facilitation and sponsorship by Pakistan\u2019s security establishment, particularly the ISI, which has historically leveraged proxy networks to sustain this ecosystem. The objective is long-term: grooming recruits, sustaining terrorist infrastructure, and perpetuating cross-border terrorism through indoctrinated cadres.<br />\n<br />\nWhat is being built here is not education, but conditioning. Over time, these same children are groomed to become foot soldiers of proxy terror trained, infiltrated, and deployed against civilians and security forces in India. This cycle is deliberate, structured, and deeply concerning.</p>\n<img src=\"https://nitter.net/pic/media%2FHHUnZNWaYAA2Jw8.jpg\" />",
-      "author": "@MikeLimaBravo12"
-    },
-    {
       "title": "US awards $488m F-16 radar support contract under FMS programme, Pakistan among beneficiaries",
       "link": "https://nitter.net/WarMonitorINTL/status/2050587335906275438#m",
       "source": "War Monitor",
@@ -1947,16 +1983,6 @@
       "type": "tweets",
       "content": "<p>US awards $488m F-16 radar support contract under FMS programme, Pakistan among beneficiaries</p>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Report : \n\nUS clears $488M F-16 fighter jets radar support deal, Pakistan included.\n\nTo keeps their fleet combat-ready till 2036.",
-      "link": "https://nitter.net/OsintTV/status/2050584615602065737#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T20:04:05+05:30",
-      "time": "02 May, 08:04 PM",
-      "type": "tweets",
-      "content": "<p>Report : <br />\n<br />\nUS clears $488M F-16 fighter jets radar support deal, Pakistan included.<br />\n<br />\nTo keeps their fleet combat-ready till 2036.</p>",
-      "author": "@OsintTV"
     },
     {
       "title": "Four DRG jawans martyred in IED blast in Chhattisgarh.",
@@ -1969,36 +1995,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "\ud83d\udea8 Heinous details emerging from Napak \ud83c\uddf5\ud83c\uddf0 army!!!\nMajor General Shamraiz Khan Tanoli r@ped the newly wed teenage wife of a captain for a week under the guise of a fake course.\n\nHer twisted brained 'captain' husband gave full consent to the General to r@pe her because he enjoyed it!\n\nReportedly such cases of exploitation incidents are getting more common under the new 'failed marshal' of \ud83c\uddf5\ud83c\uddf0",
-      "link": "https://nitter.net/Goreunit/status/2050566220802580655#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-02T18:50:59+05:30",
-      "time": "02 May, 06:50 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Heinous details emerging from Napak \ud83c\uddf5\ud83c\uddf0 army!!!<br />\nMajor General Shamraiz Khan Tanoli r@ped the newly wed teenage wife of a captain for a week under the guise of a fake course.<br />\n<br />\nHer twisted brained 'captain' husband gave full consent to the General to r@pe her because he enjoyed it!<br />\n<br />\nReportedly such cases of exploitation incidents are getting more common under the new 'failed marshal' of \ud83c\uddf5\ud83c\uddf0</p>\n<img src=\"https://nitter.net/pic/media%2FHHUTHD4aUAATf-H.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHUTGa7bsAAhBNl.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "ISI espionage module busted in Punjab. \nYou can watch the latest videos on YouTube by clicking here\ud83d\udc47\ud83c\udffb\n\nhttps://youtube.com/shorts/16Jn3IeA4Tw?si=AcVd8nBJJLPsJdlw",
-      "link": "https://nitter.net/Goreunit/status/2050558563379184055#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-02T18:20:33+05:30",
-      "time": "02 May, 06:20 PM",
-      "type": "tweets",
-      "content": "<p>ISI espionage module busted in Punjab. <br />\nYou can watch the latest videos on YouTube by clicking here\ud83d\udc47\ud83c\udffb<br />\n<br />\n<a href=\"https://piped.video/shorts/16Jn3IeA4Tw?si=AcVd8nBJJLPsJdlw\">piped.video/shorts/16Jn3IeA4\u2026</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2050558563379184055#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050558421796356096%2Fpu%2Fimg%2F46Iwxxg-M15SO7UB.jpg\" />\n</a>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: Deputy SPs of J&K Police are undergoing intensive Guerrilla and Jungle Warfare training to enhance their operational effectiveness against terrorist threats. The training focuses on counter-terrorism tactics, survival skills, ambush and counter-ambush drills, navigation in dense terrain, and real-time combat response. Such capacity building measures are essential to strengthen ground level leadership and ensure a swift, precise, and coordinated response to evolving security challenges in difficult terrains.",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2050549109329920074#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T17:42:59+05:30",
-      "time": "02 May, 05:42 PM",
-      "type": "tweets",
-      "content": "<p>Deputy SPs of J&amp;K Police are undergoing intensive Guerrilla and Jungle Warfare training to enhance their operational effectiveness against terrorist threats. The training focuses on counter-terrorism tactics, survival skills, ambush and counter-ambush drills, navigation in dense terrain, and real-time combat response. Such capacity building measures are essential to strengthen ground level leadership and ensure a swift, precise, and coordinated response to evolving security challenges in difficult terrains.</p>\n<img src=\"https://nitter.net/pic/media%2FHHUDipUbkAAI2y-.jpg\" />",
-      "author": "@MikeLimaBravo12"
-    },
-    {
       "title": "RT by @AngryRumi7: Deputy SPs of J&K Police are undergoing intensive Guerrilla and Jungle Warfare training to enhance their operational effectiveness against terrorist threats. The training focuses on counter-terrorism tactics, survival skills, ambush and counter-ambush drills, navigation in dense terrain, and real-time combat response. Such capacity building measures are essential to strengthen ground level leadership and ensure a swift, precise, and coordinated response to evolving security challenges in difficult terrains.",
       "link": "https://nitter.net/MikeLimaBravo12/status/2050549109329920074#m",
       "source": "Angry Rumi",
@@ -2007,26 +2003,6 @@
       "type": "tweets",
       "content": "<p>Deputy SPs of J&amp;K Police are undergoing intensive Guerrilla and Jungle Warfare training to enhance their operational effectiveness against terrorist threats. The training focuses on counter-terrorism tactics, survival skills, ambush and counter-ambush drills, navigation in dense terrain, and real-time combat response. Such capacity building measures are essential to strengthen ground level leadership and ensure a swift, precise, and coordinated response to evolving security challenges in difficult terrains.</p>\n<img src=\"https://nitter.net/pic/media%2FHHUDipUbkAAI2y-.jpg\" />",
       "author": "@MikeLimaBravo12"
-    },
-    {
-      "title": "RT by @NetramDefence: Assam Rifles honours Tampakmayum Asatullah, the \u201cWater Healer,\u201d for decades of selfless service. Known as \u201cEsing Maiba,\u201d he has helped recover 480+ drowned persons, bringing closure to countless families. True heroism.",
-      "link": "https://nitter.net/KangleipakDaily/status/2050546463483289851#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-02T17:32:28+05:30",
-      "time": "02 May, 05:32 PM",
-      "type": "tweets",
-      "content": "<p>Assam Rifles honours Tampakmayum Asatullah, the \u201cWater Healer,\u201d for decades of selfless service. Known as \u201cEsing Maiba,\u201d he has helped recover 480+ drowned persons, bringing closure to countless families. True heroism.</p>\n<img src=\"https://nitter.net/pic/media%2FHHUBJFHaYAAUvm2.jpg\" />",
-      "author": "@KangleipakDaily"
-    },
-    {
-      "title": "Stealth Unmanned Combat Aerial Vehicle 'Ghatak' will be ready in the next 7 to 8 yrs (2033-34): DRDO Sec Dr Samir V. Kamat",
-      "link": "https://nitter.net/OsintTV/status/2050538500055789922#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-02T17:00:50+05:30",
-      "time": "02 May, 05:00 PM",
-      "type": "tweets",
-      "content": "<p>Stealth Unmanned Combat Aerial Vehicle 'Ghatak' will be ready in the next 7 to 8 yrs (2033-34): DRDO Sec Dr Samir V. Kamat</p>\n<a href=\"https://nitter.net/OsintTV/status/2050538500055789922#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050503719276756992%2Fimg%2FHLnKrIpBRKVzbfT4.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "RT by @NetramDefence: Troops of the Indian Army neutralised a suspected explosive device during a routine patrol in Manipur\u2019s Churachandpur on April 30.\n\nThe Red Shield Division swiftly mobilised a Bomb Disposal Team to the location.\n\nPresence of explosives was confirmed by an Explosive Detector Dog.",
@@ -2059,26 +2035,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "Pradhaanmantri achanak heartattack yojna",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050468316557488588#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-02T12:21:57+05:30",
-      "time": "02 May, 12:21 PM",
-      "type": "tweets",
-      "content": "<p>Pradhaanmantri achanak heartattack yojna</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Extremely severe alert on phones\n\n-did anyone else receive it?",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050467970095394880#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-02T12:20:34+05:30",
-      "time": "02 May, 12:20 PM",
-      "type": "tweets",
-      "content": "<p>Extremely severe alert on phones<br />\n<br />\n-did anyone else receive it?</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "\u26a0\ufe0f\ud83d\udea8",
       "link": "https://nitter.net/elitepredatorss/status/2050463355450888306#m",
       "source": "Elite Predators",
@@ -2087,64 +2043,9 @@
       "type": "tweets",
       "content": "<p>\u26a0\ufe0f\ud83d\udea8</p>\n<video loop=\"loop\" poster=\"https://nitter.net/pic/tweet_video_thumb%2FHHS1jRrbgAAZhQO.jpg\">\n  <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHHS1jRrbgAAZhQO.mp4\" type=\"video/mp4\" /></video>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "A 4-year-old video has more clarity on the Andaman and Nicobar Islands and their importance than a whole political spectrum :\n\nhttps://youtu.be/EwzrFemWSAs?si=1LrPEWhug7D1tvxz",
-      "link": "https://nitter.net/elitepredatorss/status/2050450209826841007#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-02T11:10:00+05:30",
-      "time": "02 May, 11:10 AM",
-      "type": "tweets",
-      "content": "<p>A 4-year-old video has more clarity on the Andaman and Nicobar Islands and their importance than a whole political spectrum :<br />\n<br />\n<a href=\"https://piped.video/EwzrFemWSAs?si=1LrPEWhug7D1tvxz\">piped.video/EwzrFemWSAs?si=1LrP\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2050329152549773312%2FSLbsH7gK%3Fformat%3Djpg%26name%3D800x320_1\" />",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
-    {
-      "title": "India vs China & Pakistan Su-57 Deal EXPOSED: India ke liye Power ya Strategic Risk?",
-      "link": "https://www.youtube.com/watch?v=hxVNjZVzh-0",
-      "source": "Indian Defense News",
-      "sort_key": "2026-05-03T22:30:51+05:30",
-      "time": "03 May, 10:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/hxVNjZVzh-0/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - \u20b91 Lakh Crore AMCA Investment, IIT Jammu Stealth Drone, Army BMP-2 Flame Thrower",
-      "link": "https://www.youtube.com/watch?v=GPkUxj1Ec4M",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-03T21:13:22+05:30",
-      "time": "03 May, 09:13 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/GPkUxj1Ec4M/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : FCAS 6th Gen Entry,140 AMCA in Andhra,Anti-Hypersonic Radar,PAK F16 Upgrade",
-      "link": "https://www.youtube.com/watch?v=0RKVyTSsi-8",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-03T17:31:44+05:30",
-      "time": "03 May, 05:31 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/0RKVyTSsi-8/mqdefault.jpg"
-    },
-    {
-      "title": "Naga Suppressor Success, MiG-29K Upgrade, Tank Tech Breakthrough,AMCA NATO Upgrade Exposed!",
-      "link": "https://www.youtube.com/watch?v=_p0xku1egZg",
-      "source": "Indian Defense News",
-      "sort_key": "2026-05-03T07:00:24+05:30",
-      "time": "03 May, 07:00 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/_p0xku1egZg/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Ghatak UCAV By 2033, 1500km Hypersonic Missile Test, Army Bulletproof Vehicle",
-      "link": "https://www.youtube.com/watch?v=trKOAN8CgFg",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-02T22:35:27+05:30",
-      "time": "02 May, 10:35 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/trKOAN8CgFg/mqdefault.jpg"
-    },
     {
       "title": "LCA Tejas Mk2 - 2nd Prototype",
       "link": "https://www.youtube.com/watch?v=i0GtfJufCRg",
@@ -2153,15 +2054,6 @@
       "time": "02 May, 08:47 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/i0GtfJufCRg/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : 1st AMCA Rollout,Army New Laser Weapon,159 PMV Order,Swarm Warfare Program",
-      "link": "https://www.youtube.com/watch?v=wBt_pUhARs0",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-02T17:36:12+05:30",
-      "time": "02 May, 05:36 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/wBt_pUhARs0/mqdefault.jpg"
     },
     {
       "title": "Hypersonic Missile Test Successful",
@@ -2174,6 +2066,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
