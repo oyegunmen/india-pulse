@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Israel-Iran war updates: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-04T06:24:49+05:30",
+      "time": "04 May, 06:24 AM",
+      "type": "news",
+      "description": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz..."
+    },
+    {
       "title": "Trump says US will \u2018guide\u2019 trapped ships from Gulf amid \u2018very positive\u2019 talks with Iran",
       "link": "https://indianexpress.com/article/world/us-news/trump-project-freedom-strait-of-hormuz-iran-trapped-ships-negotiations-10671280/",
       "source": "The Indian Express",
@@ -8,15 +17,6 @@
       "time": "04 May, 06:09 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Israel-Iran war LIVE: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-04T04:33:54+05:30",
-      "time": "04 May, 04:33 AM",
-      "type": "news",
-      "description": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz..."
     },
     {
       "title": "Trump announces \u2018Project Freedom\u2019 to help stranded ships leave Strait of Hormuz",
@@ -433,7 +433,7 @@
       "description": ""
     },
     {
-      "title": "Iran-US War Ceasefire Live Updates | Trump says the US will \u2018guide\u2019 stranded ships from the Strait of Hormuz, starting on Monday",
+      "title": "Iran-US War Ceasefire Live Updates | US to start escorting stranded ship through Hormuz as positive discussions continue",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310/",
       "source": "The Indian Express",
       "sort_key": "2026-05-03T09:58:42+05:30",
@@ -1097,42 +1097,6 @@
       "time": "02 May, 07:38 AM",
       "type": "news",
       "description": "President Trump described U.S. naval actions against Iran as \"like pirates\" after seizing a ship and its oil cargo. This comes amid the ongoing war be..."
-    },
-    {
-      "title": "Pentagon claims US blockade has cost Iran $4.8 bn: Report",
-      "link": "https://economictimes.indiatimes.com/news/defence/pentagon-claims-us-blockade-has-cost-iran-4-8-bn-report/articleshow/130708435.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-02T07:03:23+05:30",
-      "time": "02 May, 07:03 AM",
-      "type": "news",
-      "description": "A US blockade in the Gulf of Oman and surrounding maritime routes has reportedly cost Iran nearly $4.8 billion in oil revenue, according to Pentagon e..."
-    },
-    {
-      "title": "US military reaches deals with 7 tech companies to use their AI on classified systems",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/articleshow/130708407.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-02T06:57:02+05:30",
-      "time": "02 May, 06:57 AM",
-      "type": "news",
-      "description": "The Pentagon is boosting its warfighting capabilities by integrating artificial intelligence into classified computer networks. Seven leading tech fir..."
-    },
-    {
-      "title": "Iran's IRGC announces new rules to strengthen control over Arabian Gulf, Strait of Hormuz",
-      "link": "https://economictimes.indiatimes.com/news/defence/irans-irgc-announces-new-rules-to-strengthen-control-over-arabian-gulf-strait-of-hormuz/articleshow/130708359.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-02T06:44:06+05:30",
-      "time": "02 May, 06:44 AM",
-      "type": "news",
-      "description": "Iran's Revolutionary Guard is tightening its grip on vital waterways. New rules aim to boost control over the Arabian Gulf and the Strait of Hormuz. T..."
-    },
-    {
-      "title": "'It's actually treasonous': Trump slams critics claiming US not \"winning\" Iran war",
-      "link": "https://economictimes.indiatimes.com/news/defence/its-actually-treasonous-trump-slams-critics-claiming-us-not-winning-iran-war/articleshow/130708249.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-02T06:23:05+05:30",
-      "time": "02 May, 06:23 AM",
-      "type": "news",
-      "description": "US President Donald Trump on Friday (local time) said he considers it \"treasonous\" for critics to claim that the United States is not winning the war ..."
     }
   ],
   "tweets": [
@@ -2192,6 +2156,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
