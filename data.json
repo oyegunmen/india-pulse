@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Iran claims it struck US warship in Strait of Hormuz, American navy denies charges",
+      "link": "https://indianexpress.com/article/world/iran-us-strait-of-hormuz-missile-claims-trump-project-freedom-10672407/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-04T18:43:20+05:30",
+      "time": "04 May, 06:43 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Iran: IRGC declares new maritime control zone in Strait of Hormuz",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-irgc-declares-new-maritime-control-zone-in-strait-of-hormuz/articleshow/130797092.cms",
       "source": "Economic Times",
@@ -550,7 +559,7 @@
       "description": ""
     },
     {
-      "title": "Iran-US War Ceasefire Live Updates: UAE oil tanker attacked in Hormuz; US says no missile hit its warship",
+      "title": "Iran-US War Ceasefire Live Updates: Two American-flagged merchant vessels transit through Hormuz amid reports of warship strike",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310/",
       "source": "The Indian Express",
       "sort_key": "2026-05-03T09:58:42+05:30",
@@ -791,27 +800,79 @@
       "time": "02 May, 07:50 PM",
       "type": "news",
       "description": "The U.S. sanctions \"improperly prohibit or restrict Chinese enterprises from conducting normal economic, trade and related activities with third count..."
-    },
-    {
-      "title": "Four Police Personnel Killed as LED Goes off During Demining Operation in Chhattisgarh",
-      "link": "https://www.deccanchronicle.com/nation/four-police-personnel-killed-as-ied-goes-off-during-demining-operation-in-chhattisgarh-1954220",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-02T18:52:14+05:30",
-      "time": "02 May, 06:52 PM",
-      "type": "news",
-      "description": "The explosion occurred around 11.30 am in a forest area of Aadnar village under Chhotebethiya police station limits, near the Narayanpur district bord..."
-    },
-    {
-      "title": "Israeli airstrikes on southern Lebanon kill seven amid fragile ceasefire",
-      "link": "https://www.thehindu.com/news/international/israeli-airstrikes-on-southern-lebanon-kill-many-amid-fragile-ceasefire/article70931787.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-02T18:26:19+05:30",
-      "time": "02 May, 06:26 PM",
-      "type": "news",
-      "description": "Lebanon's state-run National News Agency reported an airstrike on a car in the village of Kfar Dajal that killed two people, while another hit a home ..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @OsintTV: Correction: \n\nMuzammil Hasmi is on the left of Sialvi",
+      "link": "https://nitter.net/OsintTV/status/2051296862242505019#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-04T19:14:17+05:30",
+      "time": "04 May, 07:14 PM",
+      "type": "tweets",
+      "content": "<p>Correction: <br />\n<br />\nMuzammil Hasmi is on the left of Sialvi</p>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "R to @OsintTV: For more exclusive updates pls subscribe to our TG channel \n\nhttps://t.me/OsntTV\n\n....",
+      "link": "https://nitter.net/OsintTV/status/2051294921861046594#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-04T19:06:35+05:30",
+      "time": "04 May, 07:06 PM",
+      "type": "tweets",
+      "content": "<p>For more exclusive updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n....</p>\n<img src=\"https://nitter.net/pic/card_img%2F2049699002959167488%2FjG4mcOkN%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Indian PM Modi at BJP HQ after victory in key states of West Bengal, Assam. He will be making a speech shortly.",
+      "link": "https://nitter.net/sidhant/status/2051293656410460534#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-04T19:01:33+05:30",
+      "time": "04 May, 07:01 PM",
+      "type": "tweets",
+      "content": "<p>Indian PM Modi at BJP HQ after victory in key states of West Bengal, Assam. He will be making a speech shortly.</p>\n<img src=\"https://nitter.net/pic/media%2FHHeotNlacAAWztL.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Just in: Missile warning issue for Dubai by UAE authorities. First such warning in days since ceasefire was announced after West Asia war.",
+      "link": "https://nitter.net/sidhant/status/2051292936680427987#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-04T18:58:41+05:30",
+      "time": "04 May, 06:58 PM",
+      "type": "tweets",
+      "content": "<p>Just in: Missile warning issue for Dubai by UAE authorities. First such warning in days since ceasefire was announced after West Asia war.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\ud83d\udea8 Exclusive:\n\n\"For the first time, the Pakistan Army fought a war for Hafiz Saeed and Masood Azhar, to show the world that they are not terrorists\": Pak Politician Shaheer Sialvi at a Lashkar-e-Taiba gathering.\n\nSialvi openly admitted that \u201cMuridke and Bahawalpur, internationally declared terrorist camps, were targeted by Indian forces and several terrorists were killed in the attack. But for the first time, the Pakistan Army decided that the funerals would not be led by any scholar or Mufti from outside. Instead, a military chaplain led them. Pakistani soldiers in uniform carried the bodies to tell the world: \u2018These people are freedom fighters, they are not terrorists.\u2019 We fought this war for Hafiz Saeed and Maulana Masood Azhar.\u201d\n\nOn his right, Muzammil Hasmi, a designated terrorist and close aide of Hafiz Saeed, can be seen.\n\nLocation: Rawalpindi \nOpen Source",
+      "link": "https://nitter.net/OsintTV/status/2051290470026764780#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-04T18:48:53+05:30",
+      "time": "04 May, 06:48 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Exclusive:<br />\n<br />\n\"For the first time, the Pakistan Army fought a war for Hafiz Saeed and Masood Azhar, to show the world that they are not terrorists\": Pak Politician Shaheer Sialvi at a Lashkar-e-Taiba gathering.<br />\n<br />\nSialvi openly admitted that \u201cMuridke and Bahawalpur, internationally declared terrorist camps, were targeted by Indian forces and several terrorists were killed in the attack. But for the first time, the Pakistan Army decided that the funerals would not be led by any scholar or Mufti from outside. Instead, a military chaplain led them. Pakistani soldiers in uniform carried the bodies to tell the world: \u2018These people are freedom fighters, they are not terrorists.\u2019 We fought this war for Hafiz Saeed and Maulana Masood Azhar.\u201d<br />\n<br />\nOn his right, Muzammil Hasmi, a designated terrorist and close aide of Hafiz Saeed, can be seen.<br />\n<br />\nLocation: Rawalpindi <br />\nOpen Source</p>\n<a href=\"https://nitter.net/OsintTV/status/2051290470026764780#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051290283870986240%2Fimg%2F2bEA7rubJdBNt4qe.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Breaking:\n\nA NOTAM has been announced for likely a missile test covering 3,500 km.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2051289041740648742#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-04T18:43:13+05:30",
+      "time": "04 May, 06:43 PM",
+      "type": "tweets",
+      "content": "<p>Breaking:<br />\n<br />\nA NOTAM has been announced for likely a missile test covering 3,500 km.</p>\n<img src=\"https://nitter.net/pic/media%2FHHekdYWaoAE0VS4.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Breaking:\n\nPeople have been asked to seek shelter in the UAE due to a potential missile threat.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2051286961378509010#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-04T18:34:57+05:30",
+      "time": "04 May, 06:34 PM",
+      "type": "tweets",
+      "content": "<p>Breaking:<br />\n<br />\nPeople have been asked to seek shelter in the UAE due to a potential missile threat.</p>\n<img src=\"https://nitter.net/pic/media%2FHHeilhba4AAvUYm.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
     {
       "title": "Mahindra cooked with this one !",
       "link": "https://nitter.net/elitepredatorss/status/2051283238086479899#m",
@@ -821,6 +882,16 @@
       "type": "tweets",
       "content": "<p>Mahindra cooked with this one !</p>\n<img src=\"https://nitter.net/pic/media%2FHHee2ona0AA1nvJ.jpg\" />\n\n<hr />\n<blockquote>\n<b>anand mahindra (@anandmahindra)</b>\n<p>\n<p>Presenting the Mahindra ATV (All-Terrain Vehicle)<br />\n<br />\nNo excess. No ornamentation. <br />\nJust focussed capability.<br />\n<br />\nEvery bar, every mount, every inch of clearance has a job to do. From airdrop readiness to mission-grade protection, a gun mount, complete underbody protection, tandem tyre carrier configuration, jerrycan holders, a windshield protector & a front winch ensuring enhanced survivability, versatility, and operational effectiveness across diverse terrains. <br />\n<br />\nPurpose-built for our security forces, & proud to serve them<br />\n<br />\nBut to me, this is more than a specialised machine.<br />\n<br />\nThis is what our DNA looks like\u2026 stripped to its essentials<br />\n<br />\nIt\u2019s a window into what sits at the heart of every Mahindra vehicle: resilience, adaptability, and the will to go anywhere\u2026</p>\n<img src=\"https://nitter.net/pic/media%2FHHeSKj6a0AAvEkG.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHeSKkJawAAtu6x.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHeSKkAaoAAJ-UJ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHeSKkAbcAAvfXG.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/anandmahindra/status/2051268873723547917#m\">https://nitter.net/anandmahindra/status/2051268873723547917#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @sidhant: Kailash Mansarovar Yatra, once purely spiritual, is now a geopolitical flashpoint.\nNepal objects to the Lipulekh route; India calls the claims \u201cunjustified\u201d and backs dialogue.\n \nSenior journalist @YeshiSeli , part of the 2025 delegation, shares insights.\nFull #vlog out now.",
+      "link": "https://nitter.net/rsrobin1/status/2051282154219614553#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-04T18:15:51+05:30",
+      "time": "04 May, 06:15 PM",
+      "type": "tweets",
+      "content": "<p>Kailash Mansarovar Yatra, once purely spiritual, is now a geopolitical flashpoint.<br />\nNepal objects to the Lipulekh route; India calls the claims \u201cunjustified\u201d and backs dialogue.<br />\n <br />\nSenior journalist <a href=\"https://nitter.net/YeshiSeli\" title=\"Yeshi Seli\">@YeshiSeli</a> , part of the 2025 delegation, shares insights.<br />\nFull <a href=\"https://nitter.net/search?f=tweets&amp;q=%23vlog\">#vlog</a> out now.</p>\n<a href=\"https://nitter.net/rsrobin1/status/2051282154219614553#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051281181900210177%2Fimg%2FlPMj7Z1mkJ6vbomM.jpg\" />\n</a>",
+      "author": "@rsrobin1"
     },
     {
       "title": "Trump wants to take over Cuba 'Almost immediately'",
@@ -939,7 +1010,7 @@
       "sort_key": "2026-05-04T16:10:33+05:30",
       "time": "04 May, 04:10 PM",
       "type": "tweets",
-      "content": "<p>Ahead of Vietnam President's India visit, Indian Ambassador Tshering W. Sherpa has expressed strong confidence in the prospects of bilateral relations, affirming that \"this journey has only just begun.\"<br />\n<br />\nInterview in Vietnam media:<br />\n<a href=\"https://en.baochinhphu.vn/india-attaches-special-importance-to-upcoming-visit-of-general-secretary-and-president-to-lam-111260504082221228.htm\">en.baochinhphu.vn/india-atta\u2026</a></p>",
+      "content": "<p>Ahead of Vietnam President's India visit, Indian Ambassador Tshering W. Sherpa has expressed strong confidence in the prospects of bilateral relations, affirming that \"this journey has only just begun.\"<br />\n<br />\nInterview in Vietnam media:<br />\n<a href=\"https://en.baochinhphu.vn/india-attaches-special-importance-to-upcoming-visit-of-general-secretary-and-president-to-lam-111260504082221228.htm\">en.baochinhphu.vn/india-atta\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051250459667767297%2FYCJIAft-%3Fformat%3Djpg%26name%3D420x420_2\" />",
       "author": "@sidhant"
     },
     {
@@ -1613,36 +1684,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Nepal's Lipulekh claim comes days before Indian foreign secretary Vikram Misri is expected to visit Kathmandu & Nepalese Foreign Minister Shisir Khanal will be visiting Delhi in his first formal visit. Kanal was in Delhi last month as a stopover to his visit to Mauritius.",
-      "link": "https://nitter.net/sidhant/status/2050994957629235500#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T23:14:38+05:30",
-      "time": "03 May, 11:14 PM",
-      "type": "tweets",
-      "content": "<p>Nepal's Lipulekh claim comes days before Indian foreign secretary Vikram Misri is expected to visit Kathmandu &amp; Nepalese Foreign Minister Shisir Khanal will be visiting Delhi in his first formal visit. Kanal was in Delhi last month as a stopover to his visit to Mauritius.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Balen Govt revives Oli Govt's Lipulekh claim citing 1816 Sugauli Treaty, India says claim 'untenable'; emphasizes on Dialogue &amp; Diplomacy. <br />\n<br />\nNepal, India statements</p>\n<img src=\"https://nitter.net/pic/media%2FHHaXw6ZbQAExAxI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHaXw7cakAARW7S.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050993550368874516#m\">https://nitter.net/sidhant/status/2050993550368874516#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Balen Govt revives Oli Govt's Lipulekh claim citing 1816 Sugauli Treaty, India says claim 'untenable'; emphasizes on Dialogue & Diplomacy. \n\nNepal, India statements",
-      "link": "https://nitter.net/sidhant/status/2050993550368874516#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T23:09:02+05:30",
-      "time": "03 May, 11:09 PM",
-      "type": "tweets",
-      "content": "<p>Balen Govt revives Oli Govt's Lipulekh claim citing 1816 Sugauli Treaty, India says claim 'untenable'; emphasizes on Dialogue &amp; Diplomacy. <br />\n<br />\nNepal, India statements</p>\n<img src=\"https://nitter.net/pic/media%2FHHaXw6ZbQAExAxI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHaXw7cakAARW7S.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Nepal's new Political Map is unveiled by the Ministry of Land Management, Cooperatives &amp; Poverty Alleviation. Close up shot of the Indian territories of Lipulekh, Kalapani, Limpiyadhura shown.</p>\n<img src=\"https://nitter.net/pic/media%2FEYcw3MCWkAAYg91.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/1263031948118720512#m\">https://nitter.net/sidhant/status/1263031948118720512#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "BREAKING:\n\nIndia reacts to Nepal comments on Kailash Mansarovar Yatra through Lipulekh\n\n'This is not a new development'\n\nOn Nepal's claim to Lipulekh \n\n'Such unilateral artificial enlargement of territorial claims is untenable'\n\n'Open to constructive dialogue'",
-      "link": "https://nitter.net/sidhant/status/2050992070677164211#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-03T23:03:09+05:30",
-      "time": "03 May, 11:03 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING:<br />\n<br />\nIndia reacts to Nepal comments on Kailash Mansarovar Yatra through Lipulekh<br />\n<br />\n'This is not a new development'<br />\n<br />\nOn Nepal's claim to Lipulekh <br />\n<br />\n'Such unilateral artificial enlargement of territorial claims is untenable'<br />\n<br />\n'Open to constructive dialogue'</p>\n<img src=\"https://nitter.net/pic/media%2FHHaWaugaIAADIl_.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Nepal's Balen Shah Govt tells India, China not to undertake Kailash Mansarovar Yatra through Lipilekh since it is 'Nepal Territory'.<br />\n<br />\nNepal Foreign ministry:</p>\n<img src=\"https://nitter.net/pic/media%2FHHZw-HMakAAP_BC.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2050950895559729597#m\">https://nitter.net/sidhant/status/2050950895559729597#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "\ud83d\udccd\ud83c\uddee\ud83c\uddf3\ud83e\ude96 Stealth, precision, and unwavering commitment. \n\nAn inside look at the gear and grit of a JKP SOG operator. \n\nStanding tall through every challenge.",
       "link": "https://nitter.net/OsintTV/status/2050984463572533395#m",
       "source": "Osint TV",
@@ -1661,16 +1702,6 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief: <br />\n3rd May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Israel has approved its fourth F-35I \u201cAdir\u201d squadron, expanding the IAF fleet toward ~100 advanced stealth fighters from the current 2 operational squadrons at Nevatim.<br />\n<br />\n\u25cf OPEC+ members Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman agreed to a production adjustment of 188,000 barrels/day from their voluntary cuts, effective June 2026.<br />\n<br />\n\u25cf CENTCOM notes that of today, 49 commercial vessels have been redirected to comply with blockade.<br />\n<br />\n\u25cf An Israeli court in Ashkelon has extended the detention of two flotilla activists by two days following their interception by the navy.<br />\n<br />\n\u25cf Iran\u2019s 14-point proposal clashes with US demands, as Tehran wants to delay nuclear talks while Washington insists Iran first give up its 400 kg+ of highly enriched uranium. Iran instead prioritizes reopening the Strait of Hormuz before nuclear negotiations.<br />\n<br />\n\u25cf The India-bound LPG tanker SARV SHAKTI has successfully cleared the Strait of Hormuz as of this morning. It is expected to reach Visakhapatnam by May 13.<br />\n<br />\n\u25cf The Pentagon confirmed it will follow through on plans to pull 5,000 troops from Germany.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHaHqk5aYAAn4a2.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n2nd May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Israeli forces struck the southern Lebanese village of Zawtar with white phosphorus shells.<br />\n<br />\n\u25cf UAE announces the full resumption of normal air navigation operations across its airspace.<br />\n<br />\n\u25cf India-linked LPG tanker, SARV SHAKTI, was making a rare transit through Strait of Hormuz with 45,000 tons of LPG. Its full transit could take ~10-14 hours.<br />\n<br />\n\u25cf President Trump announced he is raising tariffs on cars and trucks from the EU to 25%, effective next week.<br />\n<br />\n\u25cf China's Commerce Ministry today issued an injunction blocking U.S. sanctions on five Chinese refineries buying Iranian oil, shielding its energy imports.<br />\n<br />\n\u25cf Seven OPEC+ member countries have reached a preliminary agreement to increase oil production targets by roughly 188,000 barrels per day in June, despite UAE\u2019s exit.<br />\n<br />\n\u25cf The Trump administration announced over $8.6 billion in emergency arms sales to Middle Eastern partners today, including Israel, Qatar, Kuwait, and the UAE.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHVR7QEaYAEHyi7.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2050635347118465215#m\">https://nitter.net/NetramDefence/status/2050635347118465215#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Breaking:\n\nNepal\u2019s Balen Shah-led government has asked India and China not to conduct the Kailash Mansarovar Yatra via Lipulekh, stating it falls within Nepal\u2019s territory.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050963384024387976#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-03T21:09:10+05:30",
-      "time": "03 May, 09:09 PM",
-      "type": "tweets",
-      "content": "<p>Breaking:<br />\n<br />\nNepal\u2019s Balen Shah-led government has asked India and China not to conduct the Kailash Mansarovar Yatra via Lipulekh, stating it falls within Nepal\u2019s territory.</p>\n<img src=\"https://nitter.net/pic/media%2FHHZ8S2nakAE_uX8.jpg\" />",
-      "author": "@WarMonitorINTL"
     },
     {
       "title": "What do you mean by \u201cif you stop water\u201d? It has already been stopped for more than a year....\ud83e\udd23\n\nAur zor se chillaao, cheekho....",
@@ -1743,16 +1774,6 @@
       "author": "@KangleipakDaily"
     },
     {
-      "title": "Predict the exact number of seats the BJP will win in Bengal.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2050874870058319884#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-03T15:17:27+05:30",
-      "time": "03 May, 03:17 PM",
-      "type": "tweets",
-      "content": "<p>Predict the exact number of seats the BJP will win in Bengal.</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "What happened in the Galwan Valley clash? \n\nHear it directly from the Ex Army Chief\u2019s account",
       "link": "https://nitter.net/OsintTV/status/2050869884888743942#m",
       "source": "Osint TV",
@@ -1773,16 +1794,6 @@
       "author": "@Drishti_K47"
     },
     {
-      "title": "RT by @OsintTV: Store water during the summer season and release it during the rainy season.",
-      "link": "https://nitter.net/Theunk5555/status/2050867867072286948#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-03T14:49:37+05:30",
-      "time": "03 May, 02:49 PM",
-      "type": "tweets",
-      "content": "<p>Store water during the summer season and release it during the rainy season.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>One year on, Baglihar Dam gates in Rambhan stay shut. Chenab runs dry.<br />\n<br />\nMessage is blunt. BLOOD &amp; WATER will not flow together.</p>\n<a href=\"https://nitter.net/OsintTV/status/2050865380260827255#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050864954098724865%2Fimg%2FvTCWC732Pw4yRM8u.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2050865380260827255#m\">https://nitter.net/OsintTV/status/2050865380260827255#m</a>\n</footer>\n</blockquote>",
-      "author": "@Theunk5555"
-    },
-    {
       "title": "RT by @OsintTV: China and Nicobar protest  Saga \ud83e\uddf5 \n\nNicobar Project which only harms CCP China\u2019s expansionist interest in Indian Ocean is being protested by Left and opposition, it took me back to what KGB operative Yuri Bezmenov said about prestitutes & communist in India \ud83d\udc47\n\nKGB was grooming so called progressive intellectuals, professors, teachers  to spread communist ideology in India. CCP has heavily invested on Indian influencers and opposition, \n\nRajeev Sharma was just one of them who was caught with Chinese woman named King Shi and a Nepalese national named Sher Singh. \n\n#greatnicobar #nicobar",
       "link": "https://nitter.net/Dig_raw21/status/2050867825015742896#m",
       "source": "Osint TV",
@@ -1801,16 +1812,6 @@
       "type": "tweets",
       "content": "<p>Great thread highlighting Manipur\u2019s real potential as India\u2019s gateway to SE Asia. From reviving Moreh's trade and silk exports to bridging the power gap and GI-tagged products, the fundamentals are strong. Stability + smart infra investment could unlock massive growth under Act East. Worth reading.</p>\n<hr />\n<blockquote>\n<b>Manipur Unfiltered (@MN_Unfiltered)</b>\n<p>\n<p>\ud83e\uddf5THREAD: Manipur's Investment Landscape<br />\n<br />\nManipur has immense untapped potential to become an economic powerhouse.<br />\n<br />\nWith its location, unique resources, and ongoing projects, it can emerge as India\u2019s vital bridge to SE Asia under the Act East Policy.<br />\n<br />\n<a href=\"https://nitter.net/govt_of_manipur\" title=\"Government of Manipur\">@govt_of_manipur</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHYIZ3HaIAAwaOx.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MN_Unfiltered/status/2050848889956110571#m\">https://nitter.net/MN_Unfiltered/status/2050848889956110571#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "One year on, Baglihar Dam gates in Rambhan stay shut. Chenab runs dry.\n\nMessage is blunt. BLOOD & WATER will not flow together.",
-      "link": "https://nitter.net/OsintTV/status/2050865380260827255#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-03T14:39:44+05:30",
-      "time": "03 May, 02:39 PM",
-      "type": "tweets",
-      "content": "<p>One year on, Baglihar Dam gates in Rambhan stay shut. Chenab runs dry.<br />\n<br />\nMessage is blunt. BLOOD &amp; WATER will not flow together.</p>\n<a href=\"https://nitter.net/OsintTV/status/2050865380260827255#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2050864954098724865%2Fimg%2FvTCWC732Pw4yRM8u.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "Indian strategic capabilities in the Andaman and Nicobar Islands will remain under wraps.\n\nThis doesn't mean there's no need to pump a couple of hundred billions into more \"already envisioned\" development.",
@@ -1893,16 +1894,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @OsintTV: \u092f\u0942\u092a\u0940 \u0915\u0947 \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092e\u0947\u0902 \u0930\u093e\u0924\u092d\u0930 \u092a\u093e\u0928\u0940 \u0915\u0940 \u091f\u0902\u0915\u0940 \u092a\u0930 \u092b\u0902\u0938\u0947 \u0926\u094b \u092e\u093e\u0938\u0942\u092e\u094b\u0902 \u0915\u0940 \u091c\u093f\u0902\u0926\u0917\u0940 \u092c\u0928\u0940 \u0938\u0902\u0915\u091f \u092e\u0947\u0902, \u0907\u0902\u0921\u093f\u092f\u0928 \u090f\u092f\u0930 \u092b\u094b\u0930\u094d\u0938 \u0915\u0947 Mi-17 V5 \u0939\u0947\u0932\u0940\u0915\u0949\u092a\u094d\u091f\u0930 \u0928\u0947 \u091a\u0932\u093e\u092f\u093e \u0939\u093e\u0908-\u0930\u093f\u0938\u094d\u0915 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0911\u092a\u0930\u0947\u0936\u0928, \u0938\u0941\u092c\u0939 5:30 \u092c\u091c\u0947 \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0928\u093f\u0915\u093e\u0932\u0947 \u0917\u090f \u0926\u094b\u0928\u094b\u0902 \u092c\u091a\u094d\u091a\u0947\u2014IAF \u0915\u0940 \u0924\u0924\u094d\u092a\u0930\u0924\u093e \u0914\u0930 \u092a\u094d\u0930\u094b\u092b\u0947\u0936\u0928\u0932\u093f\u091c\u094d\u092e \u0928\u0947 \u092b\u093f\u0930 \u092c\u091a\u093e\u0908 \u091c\u093e\u0928\n\nA dramatic overnight rescue unfolded in Uttar Pradesh\u2019s Gorakhpur district as two children were left stranded atop a water tank after the access ladder was damaged. Responding swiftly to the state administration\u2019s request, the Indian Air Force deployed its Mi-17 V5 helicopter under Central Air Command. In a high-risk early morning operation around 5:30 AM, both children were successfully rescued and brought to safety.\n\nThis mission once again highlights the IAF\u2019s unmatched professionalism, rapid response capability, and commitment to saving civilian lives under challenging conditions. The Mi-17 V5, known as the backbone of IAF\u2019s helicopter fleet, proved its versatility yet again in a critical humanitarian mission.\n@CAC_CPRO @SWAC_IAF @IaSouthern @suryacommand @easterncomd\n#IAF #RescueOperation #Gorakhpur #UttarPradesh #IndianAirForce #Mi17V5 #HumanitarianMission #BreakingNews #DefenceNews #RescueMission #AirForce #IndiaNews #GroundZero #TINNetwork",
-      "link": "https://nitter.net/DefenceSahil/status/2050832191803081121#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-03T12:27:51+05:30",
-      "time": "03 May, 12:27 PM",
-      "type": "tweets",
-      "content": "<p>\u092f\u0942\u092a\u0940 \u0915\u0947 \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092e\u0947\u0902 \u0930\u093e\u0924\u092d\u0930 \u092a\u093e\u0928\u0940 \u0915\u0940 \u091f\u0902\u0915\u0940 \u092a\u0930 \u092b\u0902\u0938\u0947 \u0926\u094b \u092e\u093e\u0938\u0942\u092e\u094b\u0902 \u0915\u0940 \u091c\u093f\u0902\u0926\u0917\u0940 \u092c\u0928\u0940 \u0938\u0902\u0915\u091f \u092e\u0947\u0902, \u0907\u0902\u0921\u093f\u092f\u0928 \u090f\u092f\u0930 \u092b\u094b\u0930\u094d\u0938 \u0915\u0947 Mi-17 V5 \u0939\u0947\u0932\u0940\u0915\u0949\u092a\u094d\u091f\u0930 \u0928\u0947 \u091a\u0932\u093e\u092f\u093e \u0939\u093e\u0908-\u0930\u093f\u0938\u094d\u0915 \u0930\u0947\u0938\u094d\u0915\u094d\u092f\u0942 \u0911\u092a\u0930\u0947\u0936\u0928, \u0938\u0941\u092c\u0939 5:30 \u092c\u091c\u0947 \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0928\u093f\u0915\u093e\u0932\u0947 \u0917\u090f \u0926\u094b\u0928\u094b\u0902 \u092c\u091a\u094d\u091a\u0947\u2014IAF \u0915\u0940 \u0924\u0924\u094d\u092a\u0930\u0924\u093e \u0914\u0930 \u092a\u094d\u0930\u094b\u092b\u0947\u0936\u0928\u0932\u093f\u091c\u094d\u092e \u0928\u0947 \u092b\u093f\u0930 \u092c\u091a\u093e\u0908 \u091c\u093e\u0928<br />\n<br />\nA dramatic overnight rescue unfolded in Uttar Pradesh\u2019s Gorakhpur district as two children were left stranded atop a water tank after the access ladder was damaged. Responding swiftly to the state administration\u2019s request, the Indian Air Force deployed its Mi-17 V5 helicopter under Central Air Command. In a high-risk early morning operation around 5:30 AM, both children were successfully rescued and brought to safety.<br />\n<br />\nThis mission once again highlights the IAF\u2019s unmatched professionalism, rapid response capability, and commitment to saving civilian lives under challenging conditions. The Mi-17 V5, known as the backbone of IAF\u2019s helicopter fleet, proved its versatility yet again in a critical humanitarian mission.<br />\n<a href=\"https://nitter.net/CAC_CPRO\" title=\"CAC, IAF\">@CAC_CPRO</a> <a href=\"https://nitter.net/SWAC_IAF\" title=\"C PRO South Western Air Command\">@SWAC_IAF</a> <a href=\"https://nitter.net/IaSouthern\" title=\"Southern Command INDIAN ARMY\">@IaSouthern</a> <a href=\"https://nitter.net/suryacommand\" title=\"SuryaCommand_IA\">@suryacommand</a> <a href=\"https://nitter.net/easterncomd\" title=\"EasternCommand_IA\">@easterncomd</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IAF\">#IAF</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RescueOperation\">#RescueOperation</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Gorakhpur\">#Gorakhpur</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23UttarPradesh\">#UttarPradesh</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianAirForce\">#IndianAirForce</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Mi17V5\">#Mi17V5</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23HumanitarianMission\">#HumanitarianMission</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BreakingNews\">#BreakingNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceNews\">#DefenceNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RescueMission\">#RescueMission</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AirForce\">#AirForce</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaNews\">#IndiaNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GroundZero\">#GroundZero</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TINNetwork\">#TINNetwork</a></p>\n<a href=\"https://nitter.net/DefenceSahil/status/2050832191803081121#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050832124941627392%2Fpu%2Fimg%2FY4ubtzS8zpWBcc-f.jpg\" />\n</a>",
-      "author": "@DefenceSahil"
-    },
-    {
       "title": "Look at US, how accountable they are of their losses \ud83e\udd21\n\nAnyone who ask for India's accountability to accept losses without pushing Pakistanis to accept theirs publicly and unequivocally are the clowns of the highest order.",
       "link": "https://nitter.net/elitepredatorss/status/2050803894511673814#m",
       "source": "Elite Predators",
@@ -1979,6 +1970,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
