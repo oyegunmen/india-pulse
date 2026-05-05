@@ -1,7 +1,34 @@
 {
   "news": [
     {
-      "title": "\u2018US aims to protect ships from Iran\u2019s aggression\u2019: Hegseth warns Iran of \u2018overwhelming firepower\u2019",
+      "title": "U.S. \u2018not looking for a fight\u2019 over Strait of Hormuz, Pete Hegseth says",
+      "link": "https://www.thehindu.com/news/international/us-not-looking-for-a-fight-over-strait-of-hormuz-pete-hegseth-says/article70943151.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-05T18:46:40+05:30",
+      "time": "05 May, 06:46 PM",
+      "type": "news",
+      "description": "\u201cProject Freedom \u200cis defensive in nature, \u200cfocused \u2060in scope and temporary in \u2060duration, with one mission, protecting innocent commercial shipping fro..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Iran Foreign Minister Araghchi heads for China, Ministry says",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-05T18:28:20+05:30",
+      "time": "05 May, 06:28 PM",
+      "type": "news",
+      "description": "Iran\u2019s negotiator warned the United States against any further escalation in the Strait of Hormuz, after a spate of attacks risked reigniting the West..."
+    },
+    {
+      "title": "Lockheed Martin Awarded US Space Force Space-Based Interceptor Contracts to Meet Layered Missile Defense Demand",
+      "link": "https://www.indiastrategic.in/lockheed-martin-awarded-us-space-force-space-based-interceptor-contracts-to-meet-layered-missile-defense-demand/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-05T18:20:10+05:30",
+      "time": "05 May, 06:20 PM",
+      "type": "news",
+      "description": "<p>HUNTSVILLE, Ala., May 1, 2026. Lockheed Martin has been selected by US Space Force Space Systems Command to develop capabilities supporting the Spa..."
+    },
+    {
+      "title": "\u2018US aims to protect its ships\u2019: Pete Hegseth warns Iran of \u2018overwhelming firepower\u2019",
       "link": "https://indianexpress.com/article/world/us-iran-conflict-pete-hegseth-project-freedom-strait-of-hormuz-warning-10674253/",
       "source": "The Indian Express",
       "sort_key": "2026-05-05T18:12:15+05:30",
@@ -17,6 +44,15 @@
       "time": "05 May, 06:11 PM",
       "type": "news",
       "description": "Union Minister for Petroleum and Natural Gas, Hardeep Singh Puri met Member of House of Representatives and Chairperson, Liberal Democratic Party of J..."
+    },
+    {
+      "title": "India, Japan hold key meeting on healthcare in Delhi",
+      "link": "https://www.thehindu.com/news/national/india-japan-hold-key-meeting-on-healthcare-in-delhi/article70942708.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-05T17:56:43+05:30",
+      "time": "05 May, 05:56 PM",
+      "type": "news",
+      "description": "Mr. Nadda noted that India-Japan cooperation is guided by the Memorandum of Cooperation in healthcare and wellness, alongside a common goal of strengt..."
     },
     {
       "title": "Russian Missile and Drone Strike on Ukraine Gas Facilities Kills 5\u00a0in Overnight Attack",
@@ -53,15 +89,6 @@
       "time": "05 May, 05:30 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Iran-Israel war LIVE: Iran Foreign Minister Araghchi heads for China, Ministry says",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T16:58:59+05:30",
-      "time": "05 May, 04:58 PM",
-      "type": "news",
-      "description": "Iran\u2019s negotiator warned the United States against any further escalation in the Strait of Hormuz, after a spate of attacks risked reigniting the West..."
     },
     {
       "title": "Sudan's military accuses Ethiopia, UAE of drone attacks, recalls its ambassador",
@@ -595,6 +622,51 @@
       "description": "No U.S. \u200bNavy \u2060ships have been \u200cstruck, \u200cU.S. \u200cCentral \u2060Command \u2060said on \u200bMay 4, \u200cafter Iran asserted that it \u200chad \u200bforced a \u2060U.S. \u200cwarship to turn \u200cb..."
     },
     {
+      "title": "Israel to procure new squadrons of F-35 and F15IA: Defence Ministry",
+      "link": "https://defencemonitor.in/israel-to-procure-new-squadrons-of-f-35-and-f15ia-defence-ministry/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-05-04T16:53:56+05:30",
+      "time": "04 May, 04:53 PM",
+      "type": "news",
+      "description": "<p>Jerusalem, May 3 (IANS) Israel&#8217;s Ministry of Defence (IMOD) plan to simultaneously acquire two new fighter squadrons: a fourth F-35 squadron ..."
+    },
+    {
+      "title": "Ukrainian forces attack radiation monitoring lab of nuclear power plant",
+      "link": "https://defencemonitor.in/ukrainian-forces-attack-radiation-monitoring-lab-of-nuclear-power-plant/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-05-04T16:53:14+05:30",
+      "time": "04 May, 04:53 PM",
+      "type": "news",
+      "description": "<p>Moscow, May 3 (IANS) The Zaporizhzhia Nuclear Power Plant&#8217;s external radiation monitoring laboratory was attacked by Ukrainian forces with a ..."
+    },
+    {
+      "title": "We have no nuclear negotiations, focused on ending the war: Iran",
+      "link": "https://defencemonitor.in/we-have-no-nuclear-negotiations-focused-on-ending-the-war-iran/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-05-04T16:52:26+05:30",
+      "time": "04 May, 04:52 PM",
+      "type": "news",
+      "description": "<p>Tehran, May 3 (IANS) Esmaeil Baqaei, the Foreign Ministry spokesperson, denied media claims about Iran&#8217;s plan of suspension of Uranium enrich..."
+    },
+    {
+      "title": "Iran warns US army against entering Strait of Hormuz",
+      "link": "https://defencemonitor.in/iran-warns-us-army-against-entering-strait-of-hormuz/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-05-04T16:50:30+05:30",
+      "time": "04 May, 04:50 PM",
+      "type": "news",
+      "description": "<p>Tehran, May 4 (IANS) Iran on Monday warned the US army against entering the Strait of Hormuz and said that they will be attacked if they intend to ..."
+    },
+    {
+      "title": "Indian submarine INS Sindhukesari arrives in Colombo for operational turnaround",
+      "link": "https://defencemonitor.in/indian-submarine-ins-sindhukesari-arrives-in-colombo-for-operational-turnaround/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-05-04T16:48:22+05:30",
+      "time": "04 May, 04:48 PM",
+      "type": "news",
+      "description": "<p>Colombo, May 4 (IANS) Indian Navy submarine INS Sindhukesari arrived in Sri Lanka&#8217;s Colombo for an operational turnaround, reinforcing the gr..."
+    },
+    {
       "title": "Trump\u2019s \u2018Project Freedom\u2019 kicks off: US Navy to guide hundreds of stranded ships out of mine-filled Strait of Hormuz",
       "link": "https://indianexpress.com/article/world/us-news/us-led-task-force-begins-hormuz-mission-10672139/",
       "source": "The Indian Express",
@@ -818,63 +890,69 @@
       "time": "03 May, 07:25 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Admiral Dinesh K Tripathi embarks Myanmar Navy vessel; discusses maritime security ties with senior military leaders",
-      "link": "https://economictimes.indiatimes.com/news/defence/admiral-dinesh-k-tripathi-embarks-myanmar-navy-vessel-discusses-maritime-security-ties-with-senior-military-leaders/articleshow/130733794.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-03T19:16:33+05:30",
-      "time": "03 May, 07:16 PM",
-      "type": "news",
-      "description": "Admiral Tripathi visited Myanmar's Naval Training Command where he formally handed over some military hardware including containerised small arms simu..."
-    },
-    {
-      "title": "Iran says U.S. military operation \u2018impossible\u2019 as Trump mulls peace proposal",
-      "link": "https://www.thehindu.com/news/international/iran-guards-say-us-options-are-impossible-military-operation-or-bad-deal/article70935106.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T19:12:22+05:30",
-      "time": "03 May, 07:12 PM",
-      "type": "news",
-      "description": "The Guards intelligence organisation said that \u201cU.S. President Donald Trump must choose between 'an impossible operation or a bad deal with the Islami..."
-    },
-    {
-      "title": "India carries out 2nd test of long-range hypersonic anti-ship missile off Odisha coast",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-successfully-tests-advanced-long-range-hypersonic-anti-ship-missile-off-odisha-coast/articleshow/130733635.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-03T19:11:59+05:30",
-      "time": "03 May, 07:11 PM",
-      "type": "news",
-      "description": "India's maritime defence received a significant boost with the successful second flight test of its long-range hypersonic anti-ship missile. The DRDO-..."
-    },
-    {
-      "title": "Israeli military urges residents in southern Lebanon to evacuate amid operations against Hezbollah",
-      "link": "https://indianexpress.com/article/world/israel-lebanon-evacuation-warning-11-towns-hezbollah-ceasefire-violation-10670929/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-03T19:10:05+05:30",
-      "time": "03 May, 07:10 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Mahsa Amini death protest: Iran executes man convicted of killing security officer in 2022",
-      "link": "https://indianexpress.com/article/world/iran-execution-mehrab-abdollahzadeh-2022-protests-mahsa-amini-fallout-10670846/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-03T19:03:59+05:30",
-      "time": "03 May, 07:03 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Armies of India, Cambodia to conduct 2-week military exercise",
-      "link": "https://economictimes.indiatimes.com/news/defence/armies-of-india-cambodia-to-conduct-2-week-military-exercise/articleshow/130733052.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-03T18:34:51+05:30",
-      "time": "03 May, 06:34 PM",
-      "type": "news",
-      "description": "The Indian and Cambodian military units have embarked on an exciting two-week joint drill in Cambodia, entering the second chapter of their CINBAX ini..."
     }
   ],
   "tweets": [
+    {
+      "title": "Vietnam President To Lam in Delhi. Tomm is the key day of engagement",
+      "link": "https://nitter.net/sidhant/status/2051660838801748127#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-05T19:20:36+05:30",
+      "time": "05 May, 07:20 PM",
+      "type": "tweets",
+      "content": "<p>Vietnam President To Lam in Delhi. Tomm is the key day of engagement</p>\n<img src=\"https://nitter.net/pic/media%2FHHj2pvjbUAA0yJR.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Sri Lankan Navy hosts Asymmetric Warfare Course (AWC), attended by Indians, Chinese, Pakistanis",
+      "link": "https://nitter.net/sidhant/status/2051660652897550828#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-05T19:19:52+05:30",
+      "time": "05 May, 07:19 PM",
+      "type": "tweets",
+      "content": "<p>Sri Lankan Navy hosts Asymmetric Warfare Course (AWC), attended by Indians, Chinese, Pakistanis</p>\n<img src=\"https://nitter.net/pic/media%2FHHj2e1kbIAAE7Tf.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian Navy submarine INS Sindhukesari makes a Port call in Colombo, Sri Lanka",
+      "link": "https://nitter.net/sidhant/status/2051660205163954469#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-05T19:18:05+05:30",
+      "time": "05 May, 07:18 PM",
+      "type": "tweets",
+      "content": "<p>Indian Navy submarine INS Sindhukesari makes a Port call in Colombo, Sri Lanka</p>\n<a href=\"https://nitter.net/sidhant/status/2051660205163954469#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051643123621826560%2Fimg%2FJaYy4zhUSEKpGZ3q.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian Ocean Ship (IOS) Sagar docks at Yangon Harbour as part of India\u2019s ongoing maritime engagement in the region. The visit coincides with the visit of Indian Navy Chief Adm Dinesh K Tripathi.",
+      "link": "https://nitter.net/sidhant/status/2051659188275966403#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-05T19:14:03+05:30",
+      "time": "05 May, 07:14 PM",
+      "type": "tweets",
+      "content": "<p>Indian Ocean Ship (IOS) Sagar docks at Yangon Harbour as part of India\u2019s ongoing maritime engagement in the region. The visit coincides with the visit of Indian Navy Chief Adm Dinesh K Tripathi.</p>\n<img src=\"https://nitter.net/pic/media%2FHHj1JhlbYAA52Q6.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"Prejudiced and partisan opinion\", Indian Envoy to US Kwatra dismisses New York Times write up on India. \n\nPS: Western Media is known to promote & take anti India stance.",
+      "link": "https://nitter.net/sidhant/status/2051658647013556356#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-05T19:11:54+05:30",
+      "time": "05 May, 07:11 PM",
+      "type": "tweets",
+      "content": "<p>\"Prejudiced and partisan opinion\", Indian Envoy to US Kwatra dismisses New York Times write up on India. <br />\n<br />\nPS: Western Media is known to promote &amp; take anti India stance.</p>\n<hr />\n<blockquote>\n<b>Amb Vinay Mohan Kwatra (@AmbVMKwatra)</b>\n<p>\n<p>Describing well intentioned efforts aimed at protecting against viral<br />\nmisinformation & possible harm to the Indian society under India\u2019s IT Rules as \u201ccensorship\u201d makes for a catchy headline, but a lazy argument in the op-ed piece by Arman Khan in <a href=\"https://nitter.net/nytimes\" title=\"The New York Times\">@nytimes</a> . <br />\n<br />\nIndia takes pride in its credentials as the world\u2019s largest democracy, with a written constitution, an independent judiciary, a vibrant English and vernacular press, and a long history of rights-based litigation.<br />\nFraming what is essentially about platform accountability  as \u201cfree speech vs censorship\u201d deliberately and disingenuously conflates different issues. <br />\nAlways welcome an exchange of views on finding the right balance between free speech and accountability to further strengthen India\u2019s cherished democracy. Unfortunately,  prejudiced and partisan opinion is not a constructive starting point. <br />\n<a href=\"https://www.nytimes.com/2026/05/01/opinion/india-modi-internet-censorship.html\">nytimes.com/2026/05/01/opini\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2050088395272040448%2FNOipz6cP%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AmbVMKwatra/status/2051641339608027363#m\">https://nitter.net/AmbVMKwatra/status/2051641339608027363#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @NetramDefence: \"It shows that early aircraft losses, which dominated international coverage, were only one part of a larger campaign that unfolded very differently over time and ended with the Pakistan Air Force outmatched, India establishing air superiority over significant portions of Pakistani airspace, and conducting precision strikes across the depth of Pakistan.\"",
+      "link": "https://nitter.net/SpencerGuard/status/2051657642276225409#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-05T19:07:54+05:30",
+      "time": "05 May, 07:07 PM",
+      "type": "tweets",
+      "content": "<p>\"It shows that early aircraft losses, which dominated international coverage, were only one part of a larger campaign that unfolded very differently over time and ended with the Pakistan Air Force outmatched, India establishing air superiority over significant portions of Pakistani airspace, and conducting precision strikes across the depth of Pakistan.\"</p>\n<hr />\n<blockquote>\n<b>John Spencer (@SpencerGuard)</b>\n<p>\n<p><a href=\"http://x.com/i/article/2051469242722062340\">x.com/i/article/205146924272\u2026</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/SpencerGuard/status/2051471868339618018#m\">https://nitter.net/SpencerGuard/status/2051471868339618018#m</a>\n</footer>\n</blockquote>",
+      "author": "@SpencerGuard"
+    },
     {
       "title": "Indian all party delegation, including representation from ruling BJP & opposition Congress is on a visit to Taiwan. \n\nTaiwan Statement:",
       "link": "https://nitter.net/sidhant/status/2051642428223042041#m",
@@ -936,7 +1014,27 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Several Jaish-e-Mohammed terrorists have reportedly joined the deadly TTP to fight against the Pak Army, with several involved in su#c!de attacks: Sources\n\nThis is what happens when you breed snakes in your own backyard.",
+      "title": "RT by @NetramDefence: Police in Manipur\u2019s Churachandpur have seized 994 g of brown sugar concealed in 82 soap cases and arrested a woman during a raid at Tuibong.\n\nOfficials confirmed that further investigation is underway to trace the supply network and possible links.",
+      "link": "https://nitter.net/MN_Unfiltered/status/2051626214608032201#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-05T17:03:01+05:30",
+      "time": "05 May, 05:03 PM",
+      "type": "tweets",
+      "content": "<p>Police in Manipur\u2019s Churachandpur have seized 994 g of brown sugar concealed in 82 soap cases and arrested a woman during a raid at Tuibong.<br />\n<br />\nOfficials confirmed that further investigation is underway to trace the supply network and possible links.</p>\n<img src=\"https://nitter.net/pic/media%2FHHjXKegWwAwVyGq.jpg\" />",
+      "author": "@MN_Unfiltered"
+    },
+    {
+      "title": "RT by @NetramDefence: A Message of Unity: NCC Cadets From Meitei, Kuki & Naga Along With Others Seen Together From Practicing to Doing Classes\n\nNCC Directorate North Eastern Region Shares Image saying, \"Many cultures, one identity - bound by the spirit of NCC \ud83c\uddee\ud83c\uddf3",
+      "link": "https://nitter.net/ImphalWarrior/status/2051624452379795953#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-05T16:56:01+05:30",
+      "time": "05 May, 04:56 PM",
+      "type": "tweets",
+      "content": "<p>A Message of Unity: NCC Cadets From Meitei, Kuki &amp; Naga Along With Others Seen Together From Practicing to Doing Classes<br />\n<br />\nNCC Directorate North Eastern Region Shares Image saying, \"Many cultures, one identity - bound by the spirit of NCC \ud83c\uddee\ud83c\uddf3</p>\n<img src=\"https://nitter.net/pic/media%2FHHjVfzIbkAAD6qz.png\" />",
+      "author": "@ImphalWarrior"
+    },
+    {
+      "title": "RT by @OsintTV: Several Jaish-e-Mohammed terrorists have reportedly joined the deadly TTP to fight against the Pak Army, with several involved in su#c!de attacks: Sources\n\nThis is what happens when you breed snakes in your own backyard.",
       "link": "https://nitter.net/OsintTV/status/2051619120118988847#m",
       "source": "Osint TV",
       "sort_key": "2026-05-05T16:34:50+05:30",
@@ -1196,7 +1294,7 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Heavy reaction from Paijaans means you have exposed something real and hit a nerve.",
+      "title": "RT by @OsintTV: Heavy reaction from Paijaans means you have exposed something real and hit a nerve.",
       "link": "https://nitter.net/OsintTV/status/2051546231202005425#m",
       "source": "Osint TV",
       "sort_key": "2026-05-05T11:45:12+05:30",
@@ -1242,7 +1340,7 @@
       "sort_key": "2026-05-05T11:14:58+05:30",
       "time": "05 May, 11:14 AM",
       "type": "tweets",
-      "content": "<p>India announces support of Jamaican $ 2 million for the celebration of 181 years of arrival of Indians to Jamaica- The Indian arrival day.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India to supply dialysis unit to Jamaica, says EAM Jaishankar. Points to increase in ITEC slot for the country. <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1AJEmORWzQAJL\">nitter.net/i/broadcasts/1AJEmORWz\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051642282785558529%2FLEe8jkEH%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051537113355804770#m\">https://nitter.net/sidhant/status/2051537113355804770#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>India announces support of Jamaican $ 2 million for the celebration of 181 years of arrival of Indians to Jamaica- The Indian arrival day.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India to supply dialysis unit to Jamaica, says EAM Jaishankar. Points to increase in ITEC slot for the country. <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1AJEmORWzQAJL\">nitter.net/i/broadcasts/1AJEmORWz\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051658211997159424%2F5z42uEvh%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051537113355804770#m\">https://nitter.net/sidhant/status/2051537113355804770#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1252,7 +1350,7 @@
       "sort_key": "2026-05-05T11:10:55+05:30",
       "time": "05 May, 11:10 AM",
       "type": "tweets",
-      "content": "<p>Jamaica extends support to India's bid for non permanent membership for UNSC for the 2028-2029 term</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India to supply dialysis unit to Jamaica, says EAM Jaishankar. Points to increase in ITEC slot for the country. <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1AJEmORWzQAJL\">nitter.net/i/broadcasts/1AJEmORWz\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051642282785558529%2FLEe8jkEH%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051537113355804770#m\">https://nitter.net/sidhant/status/2051537113355804770#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Jamaica extends support to India's bid for non permanent membership for UNSC for the 2028-2029 term</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India to supply dialysis unit to Jamaica, says EAM Jaishankar. Points to increase in ITEC slot for the country. <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1AJEmORWzQAJL\">nitter.net/i/broadcasts/1AJEmORWz\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051658211997159424%2F5z42uEvh%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051537113355804770#m\">https://nitter.net/sidhant/status/2051537113355804770#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1262,17 +1360,7 @@
       "sort_key": "2026-05-05T11:08:58+05:30",
       "time": "05 May, 11:08 AM",
       "type": "tweets",
-      "content": "<p>India to supply dialysis unit to Jamaica, says EAM Jaishankar. Points to increase in ITEC slot for the country. <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1AJEmORWzQAJL\">nitter.net/i/broadcasts/1AJEmORWz\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051642282785558529%2FLEe8jkEH%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Bangladeshi journalists met foreign secretary Vikram Misri on Monday",
-      "link": "https://nitter.net/sidhant/status/2051536804835361114#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T11:07:44+05:30",
-      "time": "05 May, 11:07 AM",
-      "type": "tweets",
-      "content": "<p>Bangladeshi journalists met foreign secretary Vikram Misri on Monday</p>",
+      "content": "<p>India to supply dialysis unit to Jamaica, says EAM Jaishankar. Points to increase in ITEC slot for the country. <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1AJEmORWzQAJL\">nitter.net/i/broadcasts/1AJEmORWz\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051658211997159424%2F5z42uEvh%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@sidhant"
     },
     {
@@ -1284,36 +1372,6 @@
       "type": "tweets",
       "content": "<p>Recent imagery from Pakistan shows reconstruction work at the \"terror-linked\" targets India struck in May 2025, previously damaged structures are being restored, demolitions &amp; debris continue to be removed nearly a year after the strike <br />\n<br />\n<a href=\"https://www.indiatoday.in/world/story/jaish-rebuilds-bahawalpur-base-muzaffarabad-after-operation-sindoor-satellite-images-show-2906805-2026-05-05\">indiatoday.in/world/story/ja\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051533632595218432%2FYB1DTBHi%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@detresfa_"
-    },
-    {
-      "title": "Newspapers of 3 countries, make the election results from West Bengal & Tamil Nadu as top headlines this morning. BJP's Bengal win & Vijay's Tamil Nadu win closely watched in Bangladesh & Sri Lanka.\n\nIndia (naturally)\nBangladesh\nSri Lanka",
-      "link": "https://nitter.net/sidhant/status/2051535994051035598#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T11:04:31+05:30",
-      "time": "05 May, 11:04 AM",
-      "type": "tweets",
-      "content": "<p>Newspapers of 3 countries, make the election results from West Bengal &amp; Tamil Nadu as top headlines this morning. BJP's Bengal win &amp; Vijay's Tamil Nadu win closely watched in Bangladesh &amp; Sri Lanka.<br />\n<br />\nIndia (naturally)<br />\nBangladesh<br />\nSri Lanka</p>\n<img src=\"https://nitter.net/pic/media%2FHHiFG3ZXEAg_eaE.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiFGuLXcAEdebf.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiFHOFWAAMOL5g.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiFHC8XIAEGIZl.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>All major Bangladesh newspapers headline West Bengal elections results. Headlines read 'BJP comes to power in West Bengal for the first time'</p>\n<img src=\"https://nitter.net/pic/media%2FHHiD6UdasAApX5V.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6W_aAAAkgjJ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6bbbIAA5u2y.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6fPb0AAel18.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051534673810252017#m\">https://nitter.net/sidhant/status/2051534673810252017#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "From Sri Lanka's key Tamil newspaper: \n\nTVK chief Vijay's debut makes it to the front pages",
-      "link": "https://nitter.net/sidhant/status/2051534828315746322#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T10:59:53+05:30",
-      "time": "05 May, 10:59 AM",
-      "type": "tweets",
-      "content": "<p>From Sri Lanka's key Tamil newspaper: <br />\n<br />\nTVK chief Vijay's debut makes it to the front pages</p>\n<img src=\"https://nitter.net/pic/media%2FHHiEDeBaQAATof2.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>All major Bangladesh newspapers headline West Bengal elections results. Headlines read 'BJP comes to power in West Bengal for the first time'</p>\n<img src=\"https://nitter.net/pic/media%2FHHiD6UdasAApX5V.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6W_aAAAkgjJ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6bbbIAA5u2y.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6fPb0AAel18.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051534673810252017#m\">https://nitter.net/sidhant/status/2051534673810252017#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "All major Bangladesh newspapers headline West Bengal elections results. Headlines read 'BJP comes to power in West Bengal for the first time'",
-      "link": "https://nitter.net/sidhant/status/2051534673810252017#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T10:59:16+05:30",
-      "time": "05 May, 10:59 AM",
-      "type": "tweets",
-      "content": "<p>All major Bangladesh newspapers headline West Bengal elections results. Headlines read 'BJP comes to power in West Bengal for the first time'</p>\n<img src=\"https://nitter.net/pic/media%2FHHiD6UdasAApX5V.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6W_aAAAkgjJ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6bbbIAA5u2y.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHiD6fPb0AAel18.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "It seems a press conference will take place on 7th May. Commander Conference happening in Jaipur, as per @sidhant, RM will also be attending the CC.\n\nI am expecting fireworks, a montage of arty shelling, mortar firing and Pakistani posts getting obliterated. I will be disappointed, I know, but we can always fantasise about badass optics by the Indian Army.",
@@ -1344,16 +1402,6 @@
       "type": "tweets",
       "content": "<p>Tweet - (3/n)<br />\n[Op Sindoor]<br />\nMuridke <br />\n\ud83d\udccc31\u00b050'17\"N 74\u00b015'34\"E<br />\nOperational HQ of Lashkar \ud83d\ude01<br />\nMarkaz Taiyyba<br />\nDate- 07/05/2025</p>\n<a href=\"https://nitter.net/Goreunit/status/2051525134427554112#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051525083642863627%2Fpu%2Fimg%2FUjLekp-o63EW3-n3.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Tweet - (2/n)<br />\n[Op Sindoor]<br />\nPAF Base Rahimyar Khan after an attack by IAF. <br />\nDate- 10 May 2025<br />\nIndia precisely hit military installations of Pakistan avoiding civilian casualties.</p>\n<a href=\"https://nitter.net/Goreunit/status/2050093907711758674#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050093802405380096%2Fpu%2Fimg%2Feps42_LpLQ_A3HkF.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2050093907711758674#m\">https://nitter.net/Goreunit/status/2050093907711758674#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "India stands ready to support all efforts for a peaceful resolution of issues: India on UAE attack",
-      "link": "https://nitter.net/sidhant/status/2051518464758808814#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T09:54:52+05:30",
-      "time": "05 May, 09:54 AM",
-      "type": "tweets",
-      "content": "<p>India stands ready to support all efforts for a peaceful resolution of issues: India on UAE attack</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking:<br />\n<br />\n\"The attack on Fujairah that resulted in injury to three Indian nationals is unacceptable...\" says Indian foreign ministry on UAE attack</p>\n<img src=\"https://nitter.net/pic/media%2FHHh0wLuasAAHQhV.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051518011698516007#m\">https://nitter.net/sidhant/status/2051518011698516007#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "The whole world knows their reality, but they keep their mouth shut.\n\nIt has been clear for a decade that it is our job to wipe these pigs out from the face of the earth without asking for support from anyone. Every admission is putting a target on their head, making every hit by unknown gunmen a legit one.",
@@ -1866,16 +1914,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT @cozyduke_apt29: A pro-IS Bengali media channel disseminated a video of roughly three minutes in duration of its operatives (believed to\u2026",
-      "link": "https://nitter.net/OsintTV/status/2051235305173217588#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-04T15:09:41+05:30",
-      "time": "04 May, 03:09 PM",
-      "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/cozyduke_apt29\" title=\"Vineet\">@cozyduke_apt29</a>: A pro-IS Bengali media channel disseminated a video of roughly three minutes in duration of its operatives (believed to\u2026</p>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Don't let him run to Bangladesh",
       "link": "https://nitter.net/WarMonitorINTL/status/2051233561244741702#m",
       "source": "War Monitor",
@@ -2004,19 +2042,18 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief: <br />\n3rd May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Israel has approved its fourth F-35I \u201cAdir\u201d squadron, expanding the IAF fleet toward ~100 advanced stealth fighters from the current 2 operational squadrons at Nevatim.<br />\n<br />\n\u25cf OPEC+ members Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman agreed to a production adjustment of 188,000 barrels/day from their voluntary cuts, effective June 2026.<br />\n<br />\n\u25cf CENTCOM notes that of today, 49 commercial vessels have been redirected to comply with blockade.<br />\n<br />\n\u25cf An Israeli court in Ashkelon has extended the detention of two flotilla activists by two days following their interception by the navy.<br />\n<br />\n\u25cf Iran\u2019s 14-point proposal clashes with US demands, as Tehran wants to delay nuclear talks while Washington insists Iran first give up its 400 kg+ of highly enriched uranium. Iran instead prioritizes reopening the Strait of Hormuz before nuclear negotiations.<br />\n<br />\n\u25cf The India-bound LPG tanker SARV SHAKTI has successfully cleared the Strait of Hormuz as of this morning. It is expected to reach Visakhapatnam by May 13.<br />\n<br />\n\u25cf The Pentagon confirmed it will follow through on plans to pull 5,000 troops from Germany.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHaHqk5aYAAn4a2.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n2nd May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Israeli forces struck the southern Lebanese village of Zawtar with white phosphorus shells.<br />\n<br />\n\u25cf UAE announces the full resumption of normal air navigation operations across its airspace.<br />\n<br />\n\u25cf India-linked LPG tanker, SARV SHAKTI, was making a rare transit through Strait of Hormuz with 45,000 tons of LPG. Its full transit could take ~10-14 hours.<br />\n<br />\n\u25cf President Trump announced he is raising tariffs on cars and trucks from the EU to 25%, effective next week.<br />\n<br />\n\u25cf China's Commerce Ministry today issued an injunction blocking U.S. sanctions on five Chinese refineries buying Iranian oil, shielding its energy imports.<br />\n<br />\n\u25cf Seven OPEC+ member countries have reached a preliminary agreement to increase oil production targets by roughly 188,000 barrels per day in June, despite UAE\u2019s exit.<br />\n<br />\n\u25cf The Trump administration announced over $8.6 billion in emergency arms sales to Middle Eastern partners today, including Israel, Qatar, Kuwait, and the UAE.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHVR7QEaYAEHyi7.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2050635347118465215#m\">https://nitter.net/NetramDefence/status/2050635347118465215#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "x.com/i/spaces/1vJpPrklprgJE",
-      "link": "https://nitter.net/NetramDefence/status/2050946119065280975#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-03T20:00:34+05:30",
-      "time": "03 May, 08:00 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/i/spaces/1vJpPrklprgJE\">nitter.net/i/spaces/1vJpPrklprgJE</a></p>",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
+    {
+      "title": "Ghatak UCAV - New Updates",
+      "link": "https://www.youtube.com/watch?v=4Q6l3ZLBz68",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-05T18:12:34+05:30",
+      "time": "05 May, 06:12 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/4Q6l3ZLBz68/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Agni-5 MK2 Test,Brahmos-2 by 2027,Divyastra Mk2 Test,Mini-Destroyer Offer",
       "link": "https://www.youtube.com/watch?v=6eWinrJJO04",
@@ -2064,6 +2101,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
