@@ -1,13 +1,103 @@
 {
   "news": [
     {
-      "title": "PM Modi condemns attack on UAE\u2019s Fujairah which injured three Indian nationals",
+      "title": "Nightshade ADX-1: 600 Kmph Jet-Class Drone Built for GPS-Denied Missions",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/nightshade-adx-1-600-kmph-jet-class-drone-built-for-gps-denied-missions-1954885",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-05T22:22:03+05:30",
+      "time": "05 May, 10:22 PM",
+      "type": "news",
+      "description": "Student-led firm moves to scale its unmanned aerial vehicle systems for defence use"
+    },
+    {
+      "title": "The red, white and blue dome: Trump makes risky move to free Hormuz",
+      "link": "https://economictimes.indiatimes.com/news/defence/the-red-white-and-blue-dome-trump-makes-risky-move-to-free-hormuz/articleshow/130834450.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-05T22:15:45+05:30",
+      "time": "05 May, 10:15 PM",
+      "type": "news",
+      "description": "In a pivotal development, the United States has launched 'Operation Freedom', aimed at safeguarding the vital shipping lanes of the Strait of Hormuz. ..."
+    },
+    {
+      "title": "Study Finds Cobra Numbers Rising in City",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/study-finds-cobra-numbers-rising-in-city-1954880",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-05T22:08:49+05:30",
+      "time": "05 May, 10:08 PM",
+      "type": "news",
+      "description": "Urban growth, food waste, and fewer predators fuel rising snake encounters"
+    },
+    {
+      "title": "Joint session of federal parliament in Nepal on May 11",
+      "link": "https://www.newsonair.gov.in/joint-session-of-federal-parliament-in-nepal-on-may-11/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-05T21:59:37+05:30",
+      "time": "05 May, 09:59 PM",
+      "type": "news",
+      "description": "Nepal\u2019s President, Ramchandra Paudel, has called a session of both houses of the federal parliament for May 11. The meeting is scheduled for Monday at..."
+    },
+    {
+      "title": "UAE intercepts Iranian missiles as tensions rise across West Asia",
+      "link": "https://www.newsonair.gov.in/uae-intercepts-iranian-missiles-as-tensions-rise-across-west-asia/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-05T21:58:03+05:30",
+      "time": "05 May, 09:58 PM",
+      "type": "news",
+      "description": "A fragile ceasefire in West Asia came under renewed strain today as the United Arab Emirates reported fresh missile and drone attacks launched from Ir..."
+    },
+    {
+      "title": "Ready to resume major combat operations in Iran, says top US general",
+      "link": "https://indianexpress.com/article/world/us-general-dan-caine-iran-missile-attack-uae-indians-injured-ceasefire-10674557/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-05T21:49:35+05:30",
+      "time": "05 May, 09:49 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Global condemnation mounts over Iranian attacks on the UAE",
+      "link": "https://www.newsonair.gov.in/global-condemnation-mounts-over-iranian-attacks-on-the-uae/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-05T21:42:28+05:30",
+      "time": "05 May, 09:42 PM",
+      "type": "news",
+      "description": "The international community has responded with swift and widespread condemnation following Iran&#8217;s missile and drone attacks on the United Arab E..."
+    },
+    {
+      "title": "Nepal: Supreme Court orders government to submit details of demolition of squatters\u2019 settlement",
+      "link": "https://www.newsonair.gov.in/nepal-supreme-court-orders-government-to-submit-details-of-demolition-of-squatters-settlement/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-05T21:40:36+05:30",
+      "time": "05 May, 09:40 PM",
+      "type": "news",
+      "description": "The Supreme Court of Nepal has directed the federal government to furnish detailed documents related to the procedures followed in demolishing squatte..."
+    },
+    {
+      "title": "MoD Signs Rs 1,476 Crore BEL Deal To Supply Electronic Systems to Army",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/mod-signs-rs-1476-crore-bel-deal-to-supply-electronic-systems-to-army-1954865",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-05T21:26:45+05:30",
+      "time": "05 May, 09:26 PM",
+      "type": "news",
+      "description": "The system will modernise Indian Army units and strengthen the indigenous defence manufacturing ecosystem in the country. The contract was signed in t..."
+    },
+    {
+      "title": "PM Modi condemns attack on UAE\u2019s Fujairah which injured 3 Indian nationals",
       "link": "https://www.newsonair.gov.in/pm-modi-condemns-attack-on-uaes-fujairah-which-injured-three-indian-nationals/",
       "source": "All India Radio",
       "sort_key": "2026-05-05T21:20:49+05:30",
       "time": "05 May, 09:20 PM",
       "type": "news",
       "description": "Prime Minister Narendra Modi has strongly condemned the attacks on UAE&#8217;s Fujairah that resulted in injuries to three Indian nationals. In a soci..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: UAE air defences 'actively engaging' with Iran missiles, drones, says UAE Defence Ministry",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-05T21:20:45+05:30",
+      "time": "05 May, 09:20 PM",
+      "type": "news",
+      "description": "U.S. threatens 'devastating' response to any Iran attack on shipping; Hegseth and Caine say ceasefire between the U.S. and Iran is not over"
     },
     {
       "title": "Pakistan court declares PM Shehbaz's daughter and her husband 'innocent' in corruption case",
@@ -17,15 +107,6 @@
       "time": "05 May, 09:11 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Iran-Israel war LIVE: UAE air defences 'actively engaging' with Iran missiles, drones, says UAE Defence Ministry",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T21:09:57+05:30",
-      "time": "05 May, 09:09 PM",
-      "type": "news",
-      "description": "U.S. threatens 'devastating' response to any Iran attack on shipping; Hegseth and Caine say ceasefire between the U.S. and Iran is not over"
     },
     {
       "title": "Watch: Mamata Banerjee refuses to resign, rejects poll defeat | Above the Fold | 05.05.2026",
@@ -244,15 +325,6 @@
       "description": ""
     },
     {
-      "title": "Pakistan: 10 people died as severe heatwave continues to grip Sindh province",
-      "link": "https://www.newsonair.gov.in/pakistan-10-people-died-as-severe-heatwave-continues-to-grip-sindh-province/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-05T14:03:19+05:30",
-      "time": "05 May, 02:03 PM",
-      "type": "news",
-      "description": "In Pakistan, ten people have died as a severe heatwave continues to grip Sindh province. Authorities said five bodies were recovered in different part..."
-    },
-    {
       "title": "India may discuss BrahMos missile sale to Vietnam during presidential visit, sources say",
       "link": "https://economictimes.indiatimes.com/news/defence/india-may-discuss-brahmos-missile-sale-to-vietnam-during-presidential-visit-sources-say/articleshow/130822763.cms",
       "source": "Economic Times",
@@ -262,15 +334,6 @@
       "description": "Vietnamese President To Lam's visit to India this week is expected to focus on expanding defense ties, with a potential BrahMos missile purchase being..."
     },
     {
-      "title": "US Navy guided-missile destroyers successfully transited Strait of Hormuz and enter Arabian Gulf",
-      "link": "https://www.newsonair.gov.in/us-navy-guided-missile-destroyers-successfully-transited-strait-of-hormuz-and-enter-arabian-gulf/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-05T13:29:05+05:30",
-      "time": "05 May, 01:29 PM",
-      "type": "news",
-      "description": "Two US Navy guided-missile destroyers have successfully transited the Strait of Hormuz and entered the Arabian Gulf, after navigating sustained and co..."
-    },
-    {
       "title": "The risk of the Iran war restarting is irrationally high",
       "link": "https://economictimes.indiatimes.com/news/defence/the-risk-of-the-iran-war-restarting-is-irrationally-high/articleshow/130821302.cms",
       "source": "Economic Times",
@@ -278,15 +341,6 @@
       "time": "05 May, 01:26 PM",
       "type": "news",
       "description": "The US and Iran are locked in a dangerous standoff, fueled by mutual miscalculations and overconfidence.  Ancient Greek concepts of error and pride of..."
-    },
-    {
-      "title": "Germany: 2 killed and several injured after car drove into crowd in Leipzig",
-      "link": "https://www.newsonair.gov.in/german-2-killed-and-several-injured-after-car-drove-into-crowd-in-leipzig/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-05T13:17:42+05:30",
-      "time": "05 May, 01:17 PM",
-      "type": "news",
-      "description": "In Germany, two people were killed and several others injured after a car drove into a crowd in the eastern city of Leipzig. City Mayor Burkhard Jung ..."
     },
     {
       "title": "26 killed, 61 injured in blast at fireworks factory in China",
@@ -314,15 +368,6 @@
       "time": "05 May, 12:33 PM",
       "type": "news",
       "description": "<p>New Delhi, May 5, 2026. The Indian National Space Promotion and Authorisation Centre (IN-SPACe), in collaboration with the Bureau of Indian Standar..."
-    },
-    {
-      "title": "Fireworks plant explosion in central China\u2019s Hunan Province killed 26 people",
-      "link": "https://www.newsonair.gov.in/fireworks-plant-explosion-in-china/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-05T12:30:02+05:30",
-      "time": "05 May, 12:30 PM",
-      "type": "news",
-      "description": "In China, 26 people were killed and 61 others injured in an explosion at a fireworks plant in central Hunan province. The blast occurred yesterday aft..."
     },
     {
       "title": "Uncertainty continues over safety in the Strait of Hormuz",
@@ -667,51 +712,6 @@
       "description": "No U.S. \u200bNavy \u2060ships have been \u200cstruck, \u200cU.S. \u200cCentral \u2060Command \u2060said on \u200bMay 4, \u200cafter Iran asserted that it \u200chad \u200bforced a \u2060U.S. \u200cwarship to turn \u200cb..."
     },
     {
-      "title": "Israel to procure new squadrons of F-35 and F15IA: Defence Ministry",
-      "link": "https://defencemonitor.in/israel-to-procure-new-squadrons-of-f-35-and-f15ia-defence-ministry/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:53:56+05:30",
-      "time": "04 May, 04:53 PM",
-      "type": "news",
-      "description": "<p>Jerusalem, May 3 (IANS) Israel&#8217;s Ministry of Defence (IMOD) plan to simultaneously acquire two new fighter squadrons: a fourth F-35 squadron ..."
-    },
-    {
-      "title": "Ukrainian forces attack radiation monitoring lab of nuclear power plant",
-      "link": "https://defencemonitor.in/ukrainian-forces-attack-radiation-monitoring-lab-of-nuclear-power-plant/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:53:14+05:30",
-      "time": "04 May, 04:53 PM",
-      "type": "news",
-      "description": "<p>Moscow, May 3 (IANS) The Zaporizhzhia Nuclear Power Plant&#8217;s external radiation monitoring laboratory was attacked by Ukrainian forces with a ..."
-    },
-    {
-      "title": "We have no nuclear negotiations, focused on ending the war: Iran",
-      "link": "https://defencemonitor.in/we-have-no-nuclear-negotiations-focused-on-ending-the-war-iran/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:52:26+05:30",
-      "time": "04 May, 04:52 PM",
-      "type": "news",
-      "description": "<p>Tehran, May 3 (IANS) Esmaeil Baqaei, the Foreign Ministry spokesperson, denied media claims about Iran&#8217;s plan of suspension of Uranium enrich..."
-    },
-    {
-      "title": "Iran warns US army against entering Strait of Hormuz",
-      "link": "https://defencemonitor.in/iran-warns-us-army-against-entering-strait-of-hormuz/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:50:30+05:30",
-      "time": "04 May, 04:50 PM",
-      "type": "news",
-      "description": "<p>Tehran, May 4 (IANS) Iran on Monday warned the US army against entering the Strait of Hormuz and said that they will be attacked if they intend to ..."
-    },
-    {
-      "title": "Indian submarine INS Sindhukesari arrives in Colombo for operational turnaround",
-      "link": "https://defencemonitor.in/indian-submarine-ins-sindhukesari-arrives-in-colombo-for-operational-turnaround/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:48:22+05:30",
-      "time": "04 May, 04:48 PM",
-      "type": "news",
-      "description": "<p>Colombo, May 4 (IANS) Indian Navy submarine INS Sindhukesari arrived in Sri Lanka&#8217;s Colombo for an operational turnaround, reinforcing the gr..."
-    },
-    {
       "title": "Trump\u2019s \u2018Project Freedom\u2019 kicks off: US Navy to guide hundreds of stranded ships out of mine-filled Strait of Hormuz",
       "link": "https://indianexpress.com/article/world/us-news/us-led-task-force-begins-hormuz-mission-10672139/",
       "source": "The Indian Express",
@@ -854,72 +854,99 @@
       "time": "03 May, 10:30 PM",
       "type": "news",
       "description": "The Rapid Support Forces, which have been at war with the Sudanese Army for over three years, did not immediately claim the attack"
-    },
-    {
-      "title": "Israel court extends detention of two Gaza flotilla activists",
-      "link": "https://www.thehindu.com/news/international/israel-court-extends-detention-of-two-gaza-flotilla-activists/article70936065.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T22:16:05+05:30",
-      "time": "03 May, 10:16 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Seven-Armed Firing Incidents Reported in Twin Cities Since Jan 2024",
-      "link": "https://www.deccanchronicle.com/southern-states/telangana/seven-armed-firing-incidents-reported-in-twin-cities-since-jan-2024-1954441",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-03T22:11:27+05:30",
-      "time": "03 May, 10:11 PM",
-      "type": "news",
-      "description": "During the past year, seven firing incidents including a police personnel firing in self defence were reported."
-    },
-    {
-      "title": "Israel strikes southern Lebanon, kills one and wounds rescuers",
-      "link": "https://www.thehindu.com/news/international/israel-issues-new-evacuation-warnings-in-south-lebanon-beyond-occupied-area/article70934664.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T22:05:48+05:30",
-      "time": "03 May, 10:05 PM",
-      "type": "news",
-      "description": "The warning covered more than 10 villages and towns including several in the district of Nabatieh, which lies north of the Litani River, south of whic..."
-    },
-    {
-      "title": "Russia, Ukraine drones kill four; hit \u2018shadow fleet\u2019 tankers",
-      "link": "https://www.thehindu.com/news/international/russian-strike-kills-one-as-ukraine-launches-hundreds-of-drones/article70934520.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T22:03:01+05:30",
-      "time": "03 May, 10:03 PM",
-      "type": "news",
-      "description": "Russia fired 268 drones and one ballistic missile in the overnight attack as Ukraine\u2019s army launched at least 334 drones"
-    },
-    {
-      "title": "Edge-Of-Seat Wait For Results Across 5 States",
-      "link": "https://www.deccanchronicle.com/nation/verdict-day-poll-bound-states-on-edge-1954436",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-03T21:54:21+05:30",
-      "time": "03 May, 09:54 PM",
-      "type": "news",
-      "description": "All eyes are on West Bengal, where the fiercely fought election was branded by the Opposition as a battle between the \u201cIndian State and the Trinamul C..."
-    },
-    {
-      "title": "Between a fatwa and war: how Iran makes sense of its nuclear capability",
-      "link": "https://www.thehindu.com/news/international/between-a-fatwa-and-war-how-iran-makes-sense-of-its-nuclear-capability/article70934543.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T21:27:23+05:30",
-      "time": "03 May, 09:27 PM",
-      "type": "news",
-      "description": "Iran has \u2018vowed\u2019 to protect its nuclear stockpile against Trump\u2019s threats even as its former Ayatollah Ali Khamenei disapproved of using nuclear weapo..."
-    },
-    {
-      "title": "Sleepless in Tehran as crowds rally behind the flag",
-      "link": "https://www.thehindu.com/news/international/sleepless-in-tehran-as-crowds-rally-behind-the-flag/article70934728.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-03T21:25:16+05:30",
-      "time": "03 May, 09:25 PM",
-      "type": "news",
-      "description": "A slogan on a wall nearby in Farsi read, \u201cMeydan bashuma, khayabane ba ma\u201d. \u2018The battlefield is yours. The streets are ours.\u2019 Addressed to the Islamic..."
     }
   ],
   "tweets": [
+    {
+      "title": "The Scooty insurance expired in 2018. The vehicle was purchased in 2017, insurance expired the following year, and there has been no renewal since then.\n\nI think all valid documents are required for delivery work. Maybe he was using a different vehicle than the registered one, or something is off about this case.",
+      "link": "https://nitter.net/elitepredatorss/status/2051706588705263941#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-05T22:22:24+05:30",
+      "time": "05 May, 10:22 PM",
+      "type": "tweets",
+      "content": "<p>The Scooty insurance expired in 2018. The vehicle was purchased in 2017, insurance expired the following year, and there has been no renewal since then.<br />\n<br />\nI think all valid documents are required for delivery work. Maybe he was using a different vehicle than the registered one, or something is off about this case.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Scooter Catches Fire Near BSF HQ Chowk in Jalandhar.<br />\n<br />\nA parked scooter caught fire near BSF HQ Chowk in Jalandhar, triggering an explosion-like sound. No major threat reported; investigation underway.</p>\n<img src=\"https://nitter.net/pic/media%2FHHkO-mJbUAARLfD.jpg\" />\n\n<a href=\"https://nitter.net/elitepredatorss/status/2051687680711492024#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051687573777780736%2Fimg%2FrjApQh7MSVZIG3Tq.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2051687680711492024#m\">https://nitter.net/elitepredatorss/status/2051687680711492024#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "R to @sidhant: \u201cJust last month on their phone call, President Trump expressed to Prime Minister Modi his admiration and how lucky India is to have him as its leader\", say White House",
+      "link": "https://nitter.net/sidhant/status/2051698068396122508#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-05T21:48:32+05:30",
+      "time": "05 May, 09:48 PM",
+      "type": "tweets",
+      "content": "<p>\u201cJust last month on their phone call, President Trump expressed to Prime Minister Modi his admiration and how lucky India is to have him as its leader\", say White House</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "US President Trump congratulates Prime Minister Modi on this recent, historic, and decisive election victory: White House Spokesman Kush Desai",
+      "link": "https://nitter.net/sidhant/status/2051698008300179625#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-05T21:48:18+05:30",
+      "time": "05 May, 09:48 PM",
+      "type": "tweets",
+      "content": "<p>US President Trump congratulates Prime Minister Modi on this recent, historic, and decisive election victory: White House Spokesman Kush Desai</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "A Normal fire incident has been reported in an activa scooty in Jalandhar Punjab.\nLooks like normal fire\n\n\ud83d\udccc BSF chowk\nhttps://maps.app.goo.gl/SCjdqLAoFirH3nFf9?g_st=ac\n31.310924,75.606599",
+      "link": "https://nitter.net/Goreunit/status/2051696484610142464#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-05T21:42:15+05:30",
+      "time": "05 May, 09:42 PM",
+      "type": "tweets",
+      "content": "<p>A Normal fire incident has been reported in an activa scooty in Jalandhar Punjab.<br />\nLooks like normal fire<br />\n<br />\n\ud83d\udccc BSF chowk<br />\n<a href=\"https://maps.app.goo.gl/SCjdqLAoFirH3nFf9?g_st=ac\">maps.app.goo.gl/SCjdqLAoFirH\u2026</a><br />\n31.310924,75.606599</p>\n<a href=\"https://nitter.net/Goreunit/status/2051696484610142464#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051696431413755904%2Fpu%2Fimg%2FPtqtqoG0mE3x2-qk.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "BREAKING: Explosion reported near BSF headquarters in Jalandhar\n\nAn explosion was reported near the Border Security Force (BSF) headquarters in Jalandhar on Tuesday, with initial reports suggesting a scooter caught fire while authorities investigate the cause.",
+      "link": "https://nitter.net/NetramDefence/status/2051695114226114627#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-05T21:36:48+05:30",
+      "time": "05 May, 09:36 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING: Explosion reported near BSF headquarters in Jalandhar<br />\n<br />\nAn explosion was reported near the Border Security Force (BSF) headquarters in Jalandhar on Tuesday, with initial reports suggesting a scooter caught fire while authorities investigate the cause.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2051695114226114627#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051695081221218304%2Fimg%2FVjOUZZvmrTcUdyEC.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Chinese National Arrested From Indo-Nepal Border In Bihar",
+      "link": "https://nitter.net/WarMonitorINTL/status/2051694868091859152#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-05T21:35:49+05:30",
+      "time": "05 May, 09:35 PM",
+      "type": "tweets",
+      "content": "<p>Chinese National Arrested From Indo-Nepal Border In Bihar</p>\n<img src=\"https://nitter.net/pic/media%2FHHkVlf4bwAEch56.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Chinese National Detained Near Indo-Nepal Border in Bihar\n\nSSB\u2019s 56th Battalion detained 41-year-old Zhou Huan from Hunan near ICP Jogbani after he allegedly entered India illegally via Nepal. He was reportedly living in Biratnagar for two years; joint interrogation is underway.",
+      "link": "https://nitter.net/elitepredatorss/status/2051694284466950288#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-05T21:33:30+05:30",
+      "time": "05 May, 09:33 PM",
+      "type": "tweets",
+      "content": "<p>Chinese National Detained Near Indo-Nepal Border in Bihar<br />\n<br />\nSSB\u2019s 56th Battalion detained 41-year-old Zhou Huan from Hunan near ICP Jogbani after he allegedly entered India illegally via Nepal. He was reportedly living in Biratnagar for two years; joint interrogation is underway.</p>\n<img src=\"https://nitter.net/pic/media%2FHHkVDfPaIAAKbQP.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "I ended eight wars, including the India-Pakistan conflict, which could have escalated into a nuclear war says Trump",
+      "link": "https://nitter.net/sidhant/status/2051694114018865157#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-05T21:32:50+05:30",
+      "time": "05 May, 09:32 PM",
+      "type": "tweets",
+      "content": "<p>I ended eight wars, including the India-Pakistan conflict, which could have escalated into a nuclear war says Trump</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "A Chinese national has been arrested near Jogbani ICP in Bihar's Araria (Indo Nepal Border).\nHe was arrested by the SSB while trying to enter India illegally.",
+      "link": "https://nitter.net/Goreunit/status/2051691658337747010#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-05T21:23:04+05:30",
+      "time": "05 May, 09:23 PM",
+      "type": "tweets",
+      "content": "<p>A Chinese national has been arrested near Jogbani ICP in Bihar's Araria (Indo Nepal Border).<br />\nHe was arrested by the SSB while trying to enter India illegally.</p>",
+      "author": "@Goreunit"
+    },
     {
       "title": "ANB National Punjab-\nThe sound of Blast was heard from 1 KM too.",
       "link": "https://nitter.net/Goreunit/status/2051691605934154085#m",
@@ -941,16 +968,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Pakistan Army Lieutenant Colonel, Khalid, former SOW/13 AK, was injured in Zhob district of Balochistan and was undergoing treatment at CMH. He has now succumbed to his injuries: Sources \n\nCredit @MappingConflixt",
-      "link": "https://nitter.net/OsintTV/status/2051689443950465129#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-05T21:14:16+05:30",
-      "time": "05 May, 09:14 PM",
-      "type": "tweets",
-      "content": "<p>Pakistan Army Lieutenant Colonel, Khalid, former SOW/13 AK, was injured in Zhob district of Balochistan and was undergoing treatment at CMH. He has now succumbed to his injuries: Sources <br />\n<br />\nCredit <a href=\"https://nitter.net/MappingConflixt\" title=\"MAPPING CONFLICT\">@MappingConflixt</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHkQm2kXIAk9l-A.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Jalandhar Fire incident:\n\nAccording to reports, the delivery boy had parked his Activa outside the BSF compound and went inside to deliver a package. During this time, his Activa exploded. Security agencies are currently investigating the cause of the blast in a preliminary investigation. Forensic teams have been called to the scene.\n\nPolice have cordoned off the area. The young man who made the delivery has been detained at the BSF compound and is being questioned. It is suspected that the delivery boy's Activa may have contained a suspicious item in a parcel or that the explosion occurred due to some other reason. This is currently under investigation.",
       "link": "https://nitter.net/Goreunit/status/2051689256343810557#m",
       "source": "War & Gore",
@@ -959,6 +976,16 @@
       "type": "tweets",
       "content": "<p>Jalandhar Fire incident:<br />\n<br />\nAccording to reports, the delivery boy had parked his Activa outside the BSF compound and went inside to deliver a package. During this time, his Activa exploded. Security agencies are currently investigating the cause of the blast in a preliminary investigation. Forensic teams have been called to the scene.<br />\n<br />\nPolice have cordoned off the area. The young man who made the delivery has been detained at the BSF compound and is being questioned. It is suspected that the delivery boy's Activa may have contained a suspicious item in a parcel or that the explosion occurred due to some other reason. This is currently under investigation.</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Jalandhar blast:<br />\nThere was an activa scooty of a delivery boy, fire incident was reported.</p>\n<a href=\"https://nitter.net/Goreunit/status/2051687618375806989#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051687559831724032%2Fpu%2Fimg%2FqEawSNjwQImj3Vi4.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2051687618375806989#m\">https://nitter.net/Goreunit/status/2051687618375806989#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
+    },
+    {
+      "title": "RT by @OsintTV: What a proud moment for Pakistan. \ud83d\ude02 \n\nHistory and future of terrorism has Pakistan endorsed in it, they have been running internship for international terrorists with skills ranging from SuOcide bombers to knife attackers. \n\n#pakistanterrorismhub",
+      "link": "https://nitter.net/Dig_raw21/status/2051688673423278379#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-05T21:11:12+05:30",
+      "time": "05 May, 09:11 PM",
+      "type": "tweets",
+      "content": "<p>What a proud moment for Pakistan. \ud83d\ude02 <br />\n<br />\nHistory and future of terrorism has Pakistan endorsed in it, they have been running internship for international terrorists with skills ranging from SuOcide bombers to knife attackers. <br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23pakistanterrorismhub\">#pakistanterrorismhub</a></p>\n<hr />\n<blockquote>\n<b>CIA (@CIA)</b>\n<p>\n<p>Artifact of the Week: Brick from Abbottabad Compound.<br />\n<br />\nLearn more: <br />\n<a href=\"https://www.cia.gov/legacy/museum/artifact/brick-from-abbottabad-compound/\">cia.gov/legacy/museum/artifa\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHj-RMNXoAQnBEF.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/CIA/status/2051669388860752286#m\">https://nitter.net/CIA/status/2051669388860752286#m</a>\n</footer>\n</blockquote>",
+      "author": "@Dig_raw21"
     },
     {
       "title": "Scooter Catches Fire Near BSF HQ Chowk in Jalandhar.\n\nA parked scooter caught fire near BSF HQ Chowk in Jalandhar, triggering an explosion-like sound. No major threat reported; investigation underway.",
@@ -1191,6 +1218,16 @@
       "author": "@SpencerGuard"
     },
     {
+      "title": "RT by @NetramDefence: Watch out for a couple of awesome threads on Op Sindoor anniversary from @NetramDefence !\n\n3..2..1 !!",
+      "link": "https://nitter.net/Manik_M_Jolly/status/2051654173079544002#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-05T18:54:07+05:30",
+      "time": "05 May, 06:54 PM",
+      "type": "tweets",
+      "content": "<p>Watch out for a couple of awesome threads on Op Sindoor anniversary from <a href=\"https://nitter.net/NetramDefence\" title=\"Netram Defence Review\">@NetramDefence</a> !<br />\n<br />\n3..2..1 !!</p>",
+      "author": "@Manik_M_Jolly"
+    },
+    {
       "title": "Indian all party delegation, including representation from ruling BJP & opposition Congress is on a visit to Taiwan. \n\nTaiwan Statement:",
       "link": "https://nitter.net/sidhant/status/2051642428223042041#m",
       "source": "Sidhant Sibal",
@@ -1401,16 +1438,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Indian Naval Ship INS SAGARDHWANI, an oceanographic research vessel, reaches Cam Ranh Bay, Vietnam. The port call coincides with the visit of Vietnam President to Delhi.",
-      "link": "https://nitter.net/sidhant/status/2051576703462613075#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T13:46:17+05:30",
-      "time": "05 May, 01:46 PM",
-      "type": "tweets",
-      "content": "<p>Indian Naval Ship INS SAGARDHWANI, an oceanographic research vessel, reaches Cam Ranh Bay, Vietnam. The port call coincides with the visit of Vietnam President to Delhi.</p>\n<img src=\"https://nitter.net/pic/media%2FHHiqI4sa0AAH-TG.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @WarMonitorINTL: Breaking: \n\nNews is coming from Howrah district in West Bengal.\n\nA BJP worker named Jadav Bar was allegedly beaten to death by TMC people.",
       "link": "https://nitter.net/WarMonitorINTL/status/2051574959290651004#m",
       "source": "War Monitor",
@@ -1429,26 +1456,6 @@
       "type": "tweets",
       "content": "<p>BJP Karyakarta Jadav Bar has been mob lynched to death by TMC people in Howrah, West Bengal.</p>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Congratulations from Sri Lanka over Vijay win in Tamil Nadu. Sri Lanka Podujana Peramuna (SLPP)'s Namal Rajapaksa:",
-      "link": "https://nitter.net/sidhant/status/2051573541200691474#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T13:33:43+05:30",
-      "time": "05 May, 01:33 PM",
-      "type": "tweets",
-      "content": "<p>Congratulations from Sri Lanka over Vijay win in Tamil Nadu. Sri Lanka Podujana Peramuna (SLPP)'s Namal Rajapaksa:</p>\n<hr />\n<blockquote>\n<b>Namal Rajapaksa (@RajapaksaNamal)</b>\n<p>\n<p>Congratulations to Hon. C. Joseph Vijay on a resounding victory! The real work begins now, and I wish you and your team the strength and determination to overcome the challenges ahead and deliver meaningful benefits to the people.<br />\n<br />\nI also hope for a stronger and more positive relationship with Sri Lanka on matters that impact the people of both nations. My very best wishes to you and your team, <a href=\"https://nitter.net/ActorVijay\" title=\"Vijay\">@ActorVijay</a>. <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TVK\">#TVK</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/RajapaksaNamal/status/2051342593255198813#m\">https://nitter.net/RajapaksaNamal/status/2051342593255198813#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Sri Lanka's Tamil party-Ilankai Tamil Arasu Kachchi (ITAK), extends congratulations to Vijay over election victory in India's southern province of Tamil Nadu.",
-      "link": "https://nitter.net/sidhant/status/2051573005005013491#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T13:31:35+05:30",
-      "time": "05 May, 01:31 PM",
-      "type": "tweets",
-      "content": "<p>Sri Lanka's Tamil party-Ilankai Tamil Arasu Kachchi (ITAK), extends congratulations to Vijay over election victory in India's southern province of Tamil Nadu.</p>\n<hr />\n<blockquote>\n<b>M A Sumanthiran (@MASumanthiran)</b>\n<p>\n<p>\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0baa\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 <a href=\"https://nitter.net/search?f=tweets&amp;q=%23\u0ba4\u0bae\u0bbf\u0bb4\u0b95_\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd_\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd\">#\u0ba4\u0bae\u0bbf\u0bb4\u0b95_\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd_\u0b95\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd</a> \u0b85\u0ba4\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd <a href=\"https://nitter.net/actorvijay\" title=\"Vijay\">@actorvijay</a> \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0bae\u0ba4\u0bc1 \u0bae\u0ba9\u0bae\u0bbe\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd. \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0ba4\u0bc1\u0bae\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bcb\u0b9f\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd. <br />\n\u0bae. \u0b86. \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd <br />\n\u0baa\u0bca\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd<br />\n\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MASumanthiran/status/2051359011233235391#m\">https://nitter.net/MASumanthiran/status/2051359011233235391#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "Year of the tweet - 2021 \ud83d\udc40",
@@ -1771,26 +1778,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Explosions were heard in Dubai few mins ago",
-      "link": "https://nitter.net/Goreunit/status/2051338944814743871#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-04T22:01:31+05:30",
-      "time": "04 May, 10:01 PM",
-      "type": "tweets",
-      "content": "<p>Explosions were heard in Dubai few mins ago</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>IRANIAN attack in Oman <br />\n<br />\nOman state TV: Two injured after residential building in Bukha, Oman comes under attack.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2051338537891713193#m\">https://nitter.net/Goreunit/status/2051338537891713193#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "IRANIAN attack in Oman \n\nOman state TV: Two injured after residential building in Bukha, Oman comes under attack.",
-      "link": "https://nitter.net/Goreunit/status/2051338537891713193#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-04T21:59:54+05:30",
-      "time": "04 May, 09:59 PM",
-      "type": "tweets",
-      "content": "<p>IRANIAN attack in Oman <br />\n<br />\nOman state TV: Two injured after residential building in Bukha, Oman comes under attack.</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Ads again activated in UAE after new missiles from Iran few mins ago</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2051338315790700825#m\">https://nitter.net/Goreunit/status/2051338315790700825#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "A month ago, I went very deep into the Bangladesh rabbit hole. I read each and every report from 2022!\n\n- Researched who's who\n- Sheikh Hasina's cadre\n- Bangladesh Armed Forces lobby\n- US lobby in Bangladesh\n\nI stitched together the whole fiasco of 2024 and the events before 2022.\n\nThe conclusion: We are not paying enough attention to Bangladesh; it can bite us so hard that the word \"oversight\" would be an understatement, and \"ignorance\" would be a crime.\n\nToday, we have the opportunity of a lifetime to pluck out the biggest thorn in India's heel to manage Bangladesh.\n\nBJP has to make it count.",
       "link": "https://nitter.net/elitepredatorss/status/2051336254290374935#m",
       "source": "Elite Predators",
@@ -1879,16 +1866,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 Exclusive:<br />\n<br />\n\"For the first time, the Pakistan Army fought a war for Hafiz Saeed and Masood Azhar, to show the world that they are not terrorists\": Pak Politician Shaheer Sialvi at a Lashkar-e-Taiba gathering.<br />\n<br />\nSialvi openly admitted that \u201cMuridke and Bahawalpur, internationally declared terrorist camps, were targeted by Indian forces and several terrorists were killed in the attack. But for the first time, the Pakistan Army decided that the funerals would not be led by any scholar or Mufti from outside. Instead, a military chaplain led them. Pakistani soldiers in uniform carried the bodies to tell the world: \u2018These people are freedom fighters, they are not terrorists.\u2019 We fought this war for Hafiz Saeed and Maulana Masood Azhar.\u201d<br />\n<br />\nOn his right, Muzammil Hasmi, a designated terrorist and close aide of Hafiz Saeed, can be seen.<br />\n<br />\nLocation: Rawalpindi <br />\nOpen Source</p>\n<a href=\"https://nitter.net/OsintTV/status/2051290470026764780#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051290283870986240%2Fimg%2F2bEA7rubJdBNt4qe.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Breaking:\n\nA NOTAM has been announced for likely a missile test covering 3,500 km.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2051289041740648742#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-04T18:43:13+05:30",
-      "time": "04 May, 06:43 PM",
-      "type": "tweets",
-      "content": "<p>Breaking:<br />\n<br />\nA NOTAM has been announced for likely a missile test covering 3,500 km.</p>\n<img src=\"https://nitter.net/pic/media%2FHHekdYWaoAE0VS4.jpg\" />",
-      "author": "@WarMonitorINTL"
     },
     {
       "title": "RT by @OsintTV: India Has Issued NOTMAR For  Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.          \n\nFrom:06/05/2026 , 18:00 IST     \nFrom:09/05/2026 , 21:00 IST       \nV-Limit:Surface-Unlimited",
@@ -2021,16 +1998,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "BREAKING: Six people have been detained in Bareilly after raising pro-Pakistan slogans in a busy market, triggering panic and partial shop shutdowns. FIR has been filed against 40+ individuals,\nmain accused is identified as Kashif, linked to Ittehad-e-Millat Council.\n\nIncident follows past tensions in the city tied to earlier clashes\nPolice are conducting raids to track down other suspects as the situation is brought under control.",
-      "link": "https://nitter.net/NetramDefence/status/2051173505262379154#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-04T11:04:07+05:30",
-      "time": "04 May, 11:04 AM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Six people have been detained in Bareilly after raising pro-Pakistan slogans in a busy market, triggering panic and partial shop shutdowns. FIR has been filed against 40+ individuals,<br />\nmain accused is identified as Kashif, linked to Ittehad-e-Millat Council.<br />\n<br />\nIncident follows past tensions in the city tied to earlier clashes<br />\nPolice are conducting raids to track down other suspects as the situation is brought under control.</p>\n<img src=\"https://nitter.net/pic/media%2FHHc7XdjbIAEWBHc.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Out of curiosity, I tried to find out why each channel has different figures for who is leading and trailing.\n\nGot the answer that each channel has their own data gathering sources, including official data sources and their on-ground reporters.\n\nIs there any rating which conclude which channel had the most accurate data projection at the end of the counting?\n\nCredits : @JaipurDialogues",
       "link": "https://nitter.net/elitepredatorss/status/2051169028127740221#m",
       "source": "Elite Predators",
@@ -2059,39 +2026,27 @@
       "type": "tweets",
       "content": "<p>Jaha Bola, Wahi Gola. \ud83c\uddee\ud83c\uddf3<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2051153214045884502#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051153199902720000%2Fimg%2FTaZUHNMek1dwGWwk.jpg\" />\n</a>",
       "author": "@manishindiatv"
-    },
-    {
-      "title": "Why do the chaps at @aajtak blow sirens every 10-15 minutes?",
-      "link": "https://nitter.net/elitepredatorss/status/2051136496896463131#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-04T08:37:03+05:30",
-      "time": "04 May, 08:37 AM",
-      "type": "tweets",
-      "content": "<p>Why do the chaps at <a href=\"https://nitter.net/aajtak\" title=\"AajTak\">@aajtak</a> blow sirens every 10-15 minutes?</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Nepal Objects to Kailash Mansarovar Route via Lipulekh\n\nNepal has objected to India\u2013China plans to conduct the Kailash Mansarovar Yatra via Lipulekh Pass, falsely claiming the route passes through its territory.\n\nKathmandu reiterated that Lipulekh, Kalapani, and Limpiyadhura belong to Nepal, citing historical treaties, and said it was not consulted on the decision.\n\nIndian Ministry of External Affairs rejected the claim, stating the route has been in use since 1954 and termed Nepal\u2019s position \u201cuntenable\u201d, while remaining open to dialogue.",
-      "link": "https://nitter.net/NetramDefence/status/2051134723196674535#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-04T08:30:00+05:30",
-      "time": "04 May, 08:30 AM",
-      "type": "tweets",
-      "content": "<p>Nepal Objects to Kailash Mansarovar Route via Lipulekh<br />\n<br />\nNepal has objected to India\u2013China plans to conduct the Kailash Mansarovar Yatra via Lipulekh Pass, falsely claiming the route passes through its territory.<br />\n<br />\nKathmandu reiterated that Lipulekh, Kalapani, and Limpiyadhura belong to Nepal, citing historical treaties, and said it was not consulted on the decision.<br />\n<br />\nIndian Ministry of External Affairs rejected the claim, stating the route has been in use since 1954 and termed Nepal\u2019s position \u201cuntenable\u201d, while remaining open to dialogue.</p>\n<img src=\"https://nitter.net/pic/media%2FHHbibDza0AAY4hn.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Chinese closed ops at Gwadar port, Pakistanis offered donkey meat.\n\nChinese company Hengeng announced it is shutting down the operations of the Gwadar port. Citing operational delays and regulatory uncertainties.\n\nThis move by the Chinese came before an anticipated begging trip of Pakistan's PM Shehbaz Sharif to China in the coming weeks.\n\nThat means the Pakistanis were not playing along with the Chinese. Chinese also cited on-ground execution challenges most likely referring to the begging mentality of the whole country, where Pakistanis want money to even do the slightest of the job.\n\nPlease note: Officials from Pakistan's PMO asked for a bribe from Western journalists during the reel (so-called peace) talks to give them access to the floor where talks were going on between the US and Iran.\n\nAfter Pakistan's PMO's direct involvement, the Chinese company has delayed its shutdown decision.\n\nShehbaz Sharif knew that if Gwadar were shut down, he would not be able to beg for more money in China.",
-      "link": "https://nitter.net/elitepredatorss/status/2051132420053680500#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-04T08:20:51+05:30",
-      "time": "04 May, 08:20 AM",
-      "type": "tweets",
-      "content": "<p>Chinese closed ops at Gwadar port, Pakistanis offered donkey meat.<br />\n<br />\nChinese company Hengeng announced it is shutting down the operations of the Gwadar port. Citing operational delays and regulatory uncertainties.<br />\n<br />\nThis move by the Chinese came before an anticipated begging trip of Pakistan's PM Shehbaz Sharif to China in the coming weeks.<br />\n<br />\nThat means the Pakistanis were not playing along with the Chinese. Chinese also cited on-ground execution challenges most likely referring to the begging mentality of the whole country, where Pakistanis want money to even do the slightest of the job.<br />\n<br />\nPlease note: Officials from Pakistan's PMO asked for a bribe from Western journalists during the reel (so-called peace) talks to give them access to the floor where talks were going on between the US and Iran.<br />\n<br />\nAfter Pakistan's PMO's direct involvement, the Chinese company has delayed its shutdown decision.<br />\n<br />\nShehbaz Sharif knew that if Gwadar were shut down, he would not be able to beg for more money in China.</p>\n<img src=\"https://nitter.net/pic/media%2FHHcS9G8aYAA_ijU.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHcUVrgboAAyLOo.jpg\" />",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
+    {
+      "title": "India\u2019s BIG Defence Shift! Astra Export, Ballistic Missile Change & Secret Missile Test Exposed!",
+      "link": "https://www.youtube.com/watch?v=9lep8l-7yoA",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-05T22:00:01+05:30",
+      "time": "05 May, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/9lep8l-7yoA/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - PAK 5th Gen Fighter, Bahawalpur Base Rebuild After Strike, OP. Sindoor Victory",
+      "link": "https://www.youtube.com/watch?v=aJLp-UkYdEM",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-05T21:47:46+05:30",
+      "time": "05 May, 09:47 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/aJLp-UkYdEM/mqdefault.jpg"
+    },
     {
       "title": "Ghatak UCAV - New Updates",
       "link": "https://www.youtube.com/watch?v=4Q6l3ZLBz68",
@@ -2139,6 +2094,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
