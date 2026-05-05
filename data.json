@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "title": "21 killed, 61 injured in massive explosion at fireworks factory in China",
+      "link": "https://www.thehindu.com/news/international/explosion-at-fireworks-plant-in-china-several-killed-may-5-2026/article70941226.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-05T09:19:03+05:30",
+      "time": "05 May, 09:19 AM",
+      "type": "news",
+      "description": "Nearly 500 rescuers were deployed to the scene and evacuations were conducted in danger zones."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Ceasefire on brink as UAE reports attacks",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-05T09:17:01+05:30",
+      "time": "05 May, 09:17 AM",
+      "type": "news",
+      "description": "U.S. President Donald \u200bTrump launched \u201cProject Freedom\u201d seeking to open the Strait of Hormuz to shipping, prompting Iran to lash out"
+    },
+    {
+      "title": "First Russian oil arrives in Japan since Iran war: media",
+      "link": "https://www.thehindu.com/news/international/first-russian-oil-arrives-in-japan-since-iran-war-media/article70941303.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-05T09:14:04+05:30",
+      "time": "05 May, 09:14 AM",
+      "type": "news",
+      "description": "Japan, which depends on West Asia for around 95% of its oil imports, has tried to diversify sources of energy procurement since the outbreak of war on..."
+    },
+    {
+      "title": "DXB Maintains Global Connectivity Amid Disruption",
+      "link": "https://www.indiastrategic.in/dxb-maintains-global-connectivity-amid-disruption/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-05T09:07:48+05:30",
+      "time": "05 May, 09:07 AM",
+      "type": "news",
+      "description": "<p>Scales Up as UAE Airspace Reopens Airport handles 6 million passengers during crisis period Strong recovery expected as flight capacity gradually r..."
+    },
+    {
+      "title": "US Apache attack helicopters deployed in operation against Iranian boats: CENTCOM",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-apache-attack-helicopters-deployed-in-operation-against-iranian-boats-centcom/articleshow/130815217.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-05T08:48:30+05:30",
+      "time": "05 May, 08:48 AM",
+      "type": "news",
+      "description": "US CENTCOM used Sea Hawk and Apache helicopters on Monday to \"eliminate Iranian small boats threatening commercial shipping\" in the Strait of Hormuz. ..."
+    },
+    {
+      "title": "US fights to reopen the Strait of Hormuz as the UAE comes under attack in a test of Iran truce",
+      "link": "https://economictimes.indiatimes.com/news/defence/the-us-fights-to-reopen-the-strait-of-hormuz-as-the-uae-comes-under-attack-in-a-test-of-iran-truce/articleshow/130815086.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-05T08:38:49+05:30",
+      "time": "05 May, 08:38 AM",
+      "type": "news",
+      "description": "The United States said it reopened a shipping lane in the Strait of Hormuz after engaging Iranian forces, sinking six boats that were targeting civili..."
+    },
+    {
+      "title": "US intel says Iran nuclear timeline unchanged despite strikes, war",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-intel-says-iran-nuclear-timeline-unchanged-despite-strikes-war/articleshow/130814773.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-05T08:38:36+05:30",
+      "time": "05 May, 08:38 AM",
+      "type": "news",
+      "description": "Iran's nuclear weapon timeline remains unchanged. U.S. intelligence assessments show it still takes up to a year to build a bomb. Recent U.S. and Isra..."
+    },
+    {
+      "title": "Explosion at a fireworks plant in China kills at least 21",
+      "link": "https://indianexpress.com/article/world/china-fireworks-plant-explosion-hunan-21-dead-10673192/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-05T08:32:26+05:30",
+      "time": "05 May, 08:32 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Tensions escalate in Strait of Hormuz",
       "link": "https://www.newsonair.gov.in/tensions-escalate-in-strait-of-hormuz/",
       "source": "All India Radio",
@@ -8,15 +80,6 @@
       "time": "05 May, 08:17 AM",
       "type": "news",
       "description": "Tensions are escalating in the Strait of Hormuz as the United States and Iran exchange fresh warnings and claims of military action. US President Dona..."
-    },
-    {
-      "title": "Iran-Israel war LIVE: Ceasefire on brink as UAE reports attacks",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T08:17:03+05:30",
-      "time": "05 May, 08:17 AM",
-      "type": "news",
-      "description": "U.S. President Donald \u200bTrump launched \u201cProject Freedom\u201d seeking to open the Strait of Hormuz to shipping, prompting Iran to lash out"
     },
     {
       "title": "Iran strikes Fujairah oil zone as UAE intercepts missiles and shifts schools online",
@@ -44,15 +107,6 @@
       "time": "05 May, 07:55 AM",
       "type": "news",
       "description": "Russia\u2019s Defence Ministry has announced a unilateral ceasefire in Ukraine on the 8th and 9th of May, marking the 81st anniversary of the defeat of Naz..."
-    },
-    {
-      "title": "Explosion at fireworks plant in China kills at least 21 people, state media says",
-      "link": "https://www.thehindu.com/news/international/explosion-at-fireworks-plant-in-china-several-killed-may-5-2026/article70941226.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T07:36:27+05:30",
-      "time": "05 May, 07:36 AM",
-      "type": "news",
-      "description": "Nearly 500 rescuers were deployed to the scene and evacuations were conducted in danger zones."
     },
     {
       "title": "EAM S Jaishankar holds meeting with Jamaican counterpart Kamina Johnson Smith",
@@ -818,18 +872,29 @@
       "time": "03 May, 09:32 AM",
       "type": "news",
       "description": "What explains the years of simmering competition between Riyadh and Abu Dhabi? How will the UAE\u2019s decision impact oil prices? How has its decision to ..."
-    },
-    {
-      "title": "Latecomer Japan eyes slice of rising global defence spending",
-      "link": "https://economictimes.indiatimes.com/news/defence/latecomer-japan-eyes-slice-of-rising-global-defence-spending/articleshow/130726972.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-03T08:57:09+05:30",
-      "time": "03 May, 08:57 AM",
-      "type": "news",
-      "description": "Japan has ended its long-standing ban on exporting lethal weapons. This move aims to position the nation in the global defense market. While challenge..."
     }
   ],
   "tweets": [
+    {
+      "title": "The whole world knows their reality, but they keep their mouth shut.\n\nIt has been clear for a decade that it is our job to wipe these pigs out from the face of the earth without asking for support from anyone. Every admission is putting a target on their head, making every hit by unknown gunmen a legit one.",
+      "link": "https://nitter.net/elitepredatorss/status/2051510194459591165#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-05T09:22:00+05:30",
+      "time": "05 May, 09:22 AM",
+      "type": "tweets",
+      "content": "<p>The whole world knows their reality, but they keep their mouth shut.<br />\n<br />\nIt has been clear for a decade that it is our job to wipe these pigs out from the face of the earth without asking for support from anyone. Every admission is putting a target on their head, making every hit by unknown gunmen a legit one.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 Exclusive:<br />\n<br />\n\"For the first time, the Pakistan Army fought a war for Hafiz Saeed and Masood Azhar, to show the world that they are not terrorists\": Pak Politician Shaheer Sialvi at a Lashkar-e-Taiba gathering.<br />\n<br />\nSialvi openly admitted that \u201cMuridke and Bahawalpur, internationally declared terrorist camps, were targeted by Indian forces and several terrorists were killed in the attack. But for the first time, the Pakistan Army decided that the funerals would not be led by any scholar or Mufti from outside. Instead, a military chaplain led them. Pakistani soldiers in uniform carried the bodies to tell the world: \u2018These people are freedom fighters, they are not terrorists.\u2019 We fought this war for Hafiz Saeed and Maulana Masood Azhar.\u201d<br />\n<br />\nOn his right, Muzammil Hasmi, a designated terrorist and close aide of Hafiz Saeed, can be seen.<br />\n<br />\nLocation: Rawalpindi <br />\nOpen Source</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2051290470026764780#m\">https://nitter.net/OsintTV/status/2051290470026764780#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Blood and water can't flow together|| Suspension of Indus Water treaty after Pakistan sponsored attack in Pahalgam & it's effects\n\nYou can watch our regular videos on yt \ud83d\udc47\ud83c\udffb\nhttps://youtube.com/shorts/Vhv5LdCMztc?si=tsL6W4doCRFCV5PG",
+      "link": "https://nitter.net/Goreunit/status/2051507628170260848#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-05T09:11:48+05:30",
+      "time": "05 May, 09:11 AM",
+      "type": "tweets",
+      "content": "<p>Blood and water can't flow together|| Suspension of Indus Water treaty after Pakistan sponsored attack in Pahalgam &amp; it's effects<br />\n<br />\nYou can watch our regular videos on yt \ud83d\udc47\ud83c\udffb<br />\n<a href=\"https://piped.video/shorts/Vhv5LdCMztc?si=tsL6W4doCRFCV5PG\">piped.video/shorts/Vhv5LdCMz\u2026</a></p>",
+      "author": "@Goreunit"
+    },
     {
       "title": "2026 State Election Results Summary:\n\n\u200b1\ufe0f\u20e3 West Bengal: BJP wins with 206 seats.\n\n\u200b2\ufe0f\u20e3 Tamil Nadu: Actor Vijay\u2019s TVK (108 seats) emerges as the single-largest party.\n  \n3\ufe0f\u20e3 \u200bKerala: UDF sweeps back to power with 99 seats.\n\n\u200b4\ufe0f\u20e3 Assam: NDA secures a third consecutive term with a comfortable majority.  \n\n5\ufe0f\u20e3 \u200bPuducherry: NDA alliance retains power.",
       "link": "https://nitter.net/NetramDefence/status/2051494253290008843#m",
@@ -1037,7 +1102,7 @@
       "sort_key": "2026-05-04T23:31:23+05:30",
       "time": "04 May, 11:31 PM",
       "type": "tweets",
-      "content": "<p>EAM Jaishankar says, \"Cricket has a special meaning for India, Jamaica\" at Sabina Park cricket ground in Kingston. Reminds how Virat Kohli began test career on this ground in 2011. India has gifted electronic score of the stadium. <br />\n<a href=\"https://nitter.net/i/broadcasts/1MKgNgdQXAYxL\">nitter.net/i/broadcasts/1MKgNgdQX\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051494697026347008%2FbHXRYD2X%3Fformat%3Djpg%26name%3D800x419\" />",
+      "content": "<p>EAM Jaishankar says, \"Cricket has a special meaning for India, Jamaica\" at Sabina Park cricket ground in Kingston. Reminds how Virat Kohli began test career on this ground in 2011. India has gifted electronic score of the stadium. <br />\n<a href=\"https://nitter.net/i/broadcasts/1MKgNgdQXAYxL\">nitter.net/i/broadcasts/1MKgNgdQX\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051509947415080960%2FgQIkrri-%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@sidhant"
     },
     {
@@ -1691,16 +1756,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Lumber One Country with Lumber one army for a reason !",
-      "link": "https://nitter.net/Goreunit/status/2051177062258688394#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-04T11:18:15+05:30",
-      "time": "04 May, 11:18 AM",
-      "type": "tweets",
-      "content": "<p>Lumber One Country with Lumber one army for a reason !</p>\n<hr />\n<blockquote>\n<b>` (@McgMadMan)</b>\n<p>\n<p>Nahh man in the Era of 5g they are throwing empty Keypad phone boxes at crowd in PSL and calling it a  \" Lucky giveaway \"\ud83d\ude2d\ud83d\ude2d</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/McgMadMan/status/2051002638788100118#m\">https://nitter.net/McgMadMan/status/2051002638788100118#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "'We are forming our own govt': TVK dismisses alliance talk",
       "link": "https://nitter.net/WarMonitorINTL/status/2051176699006697879#m",
       "source": "War Monitor",
@@ -1993,15 +2048,6 @@
   ],
   "youtube": [
     {
-      "title": "Defence Updates - New KAL UAV, Adani Defence Drones, India NUKE Submarine, Indian Army THAR ROXX ATV",
-      "link": "https://www.youtube.com/watch?v=KcVZ4J0m4R8",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-04T23:09:36+05:30",
-      "time": "04 May, 11:09 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/KcVZ4J0m4R8/mqdefault.jpg"
-    },
-    {
       "title": "Indian Defence Updates : Surya Laser Weapon,AeroForce X UAV Offer,TATA 30mm FICV Turret,Kusha Export",
       "link": "https://www.youtube.com/watch?v=xWXZDJkHfOc",
       "source": "Indian Defence Updates",
@@ -2009,24 +2055,6 @@
       "time": "04 May, 05:58 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/xWXZDJkHfOc/mqdefault.jpg"
-    },
-    {
-      "title": "India vs China & Pakistan Su-57 Deal EXPOSED: India ke liye Power ya Strategic Risk?",
-      "link": "https://www.youtube.com/watch?v=hxVNjZVzh-0",
-      "source": "Indian Defense News",
-      "sort_key": "2026-05-03T22:30:51+05:30",
-      "time": "03 May, 10:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/hxVNjZVzh-0/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - \u20b91 Lakh Crore AMCA Investment, IIT Jammu Stealth Drone, Army BMP-2 Flame Thrower",
-      "link": "https://www.youtube.com/watch?v=GPkUxj1Ec4M",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-03T21:13:22+05:30",
-      "time": "03 May, 09:13 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/GPkUxj1Ec4M/mqdefault.jpg"
     },
     {
       "title": "Indian Defence Updates : FCAS 6th Gen Entry,140 AMCA in Andhra,Anti-Hypersonic Radar,PAK F16 Upgrade",
@@ -2039,6 +2067,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
