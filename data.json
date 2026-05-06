@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Iran-Israel war LIVE: Iran says it wants a 'comprehensive agreement' with U.S.",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T18:09:01+05:30",
+      "time": "06 May, 06:09 PM",
+      "type": "news",
+      "description": "The strait has \u200cbeen virtually shut since the conflict began on February 28 with air attacks on Iran \u200cby \u2060the U.S. and Israel, blocking about 20% of w..."
+    },
+    {
+      "title": "Trump threatens Iran with \u2018higher level\u2019 bombing if it doesn't reopen Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/trump-threatens-iran-with-higher-level-bombing/article70947165.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T18:05:49+05:30",
+      "time": "06 May, 06:05 PM",
+      "type": "news",
+      "description": "He said it was \u201cperhaps a big assumption\u201d that Iran would agree to the terms being offered by the United States"
+    },
+    {
+      "title": "MBDA to implement MICA missiles MRO capabilities in India",
+      "link": "https://www.indiastrategic.in/mbda-to-implement-mica-missiles-mro-capabilities-in-india/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-06T18:02:26+05:30",
+      "time": "06 May, 06:02 PM",
+      "type": "news",
+      "description": "<p>New Delhi, May 6, 2026. MBDA has signed an agreement with the Indian Air Force for the development of a local capability for the Maintenance, Repai..."
+    },
+    {
+      "title": "Balochistan: Voice raises against extrajudicial killings of civilians and enforced disappearances by Pak Forces",
+      "link": "https://www.newsonair.gov.in/balochistan-voice-raises-against-extrajudicial-killings-of-civilians-and-enforced-disappearances-by-pak-forces/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-06T17:43:10+05:30",
+      "time": "06 May, 05:43 PM",
+      "type": "news",
+      "description": "As violence against civilians escalate across Balochistan, a leading human rights organisation brought to light the extrajudicial killing of two civil..."
+    },
+    {
+      "title": "Russia snubs Ukraine's unilateral ceasefire, firing dozens of drones",
+      "link": "https://www.thehindu.com/news/international/russia-snubs-ukraines-unilateral-ceasefire-firing-dozens-of-drones/article70946508.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T17:33:59+05:30",
+      "time": "06 May, 05:33 PM",
+      "type": "news",
+      "description": "Russia disregards Ukraine\u2019s ceasefire, launching drone strikes that kill 27 civilians amid ongoing conflict and failed peace efforts"
+    },
+    {
       "title": "There was an excellent coordination among Army, Navy, Air Force: Air Marshal Patnaik (Retd.) on Operation Sindoor",
       "link": "https://economictimes.indiatimes.com/news/defence/there-was-an-excellent-coordination-among-army-navy-air-force-air-marshal-patnaik-retd-on-operation-sindoor/articleshow/130854487.cms",
       "source": "Economic Times",
@@ -8,24 +53,6 @@
       "time": "06 May, 05:02 PM",
       "type": "news",
       "description": "Operation Sindoor, a swift military response to the Pahalgam terror attack, showcased strong coordination among India's Army, Navy, and Air Force. The..."
-    },
-    {
-      "title": "Iran-Israel war LIVE: Iran says it wants a 'comprehensive agreement' with U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-06T16:49:18+05:30",
-      "time": "06 May, 04:49 PM",
-      "type": "news",
-      "description": "The strait has \u200cbeen virtually shut since the conflict began on February 28 with air attacks on Iran \u200cby \u2060the U.S. and Israel, blocking about 20% of w..."
-    },
-    {
-      "title": "Russia snubs Ukraine's unilateral ceasefire, firing dozens of drones",
-      "link": "https://www.thehindu.com/news/international/russia-snubs-ukraines-unilateral-ceasefire-firing-dozens-of-drones/article70946508.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-06T16:18:26+05:30",
-      "time": "06 May, 04:18 PM",
-      "type": "news",
-      "description": "Russia disregards Ukraine\u2019s ceasefire, launching drone strikes that kill 27 civilians amid ongoing conflict and failed peace efforts"
     },
     {
       "title": "India, Vietnam Elevate Ties To Enhanced Comprehensive Strategic Partnership",
@@ -89,6 +116,15 @@
       "time": "06 May, 01:50 PM",
       "type": "news",
       "description": "Punjab blasts: Police are investigating low-intensity blasts in Amritsar and Jalandhar. Director General of Police Gaurav Yadav suspects Pakistan's IS..."
+    },
+    {
+      "title": "Dutch frigate HNLMS De Ruyter docks in Kochi, signals deepening India-Netherlands maritime cooperation",
+      "link": "https://www.indiastrategic.in/dutch-frigate-hnlms-de-ruyter-docks-in-kochi-signals-deepening-india-netherlands-maritime-cooperation/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-06T13:46:23+05:30",
+      "time": "06 May, 01:46 PM",
+      "type": "news",
+      "description": "<p>New Delhi, May 6. The Royal Netherlands Navy frigate HNLMS De Ruyter (F804) arrived at Kochi on May 4 as part of a five-month Indo-Pacific deployme..."
     },
     {
       "title": "Boko Haram militants kill 23 soldiers in Chad\u2019s Lake Chad region",
@@ -460,15 +496,6 @@
       "description": "Nepal\u2019s President, Ramchandra Paudel, has called a session of both houses of the federal parliament for May 11. The meeting is scheduled for Monday at..."
     },
     {
-      "title": "UAE intercepts Iranian missiles as tensions rise across West Asia",
-      "link": "https://www.newsonair.gov.in/uae-intercepts-iranian-missiles-as-tensions-rise-across-west-asia/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-05T21:58:03+05:30",
-      "time": "05 May, 09:58 PM",
-      "type": "news",
-      "description": "A fragile ceasefire in West Asia came under renewed strain today as the United Arab Emirates reported fresh missile and drone attacks launched from Ir..."
-    },
-    {
       "title": "Ready to resume major combat operations in Iran, says top US general",
       "link": "https://indianexpress.com/article/world/us-general-dan-caine-iran-missile-attack-uae-indians-injured-ceasefire-10674557/",
       "source": "The Indian Express",
@@ -775,7 +802,7 @@
       "description": "Pakistan Navy has provided crucial humanitarian aid to the crew of an Indian offshore tug and supply vessel. The vessel, MV Gautam, was stranded in th..."
     },
     {
-      "title": "Iran US War News Live Updates: Strait of Hormuz will be open to all including Iran\u2026bombing will start if Tehran does not agree, says Trump",
+      "title": "Iran US War News Live Updates: Trump warns bombing will restart if Iran doesn\u2019t agree to open Hormuz",
       "link": "https://indianexpress.com/article/world/us-news/iran-us-war-news-live-updates-us-donald-trump-strait-of-hormuz-blockade-10673275/",
       "source": "The Indian Express",
       "sort_key": "2026-05-05T10:15:01+05:30",
@@ -991,24 +1018,6 @@
       "description": "<p>Prayagraj, May 4. Defence Minister Rajnath Singh on May 4 stressed the need for sustained investment in research and the cultivation of strategic s..."
     },
     {
-      "title": "ISRO Officials hold talks in Russia to acquire Semi-Cryo Rocket Engine",
-      "link": "https://www.indiastrategic.in/isro-officials-hold-talks-in-russia-to-acquire-semi-cryo-rocket-engine/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-04T20:56:40+05:30",
-      "time": "04 May, 08:56 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Moscow/ Bengaluru, May 3, 2026. ISRO is in talks with Russian Space Agency Roscosmos to procure powerful RD-191 rocket engine to bo..."
-    },
-    {
-      "title": "President Trump and the First Lady Welcome King Charles III and Queen Camilla for State Visit Honoring 250 Years of Shared Heritage",
-      "link": "https://www.indiastrategic.in/president-trump-and-the-first-lady-welcome-king-charles-iii-and-queen-camilla-for-state-visit-honoring-250-years-of-shared-heritage/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-04T20:48:38+05:30",
-      "time": "04 May, 08:48 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Washington/Bengaluru, May 3, 2026. President Donald J. Trump and First Lady Melania Trump hosted His Majesty King Charles III and H..."
-    },
-    {
       "title": "Iran claims its missiles hit US warship in Strait of Hormuz, American navy denies",
       "link": "https://indianexpress.com/article/world/iran-us-strait-of-hormuz-missile-claims-trump-project-freedom-10672407/",
       "source": "The Indian Express",
@@ -1016,36 +1025,189 @@
       "time": "04 May, 06:43 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Iran: IRGC declares new maritime control zone in Strait of Hormuz",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-irgc-declares-new-maritime-control-zone-in-strait-of-hormuz/articleshow/130797092.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-04T17:56:20+05:30",
-      "time": "04 May, 05:56 PM",
-      "type": "news",
-      "description": "Iran's IRGC has established a new maritime control zone in the Strait of Hormuz. Meanwhile, Iran's Foreign Ministry confirmed receiving a US counter-p..."
-    },
-    {
-      "title": "Outgoing Indian envoy meets Bangladesh FM, discusses bilateral ties",
-      "link": "https://www.thehindu.com/news/national/outgoing-indian-envoy-meets-bangladesh-fm-discusses-bilateral-ties/article70938715.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-04T17:49:57+05:30",
-      "time": "04 May, 05:49 PM",
-      "type": "news",
-      "description": "Mr. Verma reaffirmed India\u2019s commitment to work closely with the people and government of Bangladesh to further strengthen people-centric cooperation ..."
-    },
-    {
-      "title": "Iran warns will attack US forces in Hormuz after Trump announces plan to guide ships",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-warns-will-attack-us-forces-in-hormuz-after-trump-announces-plan-to-guide-ships/articleshow/130794629.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-04T17:32:42+05:30",
-      "time": "04 May, 05:32 PM",
-      "type": "news",
-      "description": "Iran's military warned of attacks on US forces entering the Strait of Hormuz, following President Trump's announcement of a new US maritime operation ..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @NetramDefence: 2. Markaz Taiba, Muridke (Lashkar-e-Taiba)\n\n One of the most prominent and well-established training complexes of LeT, it has been operational since 2000. It has functioned as the ideological and military training ground for generations of LeT operatives, including those involved in the 26/11 Mumbai attacks. Striking this target represents a major blow to LeT\u2019s core infrastructure.",
+      "link": "https://nitter.net/NetramDefence/status/2052008164112175418#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-06T18:20:45+05:30",
+      "time": "06 May, 06:20 PM",
+      "type": "tweets",
+      "content": "<p>2. Markaz Taiba, Muridke (Lashkar-e-Taiba)<br />\n<br />\n One of the most prominent and well-established training complexes of LeT, it has been operational since 2000. It has functioned as the ideological and military training ground for generations of LeT operatives, including those involved in the 26/11 Mumbai attacks. Striking this target represents a major blow to LeT\u2019s core infrastructure.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2052008164112175418#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052004915451772928%2Fimg%2F5whzxBgEwpa81Kog.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/NetramDefence/status/2052008164112175418#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052004959768715264%2Fimg%2F3cPSdlJwUefwL-6W.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHHovstbbwAAuCcW.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHovuizacAA5FU3.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 1. Markaz Subhan Allah, Bahawalpur (Jaish-e-Mohammad) \n\nIt is the operational headquarters of JeM, long considered the main centre for planning and training the youth. This facility has been linked to multiple high-profile attacks on India, including the 2019 Pulwama attack. It served as a major hub for recruitment, radicalisation, and operational planning.",
+      "link": "https://nitter.net/NetramDefence/status/2052008159607394472#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-06T18:20:44+05:30",
+      "time": "06 May, 06:20 PM",
+      "type": "tweets",
+      "content": "<p>1. Markaz Subhan Allah, Bahawalpur (Jaish-e-Mohammad) <br />\n<br />\nIt is the operational headquarters of JeM, long considered the main centre for planning and training the youth. This facility has been linked to multiple high-profile attacks on India, including the 2019 Pulwama attack. It served as a major hub for recruitment, radicalisation, and operational planning.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2052008159607394472#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052004474030575616%2Fimg%2FU8XwBB1f2aayIQz8.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHHovT35boAAqZVU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHovV2aagAAxMYJ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHovbXubwAA0Rxa.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "THREAD\ud83e\uddf5\n\n Operation Sindoor: India\u2019s Precision Strikes on Terror Infrastructure in Pakistan  \n\nOn 7 May 2025, the Indian Armed Forces launched Operation Sindoor - a coordinated tri-services precision strike operation targeting nine major terrorist facilities in Pakistan and Pakistan-occupied Jammu & Kashmir (PoJK). The operation was a direct response to the Pahalgam terror attack that killed 26 civilians.  \n\nThe strikes were executed using precision-guided munitions, including loitering munitions, based on credible intelligence. The Indian government emphasized that the operation was \u201cfocused, measured, and non-escalatory,\u201d deliberately avoiding Pakistani military installations and civilian areas. It marked a significant shift by hitting not just forward launch pads but established terror headquarters deep inside Pakistan.\n\n@adgpi @NorthernComd_IA @ChinarcorpsIA @IAF_MCC @easterncomd @westerncomd_IA @IaSouthern @suryacommand >@AN_Command @indiannavy @HQ_IDS_India @CAC_CPRO @tracomiaf @EAC_IAF @hqwaciaf @MC_IAF @SWAC_IAF @official_dgar @PMOIndia @DefenceMinIndia @SpokespersonMoD @HMOIndia @AmitShahOffice @AmitShah @rajnathsingh @rmo @ShekharGupta @sneheshphilip @AnchorAnandN @SandeepUnnithan @manupubby @ShivAroor @VishnuNDTV @gauravcsawant @OsintTV @ARanganathan72 @jsaideepak @major_pawan @spvaid @aravind @dubey_ajit\n\nhttps://x.com/NetramDefence/status/2051947944509882858?s=20",
+      "link": "https://nitter.net/NetramDefence/status/2052008155677417914#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-06T18:20:43+05:30",
+      "time": "06 May, 06:20 PM",
+      "type": "tweets",
+      "content": "<p>THREAD\ud83e\uddf5<br />\n<br />\n Operation Sindoor: India\u2019s Precision Strikes on Terror Infrastructure in Pakistan  <br />\n<br />\nOn 7 May 2025, the Indian Armed Forces launched Operation Sindoor - a coordinated tri-services precision strike operation targeting nine major terrorist facilities in Pakistan and Pakistan-occupied Jammu & Kashmir (PoJK). The operation was a direct response to the Pahalgam terror attack that killed 26 civilians.  <br />\n<br />\nThe strikes were executed using precision-guided munitions, including loitering munitions, based on credible intelligence. The Indian government emphasized that the operation was \u201cfocused, measured, and non-escalatory,\u201d deliberately avoiding Pakistani military installations and civilian areas. It marked a significant shift by hitting not just forward launch pads but established terror headquarters deep inside Pakistan.<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/NorthernComd_IA\" title=\"NORTHERN COMMAND - INDIAN ARMY\">@NorthernComd_IA</a> <a href=\"https://nitter.net/ChinarcorpsIA\" title=\"Chinar Corps\ud83c\udf41 - Indian Army\">@ChinarcorpsIA</a> <a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <a href=\"https://nitter.net/easterncomd\" title=\"EasternCommand_IA\">@easterncomd</a> <a href=\"https://nitter.net/westerncomd_IA\" title=\"Western Command - Indian Army\">@westerncomd_IA</a> <a href=\"https://nitter.net/IaSouthern\" title=\"Southern Command INDIAN ARMY\">@IaSouthern</a> <a href=\"https://nitter.net/suryacommand\" title=\"SuryaCommand_IA\">@suryacommand</a> <a href=\"https://nitter.net/AN_Command\" title=\"Andaman &amp; Nicobar Command\">@AN_Command</a> <a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <a href=\"https://nitter.net/CAC_CPRO\" title=\"CAC, IAF\">@CAC_CPRO</a> <a href=\"https://nitter.net/tracomiaf\" title=\"TRACOMIAF_CMCC\">@tracomiaf</a> <a href=\"https://nitter.net/EAC_IAF\" title=\"Eastern Air Command IAF\">@EAC_IAF</a> <a href=\"https://nitter.net/hqwaciaf\" title=\"Western Air Command, IAF\">@hqwaciaf</a> <a href=\"https://nitter.net/MC_IAF\" title=\"ANURAKSHAN KAMAAN, IAF\">@MC_IAF</a> <a href=\"https://nitter.net/SWAC_IAF\" title=\"C PRO South Western Air Command\">@SWAC_IAF</a> <a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a> <a href=\"https://nitter.net/PMOIndia\" title=\"PMO India\">@PMOIndia</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <a href=\"https://nitter.net/HMOIndia\" title=\"\u0917\u0943\u0939\u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f, HMO India\">@HMOIndia</a> <a href=\"https://nitter.net/AmitShahOffice\" title=\"Office of Amit Shah\">@AmitShahOffice</a> <a href=\"https://nitter.net/AmitShah\" title=\"Amit Shah\">@AmitShah</a> <a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a> <a href=\"https://nitter.net/rmo\" title=\"rmo\">@rmo</a> <a href=\"https://nitter.net/ShekharGupta\" title=\"Shekhar Gupta\">@ShekharGupta</a> <a href=\"https://nitter.net/sneheshphilip\" title=\"Snehesh Alex Philip\">@sneheshphilip</a> <a href=\"https://nitter.net/AnchorAnandN\" title=\"Anand Narasimhan\ud83c\uddee\ud83c\uddf3\">@AnchorAnandN</a> <a href=\"https://nitter.net/SandeepUnnithan\" title=\"Sandeep\">@SandeepUnnithan</a> <a href=\"https://nitter.net/manupubby\" title=\"Manu Pubby\">@manupubby</a> <a href=\"https://nitter.net/ShivAroor\" title=\"Shiv Aroor\">@ShivAroor</a> <a href=\"https://nitter.net/VishnuNDTV\" title=\"Vishnu Som\">@VishnuNDTV</a> <a href=\"https://nitter.net/gauravcsawant\" title=\"GAURAV C SAWANT\">@gauravcsawant</a> <a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a> <a href=\"https://nitter.net/ARanganathan72\" title=\"Anand Ranganathan\">@ARanganathan72</a> <a href=\"https://nitter.net/jsaideepak\" title=\"Sai Deepak J\">@jsaideepak</a> <a href=\"https://nitter.net/major_pawan\" title=\"Major Pawan Kumar, Shaurya Chakra (Retd) \ud83c\uddee\ud83c\uddf3\">@major_pawan</a> <a href=\"https://nitter.net/spvaid\" title=\"Shesh Paul Vaid\">@spvaid</a> <a href=\"https://nitter.net/aravind\" title=\"Aravind\">@aravind</a> <a href=\"https://nitter.net/dubey_ajit\" title=\"Ajit Dubey\">@dubey_ajit</a><br />\n<br />\n<a href=\"https://nitter.net/NetramDefence/status/2051947944509882858?s=20\">nitter.net/NetramDefence/status/2\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHou9d5bkAA55wg.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Sri Lanka joins Big Cat Alliance",
+      "link": "https://nitter.net/sidhant/status/2052003158625530312#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T18:00:52+05:30",
+      "time": "06 May, 06:00 PM",
+      "type": "tweets",
+      "content": "<p>Sri Lanka joins Big Cat Alliance</p>\n<hr />\n<blockquote>\n<b>Mahishini Colonn\u00e9 (@Mahishini)</b>\n<p>\n<p>It was a pleasure to meet Dr. S.P. Yadav, Director General of the International Big Cat Alliance (IBCA), and formally hand over Sri Lanka\u2019s Instrument of Accession to the IBCA. <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SriLanka\">#SriLanka</a> looks forward to engaging actively with the Alliance in advancing global cooperation for wildlife conservation, biodiversity protection, and sustainable ecosystems.<br />\n<br />\n<a href=\"https://nitter.net/SPYadavIFS\" title=\"SP Yadav\">@SPYadavIFS</a> <br />\n<a href=\"https://nitter.net/IBCA_official\" title=\"International Big Cat Alliance (IBCA)\">@IBCA_official</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Mahishini/status/2051989394408792315#m\">https://nitter.net/Mahishini/status/2051989394408792315#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India invites Vietnam to attend BRICS summit in Delhi in September. Vietnam has accepted the invitation.",
+      "link": "https://nitter.net/sidhant/status/2052000875716219311#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:51:47+05:30",
+      "time": "06 May, 05:51 PM",
+      "type": "tweets",
+      "content": "<p>India invites Vietnam to attend BRICS summit in Delhi in September. Vietnam has accepted the invitation.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Vietnam to study the offer",
+      "link": "https://nitter.net/sidhant/status/2051999014523179467#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:44:24+05:30",
+      "time": "06 May, 05:44 PM",
+      "type": "tweets",
+      "content": "<p>Vietnam to study the offer</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India proposes to Vietnam, that it can service Vietnamese Sukhois: MEA",
+      "link": "https://nitter.net/sidhant/status/2051998421956059491#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:42:02+05:30",
+      "time": "06 May, 05:42 PM",
+      "type": "tweets",
+      "content": "<p>India proposes to Vietnam, that it can service Vietnamese Sukhois: MEA</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Big chunk on defence, security in India, Vietnam joint Statement:",
+      "link": "https://nitter.net/sidhant/status/2051998039834050925#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:40:31+05:30",
+      "time": "06 May, 05:40 PM",
+      "type": "tweets",
+      "content": "<p>Big chunk on defence, security in India, Vietnam joint Statement:</p>\n<img src=\"https://nitter.net/pic/media%2FHHopVXLaMAA48gt.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Trump just woke up. First remarks on Iran:",
+      "link": "https://nitter.net/sidhant/status/2051997689240576389#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:39:08+05:30",
+      "time": "06 May, 05:39 PM",
+      "type": "tweets",
+      "content": "<p>Trump just woke up. First remarks on Iran:</p>\n<img src=\"https://nitter.net/pic/media%2FHHopBNKa0AA2AEs.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Vietnam to send rare earths samples to India as Delhi looks to expand rare earths cooperation.\n\nMEA's Secy East P Kumaran:",
+      "link": "https://nitter.net/sidhant/status/2051997579295219760#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:38:41+05:30",
+      "time": "06 May, 05:38 PM",
+      "type": "tweets",
+      "content": "<p>Vietnam to send rare earths samples to India as Delhi looks to expand rare earths cooperation.<br />\n<br />\nMEA's Secy East P Kumaran:</p>\n<a href=\"https://nitter.net/sidhant/status/2051997579295219760#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051997478418038784%2Fpu%2Fimg%2FkniMorXNLjM0UjXd.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "For the first time, India has confirmed it has had talks with with Vietnam on Brahmos",
+      "link": "https://nitter.net/sidhant/status/2051997127954596291#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:36:54+05:30",
+      "time": "06 May, 05:36 PM",
+      "type": "tweets",
+      "content": "<p>For the first time, India has confirmed it has had talks with with Vietnam on Brahmos</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking<br />\n<br />\nINDIA CONFIRMS TALKS WITH VIETNAM ON BRAHMOS<br />\n<br />\n'Watch this space', says MEA's Secretary East P Kumaran on Vietnam procuring Brahmos from India. Confirms that talks on Brahmos have taken place.</p>\n<a href=\"https://nitter.net/sidhant/status/2051996244873302323#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051996156075614208%2Fpu%2Fimg%2Ft-cQG1tSA-BHEt1f.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051996244873302323#m\">https://nitter.net/sidhant/status/2051996244873302323#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India hopes financial connect with Vietnam, via UPI will help Indian tourists.",
+      "link": "https://nitter.net/sidhant/status/2051996430261424586#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:34:07+05:30",
+      "time": "06 May, 05:34 PM",
+      "type": "tweets",
+      "content": "<p>India hopes financial connect with Vietnam, via UPI will help Indian tourists.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>MEA press conference begins on Vietnam President</p>\n<img src=\"https://nitter.net/pic/media%2FHHojaxxbYAAJSCk.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051991535898742890#m\">https://nitter.net/sidhant/status/2051991535898742890#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking\n\nINDIA CONFIRMS TALKS WITH VIETNAM ON BRAHMOS\n\n'Watch this space', says MEA's Secretary East P Kumaran on Vietnam procuring Brahmos from India. Confirms that talks on Brahmos have taken place.",
+      "link": "https://nitter.net/sidhant/status/2051996244873302323#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:33:23+05:30",
+      "time": "06 May, 05:33 PM",
+      "type": "tweets",
+      "content": "<p>Breaking<br />\n<br />\nINDIA CONFIRMS TALKS WITH VIETNAM ON BRAHMOS<br />\n<br />\n'Watch this space', says MEA's Secretary East P Kumaran on Vietnam procuring Brahmos from India. Confirms that talks on Brahmos have taken place.</p>\n<a href=\"https://nitter.net/sidhant/status/2051996244873302323#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051996156075614208%2Fpu%2Fimg%2Ft-cQG1tSA-BHEt1f.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @OsintTV: As per PoK social media reports, Indian Army has reportedly raised red flags on forward posts on LoC. A visible atmosphere of fear and panic is being seen across Pakistan and PoK. Reports also claim that Pakistan Field Marshal Asim Munir has rushed to a bunker and is expected to remain there till 10th May amid fears of possible Indian action. #OperationSindoor",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2051996085485174812#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-06T17:32:45+05:30",
+      "time": "06 May, 05:32 PM",
+      "type": "tweets",
+      "content": "<p>As per PoK social media reports, Indian Army has reportedly raised red flags on forward posts on LoC. A visible atmosphere of fear and panic is being seen across Pakistan and PoK. Reports also claim that Pakistan Field Marshal Asim Munir has rushed to a bunker and is expected to remain there till 10th May amid fears of possible Indian action. <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a></p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2051996085485174812#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051995979558359042%2Fimg%2F9jk5XQCcMjJ73x-P.jpg\" />\n</a>",
+      "author": "@MikeLimaBravo12"
+    },
+    {
+      "title": "PM Modi offered maintenance support, MRO support to Vietnam when it comes to Submarines, Sukhois.",
+      "link": "https://nitter.net/sidhant/status/2051995500896039199#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:30:26+05:30",
+      "time": "06 May, 05:30 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi offered maintenance support, MRO support to Vietnam when it comes to Submarines, Sukhois.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "MEA's Secretary East P Kumaran emphasis on firming up of India, Vietnam defence ties. Both sides working on white shipping agreement.",
+      "link": "https://nitter.net/sidhant/status/2051995084229673258#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:28:46+05:30",
+      "time": "06 May, 05:28 PM",
+      "type": "tweets",
+      "content": "<p>MEA's Secretary East P Kumaran emphasis on firming up of India, Vietnam defence ties. Both sides working on white shipping agreement.</p>\n<a href=\"https://nitter.net/sidhant/status/2051995084229673258#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051994982127710209%2Fpu%2Fimg%2FD5CjrN2v0vDTPj1Q.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Vietnam backs India's bid for membership for reformed UNSC; India backs Asean centrality under Act East policy",
+      "link": "https://nitter.net/sidhant/status/2051994174178893937#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:25:09+05:30",
+      "time": "06 May, 05:25 PM",
+      "type": "tweets",
+      "content": "<p>Vietnam backs India's bid for membership for reformed UNSC; India backs Asean centrality under Act East policy</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>MEA press conference begins on Vietnam President</p>\n<img src=\"https://nitter.net/pic/media%2FHHojaxxbYAAJSCk.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051991535898742890#m\">https://nitter.net/sidhant/status/2051991535898742890#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Vietnam joins Indo Pacific oceans initative : MEA",
+      "link": "https://nitter.net/sidhant/status/2051993604080742435#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:22:54+05:30",
+      "time": "06 May, 05:22 PM",
+      "type": "tweets",
+      "content": "<p>Vietnam joins Indo Pacific oceans initative : MEA</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>MEA press conference begins on Vietnam President</p>\n<img src=\"https://nitter.net/pic/media%2FHHojaxxbYAAJSCk.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051991535898742890#m\">https://nitter.net/sidhant/status/2051991535898742890#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "India, Vietnam to establish 2+2 foreign, defence ministers mechanism: Secretary East, P Kumaran, MEA",
       "link": "https://nitter.net/sidhant/status/2051993380406820920#m",
@@ -1097,36 +1259,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Vietnam President To Lam addresses ICWA in Delhi",
-      "link": "https://nitter.net/sidhant/status/2051984306692870235#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T16:45:57+05:30",
-      "time": "06 May, 04:45 PM",
-      "type": "tweets",
-      "content": "<p>Vietnam President To Lam addresses ICWA in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHHoc2WxasAAjbwJ.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Shortly, Indian foreign ministry press conference on Vietnam President's India visit",
-      "link": "https://nitter.net/sidhant/status/2051983918287757515#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T16:44:24+05:30",
-      "time": "06 May, 04:44 PM",
-      "type": "tweets",
-      "content": "<p>Shortly, Indian foreign ministry press conference on Vietnam President's India visit</p>\n<img src=\"https://nitter.net/pic/media%2FHHocfdvaMAA7Unh.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: India, Vietnam deepen comprehensive strategic partnership \n\nCeremonial welcome to President T\u00f4 L\u00e2m in India \n\nPM Narenda Modi, T\u00f4 L\u00e2m hold bilateral talks \n\n@samikshaa3 gets you this report by @sidhant",
-      "link": "https://nitter.net/WIONews/status/2051980720130945060#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T16:31:42+05:30",
-      "time": "06 May, 04:31 PM",
-      "type": "tweets",
-      "content": "<p>India, Vietnam deepen comprehensive strategic partnership <br />\n<br />\nCeremonial welcome to President T\u00f4 L\u00e2m in India <br />\n<br />\nPM Narenda Modi, T\u00f4 L\u00e2m hold bilateral talks <br />\n<br />\n<a href=\"https://nitter.net/samikshaa3\" title=\"Samiksha Srivastava\">@samikshaa3</a> gets you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2051980720130945060#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051976822427164672%2Fimg%2FvLLP9vG58qQMMXMk.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
       "title": "Rajasthan Police chased a Narco criminal in filmy style in Sriganganagar.",
       "link": "https://nitter.net/Goreunit/status/2051979988363280487#m",
       "source": "War & Gore",
@@ -1135,46 +1267,6 @@
       "type": "tweets",
       "content": "<p>Rajasthan Police chased a Narco criminal in filmy style in Sriganganagar.</p>\n<a href=\"https://nitter.net/Goreunit/status/2051979988363280487#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051979962643787776%2Fpu%2Fimg%2FdISrRkCmhvzLl9BZ.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Just in: Indian Defence Minister Rajnath Singh meets Vietnam\u2019s Deputy PM and Defence Minister in New Delhi.",
-      "link": "https://nitter.net/sidhant/status/2051975261231702032#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T16:10:00+05:30",
-      "time": "06 May, 04:10 PM",
-      "type": "tweets",
-      "content": "<p>Just in: Indian Defence Minister Rajnath Singh meets Vietnam\u2019s Deputy PM and Defence Minister in New Delhi.</p>\n<img src=\"https://nitter.net/pic/media%2FHHoUnEMbgAAjiYX.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Sri Lankan Tamil leaders extend congratulations to Vijay over Tamil Nadu Election win.\n\nMano Ganesan, Leader of the Tamil Progressive Alliance & Sri Lankan MP in Parliament:",
-      "link": "https://nitter.net/sidhant/status/2051971392024043677#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T15:54:38+05:30",
-      "time": "06 May, 03:54 PM",
-      "type": "tweets",
-      "content": "<p>Sri Lankan Tamil leaders extend congratulations to Vijay over Tamil Nadu Election win.<br />\n<br />\nMano Ganesan, Leader of the Tamil Progressive Alliance &amp; Sri Lankan MP in Parliament:</p>\n<a href=\"https://nitter.net/sidhant/status/2051971392024043677#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051971361397149696%2Fpu%2Fimg%2FBiGD99kbZXbxgMnm.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\"Freedom of navigation and overflight, and addressing disputes through peaceful means on the basis of international law, including UNCLOS 1982\"\n\nVietnam President To Lam in Delhi",
-      "link": "https://nitter.net/sidhant/status/2051970434602799578#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T15:50:50+05:30",
-      "time": "06 May, 03:50 PM",
-      "type": "tweets",
-      "content": "<p>\"Freedom of navigation and overflight, and addressing disputes through peaceful means on the basis of international law, including UNCLOS 1982\"<br />\n<br />\nVietnam President To Lam in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2051970434602799578#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051956931066306560%2Fimg%2FUZNqrA240e3OQAB3.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Bangladesh foreign minister Rahman in China",
-      "link": "https://nitter.net/sidhant/status/2051964885823819961#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T15:28:47+05:30",
-      "time": "06 May, 03:28 PM",
-      "type": "tweets",
-      "content": "<p>Bangladesh foreign minister Rahman in China</p>\n<img src=\"https://nitter.net/pic/media%2FHHoLL4OaYAAp41W.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "As per Video recorded by POJK residents on LOC, Indian army hoisted a red flag on their posts & warned the enemies.",
@@ -1247,36 +1339,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Vietnam President To Lam invites PM Modi to his country",
-      "link": "https://nitter.net/sidhant/status/2051944950485725250#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T14:09:34+05:30",
-      "time": "06 May, 02:09 PM",
-      "type": "tweets",
-      "content": "<p>Vietnam President To Lam invites PM Modi to his country</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Vietnam Prez To Lam: India has been soaring ahead as center of growth &amp; innovation.</p>\n<img src=\"https://nitter.net/pic/media%2FHHn4NEbagAA0vo1.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051944024697974966#m\">https://nitter.net/sidhant/status/2051944024697974966#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "In Delhi, Vietnam President To Lam sends a pan Asia message- emphasis on UNCLOS",
-      "link": "https://nitter.net/sidhant/status/2051944868004679779#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T14:09:14+05:30",
-      "time": "06 May, 02:09 PM",
-      "type": "tweets",
-      "content": "<p>In Delhi, Vietnam President To Lam sends a pan Asia message- emphasis on UNCLOS</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Vietnam Prez To Lam: India has been soaring ahead as center of growth &amp; innovation.</p>\n<img src=\"https://nitter.net/pic/media%2FHHn4NEbagAA0vo1.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051944024697974966#m\">https://nitter.net/sidhant/status/2051944024697974966#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We will elevate defence & security cooperation. Remove trade barriers: Vietnam President To Lam on India ties.",
-      "link": "https://nitter.net/sidhant/status/2051944462847545640#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T14:07:37+05:30",
-      "time": "06 May, 02:07 PM",
-      "type": "tweets",
-      "content": "<p>We will elevate defence &amp; security cooperation. Remove trade barriers: Vietnam President To Lam on India ties.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Vietnam Prez To Lam: India has been soaring ahead as center of growth &amp; innovation.</p>\n<img src=\"https://nitter.net/pic/media%2FHHn4NEbagAA0vo1.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051944024697974966#m\">https://nitter.net/sidhant/status/2051944024697974966#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Why do we put irritating watermarks on our content?\n\nEvery exclusive footage you see on ElitePredators comes through years of networking, trust, verification, and constant efforts from the team. Many times, visuals reach this community even before they appear on major media platforms.\n\nWhat feels disappointing is seeing original footage quietly picked up, logos cropped out, and reposted elsewhere without any credit. To many, it may look like just a watermark. For the people working behind the scenes, it represents years of credibility, relationships, and trust built from the ground up.\n\nThe recent Jalandhar blast footage was sourced directly by the EPs Team from a primary source. Unfortunately, several large media houses and journalists reposted the video after removing the ElitePredators logo.\n\nThe team will continue doing what it does best - bringing verified and fast information to the community. But genuine support, proper credit, and even simple tags truly make a difference for the people putting in the work behind the scenes.\n\nWhile some of the media houses appreciate the work and work as a team. It seems the rest make it an ego fight.",
       "link": "https://nitter.net/elitepredatorss/status/2051944053684539900#m",
       "source": "Elite Predators",
@@ -1285,46 +1347,6 @@
       "type": "tweets",
       "content": "<p>Why do we put irritating watermarks on our content?<br />\n<br />\nEvery exclusive footage you see on ElitePredators comes through years of networking, trust, verification, and constant efforts from the team. Many times, visuals reach this community even before they appear on major media platforms.<br />\n<br />\nWhat feels disappointing is seeing original footage quietly picked up, logos cropped out, and reposted elsewhere without any credit. To many, it may look like just a watermark. For the people working behind the scenes, it represents years of credibility, relationships, and trust built from the ground up.<br />\n<br />\nThe recent Jalandhar blast footage was sourced directly by the EPs Team from a primary source. Unfortunately, several large media houses and journalists reposted the video after removing the ElitePredators logo.<br />\n<br />\nThe team will continue doing what it does best - bringing verified and fast information to the community. But genuine support, proper credit, and even simple tags truly make a difference for the people putting in the work behind the scenes.<br />\n<br />\nWhile some of the media houses appreciate the work and work as a team. It seems the rest make it an ego fight.</p>\n<img src=\"https://nitter.net/pic/media%2FHHnFkL_bYAAabee.png\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Vietnam Prez To Lam: India has been soaring ahead as center of growth & innovation.",
-      "link": "https://nitter.net/sidhant/status/2051944024697974966#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T14:05:53+05:30",
-      "time": "06 May, 02:05 PM",
-      "type": "tweets",
-      "content": "<p>Vietnam Prez To Lam: India has been soaring ahead as center of growth &amp; innovation.</p>\n<img src=\"https://nitter.net/pic/media%2FHHn4NEbagAA0vo1.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi thanks Vietnam for standing with India after Pahalgam terror attack",
-      "link": "https://nitter.net/sidhant/status/2051943597935939735#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T14:04:11+05:30",
-      "time": "06 May, 02:04 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi thanks Vietnam for standing with India after Pahalgam terror attack</p>\n<a href=\"https://nitter.net/sidhant/status/2051943597935939735#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051943526993412096%2Fpu%2Fimg%2F4WDkyQzE_JJBwRlL.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India's UPI will be connected to Vietnamese counterpart, says PM Modi",
-      "link": "https://nitter.net/sidhant/status/2051943144762278072#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T14:02:23+05:30",
-      "time": "06 May, 02:02 PM",
-      "type": "tweets",
-      "content": "<p>India's UPI will be connected to Vietnamese counterpart, says PM Modi</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India, Vietnam to take trade to $25 Bn by 2030: PM Modi",
-      "link": "https://nitter.net/sidhant/status/2051942828578947120#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T14:01:08+05:30",
-      "time": "06 May, 02:01 PM",
-      "type": "tweets",
-      "content": "<p>India, Vietnam to take trade to $25 Bn by 2030: PM Modi</p>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @sidhant: Indian PM Narendra Modi held bilateral talks with Vietnamese President To Lam  \n\nLam's visit to India marks 10 years of strategic ties \n\n@samikshaa3 and @sidhant have more",
@@ -1787,16 +1809,6 @@
       "author": "@manishindiatv"
     },
     {
-      "title": "Daily US-Israel-Iran War Brief: \n5th May 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf For the second consecutive day, the UAE Ministry of Defense confirmed its air defenses engaged multiple incoming missiles and drones originating from Iran. This follows yesterday's strikes that injured three workers at the Fujairah oil terminal.\n\n\u25cf QatarEnergy extended its force majeure declaration on LNG supplies through mid-June, according to Bloomberg.\n\n\u25cf Houthi Political Council member Ali Amad said that Yemen's forces stand ready to join fighting if US-Israeli operations against Iran resume. He also warned Saudi Arabia of consequences.\n\n\u25cf Two armed Hezbollah terrorists launched an anti-tank missile toward IDF soldiers in southern Lebanon. In response, the IDF struck the structure.\n\n\u25cf Iranian Foreign Minister Araghchi arrived in Beijing today for emergency talks with Chinese officials. This comes as the U.S. and Bahrain circulate a draft UN resolution that could authorize force to maintain shipping lanes.\n\n\u25cf CENTCOM reported that 51 vessels have been directed to turn around or return to port as of Tuesday under the US blockade of Iranian ports and Iran-linked vessels.\n\n\u25cf Germany is sending a minesweeping vessel from its navy to the Mediterranean, ready for potential participation in a future effort to clear the Strait of Hormuz.\n\nEND OF THE BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2051711023846236202#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-05T22:40:01+05:30",
-      "time": "05 May, 10:40 PM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief: <br />\n5th May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf For the second consecutive day, the UAE Ministry of Defense confirmed its air defenses engaged multiple incoming missiles and drones originating from Iran. This follows yesterday's strikes that injured three workers at the Fujairah oil terminal.<br />\n<br />\n\u25cf QatarEnergy extended its force majeure declaration on LNG supplies through mid-June, according to Bloomberg.<br />\n<br />\n\u25cf Houthi Political Council member Ali Amad said that Yemen's forces stand ready to join fighting if US-Israeli operations against Iran resume. He also warned Saudi Arabia of consequences.<br />\n<br />\n\u25cf Two armed Hezbollah terrorists launched an anti-tank missile toward IDF soldiers in southern Lebanon. In response, the IDF struck the structure.<br />\n<br />\n\u25cf Iranian Foreign Minister Araghchi arrived in Beijing today for emergency talks with Chinese officials. This comes as the U.S. and Bahrain circulate a draft UN resolution that could authorize force to maintain shipping lanes.<br />\n<br />\n\u25cf CENTCOM reported that 51 vessels have been directed to turn around or return to port as of Tuesday under the US blockade of Iranian ports and Iran-linked vessels.<br />\n<br />\n\u25cf Germany is sending a minesweeping vessel from its navy to the Mediterranean, ready for potential participation in a future effort to clear the Strait of Hormuz.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHkkSt_aEAEjaSf.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n4th May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf President Trump announced the launch of \u201cProject Freedom\u201d aimed at rescuing or assisting over 20,000 seafarers stranded due to the ongoing dual blockade in the region.<br />\n<br />\n\u25cf Iranian state media claimed two missiles were fired at a US Navy destroyer to block it from entering the Strait of Hormuz. CENTCOM denied any damage to American warships.<br />\n<br />\n\u25cf The UAE Ministry of Interior issued a missile alert to residents. Air defenses later intercepted several incoming projectiles.<br />\n<br />\n\u25cf The South Korean cargo ship HMM NAMU caught fire after an explosion while anchored near the UAE. All 24 crew members were safely evacuated.<br />\n<br />\n\u25cf ADNOC tanker MV BARAKAH was struck by two Iranian drones off the coast of Oman. No crew injuries reported.<br />\n<br />\n\u25cf A fire broke out at Fujairah\u2019s Petroleum Industries Zone (FOZ) following a reported drone attack from Iran. No casualties reported.<br />\n<br />\n\u25cf The UK Maritime Trade Operations issued alerts for two separate incidents - 36 nautical miles north of Dubai and 14 nautical miles west of Mina Saqr, UAE.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHfKW20aAAEoIta.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2051330694916476988#m\">https://nitter.net/NetramDefence/status/2051330694916476988#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "The Scooty insurance expired in 2018. The vehicle was purchased in 2017, insurance expired the following year, and there has been no renewal since then.\n\nI think all valid documents are required for delivery work. Maybe he was using a different vehicle than the registered one, or something is off about this case.",
       "link": "https://nitter.net/elitepredatorss/status/2051706588705263941#m",
       "source": "Elite Predators",
@@ -1815,16 +1827,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 Part the Pretence: <br />\nPakistan\u2019s playbook - Sponsor terror, deny it, flood social media with lies.<br />\n<br />\n\u2705 India\u2019s precision strikes in <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a> hit terror camps after Pahalgam massacre. Pak spun fake victories, false jet shootdowns & doctored images. Their propaganda continues with recycled toolkits, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakLies\">#PakLies</a> are exposed daily. Truth prevails.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakPropagandaBusted\">#PakPropagandaBusted</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SindoorAnniversary\">#SindoorAnniversary</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23JusticeEndures\">#JusticeEndures</a><br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a></p>\n<a href=\"https://nitter.net/MythbusterXX/status/2051704864041017791#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051704572956319749%2Fimg%2FSDKkWjQVL-VcfMTw.jpg\" />\n</a>",
       "author": "@MythbusterXX"
-    },
-    {
-      "title": "BREAKING: Explosion reported near BSF headquarters in Jalandhar\n\nAn explosion was reported near the Border Security Force (BSF) headquarters in Jalandhar on Tuesday, with initial reports suggesting a scooter caught fire while authorities investigate the cause.",
-      "link": "https://nitter.net/NetramDefence/status/2051695114226114627#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-05T21:36:48+05:30",
-      "time": "05 May, 09:36 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Explosion reported near BSF headquarters in Jalandhar<br />\n<br />\nAn explosion was reported near the Border Security Force (BSF) headquarters in Jalandhar on Tuesday, with initial reports suggesting a scooter caught fire while authorities investigate the cause.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2051695114226114627#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051695081221218304%2Fimg%2FVjOUZZvmrTcUdyEC.jpg\" />\n</a>",
-      "author": "@NetramDefence"
     },
     {
       "title": "RT by @WarMonitorINTL: Chinese National Arrested From Indo-Nepal Border In Bihar",
@@ -2017,16 +2019,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "RT by @NetramDefence: Watch out for a couple of awesome threads on Op Sindoor anniversary from @NetramDefence !\n\n3..2..1 !!",
-      "link": "https://nitter.net/Manik_M_Jolly/status/2051654173079544002#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-05T18:54:07+05:30",
-      "time": "05 May, 06:54 PM",
-      "type": "tweets",
-      "content": "<p>Watch out for a couple of awesome threads on Op Sindoor anniversary from <a href=\"https://nitter.net/NetramDefence\" title=\"Netram Defence Review\">@NetramDefence</a> !<br />\n<br />\n3..2..1 !!</p>",
-      "author": "@Manik_M_Jolly"
-    },
-    {
       "title": "\ud83d\ude02\ud83d\ude02",
       "link": "https://nitter.net/Goreunit/status/2051631608164475218#m",
       "source": "War & Gore",
@@ -2117,16 +2109,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @OsintTV: Heavy reaction from Paijaans means you have exposed something real and hit a nerve.",
-      "link": "https://nitter.net/OsintTV/status/2051546231202005425#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-05T11:45:12+05:30",
-      "time": "05 May, 11:45 AM",
-      "type": "tweets",
-      "content": "<p>Heavy reaction from Paijaans means you have exposed something real and hit a nerve.</p>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Pakistan payments in April : \n- $3.5 billion to the UAE.\n- $1.43 billion to sovereign Eurobond.\n- $4.8 billion in imports\n\nTotal - $9.73 billion.\n\nPakistan's actual forex reserves excluding Gulf states' deposits stand at approximately $14 - $16 billion.\n\nPakistan needs  $4.5 to $6 billion per month to sustain its monthly imports. Current forex reserves roughly give them 3 months of runtime, or else defaults on payment and hookah-paani band!\n\nYes, that's what they call \"Macro Stability\"\n\nThat's the real Op Sindoor Phase-2 we should work upon, they should not get more money in future, it should be our absolute goal.",
       "link": "https://nitter.net/elitepredatorss/status/2051542410409263548#m",
       "source": "Elite Predators",
@@ -2209,6 +2191,15 @@
   ],
   "youtube": [
     {
+      "title": "Indian Defence Updates : Su57 Stealth Missile,KAL Strike Drone,SharkJet Kamikaze,Armenia Pralay Deal",
+      "link": "https://www.youtube.com/watch?v=FkAw0fNsli4",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-06T17:18:47+05:30",
+      "time": "06 May, 05:18 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/FkAw0fNsli4/mqdefault.jpg"
+    },
+    {
       "title": "Agni 6 : MIRV Capable ICBM of India",
       "link": "https://www.youtube.com/watch?v=KjnvHaMoXBM",
       "source": "Alpha Defense - Hindi",
@@ -2279,18 +2270,9 @@
       "time": "04 May, 11:09 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/KcVZ4J0m4R8/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : Surya Laser Weapon,AeroForce X UAV Offer,TATA 30mm FICV Turret,Kusha Export",
-      "link": "https://www.youtube.com/watch?v=xWXZDJkHfOc",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-04T17:58:33+05:30",
-      "time": "04 May, 05:58 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/xWXZDJkHfOc/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
