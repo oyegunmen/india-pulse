@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "India, Algeria hold first joint defence commission meet",
+      "link": "https://www.thehindu.com/news/national/india-algeria-hold-first-joint-defence-commission-meet/article70947397.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T22:45:57+05:30",
+      "time": "06 May, 10:45 PM",
+      "type": "news",
+      "description": "Both sides signed the Rules of Procedure to oversee the implementation of India-Algeria defence  cooperation, which will guide future joint commission..."
+    },
+    {
+      "title": "Boosting self-reliance: MBDA to develop local maintenance facility for IAF's MICA missiles",
+      "link": "https://economictimes.indiatimes.com/news/defence/boosting-self-reliance-mbda-to-develop-local-maintenance-facility-for-iafs-mica-missiles/articleshow/130864333.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-06T22:39:24+05:30",
+      "time": "06 May, 10:39 PM",
+      "type": "news",
+      "description": "European missile maker MBDA and the Indian Air Force have signed an agreement. This pact will develop local capability for MICA missile maintenance, r..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Trump threatens Iran with \u2018higher level\u2019 bombing if it doesn't reopen Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T22:21:30+05:30",
+      "time": "06 May, 10:21 PM",
+      "type": "news",
+      "description": "The strait has \u200cbeen virtually shut since the conflict began on February 28 with air attacks on Iran \u200cby \u2060the U.S. and Israel, blocking about 20% of w..."
+    },
+    {
+      "title": "Trump pauses Hormuz operation; says war will end if Iran agrees to deal",
+      "link": "https://www.thehindu.com/news/international/trump-threatens-iran-with-higher-level-bombing/article70947165.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T22:19:49+05:30",
+      "time": "06 May, 10:19 PM",
+      "type": "news",
+      "description": "Project Freedom will be paused for a short period of time to see whether or not the agreement can be finalised and signed, U.S. President says"
+    },
+    {
       "title": "Hyderabad firm unveils India\u2019s first AI-powered counter-drone system close to Op Sindoor anniversary",
       "link": "https://theprint.in/defence/hyderabad-firm-unveils-indias-first-ai-powered-counter-drone-system-close-to-op-sindoor-anniversary/2923952/",
       "source": "The Print",
@@ -35,15 +71,6 @@
       "time": "06 May, 09:31 PM",
       "type": "news",
       "description": "In this episode: Congress backs Vijay\u2019s TVK after breaking with the DMK, as post-poll violence grips West Bengal, alongside Iran\u2013U.S. tensions and key..."
-    },
-    {
-      "title": "Iran-Israel war LIVE: Trump threatens Iran with \u2018higher level\u2019 bombing if it doesn't reopen Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-06T21:27:50+05:30",
-      "time": "06 May, 09:27 PM",
-      "type": "news",
-      "description": "The strait has \u200cbeen virtually shut since the conflict began on February 28 with air attacks on Iran \u200cby \u2060the U.S. and Israel, blocking about 20% of w..."
     },
     {
       "title": "Iran bets on new maritime system for ships transiting Strait of Hormuz",
@@ -179,15 +206,6 @@
       "time": "06 May, 06:28 PM",
       "type": "news",
       "description": "<p>Boeing and the US Navy have successfully completed the first test flight of an operational MQ-25A Stingray. The milestone advances the Stingray clo..."
-    },
-    {
-      "title": "Trump threatens Iran with \u2018higher level\u2019 bombing if it doesn't reopen Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/trump-threatens-iran-with-higher-level-bombing/article70947165.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-06T18:23:31+05:30",
-      "time": "06 May, 06:23 PM",
-      "type": "news",
-      "description": "He said it was \u201cperhaps a big assumption\u201d that Iran would agree to the terms being offered by the United States"
     },
     {
       "title": "US Secretary of State Marco Rubio calls Hormuz Resolution Test for UN, urges against Vetoes",
@@ -1070,36 +1088,49 @@
       "time": "04 May, 11:30 PM",
       "type": "news",
       "description": "\"We don't think that we're destined to submit to a more transactional, insular, and brutal world and gatherings such as these point to a better way fo..."
-    },
-    {
-      "title": "Three Indians injured after fire breaks out in UAE\u2019s Fujairah due to drone attack",
-      "link": "https://www.thehindu.com/news/international/indians-injured-in-uae-fujairah-iran-drone-attack/article70940253.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-04T23:20:57+05:30",
-      "time": "04 May, 11:20 PM",
-      "type": "news",
-      "description": "Three Indian nationals sustained injuries after the fire broke out on the Fujairah Petroleum Industries Zone, following a drone attack from Iran, loca..."
-    },
-    {
-      "title": "US destroys six Iranian small boats, shoots down missiles, drones, admiral says",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/articleshow/130808060.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-04T22:51:18+05:30",
-      "time": "04 May, 10:51 PM",
-      "type": "news",
-      "description": "The U.S. military destroyed six Iranian small boats and intercepted drones and cruise missiles as it launched an operation to secure shipping through ..."
-    },
-    {
-      "title": "UAE says Iran has resumed attacks as the US moves to reopen the Strait of Hormuz",
-      "link": "https://economictimes.indiatimes.com/news/defence/uae-says-iran-has-resumed-attacks-as-the-us-moves-to-reopen-the-strait-of-hormuz/articleshow/130807424.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-04T22:30:42+05:30",
-      "time": "04 May, 10:30 PM",
-      "type": "news",
-      "description": "The United Arab Emirates reported Iranian attacks. This happened after US President Donald Trump's initiative to reopen the Strait of Hormuz. Iran lau..."
     }
   ],
   "tweets": [
+    {
+      "title": "The Pakistanis should just sleep tonight, I can see all the lads are awake and posting.\n\nPre-emptive edits have been fired already.\n\nTonight X can turn into a bund-blasting device for the neighbors real fast, if y'all tried to act naughty.",
+      "link": "https://nitter.net/elitepredatorss/status/2052082793656819994#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-06T23:17:18+05:30",
+      "time": "06 May, 11:17 PM",
+      "type": "tweets",
+      "content": "<p>The Pakistanis should just sleep tonight, I can see all the lads are awake and posting.<br />\n<br />\nPre-emptive edits have been fired already.<br />\n<br />\nTonight X can turn into a bund-blasting device for the neighbors real fast, if y'all tried to act naughty.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @OsintTV: Golai aur missiles aisai fire kiye gaye ki, 9 Pakistani terrorist camps par pehla hit ek sath 0105hrs par hi ho aur phir non stop 23 min tak hote rahai.\ud83c\uddee\ud83c\uddf3\n#OperationSindoor",
+      "link": "https://nitter.net/manishindiatv/status/2052075296741015722#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-06T22:47:31+05:30",
+      "time": "06 May, 10:47 PM",
+      "type": "tweets",
+      "content": "<p>Golai aur missiles aisai fire kiye gaye ki, 9 Pakistani terrorist camps par pehla hit ek sath 0105hrs par hi ho aur phir non stop 23 min tak hote rahai.\ud83c\uddee\ud83c\uddf3<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2052075296741015722#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052075282757201920%2Fimg%2FjTfdz_4G41N8Nj4_.jpg\" />\n</a>",
+      "author": "@manishindiatv"
+    },
+    {
+      "title": "Daily US-Israel-Iran War Brief: \n6th May 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf French shipping group CMA CGM reported that its vessel SAN ANTONIO was attacked while transiting Strait of Hormuz, resulting in injuries among crew members and damage to the vessel.\n\n\u25cf Trump paused Project Freedom just two days after its launch. He cited progress toward a US-Iran deal. The US blockade on Iranian ports remains in place.\n\n\u25cf Foreign Minister Araghchi is in Beijing seeking China\u2019s backing for Iran\u2019s new diplomatic framework, reportedly to help prevent the US-Bahrain UN resolution from advancing.\n\n\u25cf The IRGC Navy suggested that safe passage through the Strait of Hormuz could soon be restored under \"new procedures\". However, the US naval blockade on Iranian-linked vessels remains in full effect.\n\n\u25cf Trump has conditioned the reopening of the Strait of Hormuz on Iran accepting US terms, maintaining the blockade of Iranian ports following Operation Epic Fury. He warned that if Iran does not agree to terms soon, the US will launch intense bombing campaigns.\n\n\u25cf PM Netanyahu stated that Israel is not bound by any US-Iran diplomatic pause, following Hezbollah strikes in the Bekaa Valley.\n\n\u25cf CENTCOM reported that 52 commercial vessels have been directed to turn around or return to port in order to comply with the ongoing US blockade.\n\nEND OF THE BRIEF",
+      "link": "https://nitter.net/NetramDefence/status/2052073202659246411#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-06T22:39:11+05:30",
+      "time": "06 May, 10:39 PM",
+      "type": "tweets",
+      "content": "<p>Daily US-Israel-Iran War Brief: <br />\n6th May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf French shipping group CMA CGM reported that its vessel SAN ANTONIO was attacked while transiting Strait of Hormuz, resulting in injuries among crew members and damage to the vessel.<br />\n<br />\n\u25cf Trump paused Project Freedom just two days after its launch. He cited progress toward a US-Iran deal. The US blockade on Iranian ports remains in place.<br />\n<br />\n\u25cf Foreign Minister Araghchi is in Beijing seeking China\u2019s backing for Iran\u2019s new diplomatic framework, reportedly to help prevent the US-Bahrain UN resolution from advancing.<br />\n<br />\n\u25cf The IRGC Navy suggested that safe passage through the Strait of Hormuz could soon be restored under \"new procedures\". However, the US naval blockade on Iranian-linked vessels remains in full effect.<br />\n<br />\n\u25cf Trump has conditioned the reopening of the Strait of Hormuz on Iran accepting US terms, maintaining the blockade of Iranian ports following Operation Epic Fury. He warned that if Iran does not agree to terms soon, the US will launch intense bombing campaigns.<br />\n<br />\n\u25cf PM Netanyahu stated that Israel is not bound by any US-Iran diplomatic pause, following Hezbollah strikes in the Bekaa Valley.<br />\n<br />\n\u25cf CENTCOM reported that 52 commercial vessels have been directed to turn around or return to port in order to comply with the ongoing US blockade.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHptr-_bkAAsS9_.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n5th May 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf For the second consecutive day, the UAE Ministry of Defense confirmed its air defenses engaged multiple incoming missiles and drones originating from Iran. This follows yesterday's strikes that injured three workers at the Fujairah oil terminal.<br />\n<br />\n\u25cf QatarEnergy extended its force majeure declaration on LNG supplies through mid-June, according to Bloomberg.<br />\n<br />\n\u25cf Houthi Political Council member Ali Amad said that Yemen's forces stand ready to join fighting if US-Israeli operations against Iran resume. He also warned Saudi Arabia of consequences.<br />\n<br />\n\u25cf Two armed Hezbollah terrorists launched an anti-tank missile toward IDF soldiers in southern Lebanon. In response, the IDF struck the structure.<br />\n<br />\n\u25cf Iranian Foreign Minister Araghchi arrived in Beijing today for emergency talks with Chinese officials. This comes as the U.S. and Bahrain circulate a draft UN resolution that could authorize force to maintain shipping lanes.<br />\n<br />\n\u25cf CENTCOM reported that 51 vessels have been directed to turn around or return to port as of Tuesday under the US blockade of Iranian ports and Iran-linked vessels.<br />\n<br />\n\u25cf Germany is sending a minesweeping vessel from its navy to the Mediterranean, ready for potential participation in a future effort to clear the Strait of Hormuz.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHHkkSt_aEAEjaSf.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2051711023846236202#m\">https://nitter.net/NetramDefence/status/2051711023846236202#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Inspecting Lashkar HQ Muridke with Batwoman after Indian Strike.",
+      "link": "https://nitter.net/elitepredatorss/status/2052071480457073051#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-06T22:32:21+05:30",
+      "time": "06 May, 10:32 PM",
+      "type": "tweets",
+      "content": "<p>Inspecting Lashkar HQ Muridke with Batwoman after Indian Strike.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2052071480457073051#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052071366212636673%2Fimg%2F_KRIq3XtEVhrX88c.jpg\" />\n</a>",
+      "author": "@elitepredatorss"
+    },
     {
       "title": "Menu of the banquet hosted by President Murmu in honour of Vietnam president To Lam",
       "link": "https://nitter.net/sidhant/status/2052065246425317381#m",
@@ -1311,7 +1342,7 @@
       "author": "@WIONews"
     },
     {
-      "title": "RT by @OsintTV: \ud83d\udea8Just In :\n\nVietnam procuring Brahmos from India: MEA's Secretary East P Kumaran\n\nConfirms talk with Vietnam..",
+      "title": "\ud83d\udea8Just In :\n\nVietnam procuring Brahmos from India: MEA's Secretary East P Kumaran\n\nConfirms talk with Vietnam..",
       "link": "https://nitter.net/OsintTV/status/2052012521364562290#m",
       "source": "Osint TV",
       "sort_key": "2026-05-06T18:38:04+05:30",
@@ -1658,16 +1689,6 @@
       "time": "06 May, 02:21 PM",
       "type": "tweets",
       "content": "<p>Hafiz Muhammed Jameel, Eldest brother-in-law of Masood Azhar; in-charge of JeM\u2019s Markaz Subhan Allah in Bahawalpur.<br />\n<br />\nJameel served as a senior figure in JeM and was the person in charge of Markaz Subhanallah in Bahawalpur, which serves as the global headquarters for Jaish-e-Mohammed. he was primarily responsible for the radicalization of youth for jihad and was a key operative involved in fundraising efforts for the organization.</p>\n<img src=\"https://nitter.net/pic/media%2FHHn7ya6bEAAFDcN.png\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "THREAD\ud83e\uddf5\nOPERATION SINDOOR: LIST OF TOP ELIMINATED JIHADI TERRORISTS\n\nMohammad Yusuf Azhar (alias Ustad-Ji), JeM commander and brother-in-law of Masood Azhar.\n\nHe was linked by Indian intelligence to the planning and execution of several Pakistan Army backed terror attacks on India, including:\n\n1\u20e3The IC-814 hijacking in 1999.\n2\u20e3The 2001 Indian Parliament attack.\n3\u20e3The kidnapping and murder of American journalist Daniel Pearl in 2002.\n4\u20e3The 26/11 Mumbai attacks (2008), the 2016 Pathankot airbase attack, and the 2019 Pulwama bombing.",
-      "link": "https://nitter.net/NetramDefence/status/2051947944509882858#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-06T14:21:27+05:30",
-      "time": "06 May, 02:21 PM",
-      "type": "tweets",
-      "content": "<p>THREAD\ud83e\uddf5<br />\nOPERATION SINDOOR: LIST OF TOP ELIMINATED JIHADI TERRORISTS<br />\n<br />\nMohammad Yusuf Azhar (alias Ustad-Ji), JeM commander and brother-in-law of Masood Azhar.<br />\n<br />\nHe was linked by Indian intelligence to the planning and execution of several Pakistan Army backed terror attacks on India, including:<br />\n<br />\n1\u20e3The IC-814 hijacking in 1999.<br />\n2\u20e3The 2001 Indian Parliament attack.<br />\n3\u20e3The kidnapping and murder of American journalist Daniel Pearl in 2002.<br />\n4\u20e3The 26/11 Mumbai attacks (2008), the 2016 Pathankot airbase attack, and the 2019 Pulwama bombing.</p>\n<img src=\"https://nitter.net/pic/media%2FHHn7xgSa4AAfYtK.jpg\" />",
       "author": "@NetramDefence"
     },
     {
@@ -2239,26 +2260,6 @@
       "type": "tweets",
       "content": "<p><a href=\"https://nitter.net/WarFlash_2630/status/2050411065071247726/video/1\">nitter.net/WarFlash_2630/status/2\u2026</a> Piglet Peldis.mp4</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2051553479718572067#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2050411016882954241%2Fpu%2Fimg%2FwcCZosrIgLAqwb2v.jpg\" />\n</a>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Pakistan payments in April : \n- $3.5 billion to the UAE.\n- $1.43 billion to sovereign Eurobond.\n- $4.8 billion in imports\n\nTotal - $9.73 billion.\n\nPakistan's actual forex reserves excluding Gulf states' deposits stand at approximately $14 - $16 billion.\n\nPakistan needs  $4.5 to $6 billion per month to sustain its monthly imports. Current forex reserves roughly give them 3 months of runtime, or else defaults on payment and hookah-paani band!\n\nYes, that's what they call \"Macro Stability\"\n\nThat's the real Op Sindoor Phase-2 we should work upon, they should not get more money in future, it should be our absolute goal.",
-      "link": "https://nitter.net/elitepredatorss/status/2051542410409263548#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-05T11:30:01+05:30",
-      "time": "05 May, 11:30 AM",
-      "type": "tweets",
-      "content": "<p>Pakistan payments in April : <br />\n- $3.5 billion to the UAE.<br />\n- $1.43 billion to sovereign Eurobond.<br />\n- $4.8 billion in imports<br />\n<br />\nTotal - $9.73 billion.<br />\n<br />\nPakistan's actual forex reserves excluding Gulf states' deposits stand at approximately $14 - $16 billion.<br />\n<br />\nPakistan needs  $4.5 to $6 billion per month to sustain its monthly imports. Current forex reserves roughly give them 3 months of runtime, or else defaults on payment and hookah-paani band!<br />\n<br />\nYes, that's what they call \"Macro Stability\"<br />\n<br />\nThat's the real Op Sindoor Phase-2 we should work upon, they should not get more money in future, it should be our absolute goal.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2051542410409263548#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051489605082624000%2Fimg%2FgRh0L5-fTnqr_yL7.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "It seems a press conference will take place on 7th May. Commander Conference happening in Jaipur, as per @sidhant, RM will also be attending the CC.\n\nI am expecting fireworks, a montage of arty shelling, mortar firing and Pakistani posts getting obliterated. I will be disappointed, I know, but we can always fantasise about badass optics by the Indian Army.",
-      "link": "https://nitter.net/elitepredatorss/status/2051532692098023852#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-05T10:51:24+05:30",
-      "time": "05 May, 10:51 AM",
-      "type": "tweets",
-      "content": "<p>It seems a press conference will take place on 7th May. Commander Conference happening in Jaipur, as per <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, RM will also be attending the CC.<br />\n<br />\nI am expecting fireworks, a montage of arty shelling, mortar firing and Pakistani posts getting obliterated. I will be disappointed, I know, but we can always fantasise about badass optics by the Indian Army.</p>\n<hr />\n<blockquote>\n<b>Manish Prasad (@manishindiatv)</b>\n<p>\n<p>This isn\u2019t just a picture it\u2019s a statement.A symbol of the unmatched glory, courage, and operational excellence of the Indian Armed Forces.<br />\nCaptured during the press conference of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a>, it reflects more than a moment it reflects a transformation. A new era of technology, precision, and joint capability across the Indian Navy, Army, and Air Force.Every pixel speaks of readiness. Every frame echoes \u201cNation First.\u201dSalute to all our brave hearts in uniform and beyond who stand united for one mission. \ud83c\uddee\ud83c\uddf3<br />\nComing soon.</p>\n<img src=\"https://nitter.net/pic/media%2FHHfp1XSaEAA0uYd.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/manishindiatv/status/2051365265817170205#m\">https://nitter.net/manishindiatv/status/2051365265817170205#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -2342,18 +2343,9 @@
       "time": "05 May, 04:54 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/6eWinrJJO04/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - New KAL UAV, Adani Defence Drones, India NUKE Submarine, Indian Army THAR ROXX ATV",
-      "link": "https://www.youtube.com/watch?v=KcVZ4J0m4R8",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-04T23:09:36+05:30",
-      "time": "04 May, 11:09 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/KcVZ4J0m4R8/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
