@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "There was an excellent coordination among Army, Navy, Air Force: Air Marshal Patnaik (Retd.) on Operation Sindoor",
+      "link": "https://economictimes.indiatimes.com/news/defence/there-was-an-excellent-coordination-among-army-navy-air-force-air-marshal-patnaik-retd-on-operation-sindoor/articleshow/130854487.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-06T17:02:44+05:30",
+      "time": "06 May, 05:02 PM",
+      "type": "news",
+      "description": "Operation Sindoor, a swift military response to the Pahalgam terror attack, showcased strong coordination among India's Army, Navy, and Air Force. The..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Iran says it wants a 'comprehensive agreement' with U.S.",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T16:49:18+05:30",
+      "time": "06 May, 04:49 PM",
+      "type": "news",
+      "description": "The strait has \u200cbeen virtually shut since the conflict began on February 28 with air attacks on Iran \u200cby \u2060the U.S. and Israel, blocking about 20% of w..."
+    },
+    {
+      "title": "Russia snubs Ukraine's unilateral ceasefire, firing dozens of drones",
+      "link": "https://www.thehindu.com/news/international/russia-snubs-ukraines-unilateral-ceasefire-firing-dozens-of-drones/article70946508.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T16:18:26+05:30",
+      "time": "06 May, 04:18 PM",
+      "type": "news",
+      "description": "Russia disregards Ukraine\u2019s ceasefire, launching drone strikes that kill 27 civilians amid ongoing conflict and failed peace efforts"
+    },
+    {
       "title": "India, Vietnam Elevate Ties To Enhanced Comprehensive Strategic Partnership",
       "link": "https://www.deccanchronicle.com/world/asia/india-vietnam-elevate-ties-to-enhanced-comprehensive-strategic-partnership-1955010",
       "source": "Deccan Chronicle",
@@ -17,15 +44,6 @@
       "time": "06 May, 04:10 PM",
       "type": "news",
       "description": "Head Constable Surinder Singh posted in Shopian\u2019s Zainapora camp loses consciousness during duty; probe underway into cause of death"
-    },
-    {
-      "title": "Iran-Israel war LIVE: Iran says it wants a 'comprehensive agreement' with U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-06T15:43:57+05:30",
-      "time": "06 May, 03:43 PM",
-      "type": "news",
-      "description": "The strait has \u200cbeen virtually shut since the conflict began on February 28 with air attacks on Iran \u200cby \u2060the U.S. and Israel, blocking about 20% of w..."
     },
     {
       "title": "Iran denies role in Fujairah oil hub attack, warns UAE\u2014 \u2018don\u2019t collude with hostile parties\u2019",
@@ -757,7 +775,7 @@
       "description": "Pakistan Navy has provided crucial humanitarian aid to the crew of an Indian offshore tug and supply vessel. The vessel, MV Gautam, was stranded in th..."
     },
     {
-      "title": "Iran US War News Live Updates: Evaluating Washington\u2019s 14-peace proposal, says Iran",
+      "title": "Iran US War News Live Updates: Strait of Hormuz will be open to all including Iran\u2026bombing will start if Tehran does not agree, says Trump",
       "link": "https://indianexpress.com/article/world/us-news/iran-us-war-news-live-updates-us-donald-trump-strait-of-hormuz-blockade-10673275/",
       "source": "The Indian Express",
       "sort_key": "2026-05-05T10:15:01+05:30",
@@ -1025,81 +1043,99 @@
       "time": "04 May, 05:32 PM",
       "type": "news",
       "description": "Iran's military warned of attacks on US forces entering the Strait of Hormuz, following President Trump's announcement of a new US maritime operation ..."
-    },
-    {
-      "title": "Missiles fired at U.S. frigate in Strait of Hormuz, claims Iranian media",
-      "link": "https://www.thehindu.com/news/international/missiles-fired-at-us-frigate-in-strait-of-hormuz-claims-iranian-media/article70938437.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-04T17:09:04+05:30",
-      "time": "04 May, 05:09 PM",
-      "type": "news",
-      "description": "No U.S. \u200bNavy \u2060ships have been \u200cstruck, \u200cU.S. \u200cCentral \u2060Command \u2060said on \u200bMay 4, \u200cafter Iran asserted that it \u200chad \u200bforced a \u2060U.S. \u200cwarship to turn \u200cb..."
-    },
-    {
-      "title": "Israel to procure new squadrons of F-35 and F15IA: Defence Ministry",
-      "link": "https://defencemonitor.in/israel-to-procure-new-squadrons-of-f-35-and-f15ia-defence-ministry/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:53:56+05:30",
-      "time": "04 May, 04:53 PM",
-      "type": "news",
-      "description": "<p>Jerusalem, May 3 (IANS) Israel&#8217;s Ministry of Defence (IMOD) plan to simultaneously acquire two new fighter squadrons: a fourth F-35 squadron ..."
-    },
-    {
-      "title": "Ukrainian forces attack radiation monitoring lab of nuclear power plant",
-      "link": "https://defencemonitor.in/ukrainian-forces-attack-radiation-monitoring-lab-of-nuclear-power-plant/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:53:14+05:30",
-      "time": "04 May, 04:53 PM",
-      "type": "news",
-      "description": "<p>Moscow, May 3 (IANS) The Zaporizhzhia Nuclear Power Plant&#8217;s external radiation monitoring laboratory was attacked by Ukrainian forces with a ..."
-    },
-    {
-      "title": "We have no nuclear negotiations, focused on ending the war: Iran",
-      "link": "https://defencemonitor.in/we-have-no-nuclear-negotiations-focused-on-ending-the-war-iran/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:52:26+05:30",
-      "time": "04 May, 04:52 PM",
-      "type": "news",
-      "description": "<p>Tehran, May 3 (IANS) Esmaeil Baqaei, the Foreign Ministry spokesperson, denied media claims about Iran&#8217;s plan of suspension of Uranium enrich..."
-    },
-    {
-      "title": "Iran warns US army against entering Strait of Hormuz",
-      "link": "https://defencemonitor.in/iran-warns-us-army-against-entering-strait-of-hormuz/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:50:30+05:30",
-      "time": "04 May, 04:50 PM",
-      "type": "news",
-      "description": "<p>Tehran, May 4 (IANS) Iran on Monday warned the US army against entering the Strait of Hormuz and said that they will be attacked if they intend to ..."
-    },
-    {
-      "title": "Indian submarine INS Sindhukesari arrives in Colombo for operational turnaround",
-      "link": "https://defencemonitor.in/indian-submarine-ins-sindhukesari-arrives-in-colombo-for-operational-turnaround/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-04T16:48:22+05:30",
-      "time": "04 May, 04:48 PM",
-      "type": "news",
-      "description": "<p>Colombo, May 4 (IANS) Indian Navy submarine INS Sindhukesari arrived in Sri Lanka&#8217;s Colombo for an operational turnaround, reinforcing the gr..."
-    },
-    {
-      "title": "Trump\u2019s \u2018Project Freedom\u2019 kicks off: US Navy to guide hundreds of stranded ships out of mine-filled Strait of Hormuz",
-      "link": "https://indianexpress.com/article/world/us-news/us-led-task-force-begins-hormuz-mission-10672139/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-04T16:45:33+05:30",
-      "time": "04 May, 04:45 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Pakistan Foreign Minister discusses regional situation with Iranian counterpart",
-      "link": "https://www.thehindu.com/news/international/pakistan-foreign-minister-discusses-regional-situation-with-iranian-counterpart/article70938200.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-04T16:27:10+05:30",
-      "time": "04 May, 04:27 PM",
-      "type": "news",
-      "description": "Mr. Dar, who is also the Deputy Prime Minister, reaffirmed Pakistan\u2019s commitment to promoting constructive engagement, underscoring that dialogue and ..."
     }
   ],
   "tweets": [
+    {
+      "title": "India, Vietnam to establish 2+2 foreign, defence ministers mechanism: Secretary East, P Kumaran, MEA",
+      "link": "https://nitter.net/sidhant/status/2051993380406820920#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:22:00+05:30",
+      "time": "06 May, 05:22 PM",
+      "type": "tweets",
+      "content": "<p>India, Vietnam to establish 2+2 foreign, defence ministers mechanism: Secretary East, P Kumaran, MEA</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India, Vietnam joint statement released\n\nhttps://www.mea.gov.in/bilateral-documents.htm?dtl/41108",
+      "link": "https://nitter.net/sidhant/status/2051993111291904306#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:20:56+05:30",
+      "time": "06 May, 05:20 PM",
+      "type": "tweets",
+      "content": "<p>India, Vietnam joint statement released<br />\n<br />\n<a href=\"https://www.mea.gov.in/bilateral-documents.htm?dtl/41108\">mea.gov.in/bilateral-documen\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051670959745290240%2FCw-3NtB4%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "P Kumaran, Secy East, MEA\n\nIndia, Vietnam marking 10 years of comprehensive strategic partnership. It has been upgraded to enhanced. \n\nA new trade target of $25 bn by 2030. Indian farmers will get access for grapes.\n\nRare earths, digital payments key areas of annoucements.",
+      "link": "https://nitter.net/sidhant/status/2051992687797223879#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:19:15+05:30",
+      "time": "06 May, 05:19 PM",
+      "type": "tweets",
+      "content": "<p>P Kumaran, Secy East, MEA<br />\n<br />\nIndia, Vietnam marking 10 years of comprehensive strategic partnership. It has been upgraded to enhanced. <br />\n<br />\nA new trade target of $25 bn by 2030. Indian farmers will get access for grapes.<br />\n<br />\nRare earths, digital payments key areas of annoucements.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>MEA press conference begins on Vietnam President</p>\n<img src=\"https://nitter.net/pic/media%2FHHojaxxbYAAJSCk.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051991535898742890#m\">https://nitter.net/sidhant/status/2051991535898742890#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "MEA press conference begins on Vietnam President",
+      "link": "https://nitter.net/sidhant/status/2051991535898742890#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T17:14:40+05:30",
+      "time": "06 May, 05:14 PM",
+      "type": "tweets",
+      "content": "<p>MEA press conference begins on Vietnam President</p>\n<img src=\"https://nitter.net/pic/media%2FHHojaxxbYAAJSCk.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We are 'stepping up' ties with Vietnam, says Vietnam President To Lam",
+      "link": "https://nitter.net/sidhant/status/2051985024736751813#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T16:48:48+05:30",
+      "time": "06 May, 04:48 PM",
+      "type": "tweets",
+      "content": "<p>We are 'stepping up' ties with Vietnam, says Vietnam President To Lam</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Vietnam President To Lam addresses ICWA in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHHoc2WxasAAjbwJ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051984306692870235#m\">https://nitter.net/sidhant/status/2051984306692870235#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Vietnam President To Lam addresses ICWA in Delhi",
+      "link": "https://nitter.net/sidhant/status/2051984306692870235#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T16:45:57+05:30",
+      "time": "06 May, 04:45 PM",
+      "type": "tweets",
+      "content": "<p>Vietnam President To Lam addresses ICWA in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHHoc2WxasAAjbwJ.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Shortly, Indian foreign ministry press conference on Vietnam President's India visit",
+      "link": "https://nitter.net/sidhant/status/2051983918287757515#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T16:44:24+05:30",
+      "time": "06 May, 04:44 PM",
+      "type": "tweets",
+      "content": "<p>Shortly, Indian foreign ministry press conference on Vietnam President's India visit</p>\n<img src=\"https://nitter.net/pic/media%2FHHocfdvaMAA7Unh.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: India, Vietnam deepen comprehensive strategic partnership \n\nCeremonial welcome to President T\u00f4 L\u00e2m in India \n\nPM Narenda Modi, T\u00f4 L\u00e2m hold bilateral talks \n\n@samikshaa3 gets you this report by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2051980720130945060#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T16:31:42+05:30",
+      "time": "06 May, 04:31 PM",
+      "type": "tweets",
+      "content": "<p>India, Vietnam deepen comprehensive strategic partnership <br />\n<br />\nCeremonial welcome to President T\u00f4 L\u00e2m in India <br />\n<br />\nPM Narenda Modi, T\u00f4 L\u00e2m hold bilateral talks <br />\n<br />\n<a href=\"https://nitter.net/samikshaa3\" title=\"Samiksha Srivastava\">@samikshaa3</a> gets you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2051980720130945060#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051976822427164672%2Fimg%2FvLLP9vG58qQMMXMk.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Rajasthan Police chased a Narco criminal in filmy style in Sriganganagar.",
+      "link": "https://nitter.net/Goreunit/status/2051979988363280487#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-06T16:28:47+05:30",
+      "time": "06 May, 04:28 PM",
+      "type": "tweets",
+      "content": "<p>Rajasthan Police chased a Narco criminal in filmy style in Sriganganagar.</p>\n<a href=\"https://nitter.net/Goreunit/status/2051979988363280487#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051979962643787776%2Fpu%2Fimg%2FdISrRkCmhvzLl9BZ.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
     {
       "title": "Just in: Indian Defence Minister Rajnath Singh meets Vietnam\u2019s Deputy PM and Defence Minister in New Delhi.",
       "link": "https://nitter.net/sidhant/status/2051975261231702032#m",
@@ -1291,44 +1327,14 @@
       "author": "@sidhant"
     },
     {
-      "title": "India, Vietnam upgrade ties to Enhanced Comprehensive Strategic Partnership",
-      "link": "https://nitter.net/sidhant/status/2051942575100276936#m",
+      "title": "RT by @sidhant: Indian PM Narendra Modi held bilateral talks with Vietnamese President To Lam  \n\nLam's visit to India marks 10 years of strategic ties \n\n@samikshaa3 and @sidhant have more",
+      "link": "https://nitter.net/WIONews/status/2051941321095667955#m",
       "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T14:00:07+05:30",
-      "time": "06 May, 02:00 PM",
-      "type": "tweets",
-      "content": "<p>India, Vietnam upgrade ties to Enhanced Comprehensive Strategic Partnership</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Vietnam is giving priority to India, with an early visit of President To Lam, says PM Modi",
-      "link": "https://nitter.net/sidhant/status/2051942261785788604#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T13:58:53+05:30",
-      "time": "06 May, 01:58 PM",
-      "type": "tweets",
-      "content": "<p>Vietnam is giving priority to India, with an early visit of President To Lam, says PM Modi</p>\n<a href=\"https://nitter.net/sidhant/status/2051942261785788604#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2051942021561282560%2Fpu%2Fimg%2FZZAWpqL4NcUdoq2k.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India, Vietnam sign MoU on QR code interopertability",
-      "link": "https://nitter.net/sidhant/status/2051941413500444850#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T13:55:30+05:30",
+      "sort_key": "2026-05-06T13:55:08+05:30",
       "time": "06 May, 01:55 PM",
       "type": "tweets",
-      "content": "<p>India, Vietnam sign MoU on QR code interopertability</p>\n<img src=\"https://nitter.net/pic/media%2FHHn11OtbYAANK8g.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi, Vietnam President To Lam arrive for address:</p>\n<img src=\"https://nitter.net/pic/media%2FHHn0BoOa4AAVtGe.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051939426411102701#m\">https://nitter.net/sidhant/status/2051939426411102701#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian, Vietnam central banks sign MoU on payment mechanism.",
-      "link": "https://nitter.net/sidhant/status/2051940759646183713#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T13:52:54+05:30",
-      "time": "06 May, 01:52 PM",
-      "type": "tweets",
-      "content": "<p>Indian, Vietnam central banks sign MoU on payment mechanism.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi, Vietnam President To Lam arrive for address:</p>\n<img src=\"https://nitter.net/pic/media%2FHHn0BoOa4AAVtGe.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051939426411102701#m\">https://nitter.net/sidhant/status/2051939426411102701#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
+      "content": "<p>Indian PM Narendra Modi held bilateral talks with Vietnamese President To Lam  <br />\n<br />\nLam's visit to India marks 10 years of strategic ties <br />\n<br />\n<a href=\"https://nitter.net/samikshaa3\" title=\"Samiksha Srivastava\">@samikshaa3</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2051941321095667955#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051939329401098240%2Fimg%2F_JzV6xA4s4qMz9NQ.jpg\" />\n</a>",
+      "author": "@WIONews"
     },
     {
       "title": "What a befitting reply to Pakistan by DGP Punjab  Gaurav Yadav after twin blasts.",
@@ -1351,36 +1357,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "India, Vietnam annouce MoU on rare earths.",
-      "link": "https://nitter.net/sidhant/status/2051939691155591469#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T13:48:40+05:30",
-      "time": "06 May, 01:48 PM",
-      "type": "tweets",
-      "content": "<p>India, Vietnam annouce MoU on rare earths.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi, Vietnam President To Lam arrive for address:</p>\n<img src=\"https://nitter.net/pic/media%2FHHn0BoOa4AAVtGe.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051939426411102701#m\">https://nitter.net/sidhant/status/2051939426411102701#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi, Vietnam President To Lam arrive for address:",
-      "link": "https://nitter.net/sidhant/status/2051939426411102701#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T13:47:37+05:30",
-      "time": "06 May, 01:47 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi, Vietnam President To Lam arrive for address:</p>\n<img src=\"https://nitter.net/pic/media%2FHHn0BoOa4AAVtGe.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Foreign secretary Misri, NSA Ajit Doval, other ministers, officials ahead of arrival of Vietnam President To Lam, PM Modi",
-      "link": "https://nitter.net/sidhant/status/2051938364098765288#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T13:43:23+05:30",
-      "time": "06 May, 01:43 PM",
-      "type": "tweets",
-      "content": "<p>Foreign secretary Misri, NSA Ajit Doval, other ministers, officials ahead of arrival of Vietnam President To Lam, PM Modi</p>\n<img src=\"https://nitter.net/pic/media%2FHHnzEGBaYAA5_ZB.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "CCTV footage of blast outside Khasa army camp Amritsar last night.",
       "link": "https://nitter.net/Goreunit/status/2051934620812542085#m",
       "source": "War & Gore",
@@ -1389,26 +1365,6 @@
       "type": "tweets",
       "content": "<p>CCTV footage of blast outside Khasa army camp Amritsar last night.</p>\n<a href=\"https://nitter.net/Goreunit/status/2051934620812542085#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051934423738888192%2Fimg%2FPsujvPiinM2XT92F.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "R to @sidhant: US ambassador confirms Rubio's India visit. 2nd time he announced that Rubio will be coming to India:\n\nhttps://x.com/i/status/2051926070023082384",
-      "link": "https://nitter.net/sidhant/status/2051928041379827803#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T13:02:22+05:30",
-      "time": "06 May, 01:02 PM",
-      "type": "tweets",
-      "content": "<p>US ambassador confirms Rubio's India visit. 2nd time he announced that Rubio will be coming to India:<br />\n<br />\n<a href=\"https://nitter.net/i/status/2051926070023082384\">nitter.net/i/status/2051926070023\u2026</a></p>\n<hr />\n<blockquote>\n<b>Ambassador Sergio Gor (@USAmbIndia)</b>\n<p>\n<p>Looking forward to welcoming my good friend Secretary Rubio to India! The United States deeply values our growing partnership with India, and we are excited to build even stronger ties that will benefit both our nations and the world. See you soon, Mr. Secretary!</p>\n<img src=\"https://nitter.net/pic/media%2FHHnntv8X0AI-YaX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/USAmbIndia/status/2051926070023082384#m\">https://nitter.net/USAmbIndia/status/2051926070023082384#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Marco Rubio is expected to be on Asia visit this month- India & Singapore. India for Quad, Singapore for Shangri La dialogue.",
-      "link": "https://nitter.net/sidhant/status/2051927590328517066#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T13:00:35+05:30",
-      "time": "06 May, 01:00 PM",
-      "type": "tweets",
-      "content": "<p>Marco Rubio is expected to be on Asia visit this month- India &amp; Singapore. India for Quad, Singapore for Shangri La dialogue.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>US attack on Iran, code named \"Operation Epic Fury\" has concluded says US Secretary of state Marco Rubio. <br />\n<br />\nPS: The \"operation\" saw US losing many military assests, details on which have not been released.</p>\n<a href=\"https://nitter.net/sidhant/status/2051925319771447683#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051754970119069705%2Fimg%2FEmdoRsL9QxylXPM1.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2051925319771447683#m\">https://nitter.net/sidhant/status/2051925319771447683#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "Imagine the kind of mess they have created that now they have to bring the UN to sort things out.\n\nThat's extreme desperation right there, but did the US follow the UN charter before attacking Iran?\n\nOne worthy enemy and the facade of the superpower  straight to the gutters.",
@@ -2101,16 +2057,6 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "Reportedly A BJP karyakarta, Jadav Bar, brutally mob-lynched to Death in Udaynarayanpur, Howrah by TMC workers.",
-      "link": "https://nitter.net/Goreunit/status/2051597775322968380#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-05T15:10:01+05:30",
-      "time": "05 May, 03:10 PM",
-      "type": "tweets",
-      "content": "<p>Reportedly A BJP karyakarta, Jadav Bar, brutally mob-lynched to Death in Udaynarayanpur, Howrah by TMC workers.</p>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "This might get repeated in the next couple of days. The bot army of ISPR has started coming up with waves of fake and manipulated pictures, while some are already in circulation and getting brutally fact-checked.\n\nSOP : Check Account Location -> Account Based in \"South Asia\" -> Mute/Block/Report just don't engage.\n\nAnyone trying to reply, take a screenshot and reply. Don't give them the reach they are looking for before the Op Sindoor anniversary.",
       "link": "https://nitter.net/elitepredatorss/status/2051589215326982619#m",
       "source": "Elite Predators",
@@ -2345,6 +2291,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
