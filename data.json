@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "US President says Project Freedom to guide stranded vessels through Strait of Hormuz will be paused for short period of time",
+      "link": "https://www.newsonair.gov.in/us-president-says-project-freedom-to-guide-stranded-vessels-through-strait-of-hormuz-will-be-paused-for-short-period-of-time/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-06T07:18:47+05:30",
+      "time": "06 May, 07:18 AM",
+      "type": "news",
+      "description": "US President Donald Trump has announced that &#8216;Project Freedom&#8217;, a mission to guide stranded vessels through Strait of Hormuz, will be paus..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Trump says pausing Hormuz operation in push for Iran deal",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-06T07:01:53+05:30",
+      "time": "06 May, 07:01 AM",
+      "type": "news",
+      "description": "U.S. Secretary of State Marco Rubio said earlier that the United States has completed its offensive operations against Iran, which it dubbed \u201cOperatio..."
+    },
+    {
+      "title": "Trump says US to pause guiding ships in Strait of Hormuz while seeking deal with Iran",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-project-freedom-to-be-paused-for-short-period-of-time-while-naval-blockade-on-iran-continues/articleshow/130841796.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-06T06:29:23+05:30",
+      "time": "06 May, 06:29 AM",
+      "type": "news",
+      "description": "US President Donald Trump announced a temporary pause for \"Project Freedom,\" an initiative to aid commercial vessels in the Strait of Hormuz. This dec..."
+    },
+    {
       "title": "Trump says pausing Hormuz operation in push for Iran deal",
       "link": "https://www.thehindu.com/news/international/trump-says-pausing-hormuz-operation-in-push-for-iran-deal/article70945436.ece",
       "source": "The Hindu",
@@ -370,15 +397,6 @@
       "description": "The Navy was assisted by the Pakistan Maritime Security Agency in the rescue and support operation, the Dawn newspaper reported on May 4, 2026, quotin..."
     },
     {
-      "title": "US and Iran launch fresh attacks in Gulf as two sides wrestle control over Strait of Hormuz",
-      "link": "https://www.newsonair.gov.in/us-and-iran-launch-fresh-attacks-in-gulf-as-two-sides-wrestle-control-over-strait-of-hormuz/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-05T14:15:36+05:30",
-      "time": "05 May, 02:15 PM",
-      "type": "news",
-      "description": "The United States and Iran have exchanged fresh attacks in the Gulf, escalating tensions over control of the Strait of Hormuz and undermining an alrea..."
-    },
-    {
       "title": "What is Donald Trump\u2019s \u2018Project Freedom\u2019?",
       "link": "https://indianexpress.com/article/world/donald-trump-project-freedom-strait-of-hormuz-10673307/",
       "source": "The Indian Express",
@@ -505,7 +523,7 @@
       "description": "Pakistan Navy has provided crucial humanitarian aid to the crew of an Indian offshore tug and supply vessel. The vessel, MV Gautam, was stranded in th..."
     },
     {
-      "title": "Iran US War News Live Updates: Paused US effort to guide stranded vessels out of Strait of Hormuz, says Trump",
+      "title": "Iran US War News Live Updates: Trump pauses effort to escort ships in Hormuz, due to \u2018great progress\u2019 in deal with Iran",
       "link": "https://indianexpress.com/article/world/us-news/iran-us-war-news-live-updates-us-donald-trump-strait-of-hormuz-blockade-10673275/",
       "source": "The Indian Express",
       "sort_key": "2026-05-05T10:15:01+05:30",
@@ -917,18 +935,19 @@
       "time": "04 May, 07:34 AM",
       "type": "news",
       "description": "The report came as the U.S. and Iran remain deadlocked in peace negotiations since a ceasefire in the West Asian war came into effect on April 8"
-    },
-    {
-      "title": "Israel-Iran war updates: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-04T06:24:49+05:30",
-      "time": "04 May, 06:24 AM",
-      "type": "news",
-      "description": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz..."
     }
   ],
   "tweets": [
+    {
+      "title": "The US closes its consulate in Peshawar, Pakistan as part of 'commitment to the safety of our diplomatic personnel and efficient resource management'.",
+      "link": "https://nitter.net/sidhant/status/2051837188434973047#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-06T07:01:21+05:30",
+      "time": "06 May, 07:01 AM",
+      "type": "tweets",
+      "content": "<p>The US closes its consulate in Peshawar, Pakistan as part of 'commitment to the safety of our diplomatic personnel and efficient resource management'.</p>\n<img src=\"https://nitter.net/pic/media%2FHHmXDJ-agAA-Gfw.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Blockade on Iran will remain in force says Trump",
       "link": "https://nitter.net/sidhant/status/2051824390942408989#m",
@@ -1457,16 +1476,6 @@
       "time": "05 May, 07:14 PM",
       "type": "tweets",
       "content": "<p>Indian Ocean Ship (IOS) Sagar docks at Yangon Harbour as part of India\u2019s ongoing maritime engagement in the region. The visit coincides with the visit of Indian Navy Chief Adm Dinesh K Tripathi.</p>\n<img src=\"https://nitter.net/pic/media%2FHHj1JhlbYAA52Q6.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\"Prejudiced and partisan opinion\", Indian Envoy to US Kwatra dismisses New York Times write up on India. \n\nPS: Western Media is known to promote & take anti India stance.",
-      "link": "https://nitter.net/sidhant/status/2051658647013556356#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-05T19:11:54+05:30",
-      "time": "05 May, 07:11 PM",
-      "type": "tweets",
-      "content": "<p>\"Prejudiced and partisan opinion\", Indian Envoy to US Kwatra dismisses New York Times write up on India. <br />\n<br />\nPS: Western Media is known to promote &amp; take anti India stance.</p>\n<hr />\n<blockquote>\n<b>Amb Vinay Mohan Kwatra (@AmbVMKwatra)</b>\n<p>\n<p>Describing well intentioned efforts aimed at protecting against viral<br />\nmisinformation & possible harm to the Indian society under India\u2019s IT Rules as \u201ccensorship\u201d makes for a catchy headline, but a lazy argument in the op-ed piece by Arman Khan in <a href=\"https://nitter.net/nytimes\" title=\"The New York Times\">@nytimes</a> . <br />\n<br />\nIndia takes pride in its credentials as the world\u2019s largest democracy, with a written constitution, an independent judiciary, a vibrant English and vernacular press, and a long history of rights-based litigation.<br />\nFraming what is essentially about platform accountability  as \u201cfree speech vs censorship\u201d deliberately and disingenuously conflates different issues. <br />\nAlways welcome an exchange of views on finding the right balance between free speech and accountability to further strengthen India\u2019s cherished democracy. Unfortunately,  prejudiced and partisan opinion is not a constructive starting point. <br />\n<a href=\"https://www.nytimes.com/2026/05/01/opinion/india-modi-internet-censorship.html\">nytimes.com/2026/05/01/opini\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2050088395272040448%2FNOipz6cP%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AmbVMKwatra/status/2051641339608027363#m\">https://nitter.net/AmbVMKwatra/status/2051641339608027363#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -2078,16 +2087,6 @@
       "type": "tweets",
       "content": "<p>We can expect movement around the Indo-Bangladesh border if the BJP wins the West Bengal elections.<br />\n<br />\nWe can also expect violence to assert area domination by the communities that will feel threatened by the change in the political situation.</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "A Ukrainian drone has hit a skyscraper just 6 km away from the Kremlin.",
-      "link": "https://nitter.net/elitepredatorss/status/2051182745687400761#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-04T11:40:50+05:30",
-      "time": "04 May, 11:40 AM",
-      "type": "tweets",
-      "content": "<p>A Ukrainian drone has hit a skyscraper just 6 km away from the Kremlin.</p>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -2165,6 +2164,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
