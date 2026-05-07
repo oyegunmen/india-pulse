@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "\u2018Pakistan Requested India to Stop\u2019: Ex-DGMO Lt Gen Rajiv Ghai Calls Operation Sindoor the 'Gold-Standard' of Strategic Warfare",
+      "link": "https://www.republicworld.com/defence/pakistan-requested-india-to-stop-ex-dgmo-lt-gen-rajiv-ghai-calls-operation-sindoor-the-gold-standard-of-strategic-warfare",
+      "source": "Republic World",
+      "sort_key": "2026-05-07T16:17:02+05:30",
+      "time": "07 May, 04:17 PM",
+      "type": "news",
+      "description": "Lt Gen Rajiv Ghai marks the 1st anniversary of Operation Sindoor, revealing how India\u2019s precision strikes forced Pakistan to request a cessation of ho..."
+    },
+    {
+      "title": "Hantavirus outbreak forces cruise passengers to leave ship at St Helena",
+      "link": "https://www.newsonair.gov.in/hantavirus-outbreak-forces-cruise-passengers-to-leave-ship-at-st-helena/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-07T16:16:51+05:30",
+      "time": "07 May, 04:16 PM",
+      "type": "news",
+      "description": "About 40 passengers from a cruise ship affected by a deadly hantavirus outbreak have disembarked at the island of St Helena in the South Atlantic. In ..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Iran reviewing U.S. proposal as Trump pressures Tehran for agreement on deal to end war",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-07T16:12:05+05:30",
+      "time": "07 May, 04:12 PM",
+      "type": "news",
+      "description": "Tehran\u2019s embassy in Seoul said it \u201cfirmly rejects and categorically denies\u201d allegations that its armed forces were behind a blast aboard the Panama-fl..."
+    },
+    {
+      "title": "Op Sindoor legacy: India moves from borrowing muscle to becoming a source for global players",
+      "link": "https://economictimes.indiatimes.com/news/defence/operation-sindoor-anniversary-india-defence-exports-muscle-record-high-budget-rise-brahmos-growth-world-supplier/articleshow/130885350.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-07T15:49:27+05:30",
+      "time": "07 May, 03:49 PM",
+      "type": "news",
+      "description": "India's defense sector is experiencing a historic upswing, with exports surpassing 38,000 crore rupees. This surge is directly linked to the triumph o..."
+    },
+    {
       "title": "AP Bags AMCA Flight Testing, Integration Complex at Sri Sathya Sai district",
       "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-bags-amca-flight-testing-integration-complex-at-sri-sathya-sai-district-1955203",
       "source": "Deccan Chronicle",
@@ -8,15 +44,6 @@
       "time": "07 May, 03:21 PM",
       "type": "news",
       "description": "The project has received in-principle approval from the Ministry of Defence following consultations between the government of Andhra Pradesh and the C..."
-    },
-    {
-      "title": "Iran-Israel war LIVE: Iran reviewing U.S. proposal as Trump pressures Tehran for agreement on deal to end war",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-07T15:01:28+05:30",
-      "time": "07 May, 03:01 PM",
-      "type": "news",
-      "description": "Tehran\u2019s embassy in Seoul said it \u201cfirmly rejects and categorically denies\u201d allegations that its armed forces were behind a blast aboard the Panama-fl..."
     },
     {
       "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
@@ -467,15 +494,6 @@
       "time": "06 May, 09:04 PM",
       "type": "news",
       "description": "In an interview, Mr. Baqaei said Tehran is currently reviewing America\u2019s response to its peace proposal"
-    },
-    {
-      "title": "West Asia Situation: US and Iran reported to be close to an agreement to end conflict",
-      "link": "https://www.newsonair.gov.in/west-asia-situation-us-and-iran-reported-to-be-close-to-an-agreement-to-end-conflict/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-06T21:00:47+05:30",
-      "time": "06 May, 09:00 PM",
-      "type": "news",
-      "description": "Mediators say the United States and Iran are close to a preliminary agreement that could bring an end to the conflict in the Gulf. Sources familiar wi..."
     },
     {
       "title": "Operation Sindoor: India marks first anniversary of its most expansive multi-domain combat mission in half a century",
@@ -1043,27 +1061,319 @@
       "time": "05 May, 04:56 PM",
       "type": "news",
       "description": "A Military Spokesperson in Sudan said the government has evidence that four drone strikes that have happened since March 1 came from Ethiopia's Bahir ..."
-    },
-    {
-      "title": "Ukraine strikes Russia\u2019s Primorsk oil hub and \u2018shadow fleet\u2019 in massive drone swarm",
-      "link": "https://indianexpress.com/article/world/ukraine-strikes-russias-primorsk-oil-hub-and-shadow-fleet-in-massive-drone-swarm-10673255/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-05T15:59:28+05:30",
-      "time": "05 May, 03:59 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Russian drones, missiles kill five at Ukraine's Naftogaz gas production plants, CEO says",
-      "link": "https://www.thehindu.com/news/international/russian-drones-missiles-kill-five-at-ukraines-naftogaz-gas-production-plants-ceo-says/article70941671.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T15:40:11+05:30",
-      "time": "05 May, 03:40 PM",
-      "type": "news",
-      "description": "The \u200battacks left 37 \u2060people wounded"
     }
   ],
   "tweets": [
+    {
+      "title": "Will fullfill Nepal's fertilizer needs, says MEA Spox Randhir Jaiswal",
+      "link": "https://nitter.net/sidhant/status/2052340615468429386#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:21:48+05:30",
+      "time": "07 May, 04:21 PM",
+      "type": "tweets",
+      "content": "<p>Will fullfill Nepal's fertilizer needs, says MEA Spox Randhir Jaiswal</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The Higher Element of Surprise is very important, I cannot share with you : Vice Admiral AN Pramod\n\n\u200b\"When, how, and where of a military operation is a higher element of surprise is important in any kind of an [military] operation. So, I cannot today decide that, and because an adversary will be prepared for it. So, that is a very, very important factor. So, I cannot share with you and say that this is my plan. A plan is decided much in advance and...\"",
+      "link": "https://nitter.net/OsintTV/status/2052340602998534655#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T16:21:45+05:30",
+      "time": "07 May, 04:21 PM",
+      "type": "tweets",
+      "content": "<p>The Higher Element of Surprise is very important, I cannot share with you : Vice Admiral AN Pramod<br />\n<br />\n\u200b\"When, how, and where of a military operation is a higher element of surprise is important in any kind of an [military] operation. So, I cannot today decide that, and because an adversary will be prepared for it. So, that is a very, very important factor. So, I cannot share with you and say that this is my plan. A plan is decided much in advance and...\"</p>\n<a href=\"https://nitter.net/OsintTV/status/2052340602998534655#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052339761969270786%2Fimg%2FBUo36YJX2wSX3n5E.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "R to @sidhant: \"Bangladesh and India share 54 rivers. We have structured bilateral mechanisms to discuss all water related issues which continue to meet at regular intervals\"",
+      "link": "https://nitter.net/sidhant/status/2052340461210403107#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:21:11+05:30",
+      "time": "07 May, 04:21 PM",
+      "type": "tweets",
+      "content": "<p>\"Bangladesh and India share 54 rivers. We have structured bilateral mechanisms to discuss all water related issues which continue to meet at regular intervals\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: India's Khalistani concern\n\n\"India has consistently spoken out about concerns regarding the use of Canadian territory as a safe haven by extremist and separatist elements. The CSIS assessment acknowledges the presence of supporters of the Khalistan separatist movement in Canada and notes that Canada-based Khalistani extremist (CBKE) groups continue to pose a national security threat not only to India but also to Canada. It further highlights that such elements misuse democratic freedoms and institutions to promote extremism and raise funds that are diverted towards violent activities.\n\nIndia has repeatedly urged the Canadian Government to take effective action against anti-India extremist elements operating from its soil. This includes addressing the issue of glorification of violence, threats against Indian leaders and diplomats, vandalism of places of worship, and attempts to promote secessionism through so-called \u201creferendums.\u201d\"",
+      "link": "https://nitter.net/sidhant/status/2052340300035883236#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:20:32+05:30",
+      "time": "07 May, 04:20 PM",
+      "type": "tweets",
+      "content": "<p>India's Khalistani concern<br />\n<br />\n\"India has consistently spoken out about concerns regarding the use of Canadian territory as a safe haven by extremist and separatist elements. The CSIS assessment acknowledges the presence of supporters of the Khalistan separatist movement in Canada and notes that Canada-based Khalistani extremist (CBKE) groups continue to pose a national security threat not only to India but also to Canada. It further highlights that such elements misuse democratic freedoms and institutions to promote extremism and raise funds that are diverted towards violent activities.<br />\n<br />\nIndia has repeatedly urged the Canadian Government to take effective action against anti-India extremist elements operating from its soil. This includes addressing the issue of glorification of violence, threats against Indian leaders and diplomats, vandalism of places of worship, and attempts to promote secessionism through so-called \u201creferendums.\u201d\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Akhilesh Yadav reaches residence Mamata Banerjee to meet her, says \"You haven't lost\"\n\nMamata Banerjee replies \"Yes We have not lost... I haven't Lost\"",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052340264665288766#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T16:20:24+05:30",
+      "time": "07 May, 04:20 PM",
+      "type": "tweets",
+      "content": "<p>Akhilesh Yadav reaches residence Mamata Banerjee to meet her, says \"You haven't lost\"<br />\n<br />\nMamata Banerjee replies \"Yes We have not lost... I haven't Lost\"</p>\n<a href=\"https://nitter.net/WarMonitorINTL/status/2052340264665288766#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052338892687462400%2Fpu%2Fimg%2FixkQfwCb7UUMeuZB.jpg\" />\n</a>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "R to @sidhant: \"India\u2019s position on this issue has been clear and consistent. We categorically reject such baseless imputations.  India is a democracy that adheres to international norms and respects the sovereignty of other nations. It is not our policy to interfere in issues of other countries. We believe that any concerns of this nature should be addressed through established mechanisms, rather than through public or politicised narratives\"",
+      "link": "https://nitter.net/sidhant/status/2052340068002771447#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:19:37+05:30",
+      "time": "07 May, 04:19 PM",
+      "type": "tweets",
+      "content": "<p>\"India\u2019s position on this issue has been clear and consistent. We categorically reject such baseless imputations.  India is a democracy that adheres to international norms and respects the sovereignty of other nations. It is not our policy to interfere in issues of other countries. We believe that any concerns of this nature should be addressed through established mechanisms, rather than through public or politicised narratives\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: \"We are marking the first anniversary of Op Sindoor today. The entire world saw the Pahalgam terrorist attack for what it was. We gave a befitting reply to Pakistan for its sponsorship of cross-border terrorism. The world knows that cross-border terrorism has long been an instrument of state policy for Pakistan. We in India have every right to defend ourselves against terrorism. We will continue to work to strengthen the global fight against terrorism.\"",
+      "link": "https://nitter.net/sidhant/status/2052339907532898321#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:18:59+05:30",
+      "time": "07 May, 04:18 PM",
+      "type": "tweets",
+      "content": "<p>\"We are marking the first anniversary of Op Sindoor today. The entire world saw the Pahalgam terrorist attack for what it was. We gave a befitting reply to Pakistan for its sponsorship of cross-border terrorism. The world knows that cross-border terrorism has long been an instrument of state policy for Pakistan. We in India have every right to defend ourselves against terrorism. We will continue to work to strengthen the global fight against terrorism.\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: \"India\u2019s position on the Indus Waters Treaty is consistent. IWT stands in abeyance in response to Pakistan\u2019s continued sponsorship of cross-border terrorism.  Pakistan must credibly and irrevocably abjure its support for cross-border terrorism.\"",
+      "link": "https://nitter.net/sidhant/status/2052339839744582084#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:18:43+05:30",
+      "time": "07 May, 04:18 PM",
+      "type": "tweets",
+      "content": "<p>\"India\u2019s position on the Indus Waters Treaty is consistent. IWT stands in abeyance in response to Pakistan\u2019s continued sponsorship of cross-border terrorism.  Pakistan must credibly and irrevocably abjure its support for cross-border terrorism.\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Full remarks: \n\nThese comments must be seen in the context of the core issue of repatriation of illegal Bangladeshis from India. This requires cooperation from Bangladesh. Over 2862 cases of nationality verification are pending with Bangladesh, some for over five years. Our policy is that all illegal foreign nationals staying in India must be repatriated as per our laws, procedure and established bilateral arrangements. We expect Bangladesh to expedite nationality verification so that repatriation of illegal immigrants can   take place in a smooth manner.",
+      "link": "https://nitter.net/sidhant/status/2052339737948532824#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:18:18+05:30",
+      "time": "07 May, 04:18 PM",
+      "type": "tweets",
+      "content": "<p>Full remarks: <br />\n<br />\nThese comments must be seen in the context of the core issue of repatriation of illegal Bangladeshis from India. This requires cooperation from Bangladesh. Over 2862 cases of nationality verification are pending with Bangladesh, some for over five years. Our policy is that all illegal foreign nationals staying in India must be repatriated as per our laws, procedure and established bilateral arrangements. We expect Bangladesh to expedite nationality verification so that repatriation of illegal immigrants can   take place in a smooth manner.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India dismisses Canada intel claim on Indian involvement in transnational repression",
+      "link": "https://nitter.net/sidhant/status/2052339571145458034#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:17:39+05:30",
+      "time": "07 May, 04:17 PM",
+      "type": "tweets",
+      "content": "<p>India dismisses Canada intel claim on Indian involvement in transnational repression</p>\n<a href=\"https://nitter.net/sidhant/status/2052339571145458034#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052339437531787264%2Fpu%2Fimg%2FJBjkj7R66dBzmsaY.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Shall give you update at appropriate time, MEA spox Randhir Jaiswal on BRICS foreign ministers Delhi meet",
+      "link": "https://nitter.net/sidhant/status/2052339552568967628#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:17:34+05:30",
+      "time": "07 May, 04:17 PM",
+      "type": "tweets",
+      "content": "<p>Shall give you update at appropriate time, MEA spox Randhir Jaiswal on BRICS foreign ministers Delhi meet</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India points to its concerns over khalistani extremists after Canada intel mentions it in a report",
+      "link": "https://nitter.net/sidhant/status/2052339494628765803#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:17:20+05:30",
+      "time": "07 May, 04:17 PM",
+      "type": "tweets",
+      "content": "<p>India points to its concerns over khalistani extremists after Canada intel mentions it in a report</p>\n<a href=\"https://nitter.net/sidhant/status/2052339494628765803#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052339296842170368%2Fpu%2Fimg%2FO_WR3hkIDXJGkFMI.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India urges Bangladesh to cooperate on the repatriation of illegal migrants and seeks verification of their nationality.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052339428161663390#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T16:17:04+05:30",
+      "time": "07 May, 04:17 PM",
+      "type": "tweets",
+      "content": "<p>India urges Bangladesh to cooperate on the repatriation of illegal migrants and seeks verification of their nationality.</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Kailash Mansarovar yatra has been happening via Lipukekh since 1950, says MEA spox Randhir Jaiswal when asked about Nepal's objections.",
+      "link": "https://nitter.net/sidhant/status/2052339089333240289#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:15:44+05:30",
+      "time": "07 May, 04:15 PM",
+      "type": "tweets",
+      "content": "<p>Kailash Mansarovar yatra has been happening via Lipukekh since 1950, says MEA spox Randhir Jaiswal when asked about Nepal's objections.</p>\n<a href=\"https://nitter.net/sidhant/status/2052339089333240289#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052339030369689600%2Fpu%2Fimg%2Fm5kuMjeqP39-Ttek.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indus water treaty remains in abeyance, says India",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052338885729161363#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T16:14:55+05:30",
+      "time": "07 May, 04:14 PM",
+      "type": "tweets",
+      "content": "<p>Indus water treaty remains in abeyance, says India</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "MEA spox Randhir Jaiswal points to bilateral mechanism when asked about teesta water agreement",
+      "link": "https://nitter.net/sidhant/status/2052338811414479040#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:14:37+05:30",
+      "time": "07 May, 04:14 PM",
+      "type": "tweets",
+      "content": "<p>MEA spox Randhir Jaiswal points to bilateral mechanism when asked about teesta water agreement</p>\n<a href=\"https://nitter.net/sidhant/status/2052338811414479040#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052338718724460544%2Fpu%2Fimg%2FT9-eCaaqpKxJKlcO.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India ask Bangladesh to cooperate on the repatriation of illegal migrants and seeks verification of their nationality.\n\n- Indian foreign ministry spox Randhir Jaiswal",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052338604010262607#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T16:13:48+05:30",
+      "time": "07 May, 04:13 PM",
+      "type": "tweets",
+      "content": "<p>India ask Bangladesh to cooperate on the repatriation of illegal migrants and seeks verification of their nationality.<br />\n<br />\n- Indian foreign ministry spox Randhir Jaiswal</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "India has right to defend itself, MEA Spox Randir Jaiswal on one year anniversary of Operation Sindoor",
+      "link": "https://nitter.net/sidhant/status/2052337965444317691#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:11:16+05:30",
+      "time": "07 May, 04:11 PM",
+      "type": "tweets",
+      "content": "<p>India has right to defend itself, MEA Spox Randir Jaiswal on one year anniversary of Operation Sindoor</p>\n<a href=\"https://nitter.net/sidhant/status/2052337965444317691#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052337871462498304%2Fpu%2Fimg%2Faca68aTfMKozfq-R.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India says Indus water treaty remains in abeyance",
+      "link": "https://nitter.net/sidhant/status/2052337759931781303#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:10:27+05:30",
+      "time": "07 May, 04:10 PM",
+      "type": "tweets",
+      "content": "<p>India says Indus water treaty remains in abeyance</p>\n<a href=\"https://nitter.net/sidhant/status/2052337759931781303#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052337688884523008%2Fpu%2Fimg%2FWpFgb1AhSqV0-D-e.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking \n\nIndia calls for cooperation from Bangladesh over repatriation of illegal.  Presses for nationality verification.\n\nIndian foreign ministry spox Randhir Jaiswal @MEAIndia",
+      "link": "https://nitter.net/sidhant/status/2052337128269578597#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:07:56+05:30",
+      "time": "07 May, 04:07 PM",
+      "type": "tweets",
+      "content": "<p>Breaking <br />\n<br />\nIndia calls for cooperation from Bangladesh over repatriation of illegal.  Presses for nationality verification.<br />\n<br />\nIndian foreign ministry spox Randhir Jaiswal <a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a></p>\n<a href=\"https://nitter.net/sidhant/status/2052337128269578597#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052337013769342976%2Fpu%2Fimg%2FhPpN9zwvKOMxuaIA.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Weekly MEA presser begins",
+      "link": "https://nitter.net/sidhant/status/2052335401671737708#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T16:01:04+05:30",
+      "time": "07 May, 04:01 PM",
+      "type": "tweets",
+      "content": "<p>Weekly MEA presser begins</p>\n<img src=\"https://nitter.net/pic/media%2FHHtcKeZbgAEs5kj.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @WarMonitorINTL: Join Telegram for updates\n\nhttps://t.me/warmonitorINTL",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052335050382033254#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T15:59:41+05:30",
+      "time": "07 May, 03:59 PM",
+      "type": "tweets",
+      "content": "<p>Join Telegram for updates<br />\n<br />\n<a href=\"https://t.me/warmonitorINTL\">t.me/warmonitorINTL</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052334511426621440%2Feuuj7fkW%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "R to @WarMonitorINTL: Join Telegram\nhttps://t.me/warmonitorINTL",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052334513645310137#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T15:57:33+05:30",
+      "time": "07 May, 03:57 PM",
+      "type": "tweets",
+      "content": "<p>Join Telegram<br />\n<a href=\"https://t.me/warmonitorINTL\">t.me/warmonitorINTL</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052334511426621440%2Feuuj7fkW%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "\"Pakistan requested us to stop\": Ex-DGMO Rajiv Ghai on Op Sindoor, calls it India's 'gold standard' anti-terror op",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052333999675347148#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T15:55:30+05:30",
+      "time": "07 May, 03:55 PM",
+      "type": "tweets",
+      "content": "<p>\"Pakistan requested us to stop\": Ex-DGMO Rajiv Ghai on Op Sindoor, calls it India's 'gold standard' anti-terror op</p>\n<img src=\"https://nitter.net/pic/media%2FHHta2xXbgAAyr0o.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Soon expecting the classic reaction from the other side:\n\n\u201cEk baar maza na diya na, toh paise waapas.\u201d \ud83d\ude2d\ud83e\udd23",
+      "link": "https://nitter.net/OsintTV/status/2052331819077398711#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T15:46:50+05:30",
+      "time": "07 May, 03:46 PM",
+      "type": "tweets",
+      "content": "<p>Soon expecting the classic reaction from the other side:<br />\n<br />\n\u201cEk baar maza na diya na, toh paise waapas.\u201d \ud83d\ude2d\ud83e\udd23</p>\n<a href=\"https://nitter.net/OsintTV/status/2052331819077398711#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052331693546012676%2Fimg%2F2_iO6phtJaj3Whw3.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Shortly,  weekly MEA presser @MEAIndia @randhir_jk",
+      "link": "https://nitter.net/sidhant/status/2052331778564935810#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T15:46:41+05:30",
+      "time": "07 May, 03:46 PM",
+      "type": "tweets",
+      "content": "<p>Shortly,  weekly MEA presser <a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a> <a href=\"https://nitter.net/randhir_jk\" title=\"Randhir Jaiswal\">@randhir_jk</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHtY32pawAAcsED.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We won't accept any kind of mediation between INDIA and PAKISTAN\n\n- Lt Gen Rajiv Ghai",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052331491049554296#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T15:45:32+05:30",
+      "time": "07 May, 03:45 PM",
+      "type": "tweets",
+      "content": "<p>We won't accept any kind of mediation between INDIA and PAKISTAN<br />\n<br />\n- Lt Gen Rajiv Ghai</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n..\ud83d\ude4f....",
+      "link": "https://nitter.net/OsintTV/status/2052329345356644731#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T15:37:01+05:30",
+      "time": "07 May, 03:37 PM",
+      "type": "tweets",
+      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n..\ud83d\ude4f....</p>\n<img src=\"https://nitter.net/pic/card_img%2F2052235989566074880%2FpKYXtbrq%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n..\ud83d\ude4f....",
+      "link": "https://nitter.net/OsintTV/status/2052329288066601256#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T15:36:47+05:30",
+      "time": "07 May, 03:36 PM",
+      "type": "tweets",
+      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n..\ud83d\ude4f....</p>\n<img src=\"https://nitter.net/pic/card_img%2F2052235989566074880%2FpKYXtbrq%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n..\ud83d\ude4f..",
+      "link": "https://nitter.net/OsintTV/status/2052329252570149236#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T15:36:38+05:30",
+      "time": "07 May, 03:36 PM",
+      "type": "tweets",
+      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n..\ud83d\ude4f..</p>\n<img src=\"https://nitter.net/pic/card_img%2F2052235989566074880%2FpKYXtbrq%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "A year ago, OsintTV was the first to report on Abdul Rauf leading funeral prayers alongside a senior Pakistani Army officer.\n\nAfter that, everyone aware how viral those pictures went, and who all used them across different platforms to expose and embarrass the Paijaans....",
+      "link": "https://nitter.net/OsintTV/status/2052327188444147782#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T15:28:26+05:30",
+      "time": "07 May, 03:28 PM",
+      "type": "tweets",
+      "content": "<p>A year ago, OsintTV was the first to report on Abdul Rauf leading funeral prayers alongside a senior Pakistani Army officer.<br />\n<br />\nAfter that, everyone aware how viral those pictures went, and who all used them across different platforms to expose and embarrass the Paijaans....</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>Scenes from funeral taking place Lashkar 's HQ in Muridke <br />\n<br />\nPak army joined the funeral with Lashkar-E-Tayyaba commander Abdul Rauf</p>\n<img src=\"https://nitter.net/pic/media%2FGqVjBRcakAAt4fV.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FGqVjCkSacAA_WIO.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/1920049723550880021#m\">https://nitter.net/OsintTV/status/1920049723550880021#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
     {
       "title": "Here is the update on Kusha Long range Air Defence System ...\n\n\"As far as Kusha is concerned, yes, it is still a work in progress. We are looking at it seriously and trying to expedite it. Maybe in another 3 to 5 years. And additional units coming from abroad... I would not like to put a timeframe on it at this instant. It's a work in progress.\" : Air Marshal Awadhesh Kumar Bharati\n\nReceiving all the videos from the ground through a good friend. Thank you \ud83d\ude4f",
       "link": "https://nitter.net/OsintTV/status/2052325487603507526#m",
@@ -1083,16 +1393,6 @@
       "type": "tweets",
       "content": "<p>Air Marshal Bharti just gave a tight slap to those who accuse the forces of not supporting Atmanirbharta.<br />\n<br />\nIndian Armed Forces stats on indigenous tech :<br />\n<br />\n- Indigenous tech bought by armed forces in the last FY: 1.27 Lakh crore<br />\n<br />\n-  Indigenous tech exported in the last FY: 24 thousand crore<br />\n<br />\n- Target figure to achieve by 2029, indigenous tech to be bought : 3 Lakh crore.<br />\n<br />\n- Targeted Indigenous tech exports: 50 thousand crores.<br />\n<br />\nWe keep evaluating our needs, and we keep ourselves ready for the challenges without any compromise.</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "PM Modi says Operation Sindoor 'fitting response to those who dared to attack innocent Indians at Pahalgam'",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052321548669997349#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T15:06:02+05:30",
-      "time": "07 May, 03:06 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi says Operation Sindoor 'fitting response to those who dared to attack innocent Indians at Pahalgam'</p>",
-      "author": "@WarMonitorINTL"
     },
     {
       "title": "Governor Asks Vijay To Prove Majority For Oath, TVK May Move Court: Sources",
@@ -1115,7 +1415,7 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "Damn.....\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\n\"But if situation arises and opportunity comes our way, be sure that we will deliver a decisive blow without any hesitation. Aur agar Bhagwan ki kripa hogi hamare sir pe, toh aapki icchayein aur tamannao ko bhi hum sab milkar bharpoor tarah se poora karenge.\" ....\ud83d\ude01\ud83d\ude02\ud83e\udd23: Vice Admiral AN Pramod -DGNO",
+      "title": "RT by @OsintTV: Damn.....\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\n\"But if situation arises and opportunity comes our way, be sure that we will deliver a decisive blow without any hesitation. Aur agar Bhagwan ki kripa hogi hamare sir pe, toh aapki icchayein aur tamannao ko bhi hum sab milkar bharpoor tarah se poora karenge.\" ....\ud83d\ude01\ud83d\ude02\ud83e\udd23: Vice Admiral AN Pramod -DGNO",
       "link": "https://nitter.net/OsintTV/status/2052320570344198174#m",
       "source": "Osint TV",
       "sort_key": "2026-05-07T15:02:08+05:30",
@@ -1365,16 +1665,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Lieutenant General Rajiv Ghai says how Indian side came with video, time stamp. Points, \"Pakistan did not issue any video...nothing succeed for them. They could have done better investing in capabilities than narrative\"",
-      "link": "https://nitter.net/sidhant/status/2052307820947935491#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T14:11:29+05:30",
-      "time": "07 May, 02:11 PM",
-      "type": "tweets",
-      "content": "<p>Lieutenant General Rajiv Ghai says how Indian side came with video, time stamp. Points, \"Pakistan did not issue any video...nothing succeed for them. They could have done better investing in capabilities than narrative\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian military press conference on one year of operation sindoor begins. Begins by paying homage to victims of Pahalgam terror attack. \"It was a statement of resolve\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsyQhDbwAEhg3M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052289316936925235#m\">https://nitter.net/sidhant/status/2052289316936925235#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "\"13 Pakistani air assets destroyed during OP SINDOOR\": Air Marshal AK Bharti",
       "link": "https://nitter.net/Goreunit/status/2052306353327403516#m",
       "source": "War & Gore",
@@ -1415,14 +1705,14 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "Vice Admiral AN Pramod (DGNO) on China-Pakistan working together says support in space, electronic, cyber space. Adds, \"China did amplify and influence public opinion internationally\"",
-      "link": "https://nitter.net/sidhant/status/2052303918898860443#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:55:58+05:30",
-      "time": "07 May, 01:55 PM",
+      "title": "RT by @Goreunit: NOTAM for GSLV-F17 / EOS-05 (aka GISAT-1A) launch is out. Enforcement duration 0315-0715 (UTC), 21 May to 10 June 2026.\nhttps://www.reddit.com/r/ISRO/comments/1t649gf/notam_for_gslvf17_eos05_aka_gisat1a_launch_is_out/",
+      "link": "https://nitter.net/r_isro/status/2052303465381331415#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-07T13:54:10+05:30",
+      "time": "07 May, 01:54 PM",
       "type": "tweets",
-      "content": "<p>Vice Admiral AN Pramod (DGNO) on China-Pakistan working together says support in space, electronic, cyber space. Adds, \"China did amplify and influence public opinion internationally\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Vice  Admiral AN Pramod (DGNO) says Pakistani naval ships remained at harbour.  Adds, \"terror infra will be targeted\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHs126macAAWnPQ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052293454118760835#m\">https://nitter.net/sidhant/status/2052293454118760835#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
+      "content": "<p>NOTAM for GSLV-F17 / EOS-05 (aka GISAT-1A) launch is out. Enforcement duration 0315-0715 (UTC), 21 May to 10 June 2026.<br />\n<a href=\"https://teddit.net/r/ISRO/comments/1t649gf/notam_for_gslvf17_eos05_aka_gisat1a_launch_is_out/\">teddit.net/r/ISRO/comments/1\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHs-uTMagAAjaBF.png\" />",
+      "author": "@r_isro"
     },
     {
       "title": "#OperationSindoor Impact: Loss of Pakistani Men, Material & Morale.\n\n1\ufe0f\u20e3 100+ Terrorists eliminated.\n2\ufe0f\u20e3 10 family members and 4 close associates of UN designated Terrorist Masood Azhar killed.\n3\ufe0f\u20e3 155+ Pakistan Military personnel killed.\n4\ufe0f\u20e3 9 major terror launchpads/HQs razed to rubble\n5\ufe0f\u20e3 20% of Pakistan\u2019s Air Force infrastructure/assets destroyed.\n6\ufe0f\u20e3 5 jets and 1 early warning aircraft (AEW&C) shot down.\n7\ufe0f\u20e3 HQ-9B SAM unit in Lahore and radar sites in Gujranwala neutralised.\n8\ufe0f\u20e3 Over 600 Pakistani drones intercepted and destroyed.\n9\ufe0f\u20e3 Indus Waters Treaty in abeyance, threatening 93% of Pakistan's water use.\n\n@adgpi @NorthernComd_IA @ChinarcorpsIA @IAF_MCC @easterncomd @westerncomd_IA @IaSouthern @suryacommand >@AN_Command @indiannavy @HQ_IDS_India @CAC_CPRO @tracomiaf @EAC_IAF @hqwaciaf @MC_IAF @SWAC_IAF @official_dgar @PMOIndia @DefenceMinIndia @SpokespersonMoD @HMOIndia @AmitShahOffice @AmitShah @rajnathsingh @rmo @__phoenix_fire_ @OsintTV @spencer",
@@ -1435,36 +1725,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Vice Admiral AN Pramod (DGNO) mentions about China-Pakistan diplomatic camaraderie during India's counter terror operation. Says, \"They are well enmeshed\"",
-      "link": "https://nitter.net/sidhant/status/2052303342181986374#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:53:41+05:30",
-      "time": "07 May, 01:53 PM",
-      "type": "tweets",
-      "content": "<p>Vice Admiral AN Pramod (DGNO) mentions about China-Pakistan diplomatic camaraderie during India's counter terror operation. Says, \"They are well enmeshed\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Vice  Admiral AN Pramod (DGNO) says Pakistani naval ships remained at harbour.  Adds, \"terror infra will be targeted\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHs126macAAWnPQ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052293454118760835#m\">https://nitter.net/sidhant/status/2052293454118760835#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Air Marshal Awadhesh Kumar Bharti (ex DGAO) says next set of S400 units from Russia by end of this month, and last set by end of the year.",
-      "link": "https://nitter.net/sidhant/status/2052302901452968049#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:51:56+05:30",
-      "time": "07 May, 01:51 PM",
-      "type": "tweets",
-      "content": "<p>Air Marshal Awadhesh Kumar Bharti (ex DGAO) says next set of S400 units from Russia by end of this month, and last set by end of the year.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Air Marshal Awadhesh Kumar Bharti (ex DGAO) says Pakistan sided with terrorists.</p>\n<img src=\"https://nitter.net/pic/media%2FHHs07WeasAAIl_H.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052292366753837286#m\">https://nitter.net/sidhant/status/2052292366753837286#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Lieutenant General Rajiv Ghai mentions Turkiye in its support to Pakistan.",
-      "link": "https://nitter.net/sidhant/status/2052302541019599170#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:50:30+05:30",
-      "time": "07 May, 01:50 PM",
-      "type": "tweets",
-      "content": "<p>Lieutenant General Rajiv Ghai mentions Turkiye in its support to Pakistan.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian military press conference on one year of operation sindoor begins. Begins by paying homage to victims of Pahalgam terror attack. \"It was a statement of resolve\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsyQhDbwAEhg3M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052289316936925235#m\">https://nitter.net/sidhant/status/2052289316936925235#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "\"WE WILL HIT EVERYTHING\"\n\n- Lt. General Rajiv Ghai, Deputy Chief of Army Staff (Strategy)",
       "link": "https://nitter.net/elitepredatorss/status/2052302361482379660#m",
       "source": "Elite Predators",
@@ -1473,56 +1733,6 @@
       "type": "tweets",
       "content": "<p>\"WE WILL HIT EVERYTHING\"<br />\n<br />\n- Lt. General Rajiv Ghai, Deputy Chief of Army Staff (Strategy)</p>\n<img src=\"https://nitter.net/pic/media%2FHHs911wakAAi_-K.png\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Lieutenant General Rajiv Ghai on China-Pakistan combo against India: You play against the team that turns up in the park. India and Indian armed forces can meet challenges.",
-      "link": "https://nitter.net/sidhant/status/2052302299188678775#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:49:32+05:30",
-      "time": "07 May, 01:49 PM",
-      "type": "tweets",
-      "content": "<p>Lieutenant General Rajiv Ghai on China-Pakistan combo against India: You play against the team that turns up in the park. India and Indian armed forces can meet challenges.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian military press conference on one year of operation sindoor begins. Begins by paying homage to victims of Pahalgam terror attack. \"It was a statement of resolve\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsyQhDbwAEhg3M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052289316936925235#m\">https://nitter.net/sidhant/status/2052289316936925235#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Lieutenant General Rajiv Ghai: No terror sanctuary in Pakistan is safe",
-      "link": "https://nitter.net/sidhant/status/2052302030535106766#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:48:28+05:30",
-      "time": "07 May, 01:48 PM",
-      "type": "tweets",
-      "content": "<p>Lieutenant General Rajiv Ghai: No terror sanctuary in Pakistan is safe</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian military press conference on one year of operation sindoor begins. Begins by paying homage to victims of Pahalgam terror attack. \"It was a statement of resolve\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsyQhDbwAEhg3M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052289316936925235#m\">https://nitter.net/sidhant/status/2052289316936925235#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Lieutenant General Rajiv Ghai on terror camps in Pakistan: We will go after everything.",
-      "link": "https://nitter.net/sidhant/status/2052301842592522490#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:47:43+05:30",
-      "time": "07 May, 01:47 PM",
-      "type": "tweets",
-      "content": "<p>Lieutenant General Rajiv Ghai on terror camps in Pakistan: We will go after everything.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian military press conference on one year of operation sindoor begins. Begins by paying homage to victims of Pahalgam terror attack. \"It was a statement of resolve\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsyQhDbwAEhg3M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052289316936925235#m\">https://nitter.net/sidhant/status/2052289316936925235#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Lieutenant General Rajiv Ghai: We are well aware, about details of terror infra. Certain terror clusters across intl border, and in PoK. Dynamic nature of these launch pads, so time to time, numbers are different.",
-      "link": "https://nitter.net/sidhant/status/2052301605698150459#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:46:47+05:30",
-      "time": "07 May, 01:46 PM",
-      "type": "tweets",
-      "content": "<p>Lieutenant General Rajiv Ghai: We are well aware, about details of terror infra. Certain terror clusters across intl border, and in PoK. Dynamic nature of these launch pads, so time to time, numbers are different.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian military press conference on one year of operation sindoor begins. Begins by paying homage to victims of Pahalgam terror attack. \"It was a statement of resolve\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsyQhDbwAEhg3M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052289316936925235#m\">https://nitter.net/sidhant/status/2052289316936925235#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Flash:\n\n13 Pakistan Air Force aircraft destroyed in OpSindoor: Air Marshal AK Bharti",
-      "link": "https://nitter.net/OsintTV/status/2052301006122123552#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T13:44:24+05:30",
-      "time": "07 May, 01:44 PM",
-      "type": "tweets",
-      "content": "<p>Flash:<br />\n<br />\n13 Pakistan Air Force aircraft destroyed in OpSindoor: Air Marshal AK Bharti</p>\n<img src=\"https://nitter.net/pic/media%2FHHs8zqxWcAEqo2K.jpg\" />",
-      "author": "@OsintTV"
     },
     {
       "title": "RT by @OsintTV: IAF says Pakistan was not able to inflict any damage on Indian side, with  Pakistan's 10th May strike attempts being a total failure.",
@@ -1555,36 +1765,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Air Marshal Awadhesh Kumar Bharti on Pakistani claim: Pakistan was not able to inflict any damage on Indian side. We were able to neutralise... Whatever they say, narratives & rhetoric doesn't give victory. Hard facts do. Hard facts that we stuck terror camps, air bases",
-      "link": "https://nitter.net/sidhant/status/2052298926754304394#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:36:08+05:30",
-      "time": "07 May, 01:36 PM",
-      "type": "tweets",
-      "content": "<p>Air Marshal Awadhesh Kumar Bharti on Pakistani claim: Pakistan was not able to inflict any damage on Indian side. We were able to neutralise... Whatever they say, narratives &amp; rhetoric doesn't give victory. Hard facts do. Hard facts that we stuck terror camps, air bases</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Air Marshal Awadhesh Kumar Bharti (ex DGAO) says Pakistan sided with terrorists.</p>\n<img src=\"https://nitter.net/pic/media%2FHHs07WeasAAIl_H.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052292366753837286#m\">https://nitter.net/sidhant/status/2052292366753837286#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Air Marshal Awadhesh Kumar Bharti (ex DGAO): We are working on Sudarshan Chakra",
-      "link": "https://nitter.net/sidhant/status/2052298341460107638#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:33:49+05:30",
-      "time": "07 May, 01:33 PM",
-      "type": "tweets",
-      "content": "<p>Air Marshal Awadhesh Kumar Bharti (ex DGAO): We are working on Sudarshan Chakra</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Air Marshal Awadhesh Kumar Bharti (ex DGAO) says Pakistan sided with terrorists.</p>\n<img src=\"https://nitter.net/pic/media%2FHHs07WeasAAIl_H.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052292366753837286#m\">https://nitter.net/sidhant/status/2052292366753837286#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Air Marshal Awadhesh Kumar Bharti (ex DGAO): S400 unites are fetching in",
-      "link": "https://nitter.net/sidhant/status/2052298213802356769#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:33:18+05:30",
-      "time": "07 May, 01:33 PM",
-      "type": "tweets",
-      "content": "<p>Air Marshal Awadhesh Kumar Bharti (ex DGAO): S400 unites are fetching in</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Air Marshal Awadhesh Kumar Bharti (ex DGAO) says Pakistan sided with terrorists.</p>\n<img src=\"https://nitter.net/pic/media%2FHHs07WeasAAIl_H.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052292366753837286#m\">https://nitter.net/sidhant/status/2052292366753837286#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "5 BJP workers injured in a bomb attack outside the house of newly elected RG Kar victim\u2019s mother, Ratna Debnath.",
       "link": "https://nitter.net/WarMonitorINTL/status/2052298191207567481#m",
       "source": "War Monitor",
@@ -1593,36 +1773,6 @@
       "type": "tweets",
       "content": "<p>5 BJP workers injured in a bomb attack outside the house of newly elected RG Kar victim\u2019s mother, Ratna Debnath.</p>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Lieutenant General Rajiv Ghai (ex DGMO): India's war against terrorism will go on",
-      "link": "https://nitter.net/sidhant/status/2052297943022174531#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:32:14+05:30",
-      "time": "07 May, 01:32 PM",
-      "type": "tweets",
-      "content": "<p>Lieutenant General Rajiv Ghai (ex DGMO): India's war against terrorism will go on</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian military press conference on one year of operation sindoor begins. Begins by paying homage to victims of Pahalgam terror attack. \"It was a statement of resolve\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsyQhDbwAEhg3M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052289316936925235#m\">https://nitter.net/sidhant/status/2052289316936925235#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "ISRO will be launching GSLV F-17 rocket between 21 may-10 june\n\nPayload: NAVIC satallite NVS-03\n\nRep pic",
-      "link": "https://nitter.net/OsintTV/status/2052297524254245284#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T13:30:34+05:30",
-      "time": "07 May, 01:30 PM",
-      "type": "tweets",
-      "content": "<p>ISRO will be launching GSLV F-17 rocket between 21 may-10 june<br />\n<br />\nPayload: NAVIC satallite NVS-03<br />\n<br />\nRep pic</p>\n<img src=\"https://nitter.net/pic/media%2FHHs5tmvW4AIPKyL.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "On going transformation in the forces, Lieutenant General Rajiv Ghai (ex DGMO)",
-      "link": "https://nitter.net/sidhant/status/2052297281492402327#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:29:36+05:30",
-      "time": "07 May, 01:29 PM",
-      "type": "tweets",
-      "content": "<p>On going transformation in the forces, Lieutenant General Rajiv Ghai (ex DGMO)</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian military press conference on one year of operation sindoor begins. Begins by paying homage to victims of Pahalgam terror attack. \"It was a statement of resolve\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsyQhDbwAEhg3M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052289316936925235#m\">https://nitter.net/sidhant/status/2052289316936925235#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "\ud83d\udea8Bomb Threat email received at 6 school college at Jalandhar including BSF school",
@@ -1643,26 +1793,6 @@
       "type": "tweets",
       "content": "<p>We will not only respond, we will shape the battlespace!<br />\n<br />\n- Vice Admiral AN Promod</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Here comes the guy with itching hands!</p>\n<img src=\"https://nitter.net/pic/media%2FHHs1bR9aoAALA4q.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2052293008842981850#m\">https://nitter.net/elitepredatorss/status/2052293008842981850#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "\"If challenged, again, we will shape the battle space\", top Indian Navy official who was part of operation Sindoor on role of Navy",
-      "link": "https://nitter.net/sidhant/status/2052294328329134154#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:17:52+05:30",
-      "time": "07 May, 01:17 PM",
-      "type": "tweets",
-      "content": "<p>\"If challenged, again, we will shape the battle space\", top Indian Navy official who was part of operation Sindoor on role of Navy</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Vice  Admiral AN Pramod (DGNO) says Pakistani naval ships remained at harbour.  Adds, \"terror infra will be targeted\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHs126macAAWnPQ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052293454118760835#m\">https://nitter.net/sidhant/status/2052293454118760835#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Vice  Admiral AN Pramod (DGNO) says Pakistani naval ships remained at harbour.  Adds, \"terror infra will be targeted\"",
-      "link": "https://nitter.net/sidhant/status/2052293454118760835#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:14:23+05:30",
-      "time": "07 May, 01:14 PM",
-      "type": "tweets",
-      "content": "<p>Vice  Admiral AN Pramod (DGNO) says Pakistani naval ships remained at harbour.  Adds, \"terror infra will be targeted\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHs126macAAWnPQ.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "\u201cTerrorists know there\u2019s no place to hide.\u201d\nOn the anniversary of #OperationSindoor Israel\u2019s envoy reaffirmed strong support for India\u2019s counter-terror operations, calling terrorism a shared threat faced by both nations.",
@@ -1693,16 +1823,6 @@
       "type": "tweets",
       "content": "<p>Here comes the guy with itching hands!</p>\n<img src=\"https://nitter.net/pic/media%2FHHs1bR9aoAALA4q.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Air Marshal Awadhesh Kumar Bharti (ex DGAO) says Pakistan sided with terrorists.",
-      "link": "https://nitter.net/sidhant/status/2052292366753837286#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T13:10:04+05:30",
-      "time": "07 May, 01:10 PM",
-      "type": "tweets",
-      "content": "<p>Air Marshal Awadhesh Kumar Bharti (ex DGAO) says Pakistan sided with terrorists.</p>\n<img src=\"https://nitter.net/pic/media%2FHHs07WeasAAIl_H.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Sirf hungama khada karna mera maksad nhi, meri koshish hai ki ye surat badalni chahiye\ud83d\uddff",
@@ -1805,16 +1925,6 @@
       "author": "@HQ_IDS_India"
     },
     {
-      "title": "RT by @OsintTV: Apne #OperationSindoor mai hamari #Airforce ki asmani taqat dekhi, aaj usi ka video dekhiye. Stay tune @indiatvnews",
-      "link": "https://nitter.net/manishindiatv/status/2052267955900252238#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T11:33:04+05:30",
-      "time": "07 May, 11:33 AM",
-      "type": "tweets",
-      "content": "<p>Apne <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a> mai hamari <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Airforce\">#Airforce</a> ki asmani taqat dekhi, aaj usi ka video dekhiye. Stay tune <a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2052267955900252238#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052267885687611392%2Fimg%2FWn0PLga-H_Eas1Fb.jpg\" />\n</a>",
-      "author": "@manishindiatv"
-    },
-    {
       "title": "\"India is thrashing us, we're helpless. We're losing. Jazba (Islam) isn't saving us. India is not listening to USA/Saudi. We can't stop India\"\n\n- PAF Air Marshal Masood Akhtar during op Sindoor",
       "link": "https://nitter.net/Goreunit/status/2052259175187779895#m",
       "source": "War & Gore",
@@ -1835,16 +1945,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @OsintTV: Did India trust Pakistan too much in the Indus Waters Treaty?\nIndia gave away nearly 80% of the Indus system waters\u2026 even paid Pakistan to build infrastructure, writes India's former Indus Water Commissioner Pradeep Kumar Saxena.\nBut decades later, has Pakistan turned the treaty into a diplomatic & strategic pressure tool?\nIn my latest vlog, I decode:\n\u2022 The hidden story behind the treaty\n\u2022 Why India calls it an unequal arrangement\n\u2022 Pakistan\u2019s \u201cwater aggressor\u201d narrative\n\u2022 And whether 1960 realities still fit 2026\n\nWatch my #Vlog now & share your take.",
-      "link": "https://nitter.net/rsrobin1/status/2052255786802278527#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T10:44:43+05:30",
-      "time": "07 May, 10:44 AM",
-      "type": "tweets",
-      "content": "<p>Did India trust Pakistan too much in the Indus Waters Treaty?<br />\nIndia gave away nearly 80% of the Indus system waters\u2026 even paid Pakistan to build infrastructure, writes India's former Indus Water Commissioner Pradeep Kumar Saxena.<br />\nBut decades later, has Pakistan turned the treaty into a diplomatic & strategic pressure tool?<br />\nIn my latest vlog, I decode:<br />\n\u2022 The hidden story behind the treaty<br />\n\u2022 Why India calls it an unequal arrangement<br />\n\u2022 Pakistan\u2019s \u201cwater aggressor\u201d narrative<br />\n\u2022 And whether 1960 realities still fit 2026<br />\n<br />\nWatch my <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Vlog\">#Vlog</a> now & share your take.</p>\n<a href=\"https://nitter.net/rsrobin1/status/2052255786802278527#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052254207546454017%2Fimg%2FJfgJcVHndeWuTcI2.jpg\" />\n</a>",
-      "author": "@rsrobin1"
-    },
-    {
       "title": "Porki at a random day- We'll attack India.\n\nMeanwhile when India retaliated- \"BRO I'M SCARED, I DON'T WANT TO DIE.\"",
       "link": "https://nitter.net/Goreunit/status/2052251115362869331#m",
       "source": "War & Gore",
@@ -1853,26 +1953,6 @@
       "type": "tweets",
       "content": "<p>Porki at a random day- We'll attack India.<br />\n<br />\nMeanwhile when India retaliated- \"BRO I'M SCARED, I DON'T WANT TO DIE.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsPgfJbQAAfb27.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n........ \ud83d\ude4f........",
-      "link": "https://nitter.net/OsintTV/status/2052246888494014486#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T10:09:21+05:30",
-      "time": "07 May, 10:09 AM",
-      "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n........ \ud83d\ude4f........</p>\n<img src=\"https://nitter.net/pic/card_img%2F2052235989566074880%2FpKYXtbrq%3Fformat%3Djpg%26name%3D420x420_2\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n.... \ud83d\ude4f....",
-      "link": "https://nitter.net/OsintTV/status/2052246791186202643#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T10:08:58+05:30",
-      "time": "07 May, 10:08 AM",
-      "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n.... \ud83d\ude4f....</p>\n<img src=\"https://nitter.net/pic/card_img%2F2052235989566074880%2FpKYXtbrq%3Fformat%3Djpg%26name%3D420x420_2\" />",
-      "author": "@OsintTV"
     },
     {
       "title": "UAE is punishing Pakistan for its stance on Iran conflict\n\nReports indicate growing strain between the UAE and Pakistan over Islamabad\u2019s handling of the Iran conflict.\n\nAccording to regional reports, Abu Dhabi was frustrated by Pakistan\u2019s attempts to position itself as a mediator between Washington and Tehran, viewing Islamabad\u2019s \u201cneutral\u201d role with suspicion.\n\nThe reports also claim the UAE withdrew financial support measures linked to Pakistan and increased pressure on Pakistani nationals in the Emirates.\n\nSource: https://timesofindia.indiatimes.com/business/international-business/why-the-uae-asked-pakistan-for-its-3-5bn-back/articleshow/130549351.cms",
@@ -1975,16 +2055,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Large deployment of central forces in Madhyamgram, West Bengal.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052115389363151301#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T01:26:49+05:30",
-      "time": "07 May, 01:26 AM",
-      "type": "tweets",
-      "content": "<p>Large deployment of central forces in Madhyamgram, West Bengal.</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "Jaish terrorist Raja Waqasullah, relative of JeM chief. He was 72'd when Indian forces struck the Bilal Terror Camp in Operation Sindoor.\n\nR/O: Namjar, Poonch District (POJK)",
       "link": "https://nitter.net/elitepredatorss/status/2052113859918598207#m",
       "source": "Elite Predators",
@@ -2015,16 +2085,6 @@
       "author": "@HQ_IDS_India"
     },
     {
-      "title": "The car had a \u201cWB Legislative Assembly \u2013 On Duty\u201d sign on it.\n\nSuvendu Adhikari\u2019s PA, Chandranath Rath, was travelling in Suvendu Adhikari\u2019s car...?????",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052108808722469039#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T01:00:40+05:30",
-      "time": "07 May, 01:00 AM",
-      "type": "tweets",
-      "content": "<p>The car had a \u201cWB Legislative Assembly \u2013 On Duty\u201d sign on it.<br />\n<br />\nSuvendu Adhikari\u2019s PA, Chandranath Rath, was travelling in Suvendu Adhikari\u2019s car...?????</p>\n<img src=\"https://nitter.net/pic/media%2FHHqODuwaMAAGqh2.jpg\" />",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "Zero tolerance for terrorism continues...\nRevenge Continues...\nDismantling the terror state of \ud83c\uddf5\ud83c\uddf0 continues...\n#OperationSindoor still continues \ud83d\udd25\n#1YearOfOperationSindoor",
       "link": "https://nitter.net/Goreunit/status/2052105200232702251#m",
       "source": "War & Gore",
@@ -2033,16 +2093,6 @@
       "type": "tweets",
       "content": "<p>Zero tolerance for terrorism continues...<br />\nRevenge Continues...<br />\nDismantling the terror state of \ud83c\uddf5\ud83c\uddf0 continues...<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a> still continues \ud83d\udd25<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%231YearOfOperationSindoor\">#1YearOfOperationSindoor</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2052105200232702251#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052104661424087040%2Fpu%2Fimg%2Fqu7mpLMILl5AcM83.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Suvendu Adhikari reaches the hospital, looks deeply hurt \ud83d\udc94",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052101098136363242#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T00:30:02+05:30",
-      "time": "07 May, 12:30 AM",
-      "type": "tweets",
-      "content": "<p>Suvendu Adhikari reaches the hospital, looks deeply hurt \ud83d\udc94</p>\n<img src=\"https://nitter.net/pic/media%2FHHqHBtUbAAA7x8r.jpg\" />",
-      "author": "@WarMonitorINTL"
     },
     {
       "title": "1 am \ud83d\udc40! @HQ_IDS_India",
@@ -2055,16 +2105,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "BJP worker Rohit Roy shot at in Basirhat, West Bengal\n\nTwo BJP workers targeted within an hour",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052099037663551964#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T00:21:51+05:30",
-      "time": "07 May, 12:21 AM",
-      "type": "tweets",
-      "content": "<p>BJP worker Rohit Roy shot at in Basirhat, West Bengal<br />\n<br />\nTwo BJP workers targeted within an hour</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "RT by @WarMonitorINTL: TMC leader Kamal Mandal arrested, for BJP worker's murder, while attempting to flee to Bangladesh.",
       "link": "https://nitter.net/WarMonitorINTL/status/2052098358802784661#m",
       "source": "War Monitor",
@@ -2072,26 +2112,6 @@
       "time": "07 May, 12:19 AM",
       "type": "tweets",
       "content": "<p>TMC leader Kamal Mandal arrested, for BJP worker's murder, while attempting to flee to Bangladesh.</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Following the killing of Suvendu Adhikari\u2019s PA\n\nBJP worker Rohit Roy was also shot at in Basirhat, West Bengal.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052097862549574012#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T00:17:11+05:30",
-      "time": "07 May, 12:17 AM",
-      "type": "tweets",
-      "content": "<p>Following the killing of Suvendu Adhikari\u2019s PA<br />\n<br />\nBJP worker Rohit Roy was also shot at in Basirhat, West Bengal.</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "It\u2019s time for @SuvenduWB to put them in their place.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052095168871026999#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T00:06:29+05:30",
-      "time": "07 May, 12:06 AM",
-      "type": "tweets",
-      "content": "<p>It\u2019s time for <a href=\"https://nitter.net/SuvenduWB\" title=\"Suvendu Adhikari\">@SuvenduWB</a> to put them in their place.</p>",
       "author": "@WarMonitorINTL"
     },
     {
@@ -2153,16 +2173,6 @@
       "type": "tweets",
       "content": "<p>BREAKING: 4 Myanmar Nationals Arrested with Heroin in Manipur<br />\n<br />\nA joint operation by Police &amp; Assam Rifles led to the arrest of four illegal Myanmarese immigrants in Churachandpur, Manipur. 66 soap cases of heroin seized.<br />\n<br />\nThe individuals are identified as Myanmar citizens.</p>\n<img src=\"https://nitter.net/pic/media%2FHHo6YgzbgAAXNnD.jpg\" />",
       "author": "@KangleipakDaily"
-    },
-    {
-      "title": "Threatening phone calls\nhave been received at Mumbai's Taj Hotel and Trident Hotel. The caller stated that a terrorist attack is going to take place. Mumbai Police has ramped up security.",
-      "link": "https://nitter.net/Goreunit/status/2052016249975218504#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-06T18:52:53+05:30",
-      "time": "06 May, 06:52 PM",
-      "type": "tweets",
-      "content": "<p>Threatening phone calls<br />\nhave been received at Mumbai's Taj Hotel and Trident Hotel. The caller stated that a terrorist attack is going to take place. Mumbai Police has ramped up security.</p>",
-      "author": "@Goreunit"
     },
     {
       "title": "BREAKING: \u2018Vande Mataram\u2019 To Get Same Status As National Anthem\n\nThe Union Cabinet has reportedly approved a proposal to place \u201cVande Mataram\u201d on the same legal footing as the National Anthem, \u201cJana Gana Mana.\u201d\n\nUnder the proposed amendment to the Prevention of Insults to National Honour Act, acts of disrespect or obstruction during the singing of Vande Mataram could attract the same penalties currently applicable to the National Anthem.\n\nComposed by Bankim Chandra Chattopadhyay, the song played a major role in India\u2019s freedom movement and is marking its 150th anniversary.",
@@ -2319,6 +2329,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "04:24 PM IST"
   }
 }
