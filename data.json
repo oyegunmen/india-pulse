@@ -1,11 +1,38 @@
 {
   "news": [
     {
-      "title": "Ted Turner dies at 87: How CNN founder changed television news and kids\u2019 entertainment in India",
-      "link": "https://indianexpress.com/article/world/us-news/ted-turner-cnn-founder-dead-impact-on-cartoon-network-india-gulf-war-coverage-10677813/",
+      "title": "WHO confirms five hantavirus cases linked to cruise ship outbreak",
+      "link": "https://www.newsonair.gov.in/who-confirms-five-hantavirus-cases-linked-to-cruise-ship-outbreak/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-07T22:18:24+05:30",
+      "time": "07 May, 10:18 PM",
+      "type": "news",
+      "description": "The World Health Organization (WHO) today confirmed five hantavirus cases linked to a cruise ship outbreak, while three additional cases remain suspec..."
+    },
+    {
+      "title": "US Secretary of State Marco Rubio meets Pope Leo XIV at Vatican and discusses situation in West Asia",
+      "link": "https://www.newsonair.gov.in/us-secretary-of-state-marco-rubio-meets-pope-leo-xiv-at-vatican-and-discusses-situation-in-west-asia/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-07T22:16:15+05:30",
+      "time": "07 May, 10:16 PM",
+      "type": "news",
+      "description": "US Secretary of State Marco Rubio met Pope Leo XIV at the Vatican and discussed the situation in West Asia, along with issues of mutual interest in th..."
+    },
+    {
+      "title": "\u2018No one could sleep\u2019: Indian sailors recount nights of missile attacks near Strait of Hormuz",
+      "link": "https://indianexpress.com/article/world/indian-sailors-stranded-iran-strait-of-hormuz-blockade-survival-stories-10678188/",
       "source": "The Indian Express",
-      "sort_key": "2026-05-07T21:16:15+05:30",
-      "time": "07 May, 09:16 PM",
+      "sort_key": "2026-05-07T22:05:33+05:30",
+      "time": "07 May, 10:05 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US-Iran ceasefire framework explained: Nuclear issue, Hormuz, key players, what\u2019s left out and oil impact",
+      "link": "https://indianexpress.com/article/world/iran-us-ceasefire-trump-project-freedom-strait-of-hormuz-nuclear-deal-10678215/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-07T22:05:04+05:30",
+      "time": "07 May, 10:05 PM",
       "type": "news",
       "description": ""
     },
@@ -13,10 +40,55 @@
       "title": "Iran-Israel war LIVE: Iran reviewing U.S. proposal as Trump pressures Tehran for agreement on deal to end war",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
       "source": "The Hindu",
-      "sort_key": "2026-05-07T20:49:36+05:30",
-      "time": "07 May, 08:49 PM",
+      "sort_key": "2026-05-07T21:43:40+05:30",
+      "time": "07 May, 09:43 PM",
       "type": "news",
       "description": "Tehran\u2019s embassy in Seoul said it \u201cfirmly rejects and categorically denies\u201d allegations that its armed forces were behind a blast aboard the Panama-fl..."
+    },
+    {
+      "title": "Myanmar junta claims recapture of trade artery towards China",
+      "link": "https://www.thehindu.com/news/international/myanmar-junta-claims-recapture-of-trade-artery-towards-china/article70952338.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-07T21:43:29+05:30",
+      "time": "07 May, 09:43 PM",
+      "type": "news",
+      "description": "The military said it crushed \"terrorist insurgent groups\" along a route linking the central and second largest city of Mandalay to the northern hub of..."
+    },
+    {
+      "title": "Chhattisgarh; Another Remote Forested Village in Bastar Sees Light After Dusk for First Time",
+      "link": "https://www.deccanchronicle.com/nation/chhattisgarh-another-remote-forested-village-in-bastar-sees-light-after-dusk-for-first-time-1955274",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-07T21:42:50+05:30",
+      "time": "07 May, 09:42 PM",
+      "type": "news",
+      "description": "The scenario has changed with the electrification of the village."
+    },
+    {
+      "title": "Iran\u2019s President Pezeshkian says he met Supreme Leader Khamenei",
+      "link": "https://www.thehindu.com/news/international/irans-president-pezeshkian-says-he-met-supreme-leader-khamenei/article70952271.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-07T21:23:36+05:30",
+      "time": "07 May, 09:23 PM",
+      "type": "news",
+      "description": "What struck me most during this meeting was the vision and the humble and sincere approach of the supreme leader of the Islamic revolution, says Presi..."
+    },
+    {
+      "title": "From Tawang to Bumla: Border Roads Organisation Project VARTAK marks 66th raising day",
+      "link": "https://economictimes.indiatimes.com/news/defence/from-tawang-to-bumla-border-roads-organisation-project-vartak-marks-66th-raising-day/articleshow/130906898.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-07T21:18:22+05:30",
+      "time": "07 May, 09:18 PM",
+      "type": "news",
+      "description": "Border Roads Organisation's Project VARTAK celebrated its 66th Raising Day, marking over six decades of vital infrastructure development in India's No..."
+    },
+    {
+      "title": "Ted Turner dies at 87: How CNN founder changed television news and kids\u2019 entertainment in India",
+      "link": "https://indianexpress.com/article/world/us-news/ted-turner-cnn-founder-dead-impact-on-cartoon-network-india-gulf-war-coverage-10677813/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-07T21:16:15+05:30",
+      "time": "07 May, 09:16 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "\u2018Play against the team that turns up\u2019: Army general on Pakistan-China-Turkey challenge",
@@ -442,7 +514,7 @@
       "description": "Iran war news: America fired on an Iranian oil tanker in the Gulf of Oman. President Trump is pressuring Tehran for a deal to end the war. Israel also..."
     },
     {
-      "title": "Iran-US-Israel War News Live Updates: Iran foreign minister Araghchi speaks to Pakistani counterpart in phone call",
+      "title": "Iran-US-Israel War News Live Updates: Third round of Israel-Lebanon talks next week in Washington",
       "link": "https://indianexpress.com/article/world/iran-us-war-news-live-updates-trump-tehran-hormuz-ceasefire-proposal-10676935/",
       "source": "The Indian Express",
       "sort_key": "2026-05-07T08:50:57+05:30",
@@ -460,15 +532,6 @@
       "description": "President of Vietnam, To Lam, visited the National Stock Exchange in Mumbai during his day-long visit to the city today. He participated in the tradit..."
     },
     {
-      "title": "EAM Dr S Jaishankar holds talks with Surinamese counterpart Melvin Bouva",
-      "link": "https://www.newsonair.gov.in/eam-dr-s-jaishankar-holds-talks-with-surinamese-counterpart-melvin-bouva/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-07T08:34:09+05:30",
-      "time": "07 May, 08:34 AM",
-      "type": "news",
-      "description": "External Affairs Minister Dr S Jaishankar held talks with his Surinamese counterpart Melvin Bouva in Paramaribo yesterday. The Indian and Surinamese d..."
-    },
-    {
       "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers\u2019 meeting May-end",
       "link": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
       "source": "The Hindu",
@@ -476,15 +539,6 @@
       "time": "07 May, 08:19 AM",
       "type": "news",
       "description": "Rubio will hold talks with Jaishankar and Ajit Doval, and call on Prime Minister Modi, in discussions that are expected to set the course for India-U...."
-    },
-    {
-      "title": "France moves its carrier strike group to Red Sea as part of potential mission to secure Strait of Hormuz",
-      "link": "https://www.newsonair.gov.in/france-moves-its-carrier-strike-group-to-red-sea-as-part-of-potential-mission-to-secure-strait-of-hormuz/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-07T08:14:58+05:30",
-      "time": "07 May, 08:14 AM",
-      "type": "news",
-      "description": "France has deployed its carrier strike group to Red Sea as part of a potential mission to secure the Strait of Hormuz. In a statement, French Army sai..."
     },
     {
       "title": "India commemorates first anniversary of Operation Sindoor, marking decisive military action against terror infrastructure",
@@ -1018,33 +1072,6 @@
       "description": "UAE air defences 'actively engaging' with Iran missiles, drones, says UAE Defence Ministry; U.S. threatens 'devastating' response to any Iran attack o..."
     },
     {
-      "title": "Israel court extends Gaza flotilla activists' detention by six days",
-      "link": "https://www.thehindu.com/news/international/israel-court-extends-gaza-flotilla-activists-detention-by-six-days/article70944459.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T23:56:15+05:30",
-      "time": "05 May, 11:56 PM",
-      "type": "news",
-      "description": "The extension is to allow police more time to interrogate them, the pair's lawyer said"
-    },
-    {
-      "title": "Pakistan court declares PM Shehbaz's daughter and her husband 'innocent' in corruption case",
-      "link": "https://www.thehindu.com/news/international/pakistan-court-declares-pm-shehbazs-daughter-and-her-husband-innocent-in-corruption-case/article70943695.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T23:41:58+05:30",
-      "time": "05 May, 11:41 PM",
-      "type": "news",
-      "description": "Last week, an accountability court suspended the perpetual arrest warrants issued against the couple in the multi-billion-dollar corruption case"
-    },
-    {
-      "title": "India\u2019s energy security amid conflicts",
-      "link": "https://www.thehindu.com/news/indias-energy-security-amid-conflicts/article70944392.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T23:37:58+05:30",
-      "time": "05 May, 11:37 PM",
-      "type": "news",
-      "description": "The conflict in West Asia has shown how geopolitical shocks can transmit to India\u2019s domestic economy, given that the country imports over 85% of its c..."
-    },
-    {
       "title": "Why Russia\u2019s Putin and Ukraine\u2019s Zelenskyy agreed to a \u2018limited ceasefire\u2019",
       "link": "https://indianexpress.com/article/world/russia-ukraine-war-victory-day-ceasefire-putin-kyiv-warning-drone-attacks-10674020/",
       "source": "The Indian Express",
@@ -1061,54 +1088,89 @@
       "time": "05 May, 10:33 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Nightshade ADX-1: 600 Kmph Jet-Class Drone Built for GPS-Denied Missions",
-      "link": "https://www.deccanchronicle.com/southern-states/telangana/nightshade-adx-1-600-kmph-jet-class-drone-built-for-gps-denied-missions-1954885",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-05T22:22:03+05:30",
-      "time": "05 May, 10:22 PM",
-      "type": "news",
-      "description": "Student-led firm moves to scale its unmanned aerial vehicle systems for defence use"
-    },
-    {
-      "title": "The red, white and blue dome: Trump makes risky move to free Hormuz",
-      "link": "https://economictimes.indiatimes.com/news/defence/the-red-white-and-blue-dome-trump-makes-risky-move-to-free-hormuz/articleshow/130834450.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-05T22:15:45+05:30",
-      "time": "05 May, 10:15 PM",
-      "type": "news",
-      "description": "In a pivotal development, the United States has launched 'Operation Freedom', aimed at safeguarding the vital shipping lanes of the Strait of Hormuz. ..."
-    },
-    {
-      "title": "Study Finds Cobra Numbers Rising in City",
-      "link": "https://www.deccanchronicle.com/southern-states/telangana/study-finds-cobra-numbers-rising-in-city-1954880",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-05T22:08:49+05:30",
-      "time": "05 May, 10:08 PM",
-      "type": "news",
-      "description": "Urban growth, food waste, and fewer predators fuel rising snake encounters"
-    },
-    {
-      "title": "Ready to resume major combat operations in Iran, says top US general",
-      "link": "https://indianexpress.com/article/world/us-general-dan-caine-iran-missile-attack-uae-indians-injured-ceasefire-10674557/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-05T21:49:35+05:30",
-      "time": "05 May, 09:49 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "MoD Signs Rs 1,476 Crore BEL Deal To Supply Electronic Systems to Army",
-      "link": "https://www.deccanchronicle.com/southern-states/telangana/mod-signs-rs-1476-crore-bel-deal-to-supply-electronic-systems-to-army-1954865",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-05T21:26:45+05:30",
-      "time": "05 May, 09:26 PM",
-      "type": "news",
-      "description": "The system will modernise Indian Army units and strengthen the indigenous defence manufacturing ecosystem in the country. The contract was signed in t..."
     }
   ],
   "tweets": [
+    {
+      "title": "India marks one year of Operation Sindoor, its counter terror Operation in Pakistan.\n\nReporting on day's development:",
+      "link": "https://nitter.net/sidhant/status/2052430975808983225#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T22:20:51+05:30",
+      "time": "07 May, 10:20 PM",
+      "type": "tweets",
+      "content": "<p>India marks one year of Operation Sindoor, its counter terror Operation in Pakistan.<br />\n<br />\nReporting on day's development:</p>\n<a href=\"https://nitter.net/sidhant/status/2052430975808983225#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052376350280019968%2Fimg%2FR0xTH6n84ONvJWrs.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "At 18.32 minutes....",
+      "link": "https://nitter.net/sidhant/status/2052430149958987953#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T22:17:34+05:30",
+      "time": "07 May, 10:17 PM",
+      "type": "tweets",
+      "content": "<p>At 18.32 minutes....</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Watch: Indian Military releases a documentary on one year of Operation Sindoor, India's counter terror operation in Pakistan. Indian Defence Minister released the documentary at Jaipur during Joint Commanders' Conference</p>\n<a href=\"https://nitter.net/sidhant/status/2052391955368444149#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052391714942595072%2Fimg%2F54CuN7MgUZazA9re.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052391955368444149#m\">https://nitter.net/sidhant/status/2052391955368444149#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "3rd High Level visit from India to UAE in weeks since 40 day war got over. After EAM Dr S Jaishankar,  NSA Ajit Doval.",
+      "link": "https://nitter.net/sidhant/status/2052428179848220778#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T22:09:45+05:30",
+      "time": "07 May, 10:09 PM",
+      "type": "tweets",
+      "content": "<p>3rd High Level visit from India to UAE in weeks since 40 day war got over. After EAM Dr S Jaishankar,  NSA Ajit Doval.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Foreign secretary Vikram Misri in UAE. Meets UAE Minister of State for International Cooperation Reem Al Hashimy.</p>\n<img src=\"https://nitter.net/pic/media%2FHHuwRwSbcAIMYDA.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052427876654608544#m\">https://nitter.net/sidhant/status/2052427876654608544#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri in UAE. Meets UAE Minister of State for International Cooperation Reem Al Hashimy.",
+      "link": "https://nitter.net/sidhant/status/2052427876654608544#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T22:08:32+05:30",
+      "time": "07 May, 10:08 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri in UAE. Meets UAE Minister of State for International Cooperation Reem Al Hashimy.</p>\n<img src=\"https://nitter.net/pic/media%2FHHuwRwSbcAIMYDA.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Israel confirms first reported hantavirus case.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052421976359366926#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-07T21:45:05+05:30",
+      "time": "07 May, 09:45 PM",
+      "type": "tweets",
+      "content": "<p>Israel confirms first reported hantavirus case.</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "RT by @OsintTV: @OfficialDGISPR just declared that after resolution of Kashmir issue, Pakistan will control all 'six' rivers and decide whether India gets water. \nSix from J&K? Someone please get this man an atlas, a globe, and maybe Google Maps Premium.\n\nBy that logic:\n- Since the Indus starts near Tibet, China owns Pakistan\u2019s taps.\n-Ravi, Sutlej and Beas...so, HP and Punjab are also part of Kashmir!\n- Since the clouds come from the Arabian Sea, Oman controls the monsoon.\n- Since the sun rises in the east, Japan owns solar energy.\nAlso fascinating how a country struggling to supply drinking water to Karachi is already planning hydro-imperialism over half the subcontinent.\nNext briefing:\n\u201cWhen the moon dispute is resolved, Eid dates will also be decided in Rawalpindi.\u201d\n#PKMKB",
+      "link": "https://nitter.net/ajaykraina/status/2052421733635047811#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T21:44:08+05:30",
+      "time": "07 May, 09:44 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a> just declared that after resolution of Kashmir issue, Pakistan will control all 'six' rivers and decide whether India gets water. <br />\nSix from J&amp;K? Someone please get this man an atlas, a globe, and maybe Google Maps Premium.<br />\n<br />\nBy that logic:<br />\n- Since the Indus starts near Tibet, China owns Pakistan\u2019s taps.<br />\n-Ravi, Sutlej and Beas...so, HP and Punjab are also part of Kashmir!<br />\n- Since the clouds come from the Arabian Sea, Oman controls the monsoon.<br />\n- Since the sun rises in the east, Japan owns solar energy.<br />\nAlso fascinating how a country struggling to supply drinking water to Karachi is already planning hydro-imperialism over half the subcontinent.<br />\nNext briefing:<br />\n\u201cWhen the moon dispute is resolved, Eid dates will also be decided in Rawalpindi.\u201d<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PKMKB\">#PKMKB</a></p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>Lahori churan\u2019s khayali pulao on IWT:<br />\n<br />\n\u201cSix rivers come from disputed kashmir. When the dispute is resolved, Kashmir will become Pakistan. Then all these six rivers will be ours. Then who will decide? We will decide whether to release water or not.\u201d<br />\n<br />\nSo according to Lahori churan, all six rivers will be controlled by Pakistan, and Pakistan will then decide whether to release water to Pakistan or not. .....<br />\n<br />\nBu ha ha ha ... Kya logic hai yaar\ud83e\udd23<br />\n<br />\nSeems like someone is very desperate to lose PoJK very soon.... <br />\n<br />\nIndia: Aao kabhi haveli pe....</p>\n<a href=\"https://nitter.net/OsintTV/status/2052365590048670098#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052365172983889924%2Fimg%2FmrT9Jg1he4p0ZryO.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2052365590048670098#m\">https://nitter.net/OsintTV/status/2052365590048670098#m</a>\n</footer>\n</blockquote>",
+      "author": "@ajaykraina"
+    },
+    {
+      "title": "RT by @OsintTV: Pakistani Military is ready to wait for next 1000 years till then they will adopt to drink Seawater with population to touch 300 Million by 2035 and 400 by 2050",
+      "link": "https://nitter.net/idrwalerts/status/2052421448887595235#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T21:43:00+05:30",
+      "time": "07 May, 09:43 PM",
+      "type": "tweets",
+      "content": "<p>Pakistani Military is ready to wait for next 1000 years till then they will adopt to drink Seawater with population to touch 300 Million by 2035 and 400 by 2050</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>Lahori churan\u2019s khayali pulao on IWT:<br />\n<br />\n\u201cSix rivers come from disputed kashmir. When the dispute is resolved, Kashmir will become Pakistan. Then all these six rivers will be ours. Then who will decide? We will decide whether to release water or not.\u201d<br />\n<br />\nSo according to Lahori churan, all six rivers will be controlled by Pakistan, and Pakistan will then decide whether to release water to Pakistan or not. .....<br />\n<br />\nBu ha ha ha ... Kya logic hai yaar\ud83e\udd23<br />\n<br />\nSeems like someone is very desperate to lose PoJK very soon.... <br />\n<br />\nIndia: Aao kabhi haveli pe....</p>\n<a href=\"https://nitter.net/OsintTV/status/2052365590048670098#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052365172983889924%2Fimg%2FmrT9Jg1he4p0ZryO.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2052365590048670098#m\">https://nitter.net/OsintTV/status/2052365590048670098#m</a>\n</footer>\n</blockquote>",
+      "author": "@idrwalerts"
+    },
+    {
+      "title": "PowerPoint presentation se chand tabah kar dunga.",
+      "link": "https://nitter.net/OsintTV/status/2052418377948275022#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T21:30:48+05:30",
+      "time": "07 May, 09:30 PM",
+      "type": "tweets",
+      "content": "<p>PowerPoint presentation se chand tabah kar dunga.</p>\n<img src=\"https://nitter.net/pic/media%2FHHunm49WMAArLNq.jpg\" />",
+      "author": "@OsintTV"
+    },
     {
       "title": "ISPR press conference in nutshell \ud83e\udd23",
       "link": "https://nitter.net/elitepredatorss/status/2052409656589586671#m",
@@ -1186,18 +1248,8 @@
       "sort_key": "2026-05-07T20:19:50+05:30",
       "time": "07 May, 08:19 PM",
       "type": "tweets",
-      "content": "<p>Must watch \ud83d\udc47</p>\n<hr />\n<blockquote>\n<b>HQ IDS (@HQ_IDS_India)</b>\n<p>\n<p>\ud83d\udc46\ud83c\udffc\ud83d\udc46\ud83c\udffcTo commemorate the anniversary of Op Sindoor,  Hon\u2019ble Raksha Mantri released a documentary film on operation sindoor add jaipur during the joint commanders conference.<br />\n<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=_7WPO21cIXA66_5G\">piped.video/jN3oEXUKbf4?si=_7WP\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <br />\n<a href=\"https://nitter.net/SethSanjayMP\" title=\"Sanjay Seth\">@SethSanjayMP</a> <br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/PIB_India\" title=\"PIB India\">@PIB_India</a> <br />\n<a href=\"https://nitter.net/PTI_News\" title=\"Press Trust of India\">@PTI_News</a> <br />\n<a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a> <br />\n<a href=\"https://nitter.net/ians_india\" title=\"IANS\">@ians_india</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052385268846776320%2Ft50LaQ8J%3Fformat%3Djpg%26name%3D1200x627\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/HQ_IDS_India/status/2052398864750264594#m\">https://nitter.net/HQ_IDS_India/status/2052398864750264594#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Must watch \ud83d\udc47</p>\n<hr />\n<blockquote>\n<b>HQ IDS (@HQ_IDS_India)</b>\n<p>\n<p>\ud83d\udc46\ud83c\udffc\ud83d\udc46\ud83c\udffcTo commemorate the anniversary of Op Sindoor,  Hon\u2019ble Raksha Mantri released a documentary film on operation sindoor add jaipur during the joint commanders conference.<br />\n<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=_7WPO21cIXA66_5G\">piped.video/jN3oEXUKbf4?si=_7WP\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <br />\n<a href=\"https://nitter.net/SethSanjayMP\" title=\"Sanjay Seth\">@SethSanjayMP</a> <br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/PIB_India\" title=\"PIB India\">@PIB_India</a> <br />\n<a href=\"https://nitter.net/PTI_News\" title=\"Press Trust of India\">@PTI_News</a> <br />\n<a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a> <br />\n<a href=\"https://nitter.net/ians_india\" title=\"IANS\">@ians_india</a></p>\n<img src=\"https://nitter.net/pic/cards%2Fplayer-placeholder.png\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/HQ_IDS_India/status/2052398864750264594#m\">https://nitter.net/HQ_IDS_India/status/2052398864750264594#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Lt Gen Rajiv Ghai makes it clear. Terror camps can shift locations, hide deeper inside PoJK, or move across the border. It changes nothing.\n\nNo launch pad.\nNo terror sanctuary.\nNo safe distance.\n\nIndia knows where they are, and India will strike when and how it chooses.\n\nANI",
-      "link": "https://nitter.net/OsintTV/status/2052400355355341038#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T20:19:11+05:30",
-      "time": "07 May, 08:19 PM",
-      "type": "tweets",
-      "content": "<p>Lt Gen Rajiv Ghai makes it clear. Terror camps can shift locations, hide deeper inside PoJK, or move across the border. It changes nothing.<br />\n<br />\nNo launch pad.<br />\nNo terror sanctuary.<br />\nNo safe distance.<br />\n<br />\nIndia knows where they are, and India will strike when and how it chooses.<br />\n<br />\nANI</p>\n<a href=\"https://nitter.net/OsintTV/status/2052400355355341038#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052400217857646596%2Fimg%2FLGr1n4u1fadFUwG7.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "During Operation Sindoor, the Indian Navy\u2019s swift force projection in the Arabian Sea including carrier strike assets, submarine deployments, and surface action groups compelled Pakistan\u2019s DGMO to seek a ceasefire as Karachi faced escalating maritime and strategic vulnerability.",
@@ -1216,7 +1268,7 @@
       "sort_key": "2026-05-07T20:13:15+05:30",
       "time": "07 May, 08:13 PM",
       "type": "tweets",
-      "content": "<p>\ud83d\udc46\ud83c\udffc\ud83d\udc46\ud83c\udffcTo commemorate the anniversary of Op Sindoor,  Hon\u2019ble Raksha Mantri released a documentary film on operation sindoor add jaipur during the joint commanders conference.<br />\n<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=_7WPO21cIXA66_5G\">piped.video/jN3oEXUKbf4?si=_7WP\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <br />\n<a href=\"https://nitter.net/SethSanjayMP\" title=\"Sanjay Seth\">@SethSanjayMP</a> <br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/PIB_India\" title=\"PIB India\">@PIB_India</a> <br />\n<a href=\"https://nitter.net/PTI_News\" title=\"Press Trust of India\">@PTI_News</a> <br />\n<a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a> <br />\n<a href=\"https://nitter.net/ians_india\" title=\"IANS\">@ians_india</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052385268846776320%2Ft50LaQ8J%3Fformat%3Djpg%26name%3D1200x627\" />",
+      "content": "<p>\ud83d\udc46\ud83c\udffc\ud83d\udc46\ud83c\udffcTo commemorate the anniversary of Op Sindoor,  Hon\u2019ble Raksha Mantri released a documentary film on operation sindoor add jaipur during the joint commanders conference.<br />\n<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=_7WPO21cIXA66_5G\">piped.video/jN3oEXUKbf4?si=_7WP\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <br />\n<a href=\"https://nitter.net/SethSanjayMP\" title=\"Sanjay Seth\">@SethSanjayMP</a> <br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/PIB_India\" title=\"PIB India\">@PIB_India</a> <br />\n<a href=\"https://nitter.net/PTI_News\" title=\"Press Trust of India\">@PTI_News</a> <br />\n<a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a> <br />\n<a href=\"https://nitter.net/ians_india\" title=\"IANS\">@ians_india</a></p>\n<img src=\"https://nitter.net/pic/cards%2Fplayer-placeholder.png\" />",
       "author": "@HQ_IDS_India"
     },
     {
@@ -1290,7 +1342,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "Grab your popcorn guys ......\n\nThe wait is over, here comes the complete official footage of Operation Sindoor, from May 7 to the mission conclusion....",
+      "title": "RT by @OsintTV: Grab your popcorn guys ......\n\nThe wait is over, here comes the complete official footage of Operation Sindoor, from May 7 to the mission conclusion....",
       "link": "https://nitter.net/OsintTV/status/2052391125151834512#m",
       "source": "Osint TV",
       "sort_key": "2026-05-07T19:42:30+05:30",
@@ -1306,7 +1358,7 @@
       "sort_key": "2026-05-07T19:41:48+05:30",
       "time": "07 May, 07:41 PM",
       "type": "tweets",
-      "content": "<p>\u26a1MoD releases an extremely detailed documentary film on Operation Sindoor highlighting powerful Indian response to \ud83c\uddf5\ud83c\uddf0 military -Terror Nexus.<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=uOUXP0rA4fWxQgOi\">piped.video/jN3oEXUKbf4?si=uOUX\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052385268846776320%2Ft50LaQ8J%3Fformat%3Djpg%26name%3D1200x627\" />",
+      "content": "<p>\u26a1MoD releases an extremely detailed documentary film on Operation Sindoor highlighting powerful Indian response to \ud83c\uddf5\ud83c\uddf0 military -Terror Nexus.<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=uOUXP0rA4fWxQgOi\">piped.video/jN3oEXUKbf4?si=uOUX\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052388082666938368%2F3Vv5jAmk%3Fformat%3Djpg%26name%3D800x320_1\" />",
       "author": "@Goreunit"
     },
     {
@@ -1326,7 +1378,7 @@
       "sort_key": "2026-05-07T19:36:26+05:30",
       "time": "07 May, 07:36 PM",
       "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/i/status/2052388785472885161\">nitter.net/i/status/2052388785472\u2026</a></p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Released on YouTube as well \ud83d\udc47<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=JIZamV7F6nblVjuf\">piped.video/jN3oEXUKbf4?si=JIZa\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052385268846776320%2Ft50LaQ8J%3Fformat%3Djpg%26name%3D1200x627\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2052388785472885161#m\">https://nitter.net/Goreunit/status/2052388785472885161#m</a>\n</footer>\n</blockquote>",
+      "content": "<p><a href=\"https://nitter.net/i/status/2052388785472885161\">nitter.net/i/status/2052388785472\u2026</a></p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Released on YouTube as well \ud83d\udc47<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=JIZamV7F6nblVjuf\">piped.video/jN3oEXUKbf4?si=JIZa\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052388082666938368%2F3Vv5jAmk%3Fformat%3Djpg%26name%3D800x320_1\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2052388785472885161#m\">https://nitter.net/Goreunit/status/2052388785472885161#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1336,7 +1388,7 @@
       "sort_key": "2026-05-07T19:33:12+05:30",
       "time": "07 May, 07:33 PM",
       "type": "tweets",
-      "content": "<p>Released on YouTube as well \ud83d\udc47<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=JIZamV7F6nblVjuf\">piped.video/jN3oEXUKbf4?si=JIZa\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052385268846776320%2Ft50LaQ8J%3Fformat%3Djpg%26name%3D1200x627\" />",
+      "content": "<p>Released on YouTube as well \ud83d\udc47<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=JIZamV7F6nblVjuf\">piped.video/jN3oEXUKbf4?si=JIZa\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052388082666938368%2F3Vv5jAmk%3Fformat%3Djpg%26name%3D800x320_1\" />",
       "author": "@Goreunit"
     },
     {
@@ -1378,6 +1430,16 @@
       "type": "tweets",
       "content": "<p>Just in: Indian military for the first time releases picture of damaged Pakistani radar. The picture is from Indian Military video released a short while ago on one year anniversary of Operation Sindoor.</p>\n<img src=\"https://nitter.net/pic/media%2FHHuHdBpbUAALFPZ.jpg\" />",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: #WIONDispatch | IAF addresses joint presser on 1st anniversary \n\nIAF video shows tri-services execute Operation Sindoor \n\n'India forgets nothing, India forgets nothing'\n\n@MollyGambhir brings you this report by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2052382225438765338#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T19:07:08+05:30",
+      "time": "07 May, 07:07 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONDispatch\">#WIONDispatch</a> | IAF addresses joint presser on 1st anniversary <br />\n<br />\nIAF video shows tri-services execute Operation Sindoor <br />\n<br />\n'India forgets nothing, India forgets nothing'<br />\n<br />\n<a href=\"https://nitter.net/MollyGambhir\" title=\"Molly Gambhir\">@MollyGambhir</a> brings you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2052382225438765338#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052376350280019968%2Fimg%2FR0xTH6n84ONvJWrs.jpg\" />\n</a>",
+      "author": "@WIONews"
     },
     {
       "title": "R to @sidhant: The Namaste Connect",
@@ -1430,7 +1492,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Lahori churan is back :\n\n2... 3... 4... 5... 6 ... jo karna hai karo. We will be most welcome......\ud83e\udd23",
+      "title": "RT by @OsintTV: Lahori churan is back :\n\n2... 3... 4... 5... 6 ... jo karna hai karo. We will be most welcome......\ud83e\udd23",
       "link": "https://nitter.net/OsintTV/status/2052373970607829302#m",
       "source": "Osint TV",
       "sort_key": "2026-05-07T18:34:20+05:30",
@@ -1510,16 +1572,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "On a question about the closure of the U.S. Consulate General in Peshawar on May 6, 2026, DG ISPR states that it was closed due to the safety and security of diplomatic personnel. \n\nThis is an open acknowledgment of the deteriorating security situation in Peshawar.",
-      "link": "https://nitter.net/OsintTV/status/2052353664614830535#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T17:13:39+05:30",
-      "time": "07 May, 05:13 PM",
-      "type": "tweets",
-      "content": "<p>On a question about the closure of the U.S. Consulate General in Peshawar on May 6, 2026, DG ISPR states that it was closed due to the safety and security of diplomatic personnel. <br />\n<br />\nThis is an open acknowledgment of the deteriorating security situation in Peshawar.</p>\n<a href=\"https://nitter.net/OsintTV/status/2052353664614830535#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052353055241150466%2Fimg%2F0oMn5FnJua9oiyzk.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "What a game \ud83e\udd23\ud83d\udc47\nhttps://playopsindoor.com/",
       "link": "https://nitter.net/Goreunit/status/2052352247942828133#m",
       "source": "War & Gore",
@@ -1538,16 +1590,6 @@
       "type": "tweets",
       "content": "<p>Paijaan's financial condition got  so much broken that now they survives on Op Sindoor destroyed target scrap.</p>\n<a href=\"https://nitter.net/Goreunit/status/2052350009795117218#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052349801195573248%2Fimg%2F-4Y4tHkJUmCtgTRi.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: \u0938\u0940\u092e\u093e \u092e\u0947\u0902 \u0918\u0941\u0938\u092a\u0948\u0920, BSF \u0928\u0947 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0928\u093e\u0917\u0930\u093f\u0915 \u0915\u094b \u092a\u0915\u0921\u093c\u093e\n\n\u0938\u0942\u092c\u0947 \u0915\u0947 \u0938\u0930\u0939\u0926\u0940 \u091c\u093f\u0932\u0947 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924-\u092a\u093e\u0915 \u0905\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u0940\u092e\u093e \u092a\u0930 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0928\u0947 \u090f\u0915 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0928\u093e\u0917\u0930\u093f\u0915 \u0915\u094b \u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0918\u0941\u0938\u092a\u0948\u0920 \u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u0917\u093f\u0930\u092b\u094d\u0924\u093e\u0930 \u0915\u093f\u092f\u093e \u0939\u0948\u0964 \u0938\u0940\u092e\u093e \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u092c\u0932 (BSF) \u0928\u0947 \u0938\u0930\u0942\u092a\u0947 \u0915\u093e \u0924\u0932\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u0938\u094d\u0925\u093f\u0924 \u0905\u0936\u094b\u0915\u093e \u092a\u094b\u0938\u094d\u091f \u0915\u0947 \u092a\u093e\u0938 \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u0917\u0924\u093f\u0935\u093f\u0927\u093f \u0915\u0940 \u0938\u0942\u091a\u0928\u093e \u092e\u093f\u0932\u0928\u0947 \u092a\u0930 \u0915\u093e\u0930\u094d\u0930\u0935\u093e\u0908 \u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u092e\u0940\u0920\u0940 \u0936\u0939\u0930 \u0928\u093f\u0935\u093e\u0938\u0940 \u0906\u0935\u0947\u0936 \u0916\u093e\u0902 \u0915\u094b \u092c\u093e\u0921\u093c\u092e\u0947\u0930 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0940\u092e\u093e \u0915\u0947 \u092d\u0940\u0924\u0930 \u0932\u0917\u092d\u0917 8 \u0915\u093f\u0932\u094b\u092e\u0940\u091f\u0930 \u0905\u0902\u0926\u0930 \u0938\u0947 \u0939\u093f\u0930\u093e\u0938\u0924 \u092e\u0947\u0902 \u0932\u093f\u092f\u093e\u0964 \u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915 \u092a\u0942\u091b\u0924\u093e\u091b \u0915\u0947 \u092c\u093e\u0926 \u0909\u0938\u0947 \u0925\u0928\u093e\u090a \u0925\u093e\u0928\u093e \u092a\u0941\u0932\u093f\u0938 \u0915\u0947 \u0939\u0935\u093e\u0932\u0947 \u0915\u0930 \u0926\u093f\u092f\u093e \u0917\u092f\u093e\u0964 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0938\u0940\u092e\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0928\u0947 \u0935\u094d\u092f\u093e\u092a\u0915 \u0924\u0932\u093e\u0936\u0940 \u0905\u092d\u093f\u092f\u093e\u0928 \u092d\u0940 \u091a\u0932\u093e\u092f\u093e, \u0939\u093e\u0932\u093e\u0902\u0915\u093f \u0905\u092c \u0924\u0915 \u0915\u094b\u0908 \u092e\u093e\u0926\u0915 \u092a\u0926\u093e\u0930\u094d\u0925, \u0939\u0925\u093f\u092f\u093e\u0930 \u092f\u093e \u0905\u0928\u094d\u092f \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u092c\u0930\u093e\u092e\u0926 \u0928\u0939\u0940\u0902 \u0939\u0941\u0908 \u0939\u0948\u0964\u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930, \u0938\u0940\u092e\u093e \u092a\u0930 \u0924\u0948\u0928\u093e\u0924 \u092c\u0940\u090f\u0938\u090f\u092b \u091c\u0935\u093e\u0928\u094b\u0902 \u0915\u094b \u0907\u0932\u093e\u0915\u0947 \u092e\u0947\u0902 \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u0939\u0932\u091a\u0932 \u0926\u093f\u0916\u093e\u0908 \u0926\u0940 \u0925\u0940\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u0924\u0924\u094d\u0915\u093e\u0932 \u0918\u0947\u0930\u093e\u092c\u0902\u0926\u0940 \u0915\u0930 \u0924\u0932\u093e\u0936\u0940 \u0905\u092d\u093f\u092f\u093e\u0928 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e\u0964 \u091c\u093e\u0902\u091a \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u090f\u0915 \u092f\u0941\u0935\u0915 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0940\u092e\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0918\u0942\u092e\u0924\u093e \u092e\u093f\u0932\u093e, \u091c\u093f\u0938\u0947 \u091c\u0935\u093e\u0928\u094b\u0902 \u0928\u0947 \u092a\u0915\u0921\u093c \u0932\u093f\u092f\u093e\u0964 \u092a\u0942\u091b\u0924\u093e\u091b \u092e\u0947\u0902 \u0909\u0938\u0915\u0940 \u092a\u0939\u091a\u093e\u0928 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u0938\u093f\u0902\u0927 \u092a\u094d\u0930\u093e\u0902\u0924 \u0915\u0947 \u092e\u0940\u0920\u0940 \u0936\u0939\u0930 \u0928\u093f\u0935\u093e\u0938\u0940 \u0906\u0935\u0947\u0936 \u0916\u093e\u0902 \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u0939\u0941\u0908\n\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0915\u094b \u0906\u0936\u0902\u0915\u093e \u0925\u0940 \u0915\u093f \u0918\u0941\u0938\u092a\u0948\u0920\u093f\u090f \u0915\u0947 \u092a\u093e\u0938 \u092e\u093e\u0926\u0915 \u092a\u0926\u093e\u0930\u094d\u0925, \u0938\u0902\u091a\u093e\u0930 \u0909\u092a\u0915\u0930\u0923 \u092f\u093e \u0905\u0928\u094d\u092f \u0905\u0935\u0948\u0927 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948\u0964 \u0907\u0938\u0940 \u0915\u093e\u0930\u0923 \u0938\u0940\u092e\u093e \u0938\u0947 \u0915\u0930\u0940\u092c 10 \u0915\u093f\u0932\u094b\u092e\u0940\u091f\u0930 \u0915\u0947 \u0926\u093e\u092f\u0930\u0947 \u092e\u0947\u0902 \u0938\u0918\u0928 \u0938\u0930\u094d\u091a \u0911\u092a\u0930\u0947\u0936\u0928 \u091a\u0932\u093e\u092f\u093e \u0917\u092f\u093e\u0964 \u0939\u093e\u0932\u093e\u0902\u0915\u093f \u0924\u0932\u093e\u0936\u0940 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0915\u093f\u0938\u0940 \u092a\u094d\u0930\u0915\u093e\u0930 \u0915\u093e \u0928\u0936\u0940\u0932\u093e \u092a\u0926\u093e\u0930\u094d\u0925, \u0939\u0925\u093f\u092f\u093e\u0930 \u092f\u093e \u0906\u092a\u0924\u094d\u0924\u093f\u091c\u0928\u0915 \u0935\u0938\u094d\u0924\u0941 \u092c\u0930\u093e\u092e\u0926 \u0928\u0939\u0940\u0902 \u0939\u0941\u0908\u0964\n\u0918\u0928\u093e\u090a \u0925\u093e\u0928\u093e \u092a\u0941\u0932\u093f\u0938 \u0928\u0947 \u0906\u0930\u094b\u092a\u0940 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0905\u0935\u0948\u0927 \u0930\u0942\u092a \u0938\u0947 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0940\u092e\u093e \u092e\u0947\u0902 \u092a\u094d\u0930\u0935\u0947\u0936 \u0915\u0930\u0928\u0947 \u0915\u093e \u092e\u093e\u092e\u0932\u093e \u0926\u0930\u094d\u091c \u0915\u0930 \u091c\u093e\u0902\u091a \u0936\u0941\u0930\u0942 \u0915\u0930 \u0926\u0940 \u0939\u0948\u0964 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u093e\u0902 \u092f\u0939 \u092a\u0924\u093e \u0932\u0917\u093e\u0928\u0947 \u092e\u0947\u0902 \u091c\u0941\u091f\u0940 \u0939\u0948\u0902 \u0915\u093f \u0935\u0939 \u091c\u093e\u0928\u092c\u0942\u091d\u0915\u0930 \u0918\u0941\u0938\u092a\u0948\u0920 \u0915\u0930\u0928\u0947 \u0906\u092f\u093e \u0925\u093e \u092f\u093e \u092b\u093f\u0930 \u0905\u0928\u091c\u093e\u0928\u0947 \u092e\u0947\u0902 \u0938\u0940\u092e\u093e \u092a\u093e\u0930 \u0915\u0930 \u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u092a\u0939\u0941\u0902\u091a \u0917\u092f\u093e\u0964 \u092e\u093e\u092e\u0932\u0947 \u0915\u094b \u0932\u0947\u0915\u0930 \u0916\u0941\u092b\u093f\u092f\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u093e\u0902 \u092d\u0940 \u0938\u0915\u094d\u0930\u093f\u092f \u0939\u094b \u0917\u0908 \u0939\u0948\u0902 \u0914\u0930 \u0909\u0938\u0938\u0947 \u0917\u0939\u0928 \u092a\u0942\u091b\u0924\u093e\u091b \u0915\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948\u0964 \u0938\u0940\u092e\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0939\u093e\u0932 \u0915\u0947 \u0938\u092e\u092f \u092e\u0947\u0902 \u092c\u0922\u093c\u0940 \u0938\u0924\u0930\u094d\u0915\u0924\u093e \u0915\u0947 \u092c\u0940\u091a \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0926\u0943\u0937\u094d\u091f\u093f \u0938\u0947 \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u092c\u0940\u090f\u0938\u090f\u092b \u0914\u0930 \u0938\u094d\u0925\u093e\u0928\u0940\u092f \u092a\u0941\u0932\u093f\u0938 \u092a\u0942\u0930\u0947 \u092e\u093e\u092e\u0932\u0947 \u0915\u0940 \u0939\u0930 \u092a\u0939\u0932\u0942 \u0938\u0947 \u091c\u093e\u0902\u091a \u0915\u0930 \u0930\u0939\u0940 \u0939\u0948\u0964",
-      "link": "https://nitter.net/DefenceSahil/status/2052344313418588308#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T16:36:29+05:30",
-      "time": "07 May, 04:36 PM",
-      "type": "tweets",
-      "content": "<p>\u0938\u0940\u092e\u093e \u092e\u0947\u0902 \u0918\u0941\u0938\u092a\u0948\u0920, BSF \u0928\u0947 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0928\u093e\u0917\u0930\u093f\u0915 \u0915\u094b \u092a\u0915\u0921\u093c\u093e<br />\n<br />\n\u0938\u0942\u092c\u0947 \u0915\u0947 \u0938\u0930\u0939\u0926\u0940 \u091c\u093f\u0932\u0947 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924-\u092a\u093e\u0915 \u0905\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u0940\u092e\u093e \u092a\u0930 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0928\u0947 \u090f\u0915 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0928\u093e\u0917\u0930\u093f\u0915 \u0915\u094b \u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0918\u0941\u0938\u092a\u0948\u0920 \u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u0917\u093f\u0930\u092b\u094d\u0924\u093e\u0930 \u0915\u093f\u092f\u093e \u0939\u0948\u0964 \u0938\u0940\u092e\u093e \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u092c\u0932 (BSF) \u0928\u0947 \u0938\u0930\u0942\u092a\u0947 \u0915\u093e \u0924\u0932\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u0938\u094d\u0925\u093f\u0924 \u0905\u0936\u094b\u0915\u093e \u092a\u094b\u0938\u094d\u091f \u0915\u0947 \u092a\u093e\u0938 \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u0917\u0924\u093f\u0935\u093f\u0927\u093f \u0915\u0940 \u0938\u0942\u091a\u0928\u093e \u092e\u093f\u0932\u0928\u0947 \u092a\u0930 \u0915\u093e\u0930\u094d\u0930\u0935\u093e\u0908 \u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u092e\u0940\u0920\u0940 \u0936\u0939\u0930 \u0928\u093f\u0935\u093e\u0938\u0940 \u0906\u0935\u0947\u0936 \u0916\u093e\u0902 \u0915\u094b \u092c\u093e\u0921\u093c\u092e\u0947\u0930 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0940\u092e\u093e \u0915\u0947 \u092d\u0940\u0924\u0930 \u0932\u0917\u092d\u0917 8 \u0915\u093f\u0932\u094b\u092e\u0940\u091f\u0930 \u0905\u0902\u0926\u0930 \u0938\u0947 \u0939\u093f\u0930\u093e\u0938\u0924 \u092e\u0947\u0902 \u0932\u093f\u092f\u093e\u0964 \u092a\u094d\u0930\u093e\u0930\u0902\u092d\u093f\u0915 \u092a\u0942\u091b\u0924\u093e\u091b \u0915\u0947 \u092c\u093e\u0926 \u0909\u0938\u0947 \u0925\u0928\u093e\u090a \u0925\u093e\u0928\u093e \u092a\u0941\u0932\u093f\u0938 \u0915\u0947 \u0939\u0935\u093e\u0932\u0947 \u0915\u0930 \u0926\u093f\u092f\u093e \u0917\u092f\u093e\u0964 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0938\u0940\u092e\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0928\u0947 \u0935\u094d\u092f\u093e\u092a\u0915 \u0924\u0932\u093e\u0936\u0940 \u0905\u092d\u093f\u092f\u093e\u0928 \u092d\u0940 \u091a\u0932\u093e\u092f\u093e, \u0939\u093e\u0932\u093e\u0902\u0915\u093f \u0905\u092c \u0924\u0915 \u0915\u094b\u0908 \u092e\u093e\u0926\u0915 \u092a\u0926\u093e\u0930\u094d\u0925, \u0939\u0925\u093f\u092f\u093e\u0930 \u092f\u093e \u0905\u0928\u094d\u092f \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u092c\u0930\u093e\u092e\u0926 \u0928\u0939\u0940\u0902 \u0939\u0941\u0908 \u0939\u0948\u0964\u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930, \u0938\u0940\u092e\u093e \u092a\u0930 \u0924\u0948\u0928\u093e\u0924 \u092c\u0940\u090f\u0938\u090f\u092b \u091c\u0935\u093e\u0928\u094b\u0902 \u0915\u094b \u0907\u0932\u093e\u0915\u0947 \u092e\u0947\u0902 \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u0939\u0932\u091a\u0932 \u0926\u093f\u0916\u093e\u0908 \u0926\u0940 \u0925\u0940\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u0924\u0924\u094d\u0915\u093e\u0932 \u0918\u0947\u0930\u093e\u092c\u0902\u0926\u0940 \u0915\u0930 \u0924\u0932\u093e\u0936\u0940 \u0905\u092d\u093f\u092f\u093e\u0928 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e\u0964 \u091c\u093e\u0902\u091a \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u090f\u0915 \u092f\u0941\u0935\u0915 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0940\u092e\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0918\u0942\u092e\u0924\u093e \u092e\u093f\u0932\u093e, \u091c\u093f\u0938\u0947 \u091c\u0935\u093e\u0928\u094b\u0902 \u0928\u0947 \u092a\u0915\u0921\u093c \u0932\u093f\u092f\u093e\u0964 \u092a\u0942\u091b\u0924\u093e\u091b \u092e\u0947\u0902 \u0909\u0938\u0915\u0940 \u092a\u0939\u091a\u093e\u0928 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0915\u0947 \u0938\u093f\u0902\u0927 \u092a\u094d\u0930\u093e\u0902\u0924 \u0915\u0947 \u092e\u0940\u0920\u0940 \u0936\u0939\u0930 \u0928\u093f\u0935\u093e\u0938\u0940 \u0906\u0935\u0947\u0936 \u0916\u093e\u0902 \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u0939\u0941\u0908<br />\n\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0915\u094b \u0906\u0936\u0902\u0915\u093e \u0925\u0940 \u0915\u093f \u0918\u0941\u0938\u092a\u0948\u0920\u093f\u090f \u0915\u0947 \u092a\u093e\u0938 \u092e\u093e\u0926\u0915 \u092a\u0926\u093e\u0930\u094d\u0925, \u0938\u0902\u091a\u093e\u0930 \u0909\u092a\u0915\u0930\u0923 \u092f\u093e \u0905\u0928\u094d\u092f \u0905\u0935\u0948\u0927 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948\u0964 \u0907\u0938\u0940 \u0915\u093e\u0930\u0923 \u0938\u0940\u092e\u093e \u0938\u0947 \u0915\u0930\u0940\u092c 10 \u0915\u093f\u0932\u094b\u092e\u0940\u091f\u0930 \u0915\u0947 \u0926\u093e\u092f\u0930\u0947 \u092e\u0947\u0902 \u0938\u0918\u0928 \u0938\u0930\u094d\u091a \u0911\u092a\u0930\u0947\u0936\u0928 \u091a\u0932\u093e\u092f\u093e \u0917\u092f\u093e\u0964 \u0939\u093e\u0932\u093e\u0902\u0915\u093f \u0924\u0932\u093e\u0936\u0940 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0915\u093f\u0938\u0940 \u092a\u094d\u0930\u0915\u093e\u0930 \u0915\u093e \u0928\u0936\u0940\u0932\u093e \u092a\u0926\u093e\u0930\u094d\u0925, \u0939\u0925\u093f\u092f\u093e\u0930 \u092f\u093e \u0906\u092a\u0924\u094d\u0924\u093f\u091c\u0928\u0915 \u0935\u0938\u094d\u0924\u0941 \u092c\u0930\u093e\u092e\u0926 \u0928\u0939\u0940\u0902 \u0939\u0941\u0908\u0964<br />\n\u0918\u0928\u093e\u090a \u0925\u093e\u0928\u093e \u092a\u0941\u0932\u093f\u0938 \u0928\u0947 \u0906\u0930\u094b\u092a\u0940 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0905\u0935\u0948\u0927 \u0930\u0942\u092a \u0938\u0947 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0940\u092e\u093e \u092e\u0947\u0902 \u092a\u094d\u0930\u0935\u0947\u0936 \u0915\u0930\u0928\u0947 \u0915\u093e \u092e\u093e\u092e\u0932\u093e \u0926\u0930\u094d\u091c \u0915\u0930 \u091c\u093e\u0902\u091a \u0936\u0941\u0930\u0942 \u0915\u0930 \u0926\u0940 \u0939\u0948\u0964 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u093e\u0902 \u092f\u0939 \u092a\u0924\u093e \u0932\u0917\u093e\u0928\u0947 \u092e\u0947\u0902 \u091c\u0941\u091f\u0940 \u0939\u0948\u0902 \u0915\u093f \u0935\u0939 \u091c\u093e\u0928\u092c\u0942\u091d\u0915\u0930 \u0918\u0941\u0938\u092a\u0948\u0920 \u0915\u0930\u0928\u0947 \u0906\u092f\u093e \u0925\u093e \u092f\u093e \u092b\u093f\u0930 \u0905\u0928\u091c\u093e\u0928\u0947 \u092e\u0947\u0902 \u0938\u0940\u092e\u093e \u092a\u093e\u0930 \u0915\u0930 \u092d\u093e\u0930\u0924\u0940\u092f \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u092a\u0939\u0941\u0902\u091a \u0917\u092f\u093e\u0964 \u092e\u093e\u092e\u0932\u0947 \u0915\u094b \u0932\u0947\u0915\u0930 \u0916\u0941\u092b\u093f\u092f\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u093e\u0902 \u092d\u0940 \u0938\u0915\u094d\u0930\u093f\u092f \u0939\u094b \u0917\u0908 \u0939\u0948\u0902 \u0914\u0930 \u0909\u0938\u0938\u0947 \u0917\u0939\u0928 \u092a\u0942\u091b\u0924\u093e\u091b \u0915\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948\u0964 \u0938\u0940\u092e\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u0939\u093e\u0932 \u0915\u0947 \u0938\u092e\u092f \u092e\u0947\u0902 \u092c\u0922\u093c\u0940 \u0938\u0924\u0930\u094d\u0915\u0924\u093e \u0915\u0947 \u092c\u0940\u091a \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0926\u0943\u0937\u094d\u091f\u093f \u0938\u0947 \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u092c\u0940\u090f\u0938\u090f\u092b \u0914\u0930 \u0938\u094d\u0925\u093e\u0928\u0940\u092f \u092a\u0941\u0932\u093f\u0938 \u092a\u0942\u0930\u0947 \u092e\u093e\u092e\u0932\u0947 \u0915\u0940 \u0939\u0930 \u092a\u0939\u0932\u0942 \u0938\u0947 \u091c\u093e\u0902\u091a \u0915\u0930 \u0930\u0939\u0940 \u0939\u0948\u0964</p>\n<img src=\"https://nitter.net/pic/media%2FHHtkRfKb0AAHpWz.jpg\" />",
-      "author": "@DefenceSahil"
     },
     {
       "title": "Shifting terror camps and launch pads deeper inside will not protect them.\n\nIndian Army will track them down wherever they hide.",
@@ -1570,56 +1612,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "11 Indian ships passed hormuz says MEA Spox Randhir Jaiswal",
-      "link": "https://nitter.net/sidhant/status/2052341052984729818#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T16:23:32+05:30",
-      "time": "07 May, 04:23 PM",
-      "type": "tweets",
-      "content": "<p>11 Indian ships passed hormuz says MEA Spox Randhir Jaiswal</p>\n<a href=\"https://nitter.net/sidhant/status/2052341052984729818#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052341004687335424%2Fpu%2Fimg%2FFegPJ1VHhBib8tnn.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Will fullfill Nepal's fertilizer needs, says MEA Spox Randhir Jaiswal",
-      "link": "https://nitter.net/sidhant/status/2052340615468429386#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T16:21:48+05:30",
-      "time": "07 May, 04:21 PM",
-      "type": "tweets",
-      "content": "<p>Will fullfill Nepal's fertilizer needs, says MEA Spox Randhir Jaiswal</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "The Higher Element of Surprise is very important, I cannot share with you : Vice Admiral AN Pramod\n\n\u200b\"When, how, and where of a military operation is a higher element of surprise is important in any kind of an [military] operation. So, I cannot today decide that, and because an adversary will be prepared for it. So, that is a very, very important factor. So, I cannot share with you and say that this is my plan. A plan is decided much in advance and...\"",
-      "link": "https://nitter.net/OsintTV/status/2052340602998534655#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T16:21:45+05:30",
-      "time": "07 May, 04:21 PM",
-      "type": "tweets",
-      "content": "<p>The Higher Element of Surprise is very important, I cannot share with you : Vice Admiral AN Pramod<br />\n<br />\n\u200b\"When, how, and where of a military operation is a higher element of surprise is important in any kind of an [military] operation. So, I cannot today decide that, and because an adversary will be prepared for it. So, that is a very, very important factor. So, I cannot share with you and say that this is my plan. A plan is decided much in advance and...\"</p>\n<a href=\"https://nitter.net/OsintTV/status/2052340602998534655#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052339761969270786%2Fimg%2FBUo36YJX2wSX3n5E.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "R to @sidhant: \"Bangladesh and India share 54 rivers. We have structured bilateral mechanisms to discuss all water related issues which continue to meet at regular intervals\"",
-      "link": "https://nitter.net/sidhant/status/2052340461210403107#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T16:21:11+05:30",
-      "time": "07 May, 04:21 PM",
-      "type": "tweets",
-      "content": "<p>\"Bangladesh and India share 54 rivers. We have structured bilateral mechanisms to discuss all water related issues which continue to meet at regular intervals\"</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: India's Khalistani concern\n\n\"India has consistently spoken out about concerns regarding the use of Canadian territory as a safe haven by extremist and separatist elements. The CSIS assessment acknowledges the presence of supporters of the Khalistan separatist movement in Canada and notes that Canada-based Khalistani extremist (CBKE) groups continue to pose a national security threat not only to India but also to Canada. It further highlights that such elements misuse democratic freedoms and institutions to promote extremism and raise funds that are diverted towards violent activities.\n\nIndia has repeatedly urged the Canadian Government to take effective action against anti-India extremist elements operating from its soil. This includes addressing the issue of glorification of violence, threats against Indian leaders and diplomats, vandalism of places of worship, and attempts to promote secessionism through so-called \u201creferendums.\u201d\"",
-      "link": "https://nitter.net/sidhant/status/2052340300035883236#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T16:20:32+05:30",
-      "time": "07 May, 04:20 PM",
-      "type": "tweets",
-      "content": "<p>India's Khalistani concern<br />\n<br />\n\"India has consistently spoken out about concerns regarding the use of Canadian territory as a safe haven by extremist and separatist elements. The CSIS assessment acknowledges the presence of supporters of the Khalistan separatist movement in Canada and notes that Canada-based Khalistani extremist (CBKE) groups continue to pose a national security threat not only to India but also to Canada. It further highlights that such elements misuse democratic freedoms and institutions to promote extremism and raise funds that are diverted towards violent activities.<br />\n<br />\nIndia has repeatedly urged the Canadian Government to take effective action against anti-India extremist elements operating from its soil. This includes addressing the issue of glorification of violence, threats against Indian leaders and diplomats, vandalism of places of worship, and attempts to promote secessionism through so-called \u201creferendums.\u201d\"</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Akhilesh Yadav reaches residence Mamata Banerjee to meet her, says \"You haven't lost\"\n\nMamata Banerjee replies \"Yes We have not lost... I haven't Lost\"",
       "link": "https://nitter.net/WarMonitorINTL/status/2052340264665288766#m",
       "source": "War Monitor",
@@ -1628,26 +1620,6 @@
       "type": "tweets",
       "content": "<p>Akhilesh Yadav reaches residence Mamata Banerjee to meet her, says \"You haven't lost\"<br />\n<br />\nMamata Banerjee replies \"Yes We have not lost... I haven't Lost\"</p>\n<a href=\"https://nitter.net/WarMonitorINTL/status/2052340264665288766#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052338892687462400%2Fpu%2Fimg%2FixkQfwCb7UUMeuZB.jpg\" />\n</a>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "R to @sidhant: \"India\u2019s position on this issue has been clear and consistent. We categorically reject such baseless imputations.  India is a democracy that adheres to international norms and respects the sovereignty of other nations. It is not our policy to interfere in issues of other countries. We believe that any concerns of this nature should be addressed through established mechanisms, rather than through public or politicised narratives\"",
-      "link": "https://nitter.net/sidhant/status/2052340068002771447#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T16:19:37+05:30",
-      "time": "07 May, 04:19 PM",
-      "type": "tweets",
-      "content": "<p>\"India\u2019s position on this issue has been clear and consistent. We categorically reject such baseless imputations.  India is a democracy that adheres to international norms and respects the sovereignty of other nations. It is not our policy to interfere in issues of other countries. We believe that any concerns of this nature should be addressed through established mechanisms, rather than through public or politicised narratives\"</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: \"We are marking the first anniversary of Op Sindoor today. The entire world saw the Pahalgam terrorist attack for what it was. We gave a befitting reply to Pakistan for its sponsorship of cross-border terrorism. The world knows that cross-border terrorism has long been an instrument of state policy for Pakistan. We in India have every right to defend ourselves against terrorism. We will continue to work to strengthen the global fight against terrorism.\"",
-      "link": "https://nitter.net/sidhant/status/2052339907532898321#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T16:18:59+05:30",
-      "time": "07 May, 04:18 PM",
-      "type": "tweets",
-      "content": "<p>\"We are marking the first anniversary of Op Sindoor today. The entire world saw the Pahalgam terrorist attack for what it was. We gave a befitting reply to Pakistan for its sponsorship of cross-border terrorism. The world knows that cross-border terrorism has long been an instrument of state policy for Pakistan. We in India have every right to defend ourselves against terrorism. We will continue to work to strengthen the global fight against terrorism.\"</p>",
-      "author": "@sidhant"
     },
     {
       "title": "India urges Bangladesh to cooperate on the repatriation of illegal migrants and seeks verification of their nationality.",
@@ -1710,14 +1682,14 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "Soon expecting the classic reaction from the other side:\n\n\u201cEk baar maza na diya na, toh paise waapas.\u201d \ud83d\ude2d\ud83e\udd23",
-      "link": "https://nitter.net/OsintTV/status/2052331819077398711#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T15:46:50+05:30",
-      "time": "07 May, 03:46 PM",
+      "title": "RT by @sidhant: IAF addresses joint presser on 1st anniversary \n\nIAF video shows tri-services execute Operation Sindoor \n\n'India forgets nothing, India forgets nothing'\n\n@Rhythmsharmax brings you this report by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2052333690928419121#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T15:54:17+05:30",
+      "time": "07 May, 03:54 PM",
       "type": "tweets",
-      "content": "<p>Soon expecting the classic reaction from the other side:<br />\n<br />\n\u201cEk baar maza na diya na, toh paise waapas.\u201d \ud83d\ude2d\ud83e\udd23</p>\n<a href=\"https://nitter.net/OsintTV/status/2052331819077398711#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052331693546012676%2Fimg%2F2_iO6phtJaj3Whw3.jpg\" />\n</a>",
-      "author": "@OsintTV"
+      "content": "<p>IAF addresses joint presser on 1st anniversary <br />\n<br />\nIAF video shows tri-services execute Operation Sindoor <br />\n<br />\n'India forgets nothing, India forgets nothing'<br />\n<br />\n<a href=\"https://nitter.net/Rhythmsharmax\" title=\"Rhythm Sharma\">@Rhythmsharmax</a> brings you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2052333690928419121#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052331189386825728%2Fimg%2FPcP2DiCHDR01-3ZA.jpg\" />\n</a>",
+      "author": "@WIONews"
     },
     {
       "title": "We won't accept any kind of mediation between INDIA and PAKISTAN\n\n- Lt Gen Rajiv Ghai",
@@ -1728,56 +1700,6 @@
       "type": "tweets",
       "content": "<p>We won't accept any kind of mediation between INDIA and PAKISTAN<br />\n<br />\n- Lt Gen Rajiv Ghai</p>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n..\ud83d\ude4f....",
-      "link": "https://nitter.net/OsintTV/status/2052329345356644731#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T15:37:01+05:30",
-      "time": "07 May, 03:37 PM",
-      "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n..\ud83d\ude4f....</p>\n<img src=\"https://nitter.net/pic/card_img%2F2052235989566074880%2FpKYXtbrq%3Fformat%3Djpg%26name%3D420x420_2\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n..\ud83d\ude4f....",
-      "link": "https://nitter.net/OsintTV/status/2052329288066601256#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T15:36:47+05:30",
-      "time": "07 May, 03:36 PM",
-      "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n..\ud83d\ude4f....</p>\n<img src=\"https://nitter.net/pic/card_img%2F2052235989566074880%2FpKYXtbrq%3Fformat%3Djpg%26name%3D420x420_2\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n..\ud83d\ude4f..",
-      "link": "https://nitter.net/OsintTV/status/2052329252570149236#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T15:36:38+05:30",
-      "time": "07 May, 03:36 PM",
-      "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n..\ud83d\ude4f..</p>\n<img src=\"https://nitter.net/pic/card_img%2F2052235989566074880%2FpKYXtbrq%3Fformat%3Djpg%26name%3D420x420_2\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "A year ago, OsintTV was the first to report on Abdul Rauf leading funeral prayers alongside a senior Pakistani Army officer.\n\nAfter that, everyone aware how viral those pictures went, and who all used them across different platforms to expose and embarrass the Paijaans....",
-      "link": "https://nitter.net/OsintTV/status/2052327188444147782#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T15:28:26+05:30",
-      "time": "07 May, 03:28 PM",
-      "type": "tweets",
-      "content": "<p>A year ago, OsintTV was the first to report on Abdul Rauf leading funeral prayers alongside a senior Pakistani Army officer.<br />\n<br />\nAfter that, everyone aware how viral those pictures went, and who all used them across different platforms to expose and embarrass the Paijaans....</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>Scenes from funeral taking place Lashkar 's HQ in Muridke <br />\n<br />\nPak army joined the funeral with Lashkar-E-Tayyaba commander Abdul Rauf</p>\n<img src=\"https://nitter.net/pic/media%2FGqVjBRcakAAt4fV.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FGqVjCkSacAA_WIO.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/1920049723550880021#m\">https://nitter.net/OsintTV/status/1920049723550880021#m</a>\n</footer>\n</blockquote>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Here is the update on Kusha Long range Air Defence System ...\n\n\"As far as Kusha is concerned, yes, it is still a work in progress. We are looking at it seriously and trying to expedite it. Maybe in another 3 to 5 years. And additional units coming from abroad... I would not like to put a timeframe on it at this instant. It's a work in progress.\" : Air Marshal Awadhesh Kumar Bharati\n\nReceiving all the videos from the ground through a good friend. Thank you \ud83d\ude4f",
-      "link": "https://nitter.net/OsintTV/status/2052325487603507526#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T15:21:41+05:30",
-      "time": "07 May, 03:21 PM",
-      "type": "tweets",
-      "content": "<p>Here is the update on Kusha Long range Air Defence System ...<br />\n<br />\n\"As far as Kusha is concerned, yes, it is still a work in progress. We are looking at it seriously and trying to expedite it. Maybe in another 3 to 5 years. And additional units coming from abroad... I would not like to put a timeframe on it at this instant. It's a work in progress.\" : Air Marshal Awadhesh Kumar Bharati<br />\n<br />\nReceiving all the videos from the ground through a good friend. Thank you \ud83d\ude4f</p>\n<a href=\"https://nitter.net/OsintTV/status/2052325487603507526#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052325380124516354%2Fimg%2FOy7vratgRCo9iqMO.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "Air Marshal Bharti just gave a tight slap to those who accuse the forces of not supporting Atmanirbharta.\n\nIndian Armed Forces stats on indigenous tech :\n\n- Indigenous tech bought by armed forces in the last FY: 1.27 Lakh crore\n\n-  Indigenous tech exported in the last FY: 24 thousand crore\n\n- Target figure to achieve by 2029, indigenous tech to be bought : 3 Lakh crore.\n\n- Targeted Indigenous tech exports: 50 thousand crores.\n\nWe keep evaluating our needs, and we keep ourselves ready for the challenges without any compromise.",
@@ -2060,16 +1982,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "\u201cDon\u2019t Resign, Declare War On Delhi\u201d: Bangladeshi Jamaat Leader\u2019",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052299651429302515#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T13:39:01+05:30",
-      "time": "07 May, 01:39 PM",
-      "type": "tweets",
-      "content": "<p>\u201cDon\u2019t Resign, Declare War On Delhi\u201d: Bangladeshi Jamaat Leader\u2019</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "Air Marshal Bharti said we destroyed 13 PAF aircraft!\n\nThat's the confirmation we all were waiting for!",
       "link": "https://nitter.net/elitepredatorss/status/2052299470260588968#m",
       "source": "Elite Predators",
@@ -2138,6 +2050,16 @@
       "type": "tweets",
       "content": "<p>Sirf hungama khada karna mera maksad nhi, meri koshish hai ki ye surat badalni chahiye\ud83d\uddff</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2052292245592895641#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052292198688063488%2Fimg%2F4gkOx9-oPnn--sR4.jpg\" />\n</a>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @OsintTV: Request to all subscribers: Please do not subscribe to this fake OsintTV telegram channel. It is a scam channel created to mislead and deceive people.\n\nOur telegram channel link\ud83d\udc47\n\nhttps://t.me/OsntTV\n\n...",
+      "link": "https://nitter.net/OsintTV/status/2052291138116022496#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T13:05:11+05:30",
+      "time": "07 May, 01:05 PM",
+      "type": "tweets",
+      "content": "<p>Request to all subscribers: Please do not subscribe to this fake OsintTV telegram channel. It is a scam channel created to mislead and deceive people.<br />\n<br />\nOur telegram channel link\ud83d\udc47<br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n...</p>\n<img src=\"https://nitter.net/pic/media%2FHHszkk4WsAIskoy.jpg\" />",
+      "author": "@OsintTV"
     },
     {
       "title": "Army smoking Pakistani Forward Post During Operation Sindoor.",
@@ -2230,6 +2152,26 @@
       "author": "@Goreunit"
     },
     {
+      "title": "RT by @OsintTV: Important Thread \ud83e\uddf5-1\n\nFaces Of The Top Jaish Terrorists Eliminated in Operation Sindoor\n\nOperation Sindoor delivered a decisive blow to Jaish-e-Mohammed, eliminating the IC 814 hijacker and other high value targets. Most of those killed were close relatives of Masood Azhar.\n\nOn this special day, this post is dedicated to our brave Indian armed forces who struck at the very nerve of terror on May 7, 2025",
+      "link": "https://nitter.net/OsintTV/status/2052237667622879601#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T09:32:43+05:30",
+      "time": "07 May, 09:32 AM",
+      "type": "tweets",
+      "content": "<p>Important Thread \ud83e\uddf5-1<br />\n<br />\nFaces Of The Top Jaish Terrorists Eliminated in Operation Sindoor<br />\n<br />\nOperation Sindoor delivered a decisive blow to Jaish-e-Mohammed, eliminating the IC 814 hijacker and other high value targets. Most of those killed were close relatives of Masood Azhar.<br />\n<br />\nOn this special day, this post is dedicated to our brave Indian armed forces who struck at the very nerve of terror on May 7, 2025</p>\n<img src=\"https://nitter.net/pic/media%2FHHsB10YXQAAE2G3.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "RT by @OsintTV: Internet will forget everything. But never the memes...\ud83d\ude2d\ud83e\udd23\n\n#OpSindoor",
+      "link": "https://nitter.net/OsintTV/status/2052232520687620595#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T09:12:16+05:30",
+      "time": "07 May, 09:12 AM",
+      "type": "tweets",
+      "content": "<p>Internet will forget everything. But never the memes...\ud83d\ude2d\ud83e\udd23<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23OpSindoor\">#OpSindoor</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHr-lUTW0AMNnFX.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
       "title": "Reports suggest the U.S. and Iran are discussing a 14-point framework to end the conflict.\n\nKey provisions include:\n\u2022 Temporary halt to Iranian uranium enrichment\n\u2022 Gradual U.S. sanctions relief\n\u2022 Release of frozen Iranian funds\n\u2022 Reopening of the Strait of Hormu\n\u2022 Expanded UN nuclear inspections",
       "link": "https://nitter.net/NetramDefence/status/2052224864799662334#m",
       "source": "Netram Defense",
@@ -2238,6 +2180,16 @@
       "type": "tweets",
       "content": "<p>Reports suggest the U.S. and Iran are discussing a 14-point framework to end the conflict.<br />\n<br />\nKey provisions include:<br />\n\u2022 Temporary halt to Iranian uranium enrichment<br />\n\u2022 Gradual U.S. sanctions relief<br />\n\u2022 Release of frozen Iranian funds<br />\n\u2022 Reopening of the Strait of Hormu<br />\n\u2022 Expanded UN nuclear inspections</p>\n<img src=\"https://nitter.net/pic/media%2FHHr3lBHaEAAwIvf.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "RT by @OsintTV: 22 minutes of 7.5.2025 in 75 seconds.... \ud83d\udd25\n\n\ud83d\udcf8  @shivank_8mishra",
+      "link": "https://nitter.net/OsintTV/status/2052214334080667782#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T08:00:00+05:30",
+      "time": "07 May, 08:00 AM",
+      "type": "tweets",
+      "content": "<p>22 minutes of 7.5.2025 in 75 seconds.... \ud83d\udd25<br />\n<br />\n\ud83d\udcf8  <a href=\"https://nitter.net/shivank_8mishra\" title=\"Shivank Mishra\">@shivank_8mishra</a></p>\n<a href=\"https://nitter.net/OsintTV/status/2052214334080667782#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052117799238066176%2Fimg%2FmG4dLIqisescht6k.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "Daily US-Israel-Iran War Brief: \n6th May 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf French shipping group CMA CGM reported that its vessel SAN ANTONIO was attacked while transiting Strait of Hormuz, resulting in injuries among crew members and damage to the vessel.\n\n\u25cf Trump paused Project Freedom just two days after its launch. He cited progress toward a US-Iran deal. The US blockade on Iranian ports remains in place.\n\n\u25cf Foreign Minister Araghchi is in Beijing seeking China\u2019s backing for Iran\u2019s new diplomatic framework, reportedly to help prevent the US-Bahrain UN resolution from advancing.\n\n\u25cf The IRGC Navy suggested that safe passage through the Strait of Hormuz could soon be restored under \"new procedures\". However, the US naval blockade on Iranian-linked vessels remains in full effect.\n\n\u25cf Trump has conditioned the reopening of the Strait of Hormuz on Iran accepting US terms, maintaining the blockade of Iranian ports following Operation Epic Fury. He warned that if Iran does not agree to terms soon, the US will launch intense bombing campaigns.\n\n\u25cf PM Netanyahu stated that Israel is not bound by any US-Iran diplomatic pause, following Hezbollah strikes in the Bekaa Valley.\n\n\u25cf CENTCOM reported that 52 commercial vessels have been directed to turn around or return to port in order to comply with the ongoing US blockade.\n\nEND OF THE BRIEF",
@@ -2332,6 +2284,15 @@
   ],
   "youtube": [
     {
+      "title": "Pakistan Ka Naya \u201cUrban Air Defence\u201d Plan EXPOSED!,J-35 Export Problem,China Ka Bada U-Turn?",
+      "link": "https://www.youtube.com/watch?v=uq4EL9N3TFE",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-07T22:00:22+05:30",
+      "time": "07 May, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/uq4EL9N3TFE/mqdefault.jpg"
+    },
+    {
       "title": "Operation Sindoor: Total Domination Explained",
       "link": "https://www.youtube.com/watch?v=vATMMhvso58",
       "source": "Defense Squad",
@@ -2411,27 +2372,9 @@
       "time": "05 May, 10:57 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/fInOQfXo23I/mqdefault.jpg"
-    },
-    {
-      "title": "India\u2019s BIG Defence Shift! Astra Export, Ballistic Missile Change & Secret Missile Test Exposed!",
-      "link": "https://www.youtube.com/watch?v=9lep8l-7yoA",
-      "source": "Indian Defense News",
-      "sort_key": "2026-05-05T22:00:01+05:30",
-      "time": "05 May, 10:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/9lep8l-7yoA/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - PAK 5th Gen Fighter, Bahawalpur Base Rebuild After Strike, OP. Sindoor Victory",
-      "link": "https://www.youtube.com/watch?v=aJLp-UkYdEM",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-05T21:47:46+05:30",
-      "time": "05 May, 09:47 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/aJLp-UkYdEM/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
