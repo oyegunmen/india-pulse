@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Security Council holds closed-door talks following attacks on United Arab Emirates",
+      "link": "https://www.indiastrategic.in/security-council-holds-closed-door-talks-following-attacks-on-united-arab-emirates/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-07T11:12:33+05:30",
+      "time": "07 May, 11:12 AM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar New York/ Bengaluru, May 6, 2026. As the crisis in the Strait of Hormuz continues, the United Nations reiterates its commitment to ..."
+    },
+    {
+      "title": "AirAsia places landmark order for 150 A220s",
+      "link": "https://www.indiastrategic.in/airasia-places-landmark-order-for-150-a220s/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-07T10:52:47+05:30",
+      "time": "07 May, 10:52 AM",
+      "type": "news",
+      "description": "<p>Mirabel, Canada, May 6, 2026. Malaysia\u2019s AirAsia has placed an order for 150 latest generation A220-300 aircraft. The purchase agreement is the lar..."
+    },
+    {
+      "title": "Bangladesh faces worsening measles outbreak as shortage of diagnostic kits disrupts testing",
+      "link": "https://www.newsonair.gov.in/bangladesh-faces-worsening-measles-outbreak-as-shortage-of-diagnostic-kits-disrupts-testing/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-07T10:41:22+05:30",
+      "time": "07 May, 10:41 AM",
+      "type": "news",
+      "description": "Bangladesh\u2019s worsening measles outbreak claimed seven more children\u2019s lives in the last 24 hours, while a renewed shortage of diagnostic kits has seve..."
+    },
+    {
       "title": "Pakistan Army says it will continue upgrading capabilities to meet future security challenges",
       "link": "https://economictimes.indiatimes.com/news/defence/pakistan-army-response-operation-sindoor-marka-e-haq-india-pak-tensions/articleshow/130879118.cms",
       "source": "Economic Times",
@@ -28,7 +55,7 @@
       "description": "Iran war news: America fired on an Iranian oil tanker in the Gulf of Oman. President Trump is pressuring Tehran for a deal to end the war. Israel also..."
     },
     {
-      "title": "Iran US War News Live Updates: Iran expected to respond to US war proposal after Trump hails \u2018very good talks\u2019 with Tehran",
+      "title": "Iran-US-Israel War News Live Updates: Iran expected to respond to US war proposal after Trump hails \u2018very good talks\u2019 with Tehran",
       "link": "https://indianexpress.com/article/world/iran-us-war-news-live-updates-trump-tehran-hormuz-ceasefire-proposal-10676935/",
       "source": "The Indian Express",
       "sort_key": "2026-05-07T08:50:57+05:30",
@@ -541,15 +568,6 @@
       "description": "Mr. Ramaswamy initially ran against Mr. Trump for the Republican presidential nomination in 2024, but withdrew and backed Mr. Trump"
     },
     {
-      "title": "China\u2019s Foreign Minister holds talks with Abbas Araghchi amid mounting pressure on Iran to open Strait of Hormuz",
-      "link": "https://www.newsonair.gov.in/chinas-foreign-minister-holds-talks-with-abbas-araghchi-amid-mounting-pressure-on-iran-to-open-the-strait-of-hormuz/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-06T12:52:36+05:30",
-      "time": "06 May, 12:52 PM",
-      "type": "news",
-      "description": "The Foreign Ministers of China\u2019s Wang Yi and Iran\u2019s Abbas Araghchi today held talks in Beijing amid mounting pressure on Iran to open the Strait of Ho..."
-    },
-    {
       "title": "\u2018Xi wouldn\u2019t do that\u2019: Ahead of Beijing Summit, Donald Trump rejects claims of Chinese defiance on Iran",
       "link": "https://indianexpress.com/article/world/trump-china-challenge-iran-war-xi-jinping-beijing-summit-10675223/",
       "source": "The Indian Express",
@@ -865,15 +883,6 @@
       "description": "The report said that around 3.2 million Indian migrants were living in the United States in 2024, the second largest foreign-born group after Mexicans..."
     },
     {
-      "title": "CDS Inaugurats Conference on Brain-Computer Interface & Strategic Implications at New Delhi",
-      "link": "https://www.indiastrategic.in/cds-inaugurats-conference-on-brain-computer-interface-strategic-implications-at-new-delhi/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-05T19:04:19+05:30",
-      "time": "05 May, 07:04 PM",
-      "type": "news",
-      "description": "<p>New Delhi. The Chief of Defence Staff, General Anil Chauhan, inaugurated a conference on \u2018Brain-Computer Interface(BCI): Expanding Neural Frontiers..."
-    },
-    {
       "title": "U.S. \u2018not looking for a fight\u2019 over Strait of Hormuz, Pete Hegseth says",
       "link": "https://www.thehindu.com/news/international/us-not-looking-for-a-fight-over-strait-of-hormuz-pete-hegseth-says/article70943151.ece",
       "source": "The Hindu",
@@ -881,15 +890,6 @@
       "time": "05 May, 06:46 PM",
       "type": "news",
       "description": "\u201cProject Freedom \u200cis defensive in nature, \u200cfocused \u2060in scope and temporary in \u2060duration, with one mission, protecting innocent commercial shipping fro..."
-    },
-    {
-      "title": "Lockheed Martin Awarded US Space Force Space-Based Interceptor Contracts to Meet Layered Missile Defense Demand",
-      "link": "https://www.indiastrategic.in/lockheed-martin-awarded-us-space-force-space-based-interceptor-contracts-to-meet-layered-missile-defense-demand/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-05T18:20:10+05:30",
-      "time": "05 May, 06:20 PM",
-      "type": "news",
-      "description": "<p>HUNTSVILLE, Ala., May 1, 2026. Lockheed Martin has been selected by US Space Force Space Systems Command to develop capabilities supporting the Spa..."
     },
     {
       "title": "\u2018US aims to protect its ships\u2019: Pete Hegseth warns Iran of \u2018overwhelming firepower\u2019",
@@ -1034,63 +1034,59 @@
       "time": "05 May, 12:35 PM",
       "type": "news",
       "description": "Russia declares a ceasefire on May 8, 9 for Victory Day celebrations; Ukraine\u2019s Zelenskyy announces his own ceasefire regime on May 5, 6"
-    },
-    {
-      "title": "South Korea to probe ship fire in Strait of Hormuz, Trump blames Iranian attack",
-      "link": "https://www.thehindu.com/news/international/south-korea-to-probe-ship-fire-in-strait-of-hormuz-trump-blames-iranian-attack/article70941503.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T11:14:59+05:30",
-      "time": "05 May, 11:14 AM",
-      "type": "news",
-      "description": "\u201cThe exact cause of the accident would be figured out after the vessel is towed and \u200cits damage is assessed,\u201d South Korea\u2019s Foreign Ministry said in a..."
-    },
-    {
-      "title": "\u2018Unacceptable\u2019: New Delhi slams Iranian strikes on UAE\u2019s Fujairah after 3 Indian nationals injured in oil facility",
-      "link": "https://indianexpress.com/article/world/us-news/indians-injured-fujairah-uae-drone-attack-embassy-coordinating-care-10673190/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-05T11:14:12+05:30",
-      "time": "05 May, 11:14 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "U.S. Military strike on alleged drug boat kills two in the Caribbean",
-      "link": "https://www.thehindu.com/news/international/us-military-strike-on-alleged-drug-boat-kills-two-in-the-caribbean/article70941536.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T11:13:30+05:30",
-      "time": "05 May, 11:13 AM",
-      "type": "news",
-      "description": "The Trump administration\u2019s campaign of blowing up alleged drug-trafficking vessels in Latin American waters has persisted since early September and ki..."
-    },
-    {
-      "title": "\u2018Everything can be weaponised\u2019: Rajnath Singh cites Israel\u2019s pager attacks to warn of new war",
-      "link": "https://economictimes.indiatimes.com/news/defence/everything-can-be-weaponised-rajnath-singh-cites-israels-pager-attacks-to-warn-of-new-war/videoshow/130817133.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-05T10:56:01+05:30",
-      "time": "05 May, 10:56 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Will be \u2018very happy\u2019 to see woman elected as next U.N. chief: China",
-      "link": "https://www.thehindu.com/news/international/will-be-very-happy-to-see-woman-elected-as-next-un-chief-china/article70941403.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T10:32:17+05:30",
-      "time": "05 May, 10:32 AM",
-      "type": "news",
-      "description": "The U.N. has never seen a female leader at its helm in 80 years of its existence"
-    },
-    {
-      "title": "Pakistan aids stranded Indian vessel in Arabian Sea after Mumbai distress call",
-      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-aids-stranded-indian-vessel-in-arabian-sea-after-mumbai-distress-call/articleshow/130816531.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-05T10:30:28+05:30",
-      "time": "05 May, 10:30 AM",
-      "type": "news",
-      "description": "Pakistan Navy has provided crucial humanitarian aid to the crew of an Indian offshore tug and supply vessel. The vessel, MV Gautam, was stranded in th..."
     }
   ],
   "tweets": [
+    {
+      "title": "\"India is thrashing us, we're helpless. We're losing. Jazba (Islam) isn't saving us. India is not listening to USA/Saudi. We can't stop India\"\n\n- PAF Air Marshal Masood Akhtar during op Sindoor",
+      "link": "https://nitter.net/Goreunit/status/2052259175187779895#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-07T10:58:11+05:30",
+      "time": "07 May, 10:58 AM",
+      "type": "tweets",
+      "content": "<p>\"India is thrashing us, we're helpless. We're losing. Jazba (Islam) isn't saving us. India is not listening to USA/Saudi. We can't stop India\"<br />\n<br />\n- PAF Air Marshal Masood Akhtar during op Sindoor</p>\n<a href=\"https://nitter.net/Goreunit/status/2052259175187779895#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052259140953886720%2Fpu%2Fimg%2FYDXMDEeuAZT37BqP.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Thank @nitingokhale  for this sir, we have witnessed Pakistani Army evacuating some towns near Indian borders\n\nIt was done for a reason.",
+      "link": "https://nitter.net/elitepredatorss/status/2052257817411936257#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-07T10:52:47+05:30",
+      "time": "07 May, 10:52 AM",
+      "type": "tweets",
+      "content": "<p>Thank <a href=\"https://nitter.net/nitingokhale\" title=\"Nitin A. Gokhale\">@nitingokhale</a>  for this sir, we have witnessed Pakistani Army evacuating some towns near Indian borders<br />\n<br />\nIt was done for a reason.</p>\n<img src=\"https://nitter.net/pic/media%2FHHsVm-9boAAWkOR.jpg\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>It seems just like PAF Murid base strikes isn't the end of surprises of Indian Armed Forces which were gone public.<br />\n<br />\nIndian Air Force and Indian Army are still keeping things under wraps, things which can rattle the whole region \ud83d\ude42</p>\n<img src=\"https://nitter.net/pic/media%2FGsA5YyKXYAAFNxh.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/1927603751260422580#m\">https://nitter.net/elitepredatorss/status/1927603751260422580#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Israel ambassador to India Azar extends messages of support to India on the one year anniversary of Operation Sindoor, India's counter terror operation in Pakistan after Pahalgam terror attack.",
+      "link": "https://nitter.net/sidhant/status/2052253536126386185#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T10:35:46+05:30",
+      "time": "07 May, 10:35 AM",
+      "type": "tweets",
+      "content": "<p>Israel ambassador to India Azar extends messages of support to India on the one year anniversary of Operation Sindoor, India's counter terror operation in Pakistan after Pahalgam terror attack.</p>\n<hr />\n<blockquote>\n<b>\ud83c\uddee\ud83c\uddf1 Reuven Azar (@ReuvenAzar)</b>\n<p>\n<p>One year to Operation Sindoor. Terrorists now know there\u2019s no place to hide from their heinous crimes against the innocent.<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoorAnniversary\">#OperationSindoorAnniversary</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ReuvenAzar/status/2052241688081711240#m\">https://nitter.net/ReuvenAzar/status/2052241688081711240#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Porki at a random day- We'll attack India.\n\nMeanwhile when India retaliated- \"BRO I'M SCARED, I DON'T WANT TO DIE.\"",
+      "link": "https://nitter.net/Goreunit/status/2052251115362869331#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-07T10:26:09+05:30",
+      "time": "07 May, 10:26 AM",
+      "type": "tweets",
+      "content": "<p>Porki at a random day- We'll attack India.<br />\n<br />\nMeanwhile when India retaliated- \"BRO I'M SCARED, I DON'T WANT TO DIE.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHsPgfJbQAAfb27.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "India, Algeria sign Rules of Procedure for overseeing the implementation of India-Algeria defence cooperation. Announcement after India-Algeria Joint Commission meet at the level of defence officials in Delhi.",
+      "link": "https://nitter.net/sidhant/status/2052251000619385148#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T10:25:42+05:30",
+      "time": "07 May, 10:25 AM",
+      "type": "tweets",
+      "content": "<p>India, Algeria sign Rules of Procedure for overseeing the implementation of India-Algeria defence cooperation. Announcement after India-Algeria Joint Commission meet at the level of defence officials in Delhi.</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV\n\n........ \ud83d\ude4f........",
       "link": "https://nitter.net/OsintTV/status/2052246888494014486#m",
@@ -1202,7 +1198,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Internet will forget everything. But never the memes...\ud83d\ude2d\ud83e\udd23\n\n#OpSindoor",
+      "title": "RT by @OsintTV: Internet will forget everything. But never the memes...\ud83d\ude2d\ud83e\udd23\n\n#OpSindoor",
       "link": "https://nitter.net/OsintTV/status/2052232520687620595#m",
       "source": "Osint TV",
       "sort_key": "2026-05-07T09:12:16+05:30",
@@ -1308,7 +1304,7 @@
       "sort_key": "2026-05-07T08:25:13+05:30",
       "time": "07 May, 08:25 AM",
       "type": "tweets",
-      "content": "<p>In Suriname, EAM Jaishankar says India open to offer new lines of credit to the country. Points to defence cooperation-\"willing to respond to the needs to Suriname police\"<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nxnRYZldboxO\">nitter.net/i/broadcasts/1nxnRYZld\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052245962504978435%2FtIlfU9N0%3Fformat%3Djpg%26name%3D800x419\" />",
+      "content": "<p>In Suriname, EAM Jaishankar says India open to offer new lines of credit to the country. Points to defence cooperation-\"willing to respond to the needs to Suriname police\"<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nxnRYZldboxO\">nitter.net/i/broadcasts/1nxnRYZld\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052260212602490880%2Fvc_zpKC8%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@sidhant"
     },
     {
@@ -1322,7 +1318,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "22 minutes of 7.5.2025 in 75 seconds.... \ud83d\udd25\n\n\ud83d\udcf8  @shivank_8mishra",
+      "title": "RT by @OsintTV: 22 minutes of 7.5.2025 in 75 seconds.... \ud83d\udd25\n\n\ud83d\udcf8  @shivank_8mishra",
       "link": "https://nitter.net/OsintTV/status/2052214334080667782#m",
       "source": "Osint TV",
       "sort_key": "2026-05-07T08:00:00+05:30",
@@ -1578,7 +1574,7 @@
       "sort_key": "2026-05-07T00:06:19+05:30",
       "time": "07 May, 12:06 AM",
       "type": "tweets",
-      "content": "<p>PM Modi thanked Vietnam for standing with India after Pahalgam terror attack. The joint statement said, \"leaders called for disrupting of terror financing networks and safe havens, dismantling of terror infrastructure\"<br />\n<br />\n<a href=\"https://www.mea.gov.in/bilateral-documents.htm?dtl/41108/Joint_Statement_on_Enhanced_Comprehensive_Strategic_Partnership_between_the_Republic_of_India_and_the_Socialist_Republic_of_Vietnam_May_06_2026\">mea.gov.in/bilateral-documen\u2026</a></p>",
+      "content": "<p>PM Modi thanked Vietnam for standing with India after Pahalgam terror attack. The joint statement said, \"leaders called for disrupting of terror financing networks and safe havens, dismantling of terror infrastructure\"<br />\n<br />\n<a href=\"https://www.mea.gov.in/bilateral-documents.htm?dtl/41108/Joint_Statement_on_Enhanced_Comprehensive_Strategic_Partnership_between_the_Republic_of_India_and_the_Socialist_Republic_of_Vietnam_May_06_2026\">mea.gov.in/bilateral-documen\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2051670959745290240%2FCw-3NtB4%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@sidhant"
     },
     {
@@ -1639,26 +1635,6 @@
       "time": "07 May, 12:06 AM",
       "type": "tweets",
       "content": "<p>Defence<br />\nIndia for the first time confirmed that it has had talks with Vietnam on Brahmos deal. If confirmed it would be the latest country in South East Asia to get the missile system, whose each unit costs Rs 83 cr.<br />\n<br />\nP Kumaran, Secy East, MEA</p>\n<a href=\"https://nitter.net/sidhant/status/2052095101732876740#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052085975283798016%2Fimg%2FZQrQvUXgpUAhPbTn.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Upgrading ties.\nThe visit marked the 10th anniversary of the India-Vietnam Comprehensive Strategic Partnership. Both sides elevated bilateral ties to an Enhanced Comprehensive Strategic Partnership.",
-      "link": "https://nitter.net/sidhant/status/2052095096850719012#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T00:06:11+05:30",
-      "time": "07 May, 12:06 AM",
-      "type": "tweets",
-      "content": "<p>Upgrading ties.<br />\nThe visit marked the 10th anniversary of the India-Vietnam Comprehensive Strategic Partnership. Both sides elevated bilateral ties to an Enhanced Comprehensive Strategic Partnership.</p>\n<a href=\"https://nitter.net/sidhant/status/2052095096850719012#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052090435699671040%2Fimg%2FmeVz5FyRjZEM7xSV.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "From Grapes\ud83c\udf47 to Brahmos\ud83d\ude80: Key outcomes from Vietnam President To Lam's India visit\n\nVietnam's Prez is on a 3 day India visit, & on Wednesday held talks with PM Modi. From access to Indian grapes, to confirming talks on Brahmos, number of announcements were made. Detailing",
-      "link": "https://nitter.net/sidhant/status/2052095091339334015#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-07T00:06:10+05:30",
-      "time": "07 May, 12:06 AM",
-      "type": "tweets",
-      "content": "<p>From Grapes\ud83c\udf47 to Brahmos\ud83d\ude80: Key outcomes from Vietnam President To Lam's India visit<br />\n<br />\nVietnam's Prez is on a 3 day India visit, & on Wednesday held talks with PM Modi. From access to Indian grapes, to confirming talks on Brahmos, number of announcements were made. Detailing</p>\n<img src=\"https://nitter.net/pic/media%2FHHp3yjgbcAADDfL.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1782,16 +1758,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @OsintTV: Golai aur missiles aisai fire kiye gaye ki, 9 Pakistani terrorist camps par pehla hit ek sath 0105hrs par hi ho aur phir non stop 23 min tak hote rahai.\ud83c\uddee\ud83c\uddf3\n#OperationSindoor",
-      "link": "https://nitter.net/manishindiatv/status/2052075296741015722#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-06T22:47:31+05:30",
-      "time": "06 May, 10:47 PM",
-      "type": "tweets",
-      "content": "<p>Golai aur missiles aisai fire kiye gaye ki, 9 Pakistani terrorist camps par pehla hit ek sath 0105hrs par hi ho aur phir non stop 23 min tak hote rahai.\ud83c\uddee\ud83c\uddf3<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2052075296741015722#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052075282757201920%2Fimg%2FjTfdz_4G41N8Nj4_.jpg\" />\n</a>",
-      "author": "@manishindiatv"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: \n6th May 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf French shipping group CMA CGM reported that its vessel SAN ANTONIO was attacked while transiting Strait of Hormuz, resulting in injuries among crew members and damage to the vessel.\n\n\u25cf Trump paused Project Freedom just two days after its launch. He cited progress toward a US-Iran deal. The US blockade on Iranian ports remains in place.\n\n\u25cf Foreign Minister Araghchi is in Beijing seeking China\u2019s backing for Iran\u2019s new diplomatic framework, reportedly to help prevent the US-Bahrain UN resolution from advancing.\n\n\u25cf The IRGC Navy suggested that safe passage through the Strait of Hormuz could soon be restored under \"new procedures\". However, the US naval blockade on Iranian-linked vessels remains in full effect.\n\n\u25cf Trump has conditioned the reopening of the Strait of Hormuz on Iran accepting US terms, maintaining the blockade of Iranian ports following Operation Epic Fury. He warned that if Iran does not agree to terms soon, the US will launch intense bombing campaigns.\n\n\u25cf PM Netanyahu stated that Israel is not bound by any US-Iran diplomatic pause, following Hezbollah strikes in the Bekaa Valley.\n\n\u25cf CENTCOM reported that 52 commercial vessels have been directed to turn around or return to port in order to comply with the ongoing US blockade.\n\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2052073202659246411#m",
       "source": "Netram Defense",
@@ -1830,16 +1796,6 @@
       "type": "tweets",
       "content": "<p>59+47+4+2+2+2+1+1<br />\n=118</p>\n<hr />\n<blockquote>\n<b>WarMonitor (@WarMonitorINTL)</b>\n<p>\n<p>What am I hearingg \ud83d\ude2e <br />\n<br />\nADMK+DMK to form a government</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/WarMonitorINTL/status/2052048366063042923#m\">https://nitter.net/WarMonitorINTL/status/2052048366063042923#m</a>\n</footer>\n</blockquote>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "RT by @OsintTV: Indian defence twitter for next three days to bust pakistani propaganda.",
-      "link": "https://nitter.net/DesiEsco7/status/2052055461952926196#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-06T21:28:42+05:30",
-      "time": "06 May, 09:28 PM",
-      "type": "tweets",
-      "content": "<p>Indian defence twitter for next three days to bust pakistani propaganda.</p>\n<img src=\"https://nitter.net/pic/media%2FHHpdkWTbwAEksbN.jpg\" />",
-      "author": "@DesiEsco7"
     },
     {
       "title": "What am I hearingg \ud83d\ude2e \n\nADMK+DMK to form a government",
@@ -2122,16 +2078,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "CCTV footage of blast outside Khasa army camp Amritsar last night.",
-      "link": "https://nitter.net/Goreunit/status/2051934620812542085#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-06T13:28:31+05:30",
-      "time": "06 May, 01:28 PM",
-      "type": "tweets",
-      "content": "<p>CCTV footage of blast outside Khasa army camp Amritsar last night.</p>\n<a href=\"https://nitter.net/Goreunit/status/2051934620812542085#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051934423738888192%2Fimg%2FPsujvPiinM2XT92F.jpg\" />\n</a>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "Imagine the kind of mess they have created that now they have to bring the UN to sort things out.\n\nThat's extreme desperation right there, but did the US follow the UN charter before attacking Iran?\n\nOne worthy enemy and the facade of the superpower  straight to the gutters.",
       "link": "https://nitter.net/elitepredatorss/status/2051923920861696214#m",
       "source": "Elite Predators",
@@ -2150,16 +2096,6 @@
       "type": "tweets",
       "content": "<p>CCTV footage of last night's attack on the boundary wall near Dograi War Memorial, Amritsar.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2051905152110797264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051905115859390465%2Fimg%2FF-0BZp0fdRUeOzeF.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Last night at around 2300 hours, a motorcycle-borne attacker threw explosive materials on the boundary wall near Dograi War Memorial, Amritsar.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2051842721514705404#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051842675717148672%2Fimg%2FkT4r9T1fP-zypOqI.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2051842721514705404#m\">https://nitter.net/elitepredatorss/status/2051842721514705404#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Dynamics have been changed in Indian Politics | Election results of Tamilnadu, West Bengal,Assam etc\n\nwatch our regular video on YT\ud83d\udc47\nhttps://youtube.com/shorts/ZFM6uS5P-F0?si=1LWXMB22nXS4JPKg",
-      "link": "https://nitter.net/Goreunit/status/2051881535373180962#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-06T09:57:34+05:30",
-      "time": "06 May, 09:57 AM",
-      "type": "tweets",
-      "content": "<p>Dynamics have been changed in Indian Politics | Election results of Tamilnadu, West Bengal,Assam etc<br />\n<br />\nwatch our regular video on YT\ud83d\udc47<br />\n<a href=\"https://piped.video/shorts/ZFM6uS5P-F0?si=1LWXMB22nXS4JPKg\">piped.video/shorts/ZFM6uS5P-\u2026</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2051881535373180962#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051881091418783744%2Fimg%2FFkCiK-4pR0cLijHG.jpg\" />\n</a>",
-      "author": "@Goreunit"
     },
     {
       "title": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf0Trump says the US will suspend Project Freedom in the Strait of Hormuz at \"the request of Pakistan.\" \n\nThe Pakistanis are just serving the purpose as depicted in the picture. \n\n US's Project Freedom was the naval blockade of the Strait of Hormuz.  The real reason could be a direct threat by China to sell US Treasury bonds, which could eventually collapse the American economy.   \n\nSince the escalation of military operations in Iran, China reportedly accelerated its divestment from US Treasury bills. In early April 2026, reports noted that China's holdings had fallen to roughly $633.4 billion, a sharp decline of about $50 billion in just four months.",
@@ -2212,16 +2148,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Last night at around 2300 hours, a motorcycle-borne attacker threw explosive materials on the boundary wall near Dograi War Memorial, Amritsar.",
-      "link": "https://nitter.net/elitepredatorss/status/2051842721514705404#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-06T07:23:20+05:30",
-      "time": "06 May, 07:23 AM",
-      "type": "tweets",
-      "content": "<p>Last night at around 2300 hours, a motorcycle-borne attacker threw explosive materials on the boundary wall near Dograi War Memorial, Amritsar.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2051842721514705404#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051842675717148672%2Fimg%2FkT4r9T1fP-zypOqI.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
       "title": "RT by @NetramDefence: \ud83e\uddf5THREAD: Project Freedom Briefing | US DoW\n\n1/\nThe US had launched \"Project Freedom,\" a military operation to reopen the Strait of Hormuz after Iran blocked commercial and tanker vessel passage.\n\nSecDef Pete Hegseth confirmed the operation at a Pentagon briefing today.",
       "link": "https://nitter.net/Globalwatchh/status/2051750305847497164#m",
       "source": "Netram Defense",
@@ -2254,6 +2180,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
