@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "US, Iran move closer to preliminary understanding on West Asia conflict",
+      "link": "https://www.newsonair.gov.in/us-iran-move-closer-to-preliminary-understanding-on-west-asia-conflict/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-07T07:18:35+05:30",
+      "time": "07 May, 07:18 AM",
+      "type": "news",
+      "description": "The United States and Iran are inching closer to a preliminary understanding to ease the conflict in West Asia, with regional sources saying a draft m..."
+    },
+    {
+      "title": "US military intercepts Iranian-flagged oil tanker in Gulf of Oman, says US Central Command",
+      "link": "https://www.newsonair.gov.in/us-military-intercepts-iranian-flagged-oil-tanker-in-gulf-of-oman-says-us-central-command/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-07T07:01:09+05:30",
+      "time": "07 May, 07:01 AM",
+      "type": "news",
+      "description": "The US military says it has intercepted and disabled an Iranian-flagged oil tanker in the Gulf of Oman after it allegedly attempted to breach a US-enf..."
+    },
+    {
       "title": "Iran-Israel war LIVE: U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
       "source": "The Hindu",
@@ -586,15 +604,6 @@
       "description": ""
     },
     {
-      "title": "US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn\u2019t release Hormuz chokehold",
-      "link": "https://www.newsonair.gov.in/us-gulf-allies-threaten-iran-with-sanctions-in-un-proposal-if-it-doesnt-release-hormuz-chokehold/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-06T07:55:20+05:30",
-      "time": "06 May, 07:55 AM",
-      "type": "news",
-      "description": "The United States and its Gulf allies have proposed a new United Nations resolution aimed at pressuring Iran to stop disrupting shipping in the Strait..."
-    },
-    {
       "title": "U.S. Military strike on alleged drug boat kills three in the eastern Pacific",
       "link": "https://www.thehindu.com/news/international/us-military-strike-on-alleged-drug-boat-kills-three-in-the-eastern-pacific/article70945474.ece",
       "source": "The Hindu",
@@ -737,15 +746,6 @@
       "time": "05 May, 10:08 PM",
       "type": "news",
       "description": "Urban growth, food waste, and fewer predators fuel rising snake encounters"
-    },
-    {
-      "title": "Joint session of federal parliament in Nepal on May 11",
-      "link": "https://www.newsonair.gov.in/joint-session-of-federal-parliament-in-nepal-on-may-11/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-05T21:59:37+05:30",
-      "time": "05 May, 09:59 PM",
-      "type": "news",
-      "description": "Nepal\u2019s President, Ramchandra Paudel, has called a session of both houses of the federal parliament for May 11. The meeting is scheduled for Monday at..."
     },
     {
       "title": "Ready to resume major combat operations in Iran, says top US general",
@@ -1027,7 +1027,7 @@
       "description": "Pakistan Navy has provided crucial humanitarian aid to the crew of an Indian offshore tug and supply vessel. The vessel, MV Gautam, was stranded in th..."
     },
     {
-      "title": "Iran US War News Live Updates: Trump warns bombing will restart if Iran doesn\u2019t agree to open Hormuz",
+      "title": "Iran US War News Live Updates: Trump says deal \u2018possible\u2019 with Iran; Israel bombs Beirut",
       "link": "https://indianexpress.com/article/world/us-news/iran-us-war-news-live-updates-us-donald-trump-strait-of-hormuz-blockade-10673275/",
       "source": "The Indian Express",
       "sort_key": "2026-05-05T10:15:01+05:30",
@@ -1097,33 +1097,6 @@
       "time": "05 May, 08:00 AM",
       "type": "news",
       "description": "Brazil's Embraer anticipates further defense aircraft deals in the Middle East following a significant order for C-390 military cargo planes from the ..."
-    },
-    {
-      "title": "\u2018Blown off the face of the earth\u2019: US President\u2019s chilling warning to Iran as 800 ships sit stranded",
-      "link": "https://indianexpress.com/article/world/us-news/trump-iran-threat-blown-off-earth-strait-of-hormuz-clash-10673130/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-05T06:59:56+05:30",
-      "time": "05 May, 06:59 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Trump launches \u2018Project Freedom\u2019 to open Strait of Hormuz, Iran strikes ships, UAE port",
-      "link": "https://www.thehindu.com/news/international/trump-project-freedom-strait-of-hormuz-iran-uae-port-may-5-2026/article70941209.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-05T06:44:37+05:30",
-      "time": "05 May, 06:44 AM",
-      "type": "news",
-      "description": "Mr. Trump announced his new \u201cProject Freedom\u201d mission on social media overnight to enable stuck ships to travel through the strait"
-    },
-    {
-      "title": "Trump warns Iran would be 'blown off the face of the Earth' if Tehran attacks US vessels in Strait of Hormuz",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-warns-iran-would-be-blown-off-the-face-of-the-earth-if-tehran-attacks-us-vessels-in-strait-of-hormuz/articleshow/130813722.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-05T06:38:49+05:30",
-      "time": "05 May, 06:38 AM",
-      "type": "news",
-      "description": "US President Donald Trump has intensified warnings against Iran, stating that the United States \u201ccan't let Iran have a nuclear weapon\u201d and threatening..."
     }
   ],
   "tweets": [
@@ -2308,8 +2281,90 @@
       "author": "@AngryRumi7"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Ghatak UCAV Price Shock, JWALA Missile Explained,Army\u2019s Smart Sniper Tech,SSN Project Exposed!!!",
+      "link": "https://www.youtube.com/watch?v=VYuJRamSBoQ",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-06T22:00:10+05:30",
+      "time": "06 May, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/VYuJRamSBoQ/mqdefault.jpg"
+    },
+    {
+      "title": "What If India Buys Su-57? Game Changer or Risk",
+      "link": "https://www.youtube.com/watch?v=y1JFWZMW6no",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-06T20:15:07+05:30",
+      "time": "06 May, 08:15 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/y1JFWZMW6no/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Su57 Stealth Missile,KAL Strike Drone,SharkJet Kamikaze,Armenia Pralay Deal",
+      "link": "https://www.youtube.com/watch?v=FkAw0fNsli4",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-06T17:18:47+05:30",
+      "time": "06 May, 05:18 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/FkAw0fNsli4/mqdefault.jpg"
+    },
+    {
+      "title": "Agni 6 : MIRV Capable ICBM of India",
+      "link": "https://www.youtube.com/watch?v=KjnvHaMoXBM",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-06T14:48:02+05:30",
+      "time": "06 May, 02:48 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/KjnvHaMoXBM/mqdefault.jpg"
+    },
+    {
+      "title": "Top 5 Most Crashed Fighter Jets Ever",
+      "link": "https://www.youtube.com/watch?v=fInOQfXo23I",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-05T22:57:24+05:30",
+      "time": "05 May, 10:57 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/fInOQfXo23I/mqdefault.jpg"
+    },
+    {
+      "title": "India\u2019s BIG Defence Shift! Astra Export, Ballistic Missile Change & Secret Missile Test Exposed!",
+      "link": "https://www.youtube.com/watch?v=9lep8l-7yoA",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-05T22:00:01+05:30",
+      "time": "05 May, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/9lep8l-7yoA/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - PAK 5th Gen Fighter, Bahawalpur Base Rebuild After Strike, OP. Sindoor Victory",
+      "link": "https://www.youtube.com/watch?v=aJLp-UkYdEM",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-05T21:47:46+05:30",
+      "time": "05 May, 09:47 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/aJLp-UkYdEM/mqdefault.jpg"
+    },
+    {
+      "title": "Ghatak UCAV - New Updates",
+      "link": "https://www.youtube.com/watch?v=4Q6l3ZLBz68",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-05T18:12:34+05:30",
+      "time": "05 May, 06:12 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/4Q6l3ZLBz68/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Agni-5 MK2 Test,Brahmos-2 by 2027,Divyastra Mk2 Test,Mini-Destroyer Offer",
+      "link": "https://www.youtube.com/watch?v=6eWinrJJO04",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-05T16:54:11+05:30",
+      "time": "05 May, 04:54 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/6eWinrJJO04/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
