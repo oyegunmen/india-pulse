@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "France moves its carrier strike group to Red Sea as part of potential mission to secure Strait of Hormuz",
+      "link": "https://www.newsonair.gov.in/france-moves-its-carrier-strike-group-to-red-sea-as-part-of-potential-mission-to-secure-strait-of-hormuz/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-07T08:14:58+05:30",
+      "time": "07 May, 08:14 AM",
+      "type": "news",
+      "description": "France has deployed its carrier strike group to Red Sea as part of a potential mission to secure the Strait of Hormuz. In a statement, French Army sai..."
+    },
+    {
+      "title": "India commemorates first anniversary of Operation Sindoor, marking decisive military action against terror infrastructure",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-commemorates-first-anniversary-of-operation-sindoor-marking-decisive-military-action-against-terror-infrastructure/articleshow/130875733.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-07T07:56:19+05:30",
+      "time": "07 May, 07:56 AM",
+      "type": "news",
+      "description": "India marked the first anniversary of Operation Sindoor, a decisive military action against terror infrastructure in Pakistan-occupied Kashmir and Pak..."
+    },
+    {
+      "title": "Powerful symbol of national resolve, preparedness: Rajnath Singh on anniversary of Operation Sindoor",
+      "link": "https://economictimes.indiatimes.com/news/defence/powerful-symbol-of-national-resolve-preparedness-rajnath-singh-on-anniversary-of-operation-sindoor/articleshow/130876380.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-07T07:55:52+05:30",
+      "time": "07 May, 07:55 AM",
+      "type": "news",
+      "description": "Defence Minister Rajnath Singh commemorated Operation Sindoor. This operation was a strong military response to a terror attack. Indian forces targete..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Trump says Iran deal 'very possible' but threatens strikes if talks fail",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-donald-trump-iran-peace-deal-ceasefire-talks-strait-of-hormuz-issue-may-7-2026/article70949440.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-07T07:54:12+05:30",
+      "time": "07 May, 07:54 AM",
+      "type": "news",
+      "description": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war"
+    },
+    {
+      "title": "Iran-Israel war highlights: U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-07T07:39:37+05:30",
+      "time": "07 May, 07:39 AM",
+      "type": "news",
+      "description": "Israel strikes Beirut for the first time since ceasefire; sources say a senior commander from Hezbollah's elite force was killed in the strikes"
+    },
+    {
+      "title": "Trump predicts Iran war will be over quickly",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-predicts-iran-war-will-be-over-quickly/articleshow/130876031.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-07T07:36:45+05:30",
+      "time": "07 May, 07:36 AM",
+      "type": "news",
+      "description": "President Donald Trump predicted a swift end to potential conflict with Iran, emphasizing the U.S. objective of preventing Tehran from acquiring nucle..."
+    },
+    {
       "title": "US, Iran move closer to preliminary understanding on West Asia conflict",
       "link": "https://www.newsonair.gov.in/us-iran-move-closer-to-preliminary-understanding-on-west-asia-conflict/",
       "source": "All India Radio",
@@ -17,15 +71,6 @@
       "time": "07 May, 07:01 AM",
       "type": "news",
       "description": "The US military says it has intercepted and disabled an Iranian-flagged oil tanker in the Gulf of Oman after it allegedly attempted to breach a US-enf..."
-    },
-    {
-      "title": "Iran-Israel war LIVE: U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-6-2026/article70945447.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-07T04:12:28+05:30",
-      "time": "07 May, 04:12 AM",
-      "type": "news",
-      "description": "Israel strikes Beirut for the first time since ceasefire; sources say a senior commander from Hezbollah's elite force was killed in the strikes"
     },
     {
       "title": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
@@ -548,15 +593,6 @@
       "time": "06 May, 10:01 AM",
       "type": "news",
       "description": "Operation Sindoor, launched a year ago, has provided crucial military insights. Experts highlight the importance of combined air power and advanced dr..."
-    },
-    {
-      "title": "Nepal: President Paudel passes Constitutional Council ordinance after gove resents the bill without changing",
-      "link": "https://www.newsonair.gov.in/nepal-president-paudel-finally-passes-the-constitutional-council-ordinance-after-the-government-resents-the-bill-without-changing/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-06T09:54:00+05:30",
-      "time": "06 May, 09:54 AM",
-      "type": "news",
-      "description": "President of Nepal Ramchandra Paudel has authenticated the ordinance on the Constitutional Council (Functions, Duties, Powers and Procedures) after th..."
     },
     {
       "title": "Twin blasts in Punjab: BSF camp and Army cantonment targeted; no casualties reported",
@@ -1088,18 +1124,49 @@
       "time": "05 May, 08:32 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Embraer eyes new Middle East defense deals after UAE order",
-      "link": "https://economictimes.indiatimes.com/news/defence/embraer-eyes-new-middle-east-defense-deals-after-uae-order/articleshow/130814427.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-05T08:00:55+05:30",
-      "time": "05 May, 08:00 AM",
-      "type": "news",
-      "description": "Brazil's Embraer anticipates further defense aircraft deals in the Middle East following a significant order for C-390 military cargo planes from the ..."
     }
   ],
   "tweets": [
+    {
+      "title": "From EAM Dr S Jaishankar's Suriname visit:",
+      "link": "https://nitter.net/sidhant/status/2052219810478739924#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T08:21:45+05:30",
+      "time": "07 May, 08:21 AM",
+      "type": "tweets",
+      "content": "<p>From EAM Dr S Jaishankar's Suriname visit:</p>\n<img src=\"https://nitter.net/pic/media%2FHHrzCqPacAALdZQ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHrzCqYbwAAbF20.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHrzCrobcAAi-ew.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHrzCr_awAAE_6T.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "22 minutes of 7.5.2025 in 75 seconds.... \ud83d\udd25\n\n\ud83d\udcf8  @shivank_8mishra",
+      "link": "https://nitter.net/OsintTV/status/2052214334080667782#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-07T08:00:00+05:30",
+      "time": "07 May, 08:00 AM",
+      "type": "tweets",
+      "content": "<p>22 minutes of 7.5.2025 in 75 seconds.... \ud83d\udd25<br />\n<br />\n\ud83d\udcf8  <a href=\"https://nitter.net/shivank_8mishra\" title=\"Shivank Mishra\">@shivank_8mishra</a></p>\n<a href=\"https://nitter.net/OsintTV/status/2052214334080667782#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052117799238066176%2Fimg%2FmG4dLIqisescht6k.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "India releases video on the one year anniversary of operation Sindoor.\n\nThe video was released at 1.05 am IST today.\n\nExactly at the time when India launched its counter terror operation in Pakistan after Pahalgam terror attack.",
+      "link": "https://nitter.net/sidhant/status/2052212616307867771#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-07T07:53:10+05:30",
+      "time": "07 May, 07:53 AM",
+      "type": "tweets",
+      "content": "<p>India releases video on the one year anniversary of operation Sindoor.<br />\n<br />\nThe video was released at 1.05 am IST today.<br />\n<br />\nExactly at the time when India launched its counter terror operation in Pakistan after Pahalgam terror attack.</p>\n<a href=\"https://nitter.net/sidhant/status/2052212616307867771#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052109921223917568%2Fimg%2FtAgefgqIlGPfmqaj.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "07/05/2025\nLMG fire on Pakistani posts\n\nOperation Sindoor anniversary",
+      "link": "https://nitter.net/Goreunit/status/2052210683278995799#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-07T07:45:29+05:30",
+      "time": "07 May, 07:45 AM",
+      "type": "tweets",
+      "content": "<p>07/05/2025<br />\nLMG fire on Pakistani posts<br />\n<br />\nOperation Sindoor anniversary</p>\n<a href=\"https://nitter.net/Goreunit/status/2052210683278995799#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052210664928845824%2Fpu%2Fimg%2F8BHZ6TvvEaRDimVZ.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
     {
       "title": "Pak Army in conflict with Balochs.",
       "link": "https://nitter.net/elitepredatorss/status/2052119725711425694#m",
@@ -1641,16 +1708,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Keep a close eye on this handle for next 12 hours. \ud83e\udd87",
-      "link": "https://nitter.net/sidhant/status/2052053503779254765#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T21:20:55+05:30",
-      "time": "06 May, 09:20 PM",
-      "type": "tweets",
-      "content": "<p>Keep a close eye on this handle for next 12 hours. \ud83e\udd87</p>\n<hr />\n<blockquote>\n<b>HQ IDS (@HQ_IDS_India)</b>\n<p>\n<p>The second Joint Commanders\u2019 Conference <a href=\"https://nitter.net/search?f=tweets&amp;q=%23JCC2026\">#JCC2026</a> themed as \u2018Military Capability in New Domains\u2019 will be held at <a href=\"https://nitter.net/SWComd_IA\" title=\"SouthWesternCommand_IA\">@SWComd_IA</a> , Jaipur on 07\u201308 May 2026, bringing together the top leadership of the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmedForces\">#IndianArmedForces</a> and <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MoD\">#MoD</a>.<br />\n<br />\nCoinciding with the first anniversary of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OpSindoor\">#OpSindoor</a>, the conference will focus on future warfare, emerging domains like cyber, space & cognitive warfare, while advancing <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Atmanirbharta\">#Atmanirbharta</a> through innovation, indigenisation and civil-military fusion.<br />\n<br />\nHon\u2019ble Raksha Mantri will attend this landmark conference.<br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a><br />\n<a href=\"https://nitter.net/SethSanjayMP\" title=\"Sanjay Seth\">@SethSanjayMP</a><br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHoVsm1aQAAc8Gg.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/HQ_IDS_India/status/2051976951116759372#m\">https://nitter.net/HQ_IDS_India/status/2051976951116759372#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "What am I hearingg \ud83d\ude2e \n\nADMK+DMK to form a government",
       "link": "https://nitter.net/WarMonitorINTL/status/2052048366063042923#m",
       "source": "War Monitor",
@@ -1689,16 +1746,6 @@
       "type": "tweets",
       "content": "<p>UP ATS has busted ISI terror module, 2 individuals have been arrested.<br />\n<br />\nDaniyal Ashraf and Krishna were planning to attack police stations and carry out assassination on uniformed officials.</p>\n<img src=\"https://nitter.net/pic/media%2FHHpLQXKXIAgHsHx.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHpLQXKWwAUlGdX.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @sidhant: #BREAKING | India confirms BRAHMOS discussion with Vietnam\n\nIndia and Vietnam elevate ties to an enhanced comprehensive strategic partnership\n\nPM Narendra Modi holds talks with Vietnamese President Lam\n\n@susanmtehrani gets you the latest updates with @sidhant",
-      "link": "https://nitter.net/WIONews/status/2052034843014529288#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-06T20:06:46+05:30",
-      "time": "06 May, 08:06 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BREAKING\">#BREAKING</a> | India confirms BRAHMOS discussion with Vietnam<br />\n<br />\nIndia and Vietnam elevate ties to an enhanced comprehensive strategic partnership<br />\n<br />\nPM Narendra Modi holds talks with Vietnamese President Lam<br />\n<br />\n<a href=\"https://nitter.net/susanmtehrani\" title=\"Susan Tehrani\">@susanmtehrani</a> gets you the latest updates with <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2052034843014529288#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052033737278263298%2Fimg%2Fl1y817sQC1O80alp.jpg\" />\n</a>",
-      "author": "@WIONews"
     },
     {
       "title": "Before their banger, here is our banger \ud83d\udd25\n\nOne year of the generational gangbang of a nuclear nation \ud83d\udcaf",
@@ -2181,16 +2228,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @OsintTV: Pakistan threatens India that it will respond with full might if water flow is stopped\n\n\"Any attempt to stop or divert the flow of water belonging to Pakistan under the Indus Waters Treaty will be considered as an ACT OF WAR. Any misadventure against Pakistan will be met with full might, resolve, and determination\": Ishaq Dar\n\nINDIA clearly stated that BLOOD & WATER will not flow together.",
-      "link": "https://nitter.net/OsintTV/status/2051859502027485649#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-06T08:30:01+05:30",
-      "time": "06 May, 08:30 AM",
-      "type": "tweets",
-      "content": "<p>Pakistan threatens India that it will respond with full might if water flow is stopped<br />\n<br />\n\"Any attempt to stop or divert the flow of water belonging to Pakistan under the Indus Waters Treaty will be considered as an ACT OF WAR. Any misadventure against Pakistan will be met with full might, resolve, and determination\": Ishaq Dar<br />\n<br />\nINDIA clearly stated that BLOOD & WATER will not flow together.</p>\n<a href=\"https://nitter.net/OsintTV/status/2051859502027485649#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051772028391227403%2Fimg%2F2mtwrsr7xk-bHNut.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Pakistan\u2019s Deputy Prime Minister Ishaq Dar and PM Shehbaz Sharif\u2019s Special Assistant Rana Sanaullah have threatened that if India stops Pakistan\u2019s water under the Indus Waters Treaty, it will be treated as an act of war, adding that India\u2019s Baglihar Dam would be targeted.",
       "link": "https://nitter.net/Goreunit/status/2051851034210033772#m",
       "source": "War & Gore",
@@ -2251,16 +2288,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Expose: Lashkar E Taiyyaba(LeT) has publicly acknowledged losses after Op Sindoor for the first time\n\njoin us on youtube for daily updates \ud83d\udc47\nhttps://youtube.com/shorts/PjQi3MH8JNE?si=7rhMdzMOQfrlvcsC",
-      "link": "https://nitter.net/Goreunit/status/2051715982071079022#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-05T22:59:43+05:30",
-      "time": "05 May, 10:59 PM",
-      "type": "tweets",
-      "content": "<p>Expose: Lashkar E Taiyyaba(LeT) has publicly acknowledged losses after Op Sindoor for the first time<br />\n<br />\njoin us on youtube for daily updates \ud83d\udc47<br />\n<a href=\"https://piped.video/shorts/PjQi3MH8JNE?si=7rhMdzMOQfrlvcsC\">piped.video/shorts/PjQi3MH8J\u2026</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2051715982071079022#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2051715380733706245%2Fimg%2FDkDpc09F-YYXSSxQ.jpg\" />\n</a>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "RT by @Goreunit: \ud83d\udea8 Part the Pretence: \nPakistan\u2019s playbook - Sponsor terror, deny it, flood social media with lies.\n\n\u2705 India\u2019s precision strikes in #OperationSindoor hit terror camps after Pahalgam massacre. Pak spun fake victories, false jet shootdowns & doctored images. Their propaganda continues with recycled toolkits, #PakLies are exposed daily. Truth prevails.\n\n#PakPropagandaBusted #SindoorAnniversary #JusticeEndures\n@adgpi",
       "link": "https://nitter.net/MythbusterXX/status/2051704864041017791#m",
       "source": "War & Gore",
@@ -2310,15 +2337,6 @@
       "thumbnail": "https://img.youtube.com/vi/FkAw0fNsli4/mqdefault.jpg"
     },
     {
-      "title": "Agni 6 : MIRV Capable ICBM of India",
-      "link": "https://www.youtube.com/watch?v=KjnvHaMoXBM",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-05-06T14:48:02+05:30",
-      "time": "06 May, 02:48 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/KjnvHaMoXBM/mqdefault.jpg"
-    },
-    {
       "title": "Top 5 Most Crashed Fighter Jets Ever",
       "link": "https://www.youtube.com/watch?v=fInOQfXo23I",
       "source": "Defense Squad",
@@ -2346,15 +2364,6 @@
       "thumbnail": "https://img.youtube.com/vi/aJLp-UkYdEM/mqdefault.jpg"
     },
     {
-      "title": "Ghatak UCAV - New Updates",
-      "link": "https://www.youtube.com/watch?v=4Q6l3ZLBz68",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-05-05T18:12:34+05:30",
-      "time": "05 May, 06:12 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/4Q6l3ZLBz68/mqdefault.jpg"
-    },
-    {
       "title": "Indian Defence Updates : Agni-5 MK2 Test,Brahmos-2 by 2027,Divyastra Mk2 Test,Mini-Destroyer Offer",
       "link": "https://www.youtube.com/watch?v=6eWinrJJO04",
       "source": "Indian Defence Updates",
@@ -2365,6 +2374,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
