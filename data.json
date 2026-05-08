@@ -1,6 +1,87 @@
 {
   "news": [
     {
+      "title": "Taiwan's Parliament approves $25 billion defence spending bill",
+      "link": "https://www.thehindu.com/news/international/taiwans-parliament-approves-25-billion-defence-spending-bill/article70956482.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-08T21:02:35+05:30",
+      "time": "08 May, 09:02 PM",
+      "type": "news",
+      "description": "Taiwanese lawmakers have been at loggerheads over how much to spend on improving defence capabilities against a potential attack by China, which claim..."
+    },
+    {
+      "title": "Russia, Ukraine trade attacks ahead of Kremlin's WWII celebrations",
+      "link": "https://www.thehindu.com/news/international/russia-ukraine-trade-attacks-ahead-of-kremlins-wwii-celebrations/article70956414.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-08T20:51:16+05:30",
+      "time": "08 May, 08:51 PM",
+      "type": "news",
+      "description": "Ukraine never said it would abide by Moscow's call to halt strikes and lambasted Russian leader Vladimir Putin for only wanting to pause fighting so h..."
+    },
+    {
+      "title": "North Korea not bound to any treaty on non-proliferation of nuclear weapons, KCNA reports",
+      "link": "https://www.indiastrategic.in/north-korea-not-bound-to-any-treaty-on-non-proliferation-of-nuclear-weapons-kcna-reports/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-08T20:48:08+05:30",
+      "time": "08 May, 08:48 PM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar SEOUL, May 7, 2026. North Korea is not bound to any treaty on \u200bnon-proliferation of nuclear weapons, state media KCNA reported on T..."
+    },
+    {
+      "title": "Tawazun and Lockheed Martin to set up advanced microchip design and assembly facility in UAE",
+      "link": "https://www.indiastrategic.in/tawazun-and-lockheed-martin-to-set-up-advanced-microchip-design-and-assembly-facility-in-uae/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-08T20:41:08+05:30",
+      "time": "08 May, 08:41 PM",
+      "type": "news",
+      "description": "<p>Abu Dhabi, May 8. In a major step toward strengthening the UAE\u2019s advanced manufacturing and technology ecosystem, Tawazun Council for Defence Empow..."
+    },
+    {
+      "title": "Two Indian nationals onboard hantavirus-hit ship asymptomatic, under observation: Health Ministry",
+      "link": "https://www.thehindu.com/sci-tech/health/indian-nationals-part-of-crew-of-luxury-cruise-ship-that-reported-hantavirus-outbreak/article70954019.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-08T20:35:38+05:30",
+      "time": "08 May, 08:35 PM",
+      "type": "news",
+      "description": "Eight probable cases of hantavirus infection have been reported onboard the vessel. According to WHO, the virus involved is the Andes strain of hantav..."
+    },
+    {
+      "title": "Rajnath Singh hails Operation Sindoor as model of joint warfare at Commanders\u2019 Conference in Jaipur",
+      "link": "https://www.indiastrategic.in/rajnath-singh-hails-operation-sindoor-as-model-of-joint-warfare-at-commanders-conference-in-jaipur/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-08T20:33:42+05:30",
+      "time": "08 May, 08:33 PM",
+      "type": "news",
+      "description": "<p>Jaipur, May 8. Defence Minister Rajnath Singh on May 8 described Operation Sindoor as a defining example of the Indian armed forces\u2019 ability to exe..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Israeli airstrikes kill five in southern Lebanon as Hezbollah rockets hit open areas in Israel",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-08T20:31:54+05:30",
+      "time": "08 May, 08:31 PM",
+      "type": "news",
+      "description": "Rubio says 'unacceptable' for Iran to control Hormuz"
+    },
+    {
+      "title": "US says opened fire to disable two Iran-flagged ships violating port blockade",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-says-opened-fire-to-disable-two-iran-flagged-ships-violating-port-blockade/articleshow/130963023.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-08T20:20:43+05:30",
+      "time": "08 May, 08:20 PM",
+      "type": "news",
+      "description": "American forces have disabled four Iranian ships attempting to breach a blockade of Iran's ports. The US Navy used precision munitions and cannon fire..."
+    },
+    {
+      "title": "US pushes new UN action on Iran, China-Russia veto threat looms",
+      "link": "https://indianexpress.com/article/world/us-news/strait-of-hormuz-unsc-resolution-us-iran-china-russia-veto-10679765/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-08T20:14:05+05:30",
+      "time": "08 May, 08:14 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "No One Guilty In 2010 Killing Of 76 Security Personnel In Tadmetla In Naxal Attack",
       "link": "https://www.deccanchronicle.com/nation/chhattisgarh-hc-acquits-all-10-accused-in-2010-tadmetla-massacre-1955463",
       "source": "Deccan Chronicle",
@@ -71,15 +152,6 @@
       "time": "08 May, 06:55 PM",
       "type": "news",
       "description": "The B1 corridor connects Tehran with northern and northwestern regions that have large Azeri populations. Karaj itself has a substantial Azeri communi..."
-    },
-    {
-      "title": "Iran-Israel war LIVE: UAE reports drone, missile attack as ceasefire is challenged",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-08T18:55:30+05:30",
-      "time": "08 May, 06:55 PM",
-      "type": "news",
-      "description": "Iran and U.S. had traded fire earlier, with U.S. President Trump dismissing the attacks as \u201ca trifle\""
     },
     {
       "title": "India, Singapore reaffirm zero tolerance to terrorism at Joint Working Group meeting",
@@ -289,15 +361,6 @@
       "description": "US President Donald Trump has said that the United States and the European Union are united in ensuring that Iran never acquires nuclear weapons. In a..."
     },
     {
-      "title": "2 Indian nationals part of crew of luxury cruise ship that reported hantavirus outbreak",
-      "link": "https://www.thehindu.com/sci-tech/health/indian-nationals-part-of-crew-of-luxury-cruise-ship-that-reported-hantavirus-outbreak/article70954019.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-08T12:04:02+05:30",
-      "time": "08 May, 12:04 PM",
-      "type": "news",
-      "description": "The luxury cruise ship, operated by Oceanwide Expeditions, began its journey on April 1 from Argentina\u2019s Ushuaia and is expected to arrive in Spain\u2019s ..."
-    },
-    {
       "title": "DRDO & IAF successfully conduct maiden flight-trial of Tactical Advanced Range Augmentation weapon",
       "link": "https://www.indiastrategic.in/drdo-iaf-successfully-conduct-maiden-flight-trial-of-tactical-advanced-range-augmentation-weapon/",
       "source": "India Strategic",
@@ -314,15 +377,6 @@
       "time": "08 May, 10:59 AM",
       "type": "news",
       "description": "The deputy Minister, Ali Maarij al-Bahadli, \"abused his government position to divert Iraqi oil in support of the Iranian regime and its terrorist pro..."
-    },
-    {
-      "title": "US seeking UN help to open Hormuz after undermining it",
-      "link": "https://www.indiastrategic.in/us-seeking-un-help-to-open-hormuz-after-undermining-it/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-08T10:57:58+05:30",
-      "time": "08 May, 10:57 AM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Marco Rubio has called on the United Nations for a Hormuz solution as talks for a peace deal in Iran continue. US monitors Hormuz t..."
     },
     {
       "title": "Defence Minister Rajnath Singh releases documentary to mark one year of Op Sindoor",
@@ -350,15 +404,6 @@
       "time": "08 May, 10:50 AM",
       "type": "news",
       "description": "A split three-judge panel of the Court of International Trade in New York on Thursday (May 7, 2026) found the 10% global tariffs were illegal after sm..."
-    },
-    {
-      "title": "INS Sagardhwani arrives in Cam Ranh, Vietnam",
-      "link": "https://www.indiastrategic.in/ins-sagardhwani-arrives-in-cam-ranh-vietnam/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-08T10:39:28+05:30",
-      "time": "08 May, 10:39 AM",
-      "type": "news",
-      "description": "<p>New Delhi, May 7. INS Sagardhwani, an oceanographic research vessel, arrived at Cam Ranh, Vietnam on May 5, 2026, marking a significant step in Ind..."
     },
     {
       "title": "DRDO tests India\u2019s first indigenous glide weapon system 'TARA'",
@@ -766,15 +811,6 @@
       "description": "India has reaffirmed its right to defend itself against cross-border terrorism sponsored by Pakistan. This strong message comes on the first anniversa..."
     },
     {
-      "title": "India, Vietnam elevate ties to \u2018Enhanced Comprehensive Strategic Partnership\u2019 after high-level talks in New Delhi",
-      "link": "https://www.indiastrategic.in/india-vietnam-elevate-ties-to-enhanced-comprehensive-strategic-partnership-after-high-level-talks-in-new-delhi/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-07T16:57:47+05:30",
-      "time": "07 May, 04:57 PM",
-      "type": "news",
-      "description": "<p>New Delhi, May 7. India and Vietnam have significantly upgraded their bilateral relationship to an Enhanced Comprehensive Strategic Partnership fol..."
-    },
-    {
       "title": "Iran denies ship attack as Trump warns of renewed bombing, eyes deal",
       "link": "https://www.thehindu.com/news/international/iran-denies-ship-attack-as-trump-warns-of-renewed-bombing-eyes-deal/article70949962.ece",
       "source": "The Hindu",
@@ -955,7 +991,7 @@
       "description": "Iran war news: America fired on an Iranian oil tanker in the Gulf of Oman. President Trump is pressuring Tehran for a deal to end the war. Israel also..."
     },
     {
-      "title": "Iran-US-Israel War News Live Updates: Iran-backed groups targeted US facilities in Iraq 600 times, says report",
+      "title": "Iran-US-Israel War News Live Updates: Fresh clashes break out between Iran, US military near Hormuz, says report",
       "link": "https://indianexpress.com/article/world/iran-us-war-news-live-updates-trump-tehran-hormuz-ceasefire-proposal-10676935/",
       "source": "The Indian Express",
       "sort_key": "2026-05-07T08:50:57+05:30",
@@ -1045,15 +1081,6 @@
       "description": "New Ministry of Defence guidelines introduce stricter penalties for defence suppliers. Companies failing to meet contract terms or supplying underperf..."
     },
     {
-      "title": "Israeli court rejects Gaza flotilla activists' appeal challenging detention",
-      "link": "https://www.thehindu.com/news/international/israeli-court-rejects-gaza-flotilla-activists-appeal-challenging-detention/article70948375.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-06T23:32:37+05:30",
-      "time": "06 May, 11:32 PM",
-      "type": "news",
-      "description": "The two were seized by Israeli forces and brought to Israel for questioning, while the others were taken to the Greek island of Crete and released"
-    },
-    {
       "title": "Israel strikes Beirut suburbs for first time since ceasefire was announced",
       "link": "https://economictimes.indiatimes.com/news/defence/israel-strikes-beirut-suburbs-for-first-time-since-ceasefire-was-announced/articleshow/130865970.cms",
       "source": "Economic Times",
@@ -1106,36 +1133,139 @@
       "time": "06 May, 09:32 PM",
       "type": "news",
       "description": "France's aircraft carrier Charles de Gaulle is now in the Red Sea. This move prepares for a possible mission in the Strait of Hormuz. The French-Briti..."
-    },
-    {
-      "title": "Iran bets on new maritime system for ships transiting Strait of Hormuz",
-      "link": "https://indianexpress.com/article/world/iran-strait-of-hormuz-new-transit-permit-rules-trump-bombing-warning-10676384/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-06T21:12:39+05:30",
-      "time": "06 May, 09:12 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Operation Sindoor: India marks first anniversary of its most expansive multi-domain combat mission in half a century",
-      "link": "https://economictimes.indiatimes.com/news/defence/operation-sindoor-india-marks-first-anniversary-of-its-most-expansive-multi-domain-combat-mission-in-half-a-century/articleshow/130861555.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-06T20:57:08+05:30",
-      "time": "06 May, 08:57 PM",
-      "type": "news",
-      "description": "Operation Sindoor, launched after the Pahalgam attack, redefined India's security. It utilized drones and AI, prompting a military upgrade. India acqu..."
-    },
-    {
-      "title": "Iran war angle in White House dinner shooting? US probes motive behind Cole Tomas Allen\u2019s attack",
-      "link": "https://indianexpress.com/article/world/us-cole-allen-trump-assassination-attempt-motive-iran-war-10676078/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-06T20:49:19+05:30",
-      "time": "06 May, 08:49 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "EAM Dr Jaishankar concludes Suriname visit:",
+      "link": "https://nitter.net/sidhant/status/2052778365053227462#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-08T21:21:15+05:30",
+      "time": "08 May, 09:21 PM",
+      "type": "tweets",
+      "content": "<p>EAM Dr Jaishankar concludes Suriname visit:</p>\n<img src=\"https://nitter.net/pic/media%2FHHzvCQxbkAAKMWd.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: \"The Consulate will render all possible assistance in this matter on priority. Our deepest condolences\"",
+      "link": "https://nitter.net/sidhant/status/2052777397381197899#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-08T21:17:24+05:30",
+      "time": "08 May, 09:17 PM",
+      "type": "tweets",
+      "content": "<p>\"The Consulate will render all possible assistance in this matter on priority. Our deepest condolences\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The Consulate is saddened to learn of the unfortunate incident at Sea that caused the tragic death of an Indian crew of a ship. The Consulate is in touch with the owner of the ship and is ascertaining further details: Indian consulate in Dubai",
+      "link": "https://nitter.net/sidhant/status/2052777307807560054#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-08T21:17:03+05:30",
+      "time": "08 May, 09:17 PM",
+      "type": "tweets",
+      "content": "<p>The Consulate is saddened to learn of the unfortunate incident at Sea that caused the tragic death of an Indian crew of a ship. The Consulate is in touch with the owner of the ship and is ascertaining further details: Indian consulate in Dubai</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"India hit our 'freedom fighter' camps & airbases with precision missiles. We couldn't stop them. India showed ability to hit our parked aircrafts but we couldn't hit theirs.\"\n\n- ISI stooge Najam Sethi",
+      "link": "https://nitter.net/Goreunit/status/2052775133081923979#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-08T21:08:25+05:30",
+      "time": "08 May, 09:08 PM",
+      "type": "tweets",
+      "content": "<p>\"India hit our 'freedom fighter' camps &amp; airbases with precision missiles. We couldn't stop them. India showed ability to hit our parked aircrafts but we couldn't hit theirs.\"<br />\n<br />\n- ISI stooge Najam Sethi</p>\n<a href=\"https://nitter.net/Goreunit/status/2052775133081923979#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052775077155090432%2Fpu%2Fimg%2FJVA41obtwPyBU7QR.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "China confirms support to Pakistan during Operation Sindoor: Report\n\nIndia says China has, for the first time, acknowledged providing on-site technical support to Pakistan during Operation Sindoor last year, raising fresh strategic concerns in the region.\n\nReports indicate Chinese engineers assisted Pakistan in operating and optimizing Chinese-origin military systems during the conflict. The admission points to deeper defence coordination between Beijing and Islamabad and is likely to influence regional security dynamics.",
+      "link": "https://nitter.net/OsintTV/status/2052774469270147216#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-08T21:05:46+05:30",
+      "time": "08 May, 09:05 PM",
+      "type": "tweets",
+      "content": "<p>China confirms support to Pakistan during Operation Sindoor: Report<br />\n<br />\nIndia says China has, for the first time, acknowledged providing on-site technical support to Pakistan during Operation Sindoor last year, raising fresh strategic concerns in the region.<br />\n<br />\nReports indicate Chinese engineers assisted Pakistan in operating and optimizing Chinese-origin military systems during the conflict. The admission points to deeper defence coordination between Beijing and Islamabad and is likely to influence regional security dynamics.</p>\n<img src=\"https://nitter.net/pic/media%2FHHzrd54WwAA8KmI.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Bihar orders vehicle owners to remove caste stickers, \u20b92,000 fine",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052774317667373124#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-08T21:05:10+05:30",
+      "time": "08 May, 09:05 PM",
+      "type": "tweets",
+      "content": "<p>Bihar orders vehicle owners to remove caste stickers, \u20b92,000 fine</p>",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "\ud83d\udea8\ud83c\uddee\ud83c\uddf3\ud83e\ude96 Indian Army, Kohima, Nagaland\n\nK9 Warriors of the Red Shield Division delivered a powerful display during slithering exercise at Leimakhong Military Station, Manipur.\n\nFive dog teams executed heli-borne insertion drills with precision, speed and strong coordination.\n\nThe exercise highlights high combat readiness, discipline and their key role in search and rescue, disaster response and counter-terror operations.",
+      "link": "https://nitter.net/OsintTV/status/2052770569536274605#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-08T20:50:17+05:30",
+      "time": "08 May, 08:50 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8\ud83c\uddee\ud83c\uddf3\ud83e\ude96 Indian Army, Kohima, Nagaland<br />\n<br />\nK9 Warriors of the Red Shield Division delivered a powerful display during slithering exercise at Leimakhong Military Station, Manipur.<br />\n<br />\nFive dog teams executed heli-borne insertion drills with precision, speed and strong coordination.<br />\n<br />\nThe exercise highlights high combat readiness, discipline and their key role in search and rescue, disaster response and counter-terror operations.</p>\n<a href=\"https://nitter.net/OsintTV/status/2052770569536274605#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052770421829697539%2Fimg%2FfObg7tLOtHvqjiX9.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Guliakhali Beach, Bangladesh",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052769921625641151#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-08T20:47:42+05:30",
+      "time": "08 May, 08:47 PM",
+      "type": "tweets",
+      "content": "<p>Guliakhali Beach, Bangladesh</p>\n<img src=\"https://nitter.net/pic/media%2FHHznEd0bkAEu2w4.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "Indian naval ship IOS Sagar arrived at Chattogram harbour today",
+      "link": "https://nitter.net/WarMonitorINTL/status/2052768228213203123#m",
+      "source": "War Monitor",
+      "sort_key": "2026-05-08T20:40:58+05:30",
+      "time": "08 May, 08:40 PM",
+      "type": "tweets",
+      "content": "<p>Indian naval ship IOS Sagar arrived at Chattogram harbour today</p>\n<img src=\"https://nitter.net/pic/media%2FHHzldvsbkAE1tZq.jpg\" />",
+      "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "India tests an unknown missile \n\nMeanwhile Bangladesh is closely monitoring the situation. \ud83d\udc47\ud83c\udffb",
+      "link": "https://nitter.net/Goreunit/status/2052766777860633066#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-08T20:35:13+05:30",
+      "time": "08 May, 08:35 PM",
+      "type": "tweets",
+      "content": "<p>India tests an unknown missile <br />\n<br />\nMeanwhile Bangladesh is closely monitoring the situation. \ud83d\udc47\ud83c\udffb</p>\n<a href=\"https://nitter.net/Goreunit/status/2052766777860633066#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052766754817077248%2Fpu%2Fimg%2FfQoFJSNlkysMrkOm.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Video/pics of Indian missile recorded from all weather spectator/situation Monitor Bangladesh.</p>\n<a href=\"https://nitter.net/Goreunit/status/2052762918878687376#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052762892521652224%2Fpu%2Fimg%2FxubOBfugnhapEz0U.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHHzg-d1bEAAD6PO.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHzg-e6aoAA8iQ7.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHzg-jRaEAAhRlQ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2052762918878687376#m\">https://nitter.net/Goreunit/status/2052762918878687376#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Bangladeshi media on Indian missile test \n\n\"Mysterious light flashes in the night sky in Sitakunda, Chittagong\"",
+      "link": "https://nitter.net/Goreunit/status/2052765576641286334#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-08T20:30:26+05:30",
+      "time": "08 May, 08:30 PM",
+      "type": "tweets",
+      "content": "<p>Bangladeshi media on Indian missile test <br />\n<br />\n\"Mysterious light flashes in the night sky in Sitakunda, Chittagong\"</p>\n<img src=\"https://nitter.net/pic/media%2FHHzjZ5IbcAAURrF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHzjZ54bcAEq8pu.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHzjaBybQAANUzu.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Video/pics of Indian missile recorded from all weather spectator/situation Monitor Bangladesh.</p>\n<a href=\"https://nitter.net/Goreunit/status/2052762918878687376#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052762892521652224%2Fpu%2Fimg%2FxubOBfugnhapEz0U.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHHzg-d1bEAAD6PO.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHzg-e6aoAA8iQ7.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHHzg-jRaEAAhRlQ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2052762918878687376#m\">https://nitter.net/Goreunit/status/2052762918878687376#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Poland ambassador Piotr Antoni \u015awitalski to grace an exhibition on Maciej Nowicki, chief architect of the Indian city of Chandigarh on Tuesday",
+      "link": "https://nitter.net/sidhant/status/2052764941996974528#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-08T20:27:55+05:30",
+      "time": "08 May, 08:27 PM",
+      "type": "tweets",
+      "content": "<p>Poland ambassador Piotr Antoni \u015awitalski to grace an exhibition on Maciej Nowicki, chief architect of the Indian city of Chandigarh on Tuesday</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Team Europe in Delhi",
+      "link": "https://nitter.net/sidhant/status/2052764089068466236#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-08T20:24:32+05:30",
+      "time": "08 May, 08:24 PM",
+      "type": "tweets",
+      "content": "<p>Team Europe in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHHziDPuaMAAm1nq.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Video/pics of Indian missile recorded from all weather spectator/situation Monitor Bangladesh.",
       "link": "https://nitter.net/Goreunit/status/2052762918878687376#m",
@@ -1317,7 +1447,7 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Odisha skies lit by unusual visuals....\n\nAwaiting for official update",
+      "title": "RT by @OsintTV: Odisha skies lit by unusual visuals....\n\nAwaiting for official update",
       "link": "https://nitter.net/OsintTV/status/2052744530076512305#m",
       "source": "Osint TV",
       "sort_key": "2026-05-08T19:06:48+05:30",
@@ -1423,7 +1553,7 @@
       "sort_key": "2026-05-08T18:01:09+05:30",
       "time": "08 May, 06:01 PM",
       "type": "tweets",
-      "content": "<p>China confirms that it sent engineers to support Pakistan\u2019s air force during last year\u2019s four-day war with India. <br />\n<br />\nState television aired an interview with Zhang Heng, an engineer from the Aviation Industry Corporation of China\u2019s (AVIC) <br />\n<br />\n<a href=\"https://amp.scmp.com/news/china/military/article/3352863/china-confirms-it-helped-pakistans-air-force-during-last-years-war-india?utm_medium=Social&amp;utm_source=Twitter#Echobox=1778226540\">amp.scmp.com/news/china/mili\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052654373533356032%2FPPnVva1N%3Fformat%3Djpg%26name%3D800x419\" />",
+      "content": "<p>China confirms that it sent engineers to support Pakistan\u2019s air force during last year\u2019s four-day war with India. <br />\n<br />\nState television aired an interview with Zhang Heng, an engineer from the Aviation Industry Corporation of China\u2019s (AVIC) <br />\n<br />\n<a href=\"https://amp.scmp.com/news/china/military/article/3352863/china-confirms-it-helped-pakistans-air-force-during-last-years-war-india?utm_medium=Social&amp;utm_source=Twitter#Echobox=1778226540\">amp.scmp.com/news/china/mili\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052686954425135109%2FtvvXSj4t%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@sidhant"
     },
     {
@@ -1583,7 +1713,7 @@
       "sort_key": "2026-05-08T13:31:03+05:30",
       "time": "08 May, 01:31 PM",
       "type": "tweets",
-      "content": "<p>Sit down porki, go collect your atte ki bori from ISPR now.</p>\n<img src=\"https://nitter.net/pic/media%2FHHyDbE8aMAAgfV_.jpg\" />\n\n<hr />\n<blockquote>\n<b>Baba Thoka (@ThokaReturns)</b>\n<p>\n<p>Major General Rajiv Narayanan, a retired Indian Army officer and defense analyst sent his son to UK on a business Visa. General\u2019s son getting caught in a pedophile-hunting sting has become an international embarrassment for India.</p>\n<a href=\"https://nitter.net/ThokaReturns/status/2052468294985363720#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052468188919816192%2Fimg%2F4cRkg1La52lEmDGY.jpg\" />\n</a>\n\n<p><b>Community note:</b> The claim is false; Maj Gen Rajiv Narayanan stated \"Fake news. I am Major General Rajiv Narayanan, and I do not have any son.\" <a href=\"https://nitter.net/t.co/AAiRDEIYPo\">x.com/KlRajiv/status\u2026</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThokaReturns/status/2052468294985363720#m\">https://nitter.net/ThokaReturns/status/2052468294985363720#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Sit down porki, go collect your atte ki bori from ISPR now.</p>\n<img src=\"https://nitter.net/pic/media%2FHHyDbE8aMAAgfV_.jpg\" />\n\n<hr />\n<blockquote>\n<b>Baba Thoka (@ThokaReturns)</b>\n<p>\n<p>Major General Rajiv Narayanan, a retired Indian Army officer and defense analyst sent his son to UK on a business Visa. General\u2019s son getting caught in a pedophile-hunting sting has become an international embarrassment for India.</p>\n<a href=\"https://nitter.net/ThokaReturns/status/2052468294985363720#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052468188919816192%2Fimg%2F4cRkg1La52lEmDGY.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThokaReturns/status/2052468294985363720#m\">https://nitter.net/ThokaReturns/status/2052468294985363720#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1737,16 +1867,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @OsintTV: DRDO and the Indian Air Force successfully conducted the maiden flight-trial of Tactical Advanced Range Augmentation (TARA) weapon off the coast of Odisha on May 07.#TARA, the modular range extension kit, is India\u2019s first indigenous glide weapon system to convert unguided warheads into precision guided weapon. @indiatvnews @DRDO_India",
-      "link": "https://nitter.net/manishindiatv/status/2052607755450794124#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-08T10:03:19+05:30",
-      "time": "08 May, 10:03 AM",
-      "type": "tweets",
-      "content": "<p>DRDO and the Indian Air Force successfully conducted the maiden flight-trial of Tactical Advanced Range Augmentation (TARA) weapon off the coast of Odisha on May 07.<a href=\"https://nitter.net/search?f=tweets&amp;q=%23TARA\">#TARA</a>, the modular range extension kit, is India\u2019s first indigenous glide weapon system to convert unguided warheads into precision guided weapon. <a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a> <a href=\"https://nitter.net/DRDO_India\" title=\"DRDO\">@DRDO_India</a></p>\n<img src=\"https://nitter.net/pic/media%2FHHxT3lCawAAT2s-.jpg\" />",
-      "author": "@manishindiatv"
-    },
-    {
       "title": "R to @NetramDefence: Day 2 Outcome:\n\nDay 2 marked a pivotal transition from precision strikes on terrorist infrastructure to high-intensity multi-domain warfare focused on Escalation Dominance and Suppression of Enemy Air Defenses (SEAD). While Pakistan launched a massive retaliatory effort, India utilized indigenous technology and deceptive tactics to establish conventional superiority.\n\n1\u20e3 Suppression of Pakistani Air Defenses (SEAD): In a sophisticated mission, the Indian Air Force (IAF) successfully neutralized a critical Chinese-supplied HQ-9B surface-to-air missile (SAM) unit in Lahore. This strike, along with the destruction of radar installations in Gujranwala, effectively blinded the Pakistan Air Force\u2019s (PAF) early warning network in the Punjab sector.\n\n2\u20e3 Success of Deceptive Tactics: India employed \"dummy aircraft\" to fool Pakistani radar operators. This tactic lured the PAF into activating their defense systems, exposing their positions for subsequent precision strikes by Indian anti-radiation missiles.\n\n3\u20e3 Total Interception of Drone Swarms: Pakistan attempted to overwhelm Indian defenses by launching between 600 and 1,000 drones, including Turkish-origin ASISGUARD Songar and Chinese Wing Loong II units. The Indian Integrated Counter-UAS Grid, powered by the indigenous Akashteer command and control system and Akash missile batteries, achieved a near-perfect kill rate, neutralising over 600 drones along the western front.\n\n4\u20e3 Maritime Compellence: The INS Vikrant Carrier Battle Group (CBG), operating in the northern Arabian Sea, maintained a combat air patrol (CAP) that pinned the Pakistan Navy to its coast, effectively enforcing a posture of maritime compellence and preventing any flanking maneuvers from the Makran coast.",
       "link": "https://nitter.net/NetramDefence/status/2052606860478628256#m",
       "source": "Netram Defense",
@@ -1867,46 +1987,6 @@
       "author": "@AngryRumi7"
     },
     {
-      "title": "US becoming energy exporter bring in major policy changes.",
-      "link": "https://nitter.net/sidhant/status/2052601422768902383#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-08T09:38:09+05:30",
-      "time": "08 May, 09:38 AM",
-      "type": "tweets",
-      "content": "<p>US becoming energy exporter bring in major policy changes.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Have we secured our supplies?\", EAM Jaishankar talks about supply chain disruption. Points to \"weaponization\" of finance, resources, technology, connectivity.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1kKzDMkZBRwJv\">nitter.net/i/broadcasts/1kKzDMkZB\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052763194247065606%2FHEFn2JH9%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052600956714709386#m\">https://nitter.net/sidhant/status/2052600956714709386#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\"Have we secured our supplies?\", EAM Jaishankar talks about supply chain disruption. Points to \"weaponization\" of finance, resources, technology, connectivity.\n\nhttps://x.com/i/broadcasts/1kKzDMkZBRwJv",
-      "link": "https://nitter.net/sidhant/status/2052600956714709386#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-08T09:36:18+05:30",
-      "time": "08 May, 09:36 AM",
-      "type": "tweets",
-      "content": "<p>\"Have we secured our supplies?\", EAM Jaishankar talks about supply chain disruption. Points to \"weaponization\" of finance, resources, technology, connectivity.<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1kKzDMkZBRwJv\">nitter.net/i/broadcasts/1kKzDMkZB\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052763194247065606%2FHEFn2JH9%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: Today, 08th May, Raksha Mantri Shri @rajnathsingh will address the Joint Commanders\u2019 Conference in Jaipur.",
-      "link": "https://nitter.net/DefenceMinIndia/status/2052598243956240573#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-08T09:25:31+05:30",
-      "time": "08 May, 09:25 AM",
-      "type": "tweets",
-      "content": "<p>Today, 08th May, Raksha Mantri Shri <a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a> will address the Joint Commanders\u2019 Conference in Jaipur.</p>",
-      "author": "@DefenceMinIndia"
-    },
-    {
-      "title": "RT by @sidhant: Wrote an OpEd about my forthcoming visit to Somnath on 11th May and why this day will always be important with respect to Somnath and the greatness of our civilisation. Also paid homage to each and every person who endured all sorts of challenges yet always protected Somnath and restored its glory.\n\n https://nm-4.com/hPJHAi",
-      "link": "https://nitter.net/narendramodi/status/2052597571580014804#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-08T09:22:51+05:30",
-      "time": "08 May, 09:22 AM",
-      "type": "tweets",
-      "content": "<p>Wrote an OpEd about my forthcoming visit to Somnath on 11th May and why this day will always be important with respect to Somnath and the greatness of our civilisation. Also paid homage to each and every person who endured all sorts of challenges yet always protected Somnath and restored its glory.<br />\n<br />\n <a href=\"https://nm-4.com/hPJHAi\">nm-4.com/hPJHAi</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052587045567291392%2FZEwkc5-O%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@narendramodi"
-    },
-    {
       "title": "If these US attacks bear no fruit, the world economy will be cooked.\n\nAnd with another virus on the horizon, we are looking at extreme uncertainties in the near future.",
       "link": "https://nitter.net/elitepredatorss/status/2052593834723619034#m",
       "source": "Elite Predators",
@@ -1927,16 +2007,6 @@
       "author": "@mountain_rats"
     },
     {
-      "title": "Before and after effects of Op Sindoor on Jaish-e-Mohammed\u2019s major terrorist facility, the Syedna Bilal camp in Muzzafarabad.\n\nSeveral notorious terrorists trained at this camp before infiltrating into India. The Syedna Bilal camp has long been considered one of the key operational backbones of Jaish-e-Mohammed.\n\nLatest satellite and ground reports have confirmed the facility is now completely erased and building of new facility is underway.\n\nNew facility will be built using donations and funds provided by the Pakistani govt to the JeM terrorist organization.",
-      "link": "https://nitter.net/OsintTV/status/2052587783718420596#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-08T08:43:57+05:30",
-      "time": "08 May, 08:43 AM",
-      "type": "tweets",
-      "content": "<p>Before and after effects of Op Sindoor on Jaish-e-Mohammed\u2019s major terrorist facility, the Syedna Bilal camp in Muzzafarabad.<br />\n<br />\nSeveral notorious terrorists trained at this camp before infiltrating into India. The Syedna Bilal camp has long been considered one of the key operational backbones of Jaish-e-Mohammed.<br />\n<br />\nLatest satellite and ground reports have confirmed the facility is now completely erased and building of new facility is underway.<br />\n<br />\nNew facility will be built using donations and funds provided by the Pakistani govt to the JeM terrorist organization.</p>\n<img src=\"https://nitter.net/pic/media%2FHHxBruhWkAE446U.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Vijay's TVK warns all 107 MLAs will resign if DMK, AIADMK form govt: Sources",
       "link": "https://nitter.net/WarMonitorINTL/status/2052587225737822347#m",
       "source": "War Monitor",
@@ -1955,16 +2025,6 @@
       "type": "tweets",
       "content": "<p>On 6th May Trump said \u201cThey want to make a deal. We\u2019ve had very good talks over the last 24 hours, and it\u2019s very possible that we\u2019ll make a deal.\u201d<br />\n<br />\nOn the night of 7th May : America hit Iran's key infrastructure.<br />\n<br />\nTrusting Americans with anything is like holding a pointed gun towards your head, and they have their fingers on the triggers.</p>\n<img src=\"https://nitter.net/pic/media%2FHHv6T9yawAAxHjx.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Trump confirms Qatar is giving jet on the occasion of US Independence day.",
-      "link": "https://nitter.net/sidhant/status/2052583334644244615#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-08T08:26:16+05:30",
-      "time": "08 May, 08:26 AM",
-      "type": "tweets",
-      "content": "<p>Trump confirms Qatar is giving jet on the occasion of US Independence day.</p>\n<a href=\"https://nitter.net/sidhant/status/2052583334644244615#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052552413765124100%2Fimg%2F-f7p6PhH_jvJGPK1.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "Bengal Police arrests Jahinur Gazi over shooting of BJP worker Rohit Roy in Basirhat.",
@@ -2037,26 +2097,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Massive blast rocks Murshidabad\u2019s Salar area; youth loses both hands",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052435319790956743#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T22:38:07+05:30",
-      "time": "07 May, 10:38 PM",
-      "type": "tweets",
-      "content": "<p>Massive blast rocks Murshidabad\u2019s Salar area; youth loses both hands</p>\n<img src=\"https://nitter.net/pic/media%2FHHu3CLsbEAA3mnd.jpg\" />",
-      "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Israel confirms first reported hantavirus case.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052421976359366926#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T21:45:05+05:30",
-      "time": "07 May, 09:45 PM",
-      "type": "tweets",
-      "content": "<p>Israel confirms first reported hantavirus case.</p>",
-      "author": "@WarMonitorINTL"
-    },
-    {
       "title": "ISPR press conference in nutshell \ud83e\udd23",
       "link": "https://nitter.net/elitepredatorss/status/2052409656589586671#m",
       "source": "Elite Predators",
@@ -2075,16 +2115,6 @@
       "type": "tweets",
       "content": "<p><a href=\"https://nitter.net/Victorforce2\" title=\"Victorforce\">@Victorforce2</a> has uploaded a full 35 minute long compilation video : <a href=\"https://piped.video/ZlHQDq1K2q4?si=w4K-pGVuHoiTKYfE\">piped.video/ZlHQDq1K2q4?si=w4K-\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052403341368664064%2F5tv-sbS-%3Fformat%3Djpg%26name%3D800x320_1\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "\u201cWe defeated India on every front\": DG ISPR",
-      "link": "https://nitter.net/WarMonitorINTL/status/2052408506863747230#m",
-      "source": "War Monitor",
-      "sort_key": "2026-05-07T20:51:34+05:30",
-      "time": "07 May, 08:51 PM",
-      "type": "tweets",
-      "content": "<p>\u201cWe defeated India on every front\": DG ISPR</p>",
-      "author": "@WarMonitorINTL"
     },
     {
       "title": "The night Pakistanis finally understood that, light travels faster than sound \ud83d\udcaf\ud83d\ude01",
@@ -2107,16 +2137,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Must watch \ud83d\udc47",
-      "link": "https://nitter.net/Goreunit/status/2052400521903014395#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-07T20:19:50+05:30",
-      "time": "07 May, 08:19 PM",
-      "type": "tweets",
-      "content": "<p>Must watch \ud83d\udc47</p>\n<hr />\n<blockquote>\n<b>HQ IDS (@HQ_IDS_India)</b>\n<p>\n<p>\ud83d\udc46\ud83c\udffc\ud83d\udc46\ud83c\udffcTo commemorate the anniversary of Op Sindoor,  Hon\u2019ble Raksha Mantri released a documentary film on operation sindoor add jaipur during the joint commanders conference.<br />\n<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=_7WPO21cIXA66_5G\">piped.video/jN3oEXUKbf4?si=_7WP\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <br />\n<a href=\"https://nitter.net/SethSanjayMP\" title=\"Sanjay Seth\">@SethSanjayMP</a> <br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/PIB_India\" title=\"PIB India\">@PIB_India</a> <br />\n<a href=\"https://nitter.net/PTI_News\" title=\"Press Trust of India\">@PTI_News</a> <br />\n<a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a> <br />\n<a href=\"https://nitter.net/ians_india\" title=\"IANS\">@ians_india</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052385268846776320%2Ft50LaQ8J%3Fformat%3Djpg%26name%3D1200x627\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/HQ_IDS_India/status/2052398864750264594#m\">https://nitter.net/HQ_IDS_India/status/2052398864750264594#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "During Operation Sindoor, the Indian Navy\u2019s swift force projection in the Arabian Sea including carrier strike assets, submarine deployments, and surface action groups compelled Pakistan\u2019s DGMO to seek a ceasefire as Karachi faced escalating maritime and strategic vulnerability.",
       "link": "https://nitter.net/elitepredatorss/status/2052398987559530881#m",
       "source": "Elite Predators",
@@ -2127,16 +2147,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @Goreunit: \ud83d\udc46\ud83c\udffc\ud83d\udc46\ud83c\udffcTo commemorate the anniversary of Op Sindoor,  Hon\u2019ble Raksha Mantri released a documentary film on operation sindoor add jaipur during the joint commanders conference.\n\nhttps://youtu.be/jN3oEXUKbf4?si=_7WPO21cIXA66_5G\n\n@DefenceMinIndia \n@SethSanjayMP \n@SpokespersonMoD \n@MIB_India \n@adgpi \n@IAF_MCC \n@indiannavy \n@PIB_India \n@PTI_News \n@ANI \n@ians_india",
-      "link": "https://nitter.net/HQ_IDS_India/status/2052398864750264594#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-07T20:13:15+05:30",
-      "time": "07 May, 08:13 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udc46\ud83c\udffc\ud83d\udc46\ud83c\udffcTo commemorate the anniversary of Op Sindoor,  Hon\u2019ble Raksha Mantri released a documentary film on operation sindoor add jaipur during the joint commanders conference.<br />\n<br />\n<a href=\"https://piped.video/jN3oEXUKbf4?si=_7WPO21cIXA66_5G\">piped.video/jN3oEXUKbf4?si=_7WP\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <br />\n<a href=\"https://nitter.net/SethSanjayMP\" title=\"Sanjay Seth\">@SethSanjayMP</a> <br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/PIB_India\" title=\"PIB India\">@PIB_India</a> <br />\n<a href=\"https://nitter.net/PTI_News\" title=\"Press Trust of India\">@PTI_News</a> <br />\n<a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a> <br />\n<a href=\"https://nitter.net/ians_india\" title=\"IANS\">@ians_india</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2052385268846776320%2Ft50LaQ8J%3Fformat%3Djpg%26name%3D1200x627\" />",
-      "author": "@HQ_IDS_India"
-    },
-    {
       "title": "Operation Sindoor Documentary",
       "link": "https://nitter.net/elitepredatorss/status/2052395142297141322#m",
       "source": "Elite Predators",
@@ -2145,16 +2155,6 @@
       "type": "tweets",
       "content": "<p>Operation Sindoor Documentary</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2052395142297141322#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052394821869088768%2Fimg%2FFi4KdGIM2gsB0mKT.jpg\" />\n</a>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Governor of West Bengal, RN Ravi, has issued an Order dissolving the West Bengal Legislative Assembly with effect from 07 May 2026.",
-      "link": "https://nitter.net/Goreunit/status/2052394394695975398#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-07T19:55:29+05:30",
-      "time": "07 May, 07:55 PM",
-      "type": "tweets",
-      "content": "<p>Governor of West Bengal, RN Ravi, has issued an Order dissolving the West Bengal Legislative Assembly with effect from 07 May 2026.</p>\n<img src=\"https://nitter.net/pic/media%2FHHuR00EbkAE7Dno.jpg\" />",
-      "author": "@Goreunit"
     },
     {
       "title": "RT by @Goreunit: Just in: Indian military for the first time releases picture of damaged Pakistani radar. The picture is from Indian Military video released a short while ago on one year anniversary of Operation Sindoor.",
@@ -2175,16 +2175,6 @@
       "type": "tweets",
       "content": "<p>Air Marshal Bharti just gave a tight slap to those who accuse the forces of not supporting Atmanirbharta.<br />\n<br />\nIndian Armed Forces stats on indigenous tech :<br />\n<br />\n- Indigenous tech bought by armed forces in the last FY: 1.27 Lakh crore<br />\n<br />\n-  Indigenous tech exported in the last FY: 24 thousand crore<br />\n<br />\n- Target figure to achieve by 2029, indigenous tech to be bought : 3 Lakh crore.<br />\n<br />\n- Targeted Indigenous tech exports: 50 thousand crores.<br />\n<br />\nWe keep evaluating our needs, and we keep ourselves ready for the challenges without any compromise.</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @OsintTV: Damn.....\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\n\"But if situation arises and opportunity comes our way, be sure that we will deliver a decisive blow without any hesitation. Aur agar Bhagwan ki kripa hogi hamare sir pe, toh aapki icchayein aur tamannao ko bhi hum sab milkar bharpoor tarah se poora karenge.\" ....\ud83d\ude01\ud83d\ude02\ud83e\udd23: Vice Admiral AN Pramod -DGNO",
-      "link": "https://nitter.net/OsintTV/status/2052320570344198174#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-07T15:02:08+05:30",
-      "time": "07 May, 03:02 PM",
-      "type": "tweets",
-      "content": "<p>Damn.....\ud83d\udd25\ud83d\udd25\ud83d\udd25<br />\n<br />\n\"But if situation arises and opportunity comes our way, be sure that we will deliver a decisive blow without any hesitation. Aur agar Bhagwan ki kripa hogi hamare sir pe, toh aapki icchayein aur tamannao ko bhi hum sab milkar bharpoor tarah se poora karenge.\" ....\ud83d\ude01\ud83d\ude02\ud83e\udd23: Vice Admiral AN Pramod -DGNO</p>\n<a href=\"https://nitter.net/OsintTV/status/2052320570344198174#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052320182601699333%2Fimg%2FefYt8EADcDSdbuJh.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "Local media of Jaipur ambushed the officers and bombarded them with questions from welfare, warfare, to acquisitions of Su-57!",
@@ -2381,6 +2371,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
