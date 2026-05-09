@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Human Rights Council of Pakistan slams fuel price hike amid surging inflation",
+      "link": "https://www.newsonair.gov.in/human-rights-council-of-pakistan-slams-fuel-price-hike-amid-surging-inflation/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-09T14:09:45+05:30",
+      "time": "09 May, 02:09 PM",
+      "type": "news",
+      "description": "The Human Rights Council of Pakistan today strongly condemned the latest increase in petroleum product prices, calling it a direct assault on the publ..."
+    },
+    {
+      "title": "Iran-Israel war LIVE: Iran reviewing U.S. proposal at 'own pace' as Trump awaits response, says report",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-05-09T13:48:15+05:30",
+      "time": "09 May, 01:48 PM",
+      "type": "news",
+      "description": "The report said expectations had grown that Tehran would issue a response after U.S. Secretary of State Marco Rubio indicated that Washington was expe..."
+    },
+    {
+      "title": "Iran reviewing US proposal at 'own pace' as Trump awaits response: Report",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-reviewing-us-proposal-at-own-pace-as-trump-awaits-response-report/articleshow/130973274.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-09T13:18:15+05:30",
+      "time": "09 May, 01:18 PM",
+      "type": "news",
+      "description": "Iran is reviewing a United States proposal concerning the West Asia conflict. Tehran stated it will respond at the appropriate time, dismissing deadli..."
+    },
+    {
       "title": "US imposes sanctions on 10 individuals and companies for aiding Iran\u2019s weapon sector",
       "link": "https://www.newsonair.gov.in/us-imposes-sanctions-on-10-individuals-and-companies-for-aiding-irans-weapon-sector/",
       "source": "All India Radio",
@@ -8,15 +35,6 @@
       "time": "09 May, 12:55 PM",
       "type": "news",
       "description": "The US has announced sanctions against 10 individuals and companies, including several in China and Hong Kong, \u200bover accusations they aided Iran&#8217..."
-    },
-    {
-      "title": "Iran-Israel war LIVE: Israel army issues evacuation warning for nine south Lebanon villages",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-09T12:34:34+05:30",
-      "time": "09 May, 12:34 PM",
-      "type": "news",
-      "description": "\"For your safety, you must evacuate your homes immediately and stay away from the villages and towns by a distance of no less than 1,000 metres to ope..."
     },
     {
       "title": "US, Iran no closer to ending war as Gulf clashes flare",
@@ -208,7 +226,7 @@
       "description": "The U.S. State Department said it was coordinating with the Spanish government as well as other U.S. federal agencies."
     },
     {
-      "title": "Pakistan and China front expert Lieutenant General NS Raja Subramani appointed new CDS",
+      "title": "India\u2019s new CDS Lt Gen NS Subramani\u2014the soldier-scholar who is also an operations-oriented officer",
       "link": "https://theprint.in/defence/pakistan-and-china-front-expert-lieutenant-general-ns-raja-subramani-appointed-new-cds/2926454/",
       "source": "The Print",
       "sort_key": "2026-05-09T09:08:45+05:30",
@@ -404,15 +422,6 @@
       "time": "08 May, 10:37 PM",
       "type": "news",
       "description": "Italian Foreign Minister Antonio Tajani said he told US Secretary of State Marco Rubio, that Europe needs the United States and vice versa. This comes..."
-    },
-    {
-      "title": "India-Australia defence talks reaffirm Comprehensive Strategic Partnership",
-      "link": "https://www.newsonair.gov.in/india-australia-defence-talks-reaffirm-comprehensive-strategic-partnership/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-08T22:30:28+05:30",
-      "time": "08 May, 10:30 PM",
-      "type": "news",
-      "description": "The 10\u1d57\u02b0 edition of Defence Policy Talks between India and Australia took place in New Delhi today, led by Defence Joint Secretary Amitabh Prasad and ..."
     },
     {
       "title": "From Rafales to space surveillance how India expanded military capabilities after Operation Sindoor",
@@ -1117,15 +1126,6 @@
       "description": "Several Italian commentators believe the U.S. Secretary of State was looking to smooth over relations with the pope for his own political ambitions as..."
     },
     {
-      "title": "Russia says Ukraine launched a major drone attack after Moscow shunned ceasefire offer",
-      "link": "https://www.thehindu.com/news/international/russia-says-ukraine-launched-a-major-drone-attack-after-moscow-shunned-ceasefire-offer/article70951036.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-05-07T17:39:38+05:30",
-      "time": "07 May, 05:39 PM",
-      "type": "news",
-      "description": "Tension has grown as Russia's Victory Day celebrations approach and U.S.-led peace efforts gain no traction"
-    },
-    {
       "title": "Operation Sindoor anniversary: 'Those who threaten India\u2019s peace can\u2019t escape our forces,' says MoS MEA",
       "link": "https://economictimes.indiatimes.com/news/defence/operation-sindoor-anniversary-those-who-threaten-indias-peace-cant-escape-our-forces-says-mos-mea/articleshow/130894468.cms",
       "source": "Economic Times",
@@ -1214,18 +1214,39 @@
       "time": "07 May, 02:29 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Upwind: A US cybersecurity co shares what's in demand now as wars move to the cloud",
-      "link": "https://economictimes.indiatimes.com/news/defence/as-wars-move-to-the-cloud-us-cyber-cloud-security-firm-upwind-sees-defence-security-demand-surge-in-india-pune-development-centre/articleshow/130884263.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-07T13:27:52+05:30",
-      "time": "07 May, 01:27 PM",
-      "type": "news",
-      "description": "Upwind, a US cloud security firm, is expanding into India and Asia-Pacific.  Demand is rising from defense and government sectors due to cyber warfare..."
     }
   ],
   "tweets": [
+    {
+      "title": "Bangladesh's Awani League extends congratulations to new West Bengal Chief Minister Suvendu Adhikari",
+      "link": "https://nitter.net/sidhant/status/2053033147793907958#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-09T14:13:40+05:30",
+      "time": "09 May, 02:13 PM",
+      "type": "tweets",
+      "content": "<p>Bangladesh's Awani League extends congratulations to new West Bengal Chief Minister Suvendu Adhikari</p>\n<img src=\"https://nitter.net/pic/media%2FHH3WxE4bQAAFK_X.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "In Parliament of Trinidad & Tobago, PM Kamla Persad-Bissessar thanks India, Indian PM Modi for giving 2000 laptops, establishment of artificial limbs prosthetics center, 20 hemodialysis units, 2 sea ambulances & agro processing unit",
+      "link": "https://nitter.net/sidhant/status/2053026839761915950#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-09T13:48:36+05:30",
+      "time": "09 May, 01:48 PM",
+      "type": "tweets",
+      "content": "<p>In Parliament of Trinidad &amp; Tobago, PM Kamla Persad-Bissessar thanks India, Indian PM Modi for giving 2000 laptops, establishment of artificial limbs prosthetics center, 20 hemodialysis units, 2 sea ambulances &amp; agro processing unit</p>\n<a href=\"https://nitter.net/sidhant/status/2053026839761915950#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2053017124491419648%2Fpu%2Fimg%2Fef9YeyQBaPakPUnH.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "In Parliament of Trinidad & Tobago, PM Kamla Persad-Bissessar points that the chair on which speaker of the Parliament sits on is gifted by India. \n\nSays, \"this chair has encryption from people of India...that chair has stood at the center of democratic life\" of her country.",
+      "link": "https://nitter.net/sidhant/status/2053026729548263705#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-09T13:48:10+05:30",
+      "time": "09 May, 01:48 PM",
+      "type": "tweets",
+      "content": "<p>In Parliament of Trinidad &amp; Tobago, PM Kamla Persad-Bissessar points that the chair on which speaker of the Parliament sits on is gifted by India. <br />\n<br />\nSays, \"this chair has encryption from people of India...that chair has stood at the center of democratic life\" of her country.</p>\n<a href=\"https://nitter.net/sidhant/status/2053026729548263705#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2053018389225123840%2Fpu%2Fimg%2FYu-2pf0PVi9-3Vvy.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Tamil Nadu politics just got interesting.",
       "link": "https://nitter.net/WarMonitorINTL/status/2053018573581541539#m",
@@ -1355,6 +1376,16 @@
       "type": "tweets",
       "content": "<p>Did you notice something?</p>\n<img src=\"https://nitter.net/pic/media%2FHH27077bIAA5fAI.jpg\" />",
       "author": "@WarMonitorINTL"
+    },
+    {
+      "title": "RT by @Goreunit: \u26a0\ufe0f Deepfake Video Alert!\n\nPakistani propaganda accounts are circulating a digitally manipulated video falsely claiming that Lt Gen Zubin A Minwalla has made communal and discriminatory remarks in connection with #OperationSindoor.\n\n#PIBFactCheck:\n\n\u274c The video is #FAKE and digitally manipulated.\n\n\u2705 Lt Gen Zubin A Minwalla did NOT make any such statement. \n\n\ud83d\udd17 Watch the original unedited video here: https://www.youtube.com/live/nLfOe4pKG3Y?si=-G5Cz0FomvTpRyMR \n\n\u26a0\ufe0f Beware of malicious disinformation campaigns aimed at spreading communal hatred and misleading the public.  \n\n\ud83d\udd34 Report suspicious content regarding the Government of India to @PIBFactCheck: \n\n\ud83d\udcf1 WhatsApp: +91 8799711259\n\ud83d\udce7 Email: factcheck@pib.gov.in\n\n@IAF_MCC @SpokespersonMoD @DefenceMinIndia @MIB_India @DDNewslive",
+      "link": "https://nitter.net/PIBFactCheck/status/2052996318642212951#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-09T11:47:19+05:30",
+      "time": "09 May, 11:47 AM",
+      "type": "tweets",
+      "content": "<p>\u26a0\ufe0f Deepfake Video Alert!<br />\n<br />\nPakistani propaganda accounts are circulating a digitally manipulated video falsely claiming that Lt Gen Zubin A Minwalla has made communal and discriminatory remarks in connection with <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a>.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PIBFactCheck\">#PIBFactCheck</a>:<br />\n<br />\n\u274c The video is <a href=\"https://nitter.net/search?f=tweets&amp;q=%23FAKE\">#FAKE</a> and digitally manipulated.<br />\n<br />\n\u2705 Lt Gen Zubin A Minwalla did NOT make any such statement. <br />\n<br />\n\ud83d\udd17 Watch the original unedited video here: <a href=\"https://piped.video/live/nLfOe4pKG3Y?si=-G5Cz0FomvTpRyMR\">piped.video/live/nLfOe4pKG3Y\u2026</a> <br />\n<br />\n\u26a0\ufe0f Beware of malicious disinformation campaigns aimed at spreading communal hatred and misleading the public.  <br />\n<br />\n\ud83d\udd34 Report suspicious content regarding the Government of India to <a href=\"https://nitter.net/PIBFactCheck\" title=\"PIB Fact Check\">@PIBFactCheck</a>: <br />\n<br />\n\ud83d\udcf1 WhatsApp: +91 8799711259<br />\n\ud83d\udce7 Email: factcheck@pib.gov.in<br />\n<br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <a href=\"https://nitter.net/DDNewslive\" title=\"DD News\">@DDNewslive</a></p>\n<a href=\"https://nitter.net/PIBFactCheck/status/2052996318642212951#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052995672589369344%2Fimg%2FpImfOxD-RqI775Od.jpg\" />\n</a>",
+      "author": "@PIBFactCheck"
     },
     {
       "title": "R to @sidhant: 4 Indians are receiving burn injuries & are being treated in Dubai. Indian officials from Dubai consulate met the rescued Indian nationals yesterday night itself. \n\nThe consulate is also in touch \"with the dhow owner, and extending all possible assistance\", say sources.",
@@ -1617,16 +1648,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "With Vietnam President T\u00f4 L\u00e2m, a conversation on his Bodhgaya visit.",
-      "link": "https://nitter.net/sidhant/status/2052841437965005130#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-09T01:31:53+05:30",
-      "time": "09 May, 01:31 AM",
-      "type": "tweets",
-      "content": "<p>With Vietnam President T\u00f4 L\u00e2m, a conversation on his Bodhgaya visit.</p>\n<a href=\"https://nitter.net/sidhant/status/2052841437965005130#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052841406507655168%2Fpu%2Fimg%2FQ8B-9Ayw_12Ionyd.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>It was great meeting Vietnam President &amp; General Secretary of the Communist Party of Vietnam T\u00f4 L\u00e2m during his India visit. It was a great conversation, including on his Gaya visit.</p>\n<img src=\"https://nitter.net/pic/media%2FHHtDdM4aoAA_-W0.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2052309345036300709#m\">https://nitter.net/sidhant/status/2052309345036300709#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "IMF approves $1.2 billion loan for Pakistan under two separate arrangements",
       "link": "https://nitter.net/WarMonitorINTL/status/2052832629238779931#m",
       "source": "War Monitor",
@@ -1637,24 +1658,14 @@
       "author": "@WarMonitorINTL"
     },
     {
-      "title": "EU national day celebrations in Delhi",
-      "link": "https://nitter.net/sidhant/status/2052827361142608191#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-09T00:35:57+05:30",
-      "time": "09 May, 12:35 AM",
+      "title": "RT by @Goreunit: First take your captured flags from the officer's mess of this special unit...\ud83d\ude01\n\nThis is how its done IRL, in real battleground. Not like your AssAssJee cumandos trying to impress the inbred awaam with Lahori Drama!\n\nBoyz didn't just bring the flag, several footballs were brought back in 2023 too.\n\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3",
+      "link": "https://nitter.net/ThatArticleGuy/status/2052828915165806901#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-09T00:42:07+05:30",
+      "time": "09 May, 12:42 AM",
       "type": "tweets",
-      "content": "<p>EU national day celebrations in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHH0bmcbboAAHEOe.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHH0bmwBa8AAJYJQ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHH0bmqOawAAAa3o.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHH0bmqdbsAAej59.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "'We will contribute to each other's growth story,' EU Ambassador Herv\u00e9 Delphin @EUAmbIndia @EU_in_India at EU national day celebrations",
-      "link": "https://nitter.net/sidhant/status/2052827030656602490#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-09T00:34:38+05:30",
-      "time": "09 May, 12:34 AM",
-      "type": "tweets",
-      "content": "<p>'We will contribute to each other's growth story,' EU Ambassador Herv\u00e9 Delphin <a href=\"https://nitter.net/EUAmbIndia\" title=\"Herv\u00e9 Delphin\">@EUAmbIndia</a> <a href=\"https://nitter.net/EU_in_India\" title=\"EU in India\">@EU_in_India</a> at EU national day celebrations</p>\n<a href=\"https://nitter.net/sidhant/status/2052827030656602490#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052826834426064896%2Fpu%2Fimg%2FYs7z6CC34oVxDssU.jpg\" />\n</a>",
-      "author": "@sidhant"
+      "content": "<p>First take your captured flags from the officer's mess of this special unit...\ud83d\ude01<br />\n<br />\nThis is how its done IRL, in real battleground. Not like your AssAssJee cumandos trying to impress the inbred awaam with Lahori Drama!<br />\n<br />\nBoyz didn't just bring the flag, several footballs were brought back in 2023 too.<br />\n<br />\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3</p>\n<img src=\"https://nitter.net/pic/media%2FHH0dBOubMAAiDdd.jpg\" />\n\n<hr />\n<blockquote>\n<b>\u067e\u0631\u06cc \u0632\u0627\u062f (@Parizaad_reborn)</b>\n<p>\n<p>\ud83d\udea8 \u067e\u0634\u0627\u0648\u0631 \u06a9\u0631\u06a9\u0679 \u0627\u0633\u0679\u06cc\u0688\u06cc\u0645 \u0645\u06cc\u06ba \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0622\u0631\u0645\u06cc \u06a9\u06d2 SSG \u06a9\u0645\u0627\u0646\u0688\u0648\u0632 \u0646\u06d2 \u0628\u06be\u0627\u0631\u062a\u06cc \u06a9\u0634\u0645\u06cc\u0631 \u067e\u06c1 \u0642\u0628\u0636\u06c1 \u06a9\u0631 \u06a9\u06d2 \u0628\u06be\u0627\u0631\u062a \u06a9\u0627 \u062c\u06be\u0646\u0688\u0627 \u0627\u062a\u0627\u0631 \u067e\u06be\u06cc\u0646\u06a9\u0627 \u0627\u0648\u0631 \u06a9\u0634\u0645\u06cc\u0631 \u06a9\u06d2 6 \u062f\u0631\u06cc\u0627\u0624\u06ba \u06a9\u0627 \u06a9\u0646\u0679\u0631\u0648\u0644 \u0633\u0646\u0628\u06be\u0627\u0644 \u0644\u06cc\u0627 \u06be\u06d2<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23\u06cc\u06c1_\u0639\u0627\u0635\u0645_\u0645\u0646\u06cc\u0631_\u06a9\u0627_\u0648\u06cc\u062b\u0646_\u06be\u06d2\">#\u06cc\u06c1_\u0639\u0627\u0635\u0645_\u0645\u0646\u06cc\u0631_\u06a9\u0627_\u0648\u06cc\u062b\u0646_\u06be\u06d2</a>  \ud83e\udd23</p>\n<a href=\"https://nitter.net/Parizaad_reborn/status/2052732013900091870#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2052731985647599616%2Fpu%2Fimg%2Fnqe9ygBwBbqpYnfO.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Parizaad_reborn/status/2052732013900091870#m\">https://nitter.net/Parizaad_reborn/status/2052732013900091870#m</a>\n</footer>\n</blockquote>",
+      "author": "@ThatArticleGuy"
     },
     {
       "title": "RT by @OsintTV: Pakistan Air Force\u2019s \u201cBaniyan Chaddi\u201d anniversary celebrations in Islamabad turned chaotic after flares from a low altitude Jf-17 flypast reportedly landed on residential houses, sparking panic among locals.",
@@ -2043,7 +2054,7 @@
       "sort_key": "2026-05-08T13:31:03+05:30",
       "time": "08 May, 01:31 PM",
       "type": "tweets",
-      "content": "<p>Sit down porki, go collect your atte ki bori from ISPR now.</p>\n<img src=\"https://nitter.net/pic/media%2FHHyDbE8aMAAgfV_.jpg\" />\n\n<hr />\n<blockquote>\n<b>Baba Thoka (@ThokaReturns)</b>\n<p>\n<p>Major General Rajiv Narayanan, a retired Indian Army officer and defense analyst sent his son to UK on a business Visa. General\u2019s son getting caught in a pedophile-hunting sting has become an international embarrassment for India.</p>\n<a href=\"https://nitter.net/ThokaReturns/status/2052468294985363720#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052468188919816192%2Fimg%2F4cRkg1La52lEmDGY.jpg\" />\n</a>\n\n<p><b>Community note:</b> This is not Maj Narayanan son as he does not have any son \n\n<a href=\"https://nitter.net/t.co/5wp9mWO1na\">x.com/i/status/20526\u2026</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThokaReturns/status/2052468294985363720#m\">https://nitter.net/ThokaReturns/status/2052468294985363720#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Sit down porki, go collect your atte ki bori from ISPR now.</p>\n<img src=\"https://nitter.net/pic/media%2FHHyDbE8aMAAgfV_.jpg\" />\n\n<hr />\n<blockquote>\n<b>Baba Thoka (@ThokaReturns)</b>\n<p>\n<p>Major General Rajiv Narayanan, a retired Indian Army officer and defense analyst sent his son to UK on a business Visa. General\u2019s son getting caught in a pedophile-hunting sting has become an international embarrassment for India.</p>\n<a href=\"https://nitter.net/ThokaReturns/status/2052468294985363720#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052468188919816192%2Fimg%2F4cRkg1La52lEmDGY.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThokaReturns/status/2052468294985363720#m\">https://nitter.net/ThokaReturns/status/2052468294985363720#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -2055,26 +2066,6 @@
       "type": "tweets",
       "content": "<p>Op Sindoor Anniversary<br />\n<br />\nvideo by LEO.7FX</p>\n<a href=\"https://nitter.net/Goreunit/status/2052659804590723344#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052658615119724544%2Fimg%2FG4UZPFH4eSg1g-Pe.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Even Porki aawam don't believe on this clown.",
-      "link": "https://nitter.net/Goreunit/status/2052620332150972853#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-08T10:53:17+05:30",
-      "time": "08 May, 10:53 AM",
-      "type": "tweets",
-      "content": "<p>Even Porki aawam don't believe on this clown.</p>\n<img src=\"https://nitter.net/pic/media%2FHHxfT4gaQAEOPsL.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>DJ ISPR alias Lahori Churan on Indus Water Treaty<br />\n<br />\n\u201cIf anybody tries to change the status, it will take us minutes to revert it.\u201d<br />\n<br />\nBruhh we've already changed the status quo.</p>\n<a href=\"https://nitter.net/Goreunit/status/2052619590832898493#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2052619322485551104%2Fimg%2FxIrd-uTNp-w3edos.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2052619590832898493#m\">https://nitter.net/Goreunit/status/2052619590832898493#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @Goreunit: Op Sindoor\u26a1\ufe0f\n\nDuring the early hours on 10/05/2025, the @IAF_MCC struck a high value target at PAF Base Nur Khan, Chaklala, Pakistan. The target - C2 (Command & Control) Centre, holding strategic value as all the PAF operations were being controlled from here only!\n\nTarget Loc: PAF Base Nur Khan\u2705\nClosest Indian Territory: Balnoi Bulge\u2705\nDistance b/w the above two locs: 90KM Approx.\u2705\nSpice-2000 PGM range: 60KM\u2705\nImagery: Google Earth & Max\u2705\n\nAttached is the infographics showing the post strike assessment of the target.\n\n'Deep & Precise'\n\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\n\nCC: Open Source.",
-      "link": "https://nitter.net/HecterOSINT/status/2052617623272329540#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-08T10:42:31+05:30",
-      "time": "08 May, 10:42 AM",
-      "type": "tweets",
-      "content": "<p>Op Sindoor\u26a1\ufe0f<br />\n<br />\nDuring the early hours on 10/05/2025, the <a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> struck a high value target at PAF Base Nur Khan, Chaklala, Pakistan. The target - C2 (Command & Control) Centre, holding strategic value as all the PAF operations were being controlled from here only!<br />\n<br />\nTarget Loc: PAF Base Nur Khan\u2705<br />\nClosest Indian Territory: Balnoi Bulge\u2705<br />\nDistance b/w the above two locs: 90KM Approx.\u2705<br />\nSpice-2000 PGM range: 60KM\u2705<br />\nImagery: Google Earth & Max\u2705<br />\n<br />\nAttached is the infographics showing the post strike assessment of the target.<br />\n<br />\n'Deep & Precise'<br />\n<br />\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3<br />\n<br />\nCC: Open Source.</p>\n<img src=\"https://nitter.net/pic/media%2FHHxZlpebcAAYIyL.jpg\" />\n\n<hr />\n<blockquote>\n<b>Maj Digvijay Singh Rawat, Kirti Chakra (Retd) (@Dig_raw21)</b>\n<p>\n<p>Pakistan\u2019s  airforce Nur Khan base gone all Pakistani air assets finished at base. <br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23JaiHindKiSena\">#JaiHindKiSena</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaPakistanTension\">#IndiaPakistanTension</a></p>\n<a href=\"https://nitter.net/Dig_raw21/status/1920960101898223858#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F1920960021879234560%2Fimg%2FFJy6yn-g-10IqbWr.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FGqie9lJWAAAtRaQ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Dig_raw21/status/1920960101898223858#m\">https://nitter.net/Dig_raw21/status/1920960101898223858#m</a>\n</footer>\n</blockquote>",
-      "author": "@HecterOSINT"
     },
     {
       "title": "RT by @elitepredatorss: Op Sindoor\u26a1\ufe0f\n\nDuring the early hours on 10/05/2025, the @IAF_MCC struck a high value target at PAF Base Nur Khan, Chaklala, Pakistan. The target - C2 (Command & Control) Centre, holding strategic value as all the PAF operations were being controlled from here only!\n\nTarget Loc: PAF Base Nur Khan\u2705\nClosest Indian Territory: Balnoi Bulge\u2705\nDistance b/w the above two locs: 90KM Approx.\u2705\nSpice-2000 PGM range: 60KM\u2705\nImagery: Google Earth & Max\u2705\n\nAttached is the infographics showing the post strike assessment of the target.\n\n'Deep & Precise'\n\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\n\nCC: Open Source.",
@@ -2430,6 +2421,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
