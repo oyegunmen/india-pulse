@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Russian President Vladimir Putin says Ukraine conflict \u2018coming to an end\u2019",
+      "link": "https://economictimes.indiatimes.com/news/defence/russian-president-vladimir-putin-says-ukraine-conflict-coming-to-an-end/articleshow/130982487.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-10T00:37:35+05:30",
+      "time": "10 May, 12:37 AM",
+      "type": "news",
+      "description": "Russian President Vladimir Putin stated the Ukraine conflict is nearing its end. He indicated openness to talks, with former German Chancellor Gerhard..."
+    },
+    {
+      "title": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-russia-and-ukraine-have-agreed-to-his-request-for-a-3-day-ceasefire-and-a-prisoner-swap/articleshow/130982417.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-10T00:22:48+05:30",
+      "time": "10 May, 12:22 AM",
+      "type": "news",
+      "description": "President Trump announced a three-day ceasefire between Russia and Ukraine, brokered through his direct request to both leaders. The agreement, confir..."
+    },
+    {
       "title": "Gen Raja Subramani appointed next Chief of Defence Staff",
       "link": "https://economictimes.indiatimes.com/news/defence/gen-raja-subramani-appointed-next-chief-of-defence-staff/articleshow/130981631.cms",
       "source": "Economic Times",
@@ -19,7 +37,7 @@
       "description": "Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Sovie..."
     },
     {
-      "title": "India Tests Agni-5 With Multiple Independently Targeted Re-Entry Vehicle Capability",
+      "title": "Agni-5 to Hit Many Targets Aces Vital Test",
       "link": "https://www.deccanchronicle.com/nation/india-tests-agni-5-with-multiple-independently-targeted-re-entry-vehicle-capability-1955701",
       "source": "Deccan Chronicle",
       "sort_key": "2026-05-09T22:30:38+05:30",
@@ -115,7 +133,7 @@
       "sort_key": "2026-05-09T20:47:33+05:30",
       "time": "09 May, 08:47 PM",
       "type": "news",
-      "description": "A fragile ceasefire held Saturday after the US struck two Iranian oil tankers, while Bahrain arrested 41 individuals linked to Iran's Revolutionary Gu..."
+      "description": "A fragile ceasefire held even after the US struck two Iranian oil tankers, while Bahrain arrested 41 individuals linked to Iran's Revolutionary Guard...."
     },
     {
       "title": "US awaits Iran response as fragile ceasefire faces new strain across West Asia",
@@ -1106,18 +1124,19 @@
       "time": "08 May, 05:29 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Russia shoots down 347 Ukrainian drones",
-      "link": "https://economictimes.indiatimes.com/news/defence/russia-shoots-down-347-ukrainian-drones/articleshow/130921409.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-08T01:15:06+05:30",
-      "time": "08 May, 01:15 AM",
-      "type": "news",
-      "description": "Incoming drones were destroyed over 20 Russian regions, including Moscow, according to the Defense Ministry, in Ukraine's second-biggest aerial attack..."
     }
   ],
   "tweets": [
+    {
+      "title": "Chile foreign minister Francisco P\u00e9rez Mackenna reaches Delhi",
+      "link": "https://nitter.net/sidhant/status/2053193837921943883#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-10T00:52:12+05:30",
+      "time": "10 May, 12:52 AM",
+      "type": "tweets",
+      "content": "<p>Chile foreign minister Francisco P\u00e9rez Mackenna reaches Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHH5o6iGbMAAoEuU.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Australia-India Defence Policy Talks takes place in Delhi:",
       "link": "https://nitter.net/sidhant/status/2053184853554925903#m",
@@ -1676,16 +1695,6 @@
       "time": "09 May, 01:01 PM",
       "type": "tweets",
       "content": "<p>In Parliament of Trinidad &amp; Tobago, PM Kamla Persad-Bissessar, says relationship with India \"grounded in strategic cooperation\"</p>\n<a href=\"https://nitter.net/sidhant/status/2053015055151841384#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2053014869969125376%2Fpu%2Fimg%2F6E381LB-Kgi56xO9.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "In Parliament of Trinidad & Tobago, PM Kamla Persad-Bissessar, congratulates India's ruling party BJP's victory in West Bengal. \n\nSays, it shows \"continued trust & mandate on PM Modi, & BJP by people of India\"",
-      "link": "https://nitter.net/sidhant/status/2053014568516087844#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-09T12:59:50+05:30",
-      "time": "09 May, 12:59 PM",
-      "type": "tweets",
-      "content": "<p>In Parliament of Trinidad &amp; Tobago, PM Kamla Persad-Bissessar, congratulates India's ruling party BJP's victory in West Bengal. <br />\n<br />\nSays, it shows \"continued trust &amp; mandate on PM Modi, &amp; BJP by people of India\"</p>\n<a href=\"https://nitter.net/sidhant/status/2053014568516087844#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2053014420071292928%2Fpu%2Fimg%2FSDz71sqXKIRAor39.jpg\" />\n</a>",
       "author": "@sidhant"
     },
     {
@@ -2273,6 +2282,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "12:24 AM IST"
+    "last_updated": "01:24 AM IST"
   }
 }
