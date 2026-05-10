@@ -10,21 +10,111 @@
     },
     {
         "type": "news",
-        "name": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "site_url":"https://www.thehindu.com",
-        "hide_desc": false,
-        "filter_enabled": true,
-        "keywords": ["israel","iran", "russia", "nuclear", "india", "pakistan", "afghanistan", "china", "u.s.", "trump", "putin", "modi", "military"]
-    },
-    {
-        "type": "news",
         "name": "The Indian Express",
         "url": "https://indianexpress.com/section/world/feed/",
         "site_url":"https://indianexpress.com",
         "hide_desc": false,
         "filter_enabled": true,
-        "keywords": ["israel","iran", "russia", "india", "pakistan", "afghanistan", "china", "trump", "putin", "modi", "military", "nuclear"]
+        "keywords": ["india", "pakistan","china", "terror", "security", "military"]
+    },
+    {
+        "type": "news",
+        "name": "New Indian Express",
+        "url": "https://www.newindianexpress.com/stories.rss",
+        "site_url":"https://www.newindianexpress.com",
+        "hide_desc": false,
+        "filter_enabled": true,
+        "keywords": ["pakistan","china", "terror", "security", "military"]
+    },
+    {
+        "type": "news",
+        "name": "Bhaskar",
+        "url": "https://www.bhaskarenglish.in/rss-v1--category-16330.xml",
+        "site_url":"https://www.bhaskarenglish.in",
+        "hide_desc": false,
+        "filter_enabled": true,
+        "keywords": ["india", "pakistan","china", "terror", "security", "military"]
+    },
+    {
+        "type": "news",
+        "name": "Bhaskar",
+        "url": "https://www.bhaskarenglish.in/rss-v1--category-16329.xml",
+        "site_url":"https://www.bhaskarenglish.in",
+        "hide_desc": false,
+        "filter_enabled": true,
+        "keywords": ["india", "pakistan","china", "terror", "security", "military"]
+    },
+    {
+        "type": "news",
+        "name": "The Tribune",
+        "url": "https://publish.tribuneindia.com/newscategory/india/feed/",
+        "site_url":"https://tribuneindia.com",
+        "hide_desc": false,
+        "filter_enabled": true,
+        "keywords": ["pakistan","china", "terror", "security", "military"]
+    },
+    {
+        "type": "news",
+        "name": "ABP Live",
+        "url": "https://news.abplive.com/news/india/feed",
+        "site_url":"https://www.abplive.com/",
+        "hide_desc": false,
+        "filter_enabled": true,
+        "keywords": ["pakistan","china", "terror", "security", "military"]
+    },
+    {
+        "type": "news",
+        "name": "India TV",
+        "url": "https://www.indiatvnews.com/rssnews/topstory-india.xml",
+        "site_url":"https://www.indiatvnews.com",
+        "hide_desc": false,
+        "filter_enabled": true,
+        "keywords": ["pakistan","china", "terror", "security", "military", "DRDO"]
+    },
+    {
+        "type": "news",
+        "name": "NE News",
+        "url": "https://nenews.in/category/manipur/feed/",
+        "site_url":"https://nenews.in",
+        "hide_desc": false,
+        "filter_enabled": true,
+        "keywords": ["army", "kuki", "meitei", "assam rifles", "bsf"]
+    },
+    {
+        "type": "news",
+        "name": "Business Standard",
+        "url": "https://www.business-standard.com/rss/external-affairs-defence-security-227.rss",
+        "site_url":"https://www.business-standard.com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/rssfeeds/30359534.cms",
+        "site_url":"https://timesofindia.indiatimes.com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/rssfeeds/1898184.cms",
+        "site_url":"https://timesofindia.indiatimes.com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "news",
+        "name": "Economic Times",
+        "url": "https://manufacturing.economictimes.indiatimes.com/rss/aerospace-defence",
+        "site_url":"https://manufacturing.economictimes.indiatimes.com",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
     },
     {
         "type": "news",
@@ -103,15 +193,6 @@
         "name": "War & Gore",
         "url": "https://nitter.net/Goreunit/rss",
         "site_url":"https://nitter.net/Goreunit",
-        "hide_desc": false,
-        "filter_enabled": false,
-        "keywords": []
-    },
-    {
-        "type": "tweets",
-        "name": "War Monitor",
-        "url": "https://nitter.net/WarMonitorINTL/rss",
-        "site_url":"https://nitter.net/WarMonitorINTL",
         "hide_desc": false,
         "filter_enabled": false,
         "keywords": []
