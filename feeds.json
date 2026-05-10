@@ -243,6 +243,33 @@
         "keywords": []
     },
     {
+        "type": "tweets",
+        "name": "Alpha Defense",
+        "url": "https://nitter.net/alpha_defense/rss",
+        "site_url":"https://nitter.net/alpha_defense",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "tweets",
+        "name": "Defense Decode",
+        "url": "https://nitter.net/DefenceDecode/rss",
+        "site_url":"https://nitter.net/DefenceDecode",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
+        "type": "tweets",
+        "name": "Notam India",
+        "url": "https://nitter.net/notam_in/rss",
+        "site_url":"https://nitter.net/notam_in",
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": []
+    },
+    {
         "type": "youtube",
         "name": "Indian Defence Updates",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUFwrNEs9MnFTc8LcQh8Pg",
