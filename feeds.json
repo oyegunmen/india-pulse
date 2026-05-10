@@ -28,36 +28,9 @@
     },
     {
         "type": "news",
-        "name": "Bhaskar",
-        "url": "https://www.bhaskarenglish.in/rss-v1--category-16330.xml",
-        "site_url":"https://www.bhaskarenglish.in",
-        "hide_desc": false,
-        "filter_enabled": true,
-        "keywords": ["india", "pakistan","china", "terror", "security", "military"]
-    },
-    {
-        "type": "news",
-        "name": "Bhaskar",
-        "url": "https://www.bhaskarenglish.in/rss-v1--category-16329.xml",
-        "site_url":"https://www.bhaskarenglish.in",
-        "hide_desc": false,
-        "filter_enabled": true,
-        "keywords": ["india", "pakistan","china", "terror", "security", "military"]
-    },
-    {
-        "type": "news",
         "name": "The Tribune",
         "url": "https://publish.tribuneindia.com/newscategory/india/feed/",
         "site_url":"https://tribuneindia.com",
-        "hide_desc": false,
-        "filter_enabled": true,
-        "keywords": ["pakistan","china", "terror", "security", "military"]
-    },
-    {
-        "type": "news",
-        "name": "ABP Live",
-        "url": "https://news.abplive.com/news/india/feed",
-        "site_url":"https://www.abplive.com/",
         "hide_desc": false,
         "filter_enabled": true,
         "keywords": ["pakistan","china", "terror", "security", "military"]
