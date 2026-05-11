@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "No parity between Agniveers, regular soldiers on pensionary benefits: Centre to HC",
+      "link": "https://economictimes.indiatimes.com/news/defence/no-parity-between-agniveers-regular-soldiers-on-pensionary-benefits-centre-to-hc/articleshow/131009354.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-11T14:49:55+05:30",
+      "time": "11 May, 02:49 PM",
+      "type": "news",
+      "description": "The Union government has told the Bombay High Court that Agniveers are different from regular soldiers. This means families of deceased Agniveers cann..."
+    },
+    {
+      "title": "Israeli air strikes in southern Lebanon kill at least two, five injured",
+      "link": "https://www.newsonair.gov.in/israeli-air-strikes-in-southern-lebanon-kill-at-least-two-five-injured/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-11T14:25:05+05:30",
+      "time": "11 May, 02:25 PM",
+      "type": "news",
+      "description": "Israeli air strikes on towns in southern Lebanon have killed at least two people and wounded five others, Lebanese state news agency NNA reported, as ..."
+    },
+    {
       "title": "An Operation That Redefined India's Security Doctrine",
       "link": "https://www.republicworld.com/defence/an-operation-that-redefined-india-security-doctrine",
       "source": "Republic World",
@@ -8,6 +26,15 @@
       "time": "11 May, 02:18 PM",
       "type": "news",
       "description": "Operation Sindoor, launched in response to the horrific terrorist attack in Pahalgam that killed 26 innocent tourists, was India's answer to decades o..."
+    },
+    {
+      "title": "Indian Army gets indigenous FPV kamikaze drones, UAV-launched precision munitions",
+      "link": "https://economictimes.indiatimes.com/news/defence/indian-army-gets-indigenous-fpv-kamikaze-drones-uav-launched-precision-munitions/articleshow/131009007.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-11T14:15:13+05:30",
+      "time": "11 May, 02:15 PM",
+      "type": "news",
+      "description": "The ULPGM, co-developed by the Defence Research and Development Organisation (DRDO)Defence &amp; Aerospace, is India's first indigenous loitering muni..."
     },
     {
       "title": "The Bill Comes Due\u2014Pakistan's Post-Sindoor Reckoning",
@@ -118,15 +145,6 @@
       "description": "Rane said the party should be banned like PFI"
     },
     {
-      "title": "Who is Sheema Kirmani? Pakistani \u2018Pasoori\u2019 Bharatanatyam dancer &#8216;manhandled&#8217; during aurat march protest in Karachi",
-      "link": "https://www.tribuneindia.com/news/pakistan/who-is-sheema-kirmani-pakistani-pasoori-bharatanatyam-dancer-manhandled-during-aurat-march-protest-in-karachi",
-      "source": "The Tribune",
-      "sort_key": "2026-05-11T09:47:45+05:30",
-      "time": "11 May, 09:47 AM",
-      "type": "news",
-      "description": "Photos and videos of renowned Pakistani classical dancer and women\u2019s rights activist Sheema Kirmani being escorted and allegedly manhandled by policew..."
-    },
-    {
       "title": "Trade, Iran, Taiwan: What\u2019s on the table as Trump visits China from May 13 to 15 on Xi Jinping\u2019s invitation",
       "link": "https://indianexpress.com/article/world/us-news/trade-iran-taiwan-trump-china-visit-xi-jinping-10683146/",
       "source": "The Indian Express",
@@ -217,15 +235,6 @@
       "description": "President Donald Trump rejected Iran\u2019s response to a U.S. proposal for peace talks, hurting hopes of a quick end to the 10-week conflict that has disr..."
     },
     {
-      "title": "Army-backed FM stations amplify local voices, counter misinfo long LAC",
-      "link": "https://www.tribuneindia.com/news/top-headlines/army-backed-fm-stations-amplify-local-voices-counter-misinfo-long-lac",
-      "source": "The Tribune",
-      "sort_key": "2026-05-11T02:00:06+05:30",
-      "time": "11 May, 02:00 AM",
-      "type": "news",
-      "description": "Radio programmes in border areas along India and China in Himachal Pradesh and Uttarakhand now have a new flavour. Broadcast over the frequency modula..."
-    },
-    {
       "title": "DC Edit | New CDS\u2019 Role Is Likely To Grow",
       "link": "https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-new-cds-role-is-likely-to-grow-1955905",
       "source": "Deccan Chronicle",
@@ -287,15 +296,6 @@
       "time": "10 May, 08:20 PM",
       "type": "news",
       "description": "Iran has formally submitted its response to the latest US proposal aimed at ending the war in West Asia. Iranian State Media confirmed that the respon..."
-    },
-    {
-      "title": "Bangladesh HC rejects bail petition of Sanatani leader Chinmoy Krishna Das Brahmachari",
-      "link": "https://www.newsonair.gov.in/bangladesh-hc-rejects-bail-petition-of-sanatani-leader-chinmoy-krishna-das-brahmachari/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-10T19:34:57+05:30",
-      "time": "10 May, 07:34 PM",
-      "type": "news",
-      "description": "A Bangladesh High Court today rejected the bail petition of Sanatani Jagaran Jote spokesperson Chinmoy Krishna Das Brahmachari in an alleged lawyer mu..."
     },
     {
       "title": "Iran response to US focuses on 'ending war, maritime security': Report",
@@ -629,18 +629,39 @@
       "time": "09 May, 03:38 PM",
       "type": "news",
       "description": "Washington has altered its United Nations resolution demanding Iran cease attacks in the Strait of Hormuz. However, diplomats believe China and Russia..."
-    },
-    {
-      "title": "NASA Names Brian Hughes to Launch Operations",
-      "link": "https://www.indiastrategic.in/nasa-names-brian-hughes-to-launch-operations/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-09T15:11:43+05:30",
-      "time": "09 May, 03:11 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Bengaluru, May 8, 2026. NASA announced on May 8 that, Brian Hughes will return to the agency as senior director of launch operation..."
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @sidhant: #BREAKING | Iran's FM Abbas Araghchi to visit India this week for BRICS foreign ministers meet\n\n@kripatistic brings you this report by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2053768629444121037#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-11T14:56:13+05:30",
+      "time": "11 May, 02:56 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BREAKING\">#BREAKING</a> | Iran's FM Abbas Araghchi to visit India this week for BRICS foreign ministers meet<br />\n<br />\n<a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> brings you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2053768629444121037#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053753529731624960%2Fimg%2FqHoYD9lW6bjjBQIM.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "RT by @OsintTV: The traditional signature of high intensity media ops & info ops by ISPR Ecosystem on this Youm-e-Marqa-e-Haq was not as good. It lacked flavour, full of rhetorics & mostly reactive.  \n\nThe turning point being the release of CNIC Cards of Ts killed in Op Mahadev who were reportedly involved in Pahalgam Incident.  \n\nThe press conference by @OfficialDGISPR appeared disjointed and organised in haste. \n\nThe MoFA activities at High Commssionerates, Embassies were not commensurate to amount of money expended. \n\nMoIB  remained low, especially,  when catching up the Display Picture of Marka e Haq which was a response to Indian use of Op Sindoor DP. \n\nOnly different idea was that of Coffee Table Book but that too was full of rhetorics. \n\nThere was something amiss this time. Unlike Pakistan.",
+      "link": "https://nitter.net/Halat_i_Watan/status/2053768181202980940#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-11T14:54:26+05:30",
+      "time": "11 May, 02:54 PM",
+      "type": "tweets",
+      "content": "<p>The traditional signature of high intensity media ops & info ops by ISPR Ecosystem on this Youm-e-Marqa-e-Haq was not as good. It lacked flavour, full of rhetorics & mostly reactive.  <br />\n<br />\nThe turning point being the release of CNIC Cards of Ts killed in Op Mahadev who were reportedly involved in Pahalgam Incident.  <br />\n<br />\nThe press conference by <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a> appeared disjointed and organised in haste. <br />\n<br />\nThe MoFA activities at High Commssionerates, Embassies were not commensurate to amount of money expended. <br />\n<br />\nMoIB  remained low, especially,  when catching up the Display Picture of Marka e Haq which was a response to Indian use of Op Sindoor DP. <br />\n<br />\nOnly different idea was that of Coffee Table Book but that too was full of rhetorics. <br />\n<br />\nThere was something amiss this time. Unlike Pakistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHIBzRr9acAAh7Di.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIBzRs8aUAA3qg9.jpg\" />",
+      "author": "@Halat_i_Watan"
+    },
+    {
+      "title": "The Indian Army has inducted two new indigenous combat systems under Emergency Procurement (EP-6) \ud83c\uddee\ud83c\uddf3\n\n\u2022 ULPGM\n\u2022 AGNIKAA VTOL-1 FPV Kamikaze Drone\nThe systems were handed over in Hyderabad following successful high-altitude, electronic warfare (EW), and precision strike trials conducted in the presence of officials from the Indian Army Western Command.\nhttps://www.aninews.in/news/national/general-news/indian-army-gets-indigenous-fpv-kamikaze-drones-uav-launched-precision-munitions20260511140100/",
+      "link": "https://nitter.net/DefenceDecode/status/2053761060986040800#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-05-11T14:26:08+05:30",
+      "time": "11 May, 02:26 PM",
+      "type": "tweets",
+      "content": "<p>The Indian Army has inducted two new indigenous combat systems under Emergency Procurement (EP-6) \ud83c\uddee\ud83c\uddf3<br />\n<br />\n\u2022 ULPGM<br />\n\u2022 AGNIKAA VTOL-1 FPV Kamikaze Drone<br />\nThe systems were handed over in Hyderabad following successful high-altitude, electronic warfare (EW), and precision strike trials conducted in the presence of officials from the Indian Army Western Command.<br />\n<a href=\"https://www.aninews.in/news/national/general-news/indian-army-gets-indigenous-fpv-kamikaze-drones-uav-launched-precision-munitions20260511140100/\">aninews.in/news/national/gen\u2026</a></p>\n<a href=\"https://nitter.net/DefenceDecode/status/2053761060986040800#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053760894149300224%2Fimg%2FMvBUqhAqwUmng-6J.jpg\" />\n</a>",
+      "author": "@DefenceDecode"
+    },
     {
       "title": "Flash: Iran foreign Seyed Abbas Araghchi to visit India this week for BRICS FMs meet",
       "link": "https://nitter.net/sidhant/status/2053737920125968865#m",
@@ -1072,16 +1093,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "I ended 8 wars, says Trump",
-      "link": "https://nitter.net/sidhant/status/2053489769997570281#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-10T20:28:07+05:30",
-      "time": "10 May, 08:28 PM",
-      "type": "tweets",
-      "content": "<p>I ended 8 wars, says Trump</p>\n<a href=\"https://nitter.net/sidhant/status/2053489769997570281#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053488640030842885%2Fimg%2FGCLErfA_aMMQ-UKn.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "UK Sending Warship to West Asia Ahead of Hormuz Mission\nThe UK will send a destroyer to West Asia ahead of any international mission to help protect shipping in the key Strait of Hormuz, its defense ministry said Saturday.\n\n\u201cThe pre-positioning of HMS Dragon is part of prudent planning that will ensure that the UK is ready, as part of a multinational coalition\u00a0jointly led by the UK and France, to secure the strait, when conditions allow,\u201d a ministry spokesperson told AFP.\n\nBritain and France said last month that military plans to secure the Strait of Hormuz were coming together and would succeed in restoring trade flows through the vital passage.\n\nThe MoD said deploying HMS Dragon would strengthen the confidence of commercial shipping and support mine clearance efforts once hostilities end.",
       "link": "https://nitter.net/NetramDefence/status/2053483058381435230#m",
       "source": "Netram Defense",
@@ -1400,16 +1411,6 @@
       "type": "tweets",
       "content": "<p>We aren\u2019t celebrating this enough..<br />\n<br />\nUnderstand: At Mach 6+, you aren't building a square pipe. You\u2019re managing a 2,500C inferno for 20 minutes. <br />\n<br />\nThis is a total thermal soak that would melt any standard structures (including ones used in Brahmos)<br />\n<br />\nThe Complexity:<br />\n\u2705 Material Science : A hybrid of C-C composites, SiC/SiC liners, and nickel superalloys.<br />\n\u2705 Physics: Managing supersonic shockwaves while the engine's geometry literally expands from the heat.<br />\n\u2705 Most importantly Manufacturing: Mastering precision diffusion bonding and superalloys indigenously is the real \"world beater\" with our own industrial base here.</p>\n<img src=\"https://nitter.net/pic/media%2FHH8CfPia0AE-gLe.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "RT by @OsintTV: Special Operations Group (@JmuKmrPolice ) operative in Kashmir.",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2053362380676141258#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-10T12:01:55+05:30",
-      "time": "10 May, 12:01 PM",
-      "type": "tweets",
-      "content": "<p>Special Operations Group (<a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> ) operative in Kashmir.</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2053362380676141258#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053362311432462336%2Fimg%2FaP4t7Ld7iKJFFmxp.jpg\" />\n</a>",
-      "author": "@MikeLimaBravo12"
     },
     {
       "title": "RT by @NetramDefence: On the occasion of Mother\u2019s Day, a special broadcast is being conducted on Radio Highway, Pallel Ki Vani... Tune in to enjoy a melodious Sunday \ud83e\udd42\n\nWarm Regards \n\nhttps://apps.apple.com/th/app/radio-highway/id6761112789\n\nhttps://play.google.com/store/apps/details?id=com.atclabs.radiohighway",
@@ -1784,6 +1785,15 @@
   ],
   "youtube": [
     {
+      "title": "PM\u2019s Appeal and Missiles & Jet Import",
+      "link": "https://www.youtube.com/watch?v=sUCZJhxLCHM",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-11T14:49:25+05:30",
+      "time": "11 May, 02:49 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/sUCZJhxLCHM/mqdefault.jpg"
+    },
+    {
       "title": "China Ne OPS SINDOOR Ka Sach Maan Liya ?,Netra Mk2,CHEEL UAV,Desi Submarine Batteries",
       "link": "https://www.youtube.com/watch?v=ngDKWMKt2rQ",
       "source": "Indian Defense News",
@@ -1863,18 +1873,9 @@
       "time": "09 May, 05:50 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/PWwu-D_q0o4/mqdefault.jpg"
-    },
-    {
-      "title": "Mystery over Indian Hypersonic Test",
-      "link": "https://www.youtube.com/watch?v=-8XPnbvhExs",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-05-09T14:31:41+05:30",
-      "time": "09 May, 02:31 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/-8XPnbvhExs/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
