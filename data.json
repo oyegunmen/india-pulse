@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "CDS & Navy chief picked out, the next key defence & security appointments Centre is set to decide on",
+      "link": "https://theprint.in/india/cds-navy-chief-picked-out-the-next-key-defence-security-appointments-centre-is-set-to-decide-on/2928496/",
+      "source": "The Print",
+      "sort_key": "2026-05-12T09:11:25+05:30",
+      "time": "12 May, 09:11 AM",
+      "type": "news",
+      "description": "One of the key and far-reaching appointments will be that of the new director of Intelligence Bureau. Current IB chief Tapan Deka\u2019s second extension e..."
+    },
+    {
+      "title": "West Asia oil crisis fallout: Pakistan extends emergency austerity measures till June 13",
+      "link": "https://indianexpress.com/article/world/pakistan-austerity-measures-oil-crisis-iran-conflict-impact-india-modi-10684767/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-12T09:05:54+05:30",
+      "time": "12 May, 09:05 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Targeting the \u2018shadow fleet\u2019: US hits 12 Iran-linked entities over secret oil shipments to China ahead of Trump-Xi summit",
+      "link": "https://indianexpress.com/article/world/us-news/us-sanctions-iran-oil-china-irgc-shadow-fleet-trump-xi-summit-10684694/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-12T08:56:13+05:30",
+      "time": "12 May, 08:56 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Pakistan 'ditched' US despite playing peacemaker, helped Iran park planes at Nur Khan to escape attacks",
+      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-ditched-us-despite-playing-peacemaker-helped-iran-park-planes-at-nur-khan-to-escape-attacks/articleshow/131027236.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-12T08:26:08+05:30",
+      "time": "12 May, 08:26 AM",
+      "type": "news",
+      "description": "Pakistan reportedly allowed Iranian military aircraft to park on its airfields to shield them from US airstrikes, a claim a senior Pakistani official ..."
+    },
+    {
+      "title": "Bangladesh forms committee to probe reason behind national cricket team\u2019s withdrawal from ICC Men\u2019s T20 World Cup in India",
+      "link": "https://www.newsonair.gov.in/bangladesh-forms-committee-to-probe-reason-behind-national-cricket-teams-withdrawal-from-icc-mens-t20-world-cup-in-india/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-12T08:25:48+05:30",
+      "time": "12 May, 08:25 AM",
+      "type": "news",
+      "description": "The Bangladesh government has formed a three-member inquiry committee to investigate the country\u2019s controversial withdrawal from the 2026 ICC Men\u2019s T2..."
+    },
+    {
       "title": "Cannes Film Festival to kick off today",
       "link": "https://www.newsonair.gov.in/cannes-film-festival-to-kick-off-today/",
       "source": "All India Radio",
@@ -334,15 +379,6 @@
       "description": "<p>New Delhi, May 10. The Indian Navy\u2019s oceanographic research vessel INS Sagardhwani wrapped up a five-day visit to Cam Ranh from May 4 to 8, reinfor..."
     },
     {
-      "title": "MoS External Affairs Pabitra Margherita holds talks with Costa Rica Foreign Minister",
-      "link": "https://www.newsonair.gov.in/mos-external-affairs-pabitra-margherita-holds-talks-with-costa-rica-foreign-minister/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-11T11:22:10+05:30",
-      "time": "11 May, 11:22 AM",
-      "type": "news",
-      "description": "Minister of State for External Affairs Pabitra Margherita held a bilateral meeting with the Foreign Minister of Costa Rica, Manuel Tovar. In a social ..."
-    },
-    {
       "title": "PM\u2019s UAE visit to advance Strategic Defence Partnership",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/pms-uae-visit-to-advance-strategic-defence-partnership/131004881",
       "source": "Economic Times",
@@ -593,18 +629,29 @@
       "time": "10 May, 10:12 AM",
       "type": "news",
       "description": "Iran's embassy released a video showing speed boats allegedly chasing a US warship, with an officer taunting American forces. The IRGC issued a stern ..."
-    },
-    {
-      "title": "Australia, India deepen strategic defence partnership at 10th Defence Policy Talks",
-      "link": "https://economictimes.indiatimes.com/news/defence/australia-india-deepen-strategic-defence-partnership-at-10th-defence-policy-talks/articleshow/130985623.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-10T08:29:41+05:30",
-      "time": "10 May, 08:29 AM",
-      "type": "news",
-      "description": "Australia and India held their 10th Defence Policy Talks in New Delhi, reinforcing strategic convergence and defense cooperation. Discussions focused ..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @sidhant: Western Media reports this morning on Pakistan:",
+      "link": "https://nitter.net/sidhant/status/2054039821790925076#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T08:53:50+05:30",
+      "time": "12 May, 08:53 AM",
+      "type": "tweets",
+      "content": "<p>Western Media reports this morning on Pakistan:</p>\n<img src=\"https://nitter.net/pic/media%2FHIFqU1vbQAAQ_5M.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "US senator Graham calls for \"complete reevaluation\" of Pakistan\u2019s role as mediator between Iran, US after western media reports say Iran military assets at Pakistan\u2019s Nur Khan military base.",
+      "link": "https://nitter.net/sidhant/status/2054039308575875134#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T08:51:48+05:30",
+      "time": "12 May, 08:51 AM",
+      "type": "tweets",
+      "content": "<p>US senator Graham calls for \"complete reevaluation\" of Pakistan\u2019s role as mediator between Iran, US after western media reports say Iran military assets at Pakistan\u2019s Nur Khan military base.</p>\n<img src=\"https://nitter.net/pic/media%2FHIFp2_wbMAAIif2.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Fact Checked \ud83e\udd21",
       "link": "https://nitter.net/elitepredatorss/status/2054014406221238429#m",
@@ -933,26 +980,6 @@
       "time": "11 May, 09:23 PM",
       "type": "tweets",
       "content": "<p>Trump says West Asia ceasefire is on \"life support\"</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi's 5 nation tour\n\nUAE: 15th\nNetherlands: 15-17th\nSweden: 17-18th\nNorway: 18 - 19th\nItaly: 20th",
-      "link": "https://nitter.net/sidhant/status/2053865871114965067#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-11T21:22:37+05:30",
-      "time": "11 May, 09:22 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi's 5 nation tour<br />\n<br />\nUAE: 15th<br />\nNetherlands: 15-17th<br />\nSweden: 17-18th<br />\nNorway: 18 - 19th<br />\nItaly: 20th</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking:<br />\n<br />\nIts official.<br />\n<br />\nPM Modi's visit to UAE, Netherlands, Sweden, Norway, and Italy annouced. PM will be in these countries from May 15 - 20.</p>\n<img src=\"https://nitter.net/pic/media%2FHIDLpg-awAA78fG.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2053865347141517529#m\">https://nitter.net/sidhant/status/2053865347141517529#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Breaking:\n\nIts official.\n\nPM Modi's visit to UAE, Netherlands, Sweden, Norway, and Italy annouced. PM will be in these countries from May 15 - 20.",
-      "link": "https://nitter.net/sidhant/status/2053865347141517529#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-11T21:20:32+05:30",
-      "time": "11 May, 09:20 PM",
-      "type": "tweets",
-      "content": "<p>Breaking:<br />\n<br />\nIts official.<br />\n<br />\nPM Modi's visit to UAE, Netherlands, Sweden, Norway, and Italy annouced. PM will be in these countries from May 15 - 20.</p>\n<img src=\"https://nitter.net/pic/media%2FHIDLpg-awAA78fG.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1786,27 +1813,8 @@
       "author": "@Goreunit"
     }
   ],
-  "youtube": [
-    {
-      "title": "Indian Defence Updates : 628 Fighter Jets Order,2000 M72 Delivery,2 MIRV Missiles,IACCS AI Upgrade",
-      "link": "https://www.youtube.com/watch?v=2ZMNL2zb9Pg",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-11T17:56:10+05:30",
-      "time": "11 May, 05:56 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/2ZMNL2zb9Pg/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : 4500Km Hypersonic Test, Ranjeet FRCV 2028, Zulu Exports DRAP, CLAD Launcher",
-      "link": "https://www.youtube.com/watch?v=BzEJLndjP1I",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-10T17:57:19+05:30",
-      "time": "10 May, 05:57 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/BzEJLndjP1I/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
