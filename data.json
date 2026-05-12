@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Nepal: 5 killed, 20 injured in bus accident in Lumbini province",
+      "link": "https://www.newsonair.gov.in/nepal-5-killed-20-injured-in-bus-accident-in-lumbini-province/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-12T21:15:42+05:30",
+      "time": "12 May, 09:15 PM",
+      "type": "news",
+      "description": "In Nepal, four women and one man were killed while 20 others sustained injuries after a passenger bus met with an accident in Arghakhanchi district of..."
+    },
+    {
+      "title": "Why Pakistan backstabs the US, and always gets away with it",
+      "link": "https://economictimes.indiatimes.com/news/defence/why-pakistan-backstabs-the-us-and-always-gets-away-with-it/articleshow/131043151.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-12T20:46:01+05:30",
+      "time": "12 May, 08:46 PM",
+      "type": "news",
+      "description": "For decades, the US grappled with Pakistan's dual role as a terror war ally and a supporter of militant groups. Despite accusations of sheltering terr..."
+    },
+    {
+      "title": "Army Foils Infiltration Bid on LoC, Kills Pakistani Terrorist",
+      "link": "https://www.deccanchronicle.com/nation/army-foils-infiltration-bid-on-loc-kills-pakistani-terrorist-1956266",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-12T20:31:01+05:30",
+      "time": "12 May, 08:31 PM",
+      "type": "news",
+      "description": "A defence spokesperson said in Jammu that slain armed man was part of a large group of militants attempting to infiltrate into the Indian side of the ..."
+    },
+    {
       "title": "Israel establishes military tribunal to prosecute Palestinian militants involved in Oct 7 attacks",
       "link": "https://www.newsonair.gov.in/israel-establishes-military-tribunal-to-prosecute-palestinian-militants-involved-in-oct-7-attacks/",
       "source": "All India Radio",
@@ -116,24 +143,6 @@
       "time": "12 May, 05:04 PM",
       "type": "news",
       "description": "India on Tuesday issued a sharp response to reports claiming China helped Pakistan during Operation Sindoor in May last year, saying countries that co..."
-    },
-    {
-      "title": "High-security Gujarat jail breach: Convict walks out of Sabarmati prison",
-      "link": "https://www.newindianexpress.com/states/gujarat/2026/May/12/high-security-gujarat-jail-breach-convict-walks-out-of-sabarmati-prison",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-12T16:37:18+05:30",
-      "time": "12 May, 04:37 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Bomb rigged to rickshaw explodes in Pakistan bazaar, killing 9 and wounding more than 2 dozen others",
-      "link": "https://www.newindianexpress.com/world/2026/May/12/bomb-rigged-to-rickshaw-explodes-in-pakistan-bazaar-killing-9-and-wounding-more-than-2-dozen-others",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-12T16:12:38+05:30",
-      "time": "12 May, 04:12 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "After Operation Sindoor, India\u2019s Defence Sector Turns to Its Small Manufacturers",
@@ -397,15 +406,6 @@
       "description": "India's Navy chief designate, Vice Admiral Krishna Swaminathan, stated India is prepared for any aggression from across the border. He emphasized Indi..."
     },
     {
-      "title": "PM Modi to embark on five-nation visit from May 15 to 20; energy, defence and trade in focus",
-      "link": "https://www.indiatvnews.com/news/india/pm-modi-to-embark-on-five-nation-visit-from-may-15-to-20-energy-defence-and-trade-in-focus-2026-05-11-1040742",
-      "source": "India TV",
-      "sort_key": "2026-05-11T21:56:01+05:30",
-      "time": "11 May, 09:56 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi will embark on a five-nation visit from May 15 to 20 during which he will visit the United Arab Emirates (UAE), the Nethe..."
-    },
-    {
       "title": "US President Trump will visit China at invitation of Chinese President Xi Jinping",
       "link": "https://www.newsonair.gov.in/us-president-trump-will-visit-china-at-invitation-of-chinese-president-xi-jinping/",
       "source": "All India Radio",
@@ -440,15 +440,6 @@
       "time": "11 May, 09:02 PM",
       "type": "news",
       "description": "<p>New Delhi. The girder laying ceremony for the fourth, fifth and sixth Air Cushion Vehicles (ACVs) being built for the Indian Coast Guard was held a..."
-    },
-    {
-      "title": "Philippine House votes to impeach Vice President Sara Duterte",
-      "link": "https://www.newsonair.gov.in/philippine-house-votes-to-impeach-vice-president-sara-duterte/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-11T20:43:48+05:30",
-      "time": "11 May, 08:43 PM",
-      "type": "news",
-      "description": "The Philippine House of Representatives has voted to impeach Vice President Sara Duterte over allegations of unexplained wealth, misuse of state funds..."
     },
     {
       "title": "Mizoram CM Lalduhoma flags off first batch of 144 Mizo Territorial Army recruits",
@@ -656,36 +647,89 @@
       "time": "10 May, 09:29 PM",
       "type": "news",
       "description": "Iran's stockpile of enriched uranium must be \"taken out\" before the US-Israeli war against Iran can be considered over, Israeli Prime Minister Benjami..."
-    },
-    {
-      "title": "Ukraine, Russia ceasefire strained as both sides report weekend attacks",
-      "link": "https://economictimes.indiatimes.com/news/defence/ukraine-russia-ceasefire-strained-as-both-sides-report-weekend-attacks/articleshow/130994882.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-10T21:04:50+05:30",
-      "time": "10 May, 09:04 PM",
-      "type": "news",
-      "description": "A US-brokered ceasefire between Russia and Ukraine faces serious strain. Both nations blame each other for weekend attacks. Ukrainian officials report..."
-    },
-    {
-      "title": "Trump says US would need two weeks to hit all Iran targets",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-us-would-need-two-weeks-to-hit-all-iran-targets/articleshow/130994675.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-10T20:48:43+05:30",
-      "time": "10 May, 08:48 PM",
-      "type": "news",
-      "description": "President Donald Trump stated in an interview that Iran is \"militarily defeated\" and that the US could strike \"every single target\" within two weeks. ..."
-    },
-    {
-      "title": "Israeli forces operated from Iraq's desert during the war: Security sources",
-      "link": "https://economictimes.indiatimes.com/news/defence/israeli-forces-operated-from-iraqs-desert-during-the-war-security-sources/articleshow/130994346.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-10T20:24:31+05:30",
-      "time": "10 May, 08:24 PM",
-      "type": "news",
-      "description": "In the midst of the Iran War, Israeli forces established a covert base in the vast Najaf desert of Iraq. Occupying an abandoned airstrip, this outpost..."
     }
   ],
   "tweets": [
+    {
+      "title": "EAM Dr Jaishankar's packed schedule in Delhi on Wednesday\n\n9.30 am: Chile FM\n4 pm: Maldives FM\n5.15 pm: South Africa  FM\n5.50 pm: Brazil FM\n6.30 pm: Russia FM",
+      "link": "https://nitter.net/sidhant/status/2054225420120359147#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T21:11:20+05:30",
+      "time": "12 May, 09:11 PM",
+      "type": "tweets",
+      "content": "<p>EAM Dr Jaishankar's packed schedule in Delhi on Wednesday<br />\n<br />\n9.30 am: Chile FM<br />\n4 pm: Maldives FM<br />\n5.15 pm: South Africa  FM<br />\n5.50 pm: Brazil FM<br />\n6.30 pm: Russia FM</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>EAM Dr Jaishankar to hold bilateral meetings with Chile, South Africa, Maldives &amp; Russian foreign minister in Delhi tomm.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054194570242707514#m\">https://nitter.net/sidhant/status/2054194570242707514#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "South Africa foreign minister Ronald Ozzy Lamola @RonaldLamola reaches Delhi to attend BRICS foreign ministers meeting.",
+      "link": "https://nitter.net/sidhant/status/2054222057643323843#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T20:57:58+05:30",
+      "time": "12 May, 08:57 PM",
+      "type": "tweets",
+      "content": "<p>South Africa foreign minister Ronald Ozzy Lamola <a href=\"https://nitter.net/RonaldLamola\" title=\"Minister: International Relations and Cooperation\">@RonaldLamola</a> reaches Delhi to attend BRICS foreign ministers meeting.</p>\n<img src=\"https://nitter.net/pic/media%2FHIIQEzZbcAAZ9zF.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian Army says it has foiled infiltration bid in Krishna Ghati sector of Poonch along LoC, neutralising one intruder 300m inside Indian territory.",
+      "link": "https://nitter.net/sidhant/status/2054221067087225271#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T20:54:02+05:30",
+      "time": "12 May, 08:54 PM",
+      "type": "tweets",
+      "content": "<p>Indian Army says it has foiled infiltration bid in Krishna Ghati sector of Poonch along LoC, neutralising one intruder 300m inside Indian territory.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Maldives Foreign Minister Iruthisham Adam @IruthishamAdam in Delhi. She is on her first official visit to India. MEA's JS IOR Prasanna Shrivastava welcomes her at the airport.",
+      "link": "https://nitter.net/sidhant/status/2054220734034243850#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T20:52:43+05:30",
+      "time": "12 May, 08:52 PM",
+      "type": "tweets",
+      "content": "<p>Maldives Foreign Minister Iruthisham Adam <a href=\"https://nitter.net/IruthishamAdam\" title=\"Iruthisham Adam ( Iru)\">@IruthishamAdam</a> in Delhi. She is on her first official visit to India. MEA's JS IOR Prasanna Shrivastava welcomes her at the airport.</p>\n<img src=\"https://nitter.net/pic/media%2FHIIO3wTbAAAVEOw.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Kailash Manasarovar Yatra registration at MEA closes soon. The Yatra is facilitated by Indian govt:",
+      "link": "https://nitter.net/sidhant/status/2054219500615315855#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T20:47:49+05:30",
+      "time": "12 May, 08:47 PM",
+      "type": "tweets",
+      "content": "<p>Kailash Manasarovar Yatra registration at MEA closes soon. The Yatra is facilitated by Indian govt:</p>\n<img src=\"https://nitter.net/pic/media%2FHIINv9obEAAmf1u.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Countries at India BRICS FMs meet\n\nMembers\nBrazil, China, Egypt, Ethiopia, Indonesia, Iran, Russia, Saudi Arabia, South Africa, United Arab Emirates\n\nPartner countries\nBelarus, Bolivia, Cuba, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan, & Vietnam.",
+      "link": "https://nitter.net/sidhant/status/2054217853776412806#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T20:41:16+05:30",
+      "time": "12 May, 08:41 PM",
+      "type": "tweets",
+      "content": "<p>Countries at India BRICS FMs meet<br />\n<br />\nMembers<br />\nBrazil, China, Egypt, Ethiopia, Indonesia, Iran, Russia, Saudi Arabia, South Africa, United Arab Emirates<br />\n<br />\nPartner countries<br />\nBelarus, Bolivia, Cuba, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan, & Vietnam.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "A Pakistani soldier was seen seriously inspecting a kamikaze drone shot down near the international border on May 10, 2026, while local Punjabis were happily claiming an Indian drone had been brought down.\n\nArey PAGLUS, that is actually a Pakistani Army operated Turkish-origin YIHA drone shot down by your own side.....\ud83d\ude02",
+      "link": "https://nitter.net/OsintTV/status/2054217662733971534#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-12T20:40:30+05:30",
+      "time": "12 May, 08:40 PM",
+      "type": "tweets",
+      "content": "<p>A Pakistani soldier was seen seriously inspecting a kamikaze drone shot down near the international border on May 10, 2026, while local Punjabis were happily claiming an Indian drone had been brought down.<br />\n<br />\nArey PAGLUS, that is actually a Pakistani Army operated Turkish-origin YIHA drone shot down by your own side.....\ud83d\ude02</p>\n<a href=\"https://nitter.net/OsintTV/status/2054217662733971534#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054217583138586624%2Fimg%2FRQ5ih3DBwXTIvm3-.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Somalia\ud83c\uddf8\ud83c\uddf4 Thanks India\ud83c\uddee\ud83c\uddf3 For Not Recognising Somaliland \n\n\"We value, appreciate Indian support for Somalia's unity...India has been very clear, supported Somalia's unity\"says Somalia's Amb Dr Abdullahi Mohammed Odowa @AmbOdowa",
+      "link": "https://nitter.net/sidhant/status/2054215923909955619#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-12T20:33:36+05:30",
+      "time": "12 May, 08:33 PM",
+      "type": "tweets",
+      "content": "<p>Somalia\ud83c\uddf8\ud83c\uddf4 Thanks India\ud83c\uddee\ud83c\uddf3 For Not Recognising Somaliland <br />\n<br />\n\"We value, appreciate Indian support for Somalia's unity...India has been very clear, supported Somalia's unity\"says Somalia's Amb Dr Abdullahi Mohammed Odowa <a href=\"https://nitter.net/AmbOdowa\" title=\"Ambassador Abdullahi Odowa, PhD\">@AmbOdowa</a></p>\n<a href=\"https://nitter.net/sidhant/status/2054215923909955619#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2054215671370887168%2Fpu%2Fimg%2Fq9rU0-bbZWgK_1pw.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Somalia's Amb Dr Abdullahi Mohammed Odowa @AmbOdowa hails deepening ties with Delhi ahead of India-Africa Forum Summit. Says several Somali nationals come to India for medical, educational facilities. Details on ties with India.\n\nInterview:",
       "link": "https://nitter.net/sidhant/status/2054211685335065003#m",
@@ -947,36 +991,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Russian-Indian relations are self-reliant and resistant to fluctuations in the geopolitical situation: Russian foreign ministry ahead of Lavrov-Jaishankar meet",
-      "link": "https://nitter.net/sidhant/status/2054189182961258850#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T18:47:20+05:30",
-      "time": "12 May, 06:47 PM",
-      "type": "tweets",
-      "content": "<p>Russian-Indian relations are self-reliant and resistant to fluctuations in the geopolitical situation: Russian foreign ministry ahead of Lavrov-Jaishankar meet</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Flash: EAM Dr S Jaishankar, Russian foreign minister Lavrov to hold talks in Delhi tomm, says Russian Foreign Ministry; will discuss west Asia situation</p>\n<img src=\"https://nitter.net/pic/media%2FHIHxTRRaQAEPw8t.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054188221647683746#m\">https://nitter.net/sidhant/status/2054188221647683746#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Flash: EAM Dr S Jaishankar, Russian foreign minister Lavrov to hold talks in Delhi tomm, says Russian Foreign Ministry; will discuss west Asia situation",
-      "link": "https://nitter.net/sidhant/status/2054188221647683746#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T18:43:31+05:30",
-      "time": "12 May, 06:43 PM",
-      "type": "tweets",
-      "content": "<p>Flash: EAM Dr S Jaishankar, Russian foreign minister Lavrov to hold talks in Delhi tomm, says Russian Foreign Ministry; will discuss west Asia situation</p>\n<img src=\"https://nitter.net/pic/media%2FHIHxTRRaQAEPw8t.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Somalia thanks India for back country's unity & integrity. India has continued to support the African country's integrity, dismissing any plans to recognize to breakaway Somaliland. \n\nInterview with Somalia's Ambassador to India, Dr Abdullahi Mohammed Odowa coming soon",
-      "link": "https://nitter.net/sidhant/status/2054187445542171047#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T18:40:26+05:30",
-      "time": "12 May, 06:40 PM",
-      "type": "tweets",
-      "content": "<p>Somalia thanks India for back country's unity &amp; integrity. India has continued to support the African country's integrity, dismissing any plans to recognize to breakaway Somaliland. <br />\n<br />\nInterview with Somalia's Ambassador to India, Dr Abdullahi Mohammed Odowa coming soon</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Somalia Ambassador Dr Odowa hails deepening ties with Delhi ahead of India-Africa Forum Summit<br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/somalia-ambassador-dr-odowa-hails-deepening-ties-with-delhi-ahead-of-india-africa-forum-summit-1778581425256\">wionews.com/world/somalia-am\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054151070876872704%2FNq6z_D2-%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054185706533380152#m\">https://nitter.net/sidhant/status/2054185706533380152#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "India's Ministry of External Affairs confirmed it received Nepal's request for fertilizer supplies amid shortages of urea and DAP caused by West Asia conflicts delaying shipments.",
       "link": "https://nitter.net/elitepredatorss/status/2054186978674118960#m",
       "source": "Elite Predators",
@@ -985,16 +999,6 @@
       "type": "tweets",
       "content": "<p>India's Ministry of External Affairs confirmed it received Nepal's request for fertilizer supplies amid shortages of urea and DAP caused by West Asia conflicts delaying shipments.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Nepal's dependecy on India : <br />\n<br />\n- 100% dependence on India for fuel.<br />\n<br />\n- All Nepal trade transits through India's ports.<br />\n<br />\n- Nepal's currency stays stable because it is pegged to Indian rupees.<br />\n<br />\n- 20% of Nepal's remittance comes from India, which makes 27-30% of Nepal's GDP.</p>\n<img src=\"https://nitter.net/pic/media%2FHIA5dGNboAAiOTb.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2053734853279953062#m\">https://nitter.net/elitepredatorss/status/2053734853279953062#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Somalia Ambassador Dr Odowa hails deepening ties with Delhi ahead of India-Africa Forum Summit\n\nInterview:\n\nhttps://www.wionews.com/world/somalia-ambassador-dr-odowa-hails-deepening-ties-with-delhi-ahead-of-india-africa-forum-summit-1778581425256",
-      "link": "https://nitter.net/sidhant/status/2054185706533380152#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T18:33:32+05:30",
-      "time": "12 May, 06:33 PM",
-      "type": "tweets",
-      "content": "<p>Somalia Ambassador Dr Odowa hails deepening ties with Delhi ahead of India-Africa Forum Summit<br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/somalia-ambassador-dr-odowa-hails-deepening-ties-with-delhi-ahead-of-india-africa-forum-summit-1778581425256\">wionews.com/world/somalia-am\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054151070876872704%2FNq6z_D2-%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Google review, Noor Khan Airbase and TCS Masjid.\n\nAbsolutely legendary location 10/10\ud83d\udd25",
@@ -1033,38 +1037,8 @@
       "sort_key": "2026-05-12T16:36:12+05:30",
       "time": "12 May, 04:36 PM",
       "type": "tweets",
-      "content": "<p>Beautiful Visuals from North East after a long time. <br />\nHappy Hunting AR</p>\n<hr />\n<blockquote>\n<b>Defence Sphere (@DefenceSphere)</b>\n<p>\n<p>Two insurgents of NSCN have been sent to hell by Assam rifles in eastern Arunachal Pradesh\u2019s Changlang district.</p>\n<img src=\"https://nitter.net/pic/media%2FHIHT-MVawAAew7N.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceSphere/status/2054155982041968812#m\">https://nitter.net/DefenceSphere/status/2054155982041968812#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Beautiful Visuals from North East after a long time. <br />\nHappy Hunting AR</p>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Border security is a priority for us, MEA spox on Indo Bangladesh ties",
-      "link": "https://nitter.net/sidhant/status/2054155518588141938#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T16:33:34+05:30",
-      "time": "12 May, 04:33 PM",
-      "type": "tweets",
-      "content": "<p>Border security is a priority for us, MEA spox on Indo Bangladesh ties</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Several issues will be dicussed says MEA Spox Randhir Jaiswal on Maldives FM Iruthisham Adam's India visit",
-      "link": "https://nitter.net/sidhant/status/2054155447259848964#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T16:33:17+05:30",
-      "time": "12 May, 04:33 PM",
-      "type": "tweets",
-      "content": "<p>Several issues will be dicussed says MEA Spox Randhir Jaiswal on Maldives FM Iruthisham Adam's India visit</p>\n<a href=\"https://nitter.net/sidhant/status/2054155447259848964#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2054155405379690497%2Fpu%2Fimg%2FsToq0XYbOkx_H2y2.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Subject of conversation between India, Bangladesh, says MEA Spox Randhir Jaiswal on illegal immigrants; Spox says India has requested Bangladesh to verify nationality of list handed to them of persons who are deemed to be illegal.",
-      "link": "https://nitter.net/sidhant/status/2054154927535190151#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T16:31:13+05:30",
-      "time": "12 May, 04:31 PM",
-      "type": "tweets",
-      "content": "<p>Subject of conversation between India, Bangladesh, says MEA Spox Randhir Jaiswal on illegal immigrants; Spox says India has requested Bangladesh to verify nationality of list handed to them of persons who are deemed to be illegal.</p>\n<a href=\"https://nitter.net/sidhant/status/2054154927535190151#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2054154859755257856%2Fpu%2Fimg%2FHVSsT-uc0-sfvvfe.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "VBIED Blast in Lakki Marwat, Pakistan\n\nA vehicle-borne explosive attack near Sarai Naurang Bazaar in Lakki Marwat killed at least 9 people, including 2 policemen, and injured around 30 others.",
@@ -1393,7 +1367,7 @@
       "sort_key": "2026-05-12T01:17:51+05:30",
       "time": "12 May, 01:17 AM",
       "type": "tweets",
-      "content": "<p>If this reporting is accurate, it would require a complete reevaluation of the role Pakistan is playing as mediator between Iran, the United States and other parties. <br />\n<br />\nGiven some of the prior statements by Pakistani defense officials towards Israel, I would not be shocked if this were true.</p>\n<hr />\n<blockquote>\n<b>Jennifer Jacobs (@JenniferJJacobs)</b>\n<p>\n<p>Scoop via <a href=\"https://nitter.net/CBSNews\" title=\"CBS News\">@CBSNews</a>: As Pakistan positioned itself as a diplomatic conduit between Tehran and Washington, it quietly allowed Iranian military aircraft to park in its country, potentially shielding them from US airstrikes, sources told <a href=\"https://nitter.net/JimLaPorta\" title=\"Jim LaPorta\">@JimLaPorta</a> and me. Days after Trump announced the ceasefire in early April, Tehran sent multiple aircraft to Pakistan Air Force Base Nur Khan. <br />\nAmong the military hardware was an Iranian Air Force RC-130, a reconnaissance and intelligence-gathering variant of the Lockheed C-130 Hercules tactical transport aircraft.<br />\n<a href=\"https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/\">cbsnews.com/news/pakistan-ir\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054005857843908608%2FwPFHhFyo%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/JenniferJJacobs/status/2053915732740653131#m\">https://nitter.net/JenniferJJacobs/status/2053915732740653131#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>If this reporting is accurate, it would require a complete reevaluation of the role Pakistan is playing as mediator between Iran, the United States and other parties. <br />\n<br />\nGiven some of the prior statements by Pakistani defense officials towards Israel, I would not be shocked if this were true.</p>\n<hr />\n<blockquote>\n<b>Jennifer Jacobs (@JenniferJJacobs)</b>\n<p>\n<p>Scoop via <a href=\"https://nitter.net/CBSNews\" title=\"CBS News\">@CBSNews</a>: As Pakistan positioned itself as a diplomatic conduit between Tehran and Washington, it quietly allowed Iranian military aircraft to park in its country, potentially shielding them from US airstrikes, sources told <a href=\"https://nitter.net/JimLaPorta\" title=\"Jim LaPorta\">@JimLaPorta</a> and me. Days after Trump announced the ceasefire in early April, Tehran sent multiple aircraft to Pakistan Air Force Base Nur Khan. <br />\nAmong the military hardware was an Iranian Air Force RC-130, a reconnaissance and intelligence-gathering variant of the Lockheed C-130 Hercules tactical transport aircraft.<br />\n<a href=\"https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/\">cbsnews.com/news/pakistan-ir\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2053914007430463489%2FTdaT7wxs%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/JenniferJJacobs/status/2053915732740653131#m\">https://nitter.net/JenniferJJacobs/status/2053915732740653131#m</a>\n</footer>\n</blockquote>",
       "author": "@LindseyGrahamSC"
     },
     {
@@ -1557,6 +1531,46 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "R to @NetramDefence: Chief Coordinators:\nAPJ Abdul Kalam, scientific adviser to the defence minister and chairman of the DRDO\nR. Chidambaram, chairman of the Atomic Energy Commission and the Department of Atomic Energy\nK. Santhanam, director of test site preparations\nSatinder Kumar Sikka, lead for thermonuclear weapon development\nM. S. Ramakumar, director of Nuclear Fuel and Automation Manufacturing Group; lead for manufacture of nuclear components\nD.D. Sood, director of Radiochemistry and Isotope Group; director of nuclear materials acquisition",
+      "link": "https://nitter.net/NetramDefence/status/2053859021145378912#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T20:55:24+05:30",
+      "time": "11 May, 08:55 PM",
+      "type": "tweets",
+      "content": "<p>Chief Coordinators:<br />\nAPJ Abdul Kalam, scientific adviser to the defence minister and chairman of the DRDO<br />\nR. Chidambaram, chairman of the Atomic Energy Commission and the Department of Atomic Energy<br />\nK. Santhanam, director of test site preparations<br />\nSatinder Kumar Sikka, lead for thermonuclear weapon development<br />\nM. S. Ramakumar, director of Nuclear Fuel and Automation Manufacturing Group; lead for manufacture of nuclear components<br />\nD.D. Sood, director of Radiochemistry and Isotope Group; director of nuclear materials acquisition</p>\n<img src=\"https://nitter.net/pic/media%2FHIDFmmWbAAAZzGD.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIDFoMmbAAAOe6e.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: The bombs were transported from BARC at 3 am on 1 May 1998 to Mumbai airport, then flown in an Indian Air Force's AN-32 aircraft to Jaisalmer Airport.\nIt was then transported to Pokhran in an army convoy of trucks, and this required numerous trips.\nThe devices were delivered to the device preparation building, which was designated as Prayer Hall.",
+      "link": "https://nitter.net/NetramDefence/status/2053859017425056138#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T20:55:23+05:30",
+      "time": "11 May, 08:55 PM",
+      "type": "tweets",
+      "content": "<p>The bombs were transported from BARC at 3 am on 1 May 1998 to Mumbai airport, then flown in an Indian Air Force's AN-32 aircraft to Jaisalmer Airport.<br />\nIt was then transported to Pokhran in an army convoy of trucks, and this required numerous trips.<br />\nThe devices were delivered to the device preparation building, which was designated as Prayer Hall.</p>\n<img src=\"https://nitter.net/pic/media%2FHIDFdKwakAIAdVd.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: India's Intelligence Bureau had been fully aware of the capability of the United States spy satellites in detecting Indian test preparations.\nTherefore, the tests required complete secrecy. The 58th Engineer Regiment of the Indian Army Corps of Engineers was tasked with preparing the test sites without being detected.",
+      "link": "https://nitter.net/NetramDefence/status/2053859013943779680#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T20:55:22+05:30",
+      "time": "11 May, 08:55 PM",
+      "type": "tweets",
+      "content": "<p>India's Intelligence Bureau had been fully aware of the capability of the United States spy satellites in detecting Indian test preparations.<br />\nTherefore, the tests required complete secrecy. The 58th Engineer Regiment of the Indian Army Corps of Engineers was tasked with preparing the test sites without being detected.</p>\n<img src=\"https://nitter.net/pic/media%2FHIDFXZDboAABmN7.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Pokhran-II was a series of five nuclear weapon tests conducted by India in May 1998. The bombs were detonated at the Indian Army's Pokhran Test Range in Rajasthan.\nIt was the second instance of nuclear testing conducted by India, after the first test, Smiling Buddha, in May 1974.",
+      "link": "https://nitter.net/NetramDefence/status/2053859010013798404#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T20:55:21+05:30",
+      "time": "11 May, 08:55 PM",
+      "type": "tweets",
+      "content": "<p>Pokhran-II was a series of five nuclear weapon tests conducted by India in May 1998. The bombs were detonated at the Indian Army's Pokhran Test Range in Rajasthan.<br />\nIt was the second instance of nuclear testing conducted by India, after the first test, Smiling Buddha, in May 1974.</p>\n<img src=\"https://nitter.net/pic/media%2FHIDFRW0bkAAvOIl.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "THREAD \ud83e\uddf5 \nNational Technology Day | Pokhran-II Nuclear Tests\n \nNational Technology Day is celebrated in India annually on May 11 to commemorate the successful Pokhran-II nuclear tests (\"Operation Shakti\") of 1998, marking a major milestone in indigenous technology.\nIt honors scientists and engineers, with the 2026 theme focusing on \"Responsible Innovation for Inclusive Growth\".\n\n@adgpi @DRDO_India @EAC_IAF\n @hqwaciaf @MC_IAF @SWAC_IAF @official_dgar @PMOIndia @DefenceMinIndia @SpokespersonMoD\n@HMOIndia @AmitShahOffice @AmitShah @rajnathsingh",
       "link": "https://nitter.net/NetramDefence/status/2053859006012375141#m",
       "source": "Netram Defense",
@@ -1677,13 +1691,73 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "THREAD \ud83e\uddf5\nPrecision Strikes on Pakistani Airbases | Operation Sindoor\nIn response to escalated cross-border threats and following initial strikes on terror infrastructure, the Indian Armed Forces executed calibrated precision attacks on multiple Pakistan Air Force installations during the night of 9-10 May 2025.\n\nEleven key airbases and associated facilities were targeted. \n\nThis thread provides a detailed overview of each site and its strategic significance to PAF operations.\n \n@adgpi @NorthernComd_IA @ChinarcorpsIA @IAF_MCC @easterncomd @westerncomd_IA @IaSouthern @suryacommand >@AN_Command @indiannavy @HQ_IDS_India @CAC_CPRO @tracomiaf @EAC_IAF @hqwaciaf @MC_IAF @SWAC_IAF @official_dgar @PMOIndia @DefenceMinIndia @SpokespersonMoD @HMOIndia @AmitShahOffice @AmitShah @rajnathsingh @rmo @OsintTV",
-      "link": "https://nitter.net/NetramDefence/status/2053819358754005098#m",
+      "title": "R to @NetramDefence: Bholari Airbase\n\nIt is a newer base under Southern Air Command in Sindh, housing F-16 squadrons and operational conversion units.\nThe IAF struck the Bholari airbase, destroying a hangar and damaging a SAAB 2000 Erieye Airborne Early Warning and Control aircraft.",
+      "link": "https://nitter.net/NetramDefence/status/2053819403305906478#m",
       "source": "Netram Defense",
-      "sort_key": "2026-05-11T18:17:47+05:30",
+      "sort_key": "2026-05-11T18:17:58+05:30",
       "time": "11 May, 06:17 PM",
       "type": "tweets",
-      "content": "<p>THREAD \ud83e\uddf5<br />\nPrecision Strikes on Pakistani Airbases | Operation Sindoor<br />\nIn response to escalated cross-border threats and following initial strikes on terror infrastructure, the Indian Armed Forces executed calibrated precision attacks on multiple Pakistan Air Force installations during the night of 9-10 May 2025.<br />\n<br />\nEleven key airbases and associated facilities were targeted. <br />\n<br />\nThis thread provides a detailed overview of each site and its strategic significance to PAF operations.<br />\n <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/NorthernComd_IA\" title=\"NORTHERN COMMAND - INDIAN ARMY\">@NorthernComd_IA</a> <a href=\"https://nitter.net/ChinarcorpsIA\" title=\"Chinar Corps\ud83c\udf41 - Indian Army\">@ChinarcorpsIA</a> <a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <a href=\"https://nitter.net/easterncomd\" title=\"EasternCommand_IA\">@easterncomd</a> <a href=\"https://nitter.net/westerncomd_IA\" title=\"Western Command - Indian Army\">@westerncomd_IA</a> <a href=\"https://nitter.net/IaSouthern\" title=\"Southern Command INDIAN ARMY\">@IaSouthern</a> <a href=\"https://nitter.net/suryacommand\" title=\"SuryaCommand_IA\">@suryacommand</a> <a href=\"https://nitter.net/AN_Command\" title=\"Andaman &amp; Nicobar Command\">@AN_Command</a> <a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <a href=\"https://nitter.net/CAC_CPRO\" title=\"CAC, IAF\">@CAC_CPRO</a> <a href=\"https://nitter.net/tracomiaf\" title=\"TRACOMIAF_CMCC\">@tracomiaf</a> <a href=\"https://nitter.net/EAC_IAF\" title=\"Eastern Air Command IAF\">@EAC_IAF</a> <a href=\"https://nitter.net/hqwaciaf\" title=\"Western Air Command, IAF\">@hqwaciaf</a> <a href=\"https://nitter.net/MC_IAF\" title=\"ANURAKSHAN KAMAAN, IAF\">@MC_IAF</a> <a href=\"https://nitter.net/SWAC_IAF\" title=\"C PRO South Western Air Command\">@SWAC_IAF</a> <a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a> <a href=\"https://nitter.net/PMOIndia\" title=\"PMO India\">@PMOIndia</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <a href=\"https://nitter.net/HMOIndia\" title=\"\u0917\u0943\u0939\u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f, HMO India\">@HMOIndia</a> <a href=\"https://nitter.net/AmitShahOffice\" title=\"Office of Amit Shah\">@AmitShahOffice</a> <a href=\"https://nitter.net/AmitShah\" title=\"Amit Shah\">@AmitShah</a> <a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a> <a href=\"https://nitter.net/rmo\" title=\"rmo\">@rmo</a> <a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a></p>\n<img src=\"https://nitter.net/pic/media%2FHICfl8kbAAAe8K0.png\" />",
+      "content": "<p>Bholari Airbase<br />\n<br />\nIt is a newer base under Southern Air Command in Sindh, housing F-16 squadrons and operational conversion units.<br />\nThe IAF struck the Bholari airbase, destroying a hangar and damaging a SAAB 2000 Erieye Airborne Early Warning and Control aircraft.</p>\n<img src=\"https://nitter.net/pic/media%2FHIChbdRaUAArBjn.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Skardu Airbase\n\nThe Skardu airbase is a high-altitude base in Gilgit-Baltistan, essential for operations in northern mountainous regions. It supports surveillance, logistics, fighter deployments, and air operations near sensitive border areas.\nThe IAF aimed to neutralise this base to degrade Pakistan's northern surveillance, limit air operations near the Line of Actual Control (LoC), and disrupt logistical support for potential China-Pakistan coordination in the region.",
+      "link": "https://nitter.net/NetramDefence/status/2053819399585534405#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T18:17:57+05:30",
+      "time": "11 May, 06:17 PM",
+      "type": "tweets",
+      "content": "<p>Skardu Airbase<br />\n<br />\nThe Skardu airbase is a high-altitude base in Gilgit-Baltistan, essential for operations in northern mountainous regions. It supports surveillance, logistics, fighter deployments, and air operations near sensitive border areas.<br />\nThe IAF aimed to neutralise this base to degrade Pakistan's northern surveillance, limit air operations near the Line of Actual Control (LoC), and disrupt logistical support for potential China-Pakistan coordination in the region.</p>\n<img src=\"https://nitter.net/pic/media%2FHIChUm2aoAAX7c3.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Sargodha Airbase (Mushaf Base)\n\nIt is a premier central base, housing elite squadrons, the Combat Commanders School, JF-17, J-10, and F-16 jets. It serves as a major training, command, and operational hub with strategic importance.\nSatellite imagery from July 2025 suggests damage to the base's infrastructure, prompting repair efforts over 80 days after the initial strike.",
+      "link": "https://nitter.net/NetramDefence/status/2053819396016189538#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T18:17:56+05:30",
+      "time": "11 May, 06:17 PM",
+      "type": "tweets",
+      "content": "<p>Sargodha Airbase (Mushaf Base)<br />\n<br />\nIt is a premier central base, housing elite squadrons, the Combat Commanders School, JF-17, J-10, and F-16 jets. It serves as a major training, command, and operational hub with strategic importance.<br />\nSatellite imagery from July 2025 suggests damage to the base's infrastructure, prompting repair efforts over 80 days after the initial strike.</p>\n<img src=\"https://nitter.net/pic/media%2FHIChKmmb0AAMlkV.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Arifwala (Radar and Military Site)\n\nIt is a radar installation supporting Pakistan\u2019s integrated air defence network. It contributed to early warning and surveillance coverage across regional sectors.\nThe radar site was struck by a loiter munition, damaging the radar head and degrading local air surveillance capabilities.",
+      "link": "https://nitter.net/NetramDefence/status/2053819392006492533#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T18:17:55+05:30",
+      "time": "11 May, 06:17 PM",
+      "type": "tweets",
+      "content": "<p>Arifwala (Radar and Military Site)<br />\n<br />\nIt is a radar installation supporting Pakistan\u2019s integrated air defence network. It contributed to early warning and surveillance coverage across regional sectors.<br />\nThe radar site was struck by a loiter munition, damaging the radar head and degrading local air surveillance capabilities.</p>\n<img src=\"https://nitter.net/pic/media%2FHIChCfuaoAAZBO8.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Chunian Airbase\n\nIndian Air Force targeted the Chunian airbase in Pakistan, obliterating a critical radar head and destroying technical facilities and fuel depots.\nThe Chunian facility was a key component of Pakistan's air defence network, with a particular focus on radar and early-warning capabilities.\nThe IAF destroyed a Chinese YLC-8E anti-stealth radar, valued at an estimated $15-20 million, and one fire unit of China\u2019s HQ-9 system valued at $100-200 million.",
+      "link": "https://nitter.net/NetramDefence/status/2053819388420366414#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T18:17:54+05:30",
+      "time": "11 May, 06:17 PM",
+      "type": "tweets",
+      "content": "<p>Chunian Airbase<br />\n<br />\nIndian Air Force targeted the Chunian airbase in Pakistan, obliterating a critical radar head and destroying technical facilities and fuel depots.<br />\nThe Chunian facility was a key component of Pakistan's air defence network, with a particular focus on radar and early-warning capabilities.<br />\nThe IAF destroyed a Chinese YLC-8E anti-stealth radar, valued at an estimated $15-20 million, and one fire unit of China\u2019s HQ-9 system valued at $100-200 million.</p>\n<img src=\"https://nitter.net/pic/media%2FHICg6dUa4AArIN1.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Pasrur (Radar and Military Site)\n\nIt is an important air defence radar installation and support facility in the Sialkot sector. It formed part of Pakistan\u2019s integrated air defence network, providing early warning, surveillance, and tracking coverage for eastern approaches.\nThe radar site and associated facilities were hit, reducing air surveillance coverage in the eastern sector.",
+      "link": "https://nitter.net/NetramDefence/status/2053819384687464790#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T18:17:54+05:30",
+      "time": "11 May, 06:17 PM",
+      "type": "tweets",
+      "content": "<p>Pasrur (Radar and Military Site)<br />\n<br />\nIt is an important air defence radar installation and support facility in the Sialkot sector. It formed part of Pakistan\u2019s integrated air defence network, providing early warning, surveillance, and tracking coverage for eastern approaches.<br />\nThe radar site and associated facilities were hit, reducing air surveillance coverage in the eastern sector.</p>\n<img src=\"https://nitter.net/pic/media%2FHICgxkeb0AAmTPG.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Sialkot Airbase\n\nLocated near the Indian border in eastern Punjab, this base enables rapid response and fighter operations along the eastern front.\nIts strategic proximity to the border makes it critical for air defence, interception, and offensive missions in a high-threat sector.\nThe base sustained damage to operational infrastructure, limiting its effectiveness for rapid deployment during the period of heightened tensions.",
+      "link": "https://nitter.net/NetramDefence/status/2053819381524967763#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-11T18:17:53+05:30",
+      "time": "11 May, 06:17 PM",
+      "type": "tweets",
+      "content": "<p>Sialkot Airbase<br />\n<br />\nLocated near the Indian border in eastern Punjab, this base enables rapid response and fighter operations along the eastern front.<br />\nIts strategic proximity to the border makes it critical for air defence, interception, and offensive missions in a high-threat sector.<br />\nThe base sustained damage to operational infrastructure, limiting its effectiveness for rapid deployment during the period of heightened tensions.</p>",
       "author": "@NetramDefence"
     },
     {
@@ -1725,16 +1799,6 @@
       "type": "tweets",
       "content": "<p>Exclusive: One year after India destroyed JeM\u2019s Markaz Bilal in Muzaffarabad during Operation Sindoor, reconstruction of the terror campus has officially begun in PoK.<br />\n<br />\nSources say the Pakistan government released more than PKR 40 million for rebuilding, while the site remains under Pakistani Army protection.<br />\n<br />\nAll reconstruction work is being carried out under the supervision of Rana Sanaullah, Special Assistant on Political Affairs to Pakistani Prime Minister Shehbaz Sharif.<br />\n<br />\nVisuals: 2.4.2026</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2053792875159371901#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053792617566175234%2Fimg%2FJmqDo0GyDjvTzOsf.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>ABP LIVE (@abplive)</b>\n<p>\n<p>ABP Exclusive: One Year After Operation Sindoor, Jaish Rebuilds Markaz Bilal in PoK<br />\n<a href=\"https://news.abplive.com/news/world/abp-exclusive-one-year-after-operation-sindoor-jaish-rebuilds-markaz-bilal-in-pok-1842537#google_vignette\">news.abplive.com/news/world/\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2053170603465826305%2FH3-Xj0La%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/abplive/status/2053170600227795394#m\">https://nitter.net/abplive/status/2053170600227795394#m</a>\n</footer>\n</blockquote>",
       "author": "@shivank_8mishra"
-    },
-    {
-      "title": "India will add a Pakistan to its GDP this year and a South Africa next year: Economist Gautam Chikermane",
-      "link": "https://nitter.net/OsintTV/status/2053785099687108782#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-11T16:01:39+05:30",
-      "time": "11 May, 04:01 PM",
-      "type": "tweets",
-      "content": "<p>India will add a Pakistan to its GDP this year and a South Africa next year: Economist Gautam Chikermane</p>\n<a href=\"https://nitter.net/OsintTV/status/2053785099687108782#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053693011931090944%2Fimg%2FOpZXE9LWgdGQ-fSe.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "RT by @OsintTV: Pakistani deputy PM - Pakistan was ready for the ceasefire at the night of 9-10 may too but Indian govt chose to destroy Pakistani airbases. \n\nLast Punch before ending the war \ud83d\udc4a\ud83c\udffb",
@@ -1843,6 +1907,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
