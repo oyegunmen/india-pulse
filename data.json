@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Cannes Film Festival to kick off today",
+      "link": "https://www.newsonair.gov.in/cannes-film-festival-to-kick-off-today/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-12T08:11:57+05:30",
+      "time": "12 May, 08:11 AM",
+      "type": "news",
+      "description": "The Cannes Film Festival, the annual celebration of independent cinema on the French Riviera, will kick off today with John Travolta, Adam Driver and ..."
+    },
+    {
+      "title": "US President Trump warns US-Iran ceasefire on life support as energy markets reel from West Asia crisis",
+      "link": "https://www.newsonair.gov.in/us-president-trump-warns-us-iran-ceasefire-on-life-support-as-energy-markets-reel-from-west-asia-crisis/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-12T07:49:36+05:30",
+      "time": "12 May, 07:49 AM",
+      "type": "news",
+      "description": "Oil markets were shaken and diplomatic tensions deepened after US President Donald Trump said the fragile ceasefire between Washington and Tehran was ..."
+    },
+    {
       "title": "UAE secretly carrying out attacks on Iran including one targeting oil refinery on Lavan Island: Report",
       "link": "https://economictimes.indiatimes.com/news/defence/uae-secretly-carrying-out-attacks-on-iran-including-one-targeting-oil-refinery-on-lavan-island-report/articleshow/131026266.cms",
       "source": "Economic Times",
@@ -325,15 +343,6 @@
       "description": "Minister of State for External Affairs Pabitra Margherita held a bilateral meeting with the Foreign Minister of Costa Rica, Manuel Tovar. In a social ..."
     },
     {
-      "title": "US President Donald Trump to visit China from May 13 to 15",
-      "link": "https://www.newsonair.gov.in/us-president-donald-trump-to-visit-china-from-may-13-to-15/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-11T11:19:13+05:30",
-      "time": "11 May, 11:19 AM",
-      "type": "news",
-      "description": "US President Donald Trump will pay an official visit to China from May 13 to 15 at the invitation of Chinese President Xi Jinping. This will be the fi..."
-    },
-    {
       "title": "PM\u2019s UAE visit to advance Strategic Defence Partnership",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/pms-uae-visit-to-advance-strategic-defence-partnership/131004881",
       "source": "Economic Times",
@@ -341,15 +350,6 @@
       "time": "11 May, 10:58 AM",
       "type": "news",
       "description": "This collaboration includes defense industry, innovation, and cybersecurity. The visit also underscores solidarity with UAE leadership amidst ongoing ..."
-    },
-    {
-      "title": "Saudi Arabia condemns Iranian attacks on UAE, Qatar and Kuwait",
-      "link": "https://www.newsonair.gov.in/saudi-arabia-condemns-iranian-attacks-on-uae-qatar-and-kuwait/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-11T10:53:36+05:30",
-      "time": "11 May, 10:53 AM",
-      "type": "news",
-      "description": "Saudi Arabia has condemned the Iranian attacks, which targeted the territories and territorial waters of the UAE, Qatar and Kuwait, and reiterated its..."
     },
     {
       "title": "INS Sudarshini\u2019s Mindelo stopover strengthens India-Cabo Verde maritime friendship",
@@ -1786,8 +1786,27 @@
       "author": "@Goreunit"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Indian Defence Updates : 628 Fighter Jets Order,2000 M72 Delivery,2 MIRV Missiles,IACCS AI Upgrade",
+      "link": "https://www.youtube.com/watch?v=2ZMNL2zb9Pg",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-11T17:56:10+05:30",
+      "time": "11 May, 05:56 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/2ZMNL2zb9Pg/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : 4500Km Hypersonic Test, Ranjeet FRCV 2028, Zulu Exports DRAP, CLAD Launcher",
+      "link": "https://www.youtube.com/watch?v=BzEJLndjP1I",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-10T17:57:19+05:30",
+      "time": "10 May, 05:57 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/BzEJLndjP1I/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
