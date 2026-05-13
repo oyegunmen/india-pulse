@@ -1,7 +1,34 @@
 {
   "news": [
     {
-      "title": "PM Modi cuts down his convoy size, sets example on balanced use of resources",
+      "title": "US President Donald Trump Begins Three-Day Visit to China",
+      "link": "https://www.newsonair.gov.in/us-president-donald-trump-begins-three-day-visit-to-china/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-13T10:39:04+05:30",
+      "time": "13 May, 10:39 AM",
+      "type": "news",
+      "description": "US President Donald Trump has embarked on a highly anticipated three-day visit to China. He will hold a summit with Chinese President Xi Jinping in Be..."
+    },
+    {
+      "title": "UAE President Mohamed bin Zayed Al Nahyan Holds Talks With US President Donald Trump on Regional Situation",
+      "link": "https://www.newsonair.gov.in/uae-president-mohamed-bin-zayed-al-nahyan-holds-talks-with-us-president-donald-trump-on-regional-situation/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-13T10:35:28+05:30",
+      "time": "13 May, 10:35 AM",
+      "type": "news",
+      "description": "UAE&#8217;s President Mohamed bin Zayed Al Nahyan received a phone call from US President Donald Trump, during which the two sides discussed strategic..."
+    },
+    {
+      "title": "China-US trade talks start in South Korea",
+      "link": "https://www.newindianexpress.com/world/2026/May/13/china-us-trade-talks-start-in-south-korea",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-13T10:05:32+05:30",
+      "time": "13 May, 10:05 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "PM Modi cuts down his convoy size by 50%, sets example on balanced use of resources",
       "link": "https://www.indiatvnews.com/news/india/pm-modi-cuts-down-his-convoy-size-sets-example-on-balanced-use-of-resources-latest-updates-2026-05-13-1040916",
       "source": "India TV",
       "sort_key": "2026-05-13T09:53:56+05:30",
@@ -62,15 +89,6 @@
       "time": "13 May, 06:50 AM",
       "type": "news",
       "description": "Kuwait alleges Iran attempted an attack on Bubiyan Island. This incident occurs as U.S. President Trump visits China. Tensions are high in the Persian..."
-    },
-    {
-      "title": "China urges Pakistan to mediate Iran-US talks, ease Strait of Hormuz tensions",
-      "link": "https://www.newindianexpress.com/world/2026/May/13/china-urges-pakistan-to-mediate-iran-us-talks-ease-strait-of-hormuz-tensions",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-13T06:36:13+05:30",
-      "time": "13 May, 06:36 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "India raps China for backing Pakistan during Operation Sindoor",
@@ -280,15 +298,6 @@
       "description": "India on Tuesday took a sharp swipe at China over reports of its support to Pakistan during Operation Sindoor, saying nations shielding terror infrast..."
     },
     {
-      "title": "India rebukes China over helping Pakistan during Operation Sindoor: 'Backing terror infra affects reputation'",
-      "link": "https://www.indiatvnews.com/news/india/india-rebukes-china-over-helping-pakistan-during-operation-sindoor-backing-terror-infra-affects-reputation-2026-05-12-1040843",
-      "source": "India TV",
-      "sort_key": "2026-05-12T17:04:14+05:30",
-      "time": "12 May, 05:04 PM",
-      "type": "news",
-      "description": "India on Tuesday issued a sharp response to reports claiming China helped Pakistan during Operation Sindoor in May last year, saying countries that co..."
-    },
-    {
       "title": "After Operation Sindoor, India\u2019s Defence Sector Turns to Its Small Manufacturers",
       "link": "https://www.indiastrategic.in/after-operation-sindoor-indias-defence-sector-turns-to-its-small-manufacturers/",
       "source": "India Strategic",
@@ -352,15 +361,6 @@
       "description": "Israel has deployed Iron Dome air defense systems and operators to the United Arab Emirates. This move strengthens ties between the two nations, forge..."
     },
     {
-      "title": "Pakistan permitted Iranian military aircraft to be stationed at its airbases during US conflict: Report",
-      "link": "https://www.newsonair.gov.in/pakistan-permitted-iranian-military-aircraft-to-be-stationed-at-its-airbases-during-us-conflict-report/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-12T13:30:34+05:30",
-      "time": "12 May, 01:30 PM",
-      "type": "news",
-      "description": "Pakistan quietly permitted Iranian military aircraft to be stationed at its airbases during the recent conflict between Iran and the United States, de..."
-    },
-    {
       "title": "EAM Jaishankar Inaugurates \u2018Shunya to Ananta\u2019 Exhibition at UN, Highlights India\u2019s Global Contribution to Mathematics",
       "link": "https://www.indiastrategic.in/eam-jaishankar-inaugurates-shunya-to-ananta-exhibition-at-un-highlights-indias-global-contribution-to-mathematics/",
       "source": "India Strategic",
@@ -422,15 +422,6 @@
       "time": "12 May, 10:34 AM",
       "type": "news",
       "description": "Narahari, a native of Somidi in Kazipet mandal of Hanumakonda district, had been underground since 1996 and was involved in several key Maoist operati..."
-    },
-    {
-      "title": "President Donald Trump expects Taiwan & energy security to dominate discussions during upcoming visit to China",
-      "link": "https://www.newsonair.gov.in/president-donald-trump-expects-taiwan-energy-security-to-dominate-discussions-during-upcoming-visit-to-china/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-12T09:42:48+05:30",
-      "time": "12 May, 09:42 AM",
-      "type": "news",
-      "description": "US President Donald Trump has said he expected Taiwan and energy security to dominate discussions during his upcoming visit to China, while praising h..."
     },
     {
       "title": "CDS & Navy chief picked out, the next key defence & security appointments Centre is set to decide on",
@@ -656,18 +647,69 @@
       "time": "11 May, 12:58 PM",
       "type": "news",
       "description": "Defence Minister Rajnath Singh chaired a meeting on West Asia's evolving situation. Prime Minister Narendra Modi called for nationwide economic resili..."
-    },
-    {
-      "title": "PM\u2019s UAE visit to advance Strategic Defence Partnership",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/pms-uae-visit-to-advance-strategic-defence-partnership/131004881",
-      "source": "Economic Times",
-      "sort_key": "2026-05-11T10:58:43+05:30",
-      "time": "11 May, 10:58 AM",
-      "type": "news",
-      "description": "This collaboration includes defense industry, innovation, and cybersecurity. The visit also underscores solidarity with UAE leadership amidst ongoing ..."
     }
   ],
   "tweets": [
+    {
+      "title": "EAM Dr Jaishankar meets Chile FM Francisco P\u00e9rez Mackenna",
+      "link": "https://nitter.net/sidhant/status/2054436323491299488#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-13T11:09:23+05:30",
+      "time": "13 May, 11:09 AM",
+      "type": "tweets",
+      "content": "<p>EAM Dr Jaishankar meets Chile FM Francisco P\u00e9rez Mackenna</p>\n<img src=\"https://nitter.net/pic/media%2FHILS8cNbAAA-BYj.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian govt's daily press conference on west Asia war will now take place on 2 days only-Monday and Thursday.",
+      "link": "https://nitter.net/sidhant/status/2054431315098054742#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-13T10:49:29+05:30",
+      "time": "13 May, 10:49 AM",
+      "type": "tweets",
+      "content": "<p>Indian govt's daily press conference on west Asia war will now take place on 2 days only-Monday and Thursday.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Maharashtra: A training aircraft belonging to Red Bird crashed at Gojubavi in the Baramati MIDC area.",
+      "link": "https://nitter.net/Goreunit/status/2054429029277536548#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-13T10:40:24+05:30",
+      "time": "13 May, 10:40 AM",
+      "type": "tweets",
+      "content": "<p>Maharashtra: A training aircraft belonging to Red Bird crashed at Gojubavi in the Baramati MIDC area.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "RT by @Goreunit: Kishtwar Police arrested 2 terror aides, including govt teacher Mashkoor Ahmed, for helping Pakistani trts linked to JeM\u2019s Azrael module in Chatroo.\nAccused provided logistics, shelter & intel on security force movement to terrorist commander Saifullah and associates.\nBooked under UAPA.",
+      "link": "https://nitter.net/Goreunit/status/2054426023035302330#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-13T10:28:27+05:30",
+      "time": "13 May, 10:28 AM",
+      "type": "tweets",
+      "content": "<p>Kishtwar Police arrested 2 terror aides, including govt teacher Mashkoor Ahmed, for helping Pakistani trts linked to JeM\u2019s Azrael module in Chatroo.<br />\nAccused provided logistics, shelter & intel on security force movement to terrorist commander Saifullah and associates.<br />\nBooked under UAPA.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Iran's Foreign Minister Seyed Abbas Araghchi to reach Delhi today. Focus on movement of Indian vessels from Hormuz is expected to be key issue when Indian, Iranian FMs hold talks on the sidelines of BRICS FMs meet.",
+      "link": "https://nitter.net/sidhant/status/2054425639911141734#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-13T10:26:56+05:30",
+      "time": "13 May, 10:26 AM",
+      "type": "tweets",
+      "content": "<p>Iran's Foreign Minister Seyed Abbas Araghchi to reach Delhi today. Focus on movement of Indian vessels from Hormuz is expected to be key issue when Indian, Iranian FMs hold talks on the sidelines of BRICS FMs meet.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RSS General Secy Dattatreya Hosabale on Pakistan\n\n\"Should always be ready to engage in dialogue. That is why diplomatic relations are maintained, trade and commerce continue... So we should not stop. Should always be a window for dialogue.\"\n\nTo Agency PTI",
+      "link": "https://nitter.net/sidhant/status/2054425051815174224#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-13T10:24:36+05:30",
+      "time": "13 May, 10:24 AM",
+      "type": "tweets",
+      "content": "<p>RSS General Secy Dattatreya Hosabale on Pakistan<br />\n<br />\n\"Should always be ready to engage in dialogue. That is why diplomatic relations are maintained, trade and commerce continue... So we should not stop. Should always be a window for dialogue.\"<br />\n<br />\nTo Agency PTI</p>\n<a href=\"https://nitter.net/sidhant/status/2054425051815174224#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054190426660433920%2Fimg%2FvMufV78fgA0lZzxc.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Trump en route to China",
       "link": "https://nitter.net/sidhant/status/2054417153030603029#m",
@@ -679,7 +721,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "\ud83d\udea8 Flash News :\n\n\ud83d\udccdLong standing Chatroo Kishtwar encounter Jaish OGW terror network successfully cracked by JKP.\n\n\ud83d\udccd Jammu & Kashmir Police arrested suspect Mashkoor Ahmed from Beigpora Singhpora, Chatroo under UAPA, BNS and Arms Act sections.\n\n\ud83d\udccd Case relates to the Feb 4, 2026 Dichhar Chatroo encounter where terrorist Adil was neutralised during an anti terror operation.\n\n\ud83d\udccd Investigators states that accused provided shelter, food and logistical support to Jaish-e-Mohammed terrorists operating in the Chatroo belt.\n\n\ud83d\udccd Police sources say a photograph of slain Jaish commander Saifullah/Swaruddin, garlanded with currency notes, was reportedly taken inside the accused\u2019s residence.\n\n\ud83d\udccd Saifullah/Swaruddin was later killed along with two foreign terrorists during \u201cOperation Trashi I\u201d in Chatroo on February 22, 2026.\n\n\ud83d\udccd Sources state the accused was appointed as a Rehbar e Taleem teacher in 2004 and regularised in 2009 at PS Gujrari, Zone Chatroo.\n\n\ud83d\udccd Further investigation is underway.\n\nPics @AsifNaik  / http://t.me/ThirdEyeOSINTandAnalysis",
+      "title": "RT by @OsintTV: \ud83d\udea8 Flash News :\n\n\ud83d\udccdLong standing Chatroo Kishtwar encounter Jaish OGW terror network successfully cracked by JKP.\n\n\ud83d\udccd Jammu & Kashmir Police arrested suspect Mashkoor Ahmed from Beigpora Singhpora, Chatroo under UAPA, BNS and Arms Act sections.\n\n\ud83d\udccd Case relates to the Feb 4, 2026 Dichhar Chatroo encounter where terrorist Adil was neutralised during an anti terror operation.\n\n\ud83d\udccd Investigators states that accused provided shelter, food and logistical support to Jaish-e-Mohammed terrorists operating in the Chatroo belt.\n\n\ud83d\udccd Police sources say a photograph of slain Jaish commander Saifullah/Swaruddin, garlanded with currency notes, was reportedly taken inside the accused\u2019s residence.\n\n\ud83d\udccd Saifullah/Swaruddin was later killed along with two foreign terrorists during \u201cOperation Trashi I\u201d in Chatroo on February 22, 2026.\n\n\ud83d\udccd Sources state the accused was appointed as a Rehbar e Taleem teacher in 2004 and regularised in 2009 at PS Gujrari, Zone Chatroo.\n\n\ud83d\udccd Further investigation is underway.\n\nPics @AsifNaik  / http://t.me/ThirdEyeOSINTandAnalysis",
       "link": "https://nitter.net/OsintTV/status/2054415179748647093#m",
       "source": "Osint TV",
       "sort_key": "2026-05-13T09:45:22+05:30",
@@ -939,16 +981,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Countries at India BRICS FMs meet\n\nMembers\nBrazil, China, Egypt, Ethiopia, Indonesia, Iran, Russia, Saudi Arabia, South Africa, United Arab Emirates\n\nPartner countries\nBelarus, Bolivia, Cuba, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan, & Vietnam.",
-      "link": "https://nitter.net/sidhant/status/2054217853776412806#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T20:41:16+05:30",
-      "time": "12 May, 08:41 PM",
-      "type": "tweets",
-      "content": "<p>Countries at India BRICS FMs meet<br />\n<br />\nMembers<br />\nBrazil, China, Egypt, Ethiopia, Indonesia, Iran, Russia, Saudi Arabia, South Africa, United Arab Emirates<br />\n<br />\nPartner countries<br />\nBelarus, Bolivia, Cuba, Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan, & Vietnam.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: A Pakistani soldier was seen seriously inspecting a kamikaze drone shot down near the international border on May 10, 2026, while local Punjabis were happily claiming an Indian drone had been brought down.\n\nArey PAGLUS, that is actually a Pakistani Army operated Turkish-origin YIHA drone shot down by your own side.....\ud83d\ude02",
       "link": "https://nitter.net/OsintTV/status/2054217662733971534#m",
       "source": "Osint TV",
@@ -959,16 +991,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Somalia\ud83c\uddf8\ud83c\uddf4 Thanks India\ud83c\uddee\ud83c\uddf3 For Not Recognising Somaliland \n\n\"We value, appreciate Indian support for Somalia's unity...India has been very clear, supported Somalia's unity\"says Somalia's Amb Dr Abdullahi Mohammed Odowa @AmbOdowa",
-      "link": "https://nitter.net/sidhant/status/2054215923909955619#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T20:33:36+05:30",
-      "time": "12 May, 08:33 PM",
-      "type": "tweets",
-      "content": "<p>Somalia\ud83c\uddf8\ud83c\uddf4 Thanks India\ud83c\uddee\ud83c\uddf3 For Not Recognising Somaliland <br />\n<br />\n\"We value, appreciate Indian support for Somalia's unity...India has been very clear, supported Somalia's unity\"says Somalia's Amb Dr Abdullahi Mohammed Odowa <a href=\"https://nitter.net/AmbOdowa\" title=\"Ambassador Abdullahi Odowa, PhD\">@AmbOdowa</a></p>\n<a href=\"https://nitter.net/sidhant/status/2054215923909955619#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2054215671370887168%2Fpu%2Fimg%2Fq9rU0-bbZWgK_1pw.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: Apart from Ubaid Jahangir\u2019s case, there has been historical infighting between JeM and LeT in Rawalakot since 2015.\n\nOne such incident took place in 2015, when Ilyas Kashmiri, who at that time went by the name Abu Mohammad, and Abu Saraya, now known as Rizwan Hanif, had a physical altercation over the setting up of a LeT training camp near Banjosa Lake.\n\nWhile LeT wanted to establish a camp there, JeM opposed the move as the area was considered its stronghold.\n\nDuring the altercation which escalated into a shootout, one person was also killed. Since then, Ilyas Kashmiri alias Abu Mohammad has remained in exile in KPK, where he continues to stay even today as military and ISI sided with LeT.",
       "link": "https://nitter.net/shivank_8mishra/status/2054215820784681198#m",
       "source": "Osint TV",
@@ -977,26 +999,6 @@
       "type": "tweets",
       "content": "<p>Apart from Ubaid Jahangir\u2019s case, there has been historical infighting between JeM and LeT in Rawalakot since 2015.<br />\n<br />\nOne such incident took place in 2015, when Ilyas Kashmiri, who at that time went by the name Abu Mohammad, and Abu Saraya, now known as Rizwan Hanif, had a physical altercation over the setting up of a LeT training camp near Banjosa Lake.<br />\n<br />\nWhile LeT wanted to establish a camp there, JeM opposed the move as the area was considered its stronghold.<br />\n<br />\nDuring the altercation which escalated into a shootout, one person was also killed. Since then, Ilyas Kashmiri alias Abu Mohammad has remained in exile in KPK, where he continues to stay even today as military and ISI sided with LeT.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 RUMINT:<br />\n<br />\nJaish-e-Mohammed has accused Lashkar-e-Taiba members of helping Indian agency to destroy their terror camps.<br />\n<br />\nAccording to RUMINT, members of Jaish-e-Mohammed are furious and are directly blaming Lashkar-e-Taiba cadre Ubaid Jahangir, son of Muhammad Jahangir Shahid from Koyian, Khai Gala, Rawalakot, PoJK. They blame that he provided the location details and GPS coordinates of Jaish-e-Mohammed\u2019s Syedna Bilal terrorist camps to an Indian agencies ahead of Op Sindoor.<br />\n<br />\nUbaid Jahangir was arrested by Pak law enforcement agencies on charges of espionage. He is closely linked to Lashkar-e-Taiba. His uncle, Shaukat S/O Samandar, is considered a key LeT figure and serves as the custodian of the Jama-ud-Dawa mosque in Khai Gala, PoJK.<br />\n<br />\nJaish cadres are furious and are blaming the ISI for shielding Lashkar-e-Taiba.</p>\n<img src=\"https://nitter.net/pic/media%2FHIIBZJGXoAIB5Cf.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2054206026077880437#m\">https://nitter.net/OsintTV/status/2054206026077880437#m</a>\n</footer>\n</blockquote>",
       "author": "@shivank_8mishra"
-    },
-    {
-      "title": "Somalia's Amb Dr Abdullahi Mohammed Odowa @AmbOdowa hails deepening ties with Delhi ahead of India-Africa Forum Summit. Says several Somali nationals come to India for medical, educational facilities. Details on ties with India.\n\nInterview:",
-      "link": "https://nitter.net/sidhant/status/2054211685335065003#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T20:16:45+05:30",
-      "time": "12 May, 08:16 PM",
-      "type": "tweets",
-      "content": "<p>Somalia's Amb Dr Abdullahi Mohammed Odowa <a href=\"https://nitter.net/AmbOdowa\" title=\"Ambassador Abdullahi Odowa, PhD\">@AmbOdowa</a> hails deepening ties with Delhi ahead of India-Africa Forum Summit. Says several Somali nationals come to India for medical, educational facilities. Details on ties with India.<br />\n<br />\nInterview:</p>\n<a href=\"https://nitter.net/sidhant/status/2054211685335065003#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054200518894051328%2Fimg%2FZYTRyK7xHF3V59tg.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Delhi gets ready for BRICS Foreign ministers meet. Russian FM Lavrov, Iran FM Araghchi, other top officials to be in India. China's FM Wang Yi skips the meet as Trump will be in China. BRICS+ will see Thai, Indonesia etc FMs to be in Delhi. \n\nReporting:",
-      "link": "https://nitter.net/sidhant/status/2054211197680173488#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-12T20:14:49+05:30",
-      "time": "12 May, 08:14 PM",
-      "type": "tweets",
-      "content": "<p>Delhi gets ready for BRICS Foreign ministers meet. Russian FM Lavrov, Iran FM Araghchi, other top officials to be in India. China's FM Wang Yi skips the meet as Trump will be in China. BRICS+ will see Thai, Indonesia etc FMs to be in Delhi. <br />\n<br />\nReporting:</p>\n<a href=\"https://nitter.net/sidhant/status/2054211197680173488#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054202353444904960%2Fimg%2FJhZp-lKlV_o-fsxJ.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "FYKI, serious infighting and internal rifts are currently going on within the Jaish terrorist group.",
@@ -1175,7 +1177,7 @@
       "sort_key": "2026-05-12T16:36:12+05:30",
       "time": "12 May, 04:36 PM",
       "type": "tweets",
-      "content": "<p>Beautiful Visuals from North East after a long time. <br />\nHappy Hunting AR</p>",
+      "content": "<p>Beautiful Visuals from North East after a long time. <br />\nHappy Hunting AR</p>\n<hr />\n<blockquote>\n<b>Defence Sphere (@DefenceSphere)</b>\n<p>\n<p>Two insurgents of NSCN have been sent to hell by Assam rifles in eastern Arunachal Pradesh\u2019s Changlang district.</p>\n<img src=\"https://nitter.net/pic/media%2FHIHT-MVawAAew7N.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceSphere/status/2054155982041968812#m\">https://nitter.net/DefenceSphere/status/2054155982041968812#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1399,16 +1401,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "RT by @Goreunit: \ud83d\udccc North Kashmir, India Pakistan LOC \n\nPakistani civilians to Indians -\n\u201cYou're getting petrol in 100 rupees , we're getting in 400 rupees. There is no electricity but you've.\u201d\nTheir own civilians\ud83c\uddf5\ud83c\uddf0 aren't Happy.",
-      "link": "https://nitter.net/DefenceSphere/status/2054072963599892512#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-12T11:05:32+05:30",
-      "time": "12 May, 11:05 AM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udccc North Kashmir, India Pakistan LOC <br />\n<br />\nPakistani civilians to Indians -<br />\n\u201cYou're getting petrol in 100 rupees , we're getting in 400 rupees. There is no electricity but you've.\u201d<br />\nTheir own civilians\ud83c\uddf5\ud83c\uddf0 aren't Happy.</p>\n<a href=\"https://nitter.net/DefenceSphere/status/2054072963599892512#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2054072928241909760%2Fpu%2Fimg%2Fq6SA9cqiF2tdLSsY.jpg\" />\n</a>",
-      "author": "@DefenceSphere"
-    },
-    {
       "title": "RT by @OsintTV: India's Intelligence agency R&AW making it to the assembly of Khyber Pakhtunkhwa, Pakistan.\n\nA female member of the assembly- Tubah Shahid alleges that most of the assembly members are working with an agenda of R&AW.",
       "link": "https://nitter.net/Theunk5555/status/2054070473278046481#m",
       "source": "Osint TV",
@@ -1427,16 +1419,6 @@
       "type": "tweets",
       "content": "<p>This is how Pakistan pushed propaganda after Operation Sindoor using international media platforms.<br />\n<br />\nAfter Operation Sindoor, Sky News interviewed Hanzla Ammad at the destroyed Lashkar-e-Taiba headquarters in Muridke and portrayed him as a \u201clocal resident.\u201d<br />\n<br />\nIn reality, he is a prominent Lashkar-e-Taiba/PMML member who works in LeT\u2019s propaganda wing, pushing radical extremist ideology.<br />\n<br />\nIn the image on the right, Hanzla can be seen alongside senior US-designated Lashkar-e-Taiba figures, including Muzammil Hashmi, Abdur Rauf, Talha Saeed, and Haris Dar.<br />\n<br />\nCurrently, Hanzla Ammad spends most of his time in Quetta, handling LeT activities in the Balochistan region.<br />\n<br />\nFYR <a href=\"https://nitter.net/CordeliaSkyNews\" title=\"Cordelia Lynch\">@CordeliaSkyNews</a><br />\n Video credit <a href=\"https://nitter.net/SkyNews\" title=\"Sky News\">@SkyNews</a></p>\n<a href=\"https://nitter.net/OsintTV/status/2054063130250993997#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054062760351174656%2Fimg%2FI74pug_y-a49ht-e.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "As per American officials, Pakistan has backstabbed the USA. Pakistan allowed Iran to Park their military aircraft in Pakistani airfields to shield from American attacks.",
-      "link": "https://nitter.net/Goreunit/status/2054062338844795212#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-12T10:23:18+05:30",
-      "time": "12 May, 10:23 AM",
-      "type": "tweets",
-      "content": "<p>As per American officials, Pakistan has backstabbed the USA. Pakistan allowed Iran to Park their military aircraft in Pakistani airfields to shield from American attacks.</p>\n<img src=\"https://nitter.net/pic/media%2FHIF-z7cbsAAUH5g.jpg\" />",
-      "author": "@Goreunit"
     },
     {
       "title": "It seems the situation regarding Hantavirus has been contained so far.\n\nPeople who got affected and People who were in the proximity of the affected individual are being tested.\n\nDr. Jay Bhattacharya, acting head of the US Centers for Disease Control (CDC) says human-to-human transmission was rare and it should not be treated like Covid.",
@@ -1537,16 +1519,6 @@
       "type": "tweets",
       "content": "<p>It keeps getting interesting the more you dig in!</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2053912835013665166#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053912706470821888%2Fimg%2FPrjwn-7yubC18RWB.jpg\" />\n</a>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "\u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u0938\u0942\u0930\u094d\u092f\u094b\u0926\u092f \u092f\u094b\u091c\u0928\u093e",
-      "link": "https://nitter.net/Goreunit/status/2053909005819683082#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-12T00:14:01+05:30",
-      "time": "12 May, 12:14 AM",
-      "type": "tweets",
-      "content": "<p>\u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u0938\u0942\u0930\u094d\u092f\u094b\u0926\u092f \u092f\u094b\u091c\u0928\u093e</p>\n<img src=\"https://nitter.net/pic/media%2FHIDzWVtbEAAFz1j.jpg\" />",
-      "author": "@Goreunit"
     },
     {
       "title": "Tata Advanced Systems Limited has rolled out the first Airbus C295 aircraft from its Final Assembly Line (FAL) facility in Vadodara, Gujarat.\n\nThis marks the first time a private Indian company has established and operationalised a complete military aircraft final assembly line in the country.\n\nThe C-295 program is being executed in partnership with Airbus for the Indian Air Force under the \u20b921,000+ cR transport aircraft deal signed in 2021.\n\nUnder the program:\n\u2022 First 16 aircraft are being delivered in fly-away condition from Spain\n\u2022 Remaining 40 aircraft will be manufactured in India at the Vadodara facility\n\n(\ud83d\udcf9VAMSHI goud)",
@@ -1729,16 +1701,6 @@
       "author": "@MikeLimaBravo12"
     },
     {
-      "title": "RT by @OsintTV: Posted this video because @FarhatJavedR, working for @BBCUrdu in Pakistan, claimed in her report that she was not allowed to shoot at the site.\n\nThis reflects the constraints and bias under which some Pakistan-based journalists working for global outlets like BBC, Al Jazeera, WaPo, and Reuters operate. Many avoid showing certain ground realities publicly so that @OfficialDGISPR is not displeased and access remains intact.\n\nAnother example of how journalists based inside Pakistan often cannot expose certain things, while we in India are able to report and verify them from hundreds of kilometres away.\n\nHigh time foreign news networks seriously examine why DG-ISPR is effectively able to shape and control parts of their Pakistan-based coverage.",
-      "link": "https://nitter.net/shivank_8mishra/status/2053832263788609659#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-11T19:09:04+05:30",
-      "time": "11 May, 07:09 PM",
-      "type": "tweets",
-      "content": "<p>Posted this video because <a href=\"https://nitter.net/FarhatJavedR\" title=\"Farhat Javed Rabani\">@FarhatJavedR</a>, working for <a href=\"https://nitter.net/BBCUrdu\" title=\"BBC News \u0627\u0631\u062f\u0648\">@BBCUrdu</a> in Pakistan, claimed in her report that she was not allowed to shoot at the site.<br />\n<br />\nThis reflects the constraints and bias under which some Pakistan-based journalists working for global outlets like BBC, Al Jazeera, WaPo, and Reuters operate. Many avoid showing certain ground realities publicly so that <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a> is not displeased and access remains intact.<br />\n<br />\nAnother example of how journalists based inside Pakistan often cannot expose certain things, while we in India are able to report and verify them from hundreds of kilometres away.<br />\n<br />\nHigh time foreign news networks seriously examine why DG-ISPR is effectively able to shape and control parts of their Pakistan-based coverage.</p>\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>Exclusive: One year after India destroyed JeM\u2019s Markaz Bilal in Muzaffarabad during Operation Sindoor, reconstruction of the terror campus has officially begun in PoK.<br />\n<br />\nSources say the Pakistan government released more than PKR 40 million for rebuilding, while the site remains under Pakistani Army protection.<br />\n<br />\nAll reconstruction work is being carried out under the supervision of Rana Sanaullah, Special Assistant on Political Affairs to Pakistani Prime Minister Shehbaz Sharif.<br />\n<br />\nVisuals: 2.4.2026</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2053792875159371901#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053792617566175234%2Fimg%2FJmqDo0GyDjvTzOsf.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2053792875159371901#m\">https://nitter.net/shivank_8mishra/status/2053792875159371901#m</a>\n</footer>\n</blockquote>",
-      "author": "@shivank_8mishra"
-    },
-    {
       "title": "#UPDATE | L&T Technology Services Ltd, Bengaluru has been selected by ADA as the single vendor for the Design & Development of the Mission Data Preparation Software (Phase-1) for the LCA Mk-2 and its future variants.",
       "link": "https://nitter.net/alpha_defense/status/2053832109954158760#m",
       "source": "Alpha Defense",
@@ -1861,6 +1823,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
