@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "CCMB Scientists Decode Plant Defence Mechanism That Traps Viruses",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/ccmb-scientists-decode-plant-defence-mechanism-that-traps-viruses-1956559",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-14T00:03:47+05:30",
+      "time": "14 May, 12:03 AM",
+      "type": "news",
+      "description": "The findings, led by Dr Mandar V. Deshmukh and published in the Journal of the American Chemical Society (JACS), explain at the molecular level how pl..."
+    },
+    {
+      "title": "C\u2019garh: Naxal Dumps In Bijapur Yield Rs 65 Lakh Cash, 32 Weapons, Explosives",
+      "link": "https://www.deccanchronicle.com/nation/cgarh-naxal-dumps-in-bijapur-yield-rs-65-lakh-cash-32-weapons-explosives-1956555",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-13T23:58:53+05:30",
+      "time": "13 May, 11:58 PM",
+      "type": "news",
+      "description": "Security forces have launched an operation to recover Naxal dumps in Bastar with the inputs by the surrendered Maoists, intelligence and local communi..."
+    },
+    {
       "title": "Nepal: Agreement signed between New Delhi & Kathmandu under discussion in parliament",
       "link": "https://www.newsonair.gov.in/nepal-agreement-signed-between-new-delhi-kathmandu-under-discussion-in-parliament/",
       "source": "All India Radio",
@@ -233,15 +251,6 @@
       "time": "13 May, 04:40 PM",
       "type": "news",
       "description": "The Gurugram-based company plans to develop mission-ready unmanned aerial systems for surveillance, border monitoring and tactical operations as part ..."
-    },
-    {
-      "title": "NIA arrests Hizbul Mujahideen-linked narco-terrorist Shera after extradition from Portugal",
-      "link": "https://www.tribuneindia.com/news/amritsar/nia-arrests-hizbul-mujahideen-linked-narco-terrorist-shera-after-extradition-from-portugal",
-      "source": "The Tribune",
-      "sort_key": "2026-05-13T16:26:46+05:30",
-      "time": "13 May, 04:26 PM",
-      "type": "news",
-      "description": "The National Investigation Agency (NIA) has arrested wanted narco-terrorist Iqbal Singh, alias Shera, after successfully securing his extradition from..."
     },
     {
       "title": "Indians among 10,000 foreign students flagged by US ICE in \u2018OPT visa misuse\u2019 probe",
@@ -665,27 +674,69 @@
       "time": "12 May, 12:43 AM",
       "type": "news",
       "description": "Addressing an official function organized here to give \u2018K F Rustamji\u2019 award to the meritorious cops, Mr. Yadav said that it was no mean challenge to c..."
-    },
-    {
-      "title": "BGUS Raises Security Concerns Over 26 Rohingya Colonies In Hyderabad",
-      "link": "https://www.deccanchronicle.com/southern-states/telangana/bgus-raises-security-concerns-over-26-rohingya-colonies-in-hyderabad-1956107",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-11T23:51:54+05:30",
-      "time": "11 May, 11:51 PM",
-      "type": "news",
-      "description": "The Samithi alleged that the colonies were located close to strategic defence establishments, raising concerns related to national security"
-    },
-    {
-      "title": "Trump says he will discuss arms sales to Taiwan with China's Xi",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-he-will-discuss-arms-sales-to-taiwan-with-chinas-xi/articleshow/131021154.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-11T23:23:20+05:30",
-      "time": "11 May, 11:23 PM",
-      "type": "news",
-      "description": "As US President Donald Trump prepares for his upcoming visit to Beijing, a pivotal topic on the agenda is the discussion of arms sales to Taiwan with ..."
     }
   ],
   "tweets": [
+    {
+      "title": "Just in: Cuba's foreign minister Bruno Rodr\u00edguez Parrilla reaches Delhi",
+      "link": "https://nitter.net/sidhant/status/2054633207556157700#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T00:11:44+05:30",
+      "time": "14 May, 12:11 AM",
+      "type": "tweets",
+      "content": "<p>Just in: Cuba's foreign minister Bruno Rodr\u00edguez Parrilla reaches Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHIOGA3vbgAAX9mK.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Today\n\nDelhi: BRICS foreign ministers meet. EAM Dr S Jaishankar's address at BRICS meet. Call on with PM Modi.\n\nBeijing: Trump meets Xi Jinping",
+      "link": "https://nitter.net/sidhant/status/2054632670303592797#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T00:09:36+05:30",
+      "time": "14 May, 12:09 AM",
+      "type": "tweets",
+      "content": "<p>Today<br />\n<br />\nDelhi: BRICS foreign ministers meet. EAM Dr S Jaishankar's address at BRICS meet. Call on with PM Modi.<br />\n<br />\nBeijing: Trump meets Xi Jinping</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Maldives eyes India FTA signing by end of 2026, says Foreign Minister Iruthisham Adam. \n\nInterview from Delhi this evening:\n\nhttps://www.wionews.com/world/maldives-eyes-india-fta-signing-by-end-of-2026-says-foreign-minister-iruthisham-adam-1778694485016",
+      "link": "https://nitter.net/sidhant/status/2054628533126017444#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-13T23:53:10+05:30",
+      "time": "13 May, 11:53 PM",
+      "type": "tweets",
+      "content": "<p>Maldives eyes India FTA signing by end of 2026, says Foreign Minister Iruthisham Adam. <br />\n<br />\nInterview from Delhi this evening:<br />\n<br />\n<a href=\"https://www.wionews.com/world/maldives-eyes-india-fta-signing-by-end-of-2026-says-foreign-minister-iruthisham-adam-1778694485016\">wionews.com/world/maldives-e\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054628533381832704%2Fi0EO7KyT%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "PM Benjamin Netanyahu secretly visited the United Arab Emirates, where he met with UAE President Sheikh Mohamed bin Zayed. This visit has led to a historic breakthrough in relations between Israel & the UAE: Israel PM office",
+      "link": "https://nitter.net/sidhant/status/2054628357611098301#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-13T23:52:28+05:30",
+      "time": "13 May, 11:52 PM",
+      "type": "tweets",
+      "content": "<p>PM Benjamin Netanyahu secretly visited the United Arab Emirates, where he met with UAE President Sheikh Mohamed bin Zayed. This visit has led to a historic breakthrough in relations between Israel &amp; the UAE: Israel PM office</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign ministers of Thailand, Malaysia,  Deputy FM of Vietnam,  UAE reach Delhi ahead of BRICS foreign ministers meet",
+      "link": "https://nitter.net/sidhant/status/2054627036589855006#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-13T23:47:13+05:30",
+      "time": "13 May, 11:47 PM",
+      "type": "tweets",
+      "content": "<p>Foreign ministers of Thailand, Malaysia,  Deputy FM of Vietnam,  UAE reach Delhi ahead of BRICS foreign ministers meet</p>\n<img src=\"https://nitter.net/pic/media%2FHIOAZpbboAASDdA.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIOAZpGaQAA9fsx.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIOAZpRbMAAmXyd.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIOAZrEbMAAng4E.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Last of the 2 LNG tankers bound for India leave hormuz. \n\nPic ctsy: marine traffic",
+      "link": "https://nitter.net/sidhant/status/2054626477921153120#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-13T23:45:00+05:30",
+      "time": "13 May, 11:45 PM",
+      "type": "tweets",
+      "content": "<p>Last of the 2 LNG tankers bound for India leave hormuz. <br />\n<br />\nPic ctsy: marine traffic</p>\n<img src=\"https://nitter.net/pic/media%2FHIN_4m_awAAsEMy.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIN_4oPbEAAWg2K.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking:<br />\n<br />\n14th LPG tanker bound for India crosses Hormuz; 15th crossing underway. <br />\n<br />\nWith this all 15 LPG Tankers bound for India have left Persian gulf, as result of the multi-agency coordination by the Indian Govt. <br />\n<br />\nIndian Navy provided necessary support &amp; escort.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054588895942373408#m\">https://nitter.net/sidhant/status/2054588895942373408#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "In Pictures,\n\nRussian foreign minister Sergey Lavrov in Delhi for BRICS foreign ministers meet",
       "link": "https://nitter.net/sidhant/status/2054613770497114306#m",
@@ -773,7 +824,7 @@
       "sort_key": "2026-05-13T22:19:21+05:30",
       "time": "13 May, 10:19 PM",
       "type": "tweets",
-      "content": "<p>India, Russia \"shared interest\" for greater multipolarity says EAM Dr Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054619660193349632%2FTRIhMjq5%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054577519945449849#m\">https://nitter.net/sidhant/status/2054577519945449849#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>India, Russia \"shared interest\" for greater multipolarity says EAM Dr Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054629481143496704%2FThX-wR6J%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054577519945449849#m\">https://nitter.net/sidhant/status/2054577519945449849#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -783,7 +834,7 @@
       "sort_key": "2026-05-13T22:19:12+05:30",
       "time": "13 May, 10:19 PM",
       "type": "tweets",
-      "content": "<p>Economic &amp; energy dimensions of India, Russia ties \"more pronounced\" says EAM Dr Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054619660193349632%2FTRIhMjq5%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054577519945449849#m\">https://nitter.net/sidhant/status/2054577519945449849#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Economic &amp; energy dimensions of India, Russia ties \"more pronounced\" says EAM Dr Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054629481143496704%2FThX-wR6J%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054577519945449849#m\">https://nitter.net/sidhant/status/2054577519945449849#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -793,7 +844,7 @@
       "sort_key": "2026-05-13T22:18:59+05:30",
       "time": "13 May, 10:18 PM",
       "type": "tweets",
-      "content": "<p>India, Russia \"trusted partner\", EAM Dr Jaishankar tells Russian FM Lavrov</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054619660193349632%2FTRIhMjq5%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054577519945449849#m\">https://nitter.net/sidhant/status/2054577519945449849#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>India, Russia \"trusted partner\", EAM Dr Jaishankar tells Russian FM Lavrov</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054629481143496704%2FThX-wR6J%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054577519945449849#m\">https://nitter.net/sidhant/status/2054577519945449849#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -803,7 +854,7 @@
       "sort_key": "2026-05-13T22:18:47+05:30",
       "time": "13 May, 10:18 PM",
       "type": "tweets",
-      "content": "<p>India, Russia \"political cooperation is even more valuable in an uncertain &amp; volatile global environment\", says EAM Dr S Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054619660193349632%2FTRIhMjq5%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054577519945449849#m\">https://nitter.net/sidhant/status/2054577519945449849#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>India, Russia \"political cooperation is even more valuable in an uncertain &amp; volatile global environment\", says EAM Dr S Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054629481143496704%2FThX-wR6J%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2054577519945449849#m\">https://nitter.net/sidhant/status/2054577519945449849#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -887,16 +938,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Breaking:\n\n14th LPG tanker bound for India crosses Hormuz; 15th crossing underway. \n\nWith this all 15 LPG Tankers bound for India have left Persian gulf, as result of the multi-agency coordination by the Indian Govt. \n\nIndian Navy provided necessary support & escort.",
-      "link": "https://nitter.net/sidhant/status/2054588895942373408#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-13T21:15:39+05:30",
-      "time": "13 May, 09:15 PM",
-      "type": "tweets",
-      "content": "<p>Breaking:<br />\n<br />\n14th LPG tanker bound for India crosses Hormuz; 15th crossing underway. <br />\n<br />\nWith this all 15 LPG Tankers bound for India have left Persian gulf, as result of the multi-agency coordination by the Indian Govt. <br />\n<br />\nIndian Navy provided necessary support &amp; escort.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Unconfirmed reports of @theskindoctor13 getting arrested by Delhi police.",
       "link": "https://nitter.net/Goreunit/status/2054588428709495214#m",
       "source": "War & Gore",
@@ -937,56 +978,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi \n\nhttps://x.com/i/broadcasts/1OGwblEBjwRKB",
-      "link": "https://nitter.net/sidhant/status/2054577519945449849#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-13T20:30:27+05:30",
-      "time": "13 May, 08:30 PM",
-      "type": "tweets",
-      "content": "<p>\"Steady, sustained\" growth in India, Russia ties, EAM Jaishankar tells Russian FM Lavrov in Delhi <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1OGwblEBjwRKB\">nitter.net/i/broadcasts/1OGwblEBj\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054619660193349632%2FTRIhMjq5%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "BRICS Sherpa meet underway in Delhi on the eve of BRICS FMs meet in Delhi",
-      "link": "https://nitter.net/sidhant/status/2054576563069632877#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-13T20:26:39+05:30",
-      "time": "13 May, 08:26 PM",
-      "type": "tweets",
-      "content": "<p>BRICS Sherpa meet underway in Delhi on the eve of BRICS FMs meet in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHINSeSEaYAAwwCl.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Russian foreign minister Lavrov reaches Delhi. Welcomed by Russian Ambassador Denis Alipov, JS ERS Mayank Singh.",
-      "link": "https://nitter.net/sidhant/status/2054573245010239680#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-13T20:13:28+05:30",
-      "time": "13 May, 08:13 PM",
-      "type": "tweets",
-      "content": "<p>Russian foreign minister Lavrov reaches Delhi. Welcomed by Russian Ambassador Denis Alipov, JS ERS Mayank Singh.</p>\n<img src=\"https://nitter.net/pic/media%2FHINPePNbYAABTcK.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Iran Foreign minister Araghchi left Tehran earlier today for Delhi. \n\nHis plane had \"Minab168\" written on it, representing the 168 school children killed in US strike at a school in Iran on 28th February.",
-      "link": "https://nitter.net/sidhant/status/2054572806634144202#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-13T20:11:43+05:30",
-      "time": "13 May, 08:11 PM",
-      "type": "tweets",
-      "content": "<p>Iran Foreign minister Araghchi left Tehran earlier today for Delhi. <br />\n<br />\nHis plane had \"Minab168\" written on it, representing the 168 school children killed in US strike at a school in Iran on 28th February.</p>\n<img src=\"https://nitter.net/pic/media%2FHINPEvCbsAAL1gF.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Trump reaches Beijing",
-      "link": "https://nitter.net/sidhant/status/2054571616156426452#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-13T20:07:00+05:30",
-      "time": "13 May, 08:07 PM",
-      "type": "tweets",
-      "content": "<p>Trump reaches Beijing</p>\n<a href=\"https://nitter.net/sidhant/status/2054571616156426452#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054548696256180224%2Fimg%2FKjCt7MXaUy0xiFP7.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Please stop spreading misinformation around Uttam.\n\nUttam has been cleared for production since 2023, and by April 2025 it had completed key flight trials and hardware qualification stages required for certification. This was around the same period when the LOI was sent to Israel for the remaining 40 radars of the 83 LCA Mk1A order.",
       "link": "https://nitter.net/alpha_defense/status/2054569000378773750#m",
       "source": "Alpha Defense",
@@ -995,6 +986,16 @@
       "type": "tweets",
       "content": "<p>Please stop spreading misinformation around Uttam.<br />\n<br />\nUttam has been cleared for production since 2023, and by April 2025 it had completed key flight trials and hardware qualification stages required for certification. This was around the same period when the LOI was sent to Israel for the remaining 40 radars of the 83 LCA Mk1A order.</p>\n<img src=\"https://nitter.net/pic/media%2FHINLnNRbwAAIIrU.jpg\" />",
       "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @alpha_defense: Visit of DRDO scientists to INS Dega\n\n40 DRDO Scientists visited @IN_Dega to familiarise with various aspects of the Indian Navy's aviation arm. They were briefed on several aircraft, their operational capabilities and DRDO's role in enhancing indigenisation in naval aviation.\n\nThe scientists also interacted with men and women of the Air Station, gaining valuable insights into naval aviation.\n\n\u201c\u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u0938\u0948\u0928\u094d\u092f \u0915\u094d\u0937\u092e\u0924\u093e \u0915\u093e \u0938\u0902\u0917\u092e, \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u092e\u0947\u0902 \u090f\u0915 \u092a\u094d\u0930\u0947\u0930\u0923\u093e\u0926\u093e\u092f\u0940 \u0915\u0926\u092e\u0964\u201d\n\n#HQENC\n#IndiaNavy\n#AtmanirbharBharat\n#DefenceResearch",
+      "link": "https://nitter.net/IN_Dega/status/2054568343152349471#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-13T19:53:59+05:30",
+      "time": "13 May, 07:53 PM",
+      "type": "tweets",
+      "content": "<p>Visit of DRDO scientists to INS Dega<br />\n<br />\n40 DRDO Scientists visited <a href=\"https://nitter.net/IN_Dega\" title=\"IN_Dega\">@IN_Dega</a> to familiarise with various aspects of the Indian Navy's aviation arm. They were briefed on several aircraft, their operational capabilities and DRDO's role in enhancing indigenisation in naval aviation.<br />\n<br />\nThe scientists also interacted with men and women of the Air Station, gaining valuable insights into naval aviation.<br />\n<br />\n\u201c\u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u0938\u0948\u0928\u094d\u092f \u0915\u094d\u0937\u092e\u0924\u093e \u0915\u093e \u0938\u0902\u0917\u092e, \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u092e\u0947\u0902 \u090f\u0915 \u092a\u094d\u0930\u0947\u0930\u0923\u093e\u0926\u093e\u092f\u0940 \u0915\u0926\u092e\u0964\u201d<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23HQENC\">#HQENC</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaNavy\">#IndiaNavy</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23AtmanirbharBharat\">#AtmanirbharBharat</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceResearch\">#DefenceResearch</a></p>\n<img src=\"https://nitter.net/pic/media%2FHINIk2TaAAA8b4D.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHINIk19bcAAljeV.jpg\" />",
+      "author": "@IN_Dega"
     },
     {
       "title": "Pakistan Defence Minister Khawaja Muhammad Asif has indicated the possibility of expanding the regional defence and economic arrangement with Qatar and Turkiye, suggesting that the framework could evolve\ninto a broader security pact aimed at strengthening regional cooperation.\n\nPakistan, last year, had already signed a \"Strategic Mutual Defence Agreement\" with Saudi Arabia, pledging that any aggression against either nation would be treated as an attack on both. \n\nIndia has also issued a response in the wake of the \"Strategic Mutual Defence Agreement\" between Saudi Arabia and Pakistan, stating it will closely study the pact's implications for India's national security and regional and global stability.",
@@ -1745,26 +1746,6 @@
       "type": "tweets",
       "content": "<p>If this reporting is accurate, it would require a complete reevaluation of the role Pakistan is playing as mediator between Iran, the United States and other parties. <br />\n<br />\nGiven some of the prior statements by Pakistani defense officials towards Israel, I would not be shocked if this were true.</p>\n<hr />\n<blockquote>\n<b>Jennifer Jacobs (@JenniferJJacobs)</b>\n<p>\n<p>Scoop via <a href=\"https://nitter.net/CBSNews\" title=\"CBS News\">@CBSNews</a>: As Pakistan positioned itself as a diplomatic conduit between Tehran and Washington, it quietly allowed Iranian military aircraft to park in its country, potentially shielding them from US airstrikes, sources told <a href=\"https://nitter.net/JimLaPorta\" title=\"Jim LaPorta\">@JimLaPorta</a> and me. Days after Trump announced the ceasefire in early April, Tehran sent multiple aircraft to Pakistan Air Force Base Nur Khan. <br />\nAmong the military hardware was an Iranian Air Force RC-130, a reconnaissance and intelligence-gathering variant of the Lockheed C-130 Hercules tactical transport aircraft.<br />\n<a href=\"https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/\">cbsnews.com/news/pakistan-ir\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054005857843908608%2FwPFHhFyo%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/JenniferJJacobs/status/2053915732740653131#m\">https://nitter.net/JenniferJJacobs/status/2053915732740653131#m</a>\n</footer>\n</blockquote>",
       "author": "@LindseyGrahamSC"
-    },
-    {
-      "title": "Tata Advanced Systems Limited has rolled out the first Airbus C295 aircraft from its Final Assembly Line (FAL) facility in Vadodara, Gujarat.\n\nThis marks the first time a private Indian company has established and operationalised a complete military aircraft final assembly line in the country.\n\nThe C-295 program is being executed in partnership with Airbus for the Indian Air Force under the \u20b921,000+ cR transport aircraft deal signed in 2021.\n\nUnder the program:\n\u2022 First 16 aircraft are being delivered in fly-away condition from Spain\n\u2022 Remaining 40 aircraft will be manufactured in India at the Vadodara facility\n\n(\ud83d\udcf9VAMSHI goud)",
-      "link": "https://nitter.net/DefenceDecode/status/2053907727676854420#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-05-12T00:08:56+05:30",
-      "time": "12 May, 12:08 AM",
-      "type": "tweets",
-      "content": "<p>Tata Advanced Systems Limited has rolled out the first Airbus C295 aircraft from its Final Assembly Line (FAL) facility in Vadodara, Gujarat.<br />\n<br />\nThis marks the first time a private Indian company has established and operationalised a complete military aircraft final assembly line in the country.<br />\n<br />\nThe C-295 program is being executed in partnership with Airbus for the Indian Air Force under the \u20b921,000+ cR transport aircraft deal signed in 2021.<br />\n<br />\nUnder the program:<br />\n\u2022 First 16 aircraft are being delivered in fly-away condition from Spain<br />\n\u2022 Remaining 40 aircraft will be manufactured in India at the Vadodara facility<br />\n<br />\n(\ud83d\udcf9VAMSHI goud)</p>\n<a href=\"https://nitter.net/DefenceDecode/status/2053907727676854420#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2053907397765386240%2Fimg%2FwiCbNeCAm2MgLzez.jpg\" />\n</a>",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "one year !",
-      "link": "https://nitter.net/alpha_defense/status/2053905225933574436#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-11T23:59:00+05:30",
-      "time": "11 May, 11:59 PM",
-      "type": "tweets",
-      "content": "<p>one year !</p>\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>India becomes the first nation to neutralize multiple air bases of a nuclear-armed country.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/1921032415885000835#m\">https://nitter.net/alpha_defense/status/1921032415885000835#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
     }
   ],
   "youtube": [
@@ -1815,6 +1796,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "11:24 PM IST"
+    "last_updated": "12:24 AM IST"
   }
 }
