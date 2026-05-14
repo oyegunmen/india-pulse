@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "India&#8217;s deputy NSA holds series of key bilateral talks on SCO sidelines in Bishkek",
+      "link": "https://www.tribuneindia.com/news/india/indias-deputy-nsa-holds-series-of-key-bilateral-talks-on-sco-sidelines-in-bishkek",
+      "source": "The Tribune",
+      "sort_key": "2026-05-14T19:54:19+05:30",
+      "time": "14 May, 07:54 PM",
+      "type": "news",
+      "description": "India\u2019s Deputy National Security Adviser Pavan Kapoor held a series of high-level bilateral meetings with counterparts from Iran, Russia and Kyrgyzsta..."
+    },
+    {
+      "title": "Transhipment terminal in Nicobar could be geopolitical lever, says Navy officer amid ecological debate",
+      "link": "https://theprint.in/defence/transhipment-terminal-in-nicobar-could-be-geopolitical-lever-says-navy-officer-amid-ecological-debate/2931398/",
+      "source": "The Print",
+      "sort_key": "2026-05-14T19:46:44+05:30",
+      "time": "14 May, 07:46 PM",
+      "type": "news",
+      "description": "Amid West Asia disruptions, Galathea Bay gives India vantage point astride Indian Ocean &#38; Pacific, but ecologists say it will mean clearing rainfo..."
+    },
+    {
+      "title": "Al-Qaida offshoot terror module behind Red Fort blast, NIA tells court in 7,500-page chargesheet",
+      "link": "https://www.newindianexpress.com/states/delhi/2026/May/14/al-qaida-offshoot-terror-module-behind-red-fort-blast-nia-tells-court-in-7500-page-chargesheet",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-14T19:44:22+05:30",
+      "time": "14 May, 07:44 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "We dominated escalation matrix on all 4 days of conflict: CDS Gen Chauhan on Operation Sindoor",
       "link": "https://economictimes.indiatimes.com/news/defence/operation-sindoor-cds-gen-chauhan-reveals-indian-forces-dominance-in-88-hour-conflict-with-pakistan/articleshow/131094605.cms",
       "source": "Economic Times",
@@ -17,6 +44,15 @@
       "time": "14 May, 07:10 PM",
       "type": "news",
       "description": "During a tense summit in Beijing, Chinese President Xi Jinping sent a clear message to US President Donald Trump regarding Taiwan. The talks underscor..."
+    },
+    {
+      "title": "India\u2019s armed forces can save over \u20b91,000 crore annually through simulator-based training: Report",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-armed-forces-can-save-over-1000-crore-annually-through-simulator-based-training-report/131094939",
+      "source": "Economic Times",
+      "sort_key": "2026-05-14T19:01:30+05:30",
+      "time": "14 May, 07:01 PM",
+      "type": "news",
+      "description": "Study says higher simulator adoption can sharply cut fuel, ammunition and equipment costs while reducing wear and tear across combat operations."
     },
     {
       "title": "Two arrested in Jalandhar BSF headquarters blast case; probe links Pakistani terrorist Shahzad Bhatti",
@@ -737,27 +773,89 @@
       "time": "12 May, 08:31 PM",
       "type": "news",
       "description": "A defence spokesperson said in Jammu that slain armed man was part of a large group of militants attempting to infiltrate into the Indian side of the ..."
-    },
-    {
-      "title": "Pentagon says US cost of Iran war nearing $29 billion",
-      "link": "https://economictimes.indiatimes.com/news/defence/pentagon-says-us-cost-of-iran-war-nearing-29-billion/articleshow/131042022.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-12T19:53:43+05:30",
-      "time": "12 May, 07:53 PM",
-      "type": "news",
-      "description": "The Pentagon said Tuesday that the cost of the war with Iran had climbed to nearly $29 billion, as President Donald Trump faced mounting scrutiny over..."
-    },
-    {
-      "title": "Senior Pakistani Air Force officer visits Dhaka as Bangladesh continues to expand ties with Islamabad",
-      "link": "https://economictimes.indiatimes.com/news/defence/senior-pakistani-air-force-officer-visits-dhaka-as-bangladesh-continues-to-expand-ties-with-islamabad/articleshow/131041454.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-12T19:24:30+05:30",
-      "time": "12 May, 07:24 PM",
-      "type": "news",
-      "description": "A Pakistan Air Force delegation led by Air Vice Marshal Aurangzeb Ahmed is visiting Bangladesh. This visit coincides with Bangladesh's growing ties wi..."
     }
   ],
   "tweets": [
+    {
+      "title": "BRICS, BRICS Partner countries Foreign Ministers meet PM Modi",
+      "link": "https://nitter.net/sidhant/status/2054928429167087902#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T19:44:50+05:30",
+      "time": "14 May, 07:44 PM",
+      "type": "tweets",
+      "content": "<p>BRICS, BRICS Partner countries Foreign Ministers meet PM Modi</p>\n<img src=\"https://nitter.net/pic/media%2FHISShC8a0AAxv4m.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iran Foreign minister Araghchi,  Russian FM Lavrov meet in Delhi",
+      "link": "https://nitter.net/sidhant/status/2054928247180468671#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T19:44:07+05:30",
+      "time": "14 May, 07:44 PM",
+      "type": "tweets",
+      "content": "<p>Iran Foreign minister Araghchi,  Russian FM Lavrov meet in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHISSWb6bsAAnQ5L.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Just in: Iran foreign minister Araghchi meets India's NSA Ajit Doval in Delhi",
+      "link": "https://nitter.net/sidhant/status/2054928144671670548#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T19:43:43+05:30",
+      "time": "14 May, 07:43 PM",
+      "type": "tweets",
+      "content": "<p>Just in: Iran foreign minister Araghchi meets India's NSA Ajit Doval in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHISSQf_aEAARH0e.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @OsintTV: \u201cWe will hunt and hound you.\u201d \u2014 J&K DGP Nalin Prabhat issues a stern warning to ISI-backed Shahzad Bhatti as the anti-narcotics crackdown intensifies across Jammu & Kashmir.\n\nThe message is loud and clear: those involved in narco-terror networks, drug smuggling, and attempts to poison J&K youth will be identified, tracked, and brought to justice. Security agencies are tightening the noose on handlers, financiers, overground workers, and cross-border networks operating under the ISI umbrella.\n\nThe war against drugs and narco-terror in J&K has entered a decisive phase.",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2054927147677180314#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-14T19:39:45+05:30",
+      "time": "14 May, 07:39 PM",
+      "type": "tweets",
+      "content": "<p>\u201cWe will hunt and hound you.\u201d \u2014 J&amp;K DGP Nalin Prabhat issues a stern warning to ISI-backed Shahzad Bhatti as the anti-narcotics crackdown intensifies across Jammu & Kashmir.<br />\n<br />\nThe message is loud and clear: those involved in narco-terror networks, drug smuggling, and attempts to poison J&amp;K youth will be identified, tracked, and brought to justice. Security agencies are tightening the noose on handlers, financiers, overground workers, and cross-border networks operating under the ISI umbrella.<br />\n<br />\nThe war against drugs and narco-terror in J&amp;K has entered a decisive phase.</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2054927147677180314#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054927083990892544%2Fimg%2FVEyaNZD4kBvuuqlW.jpg\" />\n</a>",
+      "author": "@MikeLimaBravo12"
+    },
+    {
+      "title": "Day one of BRICS foreign ministers meet concludes.\n\nSumming up from Delhi.",
+      "link": "https://nitter.net/sidhant/status/2054925155873480816#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T19:31:50+05:30",
+      "time": "14 May, 07:31 PM",
+      "type": "tweets",
+      "content": "<p>Day one of BRICS foreign ministers meet concludes.<br />\n<br />\nSumming up from Delhi.</p>\n<a href=\"https://nitter.net/sidhant/status/2054925155873480816#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054914417746411521%2Fimg%2FB5_5QW5kA_LlQ1Wh.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: Foreign ministers from BRICS nations have gathered in New Delhi as the ongoing Iran conflict and rising global oil prices dominate discussions\n\n@sidhant shares the details",
+      "link": "https://nitter.net/WIONews/status/2054924905452564489#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T19:30:50+05:30",
+      "time": "14 May, 07:30 PM",
+      "type": "tweets",
+      "content": "<p>Foreign ministers from BRICS nations have gathered in New Delhi as the ongoing Iran conflict and rising global oil prices dominate discussions<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> shares the details</p>\n<a href=\"https://nitter.net/WIONews/status/2054924905452564489#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054921723146051585%2Fimg%2FOOqTdF4An_Mlb3eJ.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "#Massive : Union Defence Minister Rajnath Singh & Andhra Pradesh CM N. Chandrababu Naidu to attend foundation stone laying/groundbreaking ceremonies for major aerospace & defence projects at Puttaparthi on May 15, 2026.\n\nThe event includes foundation stone laying for ADA\u2019s Aircraft Integration & Flight Testing Centre, a key facility for aircraft integration, testing, validation & certification that is expected to accelerate the Advanced Medium Combat Aircraft (AMCA) programme.\n\nHope all nakshatra, grahan and cosmic alignment checks are complete now\u2026 this project cannot afford delays \ud83d\ude05",
+      "link": "https://nitter.net/alpha_defense/status/2054924419815133489#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-14T19:28:54+05:30",
+      "time": "14 May, 07:28 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Massive\">#Massive</a> : Union Defence Minister Rajnath Singh & Andhra Pradesh CM N. Chandrababu Naidu to attend foundation stone laying/groundbreaking ceremonies for major aerospace & defence projects at Puttaparthi on May 15, 2026.<br />\n<br />\nThe event includes foundation stone laying for ADA\u2019s Aircraft Integration & Flight Testing Centre, a key facility for aircraft integration, testing, validation & certification that is expected to accelerate the Advanced Medium Combat Aircraft (AMCA) programme.<br />\n<br />\nHope all nakshatra, grahan and cosmic alignment checks are complete now\u2026 this project cannot afford delays \ud83d\ude05</p>\n<img src=\"https://nitter.net/pic/media%2FHISO3XIa8AA-iPr.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHISO3XQaEAAtNSP.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RM @rajnathsingh  will lay foundation stones for multiple strategic projects on May 15, including:\n\n\u2022 ADA\u2019s #AMCA Aircraft Integration & Flight Testing Centre\n\u2022 BDL Naval Systems MFG Facility\n\u2022 Ammunition plants\n\u2022 Drone City projects at Kurnool\nhttps://www.pib.gov.in/PressReleasePage.aspx?PRID=2261042&reg=3&lang=2",
+      "link": "https://nitter.net/DefenceDecode/status/2054922997539160478#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-05-14T19:23:15+05:30",
+      "time": "14 May, 07:23 PM",
+      "type": "tweets",
+      "content": "<p>RM <a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a>  will lay foundation stones for multiple strategic projects on May 15, including:<br />\n<br />\n\u2022 ADA\u2019s <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMCA\">#AMCA</a> Aircraft Integration &amp; Flight Testing Centre<br />\n\u2022 BDL Naval Systems MFG Facility<br />\n\u2022 Ammunition plants<br />\n\u2022 Drone City projects at Kurnool<br />\n<a href=\"https://www.pib.gov.in/PressReleasePage.aspx?PRID=2261042&amp;reg=3&amp;lang=2\">pib.gov.in/PressReleasePage.\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHISNPnRaoAAbD4b.jpg\" />",
+      "author": "@DefenceDecode"
+    },
     {
       "title": "See, when the DAC approved the 114-jet program, they practically wrote Dassault Rafale in brackets, so it was always clear where this was headed.\n\nNow the interesting part is this: if the Indian Air Force is itself preparing/ed the RFP while accommodating 22 fly-away aircraft, it suggests they are already factoring in production constraints.\n\nWhich means this is not a standard procurement process anymore. There appears to be a much deeper level of understanding and alignment between India and France beyond a basic G2G deal.",
       "link": "https://nitter.net/alpha_defense/status/2054915281265516864#m",
@@ -767,6 +865,16 @@
       "type": "tweets",
       "content": "<p>See, when the DAC approved the 114-jet program, they practically wrote Dassault Rafale in brackets, so it was always clear where this was headed.<br />\n<br />\nNow the interesting part is this: if the Indian Air Force is itself preparing/ed the RFP while accommodating 22 fly-away aircraft, it suggests they are already factoring in production constraints.<br />\n<br />\nWhich means this is not a standard procurement process anymore. There appears to be a much deeper level of understanding and alignment between India and France beyond a basic G2G deal.</p>\n<img src=\"https://nitter.net/pic/media%2FHISGhVhbcAAEAdJ.jpg\" />",
       "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @sidhant: #WIONDispatch | Iran war, Hormuz dominate crucial BRICS meet\n\nForeign Ministers and top diplomats from BRICS nations gather in Delhi\n\n@MollyGambhir brings you this report by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2054914942747431290#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T18:51:15+05:30",
+      "time": "14 May, 06:51 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONDispatch\">#WIONDispatch</a> | Iran war, Hormuz dominate crucial BRICS meet<br />\n<br />\nForeign Ministers and top diplomats from BRICS nations gather in Delhi<br />\n<br />\n<a href=\"https://nitter.net/MollyGambhir\" title=\"Molly Gambhir\">@MollyGambhir</a> brings you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2054914942747431290#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054914417746411521%2Fimg%2FB5_5QW5kA_LlQ1Wh.jpg\" />\n</a>",
+      "author": "@WIONews"
     },
     {
       "title": "India's Ambassador to UAE, Deepak Mittal, on Thursday said the UAE's recent exit from OPEC could open new avenues for strengthening its role in India's energy security.\n\nHe added that India is expanding its own energy infrastructure, including pipeline networks and storage for crude, LPG, and LNG.\n\n\"UAE is the largest supplier of LPG to India, meeting nearly 40% of our demands. It provides an important market for our petroleum, oil and lubricant exports. Over $6 billion in trade was recorded last year.\"",
@@ -889,7 +997,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "After \u201cBaniyan Chaddi Operation\u201d, entire Europe in Que for the Pakistani TAKNOLOGI ...\ud83e\udd23\n\nLahori Exfart says\n\n\ud83d\udccd Pakistan TAKNOLOGI is supreme in non contact warfare. Even Europe is far behind and Pakistan is way ahead of Europe in this TAKNOLOGI ....\ud83d\ude2d\n\n\ud83d\udccd Pak missile range capabilities are unlimited...\ud83e\udd23 During \u201cBaniyan Chaddi Operation\u201d Pakistan was getting live footage of damage across the border....!\n(OSINTTV, o bhai konsi footage? till now nobody has seen a single video or satellite image showing damage inside India....\ud83d\ude1d)\n\n\ud83d\udccd Not a single Pakistani missile was intercepted by India\u2019s S-400. the mighty India S-400 completely failed against Fatah 1 missiles. India should stop wasting money on S-400 air defence systems and not even think about \u201cOperation Sindoor 2\u201d  \ud83e\udd23\n\nMujhe bhi yeh wala NASHA chahiye \ud83d\ude2d",
+      "title": "RT by @OsintTV: After \u201cBaniyan Chaddi Operation\u201d, entire Europe in Que for the Pakistani TAKNOLOGI ...\ud83e\udd23\n\nLahori Exfart says\n\n\ud83d\udccd Pakistan TAKNOLOGI is supreme in non contact warfare. Even Europe is far behind and Pakistan is way ahead of Europe in this TAKNOLOGI ....\ud83d\ude2d\n\n\ud83d\udccd Pak missile range capabilities are unlimited...\ud83e\udd23 During \u201cBaniyan Chaddi Operation\u201d Pakistan was getting live footage of damage across the border....!\n(OSINTTV, o bhai konsi footage? till now nobody has seen a single video or satellite image showing damage inside India....\ud83d\ude1d)\n\n\ud83d\udccd Not a single Pakistani missile was intercepted by India\u2019s S-400. the mighty India S-400 completely failed against Fatah 1 missiles. India should stop wasting money on S-400 air defence systems and not even think about \u201cOperation Sindoor 2\u201d  \ud83e\udd23\n\nMujhe bhi yeh wala NASHA chahiye \ud83d\ude2d",
       "link": "https://nitter.net/OsintTV/status/2054875986085265511#m",
       "source": "Osint TV",
       "sort_key": "2026-05-14T16:16:27+05:30",
@@ -1029,26 +1137,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "BRICS foreign ministers call on PM Modi in Delhi",
-      "link": "https://nitter.net/sidhant/status/2054853232254714169#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T14:46:02+05:30",
-      "time": "14 May, 02:46 PM",
-      "type": "tweets",
-      "content": "<p>BRICS foreign ministers call on PM Modi in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHIROHyzaYAADIaM.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "BRICS FMs call on PM Modi in Delhi",
-      "link": "https://nitter.net/sidhant/status/2054852762115195228#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T14:44:10+05:30",
-      "time": "14 May, 02:44 PM",
-      "type": "tweets",
-      "content": "<p>BRICS FMs call on PM Modi in Delhi</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Yesterday I survived in this thunderstorm.",
       "link": "https://nitter.net/Goreunit/status/2054851210067521977#m",
       "source": "War & Gore",
@@ -1089,16 +1177,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @sidhant: #WIONNewsPoint | Maldives FM calls India ties 'very close'  \n\nIndia and the Maldives commit to stronger bilateral cooperation \n\n@BislaDiksha and @sidhant have more",
-      "link": "https://nitter.net/WIONews/status/2054836602627838331#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T13:39:57+05:30",
-      "time": "14 May, 01:39 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONNewsPoint\">#WIONNewsPoint</a> | Maldives FM calls India ties 'very close'  <br />\n<br />\nIndia and the Maldives commit to stronger bilateral cooperation <br />\n<br />\n<a href=\"https://nitter.net/BislaDiksha\" title=\"Diksha Bisla\">@BislaDiksha</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2054836602627838331#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054836490811887616%2Fimg%2FiGGNvGp4EI_dpW5F.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
       "title": "An Indian flagged ship was attacked yesterday. All the crew were rescued by the Omani authorities.",
       "link": "https://nitter.net/Goreunit/status/2054836510638374925#m",
       "source": "War & Gore",
@@ -1109,16 +1187,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Breaking:\n\nIndia says an Indian-flagged ship off the coast of Oman was attacked yesterday. \n\nTerms it \"unacceptable\" & that India \"deplores\" the fact that commercial shipping and civilian mariners continue to be targeted.\n\nStatement",
-      "link": "https://nitter.net/sidhant/status/2054833407209906616#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T13:27:15+05:30",
-      "time": "14 May, 01:27 PM",
-      "type": "tweets",
-      "content": "<p>Breaking:<br />\n<br />\nIndia says an Indian-flagged ship off the coast of Oman was attacked yesterday. <br />\n<br />\nTerms it \"unacceptable\" &amp; that India \"deplores\" the fact that commercial shipping and civilian mariners continue to be targeted.<br />\n<br />\nStatement</p>\n<img src=\"https://nitter.net/pic/media%2FHIQ8FjBakAAK9fA.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "One Bangladeshi intruder was shot dead by BSF.",
       "link": "https://nitter.net/elitepredatorss/status/2054832418998333584#m",
       "source": "Elite Predators",
@@ -1127,26 +1195,6 @@
       "type": "tweets",
       "content": "<p>One Bangladeshi intruder was shot dead by BSF.</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "BRICS foreign ministers meet underway in Delhi. EAM Jaishankar calls for \"unimpeded\" movement through Hormuz, expresses concerns over Gaza.\n\nWill BRICS able to come out with joint statement is something that is awaited. \n\nReporting from Delhi.",
-      "link": "https://nitter.net/sidhant/status/2054828686512447592#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T13:08:30+05:30",
-      "time": "14 May, 01:08 PM",
-      "type": "tweets",
-      "content": "<p>BRICS foreign ministers meet underway in Delhi. EAM Jaishankar calls for \"unimpeded\" movement through Hormuz, expresses concerns over Gaza.<br />\n<br />\nWill BRICS able to come out with joint statement is something that is awaited. <br />\n<br />\nReporting from Delhi.</p>\n<a href=\"https://nitter.net/sidhant/status/2054828686512447592#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054827564812980224%2Fimg%2Fmf6AFRKTJ5ktx2C9.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: EAM Jaishankar welcomes global delegates at Bharat Mandapam for the BRICS Foreign Ministers\u2019 meet \n\nAmong those present were Iranian Foreign Minister Abbas Araghchi, Russian Foreign Minister Sergey Lavrov, Indonesian Foreign Minister Sugiono and several other foreign ministers and senior representatives from BRICS nations and partner countries. \n\n@kanishka9996 and @sidhant have more",
-      "link": "https://nitter.net/WIONews/status/2054827997103063314#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T13:05:46+05:30",
-      "time": "14 May, 01:05 PM",
-      "type": "tweets",
-      "content": "<p>EAM Jaishankar welcomes global delegates at Bharat Mandapam for the BRICS Foreign Ministers\u2019 meet <br />\n<br />\nAmong those present were Iranian Foreign Minister Abbas Araghchi, Russian Foreign Minister Sergey Lavrov, Indonesian Foreign Minister Sugiono and several other foreign ministers and senior representatives from BRICS nations and partner countries. <br />\n<br />\n<a href=\"https://nitter.net/kanishka9996\" title=\"Kanishka Sarkar\">@kanishka9996</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2054827997103063314#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054827564812980224%2Fimg%2Fmf6AFRKTJ5ktx2C9.jpg\" />\n</a>",
-      "author": "@WIONews"
     },
     {
       "title": "I think it is a welcome step. For years, our system has focused more on rejection than selection. This move will widen the supply base.",
@@ -1289,16 +1337,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "RT @IN_Dega: Visit of DRDO scientists to INS Dega\n\n40 DRDO Scientists visited @IN_Dega to familiarise with various aspects of the Indian Na\u2026",
-      "link": "https://nitter.net/alpha_defense/status/2054629110396395839#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-13T23:55:27+05:30",
-      "time": "13 May, 11:55 PM",
-      "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/IN_Dega\" title=\"IN_Dega\">@IN_Dega</a>: Visit of DRDO scientists to INS Dega<br />\n<br />\n40 DRDO Scientists visited <a href=\"https://nitter.net/IN_Dega\" title=\"IN_Dega\">@IN_Dega</a> to familiarise with various aspects of the Indian Na\u2026</p>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @alpha_defense: #WATCH | Pune PC Amitesh Kumar says, \"Around 8 p.m. today, we got some information that there was a bomb like device found on the hospital premises. The police team, along with the bomb disposal squad, immediately reached the spot. The bomb disposal squad carried this device after following due mandated protocols and took it to an open ground at the gliding centre.  The bomb was successfully defused. The Bomb Detection and Disposal Squad (BDDS) team did a commendable job. All teams have been put in service to investigate the case. The Pune City Police, local police station, as well as the crime branch and the ATS teams, are jointly investigating... We are investigating the case from all possible angles. ATS is involved...\"",
       "link": "https://nitter.net/ANI/status/2054627177531134102#m",
       "source": "Alpha Defense",
@@ -1417,6 +1455,16 @@
       "type": "tweets",
       "content": "<p>Please stop spreading misinformation around Uttam.<br />\n<br />\nUttam has been cleared for production since 2023, and by April 2025 it had completed key flight trials and hardware qualification stages required for certification. This was around the same period when the LOI was sent to Israel for the remaining 40 radars of the 83 LCA Mk1A order.</p>\n<img src=\"https://nitter.net/pic/media%2FHINLnNRbwAAIIrU.jpg\" />",
       "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @alpha_defense: Visit of DRDO scientists to INS Dega\n\n40 DRDO Scientists visited @IN_Dega to familiarise with various aspects of the Indian Navy's aviation arm. They were briefed on several aircraft, their operational capabilities and DRDO's role in enhancing indigenisation in naval aviation.\n\nThe scientists also interacted with men and women of the Air Station, gaining valuable insights into naval aviation.\n\n\u201c\u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u0938\u0948\u0928\u094d\u092f \u0915\u094d\u0937\u092e\u0924\u093e \u0915\u093e \u0938\u0902\u0917\u092e, \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u092e\u0947\u0902 \u090f\u0915 \u092a\u094d\u0930\u0947\u0930\u0923\u093e\u0926\u093e\u092f\u0940 \u0915\u0926\u092e\u0964\u201d\n\n#HQENC\n#IndiaNavy\n#AtmanirbharBharat\n#DefenceResearch",
+      "link": "https://nitter.net/IN_Dega/status/2054568343152349471#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-13T19:53:59+05:30",
+      "time": "13 May, 07:53 PM",
+      "type": "tweets",
+      "content": "<p>Visit of DRDO scientists to INS Dega<br />\n<br />\n40 DRDO Scientists visited <a href=\"https://nitter.net/IN_Dega\" title=\"IN_Dega\">@IN_Dega</a> to familiarise with various aspects of the Indian Navy's aviation arm. They were briefed on several aircraft, their operational capabilities and DRDO's role in enhancing indigenisation in naval aviation.<br />\n<br />\nThe scientists also interacted with men and women of the Air Station, gaining valuable insights into naval aviation.<br />\n<br />\n\u201c\u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u0938\u0948\u0928\u094d\u092f \u0915\u094d\u0937\u092e\u0924\u093e \u0915\u093e \u0938\u0902\u0917\u092e, \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u092e\u0947\u0902 \u090f\u0915 \u092a\u094d\u0930\u0947\u0930\u0923\u093e\u0926\u093e\u092f\u0940 \u0915\u0926\u092e\u0964\u201d<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23HQENC\">#HQENC</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaNavy\">#IndiaNavy</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23AtmanirbharBharat\">#AtmanirbharBharat</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceResearch\">#DefenceResearch</a></p>\n<img src=\"https://nitter.net/pic/media%2FHINIk2TaAAA8b4D.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHINIk19bcAAljeV.jpg\" />",
+      "author": "@IN_Dega"
     },
     {
       "title": "Pakistan Defence Minister Khawaja Muhammad Asif has indicated the possibility of expanding the regional defence and economic arrangement with Qatar and Turkiye, suggesting that the framework could evolve\ninto a broader security pact aimed at strengthening regional cooperation.\n\nPakistan, last year, had already signed a \"Strategic Mutual Defence Agreement\" with Saudi Arabia, pledging that any aggression against either nation would be treated as an attack on both. \n\nIndia has also issued a response in the wake of the \"Strategic Mutual Defence Agreement\" between Saudi Arabia and Pakistan, stating it will closely study the pact's implications for India's national security and regional and global stability.",
@@ -1569,16 +1617,6 @@
       "author": "@ImphalWarrior"
     },
     {
-      "title": "There is another shortcoming of the LCA Mk1A.\nHAL assembled Israeli radar that still requires intervention from Israel. I would have defended this two-year delay with joy and passion if HAL/DRDO had used this time to equip the LCA with a GaN-based AESA radar and an indigenous IEWS.\n\nBecause with the delay inevitable due to the engine situation\u2026 we could at least have ended up with significantly greater capability.",
-      "link": "https://nitter.net/alpha_defense/status/2054470407756067113#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-13T13:24:50+05:30",
-      "time": "13 May, 01:24 PM",
-      "type": "tweets",
-      "content": "<p>There is another shortcoming of the LCA Mk1A.<br />\nHAL assembled Israeli radar that still requires intervention from Israel. I would have defended this two-year delay with joy and passion if HAL/DRDO had used this time to equip the LCA with a GaN-based AESA radar and an indigenous IEWS.<br />\n<br />\nBecause with the delay inevitable due to the engine situation\u2026 we could at least have ended up with significantly greater capability.</p>\n<hr />\n<blockquote>\n<b>FIGHTER (@FighterPiloting)</b>\n<p>\n<p>Non-delivery of engines by an American company cannot be condoned under any pretext. Stop self-flagelating as Indians. Do not start believing that there must be some Indian at fault, such as HAL, ADA, DRDO, or X,YZ. There is one and only one shortcoming on Tejas Mk1A...ENGINE</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/FighterPiloting/status/2054463129732706401#m\">https://nitter.net/FighterPiloting/status/2054463129732706401#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @OsintTV: Pakistan supported Taliban against USA\nPakistan hid Osama in Abottabad (Near military installation)\nPakistan supported Iran while acting as a mediator.\n\nUSA is a fool to trust an establishment that lies to its own citizens about their military losses.",
       "link": "https://nitter.net/memenist_/status/2054463539352584636#m",
       "source": "Osint TV",
@@ -1637,6 +1675,16 @@
       "type": "tweets",
       "content": "<p>Krishna Ghati sector Mendhar Poonch encounter <br />\n<br />\nPicture of the 72'd terrorist</p>\n<img src=\"https://nitter.net/pic/media%2FHILcunmbgAAPgf-.jpg\" />",
       "author": "@DefenceSphere"
+    },
+    {
+      "title": "\ud83d\udea8 Picture of the Pakistani terrorist eliminated at the Krishna ghati sector LoC by the Indian Army.\n\n\ud83d\udccd Pakistani terrorist carrying an IED infiltrated from behind Pak Army Post 642 Mujahid Battalion near Krishna Ghati sector.\n\n\ud83d\udccd Indian Army tracked the movement from the Pakistani side itself and neutralised the terrorist the moment he crossed the LoC.\n\n\ud83d\udccd Weapons, IED material and equipment recovered. Body handed over to J&K Police.\n\n\ud83d\udccd Pakistan continues using civilian areas as shields for terror camps and launch pads, knowing well that the Indian Army does not target civilians.\n\nUncensored pic posted on our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV/41869\n\n\ud83d\ude4f",
+      "link": "https://nitter.net/OsintTV/status/2054445186906788167#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-13T11:44:36+05:30",
+      "time": "13 May, 11:44 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Picture of the Pakistani terrorist eliminated at the Krishna ghati sector LoC by the Indian Army.<br />\n<br />\n\ud83d\udccd Pakistani terrorist carrying an IED infiltrated from behind Pak Army Post 642 Mujahid Battalion near Krishna Ghati sector.<br />\n<br />\n\ud83d\udccd Indian Army tracked the movement from the Pakistani side itself and neutralised the terrorist the moment he crossed the LoC.<br />\n<br />\n\ud83d\udccd Weapons, IED material and equipment recovered. Body handed over to J&amp;K Police.<br />\n<br />\n\ud83d\udccd Pakistan continues using civilian areas as shields for terror camps and launch pads, knowing well that the Indian Army does not target civilians.<br />\n<br />\nUncensored pic posted on our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV/41869\">t.me/OsntTV/41869</a><br />\n<br />\n\ud83d\ude4f</p>\n<img src=\"https://nitter.net/pic/media%2FHILa_71XAAAW6xK.jpg\" />",
+      "author": "@OsintTV"
     },
     {
       "title": "Maharashtra: A training aircraft belonging to Red Bird crashed at Gojubavi in the Baramati MIDC area.",
@@ -1737,56 +1785,6 @@
       "type": "tweets",
       "content": "<p>Apart from Ubaid Jahangir\u2019s case, there has been historical infighting between JeM and LeT in Rawalakot since 2015.<br />\n<br />\nOne such incident took place in 2015, when Ilyas Kashmiri, who at that time went by the name Abu Mohammad, and Abu Saraya, now known as Rizwan Hanif, had a physical altercation over the setting up of a LeT training camp near Banjosa Lake.<br />\n<br />\nWhile LeT wanted to establish a camp there, JeM opposed the move as the area was considered its stronghold.<br />\n<br />\nDuring the altercation which escalated into a shootout, one person was also killed. Since then, Ilyas Kashmiri alias Abu Mohammad has remained in exile in KPK, where he continues to stay even today as military and ISI sided with LeT.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 RUMINT:<br />\n<br />\nJaish-e-Mohammed has accused Lashkar-e-Taiba members of helping Indian agency to destroy their terror camps.<br />\n<br />\nAccording to RUMINT, members of Jaish-e-Mohammed are furious and are directly blaming Lashkar-e-Taiba cadre Ubaid Jahangir, son of Muhammad Jahangir Shahid from Koyian, Khai Gala, Rawalakot, PoJK. They blame that he provided the location details and GPS coordinates of Jaish-e-Mohammed\u2019s Syedna Bilal terrorist camps to an Indian agencies ahead of Op Sindoor.<br />\n<br />\nUbaid Jahangir was arrested by Pak law enforcement agencies on charges of espionage. He is closely linked to Lashkar-e-Taiba. His uncle, Shaukat S/O Samandar, is considered a key LeT figure and serves as the custodian of the Jama-ud-Dawa mosque in Khai Gala, PoJK.<br />\n<br />\nJaish cadres are furious and are blaming the ISI for shielding Lashkar-e-Taiba.</p>\n<img src=\"https://nitter.net/pic/media%2FHIIBZJGXoAIB5Cf.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2054206026077880437#m\">https://nitter.net/OsintTV/status/2054206026077880437#m</a>\n</footer>\n</blockquote>",
       "author": "@shivank_8mishra"
-    },
-    {
-      "title": "FYKI, serious infighting and internal rifts are currently going on within the Jaish terrorist group.",
-      "link": "https://nitter.net/OsintTV/status/2054209746932989992#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-12T20:09:03+05:30",
-      "time": "12 May, 08:09 PM",
-      "type": "tweets",
-      "content": "<p>FYKI, serious infighting and internal rifts are currently going on within the Jaish terrorist group.</p>\n<hr />\n<blockquote>\n<b>Cogito Ergo Sum (@Legion_Kommandr)</b>\n<p>\n<p>First in my bloodline to witness JEM infighting with LET!!!</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Legion_Kommandr/status/2054208294173265959#m\">https://nitter.net/Legion_Kommandr/status/2054208294173265959#m</a>\n</footer>\n</blockquote>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\udea8 RUMINT:\n\nJaish-e-Mohammed has accused Lashkar-e-Taiba members of helping Indian agency to destroy their terror camps.\n\nAccording to RUMINT, members of Jaish-e-Mohammed are furious and are directly blaming Lashkar-e-Taiba cadre Ubaid Jahangir, son of Muhammad Jahangir Shahid from Koyian, Khai Gala, Rawalakot, PoJK. They blame that he provided the location details and GPS coordinates of Jaish-e-Mohammed\u2019s Syedna Bilal terrorist camps to an Indian agencies ahead of Op Sindoor.\n\nUbaid Jahangir was arrested by Pak law enforcement agencies on charges of espionage. He is closely linked to Lashkar-e-Taiba. His uncle, Shaukat S/O Samandar, is considered a key LeT figure and serves as the custodian of the Jama-ud-Dawa mosque in Khai Gala, PoJK.\n\nJaish cadres are furious and are blaming the ISI for shielding Lashkar-e-Taiba.",
-      "link": "https://nitter.net/OsintTV/status/2054206026077880437#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-12T19:54:16+05:30",
-      "time": "12 May, 07:54 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 RUMINT:<br />\n<br />\nJaish-e-Mohammed has accused Lashkar-e-Taiba members of helping Indian agency to destroy their terror camps.<br />\n<br />\nAccording to RUMINT, members of Jaish-e-Mohammed are furious and are directly blaming Lashkar-e-Taiba cadre Ubaid Jahangir, son of Muhammad Jahangir Shahid from Koyian, Khai Gala, Rawalakot, PoJK. They blame that he provided the location details and GPS coordinates of Jaish-e-Mohammed\u2019s Syedna Bilal terrorist camps to an Indian agencies ahead of Op Sindoor.<br />\n<br />\nUbaid Jahangir was arrested by Pak law enforcement agencies on charges of espionage. He is closely linked to Lashkar-e-Taiba. His uncle, Shaukat S/O Samandar, is considered a key LeT figure and serves as the custodian of the Jama-ud-Dawa mosque in Khai Gala, PoJK.<br />\n<br />\nJaish cadres are furious and are blaming the ISI for shielding Lashkar-e-Taiba.</p>\n<img src=\"https://nitter.net/pic/media%2FHIIBZJGXoAIB5Cf.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "ISPR Gaming Simulator",
-      "link": "https://nitter.net/elitepredatorss/status/2054205997275885593#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-12T19:54:09+05:30",
-      "time": "12 May, 07:54 PM",
-      "type": "tweets",
-      "content": "<p>ISPR Gaming Simulator</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2054205997275885593#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054205913863757824%2Fimg%2FyZjS4I-veMSvlnpg.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "One terrorist was 72'd during an infiltration attempt in the Krishna Ghati area of Poonch.",
-      "link": "https://nitter.net/elitepredatorss/status/2054203661950341505#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-12T19:44:52+05:30",
-      "time": "12 May, 07:44 PM",
-      "type": "tweets",
-      "content": "<p>One terrorist was 72'd during an infiltration attempt in the Krishna Ghati area of Poonch.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Infiltration bid foiled in Poonch</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2054194601834258496#m\">https://nitter.net/elitepredatorss/status/2054194601834258496#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Actions have consequences, you don't mess with the old man \ud83d\uddff",
-      "link": "https://nitter.net/elitepredatorss/status/2054200950794158374#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-12T19:34:06+05:30",
-      "time": "12 May, 07:34 PM",
-      "type": "tweets",
-      "content": "<p>Actions have consequences, you don't mess with the old man \ud83d\uddff</p>\n<hr />\n<blockquote>\n<b>D.K Smith (@SmithD11273)</b>\n<p>\n<p>This type of gimmick is what we call, stupid games.<br />\n<br />\nIn return, you always win stupid prizes.<br />\n<br />\nOkay, Shakeel Afsar<br />\nResident of 46a Edgbaston Road, Birmingham<br />\nBirth date : 27/03/1987<br />\n+44776***7940</p>\n<img src=\"https://nitter.net/pic/media%2FHIHzxPibwAANeFd.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/SmithD11273/status/2054191246344864033#m\">https://nitter.net/SmithD11273/status/2054191246344864033#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -1855,6 +1853,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 PM IST"
+    "last_updated": "08:24 PM IST"
   }
 }
