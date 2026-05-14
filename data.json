@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "8 hours, 10 minutes & an impressive feat\u2014Navy officer Lt Cmdr Samar Hosur swims across Palk Strait",
+      "link": "https://theprint.in/defence/8-hours-10-minutes-an-impressive-feat-navy-officer-lt-cmdr-samar-hosur-swims-across-palk-strait/2931189/",
+      "source": "The Print",
+      "sort_key": "2026-05-14T17:11:35+05:30",
+      "time": "14 May, 05:11 PM",
+      "type": "news",
+      "description": "Known for his endurance feats, Lt. Cmdr. Samar Hosur had completed Ironman 70.3 triathlon in Bahrain in 2024 and successfully crossed the English Chan..."
+    },
+    {
+      "title": "US, China agree on keeping Strait of Hormuz open for free flow of energy",
+      "link": "https://www.newsonair.gov.in/bilateral-talks-between-us-president-and-chinese-president-begin-in-beijing/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-14T17:06:49+05:30",
+      "time": "14 May, 05:06 PM",
+      "type": "news",
+      "description": "US President Donald Trump and his Chinese counterpart Xi Jinping today held talks in Beijing. The meeting marked Trump\u2019s first visit to China during h..."
+    },
+    {
+      "title": "US-China bonhomie: Trump invites Xi Jinping to White House on September 24",
+      "link": "https://indianexpress.com/article/world/donald-trump-invites-xi-jinping-white-house-september-24-beijing-banquet-10689421/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-14T17:03:57+05:30",
+      "time": "14 May, 05:03 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Pakistan test fires Fatah-4 cruise missile",
+      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-test-fires-fatah-4-cruise-missile/articleshow/131091356.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-14T16:57:17+05:30",
+      "time": "14 May, 04:57 PM",
+      "type": "news",
+      "description": "Pakistan has successfully test-fired its indigenously developed Fatah-4 ground-launched cruise missile. This advanced weapon system is designed for lo..."
+    },
+    {
+      "title": "Russia pounds Ukraine in heaviest wartime drone attack over two days",
+      "link": "https://economictimes.indiatimes.com/news/defence/russia-pounds-ukraine-in-heaviest-wartime-drone-attack-over-two-days/articleshow/131091629.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-14T16:52:56+05:30",
+      "time": "14 May, 04:52 PM",
+      "type": "news",
+      "description": "Russia launched its largest aerial assault over a two-day period, striking Kyiv and other Ukrainian cities with hundreds of drones and missiles. The a..."
+    },
+    {
+      "title": "IAF finalises Rafale RFP, sets stage for fighter production before Modi & chief AP Singh fly to France",
+      "link": "https://theprint.in/defence/iaf-finalises-rafale-rfp-sets-stage-for-fighter-production-before-modi-chief-ap-singh-fly-to-france/2931194/",
+      "source": "The Print",
+      "sort_key": "2026-05-14T16:30:23+05:30",
+      "time": "14 May, 04:30 PM",
+      "type": "news",
+      "description": "The final contract will be signed only later this fiscal year. The long-term goal is to achieve 55-60 percent localisation for Rafale aircraft manufac..."
+    },
+    {
       "title": "Indian autonomous combat aircraft Kaal Bhairava to be manufactured in Europe under Operation 777",
       "link": "https://economictimes.indiatimes.com/news/defence/indian-autonomous-combat-aircraft-kaal-bhairava-to-be-manufactured-in-europe-under-operation-777/articleshow/131090153.cms",
       "source": "Economic Times",
@@ -64,15 +118,6 @@
       "description": "In light of the fact that Maoist activities have almost come to an end, he discussed the downsizing and restructuring of Greyhounds and how many are e..."
     },
     {
-      "title": "US President Donald Trump and Chinese President Xi Jinping hold talks in Beijing",
-      "link": "https://www.newsonair.gov.in/bilateral-talks-between-us-president-and-chinese-president-begin-in-beijing/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-14T14:06:49+05:30",
-      "time": "14 May, 02:06 PM",
-      "type": "news",
-      "description": "US President Donald Trump and his Chinese counterpart Xi Jinping, today began what Trump termed as the \u201cbiggest summit ever\u201d to discuss a wide range o..."
-    },
-    {
       "title": "Israel MOD Signs Contract with Elbit Systems for Extended Range Capability for the F-35 \u201cAdir\u201d Fighter Jet",
       "link": "https://www.indiastrategic.in/israel-mod-signs-contract-with-elbit-systems-for-extended-range-capability-for-the-f-35-adir-fighter-jet/",
       "source": "India Strategic",
@@ -134,15 +179,6 @@
       "time": "14 May, 12:10 PM",
       "type": "news",
       "description": "In a groundbreaking development, International Aerospace Manufacturing Private Ltd\u2014formed through the collaboration of Rolls-Royce and Hindustan Aeron..."
-    },
-    {
-      "title": "BRICS can help countries facing challenges of energy supplies, food and health security: Jaishankar",
-      "link": "https://www.indiatvnews.com/news/india/brics-can-help-countries-facing-challenges-of-energy-supplies-food-and-health-security-jaishankar-2026-05-14-1041096",
-      "source": "India TV",
-      "sort_key": "2026-05-14T11:38:48+05:30",
-      "time": "14 May, 11:38 AM",
-      "type": "news",
-      "description": "External Affairs Minister S Jaishankar on Thursday addressed the BRICS Foreign Ministers&rsquo; meeting in the national capital and said the BRICS can..."
     },
     {
       "title": "HFCL to set up \u20b9230 crore defence manufacturing facility in Andhra Pradesh",
@@ -226,7 +262,7 @@
       "description": "Alongside the Defence Minister, several Ministers have moved to significantly downsize their security convoys to conserve fuel"
     },
     {
-      "title": "Trump-Xi Summit LIVE: US, China agree Strait of Hormuz must reopen, Iran can never have nuclear weapons, says White House",
+      "title": "Trump-Xi Summit LIVE: Xi says US-China relations \u2018must not be messed up\u2019 as Trump calls him \u2018my friend\u2019",
       "link": "https://indianexpress.com/article/world/donald-trump-xi-jinping-meeting-live-updates-china-iran-war-taiwan-ai-trade-10688448/",
       "source": "The Indian Express",
       "sort_key": "2026-05-14T07:50:07+05:30",
@@ -298,8 +334,8 @@
       "description": "External Affairs Minister Dr S Jaishankar today said that India and Russia have expanded collaboration in science and technology, and the mobility of ..."
     },
     {
-      "title": "India\u2019s first privately built military aircraft, C-295 ready; set for rollout by Tata in Gujarat",
-      "link": "https://economictimes.indiatimes.com/news/defence/indias-first-privately-built-military-aircraft-c-295-ready-set-for-rollout-by-tata-in-gujarat/videoshow/131070513.cms",
+      "title": "India\u2019s first privately built military aircraft, C-295 ready; set for rollout by Tatas in Gujarat",
+      "link": "https://economictimes.indiatimes.com/news/defence/indias-first-privately-built-military-aircraft-c-295-ready-set-for-rollout-by-tatas-in-gujarat/videoshow/131070513.cms",
       "source": "Economic Times",
       "sort_key": "2026-05-13T21:27:54+05:30",
       "time": "13 May, 09:27 PM",
@@ -550,6 +586,15 @@
       "description": "Pakistan confirmed Iranian military aircraft landed during the US-Iran conflict, sparking questions about its neutrality as a mediator. While denying ..."
     },
     {
+      "title": "Iran US War News LIVE Updates: MEA calls attack on Indian-flagged vessel near Oman \u2018unacceptable\u2019",
+      "link": "https://indianexpress.com/article/world/iran-us-war-news-live-updates-donald-trump-us-iran-washington-war-tehran-hormuz-10686686/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-13T09:31:57+05:30",
+      "time": "13 May, 09:31 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "India\u2019s Role in a Disordered World",
       "link": "https://foreignpolicy.com/2026/05/13/indias-role-disordered-world-diplomacy/",
       "source": "Foreign Policy",
@@ -692,27 +737,89 @@
       "time": "12 May, 05:46 PM",
       "type": "news",
       "description": "Russia's President Putin reiterated his belief that the Ukraine war is nearing its conclusion, despite Ukrainian President Zelenskiy's assertion that ..."
-    },
-    {
-      "title": "Israel sent Iron Dome batteries, personnel to UAE: US envoy Huckabee reveals secret military move amid Iran conflict",
-      "link": "https://indianexpress.com/article/world/israel-sent-iron-dome-batteries-personnel-to-uae-us-envoy-10685331/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-12T17:21:01+05:30",
-      "time": "12 May, 05:21 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "\u2018Reflect on your reputation\u2019: India\u2019s sharp message to China over backing Pakistan during Op Sindoor",
-      "link": "https://economictimes.indiatimes.com/news/defence/reflect-on-your-reputation-indias-sharp-message-to-china-over-backing-pakistan-during-op-sindoor/articleshow/131037960.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-12T17:06:31+05:30",
-      "time": "12 May, 05:06 PM",
-      "type": "news",
-      "description": "India on Tuesday took a sharp swipe at China over reports of its support to Pakistan during Operation Sindoor, saying nations shielding terror infrast..."
     }
   ],
   "tweets": [
+    {
+      "title": "I was part of a think tank conversation where they quietly slid a magazine across the table almost entirely AI-written, and every second page was an advertisement from French defence firms.\n\nThat is how strategic media influence works.  \nNot through loud propaganda alone, but through sustained narrative investment, elite conversations, sponsored ecosystems and \u201cexpert\u201d amplification.\n\nAnd then people wonder why some individuals become unusually aggressive when you ask a simple question:\n\n\u201cWhy is a fighter aircraft entering service in 2032, still not using a GaAs-based AESA radar with 800 odd TRM ?\u201d",
+      "link": "https://nitter.net/alpha_defense/status/2054891824486228212#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-14T17:19:23+05:30",
+      "time": "14 May, 05:19 PM",
+      "type": "tweets",
+      "content": "<p>I was part of a think tank conversation where they quietly slid a magazine across the table almost entirely AI-written, and every second page was an advertisement from French defence firms.<br />\n<br />\nThat is how strategic media influence works.  <br />\nNot through loud propaganda alone, but through sustained narrative investment, elite conversations, sponsored ecosystems and \u201cexpert\u201d amplification.<br />\n<br />\nAnd then people wonder why some individuals become unusually aggressive when you ask a simple question:<br />\n<br />\n\u201cWhy is a fighter aircraft entering service in 2032, still not using a GaAs-based AESA radar with 800 odd TRM ?\u201d</p>\n<img src=\"https://nitter.net/pic/media%2FHIRxOJZa8AAn7dI.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Kremlin statement:\n\nOn May 14, President of Russia Vladimir Putin expressed condolences to President of India Droupadi Murmu and Prime Minister of India Narendra Modi.\n\nPlease accept my deepest condolences over the heavy loss of life and large-scale destruction caused by the cyclone in Uttar Pradesh.\n\nPlease convey my words of sympathy and support to the families and loved ones of those who perished, as well as wishes for a speedy recovery to all those injured as a result of this natural disaster.\n\nRespectfully,\nVladimir Putin",
+      "link": "https://nitter.net/sidhant/status/2054891056861520370#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T17:16:20+05:30",
+      "time": "14 May, 05:16 PM",
+      "type": "tweets",
+      "content": "<p>Kremlin statement:<br />\n<br />\nOn May 14, President of Russia Vladimir Putin expressed condolences to President of India Droupadi Murmu and Prime Minister of India Narendra Modi.<br />\n<br />\nPlease accept my deepest condolences over the heavy loss of life and large-scale destruction caused by the cyclone in Uttar Pradesh.<br />\n<br />\nPlease convey my words of sympathy and support to the families and loved ones of those who perished, as well as wishes for a speedy recovery to all those injured as a result of this natural disaster.<br />\n<br />\nRespectfully,<br />\nVladimir Putin</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Ukraine, West Asia discussed during Russian foreign minister Lavrov's meet with PM Modi in Delhi.\n\nIndia statement:",
+      "link": "https://nitter.net/sidhant/status/2054890471596671344#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T17:14:01+05:30",
+      "time": "14 May, 05:14 PM",
+      "type": "tweets",
+      "content": "<p>Ukraine, West Asia discussed during Russian foreign minister Lavrov's meet with PM Modi in Delhi.<br />\n<br />\nIndia statement:</p>\n<img src=\"https://nitter.net/pic/media%2FHIRv_onb0AAuiTK.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Russian Foreign Minister Lavrov and PM exchanged views on various regional and global issues of mutual interest, including the situation in Ukraine and West Asia: India statement",
+      "link": "https://nitter.net/sidhant/status/2054889791431622689#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T17:11:18+05:30",
+      "time": "14 May, 05:11 PM",
+      "type": "tweets",
+      "content": "<p>Russian Foreign Minister Lavrov and PM exchanged views on various regional and global issues of mutual interest, including the situation in Ukraine and West Asia: India statement</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Philippines condemns Pahalgam, Delhi terror attack at the India-Philippines Joint Working Group on Counter Terrorism meet in Manila\n\nBoth discuss ways to \"strengthen cooperation in countering radicalization and violent extremism conducive to terrorism.\"",
+      "link": "https://nitter.net/sidhant/status/2054888445982703622#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T17:05:58+05:30",
+      "time": "14 May, 05:05 PM",
+      "type": "tweets",
+      "content": "<p>Philippines condemns Pahalgam, Delhi terror attack at the India-Philippines Joint Working Group on Counter Terrorism meet in Manila<br />\n<br />\nBoth discuss ways to \"strengthen cooperation in countering radicalization and violent extremism conducive to terrorism.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHIRuJtga8AAhLcS.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BSF HQ blast Jalandhar \n\nUmar Deen, a resident of Zirakpur (Mohali), has been identified as the main accused and has been apprehended. Investigators said he allegedly carried out the attack on the instructions of Shehzad Bhatti.\n\nAnil Sharma from Uttar Pradesh was reportedly roped in as an associate for videography of the incident.",
+      "link": "https://nitter.net/Goreunit/status/2054886719561044135#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-14T16:59:06+05:30",
+      "time": "14 May, 04:59 PM",
+      "type": "tweets",
+      "content": "<p>BSF HQ blast Jalandhar <br />\n<br />\nUmar Deen, a resident of Zirakpur (Mohali), has been identified as the main accused and has been apprehended. Investigators said he allegedly carried out the attack on the instructions of Shehzad Bhatti.<br />\n<br />\nAnil Sharma from Uttar Pradesh was reportedly roped in as an associate for videography of the incident.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Big breaking \nDelhi govt announced 2-Day Work From Home For Govt Employees.",
+      "link": "https://nitter.net/Goreunit/status/2054884473108656264#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-14T16:50:10+05:30",
+      "time": "14 May, 04:50 PM",
+      "type": "tweets",
+      "content": "<p>Big breaking <br />\nDelhi govt announced 2-Day Work From Home For Govt Employees.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "\ud83d\udea8 Hizbul Mujahideen Terror Handler's Rs 20L Worth Land Attached In Bandipora by J&K Police.\nProperty belonged to Majid Ahmad Sofi alias Bisati, a resident of New Colony in Sopore, who was involved in alleged terror-related activities from across the border.",
+      "link": "https://nitter.net/Goreunit/status/2054881406694904268#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-14T16:37:59+05:30",
+      "time": "14 May, 04:37 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Hizbul Mujahideen Terror Handler's Rs 20L Worth Land Attached In Bandipora by J&amp;K Police.<br />\nProperty belonged to Majid Ahmad Sofi alias Bisati, a resident of New Colony in Sopore, who was involved in alleged terror-related activities from across the border.</p>",
+      "author": "@Goreunit"
+    },
     {
       "title": "Pratibha Parkar appointed as the next Ambassador of India to Panama",
       "link": "https://nitter.net/sidhant/status/2054877234771739115#m",
@@ -732,6 +839,26 @@
       "type": "tweets",
       "content": "<p>After \u201cBaniyan Chaddi Operation\u201d, entire Europe in Que for the Pakistani TAKNOLOGI ...\ud83e\udd23<br />\n<br />\nLahori Exfart says<br />\n<br />\n\ud83d\udccd Pakistan TAKNOLOGI is supreme in non contact warfare. Even Europe is far behind and Pakistan is way ahead of Europe in this TAKNOLOGI ....\ud83d\ude2d<br />\n<br />\n\ud83d\udccd Pak missile range capabilities are unlimited...\ud83e\udd23 During \u201cBaniyan Chaddi Operation\u201d Pakistan was getting live footage of damage across the border....!<br />\n(OSINTTV, o bhai konsi footage? till now nobody has seen a single video or satellite image showing damage inside India....\ud83d\ude1d)<br />\n<br />\n\ud83d\udccd Not a single Pakistani missile was intercepted by India\u2019s S-400. the mighty India S-400 completely failed against Fatah 1 missiles. India should stop wasting money on S-400 air defence systems and not even think about \u201cOperation Sindoor 2\u201d  \ud83e\udd23<br />\n<br />\nMujhe bhi yeh wala NASHA chahiye \ud83d\ude2d</p>\n<a href=\"https://nitter.net/OsintTV/status/2054875986085265511#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054875729314091009%2Fimg%2FhMTG3qsB1MwJYYOK.jpg\" />\n</a>",
       "author": "@OsintTV"
+    },
+    {
+      "title": "RT by @sidhant: Modi\u2019s 5-Nation Tour Explained :    \n\nFrom UAE energy ties to Europe\u2019s semiconductor race\u2026 PM Modi\u2019s upcoming 5-nation visit may be far bigger than a routine diplomatic tour.\n\nUAE, Netherlands, Sweden, Norway & Italy, each visit signals India\u2019s growing strategic positioning in energy, AI, chips, defence & global trade corridors.\n\nIs India quietly reshaping its global role?",
+      "link": "https://nitter.net/rsrobin1/status/2054875286991241304#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T16:13:40+05:30",
+      "time": "14 May, 04:13 PM",
+      "type": "tweets",
+      "content": "<p>Modi\u2019s 5-Nation Tour Explained :    <br />\n<br />\nFrom UAE energy ties to Europe\u2019s semiconductor race\u2026 PM Modi\u2019s upcoming 5-nation visit may be far bigger than a routine diplomatic tour.<br />\n<br />\nUAE, Netherlands, Sweden, Norway & Italy, each visit signals India\u2019s growing strategic positioning in energy, AI, chips, defence & global trade corridors.<br />\n<br />\nIs India quietly reshaping its global role?</p>\n<a href=\"https://nitter.net/rsrobin1/status/2054875286991241304#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054872535133753344%2Fimg%2F6FLUwHTlqp-KfoA0.jpg\" />\n</a>",
+      "author": "@rsrobin1"
+    },
+    {
+      "title": "Iranian Foreign Minister Abbas Araghchi on Thursday called on BRICS member states and members from the international community to unequivocally condemn violations of international law by the US and Israel.\n\nExpressing appreciation for support from BRICS countries, he urged member nations to intensify efforts against what he described as a sense of superiority from the US.\n\nThe BRICS Foreign Ministers' Meeting comes amid broader consultations aimed at enhancing coordination among member states on global economic governance, development priorities, and geopolitical challenges.",
+      "link": "https://nitter.net/NetramDefence/status/2054873216242663558#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-14T16:05:27+05:30",
+      "time": "14 May, 04:05 PM",
+      "type": "tweets",
+      "content": "<p>Iranian Foreign Minister Abbas Araghchi on Thursday called on BRICS member states and members from the international community to unequivocally condemn violations of international law by the US and Israel.<br />\n<br />\nExpressing appreciation for support from BRICS countries, he urged member nations to intensify efforts against what he described as a sense of superiority from the US.<br />\n<br />\nThe BRICS Foreign Ministers' Meeting comes amid broader consultations aimed at enhancing coordination among member states on global economic governance, development priorities, and geopolitical challenges.</p>\n<img src=\"https://nitter.net/pic/media%2FHIRgRRnaoAE2lHZ.jpg\" />",
+      "author": "@NetramDefence"
     },
     {
       "title": "Israel Ambassador to Delhi @ReuvenAzar says his country has \"special\" relationship with India, both share \"common values\"",
@@ -890,7 +1017,7 @@
       "sort_key": "2026-05-14T14:01:50+05:30",
       "time": "14 May, 02:01 PM",
       "type": "tweets",
-      "content": "<p>Few more pictures of Jaish terrorist Rahoom Arif Hassan<br />\n<br />\nHe was a relative of Masood Azhar and was 72'd in Operation Sindoor strikes on the Syedna Bilal camp, Muzaffarabad.</p>\n<img src=\"https://nitter.net/pic/media%2FHIRD5KRaoAAkSHl.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIRD5KhbQAAh5cL.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIRD5I0bMAEre89.jpg\" />",
+      "content": "<p>Few more pictures of Jaish terrorist Rahoom Arif Hassan<br />\n<br />\nHe was a relative of Masood Azhar and was 72'd in Operation Sindoor strikes on the Syedna Bilal camp, Muzaffarabad.</p>\n<img src=\"https://nitter.net/pic/media%2FHIRD5KRaoAAkSHl.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIRD5KhbQAAh5cL.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIRD5I0bMAEre89.jpg\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Exclusive: Hassan, a relative of Masood Azhar, lies hoorified after being 72\u2019d in Operation Sindoor strikes on Syedna Bilal camp, Muzaffarabad.</p>\n<img src=\"https://nitter.net/pic/media%2FHIHUZT8aYAAdLuY.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIHUZT8aIAAooln.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2054156602056618169#m\">https://nitter.net/elitepredatorss/status/2054156602056618169#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
     },
     {
@@ -974,26 +1101,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Iran Foreign minister Araghchi at BRICS FMs meet",
-      "link": "https://nitter.net/sidhant/status/2054818647521341597#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T12:28:36+05:30",
-      "time": "14 May, 12:28 PM",
-      "type": "tweets",
-      "content": "<p>Iran Foreign minister Araghchi at BRICS FMs meet</p>\n<img src=\"https://nitter.net/pic/media%2FHIQuqnEa4AAkAvz.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "The first session of BRICS FMs meet is almost over. The FMs will go for a joint call on with PM Modi now.",
-      "link": "https://nitter.net/sidhant/status/2054818013770395954#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T12:26:05+05:30",
-      "time": "14 May, 12:26 PM",
-      "type": "tweets",
-      "content": "<p>The first session of BRICS FMs meet is almost over. The FMs will go for a joint call on with PM Modi now.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @Goreunit: BSF killed a Bangladeshi intruder who was approaching to barbed wires of the border.",
       "link": "https://nitter.net/DefenceSphere/status/2054813450619277442#m",
       "source": "War & Gore",
@@ -1004,34 +1111,14 @@
       "author": "@DefenceSphere"
     },
     {
-      "title": "Iran calls upon BRICS member states and all responsible members of the international community to explicitly condemn violations of international law by the United States and Israel: Iran FM Araghchi tells BRICS FMs",
-      "link": "https://nitter.net/sidhant/status/2054811566135226802#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T12:00:28+05:30",
+      "title": "Israel has deployed Iron Dome air defence systems to the United Arab Emirates (UAE) to help defend it against Iranian attacks, according to US Ambassador to Israel Mike Huckabee.\n\n\u201cIsrael just sent them [the emirates] Iron Dome batteries and personnel to help operate them,\u201d he said during a talk at Tel Aviv University on 12 May 2026 to illustrate the potential benefits to Gulf Arab states of good relations with Israel.\n\nAxios first reported the deployment of the Iron Dome systems to the UAE on 26 April, citing one US and two Israeli officials.",
+      "link": "https://nitter.net/NetramDefence/status/2054811601048633474#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-14T12:00:36+05:30",
       "time": "14 May, 12:00 PM",
       "type": "tweets",
-      "content": "<p>Iran calls upon BRICS member states and all responsible members of the international community to explicitly condemn violations of international law by the United States and Israel: Iran FM Araghchi tells BRICS FMs</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We believe that BRICS can\u2014and must\u2014become one of the principal pillars in shaping a more just, balanced, and humane global order; an order in which might can never make right: Iran FM Araghchi tells BRICS FMs in Delhi",
-      "link": "https://nitter.net/sidhant/status/2054811376045207743#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T11:59:43+05:30",
-      "time": "14 May, 11:59 AM",
-      "type": "tweets",
-      "content": "<p>We believe that BRICS can\u2014and must\u2014become one of the principal pillars in shaping a more just, balanced, and humane global order; an order in which might can never make right: Iran FM Araghchi tells BRICS FMs in Delhi</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "History has shown that Empires in decline will stop at nothing to arrest their inevitable fates. A wounded animal will desperately claw and roar on its way down: Iran FM Araghchi tells BRICS foreign ministers in Delhi",
-      "link": "https://nitter.net/sidhant/status/2054811173036716512#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T11:58:54+05:30",
-      "time": "14 May, 11:58 AM",
-      "type": "tweets",
-      "content": "<p>History has shown that Empires in decline will stop at nothing to arrest their inevitable fates. A wounded animal will desperately claw and roar on its way down: Iran FM Araghchi tells BRICS foreign ministers in Delhi</p>",
-      "author": "@sidhant"
+      "content": "<p>Israel has deployed Iron Dome air defence systems to the United Arab Emirates (UAE) to help defend it against Iranian attacks, according to US Ambassador to Israel Mike Huckabee.<br />\n<br />\n\u201cIsrael just sent them [the emirates] Iron Dome batteries and personnel to help operate them,\u201d he said during a talk at Tel Aviv University on 12 May 2026 to illustrate the potential benefits to Gulf Arab states of good relations with Israel.<br />\n<br />\nAxios first reported the deployment of the Iron Dome systems to the UAE on 26 April, citing one US and two Israeli officials.</p>\n<img src=\"https://nitter.net/pic/media%2FHIQnuRUagAAmof_.jpg\" />",
+      "author": "@NetramDefence"
     },
     {
       "title": "The National Investigation Agency filed a 7,500 page chargesheet against 10 accused in the Red Fort car bomb case.",
@@ -1224,6 +1311,16 @@
       "author": "@Goreunit"
     },
     {
+      "title": "Daily US-Israel-Iran War Brief:    \n\n13th May 2026    \n\n - We will be posting daily war updates on the ongoing war in Middle East   \n  - \u2060Follow us for daily Brief\n\n\u25cf Trump arrived in Beijing for a 3-day summit, accompanied by Elon Musk and NVIDIA CEO Jensen Huang. A major goal is to pressure President Xi Jinping into cutting economic and technological lifelines to Tehran.\n\n\u25cf NATO has invited Bahrain, Kuwait, Qatar, and the UAE to an upcoming summit with Iran-related security concerns on the agenda.\n\n\u25cf Chinese-linked VLCC Yuan Hua Hu is transiting the Strait of Hormuz via Iranian lanes. If successful, it would mark the third such Chinese tanker crossing since the conflict began.\n\n\u25cf The Chinese Embassy in the US has defined four 'red lines' in bilateral relations that must not be challenged: the Taiwan question, issues of democracy & human rights, differences in political systems, and China's development rights.\n\n\u25cf The IDF and Shin Bet eliminated a Hamas operative who took part in the October 7 attack on the Nahal Oz outpost, where Israeli soldiers were killed and kidnapped.\n\n\u25cf Iranian FM Araghchi departed for the BRICS Foreign Ministers\u2019 meeting in New Delhi. Meanwhile, Chinese FM Wang Yi canceled his attendance to remain in Beijing for high-stakes bilateral talks with Trump.\n\nEND OF THE BRIEF.",
+      "link": "https://nitter.net/NetramDefence/status/2054587626368413962#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-13T21:10:37+05:30",
+      "time": "13 May, 09:10 PM",
+      "type": "tweets",
+      "content": "<p>Daily US-Israel-Iran War Brief:    <br />\n<br />\n13th May 2026    <br />\n<br />\n - We will be posting daily war updates on the ongoing war in Middle East   <br />\n  - \u2060Follow us for daily Brief<br />\n<br />\n\u25cf Trump arrived in Beijing for a 3-day summit, accompanied by Elon Musk and NVIDIA CEO Jensen Huang. A major goal is to pressure President Xi Jinping into cutting economic and technological lifelines to Tehran.<br />\n<br />\n\u25cf NATO has invited Bahrain, Kuwait, Qatar, and the UAE to an upcoming summit with Iran-related security concerns on the agenda.<br />\n<br />\n\u25cf Chinese-linked VLCC Yuan Hua Hu is transiting the Strait of Hormuz via Iranian lanes. If successful, it would mark the third such Chinese tanker crossing since the conflict began.<br />\n<br />\n\u25cf The Chinese Embassy in the US has defined four 'red lines' in bilateral relations that must not be challenged: the Taiwan question, issues of democracy & human rights, differences in political systems, and China's development rights.<br />\n<br />\n\u25cf The IDF and Shin Bet eliminated a Hamas operative who took part in the October 7 attack on the Nahal Oz outpost, where Israeli soldiers were killed and kidnapped.<br />\n<br />\n\u25cf Iranian FM Araghchi departed for the BRICS Foreign Ministers\u2019 meeting in New Delhi. Meanwhile, Chinese FM Wang Yi canceled his attendance to remain in Beijing for high-stakes bilateral talks with Trump.<br />\n<br />\nEND OF THE BRIEF.</p>\n<img src=\"https://nitter.net/pic/media%2FHINcf39acAAAYlG.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:  <br />\n 12th May 2026 <br />\n<br />\n  - We will be posting daily war updates on the ongoing war in Middle East <br />\n   - \u2060Follow us for daily Brief<br />\n<br />\n\u25cf Reports emerged that the UAE conducted secret strikes on Iran, including an early April attack on the Lavan Island oil refinery that triggered a major fire. The strikes reportedly received quiet approval from the US.<br />\n<br />\n\u25cf The Iraqi VLCC Agios Fanourios I, carrying crude oil bound for Vietnam, was forced by US naval forces to reverse course after crossing the Strait of Hormuz via Iran\u2019s designated route.<br />\n<br />\n\u25cf An armed IRGC-linked group infiltrated Bubiyan Island in Kuwait, carrying out hostile operations and injuring a service member before being captured by Kuwaiti forces.<br />\n<br />\n\u25cf  Iran has significantly widened its territorial claims over the Strait of Hormuz, asserting control over a much larger area than before the conflict began.<br />\n<br />\n\u25cf Maersk announced it is continuing to avoid transit through the Strait of Hormuz due to ongoing security risks.<br />\n<br />\n\u25cf CENTCOM has redirected 65 commercial vessels and disabled 4 vessels to enforce compliance with the naval blockade.<br />\nEND OF THE BRIEF.</p>\n<img src=\"https://nitter.net/pic/media%2FHIIXuAtbwAA4YFf.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2054243821299572958#m\">https://nitter.net/NetramDefence/status/2054243821299572958#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "Iran's Foreign Minister has landed in Delhi.",
       "link": "https://nitter.net/Goreunit/status/2054584758286660040#m",
       "source": "War & Gore",
@@ -1262,6 +1359,16 @@
       "type": "tweets",
       "content": "<p>Visit of DRDO scientists to INS Dega<br />\n<br />\n40 DRDO Scientists visited <a href=\"https://nitter.net/IN_Dega\" title=\"IN_Dega\">@IN_Dega</a> to familiarise with various aspects of the Indian Navy's aviation arm. They were briefed on several aircraft, their operational capabilities and DRDO's role in enhancing indigenisation in naval aviation.<br />\n<br />\nThe scientists also interacted with men and women of the Air Station, gaining valuable insights into naval aviation.<br />\n<br />\n\u201c\u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u0938\u0948\u0928\u094d\u092f \u0915\u094d\u0937\u092e\u0924\u093e \u0915\u093e \u0938\u0902\u0917\u092e, \u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u092e\u0947\u0902 \u090f\u0915 \u092a\u094d\u0930\u0947\u0930\u0923\u093e\u0926\u093e\u092f\u0940 \u0915\u0926\u092e\u0964\u201d<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23HQENC\">#HQENC</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaNavy\">#IndiaNavy</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23AtmanirbharBharat\">#AtmanirbharBharat</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceResearch\">#DefenceResearch</a></p>\n<img src=\"https://nitter.net/pic/media%2FHINIk2TaAAA8b4D.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHINIk19bcAAljeV.jpg\" />",
       "author": "@IN_Dega"
+    },
+    {
+      "title": "Pakistan Defence Minister Khawaja Muhammad Asif has indicated the possibility of expanding the regional defence and economic arrangement with Qatar and Turkiye, suggesting that the framework could evolve\ninto a broader security pact aimed at strengthening regional cooperation.\n\nPakistan, last year, had already signed a \"Strategic Mutual Defence Agreement\" with Saudi Arabia, pledging that any aggression against either nation would be treated as an attack on both. \n\nIndia has also issued a response in the wake of the \"Strategic Mutual Defence Agreement\" between Saudi Arabia and Pakistan, stating it will closely study the pact's implications for India's national security and regional and global stability.",
+      "link": "https://nitter.net/NetramDefence/status/2054565850443821117#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-13T19:44:05+05:30",
+      "time": "13 May, 07:44 PM",
+      "type": "tweets",
+      "content": "<p>Pakistan Defence Minister Khawaja Muhammad Asif has indicated the possibility of expanding the regional defence and economic arrangement with Qatar and Turkiye, suggesting that the framework could evolve<br />\ninto a broader security pact aimed at strengthening regional cooperation.<br />\n<br />\nPakistan, last year, had already signed a \"Strategic Mutual Defence Agreement\" with Saudi Arabia, pledging that any aggression against either nation would be treated as an attack on both. <br />\n<br />\nIndia has also issued a response in the wake of the \"Strategic Mutual Defence Agreement\" between Saudi Arabia and Pakistan, stating it will closely study the pact's implications for India's national security and regional and global stability.</p>\n<img src=\"https://nitter.net/pic/media%2FHINIq6SbIAAFP2y.png\" />",
+      "author": "@NetramDefence"
     },
     {
       "title": "5 Pakistani soldiers including Major have been killed by IED blast in Dukki - Balochistan: Local sources",
@@ -1334,6 +1441,16 @@
       "author": "@elitepredatorss"
     },
     {
+      "title": "NIA ARRESTS HIZBUL MUJAHIDEEN LINKED NARCO-TERRORIST SHERA AFTER SUCCESSFULLY SECURING HIS EXTRADITION FROM PORTUGAL\n \nThe National Investigation Agency (NIA) has arrested wanted narco-terrorist Iqbal Singh alias Shera after successfully securing his extradition from Portugal following sustained diplomatic and legal efforts.\n \nMastermind in a major Hizb-ul-Mujahideen (HM) terror financing case, Shera was brought to India today following the due legal process. He was taken into custody by an NIA team at the Delhi airport immediately on his arrival from Portugal, to where he had absconded in 2020.\n\nHis successful extradition and arrest come as a major shot in the arm for NIA\u2019s fight against Pakistan-backed narcotics and cross border terrorism.\n@NIA_India",
+      "link": "https://nitter.net/NetramDefence/status/2054510908186185779#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-13T16:05:46+05:30",
+      "time": "13 May, 04:05 PM",
+      "type": "tweets",
+      "content": "<p>NIA ARRESTS HIZBUL MUJAHIDEEN LINKED NARCO-TERRORIST SHERA AFTER SUCCESSFULLY SECURING HIS EXTRADITION FROM PORTUGAL<br />\n <br />\nThe National Investigation Agency (NIA) has arrested wanted narco-terrorist Iqbal Singh alias Shera after successfully securing his extradition from Portugal following sustained diplomatic and legal efforts.<br />\n <br />\nMastermind in a major Hizb-ul-Mujahideen (HM) terror financing case, Shera was brought to India today following the due legal process. He was taken into custody by an NIA team at the Delhi airport immediately on his arrival from Portugal, to where he had absconded in 2020.<br />\n<br />\nHis successful extradition and arrest come as a major shot in the arm for NIA\u2019s fight against Pakistan-backed narcotics and cross border terrorism.<br />\n<a href=\"https://nitter.net/NIA_India\" title=\"NIA India\">@NIA_India</a></p>\n<img src=\"https://nitter.net/pic/media%2FHIMWiflboAAFfEE.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "Exactly \ud83d\udc4d  \nHAL has actually done remarkably well when it comes to production.  \n\nThe biggest miss from their side was not aggressively pushing the GaN-based Uttam AESA and confidently telling everyone that the aircraft flies with arguably the best radar in the IAF inventory, even better than Rafale.\n\nBut for some reason, they still seem to have this strange love and affection for Israeli subsystems.",
       "link": "https://nitter.net/alpha_defense/status/2054509465979044185#m",
       "source": "Alpha Defense",
@@ -1384,6 +1501,16 @@
       "author": "@manishindiatv"
     },
     {
+      "title": "RT by @NetramDefence: (1/10) Legendary Manipuri classical dancer, singer, and author Padma Shri Kshetrimayum Ongbi Thouranisabi Devi passed away on 12th May at age 91.\n Let us reflect at her lifelong efforts towards preserving  Manipuri culture in this thread.",
+      "link": "https://nitter.net/ImphalWarrior/status/2054472881070014667#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-13T13:34:39+05:30",
+      "time": "13 May, 01:34 PM",
+      "type": "tweets",
+      "content": "<p>(1/10) Legendary Manipuri classical dancer, singer, and author Padma Shri Kshetrimayum Ongbi Thouranisabi Devi passed away on 12th May at age 91.<br />\n Let us reflect at her lifelong efforts towards preserving  Manipuri culture in this thread.</p>\n<img src=\"https://nitter.net/pic/media%2FHILxUEpaEAAP3pe.jpg\" />",
+      "author": "@ImphalWarrior"
+    },
+    {
       "title": "There is another shortcoming of the LCA Mk1A.\nHAL assembled Israeli radar that still requires intervention from Israel. I would have defended this two-year delay with joy and passion if HAL/DRDO had used this time to equip the LCA with a GaN-based AESA radar and an indigenous IEWS.\n\nBecause with the delay inevitable due to the engine situation\u2026 we could at least have ended up with significantly greater capability.",
       "link": "https://nitter.net/alpha_defense/status/2054470407756067113#m",
       "source": "Alpha Defense",
@@ -1404,6 +1531,16 @@
       "author": "@memenist_"
     },
     {
+      "title": "RT by @NetramDefence: Chinese-linked VLCC Yuan Hua Hu is transiting the Strait of Hormuz via Iranian lanes on the eve of the Trump-Xi summit.\n\nIf successful, it would mark the third such Chinese tanker crossing since the conflict began.\n\nIt recently went dark, showing limited tracking.",
+      "link": "https://nitter.net/Globalwatchh/status/2054458240683934133#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-13T12:36:29+05:30",
+      "time": "13 May, 12:36 PM",
+      "type": "tweets",
+      "content": "<p>Chinese-linked VLCC Yuan Hua Hu is transiting the Strait of Hormuz via Iranian lanes on the eve of the Trump-Xi summit.<br />\n<br />\nIf successful, it would mark the third such Chinese tanker crossing since the conflict began.<br />\n<br />\nIt recently went dark, showing limited tracking.</p>\n<img src=\"https://nitter.net/pic/media%2FHILl905W0AAUKk2.png\" />",
+      "author": "@Globalwatchh"
+    },
+    {
       "title": "Mashkoor Ahmed, a government primary school teacher, has been booked under the UAPA, BNS, and Arms Act for aiding Jaish-e-Mohammed terrorists, including hoorified Saifullah.\n\nAccording to police, he provided shelter and logistical intelligence to the group. Investigators also recovered a photograph of Saifullah, garlanded with currency notes, taken inside Ahmed\u2019s residence.",
       "link": "https://nitter.net/elitepredatorss/status/2054457930515435650#m",
       "source": "Elite Predators",
@@ -1412,6 +1549,16 @@
       "type": "tweets",
       "content": "<p>Mashkoor Ahmed, a government primary school teacher, has been booked under the UAPA, BNS, and Arms Act for aiding Jaish-e-Mohammed terrorists, including hoorified Saifullah.<br />\n<br />\nAccording to police, he provided shelter and logistical intelligence to the group. Investigators also recovered a photograph of Saifullah, garlanded with currency notes, taken inside Ahmed\u2019s residence.</p>\n<img src=\"https://nitter.net/pic/media%2FHILmi6mbQAAdkp1.jpg\" />",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "Lashkar terrorist killed as Army stymied infiltration bid along LoC in J&K\n\nThe Indian Army on Tuesday foiled a major infiltration attempt by suspected Pakistani terrorists along the Line of Control (LoC) in Jammu and Kashmir, killing one infiltrator in the operation.\n\nA heavy exchange of fire is underway between the infiltrators and Army troops deployed in the Krishna Ghati sector of Poonch's Mendhar.\n\nPersistent surveillance detected suspicious movement,  of a group of heavily armed terrorists attempting to cross the LoC under the cover of darkness. The infiltrators were challenged, following which they opened fire, prompting retaliation from the Army and triggering an intense gunfight. \n\n\u201cThe troops continue to dominate the area and maintain a high state of operational readiness across the sector,\u201d the Indian Army said.\n\n@adgpi @Whiteknight_IA @NorthernComd_IA\n@ChinarcorpsIA",
+      "link": "https://nitter.net/NetramDefence/status/2054457702244630649#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-13T12:34:20+05:30",
+      "time": "13 May, 12:34 PM",
+      "type": "tweets",
+      "content": "<p>Lashkar terrorist killed as Army stymied infiltration bid along LoC in J&amp;K<br />\n<br />\nThe Indian Army on Tuesday foiled a major infiltration attempt by suspected Pakistani terrorists along the Line of Control (LoC) in Jammu and Kashmir, killing one infiltrator in the operation.<br />\n<br />\nA heavy exchange of fire is underway between the infiltrators and Army troops deployed in the Krishna Ghati sector of Poonch's Mendhar.<br />\n<br />\nPersistent surveillance detected suspicious movement,  of a group of heavily armed terrorists attempting to cross the LoC under the cover of darkness. The infiltrators were challenged, following which they opened fire, prompting retaliation from the Army and triggering an intense gunfight. <br />\n<br />\n\u201cThe troops continue to dominate the area and maintain a high state of operational readiness across the sector,\u201d the Indian Army said.<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/Whiteknight_IA\" title=\"White Knight Corps\">@Whiteknight_IA</a> <a href=\"https://nitter.net/NorthernComd_IA\" title=\"NORTHERN COMMAND - INDIAN ARMY\">@NorthernComd_IA</a><br />\n<a href=\"https://nitter.net/ChinarcorpsIA\" title=\"Chinar Corps\ud83c\udf41 - Indian Army\">@ChinarcorpsIA</a></p>\n<img src=\"https://nitter.net/pic/media%2FHILl29Ya0AAf3Xw.jpg\" />",
+      "author": "@NetramDefence"
     },
     {
       "title": "Trade will be on the priority list. \nAlthough they'll discuss the Iran war too, specifically the Global energy crisis.",
@@ -1434,6 +1581,16 @@
       "author": "@DefenceSphere"
     },
     {
+      "title": "\ud83d\udea8 Picture of the Pakistani terrorist eliminated at the Krishna ghati sector LoC by the Indian Army.\n\n\ud83d\udccd Pakistani terrorist carrying an IED infiltrated from behind Pak Army Post 642 Mujahid Battalion near Krishna Ghati sector.\n\n\ud83d\udccd Indian Army tracked the movement from the Pakistani side itself and neutralised the terrorist the moment he crossed the LoC.\n\n\ud83d\udccd Weapons, IED material and equipment recovered. Body handed over to J&K Police.\n\n\ud83d\udccd Pakistan continues using civilian areas as shields for terror camps and launch pads, knowing well that the Indian Army does not target civilians.\n\nUncensored pic posted on our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV/41869\n\n\ud83d\ude4f",
+      "link": "https://nitter.net/OsintTV/status/2054445186906788167#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-13T11:44:36+05:30",
+      "time": "13 May, 11:44 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Picture of the Pakistani terrorist eliminated at the Krishna ghati sector LoC by the Indian Army.<br />\n<br />\n\ud83d\udccd Pakistani terrorist carrying an IED infiltrated from behind Pak Army Post 642 Mujahid Battalion near Krishna Ghati sector.<br />\n<br />\n\ud83d\udccd Indian Army tracked the movement from the Pakistani side itself and neutralised the terrorist the moment he crossed the LoC.<br />\n<br />\n\ud83d\udccd Weapons, IED material and equipment recovered. Body handed over to J&amp;K Police.<br />\n<br />\n\ud83d\udccd Pakistan continues using civilian areas as shields for terror camps and launch pads, knowing well that the Indian Army does not target civilians.<br />\n<br />\nUncensored pic posted on our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV/41869\">t.me/OsntTV/41869</a><br />\n<br />\n\ud83d\ude4f</p>\n<img src=\"https://nitter.net/pic/media%2FHILa_71XAAAW6xK.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
       "title": "Report : Following Prime Minister Narendra Modi\u2019s appeal for restraint and efficiency, Union Home Minister Amit Shah also downsized his convoy, reportedly reducing it to less than half.\n\nShouldn\u2019t Auto makers capitalise on this moment and accelerate EV infra ?",
       "link": "https://nitter.net/alpha_defense/status/2054441272132476993#m",
       "source": "Alpha Defense",
@@ -1451,16 +1608,6 @@
       "time": "13 May, 10:40 AM",
       "type": "tweets",
       "content": "<p>Maharashtra: A training aircraft belonging to Red Bird crashed at Gojubavi in the Baramati MIDC area.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @Goreunit: Kishtwar Police arrested 2 terror aides, including govt teacher Mashkoor Ahmed, for helping Pakistani trts linked to JeM\u2019s Azrael module in Chatroo.\nAccused provided logistics, shelter & intel on security force movement to terrorist commander Saifullah and associates.\nBooked under UAPA.",
-      "link": "https://nitter.net/Goreunit/status/2054426023035302330#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-13T10:28:27+05:30",
-      "time": "13 May, 10:28 AM",
-      "type": "tweets",
-      "content": "<p>Kishtwar Police arrested 2 terror aides, including govt teacher Mashkoor Ahmed, for helping Pakistani trts linked to JeM\u2019s Azrael module in Chatroo.<br />\nAccused provided logistics, shelter & intel on security force movement to terrorist commander Saifullah and associates.<br />\nBooked under UAPA.</p>",
       "author": "@Goreunit"
     },
     {
@@ -1484,16 +1631,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @Goreunit: Krishna Ghati sector Mendhar Poonch encounter \n\nOne Terrorist was liquidated. Body yet to be recovered. Another Terrorist was also hit by LMG burst. Very unlikely to survive.",
-      "link": "https://nitter.net/DefenceSphere/status/2054394672555159920#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-13T08:23:53+05:30",
-      "time": "13 May, 08:23 AM",
-      "type": "tweets",
-      "content": "<p>Krishna Ghati sector Mendhar Poonch encounter <br />\n<br />\nOne Terrorist was liquidated. Body yet to be recovered. Another Terrorist was also hit by LMG burst. Very unlikely to survive.</p>\n<hr />\n<blockquote>\n<b>Defence Sphere (@DefenceSphere)</b>\n<p>\n<p>Heavy exchange of fire between terrorists &amp; Indian army in Krishna Ghati sector Mendhar Poonch.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceSphere/status/2054192550463082924#m\">https://nitter.net/DefenceSphere/status/2054192550463082924#m</a>\n</footer>\n</blockquote>",
-      "author": "@DefenceSphere"
-    },
-    {
       "title": "RT by @OsintTV: Timely action by CRPF saved a precious life in Kulgam. Personnel of CRPF\u2019s 90 Battalion acted with remarkable speed and professionalism after a man suffered a serious cardiac emergency on the Jammu-Srinagar National Highway. The jawans immediately administered CPR, provided emergency medication, and shifted the patient to a nearby hospital within the crucial \u201cgolden hour.\u201d Their alertness, training, and humanity played a vital role in saving the man\u2019s life.\n\nSalute to the brave personnel of CRPF for not only protecting lives from threats, but also standing as lifesavers in times of medical emergencies. Such acts of service and compassion deserve appreciation.\n\n@gpsinghips @crpfindia @KOSCRPF @CRPFmadadgaar",
       "link": "https://nitter.net/MikeLimaBravo12/status/2054384997474418844#m",
       "source": "Osint TV",
@@ -1502,16 +1639,6 @@
       "type": "tweets",
       "content": "<p>Timely action by CRPF saved a precious life in Kulgam. Personnel of CRPF\u2019s 90 Battalion acted with remarkable speed and professionalism after a man suffered a serious cardiac emergency on the Jammu-Srinagar National Highway. The jawans immediately administered CPR, provided emergency medication, and shifted the patient to a nearby hospital within the crucial \u201cgolden hour.\u201d Their alertness, training, and humanity played a vital role in saving the man\u2019s life.<br />\n<br />\nSalute to the brave personnel of CRPF for not only protecting lives from threats, but also standing as lifesavers in times of medical emergencies. Such acts of service and compassion deserve appreciation.<br />\n<br />\n<a href=\"https://nitter.net/gpsinghips\" title=\"GP Singh\">@gpsinghips</a> <a href=\"https://nitter.net/crpfindia\" title=\"\ud83c\uddee\ud83c\uddf3CRPF\ud83c\uddee\ud83c\uddf3\">@crpfindia</a> <a href=\"https://nitter.net/KOSCRPF\" title=\"Kashmir Ops Sector, CRPF\">@KOSCRPF</a> <a href=\"https://nitter.net/CRPFmadadgaar\" title=\"CRPF Madadgaar\">@CRPFmadadgaar</a></p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2054384997474418844#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054384920387334144%2Fimg%2F6O7wtBbE3Xploewj.jpg\" />\n</a>",
       "author": "@MikeLimaBravo12"
-    },
-    {
-      "title": "Guaranteed entertainment for the next few days as Donald Trump departs for China, marking the first state visit by a U.S. President since his own previous visit back in 2017.",
-      "link": "https://nitter.net/alpha_defense/status/2054284354067771780#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-13T01:05:31+05:30",
-      "time": "13 May, 01:05 AM",
-      "type": "tweets",
-      "content": "<p>Guaranteed entertainment for the next few days as Donald Trump departs for China, marking the first state visit by a U.S. President since his own previous visit back in 2017.</p>\n<img src=\"https://nitter.net/pic/media%2FHIJIusVacAAmYhl.jpg\" />",
-      "author": "@alpha_defense"
     },
     {
       "title": "Btw, this unit 642 Mujahid regiment of the Pakistani Army is the same unit who collected the remains of the doosra banda and admitted the teesra banda in the Pakistani military hospital after the dogfight of 27th Feb 2019.\n\nWe have eyes on them from quite sometime.",
@@ -1532,6 +1659,16 @@
       "type": "tweets",
       "content": "<p>642 Mujahid Battalion of Pak Army tried to do a naughty thing today.<br />\n<br />\nThis unit is moving out of this sector, and they were trying to setup something to inflict harm to the Indian Army. They have a very valid reason for this action, the Indian Army unit deployed here have 72d many of their soldiers over a period of time.<br />\n<br />\nThey wanted to avenge as their last act before leaving the sector, fauj ne fir thok diya !<br />\n<br />\nWe never got our eyes off you piglets.</p>\n<img src=\"https://nitter.net/pic/media%2FHIIlcyCbIAA44Zz.jpg\" />",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "Daily US-Israel-Iran War Brief:  \n 12th May 2026 \n\n  - We will be posting daily war updates on the ongoing war in Middle East \n   - \u2060Follow us for daily Brief\n\n\u25cf Reports emerged that the UAE conducted secret strikes on Iran, including an early April attack on the Lavan Island oil refinery that triggered a major fire. The strikes reportedly received quiet approval from the US.\n\n\u25cf The Iraqi VLCC Agios Fanourios I, carrying crude oil bound for Vietnam, was forced by US naval forces to reverse course after crossing the Strait of Hormuz via Iran\u2019s designated route.\n\n\u25cf An armed IRGC-linked group infiltrated Bubiyan Island in Kuwait, carrying out hostile operations and injuring a service member before being captured by Kuwaiti forces.\n\n\u25cf  Iran has significantly widened its territorial claims over the Strait of Hormuz, asserting control over a much larger area than before the conflict began.\n\n\u25cf Maersk announced it is continuing to avoid transit through the Strait of Hormuz due to ongoing security risks.\n\n\u25cf CENTCOM has redirected 65 commercial vessels and disabled 4 vessels to enforce compliance with the naval blockade.\nEND OF THE BRIEF.",
+      "link": "https://nitter.net/NetramDefence/status/2054243821299572958#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-12T22:24:27+05:30",
+      "time": "12 May, 10:24 PM",
+      "type": "tweets",
+      "content": "<p>Daily US-Israel-Iran War Brief:  <br />\n 12th May 2026 <br />\n<br />\n  - We will be posting daily war updates on the ongoing war in Middle East <br />\n   - \u2060Follow us for daily Brief<br />\n<br />\n\u25cf Reports emerged that the UAE conducted secret strikes on Iran, including an early April attack on the Lavan Island oil refinery that triggered a major fire. The strikes reportedly received quiet approval from the US.<br />\n<br />\n\u25cf The Iraqi VLCC Agios Fanourios I, carrying crude oil bound for Vietnam, was forced by US naval forces to reverse course after crossing the Strait of Hormuz via Iran\u2019s designated route.<br />\n<br />\n\u25cf An armed IRGC-linked group infiltrated Bubiyan Island in Kuwait, carrying out hostile operations and injuring a service member before being captured by Kuwaiti forces.<br />\n<br />\n\u25cf  Iran has significantly widened its territorial claims over the Strait of Hormuz, asserting control over a much larger area than before the conflict began.<br />\n<br />\n\u25cf Maersk announced it is continuing to avoid transit through the Strait of Hormuz due to ongoing security risks.<br />\n<br />\n\u25cf CENTCOM has redirected 65 commercial vessels and disabled 4 vessels to enforce compliance with the naval blockade.<br />\nEND OF THE BRIEF.</p>\n<img src=\"https://nitter.net/pic/media%2FHIIXuAtbwAA4YFf.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n 11th May 2026<br />\n<br />\n - We will be posting daily war updates on the ongoing war in Middle East  <br />\n - \u2060Follow us for daily Brief<br />\n<br />\n\u25cf Trump rejected Iran\u2019s latest counteroffer to the US proposal, describing it as \u201cunacceptable.\u201d<br />\n<br />\n\u25cfTrump is scheduled to begin a 3-day visit to China, focusing on rebalancing trade, protecting US economic strength, and addressing national security concerns. He is expected to arrive on Wednesday.<br />\n<br />\n\u25cf The Iraqi VLCC Agios Fanourios I successfully transited the Strait of Hormuz today via Iran\u2019s designated maritime route and application system.<br />\n<br />\n\u25cf CENTCOM has redirected 62 commercial vessels and disabled 4 vessels to enforce compliance with the ongoing naval blockade.<br />\n<br />\n\u25cf The IDF dismantled 4 underground tunnel routes with a combined length of approximately 4 km in southern Gaza, east of the Yellow Line.<br />\n<br />\n\u25cf Iranian FM Araghchi will visit New Delhi this week for the BRICS Foreign Ministers\u2019 meeting, where discussions on Strait of Hormuz security and broader West Asia conflicts are expected.<br />\n<br />\n\u25cf Trump stated he is considering reactivating \u201cProject Freedom\u201d with an expanded scope beyond basic vessel escorting.<br />\n<br />\n\u25cf European Union foreign ministers agreed on new sanctions targeting Israeli settlers over violence against Palestinians.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHIDcWcmaMAAD0Hh.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2053883793732415578#m\">https://nitter.net/NetramDefence/status/2053883793732415578#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
     },
     {
       "title": "Pak Army Officer Major Syed Muhammad Ali Bukhari Found Dead in Bahawalpur\n\nMajor Syed Muhammad Ali Bukhari, son of Dr. Syed Mumtaz Hussain Bukhari, reportedly died mysteriously in Bahawalpur. His funeral prayers will be held in Chakwal.",
@@ -1646,6 +1783,15 @@
   ],
   "youtube": [
     {
+      "title": "Indian Defence Updates : MQ-28 Ghost Bat Offer,ALFA-S Swarm Pod,Sudarshan Chakra 2030,RR Engine Hub",
+      "link": "https://www.youtube.com/watch?v=0-Es0NaD8P4",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-14T17:12:31+05:30",
+      "time": "14 May, 05:12 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/0-Es0NaD8P4/mqdefault.jpg"
+    },
+    {
       "title": "Super Sukhoi Upgrade & Reality",
       "link": "https://www.youtube.com/watch?v=OPsqLw0OxKk",
       "source": "Alpha Defense - Hindi",
@@ -1710,6 +1856,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
