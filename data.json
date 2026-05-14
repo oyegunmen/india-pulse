@@ -1,13 +1,22 @@
 {
   "news": [
     {
-      "title": "Five soldiers, seven militants killed in Pakistan clashes",
-      "link": "https://economictimes.indiatimes.com/news/defence/five-soldiers-seven-militants-killed-in-pakistan-clashes/articleshow/131084182.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-14T12:00:33+05:30",
-      "time": "14 May, 12:00 PM",
+      "title": "Fitch Ratings revises Bangladesh economic outlook to \u2018Negative\u2019 citing rising risks linked to Middle East conflict",
+      "link": "https://www.newsonair.gov.in/fitch-ratings-revises-bangladesh-economic-outlook-to-negative-citing-rising-risks-linked-to-middle-east-conflict/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-14T12:37:25+05:30",
+      "time": "14 May, 12:37 PM",
       "type": "news",
-      "description": "Clashes in Pakistan's Balochistan province resulted in the deaths of five soldiers and seven militants. An improvised explosive device targeted a para..."
+      "description": "Global credit rating agency Fitch Ratings has revised Bangladesh\u2019s economic outlook to \u201cNegative\u201d from \u201cStable\u201d while affirming the country\u2019s Long-Ter..."
+    },
+    {
+      "title": "Rolls-Royce, HAL joint venture doubles down on India manufacturing",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/rolls-royce-hal-joint-venture-doubles-down-on-india-manufacturing/131085122",
+      "source": "Economic Times",
+      "sort_key": "2026-05-14T12:10:07+05:30",
+      "time": "14 May, 12:10 PM",
+      "type": "news",
+      "description": "In a groundbreaking development, International Aerospace Manufacturing Private Ltd\u2014formed through the collaboration of Rolls-Royce and Hindustan Aeron..."
     },
     {
       "title": "BRICS can help countries facing challenges of energy supplies, food and health security: Jaishankar",
@@ -17,6 +26,15 @@
       "time": "14 May, 11:38 AM",
       "type": "news",
       "description": "External Affairs Minister S Jaishankar on Thursday addressed the BRICS Foreign Ministers&rsquo; meeting in the national capital and said the BRICS can..."
+    },
+    {
+      "title": "HFCL to set up \u20b9230 crore defence manufacturing facility in Andhra Pradesh",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/hfcl-invests-230-crore-in-new-defence-manufacturing-facility-in-andhra-pradesh/131084241",
+      "source": "Economic Times",
+      "sort_key": "2026-05-14T11:38:04+05:30",
+      "time": "14 May, 11:38 AM",
+      "type": "news",
+      "description": "The facility will be established in the Sri Satya Sai district and will manufacture Multi-Mode Hand Grenades (MMHG) and similar defence products with ..."
     },
     {
       "title": "Bilateral talks between US President and Chinese President begin in Beijing",
@@ -118,7 +136,7 @@
       "description": "Alongside the Defence Minister, several Ministers have moved to significantly downsize their security convoys to conserve fuel"
     },
     {
-      "title": "Trump-Xi Summit LIVE: Mishandling of Taiwan issue can push US-China ties to \u2018dangerous place\u2019, warns Xi",
+      "title": "Trump-Xi Summit LIVE: Taiwan thanks US for support after China\u2019s \u2018conflict\u2019 warning if issue mishandled",
       "link": "https://indianexpress.com/article/world/donald-trump-xi-jinping-meeting-live-updates-china-iran-war-taiwan-ai-trade-10688448/",
       "source": "The Indian Express",
       "sort_key": "2026-05-14T07:50:07+05:30",
@@ -152,15 +170,6 @@
       "time": "14 May, 02:32 AM",
       "type": "news",
       "description": "The Union Cabinet on Wednesday approved a Rs 37,500 crore coal gasification incentive scheme to promote surface coal and lignite gasification projects..."
-    },
-    {
-      "title": "Three church leaders killed in Manipur militant ambush",
-      "link": "https://www.tribuneindia.com/news/india/three-church-leaders-killed-in-manipur-militant-ambush",
-      "source": "The Tribune",
-      "sort_key": "2026-05-14T02:07:12+05:30",
-      "time": "14 May, 02:07 AM",
-      "type": "news",
-      "description": "In a major attack in troubled Manipur, at least three persons were killed and five others injured after suspected armed militants ambushed two vehicle..."
     },
     {
       "title": "India Still Stands By BRICS",
@@ -487,15 +496,6 @@
       "description": "Pakistan commissioned its first Chinese-built Hangor-class submarine, PNS Hangor, boosting its AIP-equipped fleet to four. This marks the first of eig..."
     },
     {
-      "title": "President Yoweri Museveni Sworn In for Historic Seventh Term in Uganda",
-      "link": "https://www.newsonair.gov.in/yoweri-museveni-sworn-in-for-historic-seventh-term-in-uganda/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-13T12:28:58+05:30",
-      "time": "13 May, 12:28 PM",
-      "type": "news",
-      "description": "Ugandan President Yoweri Museveni has been sworn in for a historic seventh term, extending his 40-year tenure following a landslide victory in January..."
-    },
-    {
       "title": "Payback for help during India-Pakistan war? Iran's jets at Nur Khan airbase trigger memories of 1971",
       "link": "https://economictimes.indiatimes.com/news/defence/payback-for-help-during-india-pakistan-war-irans-jets-at-nur-khan-airbase-trigger-memories-of-1971/articleshow/131057299.cms",
       "source": "Economic Times",
@@ -705,6 +705,56 @@
   ],
   "tweets": [
     {
+      "title": "BRICS foreign ministers meet underway in Delhi. EAM Jaishankar calls for \"unimpeded\" movement through Hormuz, expresses concerns over Gaza.\n\nWill BRICS able to come out with joint statement is something that is awaited. \n\nReporting from Delhi.",
+      "link": "https://nitter.net/sidhant/status/2054828686512447592#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T13:08:30+05:30",
+      "time": "14 May, 01:08 PM",
+      "type": "tweets",
+      "content": "<p>BRICS foreign ministers meet underway in Delhi. EAM Jaishankar calls for \"unimpeded\" movement through Hormuz, expresses concerns over Gaza.<br />\n<br />\nWill BRICS able to come out with joint statement is something that is awaited. <br />\n<br />\nReporting from Delhi.</p>\n<a href=\"https://nitter.net/sidhant/status/2054828686512447592#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054827564812980224%2Fimg%2Fmf6AFRKTJ5ktx2C9.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: EAM Jaishankar welcomes global delegates at Bharat Mandapam for the BRICS Foreign Ministers\u2019 meet \n\nAmong those present were Iranian Foreign Minister Abbas Araghchi, Russian Foreign Minister Sergey Lavrov, Indonesian Foreign Minister Sugiono and several other foreign ministers and senior representatives from BRICS nations and partner countries. \n\n@kanishka9996 and @sidhant have more",
+      "link": "https://nitter.net/WIONews/status/2054827997103063314#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T13:05:46+05:30",
+      "time": "14 May, 01:05 PM",
+      "type": "tweets",
+      "content": "<p>EAM Jaishankar welcomes global delegates at Bharat Mandapam for the BRICS Foreign Ministers\u2019 meet <br />\n<br />\nAmong those present were Iranian Foreign Minister Abbas Araghchi, Russian Foreign Minister Sergey Lavrov, Indonesian Foreign Minister Sugiono and several other foreign ministers and senior representatives from BRICS nations and partner countries. <br />\n<br />\n<a href=\"https://nitter.net/kanishka9996\" title=\"Kanishka Sarkar\">@kanishka9996</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2054827997103063314#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054827564812980224%2Fimg%2Fmf6AFRKTJ5ktx2C9.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "I think it is a welcome step. For years, our system has focused more on rejection than selection. This move will widen the supply base.",
+      "link": "https://nitter.net/alpha_defense/status/2054819965673644180#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-14T12:33:51+05:30",
+      "time": "14 May, 12:33 PM",
+      "type": "tweets",
+      "content": "<p>I think it is a welcome step. For years, our system has focused more on rejection than selection. This move will widen the supply base.</p>\n<img src=\"https://nitter.net/pic/media%2FHIQvcTHbQAAVpK-.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Iran Foreign minister Araghchi at BRICS FMs meet",
+      "link": "https://nitter.net/sidhant/status/2054818647521341597#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T12:28:36+05:30",
+      "time": "14 May, 12:28 PM",
+      "type": "tweets",
+      "content": "<p>Iran Foreign minister Araghchi at BRICS FMs meet</p>\n<img src=\"https://nitter.net/pic/media%2FHIQuqnEa4AAkAvz.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The first session of BRICS FMs meet is almost over. The FMs will go for a joint call on with PM Modi now.",
+      "link": "https://nitter.net/sidhant/status/2054818013770395954#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-14T12:26:05+05:30",
+      "time": "14 May, 12:26 PM",
+      "type": "tweets",
+      "content": "<p>The first session of BRICS FMs meet is almost over. The FMs will go for a joint call on with PM Modi now.</p>",
+      "author": "@sidhant"
+    },
+    {
       "title": "RT by @Goreunit: BSF killed a Bangladeshi intruder who was approaching to barbed wires of the border.",
       "link": "https://nitter.net/DefenceSphere/status/2054813450619277442#m",
       "source": "War & Gore",
@@ -801,7 +851,7 @@
       "sort_key": "2026-05-14T11:54:26+05:30",
       "time": "14 May, 11:54 AM",
       "type": "tweets",
-      "content": "<p>There is a growing expectation, particularly from emerging markets and developing countries, that BRICS will play a constructive and stabilizing role, EAM Jaishankar tells BRICS FMs<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1YxNrZmdrDoxw\">nitter.net/i/broadcasts/1YxNrZmdr\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054816709039759360%2Fe_Yz88mh%3Fformat%3Djpg%26name%3D800x419\" />",
+      "content": "<p>There is a growing expectation, particularly from emerging markets and developing countries, that BRICS will play a constructive and stabilizing role, EAM Jaishankar tells BRICS FMs<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1YxNrZmdrDoxw\">nitter.net/i/broadcasts/1YxNrZmdr\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2054829354157477888%2FLecm-p7M%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@sidhant"
     },
     {
@@ -942,46 +992,6 @@
       "time": "14 May, 11:20 AM",
       "type": "tweets",
       "content": "<p>EAM Dr Jaishankar at BRICS<br />\n<br />\nNational statement <br />\n\"The conflict in Gaza has grave humanitarian implications. A sustained ceasefire, humanitarian access, &amp; a credible pathway towards a durable and peaceful resolution remain essential\"</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Dr Jaishankar at BRICS FMs meet\n\nNational statement \n\"Safe and unimpeded maritime flows through international waterways, including the Strait of Hormuz and Red Sea, remain vital for global economic well-being.\"",
-      "link": "https://nitter.net/sidhant/status/2054801242388639992#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T11:19:27+05:30",
-      "time": "14 May, 11:19 AM",
-      "type": "tweets",
-      "content": "<p>EAM Dr Jaishankar at BRICS FMs meet<br />\n<br />\nNational statement <br />\n\"Safe and unimpeded maritime flows through international waterways, including the Strait of Hormuz and Red Sea, remain vital for global economic well-being.\"</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Dr Jaishankar at BRICS FMs meet\n\nNational statement \n\"The conflict in West Asia merits particular attention. Continuing tensions, risks to maritime traffic, and disruptions to energy infrastructure highlight the fragility of the situation.\"",
-      "link": "https://nitter.net/sidhant/status/2054801226177638733#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T11:19:23+05:30",
-      "time": "14 May, 11:19 AM",
-      "type": "tweets",
-      "content": "<p>EAM Dr Jaishankar at BRICS FMs meet<br />\n<br />\nNational statement <br />\n\"The conflict in West Asia merits particular attention. Continuing tensions, risks to maritime traffic, and disruptions to energy infrastructure highlight the fragility of the situation.\"</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Dr Jaishankar at BRICS FMs meet\n\nNational statement \n\"Dialogue and diplomacy are the only sustainable means of resolving conflicts\"",
-      "link": "https://nitter.net/sidhant/status/2054801054320283745#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T11:18:42+05:30",
-      "time": "14 May, 11:18 AM",
-      "type": "tweets",
-      "content": "<p>EAM Dr Jaishankar at BRICS FMs meet<br />\n<br />\nNational statement <br />\n\"Dialogue and diplomacy are the only sustainable means of resolving conflicts\"</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Dr Jaishankar at BRICS FMs meet\n\nNational statement \n\"India reaffirms its strong commitment to the purposes and principles of the Charter of the United Nations. Respect for sovereignty and territorial integrity must remain the foundation of international relations\"",
-      "link": "https://nitter.net/sidhant/status/2054801020480524642#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-14T11:18:34+05:30",
-      "time": "14 May, 11:18 AM",
-      "type": "tweets",
-      "content": "<p>EAM Dr Jaishankar at BRICS FMs meet<br />\n<br />\nNational statement <br />\n\"India reaffirms its strong commitment to the purposes and principles of the Charter of the United Nations. Respect for sovereignty and territorial integrity must remain the foundation of international relations\"</p>",
       "author": "@sidhant"
     },
     {
@@ -1385,6 +1395,16 @@
       "author": "@DefenceSphere"
     },
     {
+      "title": "\ud83d\udea8 Picture of the Pakistani terrorist eliminated at the Krishna ghati sector LoC by the Indian Army.\n\n\ud83d\udccd Pakistani terrorist carrying an IED infiltrated from behind Pak Army Post 642 Mujahid Battalion near Krishna Ghati sector.\n\n\ud83d\udccd Indian Army tracked the movement from the Pakistani side itself and neutralised the terrorist the moment he crossed the LoC.\n\n\ud83d\udccd Weapons, IED material and equipment recovered. Body handed over to J&K Police.\n\n\ud83d\udccd Pakistan continues using civilian areas as shields for terror camps and launch pads, knowing well that the Indian Army does not target civilians.\n\nUncensored pic posted on our TG channel \ud83d\udc47 \n\nhttps://t.me/OsntTV/41869\n\n\ud83d\ude4f",
+      "link": "https://nitter.net/OsintTV/status/2054445186906788167#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-13T11:44:36+05:30",
+      "time": "13 May, 11:44 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Picture of the Pakistani terrorist eliminated at the Krishna ghati sector LoC by the Indian Army.<br />\n<br />\n\ud83d\udccd Pakistani terrorist carrying an IED infiltrated from behind Pak Army Post 642 Mujahid Battalion near Krishna Ghati sector.<br />\n<br />\n\ud83d\udccd Indian Army tracked the movement from the Pakistani side itself and neutralised the terrorist the moment he crossed the LoC.<br />\n<br />\n\ud83d\udccd Weapons, IED material and equipment recovered. Body handed over to J&amp;K Police.<br />\n<br />\n\ud83d\udccd Pakistan continues using civilian areas as shields for terror camps and launch pads, knowing well that the Indian Army does not target civilians.<br />\n<br />\nUncensored pic posted on our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV/41869\">t.me/OsntTV/41869</a><br />\n<br />\n\ud83d\ude4f</p>\n<img src=\"https://nitter.net/pic/media%2FHILa_71XAAAW6xK.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
       "title": "Report : Following Prime Minister Narendra Modi\u2019s appeal for restraint and efficiency, Union Home Minister Amit Shah also downsized his convoy, reportedly reducing it to less than half.\n\nShouldn\u2019t Auto makers capitalise on this moment and accelerate EV infra ?",
       "link": "https://nitter.net/alpha_defense/status/2054441272132476993#m",
       "source": "Alpha Defense",
@@ -1585,16 +1605,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Work from home continues in Pakistan - Yet another attack",
-      "link": "https://nitter.net/alpha_defense/status/2054202329394815381#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-12T19:39:35+05:30",
-      "time": "12 May, 07:39 PM",
-      "type": "tweets",
-      "content": "<p>Work from home continues in Pakistan - Yet another attack</p>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "ISPR getting cooked by Israeli PM himself...",
       "link": "https://nitter.net/Goreunit/status/2054202038242984307#m",
       "source": "War & Gore",
@@ -1701,7 +1711,7 @@
       "sort_key": "2026-05-12T16:36:12+05:30",
       "time": "12 May, 04:36 PM",
       "type": "tweets",
-      "content": "<p>Beautiful Visuals from North East after a long time. <br />\nHappy Hunting AR</p>\n<hr />\n<blockquote>\n<b>Defence Sphere (@DefenceSphere)</b>\n<p>\n<p>Two insurgents of NSCN have been sent to hell by Assam rifles in eastern Arunachal Pradesh\u2019s Changlang district.</p>\n<img src=\"https://nitter.net/pic/media%2FHIHT-MVawAAew7N.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceSphere/status/2054155982041968812#m\">https://nitter.net/DefenceSphere/status/2054155982041968812#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Beautiful Visuals from North East after a long time. <br />\nHappy Hunting AR</p>",
       "author": "@Goreunit"
     },
     {
@@ -1735,8 +1745,63 @@
       "author": "@Grey_Wolf19"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Turkey Ko Mila Warning!,K5 missile test,secret Missile force of India,AMCA Engine New Offer",
+      "link": "https://www.youtube.com/watch?v=MrHJAWP0pK4",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-14T07:30:04+05:30",
+      "time": "14 May, 07:30 AM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/MrHJAWP0pK4/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - India Pvt. AMCA, Pvt. Ballistic Missile, China J20 Dark Factory, PAK New Submarine",
+      "link": "https://www.youtube.com/watch?v=VbJyr6foWew",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-13T21:36:02+05:30",
+      "time": "13 May, 09:36 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/VbJyr6foWew/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : AMCA Bid Stage,Durga-2 on Warship,RR Local Engine,Ballistic PVT Sector",
+      "link": "https://www.youtube.com/watch?v=T-G-l8kWq9Q",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-13T17:08:13+05:30",
+      "time": "13 May, 05:08 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/T-G-l8kWq9Q/mqdefault.jpg"
+    },
+    {
+      "title": "What\u2019s Delaying the Mk1A?",
+      "link": "https://www.youtube.com/watch?v=lEj8yY-91Q4",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-12T22:04:22+05:30",
+      "time": "12 May, 10:04 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/lEj8yY-91Q4/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - Iran Aircraft In Nur Khan Airbase, Tejas Mk1A Delayed Again, PAK Double Game US",
+      "link": "https://www.youtube.com/watch?v=Bs-r1N5kvTc",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-12T21:57:42+05:30",
+      "time": "12 May, 09:57 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/Bs-r1N5kvTc/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : GCAP 6th Gen Entry,Tejas MK1A Delayed,C295 Rollout,220 Next-Gen Air Defence",
+      "link": "https://www.youtube.com/watch?v=CczuywCp18k",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-12T17:50:56+05:30",
+      "time": "12 May, 05:50 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/CczuywCp18k/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
