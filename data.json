@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "title": "\u2018Dangerous escalation\u2019: Why UAE is terming strike on Indian ship off Oman a \u2018terrorist attack\u2019",
+      "link": "https://indianexpress.com/article/world/dangerous-escalation-why-uae-is-terming-strike-on-indian-ship-off-oman-a-terrorist-attack-10690681/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-15T17:12:42+05:30",
+      "time": "15 May, 05:12 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "All set for AMCA flight testing centre ground breaking in Andhra\u2019s Puttaparthi",
+      "link": "https://defencemonitor.in/all-set-for-amca-flight-testing-centre-ground-breaking-in-andhras-puttaparthi/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-05-15T16:50:23+05:30",
+      "time": "15 May, 04:50 PM",
+      "type": "news",
+      "description": "<p>Amaravati, May 14 (IANS) Puttaparthi in Andhra Pradesh\u2019s Sri Sathya Sai district is set to witness ground breaking of the Advanced Medium Combat Ai..."
+    },
+    {
+      "title": "India\u2019s domestic defence production grows to Rs 1.5 lakh crore in 10 years: Rajnath Singh",
+      "link": "https://defencemonitor.in/indias-domestic-defence-production-grows-to-rs-1-5-lakh-crore-in-10-years-rajnath-singh/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-05-15T16:49:30+05:30",
+      "time": "15 May, 04:49 PM",
+      "type": "news",
+      "description": "<p>Puttaparthi (Andhra Pradesh), May 15 (IANS) India\u2019s domestic defence production has reached a record high of Rs 1.5 lakh crore from a mere Rs 46,00..."
+    },
+    {
+      "title": "Trump says he hasn't determined whether to move forward on major arms package for Taiwan",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-he-hasnt-determined-whether-to-move-forward-on-major-arms-package-for-taiwan/articleshow/131116026.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-15T16:45:55+05:30",
+      "time": "15 May, 04:45 PM",
+      "type": "news",
+      "description": "US President Donald Trump has not yet decided on a significant arms sale to Taiwan. This comes after his recent three-day visit to China. Beijing stro..."
+    },
+    {
+      "title": "Drones no longer enablers, they\u2019re replacing manned aircraft roles\u2014CISC Air Marshal Ashutosh Dixit",
+      "link": "https://theprint.in/defence/drones-no-longer-enablers-theyre-replacing-manned-aircraft-roles-cisc-air-marshal-ashutosh-dixit/2932205/",
+      "source": "The Print",
+      "sort_key": "2026-05-15T16:43:49+05:30",
+      "time": "15 May, 04:43 PM",
+      "type": "news",
+      "description": "Speaking at IAF think-tank seminar, Air Marshal Dixit was backed by Air Chief Marshal A.P. Singh, who said unmanned aerial systems are no longer just ..."
+    },
+    {
+      "title": "Indian AI combat drone \u2018Kaal Bhairava\u2019 to enter European manufacturing network",
+      "link": "https://defencemonitor.in/indian-ai-combat-drone-kaal-bhairava-to-enter-european-manufacturing-network/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-05-15T16:42:55+05:30",
+      "time": "15 May, 04:42 PM",
+      "type": "news",
+      "description": "<p>New Delhi, May 15 (IANS) In a major boost to India\u2019s ambitions of becoming a global defence manufacturing hub, Indian AI warfare company FWDA on Fr..."
+    },
+    {
+      "title": "Change of Command of Software Development Institute",
+      "link": "https://www.indiastrategic.in/change-of-command-of-software-development-institute/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-15T16:39:39+05:30",
+      "time": "15 May, 04:39 PM",
+      "type": "news",
+      "description": "<p>Bengaluru, May 15, 2026. Air Vice Marshal Sarabjit Singh, VSM assumed charge as Commandant of Software Development Institute (SDI), Air Force, Beng..."
+    },
+    {
+      "title": "Indian Autonomous Combat Aircraft Kaal Bhairava to be manufactured in Europe Under Operation 777",
+      "link": "https://www.indiastrategic.in/indian-autonomous-combat-aircraft-kaal-bhairava-to-be-manufactured-in-europe-under-operation-777/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-15T16:26:04+05:30",
+      "time": "15 May, 04:26 PM",
+      "type": "news",
+      "description": "<p>May 14, 2026. For seven decades, India bought fighter jets from Russia, France, and America. Today, an Indian AI warfare company is set to manufact..."
+    },
+    {
       "title": "Pakistan hails RSS leader\u2019s push for India-Pak dialogue despite terror concerns",
       "link": "https://www.tribuneindia.com/news/india/pakistan-hails-rss-leaders-push-for-india-pak-dialogue-despite-terror-concerns",
       "source": "The Tribune",
@@ -8,6 +80,15 @@
       "time": "15 May, 04:13 PM",
       "type": "news",
       "description": "Pakistan has welcomed recent remarks by RSS general secretary Dattatreya Hosabale, advocating dialogue with Islamabad, describing voices within India ..."
+    },
+    {
+      "title": "Inside the US Strategy to Lead the AI Economy",
+      "link": "https://www.indiastrategic.in/inside-the-us-strategy-to-lead-the-ai-economy/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-15T16:06:34+05:30",
+      "time": "15 May, 04:06 PM",
+      "type": "news",
+      "description": "<p>By Charvi Arora New Delhi. As governments around the world race to shape the future of artificial intelligence (AI), the United States is positioni..."
     },
     {
       "title": "Eight Pakistani troops killed in nighttime storming of border outpost",
@@ -89,24 +170,6 @@
       "time": "15 May, 01:05 PM",
       "type": "news",
       "description": "The centre at IIT Dharwad will focus on materials science, failure analysis and process optimisation for high-precision manufacturing industries."
-    },
-    {
-      "title": "UAE condemns 'terrorist' attack on Indian-flagged vessel near Oman coast; calls it 'dangerous escalation'",
-      "link": "https://www.newindianexpress.com/world/2026/May/15/uae-condemns-terrorist-attack-on-indian-flagged-vessel-near-oman-coast-calls-it-dangerous-escalation",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-15T12:51:05+05:30",
-      "time": "15 May, 12:51 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Trump, Xi wrap up summit claiming progress stabilizing US-China relations but differences persist",
-      "link": "https://www.newindianexpress.com/world/2026/May/15/trump-xi-wrap-up-summit-claiming-progress-stabilizing-us-china-relations-but-differences-persist",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-15T12:34:51+05:30",
-      "time": "15 May, 12:34 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "What makes the Rs 90,000-crore Great Nicobar Island project critical for India both militarily and economically",
@@ -226,7 +289,7 @@
       "description": ""
     },
     {
-      "title": "Iran US War News LIVE Updates: Iran US War News LIVE Updates: All vessels, except those at war with us, can pass through Hormuz, says Iran FM in India",
+      "title": "Iran US War News LIVE Updates: Tehran has \u2018no trust\u2019 in US, \u2018will negotiate only if it is serious\u2019, says Iran FM in India",
       "link": "https://indianexpress.com/article/world/iran-us-war-live-updates-trump-hormuz-strait-tolls-xi-jinping-10690284/",
       "source": "The Indian Express",
       "sort_key": "2026-05-15T08:47:52+05:30",
@@ -631,15 +694,6 @@
       "description": "The facility will be established in the Sri Satya Sai district and will manufacture Multi-Mode Hand Grenades (MMHG) and similar defence products with ..."
     },
     {
-      "title": "Minister of State for Defence to inaugurate Kalam & Kavach 3.0 themed \u2018Taking JAI Forward With I\u00b2\u2019",
-      "link": "https://www.indiastrategic.in/minister-of-state-for-defence-to-inaugurate-kalam-kavach-3-0-themed-taking-jai-forward-with-i%c2%b2/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-14T11:12:29+05:30",
-      "time": "14 May, 11:12 AM",
-      "type": "news",
-      "description": "<p>New Delhi, May 13. Minister of State for Defence Sanjay Seth will inaugurate the third edition of Kalam &#38; Kavach at Manekshaw Centre, New Delhi..."
-    },
-    {
       "title": "Defence Ministry pushes TReDS adoption to speed up MSME payments",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/defence-ministry-pushes-treds-adoption-to-speed-up-msme-payments/131083585",
       "source": "Economic Times",
@@ -721,15 +775,6 @@
       "description": "Security forces have launched an operation to recover Naxal dumps in Bastar with the inputs by the surrendered Maoists, intelligence and local communi..."
     },
     {
-      "title": "Modi\u2019s UAE visit and why it matters",
-      "link": "https://www.indiastrategic.in/modis-uae-visit-and-why-it-matters/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-13T21:35:50+05:30",
-      "time": "13 May, 09:35 PM",
-      "type": "news",
-      "description": "<p>By Simran Sodhi New Delhi. Prime Minister Narendra Modi is scheduled to visit the United Arab Emirates (UAE) on May 15, in a short visit, lasting m..."
-    },
-    {
       "title": "India\u2019s first privately built military aircraft, C-295 ready; set for rollout by Tatas in Gujarat",
       "link": "https://economictimes.indiatimes.com/news/defence/indias-first-privately-built-military-aircraft-c-295-ready-set-for-rollout-by-tatas-in-gujarat/videoshow/131070513.cms",
       "source": "Economic Times",
@@ -746,15 +791,6 @@
       "time": "13 May, 09:08 PM",
       "type": "news",
       "description": "Ukraine faced a massive drone assault from Russia. At least 800 drones were launched, resulting in six fatalities. President Volodymyr Zelensky stated..."
-    },
-    {
-      "title": "AI to Power India\u2019s Next Economic Leap: IBM-IndiaAI study finds AI could add over $500 Billion to India\u2019s Economy by 2030",
-      "link": "https://www.indiastrategic.in/ai-to-power-indias-next-economic-leap-ibm-indiaai-study-finds-ai-could-add-over-500-billion-to-indias-economy-by-2030/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-13T20:49:14+05:30",
-      "time": "13 May, 08:49 PM",
-      "type": "news",
-      "description": "<p>80% of Indian business leaders say AI will directly help shape nation\u2019s economic trajectory, as India propels to become global AI powerhouse 73% of..."
     },
     {
       "title": "Russia assures it will fulfil energy pacts with India despite global tensions",
@@ -818,36 +854,59 @@
       "time": "13 May, 05:43 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Russia renews hardline demands for ending Ukraine war",
-      "link": "https://economictimes.indiatimes.com/news/defence/russia-renews-hardline-demands-for-ending-ukraine-war/articleshow/131064633.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-13T17:12:27+05:30",
-      "time": "13 May, 05:12 PM",
-      "type": "news",
-      "description": "Russia has reiterated its firm stance on ending the Ukraine war. Moscow insists Ukraine must withdraw its forces from the Donbas region for any ceasef..."
-    },
-    {
-      "title": "Israel steps up attacks on Gaza since Iran truce, as military says Hamas rearming",
-      "link": "https://indianexpress.com/article/world/israel-attacks-gaza-iran-us-truce-military-hamas-rearming-10687541/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-13T17:05:55+05:30",
-      "time": "13 May, 05:05 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "SPH Aviation launches iQuantara brand for indigenous defence drone technology",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/sph-aviation-launches-iquantara-brand-for-indigenous-defence-drone-technology/131063666",
-      "source": "Economic Times",
-      "sort_key": "2026-05-13T16:40:21+05:30",
-      "time": "13 May, 04:40 PM",
-      "type": "news",
-      "description": "The Gurugram-based company plans to develop mission-ready unmanned aerial systems for surveillance, border monitoring and tactical operations as part ..."
     }
   ],
   "tweets": [
+    {
+      "title": "MEA presser on BRICS foreign ministers meet begins",
+      "link": "https://nitter.net/sidhant/status/2055254211739414710#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-15T17:19:23+05:30",
+      "time": "15 May, 05:19 PM",
+      "type": "tweets",
+      "content": "<p>MEA presser on BRICS foreign ministers meet begins</p>\n<img src=\"https://nitter.net/pic/media%2FHIW6zZ6a4AA4qBI.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Last presser of the day",
+      "link": "https://nitter.net/sidhant/status/2055249082176946276#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-15T16:59:00+05:30",
+      "time": "15 May, 04:59 PM",
+      "type": "tweets",
+      "content": "<p>Last presser of the day</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Shortly, MEA presser on BRICS foreign ministers meet<br />\n<br />\nJS MER Shambhu Hakki<br />\nSecretary ER Sudhakar Dalela<br />\nOSD PR Vasudev Ravi</p>\n<img src=\"https://nitter.net/pic/media%2FHIWzoFhbcAAVNXy.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2055246319300882681#m\">https://nitter.net/sidhant/status/2055246319300882681#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Shortly, MEA presser on BRICS foreign ministers meet\n\nJS MER Shambhu Hakki\nSecretary ER Sudhakar Dalela\nOSD PR Vasudev Ravi",
+      "link": "https://nitter.net/sidhant/status/2055246319300882681#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-15T16:48:01+05:30",
+      "time": "15 May, 04:48 PM",
+      "type": "tweets",
+      "content": "<p>Shortly, MEA presser on BRICS foreign ministers meet<br />\n<br />\nJS MER Shambhu Hakki<br />\nSecretary ER Sudhakar Dalela<br />\nOSD PR Vasudev Ravi</p>\n<img src=\"https://nitter.net/pic/media%2FHIWzoFhbcAAVNXy.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: Iranian Foreign Minister Araghchi addresses a news conference\n\nIran FM: India can play a greater role in promoting peace\n\n@sidhant joins @Mohammed11Saleh with more details",
+      "link": "https://nitter.net/WIONews/status/2055244084126814620#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-15T16:39:08+05:30",
+      "time": "15 May, 04:39 PM",
+      "type": "tweets",
+      "content": "<p>Iranian Foreign Minister Araghchi addresses a news conference<br />\n<br />\nIran FM: India can play a greater role in promoting peace<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> joins <a href=\"https://nitter.net/Mohammed11Saleh\" title=\"Mohammed Saleh\">@Mohammed11Saleh</a> with more details</p>\n<a href=\"https://nitter.net/WIONews/status/2055244084126814620#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055243232737718273%2Fimg%2Fmw5V-MunrKvY0Yss.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Dispatches from the ground.\n\nSumming up the key takeaways from Iran foreign minister Araghchi's Delhi press conference @WIONews",
+      "link": "https://nitter.net/sidhant/status/2055239298992210141#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-15T16:20:08+05:30",
+      "time": "15 May, 04:20 PM",
+      "type": "tweets",
+      "content": "<p>Dispatches from the ground.<br />\n<br />\nSumming up the key takeaways from Iran foreign minister Araghchi's Delhi press conference <a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<a href=\"https://nitter.net/sidhant/status/2055239298992210141#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055239168092221440%2Fpu%2Fimg%2FDwU49VW3DJQmwJiP.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Americans shift the goal post, says Iran Foreign minister Araghchi",
       "link": "https://nitter.net/sidhant/status/2055235258946335016#m",
@@ -939,16 +998,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Aftermath of last night\u2019s attack on the Bajaur camp.\n\nAccording to reports, at least eight Pakistani soldiers were killed in the incident.",
-      "link": "https://nitter.net/OsintTV/status/2055230816045723875#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-15T15:46:25+05:30",
-      "time": "15 May, 03:46 PM",
-      "type": "tweets",
-      "content": "<p>Aftermath of last night\u2019s attack on the Bajaur camp.<br />\n<br />\nAccording to reports, at least eight Pakistani soldiers were killed in the incident.</p>\n<a href=\"https://nitter.net/OsintTV/status/2055230816045723875#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055230579050749952%2Fimg%2FD2VMCKvpbNAH3gmD.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "India has been customer of Iranian oil. It has been stopped by India due to US unilateral sanctions. We are interested to continue oil business. We want to sell oil to India: Iran Foreign minister Araghchi",
       "link": "https://nitter.net/sidhant/status/2055230677256442007#m",
       "source": "Sidhant Sibal",
@@ -1016,56 +1065,6 @@
       "time": "15 May, 03:44 PM",
       "type": "tweets",
       "content": "<p>We have good relationship with India, says Iran FM Araghchi</p>\n<a href=\"https://nitter.net/sidhant/status/2055230206244429875#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055227854464671745%2Fpu%2Fimg%2FkctHzLmwV7J_uTD6.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Contradictory messages from US, says Iran FM Araghchi",
-      "link": "https://nitter.net/sidhant/status/2055230205963419875#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-15T15:44:00+05:30",
-      "time": "15 May, 03:44 PM",
-      "type": "tweets",
-      "content": "<p>Contradictory messages from US, says Iran FM Araghchi</p>\n<a href=\"https://nitter.net/sidhant/status/2055230205963419875#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055227441271156736%2Fpu%2Fimg%2FNZE_Z3OcJXeJOe-D.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We are interested in negotiations,  only if ever side is serious. We have every reason not to trust Americans, Iran Foreign minister Araghchi said in Delhi press conference",
-      "link": "https://nitter.net/sidhant/status/2055226382578553157#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-15T15:28:48+05:30",
-      "time": "15 May, 03:28 PM",
-      "type": "tweets",
-      "content": "<p>We are interested in negotiations,  only if ever side is serious. We have every reason not to trust Americans, Iran Foreign minister Araghchi said in Delhi press conference</p>\n<a href=\"https://nitter.net/sidhant/status/2055226382578553157#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055226262675955712%2Fpu%2Fimg%2FufjdpxLDJcrMmBDU.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Its a \"shaky ceasefire\", says Iran Foreign minister Araghchi in Delhi; But points \"diplomacy must be given a chance\". Slams American sanctions",
-      "link": "https://nitter.net/sidhant/status/2055225811532431383#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-15T15:26:32+05:30",
-      "time": "15 May, 03:26 PM",
-      "type": "tweets",
-      "content": "<p>Its a \"shaky ceasefire\", says Iran Foreign minister Araghchi in Delhi; But points \"diplomacy must be given a chance\". Slams American sanctions</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We appreciate assistance by Indian govt, says Foreign Minister Araghchi",
-      "link": "https://nitter.net/sidhant/status/2055225684222714282#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-15T15:26:02+05:30",
-      "time": "15 May, 03:26 PM",
-      "type": "tweets",
-      "content": "<p>We appreciate assistance by Indian govt, says Foreign Minister Araghchi</p>\n<a href=\"https://nitter.net/sidhant/status/2055225684222714282#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055225576949166080%2Fpu%2Fimg%2FR6Y5H46UjY_gLAjn.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We always had very good relationship with India, says Iran FM Araghchi",
-      "link": "https://nitter.net/sidhant/status/2055225257779445888#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-15T15:24:20+05:30",
-      "time": "15 May, 03:24 PM",
-      "type": "tweets",
-      "content": "<p>We always had very good relationship with India, says Iran FM Araghchi</p>\n<img src=\"https://nitter.net/pic/media%2FHIWgeAZbYAAFGSc.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1555,7 +1554,7 @@
       "sort_key": "2026-05-14T22:30:52+05:30",
       "time": "14 May, 10:30 PM",
       "type": "tweets",
-      "content": "<p>\ud83d\udea8Loi Mamond tehsil of Bajaur KP<br />\n<br />\n12+ NaPak soldiers have been liquidated in the suicide blast by TTP. <br />\n<br />\n4th consecutive attack in the last 7 days.</p>",
+      "content": "<p>\ud83d\udea8Loi Mamond tehsil of Bajaur KP<br />\n<br />\n12+ NaPak soldiers have been liquidated in the suicide blast by TTP. <br />\n<br />\n4th consecutive attack in the last 7 days.</p>\n<hr />\n<blockquote>\n<b>Defence Sphere (@DefenceSphere)</b>\n<p>\n<p>Visuals from KPK Bajaur, <br />\nNaPak soldiers are licking the dust after getting liquidated.</p>\n<a href=\"https://nitter.net/DefenceSphere/status/2054968714337087583#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2054951919529984000%2Fpu%2Fimg%2FNeS1YBYM8q6kIQKp.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceSphere/status/2054968714337087583#m\">https://nitter.net/DefenceSphere/status/2054968714337087583#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1587,16 +1586,6 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief:<br />\n<br />\n14th May 2026<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf A Panama-flagged Japanese-linked VLCC Eneos Endeavor, with 4 Japanese crew members, has transited the Strait of Hormuz, and is bound for Japan. This marks the second such safe passage.<br />\n<br />\n\u25cf In bilateral talks in Beijing, US and China agreed that Iran must never acquire a nuclear weapon, and emphasized maintaining stability in Strait of Hormuz to ensure secure energy flows.<br />\n<br />\n\u25cf Two India-bound LPG carriers, SYMI and NV SUNSHINE, have successfully transited the Strait of Hormuz after loading in the Gulf.<br />\n<br />\n\u25cf UKMTO reported that armed Iranian personnel boarded and seized a vessel while at anchor 38nm northeast of port of Fujairah. The vessel immediately cut its tracking signal and was forced into Iranian waters.<br />\n<br />\n\u25cf CENTCOM has redirected 70 commercial vessels and disabled 4 to ensure compliance.<br />\n<br />\n\u25cf The 11-nation BRICS Foreign Ministers' Meeting officially commenced in New Delhi. Iranian FM Araghchi asks the committee to condemn US-Israeli blockades.<br />\n<br />\n\u25cfAn Indian-flagged vessel, MSV Haji Ali, was attacked and sank today in Omani waters. The Omani Coast Guard successfully rescued all 14 crew members.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHISr2OXa4AAkxC1.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:    <br />\n<br />\n13th May 2026    <br />\n<br />\n - We will be posting daily war updates on the ongoing war in Middle East   <br />\n  - \u2060Follow us for daily Brief<br />\n<br />\n\u25cf Trump arrived in Beijing for a 3-day summit, accompanied by Elon Musk and NVIDIA CEO Jensen Huang. A major goal is to pressure President Xi Jinping into cutting economic and technological lifelines to Tehran.<br />\n<br />\n\u25cf NATO has invited Bahrain, Kuwait, Qatar, and the UAE to an upcoming summit with Iran-related security concerns on the agenda.<br />\n<br />\n\u25cf Chinese-linked VLCC Yuan Hua Hu is transiting the Strait of Hormuz via Iranian lanes. If successful, it would mark the third such Chinese tanker crossing since the conflict began.<br />\n<br />\n\u25cf The Chinese Embassy in the US has defined four 'red lines' in bilateral relations that must not be challenged: the Taiwan question, issues of democracy & human rights, differences in political systems, and China's development rights.<br />\n<br />\n\u25cf The IDF and Shin Bet eliminated a Hamas operative who took part in the October 7 attack on the Nahal Oz outpost, where Israeli soldiers were killed and kidnapped.<br />\n<br />\n\u25cf Iranian FM Araghchi departed for the BRICS Foreign Ministers\u2019 meeting in New Delhi. Meanwhile, Chinese FM Wang Yi canceled his attendance to remain in Beijing for high-stakes bilateral talks with Trump.<br />\n<br />\nEND OF THE BRIEF.</p>\n<img src=\"https://nitter.net/pic/media%2FHINcf39acAAAYlG.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2054587626368413962#m\">https://nitter.net/NetramDefence/status/2054587626368413962#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "\ud83d\udea8Viewers Discretion Advised \n\nReportedly an attack is carried on Pakistani scout camp in Bajaur, KP, armed fighters have entered compound.\n\nMore details awaited...",
-      "link": "https://nitter.net/OsintTV/status/2054955058475806781#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-14T21:30:39+05:30",
-      "time": "14 May, 09:30 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Viewers Discretion Advised <br />\n<br />\nReportedly an attack is carried on Pakistani scout camp in Bajaur, KP, armed fighters have entered compound.<br />\n<br />\nMore details awaited...</p>\n<a href=\"https://nitter.net/OsintTV/status/2054955058475806781#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054954885154521088%2Fimg%2F5q9Jl7qM1Y9Jrvdx.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "2 more through after 13 May incident",
@@ -1755,7 +1744,7 @@
       "sort_key": "2026-05-14T14:01:50+05:30",
       "time": "14 May, 02:01 PM",
       "type": "tweets",
-      "content": "<p>Few more pictures of Jaish terrorist Rahoom Arif Hassan<br />\n<br />\nHe was a relative of Masood Azhar and was 72'd in Operation Sindoor strikes on the Syedna Bilal camp, Muzaffarabad.</p>\n<img src=\"https://nitter.net/pic/media%2FHIRD5KRaoAAkSHl.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIRD5KhbQAAh5cL.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIRD5I0bMAEre89.jpg\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Exclusive: Hassan, a relative of Masood Azhar, lies hoorified after being 72\u2019d in Operation Sindoor strikes on Syedna Bilal camp, Muzaffarabad.</p>\n<img src=\"https://nitter.net/pic/media%2FHIHUZT8aYAAdLuY.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIHUZT8aIAAooln.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2054156602056618169#m\">https://nitter.net/elitepredatorss/status/2054156602056618169#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Few more pictures of Jaish terrorist Rahoom Arif Hassan<br />\n<br />\nHe was a relative of Masood Azhar and was 72'd in Operation Sindoor strikes on the Syedna Bilal camp, Muzaffarabad.</p>\n<img src=\"https://nitter.net/pic/media%2FHIRD5KRaoAAkSHl.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIRD5KhbQAAh5cL.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIRD5I0bMAEre89.jpg\" />",
       "author": "@elitepredatorss"
     },
     {
@@ -1967,16 +1956,6 @@
       "type": "tweets",
       "content": "<p>Cabinet approves Upgradation and Modernisation of Nagpur International Airport through long term license involving Private Partner under Public Private Partnership</p>\n<img src=\"https://nitter.net/pic/media%2FHIM4UzLa0AArMRo.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Old man's cavalcade cut down should be unacceptable.\n\nGood for symbolism but he is not a person whose security should be compromised for a minute.",
-      "link": "https://nitter.net/elitepredatorss/status/2054522354919952684#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-13T16:51:15+05:30",
-      "time": "13 May, 04:51 PM",
-      "type": "tweets",
-      "content": "<p>Old man's cavalcade cut down should be unacceptable.<br />\n<br />\nGood for symbolism but he is not a person whose security should be compromised for a minute.</p>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -2060,18 +2039,9 @@
       "time": "13 May, 09:36 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/VbJyr6foWew/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : AMCA Bid Stage,Durga-2 on Warship,RR Local Engine,Ballistic PVT Sector",
-      "link": "https://www.youtube.com/watch?v=T-G-l8kWq9Q",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-13T17:08:13+05:30",
-      "time": "13 May, 05:08 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/T-G-l8kWq9Q/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
