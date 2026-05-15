@@ -1,13 +1,40 @@
 {
   "news": [
     {
-      "title": "Defence Minister and Andhra Pradesh Chief Minister lay foundation stones for AMCA\u2019s Core Integration & Flight Testing Centre and Naval Systems Manufacturing Facility",
-      "link": "https://www.indiastrategic.in/defence-minister-and-andhra-pradesh-chief-minister-lay-foundation-stones-for-amcas-core-integration-flight-testing-centre-and-naval-systems-manufacturing-facility/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-15T18:17:35+05:30",
-      "time": "15 May, 06:17 PM",
+      "title": "Sigma Advanced Secures Export Order Worth Rs 107 cr",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/sigma-advanced-secures-export-order-worth-rs-107-cr-1956928",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-15T19:20:50+05:30",
+      "time": "15 May, 07:20 PM",
       "type": "news",
-      "description": "<p>Grounding ceremonies held for private sector projects for Ammunitions, Propellants &#38; Fuses; 8 companies collaborate to establish Drone City in ..."
+      "description": "The manufacturing will be carried out in India in compliance with applicable defence export regulations and norms"
+    },
+    {
+      "title": "Thailand declares Hantavirus \u201cdangerous communicable disease; approves strict measures for compliance",
+      "link": "https://www.newsonair.gov.in/thailand-declares-hantavirus-dangerous-communicable-disease-approves-strict-measures-for-compliance/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-15T18:45:22+05:30",
+      "time": "15 May, 06:45 PM",
+      "type": "news",
+      "description": "Thailand has declared Hantavirus a \u201cdangerous communicable disease\u201d amid growing global concern over its spread. The country\u2019s National Communicable D..."
+    },
+    {
+      "title": "\u2018No trust in America\u2019: Iran FM Abbas Araghchi talks of Strait of Hormuz during India visit",
+      "link": "https://indianexpress.com/article/world/iran-foreign-minister-abbas-araghchi-brics-us-talks-strait-of-hormuz-trump-10691413/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-15T18:41:47+05:30",
+      "time": "15 May, 06:41 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "AVPL International to inaugurate \u20b980 crore Drone City project in Haryana",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/avpl-international-to-inaugurate-80-crore-drone-city-project-in-haryana/131118451",
+      "source": "Economic Times",
+      "sort_key": "2026-05-15T18:32:04+05:30",
+      "time": "15 May, 06:32 PM",
+      "type": "news",
+      "description": "The project has received incentive support of \u20b958.51 crore under the Haryana Enterprise and Employment Policy-2020. The project will include facilitie..."
     },
     {
       "title": "AP Set To Emerge As Strong Defence Shield For The Nation: CM Naidu",
@@ -17,15 +44,6 @@
       "time": "15 May, 06:02 PM",
       "type": "news",
       "description": "AP CM stated that the AMCA initiative, led by the Aeronautical Development Agency would significantly contribute to Prime Minister Narendra Modi\u2019s vis..."
-    },
-    {
-      "title": "Defence, Gas Supply, Strategic Oil Reserves Pacts: PM Modi\u2019s Short UAE Visit Brings Big Returns",
-      "link": "https://www.indiastrategic.in/defence-gas-supply-strategic-oil-reserves-pacts-pm-modis-short-uae-visit-brings-big-returns/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-15T17:57:57+05:30",
-      "time": "15 May, 05:57 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar India and the UAE have signed an agreement on strategic oil reserves to strengthen energy cooperation. The agreements were exchange..."
     },
     {
       "title": "Bharat Forge group firm to invest \u20b91,500 crore in Andhra Pradesh manufacturing facility",
@@ -388,15 +406,6 @@
       "description": ""
     },
     {
-      "title": "Iran US War News LIVE Updates: Tehran has \u2018no trust\u2019 in US, \u2018will negotiate only if it is serious\u2019, says Iran FM in India",
-      "link": "https://indianexpress.com/article/world/iran-us-war-live-updates-trump-hormuz-strait-tolls-xi-jinping-10690284/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-15T08:47:52+05:30",
-      "time": "15 May, 08:47 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "492 climbers including 95 Indians to scale Mt Everest this season",
       "link": "https://www.newsonair.gov.in/492-climbers-including-95-indians-to-scale-mt-everest-this-season/",
       "source": "All India Radio",
@@ -512,15 +521,6 @@
       "time": "14 May, 09:45 PM",
       "type": "news",
       "description": "American bombings have significantly weakened Iran's military capabilities.  A top U.S. admiral stated Iran's defense industry is now 90% less effecti..."
-    },
-    {
-      "title": "PM Modi to embark on a five-nation tour, beginning tomorrow",
-      "link": "https://www.newsonair.gov.in/pm-modi-to-embark-on-a-five-nation-tour-beginning-tomorrow/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-14T21:45:22+05:30",
-      "time": "14 May, 09:45 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi will embark on a six-day visit to the United Arab Emirates (UAE), the Netherlands, Sweden, Norway, and Italy tomorrow. On..."
     },
     {
       "title": "Amit Shah Likely to Review Security Situation in Post-Maoist Bastar",
@@ -730,6 +730,15 @@
       "description": "In light of the fact that Maoist activities have almost come to an end, he discussed the downsizing and restructuring of Greyhounds and how many are e..."
     },
     {
+      "title": "Israel MOD Signs Contract with Elbit Systems for Extended Range Capability for the F-35 \u201cAdir\u201d Fighter Jet",
+      "link": "https://www.indiastrategic.in/israel-mod-signs-contract-with-elbit-systems-for-extended-range-capability-for-the-f-35-adir-fighter-jet/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-14T13:32:33+05:30",
+      "time": "14 May, 01:32 PM",
+      "type": "news",
+      "description": "<p>Haifa, May 14, 2026. The Defense Procurement Directorate (DPD) of the Israel Ministry of Defense (IMOD) has signed a contract with Cyclone, a wholl..."
+    },
+    {
       "title": "L&amp;T partners France\u2019s Exail for Indian Navy&#039;s mine countermeasure systems",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/lt-and-exail-join-forces-to-enhance-indian-navys-mine-countermeasure-capabilities/131086944",
       "source": "Economic Times",
@@ -737,6 +746,15 @@
       "time": "14 May, 01:30 PM",
       "type": "news",
       "description": "The partnership will supply unmanned mine counter-measure systems for Indian Navy\u2019s planned 12-vessel MCM programme with local manufacturing focus."
+    },
+    {
+      "title": "Xi Jinping expects 2026 to be \u2018historic, landmark year\u2019 for China-US ties",
+      "link": "https://www.indiastrategic.in/xi-jinping-expects-2026-to-be-historic-landmark-year-for-china-us-ties/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-14T13:19:50+05:30",
+      "time": "14 May, 01:19 PM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar Beijing, May 14, 2026. Chinese President Xi Jinping on Thursday, May 14, said that China and the United States must work together t..."
     },
     {
       "title": "HAL Q4 FY26 net profit rises 6% to \u20b94,196 crore",
@@ -890,27 +908,49 @@
       "time": "13 May, 07:27 PM",
       "type": "news",
       "description": "Former army chief Manoj Naravane backs RSS leader Dattatreya Hosabale's view on engaging Pakistan. Naravane believes friendship between common people ..."
-    },
-    {
-      "title": "Russia presses its barrages of Ukraine as Trump talks of possible peace; Kyiv emboldened",
-      "link": "https://economictimes.indiatimes.com/news/defence/russia-presses-its-barrages-of-ukraine-as-trump-talks-of-possible-peace-kyiv-emboldened/articleshow/131067284.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-13T19:04:17+05:30",
-      "time": "13 May, 07:04 PM",
-      "type": "news",
-      "description": "As Ukraine endures unyielding drone strikes from Russia that are wreaking havoc on vital infrastructure and civilian locales, President Zelenskyy is c..."
-    },
-    {
-      "title": "Jagtial: Former Maoist Leader Devji Writes Inter Exam, Plans To Pursue Law",
-      "link": "https://www.deccanchronicle.com/southern-states/telangana/ex-maoist-top-leader-devji-appears-for-inter-exam-in-korutla-after-45-years-underground-1956482",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-13T18:42:29+05:30",
-      "time": "13 May, 06:42 PM",
-      "type": "news",
-      "description": "After surrendering, Deviji had stated that he wanted to resume his education, pursue law, and work for the poor."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @sidhant: My question:",
+      "link": "https://nitter.net/sidhant/status/2055277918738419841#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-15T18:53:35+05:30",
+      "time": "15 May, 06:53 PM",
+      "type": "tweets",
+      "content": "<p>My question:</p>\n<a href=\"https://nitter.net/sidhant/status/2055277918738419841#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055277883506216960%2Fpu%2Fimg%2F501ZqdDGggKayqzH.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We continue to coordinate with India on movement of vessel through Hormuz, Iran FM Araghchi in response to @WIONews",
+      "link": "https://nitter.net/sidhant/status/2055277721362845962#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-15T18:52:48+05:30",
+      "time": "15 May, 06:52 PM",
+      "type": "tweets",
+      "content": "<p>We continue to coordinate with India on movement of vessel through Hormuz, Iran FM Araghchi in response to <a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<a href=\"https://nitter.net/sidhant/status/2055277721362845962#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055277676144078849%2Fpu%2Fimg%2FldHjE_ypFBIsoW33.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Any explanation so far on what the hell happened in UP 2 days back?\n\nWhat caused that storm?",
+      "link": "https://nitter.net/elitepredatorss/status/2055276875766026377#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-15T18:49:27+05:30",
+      "time": "15 May, 06:49 PM",
+      "type": "tweets",
+      "content": "<p>Any explanation so far on what the hell happened in UP 2 days back?<br />\n<br />\nWhat caused that storm?</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2055276875766026377#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055276847433482240%2Fpu%2Fimg%2FS5s2bjmlvMb64mOq.jpg\" />\n</a>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "What\u2019s a footage",
+      "link": "https://nitter.net/alpha_defense/status/2055272458366943319#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-15T18:31:53+05:30",
+      "time": "15 May, 06:31 PM",
+      "type": "tweets",
+      "content": "<p>What\u2019s a footage</p>\n<a href=\"https://nitter.net/alpha_defense/status/2055272458366943319#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055272399567024129%2Fimg%2FiS7eV2dLBgKHD_WQ.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
     {
       "title": "R to @alpha_defense: Or Brahmos ER ?",
       "link": "https://nitter.net/alpha_defense/status/2055269831809871903#m",
@@ -1152,34 +1192,14 @@
       "author": "@sidhant"
     },
     {
-      "title": "India has been customer of Iranian oil. It has been stopped by India due to US unilateral sanctions. We are interested to continue oil business. We want to sell oil to India: Iran Foreign minister Araghchi",
-      "link": "https://nitter.net/sidhant/status/2055230677256442007#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-15T15:45:52+05:30",
-      "time": "15 May, 03:45 PM",
+      "title": "Aftermath of last night\u2019s attack on the Bajaur camp.\n\nAccording to reports, at least eight Pakistani soldiers were killed in the incident.",
+      "link": "https://nitter.net/OsintTV/status/2055230816045723875#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-15T15:46:25+05:30",
+      "time": "15 May, 03:46 PM",
       "type": "tweets",
-      "content": "<p>India has been customer of Iranian oil. It has been stopped by India due to US unilateral sanctions. We are interested to continue oil business. We want to sell oil to India: Iran Foreign minister Araghchi</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We have always consulted our Russian friends, says Iran Foreign Minister Araghchi",
-      "link": "https://nitter.net/sidhant/status/2055230228855980246#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-15T15:44:05+05:30",
-      "time": "15 May, 03:44 PM",
-      "type": "tweets",
-      "content": "<p>We have always consulted our Russian friends, says Iran Foreign Minister Araghchi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>We always had very good relationship with India, says Iran FM Araghchi</p>\n<img src=\"https://nitter.net/pic/media%2FHIWgeAZbYAAFGSc.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2055225257779445888#m\">https://nitter.net/sidhant/status/2055225257779445888#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Hormuz is in territorial waters of Iran, Oman says Iran FM Araghchi",
-      "link": "https://nitter.net/sidhant/status/2055230222992281888#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-15T15:44:04+05:30",
-      "time": "15 May, 03:44 PM",
-      "type": "tweets",
-      "content": "<p>Hormuz is in territorial waters of Iran, Oman says Iran FM Araghchi</p>\n<a href=\"https://nitter.net/sidhant/status/2055230222992281888#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055229503644069888%2Fpu%2Fimg%2FyPDDzAQbrXCLMS8m.jpg\" />\n</a>",
-      "author": "@sidhant"
+      "content": "<p>Aftermath of last night\u2019s attack on the Bajaur camp.<br />\n<br />\nAccording to reports, at least eight Pakistani soldiers were killed in the incident.</p>\n<a href=\"https://nitter.net/OsintTV/status/2055230816045723875#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055230579050749952%2Fimg%2FD2VMCKvpbNAH3gmD.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "The new ADA centre is going to handle multiple facilities under one umbrella i.e. \n\u25aa\ufe0fAircraft integration\n\u25aa\ufe0fSystems Integration Labs\n\u25aa\ufe0fStealth validation infra\n\u25aa\ufe0fFlight test instrumentation\n\u25aa\ufe0fCertification ecosystem",
@@ -1360,6 +1380,16 @@
       "type": "tweets",
       "content": "<p>These steps often go unnoticed, but this is real Atmanirbharta, the ability to keep your fighter jets flying entirely on your own.<br />\n<br />\nJointness is another \ud83d\udd25\ud83d\udd25</p>\n<hr />\n<blockquote>\n<b>ANI (@ANI)</b>\n<p>\n<p>Base Repair Depot Nashik of IAF achieved a major Atmanirbharta milestone by successfully carrying out the indigenous overhaul of the Indian Navy\u2019s MiG-29K ejection seat, earlier being carried out in Russia. It was handed over to  Indian Navy in presence of Air Marshal Yalla Umesh, AOC-in-C Maintenance Command. It is a significant boost to self-reliance, jointness & aerospace maintenance capability: Maintenance  Command of IAF<br />\n<br />\n(Pics: Maintenance  Command of IAF/X)</p>\n<img src=\"https://nitter.net/pic/media%2FHIWPdQubwAAFrVh.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIWPeI1b0AENzLZ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIWPfFHbYAAtuEO.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ANI/status/2055206612705607969#m\">https://nitter.net/ANI/status/2055206612705607969#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @sidhant: PM Modi arrives in the UAE as part of his five-nation tour, meets President Mohamed bin Zayed al Nahyan\n\nThis will be followed by his visit to the Netherlands, Sweden, Norway, and Italy\n\n@kanishka9996 brings you this report by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2055208554068599247#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-15T14:17:57+05:30",
+      "time": "15 May, 02:17 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi arrives in the UAE as part of his five-nation tour, meets President Mohamed bin Zayed al Nahyan<br />\n<br />\nThis will be followed by his visit to the Netherlands, Sweden, Norway, and Italy<br />\n<br />\n<a href=\"https://nitter.net/kanishka9996\" title=\"Kanishka Sarkar\">@kanishka9996</a> brings you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2055208554068599247#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055200602771349504%2Fimg%2F-4LVvC-aauYFvihF.jpg\" />\n</a>",
+      "author": "@WIONews"
     },
     {
       "title": "\ud83d\udea8India, UAE announce agreement on supplies of LPG.",
@@ -1632,23 +1662,13 @@
       "author": "@notam_in"
     },
     {
-      "title": "Good ! You know Radar Physics and yet you chose to Tracking = Weapon Guidance.\n\nBut theek hai keep believing that, Also why waste fighter jet at all make a C295 carry missiles and S Band Radar and start shooting.",
-      "link": "https://nitter.net/alpha_defense/status/2054991161228694004#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-14T23:54:07+05:30",
-      "time": "14 May, 11:54 PM",
-      "type": "tweets",
-      "content": "<p>Good ! You know Radar Physics and yet you chose to Tracking = Weapon Guidance.<br />\n<br />\nBut theek hai keep believing that, Also why waste fighter jet at all make a C295 carry missiles and S Band Radar and start shooting.</p>\n<hr />\n<blockquote>\n<b>Sarthaka Singh (@therealp0litik)</b>\n<p>\n<p>Please stop using complex terminologies to increase the weight of your argument. I know Radar physics.<br />\nNetra and Phalcon AEW are well capable of tracking Targets.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/therealp0litik/status/2054990350746632252#m\">https://nitter.net/therealp0litik/status/2054990350746632252#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "\ud83d\udea8Loi Mamond tehsil of Bajaur KP\n\n12+ NaPak soldiers have been liquidated in the suicide blast by TTP. \n\n4th consecutive attack in the last 7 days.",
       "link": "https://nitter.net/Goreunit/status/2054970209296089534#m",
       "source": "War & Gore",
       "sort_key": "2026-05-14T22:30:52+05:30",
       "time": "14 May, 10:30 PM",
       "type": "tweets",
-      "content": "<p>\ud83d\udea8Loi Mamond tehsil of Bajaur KP<br />\n<br />\n12+ NaPak soldiers have been liquidated in the suicide blast by TTP. <br />\n<br />\n4th consecutive attack in the last 7 days.</p>",
+      "content": "<p>\ud83d\udea8Loi Mamond tehsil of Bajaur KP<br />\n<br />\n12+ NaPak soldiers have been liquidated in the suicide blast by TTP. <br />\n<br />\n4th consecutive attack in the last 7 days.</p>\n<hr />\n<blockquote>\n<b>Defence Sphere (@DefenceSphere)</b>\n<p>\n<p>Visuals from KPK Bajaur, <br />\nNaPak soldiers are licking the dust after getting liquidated.</p>\n<a href=\"https://nitter.net/DefenceSphere/status/2054968714337087583#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2054951919529984000%2Fpu%2Fimg%2FNeS1YBYM8q6kIQKp.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceSphere/status/2054968714337087583#m\">https://nitter.net/DefenceSphere/status/2054968714337087583#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1680,6 +1700,16 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief:<br />\n<br />\n14th May 2026<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf A Panama-flagged Japanese-linked VLCC Eneos Endeavor, with 4 Japanese crew members, has transited the Strait of Hormuz, and is bound for Japan. This marks the second such safe passage.<br />\n<br />\n\u25cf In bilateral talks in Beijing, US and China agreed that Iran must never acquire a nuclear weapon, and emphasized maintaining stability in Strait of Hormuz to ensure secure energy flows.<br />\n<br />\n\u25cf Two India-bound LPG carriers, SYMI and NV SUNSHINE, have successfully transited the Strait of Hormuz after loading in the Gulf.<br />\n<br />\n\u25cf UKMTO reported that armed Iranian personnel boarded and seized a vessel while at anchor 38nm northeast of port of Fujairah. The vessel immediately cut its tracking signal and was forced into Iranian waters.<br />\n<br />\n\u25cf CENTCOM has redirected 70 commercial vessels and disabled 4 to ensure compliance.<br />\n<br />\n\u25cf The 11-nation BRICS Foreign Ministers' Meeting officially commenced in New Delhi. Iranian FM Araghchi asks the committee to condemn US-Israeli blockades.<br />\n<br />\n\u25cfAn Indian-flagged vessel, MSV Haji Ali, was attacked and sank today in Omani waters. The Omani Coast Guard successfully rescued all 14 crew members.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHISr2OXa4AAkxC1.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:    <br />\n<br />\n13th May 2026    <br />\n<br />\n - We will be posting daily war updates on the ongoing war in Middle East   <br />\n  - \u2060Follow us for daily Brief<br />\n<br />\n\u25cf Trump arrived in Beijing for a 3-day summit, accompanied by Elon Musk and NVIDIA CEO Jensen Huang. A major goal is to pressure President Xi Jinping into cutting economic and technological lifelines to Tehran.<br />\n<br />\n\u25cf NATO has invited Bahrain, Kuwait, Qatar, and the UAE to an upcoming summit with Iran-related security concerns on the agenda.<br />\n<br />\n\u25cf Chinese-linked VLCC Yuan Hua Hu is transiting the Strait of Hormuz via Iranian lanes. If successful, it would mark the third such Chinese tanker crossing since the conflict began.<br />\n<br />\n\u25cf The Chinese Embassy in the US has defined four 'red lines' in bilateral relations that must not be challenged: the Taiwan question, issues of democracy & human rights, differences in political systems, and China's development rights.<br />\n<br />\n\u25cf The IDF and Shin Bet eliminated a Hamas operative who took part in the October 7 attack on the Nahal Oz outpost, where Israeli soldiers were killed and kidnapped.<br />\n<br />\n\u25cf Iranian FM Araghchi departed for the BRICS Foreign Ministers\u2019 meeting in New Delhi. Meanwhile, Chinese FM Wang Yi canceled his attendance to remain in Beijing for high-stakes bilateral talks with Trump.<br />\n<br />\nEND OF THE BRIEF.</p>\n<img src=\"https://nitter.net/pic/media%2FHINcf39acAAAYlG.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2054587626368413962#m\">https://nitter.net/NetramDefence/status/2054587626368413962#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "\ud83d\udea8Viewers Discretion Advised \n\nReportedly an attack is carried on Pakistani scout camp in Bajaur, KP, armed fighters have entered compound.\n\nMore details awaited...",
+      "link": "https://nitter.net/OsintTV/status/2054955058475806781#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-14T21:30:39+05:30",
+      "time": "14 May, 09:30 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8Viewers Discretion Advised <br />\n<br />\nReportedly an attack is carried on Pakistani scout camp in Bajaur, KP, armed fighters have entered compound.<br />\n<br />\nMore details awaited...</p>\n<a href=\"https://nitter.net/OsintTV/status/2054955058475806781#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2054954885154521088%2Fimg%2F5q9Jl7qM1Y9Jrvdx.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "RT by @OsintTV: Hey buddy,\n\nIf you really find the stuff he\u2019s smoking, please share it with me too. Sharing is caring.",
@@ -2010,36 +2040,6 @@
       "type": "tweets",
       "content": "<p>Pakistan Defence Minister Khawaja Muhammad Asif has indicated the possibility of expanding the regional defence and economic arrangement with Qatar and Turkiye, suggesting that the framework could evolve<br />\ninto a broader security pact aimed at strengthening regional cooperation.<br />\n<br />\nPakistan, last year, had already signed a \"Strategic Mutual Defence Agreement\" with Saudi Arabia, pledging that any aggression against either nation would be treated as an attack on both. <br />\n<br />\nIndia has also issued a response in the wake of the \"Strategic Mutual Defence Agreement\" between Saudi Arabia and Pakistan, stating it will closely study the pact's implications for India's national security and regional and global stability.</p>\n<img src=\"https://nitter.net/pic/media%2FHINIq6SbIAAFP2y.png\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "5 Pakistani soldiers including Major have been killed by IED blast in Dukki - Balochistan: Local sources",
-      "link": "https://nitter.net/OsintTV/status/2054558406766137746#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-13T19:14:30+05:30",
-      "time": "13 May, 07:14 PM",
-      "type": "tweets",
-      "content": "<p>5 Pakistani soldiers including Major have been killed by IED blast in Dukki - Balochistan: Local sources</p>\n<img src=\"https://nitter.net/pic/media%2FHINB8jVW8AAciya.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "International Aerospace Manufacturing Pvt Ltd, the JV b/w Rolls-Royce and #HAL, has inaugurated an expanded manufacturing facility at Hosur.\n\n#IAMPL is a critical supplier for Rolls-Royce\u2019s global engine manufacturing ecosystem and represents the growing role of Indian industry in advanced aero-engine component production.\n\nBeyond manufacturing, such facilities help build:\n\u2022 Aerospace-grade quality ecosystems\n\u2022 Precision machining expertise\n\u2022 Advanced materials capability\n\u2022 Skilled industrial workforce",
-      "link": "https://nitter.net/DefenceDecode/status/2054558191342743736#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-05-13T19:13:39+05:30",
-      "time": "13 May, 07:13 PM",
-      "type": "tweets",
-      "content": "<p>International Aerospace Manufacturing Pvt Ltd, the JV b/w Rolls-Royce and <a href=\"https://nitter.net/search?f=tweets&amp;q=%23HAL\">#HAL</a>, has inaugurated an expanded manufacturing facility at Hosur.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IAMPL\">#IAMPL</a> is a critical supplier for Rolls-Royce\u2019s global engine manufacturing ecosystem and represents the growing role of Indian industry in advanced aero-engine component production.<br />\n<br />\nBeyond manufacturing, such facilities help build:<br />\n\u2022 Aerospace-grade quality ecosystems<br />\n\u2022 Precision machining expertise<br />\n\u2022 Advanced materials capability<br />\n\u2022 Skilled industrial workforce</p>\n<img src=\"https://nitter.net/pic/media%2FHINBxzEa0AA1cdR.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "Cabinet approves Upgradation and Modernisation of Nagpur International Airport through long term license involving Private Partner under Public Private Partnership",
-      "link": "https://nitter.net/elitepredatorss/status/2054547812625588490#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-13T18:32:24+05:30",
-      "time": "13 May, 06:32 PM",
-      "type": "tweets",
-      "content": "<p>Cabinet approves Upgradation and Modernisation of Nagpur International Airport through long term license involving Private Partner under Public Private Partnership</p>\n<img src=\"https://nitter.net/pic/media%2FHIM4UzLa0AArMRo.jpg\" />",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -2126,6 +2126,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
