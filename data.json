@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "WHO declares Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency",
+      "link": "https://www.newsonair.gov.in/who-declares-ebola-outbreak-in-democratic-republic-of-congo-and-uganda-a-public-health-emergency/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-17T12:56:12+05:30",
+      "time": "17 May, 12:56 PM",
+      "type": "news",
+      "description": "The World Health Organization (WHO) has declared the Ebola outbreak in the Democratic Republic of the Congo and Uganda a public health emergency of in..."
+    },
+    {
+      "title": "Dhaka draws a line: Bangladesh warns future ties with India depend entirely on new Ganges water treaty",
+      "link": "https://indianexpress.com/article/world/bangladesh-india-relations-ganges-water-treaty-expiry-padma-barrage-10693781/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-17T12:55:38+05:30",
+      "time": "17 May, 12:55 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Mass Ukraine Drone Barrage Kills 3 in Russia: Moscow",
+      "link": "https://www.deccanchronicle.com/world/europe/mass-ukraine-drone-barrage-kills-3-in-russia-moscow-1957285",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-17T12:45:30+05:30",
+      "time": "17 May, 12:45 PM",
+      "type": "news",
+      "description": "Air defences shot down 556 drones in more than a dozen regions, including Moscow, Russia's defence ministry said"
+    },
+    {
+      "title": "Great Nicobar project a recipe for ecological disaster: Jairam Ramesh to Defence minister",
+      "link": "https://economictimes.indiatimes.com/news/defence/great-nicobar-project-a-recipe-for-ecological-disaster-jairam-ramesh-to-defence-minister/articleshow/131150283.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-17T12:40:25+05:30",
+      "time": "17 May, 12:40 PM",
+      "type": "news",
+      "description": "Congress leader Jairam Ramesh has alerted Defence Minister Rajnath Singh about the Great Nicobar Island Project. He states the project in its current ..."
+    },
+    {
+      "title": "IAF\u2019s made-in-India C-295 ready for flight trials, deputy air chief inspects aircraft at Tata-Airbus Vadodara facility",
+      "link": "https://economictimes.indiatimes.com/news/defence/iafs-made-in-india-c-295-ready-for-flight-trials-deputy-air-chief-inspects-aircraft-at-tata-airbus-vadodara-facility/articleshow/131149916.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-17T12:36:53+05:30",
+      "time": "17 May, 12:36 PM",
+      "type": "news",
+      "description": "India's defense manufacturing takes a leap forward. The first domestically assembled Airbus C-295 aircraft is now ready for its flight test. This mile..."
+    },
+    {
+      "title": "Pakistan Army criticises Gen Dwivedi\u2019s remarks",
+      "link": "https://www.tribuneindia.com/news/india-pakistan-news/pakistan-army-criticises-gen-dwivedis-remarks",
+      "source": "The Tribune",
+      "sort_key": "2026-05-17T12:23:23+05:30",
+      "time": "17 May, 12:23 PM",
+      "type": "news",
+      "description": "The Pakistan Army on Sunday criticised Indian Army Chief Gen Upendra Dwivedi\u2019s recent remarks, while urging New Delhi to learn to \u201cco-exist\u201d peacefull..."
+    },
+    {
       "title": "'Provocative': Pakistan Army responds to Gen Dwivedi's remarks on 'harbouring terrorists'",
       "link": "https://www.newindianexpress.com/world/2026/May/17/provocative-pakistan-army-responds-to-gen-dwivedis-remarks-on-harbouring-terrorists",
       "source": "New Indian Express",
@@ -91,15 +145,6 @@
       "description": "The United States and Nigerian forces carried out a joint military operation on Friday night that killed senior Islamic State commander Abu-Bilal al-M..."
     },
     {
-      "title": "World Telecommunication and Information Society Day: \u2018Digital lifelines: Strengthening resilience in a connected world\u2019",
-      "link": "https://www.newsonair.gov.in/world-telecommunication-and-information-society-day-digital-lifelines-strengthening-resilience-in-a-connected-world/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-17T09:25:46+05:30",
-      "time": "17 May, 09:25 AM",
-      "type": "news",
-      "description": "World Telecommunication and Information Society Day is being observed today globally. This day commemorates the founding of the International Telecomm..."
-    },
-    {
       "title": "USS Gerald Ford aircraft carrier returns home after 326-day deployment",
       "link": "https://economictimes.indiatimes.com/news/defence/uss-gerald-ford-aircraft-carrier-returns-home-after-326-day-deployment/articleshow/131147732.cms",
       "source": "Economic Times",
@@ -107,15 +152,6 @@
       "time": "17 May, 06:13 AM",
       "type": "news",
       "description": "The USS Gerald R. Ford aircraft carrier, dispatched to the Middle East ahead of the outbreak of war with Iran, returned home to the United States on S..."
-    },
-    {
-      "title": "Downsizing PM security detail not in  national interest, says former R&#038;AW chief",
-      "link": "https://www.tribuneindia.com/news/india/downsizing-pm-security-detail-not-in-natl-interest-says-former-raw-chief",
-      "source": "The Tribune",
-      "sort_key": "2026-05-17T02:08:45+05:30",
-      "time": "17 May, 02:08 AM",
-      "type": "news",
-      "description": "Former chief of India\u2019s external intelligence agency Research and Analysis Wing, Samant Goel, on Saturday said pruning Prime Minister Narendra Modi\u2019s ..."
     },
     {
       "title": "Workers demanding wage hike not terrorists, SC tells Uttar Pradesh Police",
@@ -215,15 +251,6 @@
       "time": "16 May, 04:16 PM",
       "type": "news",
       "description": "Canada is forging new alliances with Nordic nations to secure its vast Arctic region. This move comes as the United States' commitment wavers and Russ..."
-    },
-    {
-      "title": "Trump claims \u2018total military victory\u2019 over Iran, says US strikes severely damaged Tehran\u2019s capabilities",
-      "link": "https://defencemonitor.in/trump-claims-total-military-victory-over-iran-says-us-strikes-severely-damaged-tehrans-capabilities/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-16T16:08:57+05:30",
-      "time": "16 May, 04:08 PM",
-      "type": "news",
-      "description": "<p>Washington, May 16 (IANS) US President Donald Trump defended US military operations linked to Iran and insisted Tehran\u2019s military capabilities had ..."
     },
     {
       "title": "Hamas official says military chief has died after Israel says it targeted him",
@@ -622,24 +649,6 @@
       "description": ""
     },
     {
-      "title": "All set for AMCA flight testing centre ground breaking in Andhra\u2019s Puttaparthi",
-      "link": "https://defencemonitor.in/all-set-for-amca-flight-testing-centre-ground-breaking-in-andhras-puttaparthi/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-15T16:50:23+05:30",
-      "time": "15 May, 04:50 PM",
-      "type": "news",
-      "description": "<p>Amaravati, May 14 (IANS) Puttaparthi in Andhra Pradesh\u2019s Sri Sathya Sai district is set to witness ground breaking of the Advanced Medium Combat Ai..."
-    },
-    {
-      "title": "India\u2019s domestic defence production grows to Rs 1.5 lakh crore in 10 years: Rajnath Singh",
-      "link": "https://defencemonitor.in/indias-domestic-defence-production-grows-to-rs-1-5-lakh-crore-in-10-years-rajnath-singh/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-15T16:49:30+05:30",
-      "time": "15 May, 04:49 PM",
-      "type": "news",
-      "description": "<p>Puttaparthi (Andhra Pradesh), May 15 (IANS) India\u2019s domestic defence production has reached a record high of Rs 1.5 lakh crore from a mere Rs 46,00..."
-    },
-    {
       "title": "Trump says he hasn't determined whether to move forward on major arms package for Taiwan",
       "link": "https://economictimes.indiatimes.com/news/defence/trump-says-he-hasnt-determined-whether-to-move-forward-on-major-arms-package-for-taiwan/articleshow/131116026.cms",
       "source": "Economic Times",
@@ -647,15 +656,6 @@
       "time": "15 May, 04:45 PM",
       "type": "news",
       "description": "US President Donald Trump has not yet decided on a significant arms sale to Taiwan. This comes after his recent three-day visit to China. Beijing stro..."
-    },
-    {
-      "title": "Indian AI combat drone \u2018Kaal Bhairava\u2019 to enter European manufacturing network",
-      "link": "https://defencemonitor.in/indian-ai-combat-drone-kaal-bhairava-to-enter-european-manufacturing-network/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-15T16:42:55+05:30",
-      "time": "15 May, 04:42 PM",
-      "type": "news",
-      "description": "<p>New Delhi, May 15 (IANS) In a major boost to India\u2019s ambitions of becoming a global defence manufacturing hub, Indian AI warfare company FWDA on Fr..."
     },
     {
       "title": "Change of Command of Software Development Institute",
@@ -710,27 +710,19 @@
       "time": "15 May, 01:22 PM",
       "type": "news",
       "description": "The AMCA project is expected to generate around 7,500 jobs while strengthening India\u2019s aerospace and defence ecosystem."
-    },
-    {
-      "title": "Pakistan calls parliamentary session on  \u2018Marka-e-Haq\u2019 to boast success against India Op Sindoor, but very few turn up in Assembly",
-      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-calls-parliamentary-session-on-marka-e-haq-to-boast-success-against-india-op-sindoor-but-very-few-turn-up-in-assembly/articleshow/131111238.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-15T13:12:52+05:30",
-      "time": "15 May, 01:12 PM",
-      "type": "news",
-      "description": "Pakistan's parliamentary session on the 2025 conflict with India saw poor attendance, embarrassing the administration. The session aimed to highlight ..."
-    },
-    {
-      "title": "Aequs, IIT-Dharwad set up manufacturing R&amp;D facility in Karnataka",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/aequs-partners-with-iit-dharwad-to-launch-advanced-manufacturing-rd-facility-in-karnataka/131111456",
-      "source": "Economic Times",
-      "sort_key": "2026-05-15T13:05:41+05:30",
-      "time": "15 May, 01:05 PM",
-      "type": "news",
-      "description": "The centre at IIT Dharwad will focus on materials science, failure analysis and process optimisation for high-precision manufacturing industries."
     }
   ],
   "tweets": [
+    {
+      "title": "\u26a1\ud83c\uddf5\ud83c\uddf0\ud83c\uddee\ud83c\uddf3 Seems like ISPR finally understood the meaning of \u201cHistory & Geography\u201d after Gen. Upendra Dwivedi\u2019s statement  \ud83d\ude02\n\n\u201cAny attempt to target Pakistan can trigger consequences that shall neither be geographically confined nor strategically or politically palatable for India. Pakistan remains a declared nuclear power and an inseparable part of South Asia\u2019s geography and history,\u201d says ISPR. Pakistan is already a country of consequence at global level, a declared nuclear power and an indelible part of South Asia's geography and history: ISPR\n\nLekin aankhon se paseena kyun nikal raha hai? \n\n(Representative AI image)",
+      "link": "https://nitter.net/OsintTV/status/2055918707847675954#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-17T13:19:51+05:30",
+      "time": "17 May, 01:19 PM",
+      "type": "tweets",
+      "content": "<p>\u26a1\ud83c\uddf5\ud83c\uddf0\ud83c\uddee\ud83c\uddf3 Seems like ISPR finally understood the meaning of \u201cHistory & Geography\u201d after Gen. Upendra Dwivedi\u2019s statement  \ud83d\ude02<br />\n<br />\n\u201cAny attempt to target Pakistan can trigger consequences that shall neither be geographically confined nor strategically or politically palatable for India. Pakistan remains a declared nuclear power and an inseparable part of South Asia\u2019s geography and history,\u201d says ISPR. Pakistan is already a country of consequence at global level, a declared nuclear power and an indelible part of South Asia's geography and history: ISPR<br />\n<br />\nLekin aankhon se paseena kyun nikal raha hai? <br />\n<br />\n(Representative AI image)</p>\n<img src=\"https://nitter.net/pic/media%2FHIgXCcMWsAEuwiP.jpg\" />",
+      "author": "@OsintTV"
+    },
     {
       "title": "If someone cannot join a Space to defend their own points, they are not worth your time.\n\nFor DefTwitter",
       "link": "https://nitter.net/alpha_defense/status/2055903988537790505#m",
@@ -1752,16 +1744,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Aftermath of last night\u2019s attack on the Bajaur camp.\n\nAccording to reports, at least eight Pakistani soldiers were killed in the incident.",
-      "link": "https://nitter.net/OsintTV/status/2055230816045723875#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-15T15:46:25+05:30",
-      "time": "15 May, 03:46 PM",
-      "type": "tweets",
-      "content": "<p>Aftermath of last night\u2019s attack on the Bajaur camp.<br />\n<br />\nAccording to reports, at least eight Pakistani soldiers were killed in the incident.</p>\n<a href=\"https://nitter.net/OsintTV/status/2055230816045723875#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055230579050749952%2Fimg%2FD2VMCKvpbNAH3gmD.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "The new ADA centre is going to handle multiple facilities under one umbrella i.e. \n\u25aa\ufe0fAircraft integration\n\u25aa\ufe0fSystems Integration Labs\n\u25aa\ufe0fStealth validation infra\n\u25aa\ufe0fFlight test instrumentation\n\u25aa\ufe0fCertification ecosystem",
       "link": "https://nitter.net/DefenceDecode/status/2055223472067100831#m",
       "source": "Defense Decode",
@@ -1840,30 +1822,74 @@
       "type": "tweets",
       "content": "<p>Agneyaashtra Energetics Limited(<a href=\"https://nitter.net/search?f=tweets&amp;q=%23AEL\">#AEL</a>), a subsidiary of Kalyani Strategic Systems Limited, begins its next phase with the foundation stone laid for its new defence manufacturing facility.<br />\n<br />\nThe unit will focus on:<br />\n\u2022 Rocket assembly<br />\n\u2022 Composite propellants<br />\n\u2022 Explosive materials</p>\n<img src=\"https://nitter.net/pic/media%2FHIWJqvjbMAAsnpw.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "RM Rajnath Singh today laid the foundation stone for the 5th Gen fighter #AMCA project at Puttaparthi.\nThe \u20b915,803 cr project is expected to generate around 7,500 jobs while significantly strengthening India\u2019s indigenous defence and aerospace manufacturing ecosystem.",
-      "link": "https://nitter.net/DefenceDecode/status/2055189768414302496#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-05-15T13:03:19+05:30",
-      "time": "15 May, 01:03 PM",
-      "type": "tweets",
-      "content": "<p>RM Rajnath Singh today laid the foundation stone for the 5th Gen fighter <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMCA\">#AMCA</a> project at Puttaparthi.<br />\nThe \u20b915,803 cr project is expected to generate around 7,500 jobs while significantly strengthening India\u2019s indigenous defence and aerospace manufacturing ecosystem.</p>\n<img src=\"https://nitter.net/pic/media%2FHIV_suwaEAAZfY6.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "UAE Air Force's  \u201cDesert Falcon\u201d fighters escorted PM Narendra Modi\u2019s aircraft in Abu Dhabi..",
-      "link": "https://nitter.net/Goreunit/status/2055187656393543882#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-15T12:54:55+05:30",
-      "time": "15 May, 12:54 PM",
-      "type": "tweets",
-      "content": "<p>UAE Air Force's  \u201cDesert Falcon\u201d fighters escorted PM Narendra Modi\u2019s aircraft in Abu Dhabi..</p>\n<a href=\"https://nitter.net/Goreunit/status/2055187656393543882#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055187640841027584%2Fpu%2Fimg%2F2KF2HODk88Gi7Vfo.jpg\" />\n</a>",
-      "author": "@Goreunit"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Defence Updates - India New Missile, Tejas Mk2 In 2027, CATS UCAV Flight",
+      "link": "https://www.youtube.com/watch?v=we1X1WFEFT8",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-16T21:39:51+05:30",
+      "time": "16 May, 09:39 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/we1X1WFEFT8/mqdefault.jpg"
+    },
+    {
+      "title": "Israeli Blow to India : Wake up Call",
+      "link": "https://www.youtube.com/watch?v=gl_5koajuVo",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-16T17:27:30+05:30",
+      "time": "16 May, 05:27 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/gl_5koajuVo/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : S-500 Export Rights Offer,Tejas MK2 Delayed,Nirbhay Missile Test",
+      "link": "https://www.youtube.com/watch?v=8u2Y3ekrcaI",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-16T16:34:36+05:30",
+      "time": "16 May, 04:34 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/8u2Y3ekrcaI/mqdefault.jpg"
+    },
+    {
+      "title": "IAF Ne Su-57 Deal Rok Di ? Russia Ko Mila Sabse Bada Jhatka!,Drdo Secret Tech,Tejas Mk2 Fighter Nahi",
+      "link": "https://www.youtube.com/watch?v=u8s0YbkGyEA",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-15T23:11:44+05:30",
+      "time": "15 May, 11:11 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/u8s0YbkGyEA/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - AMCA Foundation, Super Sukhoi Major Upgrade, SiG716 NDA Training, India 5th Gen",
+      "link": "https://www.youtube.com/watch?v=bIxAKB6MEPo",
+      "source": "Defense Squad",
+      "sort_key": "2026-05-15T22:13:21+05:30",
+      "time": "15 May, 10:13 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/bIxAKB6MEPo/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : AMCA Foundation,Su-57 Flight Evaluation,114 Rafale by TATA,Astra MK3 Test",
+      "link": "https://www.youtube.com/watch?v=SVXBVkAPDlE",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-05-15T16:10:19+05:30",
+      "time": "15 May, 04:10 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/SVXBVkAPDlE/mqdefault.jpg"
+    },
+    {
+      "title": "AMCA Facility in Andhra Pradesh",
+      "link": "https://www.youtube.com/watch?v=IV3VauDdlfs",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-15T15:57:58+05:30",
+      "time": "15 May, 03:57 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/IV3VauDdlfs/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
