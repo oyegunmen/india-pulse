@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Ukraine launches more than 500 drones at Russia, killing 3: Moscow",
+      "link": "https://economictimes.indiatimes.com/news/defence/ukraine-launches-more-than-500-drones-at-russia-killing-3-moscow/articleshow/131151194.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-17T14:20:08+05:30",
+      "time": "17 May, 02:20 PM",
+      "type": "news",
+      "description": "Over 500 Ukrainian drones targeted Russia overnight, resulting in three fatalities in the Moscow region and injuries to 12 in the capital. Air defense..."
+    },
+    {
       "title": "IAF begins process to replace VIP transport fleet, issues RFI for new long-range business jets",
       "link": "https://economictimes.indiatimes.com/news/defence/iaf-begins-process-to-replace-vip-transport-fleet-issues-rfi-for-new-long-range-business-jets/articleshow/131151061.cms",
       "source": "Economic Times",
@@ -73,15 +82,6 @@
       "description": "India's defense manufacturing takes a leap forward. The first domestically assembled Airbus C-295 aircraft is now ready for its flight test. This mile..."
     },
     {
-      "title": "UN event highlights India-Oman maritime ties through maiden voyage of stitched sail vessel",
-      "link": "https://www.indiastrategic.in/un-event-highlights-india-oman-maritime-ties-through-maiden-voyage-of-stitched-sail-vessel/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-17T12:27:08+05:30",
-      "time": "17 May, 12:27 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar New York/ Bengaluru, May 16, 2026. The maiden voyage of Indian Navy\u2019s traditional stitched sail vessel Indian Naval Sailing Vessel ..."
-    },
-    {
       "title": "Pakistan Army criticises Gen Dwivedi\u2019s remarks",
       "link": "https://www.tribuneindia.com/news/india-pakistan-news/pakistan-army-criticises-gen-dwivedis-remarks",
       "source": "The Tribune",
@@ -89,24 +89,6 @@
       "time": "17 May, 12:23 PM",
       "type": "news",
       "description": "The Pakistan Army on Sunday criticised Indian Army Chief Gen Upendra Dwivedi\u2019s recent remarks, while urging New Delhi to learn to \u201cco-exist\u201d peacefull..."
-    },
-    {
-      "title": "Targeting commercial ships, impeding navigation in Strait of Hormuz unacceptable: India\u2019s UN envoy",
-      "link": "https://www.indiastrategic.in/targeting-commercial-ships-impeding-navigation-in-strait-of-hormuz-unacceptable-indias-un-envoy/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-17T12:08:27+05:30",
-      "time": "17 May, 12:08 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar NewYork/ Bengaluru, May 17, 2026. India\u2019s Permanent Representative to the United Nations Parvathaneni Harish outlined India\u2019s appro..."
-    },
-    {
-      "title": "India, Netherlands elevate ties to Strategic Partnership; unveil wide-ranging roadmap after Hague summit",
-      "link": "https://www.indiastrategic.in/india-netherlands-elevate-ties-to-strategic-partnership-unveil-wide-ranging-roadmap-after-hague-summit/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-17T11:54:24+05:30",
-      "time": "17 May, 11:54 AM",
-      "type": "news",
-      "description": "<p>By Aroonim Bhuyan New Delhi/The Hague, May 17. India and the Netherlands on May 16 upgraded their relationship to a Strategic Partnership and adopt..."
     },
     {
       "title": "'Provocative': Pakistan Army responds to Gen Dwivedi's remarks on 'harbouring terrorists'",
@@ -197,15 +179,6 @@
       "time": "17 May, 02:00 AM",
       "type": "news",
       "description": "Noting that workers protesting for a wage hike were \u201cnot terrorists\u201d, the Supreme Court has directed the Uttar Pradesh Government to produce Aditya An..."
-    },
-    {
-      "title": "Pak must decide if it wants to be part of geography or history, warns Army Chief",
-      "link": "https://www.tribuneindia.com/news/india/pak-must-decide-if-it-wants-to-be-part-of-geography-or-history-warns-army-chief",
-      "source": "The Tribune",
-      "sort_key": "2026-05-17T02:00:10+05:30",
-      "time": "17 May, 02:00 AM",
-      "type": "news",
-      "description": "In a stern message to Islamabad, Army Chief Gen Upendra Dwivedi on Saturday said if Pakistan continues to harbour terrorists and operate against India..."
     },
     {
       "title": "HAL to Deliver Tejas Mk-1A Fighter Jets to IAF by August-September 2026 As GE Engine Supply Stabilizes",
@@ -604,6 +577,15 @@
       "description": "AP CM stated that the AMCA initiative, led by the Aeronautical Development Agency would significantly contribute to Prime Minister Narendra Modi\u2019s vis..."
     },
     {
+      "title": "Defence, Gas Supply, Strategic Oil Reserves Pacts: PM Modi\u2019s Short UAE Visit Brings Big Returns",
+      "link": "https://www.indiastrategic.in/defence-gas-supply-strategic-oil-reserves-pacts-pm-modis-short-uae-visit-brings-big-returns/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-15T17:57:57+05:30",
+      "time": "15 May, 05:57 PM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar India and the UAE have signed an agreement on strategic oil reserves to strengthen energy cooperation. The agreements were exchange..."
+    },
+    {
       "title": "Bharat Forge group firm to invest \u20b91,500 crore in Andhra Pradesh manufacturing facility",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/bharat-forges-agneyastra-energetics-to-invest-1500-crore-in-defence-manufacturing-hub-in-andhra-pradesh/131117551",
       "source": "Economic Times",
@@ -712,6 +694,24 @@
       "description": "<p>New Delhi, May 15 (IANS) In a major boost to India\u2019s ambitions of becoming a global defence manufacturing hub, Indian AI warfare company FWDA on Fr..."
     },
     {
+      "title": "Change of Command of Software Development Institute",
+      "link": "https://www.indiastrategic.in/change-of-command-of-software-development-institute/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-15T16:39:39+05:30",
+      "time": "15 May, 04:39 PM",
+      "type": "news",
+      "description": "<p>Bengaluru, May 15, 2026. Air Vice Marshal Sarabjit Singh, VSM assumed charge as Commandant of Software Development Institute (SDI), Air Force, Beng..."
+    },
+    {
+      "title": "Indian Autonomous Combat Aircraft Kaal Bhairava to be manufactured in Europe Under Operation 777",
+      "link": "https://www.indiastrategic.in/indian-autonomous-combat-aircraft-kaal-bhairava-to-be-manufactured-in-europe-under-operation-777/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-15T16:26:04+05:30",
+      "time": "15 May, 04:26 PM",
+      "type": "news",
+      "description": "<p>May 14, 2026. For seven decades, India bought fighter jets from Russia, France, and America. Today, an Indian AI warfare company is set to manufact..."
+    },
+    {
       "title": "Eight Pakistani troops killed in nighttime storming of border outpost",
       "link": "https://economictimes.indiatimes.com/news/defence/eight-pakistani-troops-killed-in-nighttime-storming-of-border-outpost/articleshow/131112266.cms",
       "source": "Economic Times",
@@ -731,6 +731,126 @@
     }
   ],
   "tweets": [
+    {
+      "title": "R to @JmuKmrPolice: @NIA",
+      "link": "https://nitter.net/Goreunit/status/2055946352576876861#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-17T15:09:42+05:30",
+      "time": "17 May, 03:09 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/Nia\" title=\"nia banks\">@NIA</a></p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "From Afsluitdijk Dam",
+      "link": "https://nitter.net/sidhant/status/2055945466647380355#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-17T15:06:11+05:30",
+      "time": "17 May, 03:06 PM",
+      "type": "tweets",
+      "content": "<p>From Afsluitdijk Dam</p>\n<img src=\"https://nitter.net/pic/media%2FHIgvgPyWkAAYYNK.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @Goreunit: Kindly take a strict action against this indl\n\n@JmuKmrPolice @DelhiPolice @MIB_India",
+      "link": "https://nitter.net/Goreunit/status/2055943840713117777#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-17T14:59:43+05:30",
+      "time": "17 May, 02:59 PM",
+      "type": "tweets",
+      "content": "<p>Kindly take a strict action against this indl<br />\n<br />\n<a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> <a href=\"https://nitter.net/DelhiPolice\" title=\"Delhi Police\">@DelhiPolice</a> <a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a></p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "R to @Goreunit: During Op Sindoor he was actively posting anti IA/IAF content to create rift among netizens. @DelhiPolice \nDozens of posts are still available on his account from OP Sindoor in which he was slowly asking people to resist against op Sindoor.",
+      "link": "https://nitter.net/Goreunit/status/2055943835776426016#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-17T14:59:42+05:30",
+      "time": "17 May, 02:59 PM",
+      "type": "tweets",
+      "content": "<p>During Op Sindoor he was actively posting anti IA/IAF content to create rift among netizens. <a href=\"https://nitter.net/DelhiPolice\" title=\"Delhi Police\">@DelhiPolice</a> <br />\nDozens of posts are still available on his account from OP Sindoor in which he was slowly asking people to resist against op Sindoor.</p>\n<img src=\"https://nitter.net/pic/media%2FHIguBLcb0AAaGhc.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "R to @Goreunit: @JmuKmrPolice \nIn his previous tweets, he was seen promoting separatism among Kashmiri youth.",
+      "link": "https://nitter.net/Goreunit/status/2055943821561917669#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-17T14:59:39+05:30",
+      "time": "17 May, 02:59 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> <br />\nIn his previous tweets, he was seen promoting separatism among Kashmiri youth.</p>\n<img src=\"https://nitter.net/pic/media%2FHIguAp0bAAEnWxZ.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "R to @Goreunit: Also he shared articles of Gallup international forum. This specific platform is also heavily funded by Pakistan army. Previously it has published Anti PTI articles regarding Imran Khan on the orders of Munir via ISPR. \nIs it allowed to share Pakistani propaganda?",
+      "link": "https://nitter.net/Goreunit/status/2055943810967036142#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-17T14:59:36+05:30",
+      "time": "17 May, 02:59 PM",
+      "type": "tweets",
+      "content": "<p>Also he shared articles of Gallup international forum. This specific platform is also heavily funded by Pakistan army. Previously it has published Anti PTI articles regarding Imran Khan on the orders of Munir via ISPR. <br />\nIs it allowed to share Pakistani propaganda?</p>\n<img src=\"https://nitter.net/pic/media%2FHIgt_bXbIAAOw6g.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIgt_iXa4AAzprw.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Hello @MIB_India @DelhiPolice @JmuKmrPolice \nThis indl named @Keshavbedi is promoting anti India articles that are funded by ISPR of Pakistan army. \nHe is doing it to create mistrust against IA. He shared articles of Aqib Shah who is funded by ISPR's Rawalpindi branch.",
+      "link": "https://nitter.net/Goreunit/status/2055943792067559444#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-17T14:59:32+05:30",
+      "time": "17 May, 02:59 PM",
+      "type": "tweets",
+      "content": "<p>Hello <a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <a href=\"https://nitter.net/DelhiPolice\" title=\"Delhi Police\">@DelhiPolice</a> <a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> <br />\nThis indl named <a href=\"https://nitter.net/keshavbedi\" title=\"Keshav Bedi\">@Keshavbedi</a> is promoting anti India articles that are funded by ISPR of Pakistan army. <br />\nHe is doing it to create mistrust against IA. He shared articles of Aqib Shah who is funded by ISPR's Rawalpindi branch.</p>\n<img src=\"https://nitter.net/pic/media%2FHIgt4t7bcAAOCKY.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2055943792067559444#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055943752099954688%2Fpu%2Fimg%2FMv0Gp7B4R91rVKhf.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHIgt-UyaQAAw1Nz.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "RT by @elitepredatorss: Hello @MIB_India @DelhiPolice @JmuKmrPolice \nThis indl named @Keshavbedi is promoting anti India articles that are funded by ISPR of Pakistan army. \nHe is doing it to create mistrust against IA. He shared articles of Aqib Shah who is funded by ISPR's Rawalpindi branch.",
+      "link": "https://nitter.net/Goreunit/status/2055943792067559444#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-17T14:59:32+05:30",
+      "time": "17 May, 02:59 PM",
+      "type": "tweets",
+      "content": "<p>Hello <a href=\"https://nitter.net/MIB_India\" title=\"Ministry of Information and Broadcasting\">@MIB_India</a> <a href=\"https://nitter.net/DelhiPolice\" title=\"Delhi Police\">@DelhiPolice</a> <a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> <br />\nThis indl named <a href=\"https://nitter.net/keshavbedi\" title=\"Keshav Bedi\">@Keshavbedi</a> is promoting anti India articles that are funded by ISPR of Pakistan army. <br />\nHe is doing it to create mistrust against IA. He shared articles of Aqib Shah who is funded by ISPR's Rawalpindi branch.</p>\n<img src=\"https://nitter.net/pic/media%2FHIgt4t7bcAAOCKY.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2055943792067559444#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055943752099954688%2Fpu%2Fimg%2FMv0Gp7B4R91rVKhf.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHIgt-UyaQAAw1Nz.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "PM Modi and Netherlands PM conclude the visit to the Afsluitdijk Dam.",
+      "link": "https://nitter.net/sidhant/status/2055942510699016576#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-17T14:54:26+05:30",
+      "time": "17 May, 02:54 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi and Netherlands PM conclude the visit to the Afsluitdijk Dam.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi to visit Afsluitdijk Dam in Netherlands today, a vital piece of Dutch engineering which helps in water management &amp; flood protection. After which he travels to Sweden's Gothenburg, which is the 2nd largest city of the country.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2055899612565708848#m\">https://nitter.net/sidhant/status/2055899612565708848#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Sometime back, Dhruv tried to act oversmart in a niche where he had zero understanding. DefX brutally shafted him, and he broke his pattern of continuous reply videos. He went silent real quick.\n\nWhy? Because he realized he had summoned a completely different community, not the average templated-response crowd. This community will peel apart your arguments layer by layer in public.\n\nBut before going silent, he pulled the classic technique of labelling everyone as \u201cBJP-paid people.\u201d\n\nThat\u2019s the usual off-ramp for these guys. The moment they start throwing labels instead of arguments, it usually means they are out of ammo and will back out soon.\n\nIt\u2019s been 15 hours since I challenged @keshavbedi for a discussion on a live Space. He can invite his audience too; I\u2019ll shaft him in front of his own crowd.\n\nBut guess what he did?\n\nHe just called the entire DefX ecosystem \u201cBJP-paid people.\u201d\n\nAnd we all know what that means \ud83d\ude02",
+      "link": "https://nitter.net/elitepredatorss/status/2055937598993109385#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-17T14:34:55+05:30",
+      "time": "17 May, 02:34 PM",
+      "type": "tweets",
+      "content": "<p>Sometime back, Dhruv tried to act oversmart in a niche where he had zero understanding. DefX brutally shafted him, and he broke his pattern of continuous reply videos. He went silent real quick.<br />\n<br />\nWhy? Because he realized he had summoned a completely different community, not the average templated-response crowd. This community will peel apart your arguments layer by layer in public.<br />\n<br />\nBut before going silent, he pulled the classic technique of labelling everyone as \u201cBJP-paid people.\u201d<br />\n<br />\nThat\u2019s the usual off-ramp for these guys. The moment they start throwing labels instead of arguments, it usually means they are out of ammo and will back out soon.<br />\n<br />\nIt\u2019s been 15 hours since I challenged <a href=\"https://nitter.net/keshavbedi\" title=\"Keshav Bedi\">@keshavbedi</a> for a discussion on a live Space. He can invite his audience too; I\u2019ll shaft him in front of his own crowd.<br />\n<br />\nBut guess what he did?<br />\n<br />\nHe just called the entire DefX ecosystem \u201cBJP-paid people.\u201d<br />\n<br />\nAnd we all know what that means \ud83d\ude02</p>\n<img src=\"https://nitter.net/pic/media%2FHIgoHkxb0AAKpdk.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @NetramDefence: \ud83e\uddf5THREAD: US-China Economic Consultations Yield Positive Outcomes\n\nChina\u2019s Ministry of Commerce announced that China and the US have achieved positive outcomes in their latest economic and trade consultations.\n\nHere's everything you need to know:",
+      "link": "https://nitter.net/Globalwatchh/status/2055937015460266074#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-17T14:32:36+05:30",
+      "time": "17 May, 02:32 PM",
+      "type": "tweets",
+      "content": "<p>\ud83e\uddf5THREAD: US-China Economic Consultations Yield Positive Outcomes<br />\n<br />\nChina\u2019s Ministry of Commerce announced that China and the US have achieved positive outcomes in their latest economic and trade consultations.<br />\n<br />\nHere's everything you need to know:</p>\n<img src=\"https://nitter.net/pic/media%2FHIgmx91WEAAX9RF.png\" />",
+      "author": "@Globalwatchh"
+    },
+    {
+      "title": "How a Norwegian conglomerate preserved the taste of South India and turned it global\n\nReporting from Oslo\n\nhttps://www.wionews.com/india-news/how-a-norwegian-conglomerate-preserved-the-taste-of-south-india-and-turned-it-global-1779007310950",
+      "link": "https://nitter.net/sidhant/status/2055936459924734084#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-17T14:30:24+05:30",
+      "time": "17 May, 02:30 PM",
+      "type": "tweets",
+      "content": "<p>How a Norwegian conglomerate preserved the taste of South India and turned it global<br />\n<br />\nReporting from Oslo<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/how-a-norwegian-conglomerate-preserved-the-taste-of-south-india-and-turned-it-global-1779007310950\">wionews.com/india-news/how-a\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2055936411153399808%2F4SE_ldFy%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "To all Chai Fans out there :)",
       "link": "https://nitter.net/alpha_defense/status/2055924563503136896#m",
@@ -1128,7 +1248,7 @@
       "sort_key": "2026-05-16T23:05:43+05:30",
       "time": "16 May, 11:05 PM",
       "type": "tweets",
-      "content": "<p>The funny thing is you think you have figured things out but you don't know shit about either foreign policy or military ops.<br />\n<br />\nJoin me in a space tomorrow 10 PM, let me educate you what was the strategic success of Op Sindoor.<br />\n<br />\nTujhe military aur economic dono objectives smjhaunga.. <br />\n<br />\nDeal?</p>\n<hr />\n<blockquote>\n<b>Keshav Bedi (@keshavbedi)</b>\n<p>\n<p>Why Operation Sindoor was strategically a FAILURE</p>\n<a href=\"https://nitter.net/keshavbedi/status/2055681150820171796#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055681024718409728%2Fimg%2FtuZVXe76OUtwJ-kA.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/keshavbedi/status/2055681150820171796#m\">https://nitter.net/keshavbedi/status/2055681150820171796#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>The funny thing is you think you have figured things out but you don't know shit about either foreign policy or military ops.<br />\n<br />\nJoin me in a space tomorrow 10 PM, let me educate you what was the strategic success of Op Sindoor.<br />\n<br />\nTujhe military aur economic dono objectives smjhaunga.. <br />\n<br />\nDeal?</p>",
       "author": "@elitepredatorss"
     },
     {
@@ -1212,16 +1332,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "PM Modi annouces extension of OCI cards to 6th generation for Surinamese-Hindustani diaspora, the \"twice migrant\" Indian diaspora of Netherlands.\n\nThey arrived to Netherlands from Suriname & were indentured labourers from eastern India.\n\nDetails:\n\nhttps://www.wionews.com/india-news/pm-modi-extends-oci-cards-to-sixth-generation-for-surinamese-hindustani-diaspora-1778940659873",
-      "link": "https://nitter.net/sidhant/status/2055674119841329316#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-16T21:07:57+05:30",
-      "time": "16 May, 09:07 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi annouces extension of OCI cards to 6th generation for Surinamese-Hindustani diaspora, the \"twice migrant\" Indian diaspora of Netherlands.<br />\n<br />\nThey arrived to Netherlands from Suriname &amp; were indentured labourers from eastern India.<br />\n<br />\nDetails:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/pm-modi-extends-oci-cards-to-sixth-generation-for-surinamese-hindustani-diaspora-1778940659873\">wionews.com/india-news/pm-mo\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2055668677585129472%2FZUSHZnpC%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "It is everywhere:\n\nHear it when he says \u201cFor 20 years, a $6 knob that takes one hour to 3D print has been grounding Black Hawk helicopters four times a month, and the contractor responsible won't sell us the part or the IP rights to fix it ourselves. \n\nSo instead, American taxpayers have been paying $40,000 every single time to replace the entire system, multiplied by four times a month, for two decades. \n\nThat is NOT a procurement problem, that is a shakedown, and it is exactly why right to repair has to be in this year's NDAA.\u201d https://x.com/RepPatHarrigan/status/2055318212041171384/video/1",
       "link": "https://nitter.net/alpha_defense/status/2055674102929825828#m",
       "source": "Alpha Defense",
@@ -1232,16 +1342,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Netherlands returns 11th-century Chola copper plates to India in landmark cultural restitution.",
-      "link": "https://nitter.net/sidhant/status/2055672470615790037#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-16T21:01:24+05:30",
-      "time": "16 May, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>Netherlands returns 11th-century Chola copper plates to India in landmark cultural restitution.</p>\n<a href=\"https://nitter.net/sidhant/status/2055672470615790037#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055672432888074240%2Fpu%2Fimg%2FxoxE_5jOhZtUwrNR.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "R to @OsintTV: India's most wanted....\n\nUndated pic",
       "link": "https://nitter.net/OsintTV/status/2055671345266983170#m",
       "source": "Osint TV",
@@ -1250,16 +1350,6 @@
       "type": "tweets",
       "content": "<p>India's most wanted....<br />\n<br />\nUndated pic</p>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "India's Tata Electronics partners with Dutch giant ASML to power India's first advanced semiconductor fab in Dholera, Gujarat.",
-      "link": "https://nitter.net/sidhant/status/2055670538463531290#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-16T20:53:43+05:30",
-      "time": "16 May, 08:53 PM",
-      "type": "tweets",
-      "content": "<p>India's Tata Electronics partners with Dutch giant ASML to power India's first advanced semiconductor fab in Dholera, Gujarat.</p>\n<a href=\"https://nitter.net/sidhant/status/2055670538463531290#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2055670507685756928%2Fpu%2Fimg%2Fc_1y2eyJ7deU060R.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "Keep hiding in the shadows.... \nIndia hunts in the dark too....",
@@ -1722,16 +1812,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "RT by @NetramDefence: US Dept of War:\n\n- CENTCOM forces crippled Iran's military in <40 days.\n- 90% of Iran's defense industrial base destroyed, preventing reconstitution for years.\n- Iran's navy degraded by 90%, unable to rebuild for 5-10 years. Hamas, Hezbollah and Houthis cut off from weapons.",
-      "link": "https://nitter.net/Globalwatchh/status/2055279525315878930#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-15T18:59:58+05:30",
-      "time": "15 May, 06:59 PM",
-      "type": "tweets",
-      "content": "<p>US Dept of War:<br />\n<br />\n- CENTCOM forces crippled Iran's military in &lt;40 days.<br />\n- 90% of Iran's defense industrial base destroyed, preventing reconstitution for years.<br />\n- Iran's navy degraded by 90%, unable to rebuild for 5-10 years. Hamas, Hezbollah and Houthis cut off from weapons.</p>\n<img src=\"https://nitter.net/pic/media%2FHIXRPgoXcAAfqbK.png\" />",
-      "author": "@Globalwatchh"
-    },
-    {
       "title": "Any explanation so far on what the hell happened in UP 2 days back?\n\nWhat caused that storm?",
       "link": "https://nitter.net/elitepredatorss/status/2055276875766026377#m",
       "source": "Elite Predators",
@@ -1770,39 +1850,18 @@
       "type": "tweets",
       "content": "<p>Haqeeqat:<br />\n<br />\nIn Pakistan: Big talks<br />\n<br />\nAt the border: Counting Body Bags<br />\n<br />\n                -------+-------<br />\n(9-5-2025, Mandala Nala, LOC Poonch, Pak army 20-POK Battalion evacuating dead bodies)</p>\n<a href=\"https://nitter.net/OsintTV/status/2055260523910811934#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055259511909171200%2Fimg%2F1Y_Zgg-mBYyW3qH5.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "The new ADA centre is going to handle multiple facilities under one umbrella i.e. \n\u25aa\ufe0fAircraft integration\n\u25aa\ufe0fSystems Integration Labs\n\u25aa\ufe0fStealth validation infra\n\u25aa\ufe0fFlight test instrumentation\n\u25aa\ufe0fCertification ecosystem",
-      "link": "https://nitter.net/DefenceDecode/status/2055223472067100831#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-05-15T15:17:14+05:30",
-      "time": "15 May, 03:17 PM",
-      "type": "tweets",
-      "content": "<p>The new ADA centre is going to handle multiple facilities under one umbrella i.e. <br />\n\u25aa\ufe0fAircraft integration<br />\n\u25aa\ufe0fSystems Integration Labs<br />\n\u25aa\ufe0fStealth validation infra<br />\n\u25aa\ufe0fFlight test instrumentation<br />\n\u25aa\ufe0fCertification ecosystem</p>\n<img src=\"https://nitter.net/pic/media%2FHIWeId1bUAAoSja.jpg\" />\n\n<hr />\n<blockquote>\n<b>Defence Decode\u00ae (@DefenceDecode)</b>\n<p>\n<p>RM Rajnath Singh today laid the foundation stone for the 5th Gen fighter <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMCA\">#AMCA</a> project at Puttaparthi.<br />\nThe \u20b915,803 cr project is expected to generate around 7,500 jobs while significantly strengthening India\u2019s indigenous defence and aerospace manufacturing ecosystem.</p>\n<img src=\"https://nitter.net/pic/media%2FHIV_suwaEAAZfY6.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceDecode/status/2055189768414302496#m\">https://nitter.net/DefenceDecode/status/2055189768414302496#m</a>\n</footer>\n</blockquote>",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "IAF Maintenance Command successfully carried out the 1st indigenous overhaul of the IN\u2019s MiG-29K ejection seat at #BRD,Nashik -a process previously dependent on Russia.\n\nStrengthens:\n\u2022 Self-reliance in MRO capability\n\u2022 Inter-service jointness\n\u2022 Indigenous aerospace sustainment",
-      "link": "https://nitter.net/DefenceDecode/status/2055222112030527871#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-05-15T15:11:50+05:30",
-      "time": "15 May, 03:11 PM",
-      "type": "tweets",
-      "content": "<p>IAF Maintenance Command successfully carried out the 1st indigenous overhaul of the IN\u2019s MiG-29K ejection seat at <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BRD\">#BRD</a>,Nashik -a process previously dependent on Russia.<br />\n<br />\nStrengthens:<br />\n\u2022 Self-reliance in MRO capability<br />\n\u2022 Inter-service jointness<br />\n\u2022 Indigenous aerospace sustainment</p>\n<img src=\"https://nitter.net/pic/media%2FHIWdMvAawAAtttl.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "In a clear sign of Pakistan\u2019s deep terror nexus, Maj Gen Zarrar Mehmood, GOC 12 Division Murree, visited the family of Muhammad Yaqoob Mughal a senior Jaish-e-Mohammed terrorist and head of the Syedna Bilal terror camp in Muzaffarabad  who was eliminated during India\u2019s precise strikes under Operation Sindoor.",
-      "link": "https://nitter.net/elitepredatorss/status/2055220326305243146#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-15T15:04:44+05:30",
-      "time": "15 May, 03:04 PM",
-      "type": "tweets",
-      "content": "<p>In a clear sign of Pakistan\u2019s deep terror nexus, Maj Gen Zarrar Mehmood, GOC 12 Division Murree, visited the family of Muhammad Yaqoob Mughal a senior Jaish-e-Mohammed terrorist and head of the Syedna Bilal terror camp in Muzaffarabad  who was eliminated during India\u2019s precise strikes under Operation Sindoor.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2055220326305243146#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055220247175819264%2Fimg%2FmOo7MP8HrhWN6vfQ.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHIWb7P5agAA2zis.jpg\" />",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
+    {
+      "title": "Pakistan Sold Itself During Op Sindoor?",
+      "link": "https://www.youtube.com/watch?v=2kQfGZnW_IE",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-17T14:14:57+05:30",
+      "time": "17 May, 02:14 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/2kQfGZnW_IE/mqdefault.jpg"
+    },
     {
       "title": "Defence Updates - India New Missile, Tejas Mk2 In 2027, CATS UCAV Flight",
       "link": "https://www.youtube.com/watch?v=we1X1WFEFT8",
@@ -1868,6 +1927,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
