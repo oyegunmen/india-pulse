@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Tensions between US and Iran escalated again",
+      "link": "https://www.newsonair.gov.in/tensions-between-us-and-iran-escalated-again/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-18T09:22:29+05:30",
+      "time": "18 May, 09:22 AM",
+      "type": "news",
+      "description": "Tensions between the United States and Iran have escalated once again after President Donald Trump issued a fresh warning to Tehran, with negotiations..."
+    },
+    {
+      "title": "Russia hits Ukraine's Odesa, Dnipro with drones and missiles overnight",
+      "link": "https://economictimes.indiatimes.com/news/defence/russia-hits-ukraines-odesa-dnipro-with-drones-and-missiles-overnight/articleshow/131165997.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-18T09:22:28+05:30",
+      "time": "18 May, 09:22 AM",
+      "type": "news",
+      "description": "Russia launched drone and missile attacks on Ukrainian cities Odesa and Dnipro overnight. These strikes injured eleven people, including two boys. Mea..."
+    },
+    {
       "title": "'Clock is Ticking,' Trump again warns Iran as nuclear deal talks hit deadlock",
       "link": "https://economictimes.indiatimes.com/news/defence/clock-is-ticking-trump-again-warns-iran-as-nuclear-deal-talks-hit-deadlock/articleshow/131164751.cms",
       "source": "Economic Times",
@@ -136,15 +154,6 @@
       "description": "Mr. Shah is scheduled to review the security situation in Bastar after the tribal region was declared free from armed Maoists on March 31: Reports"
     },
     {
-      "title": "India finish at 11th in Asian Senior Weightlifting Championships, 3rd in women&#8217;s team ranking",
-      "link": "https://www.tribuneindia.com/news/sports/india-finish-at-11th-in-asian-senior-weightlifting-championships-3rd-in-womens-team-ranking",
-      "source": "The Tribune",
-      "sort_key": "2026-05-17T21:46:37+05:30",
-      "time": "17 May, 09:46 PM",
-      "type": "news",
-      "description": "India finished 11th in the medal table with 11 medals, while the women&#8217;s team ended third in the rankings in the Asian Senior Weightlifting Cham..."
-    },
-    {
       "title": "Trump advisers fear China may invade Taiwan in next 5 years: Report",
       "link": "https://indianexpress.com/article/world/donald-trump-xi-jinping-beijing-summit-taiwan-ai-chips-supply-chain-threat-10694544/",
       "source": "The Indian Express",
@@ -161,15 +170,6 @@
       "time": "17 May, 09:34 PM",
       "type": "news",
       "description": "Chinese Studies expert at Jawaharlal Nehru University, Professor Srikanth Kondapalli, broke down the long-term regional stability implications of US P..."
-    },
-    {
-      "title": "Security cover pruned for politicians, others as Bengal govt reviews VIP protection",
-      "link": "https://www.tribuneindia.com/news/india/security-cover-pruned-for-politicians-others-as-bengal-govt-reviews-vip-protection",
-      "source": "The Tribune",
-      "sort_key": "2026-05-17T21:28:00+05:30",
-      "time": "17 May, 09:28 PM",
-      "type": "news",
-      "description": "The West Bengal government has further scaled down security arrangements for several political leaders, former officials and other prominent individua..."
     },
     {
       "title": "Trump and Xi Navigate Rivalry as Global Pressures Intensify",
@@ -442,15 +442,6 @@
       "description": "<p>By Aroonim Bhuyan New Delhi/The Hague, May 17. India and the Netherlands on May 16 upgraded their relationship to a Strategic Partnership and adopt..."
     },
     {
-      "title": "Latvian President Edgars Rinkevics nominates opposition MP Andris Kulbergs as country\u2019s next PM",
-      "link": "https://www.newsonair.gov.in/latvian-president-edgars-rinkevics-nominates-opposition-mp-andris-kulbergs-as-countrys-next-pm/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-17T11:15:39+05:30",
-      "time": "17 May, 11:15 AM",
-      "type": "news",
-      "description": "Latvian President Edgars Rinkevics has nominated opposition MP Andris Kulbergs as the country&#8217;s next Prime Minister. Kulbergs, a member of parli..."
-    },
-    {
       "title": "USS Gerald Ford aircraft carrier returns home after 326-day deployment",
       "link": "https://economictimes.indiatimes.com/news/defence/uss-gerald-ford-aircraft-carrier-returns-home-after-326-day-deployment/articleshow/131147732.cms",
       "source": "Economic Times",
@@ -620,36 +611,49 @@
       "time": "16 May, 11:25 AM",
       "type": "news",
       "description": "Pakistan is set to boost its defense budget by approximately PKR 100 billion. This move aligns with an International Monetary Fund program. Revenues a..."
-    },
-    {
-      "title": "Taiwan presses case for US arms after Trump says he's undecided on new sales",
-      "link": "https://economictimes.indiatimes.com/news/defence/taiwan-presses-case-for-us-arms-after-trump-says-hes-undecided-on-new-sales/articleshow/131131589.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-16T10:12:28+05:30",
-      "time": "16 May, 10:12 AM",
-      "type": "news",
-      "description": "Taiwan's deputy foreign minister emphasized that U.S. arms sales are crucial for regional peace. This comes after President Trump expressed uncertaint..."
-    },
-    {
-      "title": "UAE rejects Iran's 'direct involvement' claims in West Asia conflict, says allegations will not shake its \"principled positions\"",
-      "link": "https://economictimes.indiatimes.com/news/defence/uae-rejects-irans-direct-involvement-claims-in-west-asia-conflict-says-allegations-will-not-shake-its-principled-positions/articleshow/131131511.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-16T09:59:59+05:30",
-      "time": "16 May, 09:59 AM",
-      "type": "news",
-      "description": "The UAE has vehemently rejected Iran's accusations of direct involvement in aggression against Tehran during the West Asia conflict. Minister of State..."
-    },
-    {
-      "title": "\u2018Most active terrorist in the world eliminated\u2019: Donald Trump says ISIS global second in command killed",
-      "link": "https://indianexpress.com/article/world/donald-trump-isis-leader-abu-bilal-al-minuki-killed-us-nigeria-operation-10692179/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-16T09:37:15+05:30",
-      "time": "16 May, 09:37 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @sidhant: Norwegian ambassador highlights importance of PM Modi's visit\n\nIn an interview with WION's @sidhant, Ambassador May-Elin Stener says \"India is not only the most populous country, but also the fastest growing economy of the big economies, and the development is very fast in India\"\n\n@ShivanChanana and @JyotsnaKumar13 have more",
+      "link": "https://nitter.net/WIONews/status/2056234261368406182#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-18T10:13:45+05:30",
+      "time": "18 May, 10:13 AM",
+      "type": "tweets",
+      "content": "<p>Norwegian ambassador highlights importance of PM Modi's visit<br />\n<br />\nIn an interview with WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, Ambassador May-Elin Stener says \"India is not only the most populous country, but also the fastest growing economy of the big economies, and the development is very fast in India\"<br />\n<br />\n<a href=\"https://nitter.net/ShivanChanana\" title=\"Shivan Chanana\">@ShivanChanana</a> and <a href=\"https://nitter.net/JyotsnaKumar13\" title=\"Jyotsna Kumar\">@JyotsnaKumar13</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2056234261368406182#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056214590313402368%2Fimg%2FTTSdi3XaTh4IlboC.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "RT by @sidhant: PM Modi in Sweden: Key takeaways \n\nIndia to double trade and investment in next 5 years; agreement to jointly develop startup platform \n\n@JyotsnaKumar13 and @ShivanChanana bring you more by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2056233086824927361#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-18T10:09:05+05:30",
+      "time": "18 May, 10:09 AM",
+      "type": "tweets",
+      "content": "<p>PM Modi in Sweden: Key takeaways <br />\n<br />\nIndia to double trade and investment in next 5 years; agreement to jointly develop startup platform <br />\n<br />\n<a href=\"https://nitter.net/JyotsnaKumar13\" title=\"Jyotsna Kumar\">@JyotsnaKumar13</a> and <a href=\"https://nitter.net/ShivanChanana\" title=\"Shivan Chanana\">@ShivanChanana</a> bring you more by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2056233086824927361#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056215640508399616%2Fimg%2F0ad8Zfrq15UtQWrS.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Next-gene Ground Based Air Defence system, #ADFCR (Data pattern)\nThe dual-vehicle system with\n\u2022 Phantom Hunter X-Band Search Radar\n\u2022 Phantom Tracker Ka-Band Tracking Radar\n\u2022 EO tracking systems\n\u2022 Laser range finding capability",
+      "link": "https://nitter.net/DefenceDecode/status/2056231132350599295#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-05-18T10:01:19+05:30",
+      "time": "18 May, 10:01 AM",
+      "type": "tweets",
+      "content": "<p>Next-gene Ground Based Air Defence system, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ADFCR\">#ADFCR</a> (Data pattern)<br />\nThe dual-vehicle system with<br />\n\u2022 Phantom Hunter X-Band Search Radar<br />\n\u2022 Phantom Tracker Ka-Band Tracking Radar<br />\n\u2022 EO tracking systems<br />\n\u2022 Laser range finding capability</p>\n<img src=\"https://nitter.net/pic/media%2FHIky8h_bsAAVg2j.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "India expresses \"deeply concern\" at the attack targeting the Barakah nuclear facility in the UAE.",
+      "link": "https://nitter.net/sidhant/status/2056222666692952150#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-18T09:27:41+05:30",
+      "time": "18 May, 09:27 AM",
+      "type": "tweets",
+      "content": "<p>India expresses \"deeply concern\" at the attack targeting the Barakah nuclear facility in the UAE.</p>\n<img src=\"https://nitter.net/pic/media%2FHIkrnOjXYAASQdB.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>UAE reports strike near Abu Dhabi nuclear power plant</p>\n<img src=\"https://nitter.net/pic/media%2FHIil4XlWwAA1LD6.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2056075624184189165#m\">https://nitter.net/sidhant/status/2056075624184189165#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "Defence Minister Rajnath Singh reaches Hanoi today days after Vietnam President's India visit.",
       "link": "https://nitter.net/sidhant/status/2056220762336288869#m",
@@ -911,16 +915,6 @@
       "author": "@VatsRishap"
     },
     {
-      "title": "Indian-origin Norwegian MP Gulati hails 'untapped potential' in India-Norway ties ahead of PM Modi's landmark visit\n\nInterview:\n\nhttps://www.wionews.com/world/indian-origin-norwegian-mp-gulati-hails-untapped-potential-in-india-norway-ties-ahead-of-pm-modi-s-landmark-visit-1779041123622",
-      "link": "https://nitter.net/sidhant/status/2056080942683279527#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-18T00:04:31+05:30",
-      "time": "18 May, 12:04 AM",
-      "type": "tweets",
-      "content": "<p>Indian-origin Norwegian MP Gulati hails 'untapped potential' in India-Norway ties ahead of PM Modi's landmark visit<br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/indian-origin-norwegian-mp-gulati-hails-untapped-potential-in-india-norway-ties-ahead-of-pm-modi-s-landmark-visit-1779041123622\">wionews.com/world/indian-ori\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2056080915541934080%2FpVe6dgCt%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @sidhant: Swedish PM hails India-EU FTA, further calls it a 'new beginning' in ties as he issues a joint statement with PM Modi\n\nThe Indian Prime Minister also received Sweden's highest order for the head of government\n\n@eriknjoka brings you this report by @sidhant",
       "link": "https://nitter.net/WIONews/status/2056079315687842175#m",
       "source": "Sidhant Sibal",
@@ -951,16 +945,6 @@
       "author": "@WIONews"
     },
     {
-      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
-      "link": "https://nitter.net/sidhant/status/2056075624184189165#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-17T23:43:23+05:30",
-      "time": "17 May, 11:43 PM",
-      "type": "tweets",
-      "content": "<p>UAE reports strike near Abu Dhabi nuclear power plant</p>\n<img src=\"https://nitter.net/pic/media%2FHIil4XlWwAA1LD6.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @sidhant: India and Norway set to launch Green Strategic Partnership, says Ambassador May-Elin Stener\n\n@sidhant reports\n\nREAD: https://www.wionews.com/india-news/india-and-norway-set-to-launch-green-strategic-partnership-says-ambassador-may-elin-stener-1779038925657\n\nhttps://www.wionews.com/india-news/india-and-norway-set-to-launch-green-strategic-partnership-says-ambassador-may-elin-stener-1779038925657",
       "link": "https://nitter.net/WIONews/status/2056074022186864877#m",
       "source": "Sidhant Sibal",
@@ -969,16 +953,6 @@
       "type": "tweets",
       "content": "<p>India and Norway set to launch Green Strategic Partnership, says Ambassador May-Elin Stener<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> reports<br />\n<br />\nREAD: <a href=\"https://www.wionews.com/india-news/india-and-norway-set-to-launch-green-strategic-partnership-says-ambassador-may-elin-stener-1779038925657\">wionews.com/india-news/india\u2026</a><br />\n<br />\n<a href=\"https://www.wionews.com/india-news/india-and-norway-set-to-launch-green-strategic-partnership-says-ambassador-may-elin-stener-1779038925657\">wionews.com/india-news/india\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2056071173830758400%2FslIrDgCm%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@WIONews"
-    },
-    {
-      "title": "India and Norway set to launch Green Strategic Partnership, says Ambassador May-Elin Stener @norwayinindia @NorwayAmbIndia\n\nInterview from Oslo\n\nhttps://www.wionews.com/india-news/india-and-norway-set-to-launch-green-strategic-partnership-says-ambassador-may-elin-stener-1779038925657",
-      "link": "https://nitter.net/sidhant/status/2056073098105938170#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-17T23:33:21+05:30",
-      "time": "17 May, 11:33 PM",
-      "type": "tweets",
-      "content": "<p>India and Norway set to launch Green Strategic Partnership, says Ambassador May-Elin Stener <a href=\"https://nitter.net/norwayinindia\" title=\"Norway in India\">@norwayinindia</a> <a href=\"https://nitter.net/NorwayAmbIndia\" title=\"Ambassador May-Elin Stener\">@NorwayAmbIndia</a><br />\n<br />\nInterview from Oslo<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/india-and-norway-set-to-launch-green-strategic-partnership-says-ambassador-may-elin-stener-1779038925657\">wionews.com/india-news/india\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2056071173830758400%2FslIrDgCm%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Daily US-Israel-Iran War Brief:   \n17th May 2026:    \n\n  - We will be posting daily war updates on the ongoing war in Middle East \n   - \u2060Follow us for daily Brief\n\n    \u25cf Iranian Parliament Speaker Mohammad Bagher Ghalibaf was appointed as the country\u2019s special envoy for China affairs, signaling Tehran\u2019s push to strengthen ties with Beijing. \n\n \u25cf China\u2019s Ministry of Commerce announced that the latest round of economic and trade consultations with the United States yielded \u201cpositive outcomes.\u201d\n\n  \u25cf Reports confirm at least 11 US Air Force C-17A aircraft departed from Middle East bases heading to Europe, reminiscent of pre-hostilities patterns observed before Operation Epic Fury.\n\n  \u25cfA fire broke out in an electrical generator outside the inner perimeter of Abu Dhabi\u2019s Barakah Nuclear Power Plant. Abu Dhabi authorities reported no injuries and no impact on radiological safety. \n\n \u25cfAs of May 17, CENTCOM has redirected 81 commercial vessels and disabled 4 to ensure compliance with the naval blockcade. \n\n \u25cf Despite the 45-day ceasefire extension, low-level violations continued. The IDF reported intercepting several Hezbollah drones over southern Lebanon.  \nEND OF THE BRIEF.",
@@ -1741,8 +1715,18 @@
       "author": "@Goreunit"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Tejas Mk1A Induction with Limited Features,K9 Vajra 2.0 Ne Badla Game,Vietnam BrahMos Deal Confirm?",
+      "link": "https://www.youtube.com/watch?v=RfhY2Q9IqHY",
+      "source": "Indian Defense News",
+      "sort_key": "2026-05-17T23:09:29+05:30",
+      "time": "17 May, 11:09 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/RfhY2Q9IqHY/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "10:24 AM IST"
   }
 }
