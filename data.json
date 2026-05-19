@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Russia holds massive drills of nuclear forces as Ukraine steps up drone attacks",
+      "link": "https://economictimes.indiatimes.com/news/defence/russia-holds-massive-drills-of-nuclear-forces-as-ukraine-steps-up-drone-attacks/articleshow/131202305.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-19T18:49:08+05:30",
+      "time": "19 May, 06:49 PM",
+      "type": "news",
+      "description": "The three-day exercise will involve 64,000 troops, over 200 missile launchers, more than 140 aircraft, 73 surface warships and 13 submarines, includin..."
+    },
+    {
+      "title": "NATO jet shoots down stray Ukrainian drone in Estonia",
+      "link": "https://economictimes.indiatimes.com/news/defence/nato-jet-shoots-down-stray-ukrainian-drone-in-estonia/articleshow/131201892.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-19T18:29:03+05:30",
+      "time": "19 May, 06:29 PM",
+      "type": "news",
+      "description": "A NATO fighter jet shot down a Ukrainian drone in Estonian airspace after it was reportedly diverted by Russian jamming. This marks the first such int..."
+    },
+    {
       "title": "Naxalism eradicated from country before March 31 deadline: Amit Shah",
       "link": "https://www.tribuneindia.com/news/india/naxalism-eradicated-from-country-before-march-31-deadline-amit-shah",
       "source": "The Tribune",
@@ -53,6 +71,15 @@
       "time": "19 May, 05:23 PM",
       "type": "news",
       "description": "Iran's army has issued a stern warning to the United States. It states new fronts will be opened if attacks resume. This comes as both nations engage ..."
+    },
+    {
+      "title": "GymNation Secures $100 Million Investment From HPS, part of BlackRock, To Accelerate Expansion",
+      "link": "https://www.indiastrategic.in/gymnation-secures-100-million-investment-from-hps-part-of-blackrock-to-accelerate-expansion/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-19T17:10:54+05:30",
+      "time": "19 May, 05:10 PM",
+      "type": "news",
+      "description": "<p>Dubai, May 19, 2026. GymNation, the GCC\u2019s fastest-growing gym operator, has secured a $100 million private credit facility from certain funds, enti..."
     },
     {
       "title": "Long before Tejas, how India\u2019s indigenous fighter jet Marut met a painful death that still haunts India today",
@@ -132,15 +159,6 @@
       "source": "Economic Times",
       "sort_key": "2026-05-19T14:03:13+05:30",
       "time": "19 May, 02:03 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Iran warns Trump against military action, says US will be forced to \u2018retreat and surrender\u2019",
-      "link": "https://www.newindianexpress.com/world/2026/May/19/iran-warns-trump-against-military-action-says-us-will-be-forced-to-retreat-and-surrender",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-19T13:54:36+05:30",
-      "time": "19 May, 01:54 PM",
       "type": "news",
       "description": ""
     },
@@ -487,15 +505,6 @@
       "description": "Pakistan has deployed 8,000 troops, a squadron of fighter jets and an air defence system to Saudi Arabia under a mutual defence pact, deepening milita..."
     },
     {
-      "title": "Taiwan will not provoke conflict nor give up sovereignty, says President Lai",
-      "link": "https://www.indiastrategic.in/taiwan-will-not-provoke-conflict-nor-give-up-sovereignty-says-president-lai/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-18T14:43:43+05:30",
-      "time": "18 May, 02:43 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Taipei, Taiwan, May 18, 2026. Taiwan will not provoke any conflict but will also not give up its sovereignty, said its President La..."
-    },
-    {
       "title": "Rajnath Singh embarks on 4-day trip to Vietnam and South Korea",
       "link": "https://economictimes.indiatimes.com/news/defence/rajnath-embarks-on-4-day-trip-to-vietnam-and-south-korea/articleshow/131171924.cms",
       "source": "Economic Times",
@@ -755,36 +764,109 @@
       "time": "17 May, 09:34 PM",
       "type": "news",
       "description": "Chinese Studies expert at Jawaharlal Nehru University, Professor Srikanth Kondapalli, broke down the long-term regional stability implications of US P..."
-    },
-    {
-      "title": "Sri Lanka's move to lease strategic airport near China-controlled Hambantota port sparks Indian interest",
-      "link": "https://economictimes.indiatimes.com/news/defence/sri-lankas-strategic-airport-lease-near-china-backed-hambantota-port-attracts-indian-investment-interest/articleshow/131155468.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-17T19:12:44+05:30",
-      "time": "17 May, 07:12 PM",
-      "type": "news",
-      "description": "India is keenly watching Sri Lanka's move to offer control of Mattala Rajapaksa International Airport to foreign investors. This presents a significan..."
-    },
-    {
-      "title": "Taiwan's leader says US arms sales, security cooperation key to peace",
-      "link": "https://economictimes.indiatimes.com/news/defence/taiwans-leader-says-us-arms-sales-security-cooperation-key-to-peace/articleshow/131155026.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-17T18:40:58+05:30",
-      "time": "17 May, 06:40 PM",
-      "type": "news",
-      "description": "Taiwan's President Lai Ching-te highlighted the essential role of US arms sales and security partnerships in promoting peace across the region. He ins..."
-    },
-    {
-      "title": "1 Indian man killed, 3 injured as Ukraine launches \u2018one of largest drone attacks\u2019 against Russia",
-      "link": "https://indianexpress.com/article/world/indian-citizen-killed-ukrainian-drone-strike-moscow-russia-war-casualties-10694416/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-17T18:36:32+05:30",
-      "time": "17 May, 06:36 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Dispatches from the ground.\n\nConcluding from the 3rd India, Nordic summit, Oslo, Norway \ud83c\uddf3\ud83c\uddf4 \n\n@WIONews",
+      "link": "https://nitter.net/sidhant/status/2056734728875590029#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-19T19:22:26+05:30",
+      "time": "19 May, 07:22 PM",
+      "type": "tweets",
+      "content": "<p>Dispatches from the ground.<br />\n<br />\nConcluding from the 3rd India, Nordic summit, Oslo, Norway \ud83c\uddf3\ud83c\uddf4 <br />\n<br />\n<a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<a href=\"https://nitter.net/sidhant/status/2056734728875590029#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2056734676811730944%2Fpu%2Fimg%2F5aQmrm21cY6ASgfx.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Shameless Paijaans are circulating footage of their own army being hit in an ambush by TTP and passing it off as an Indian Army operation in Kashmir, then celebrating it online...\ud83e\udd26\n\n FYKI, OpSindoor is not over yet....\n\nhttps://www.freepressjournal.in/world/pakistan-army-major-soldier-killed-in-brutal-ttp-attack-on-pak-afghan-border-horrific-visuals-surface",
+      "link": "https://nitter.net/OsintTV/status/2056733567204339947#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-19T19:17:49+05:30",
+      "time": "19 May, 07:17 PM",
+      "type": "tweets",
+      "content": "<p>Shameless Paijaans are circulating footage of their own army being hit in an ambush by TTP and passing it off as an Indian Army operation in Kashmir, then celebrating it online...\ud83e\udd26<br />\n<br />\n FYKI, OpSindoor is not over yet....<br />\n<br />\n<a href=\"https://www.freepressjournal.in/world/pakistan-army-major-soldier-killed-in-brutal-ttp-attack-on-pak-afghan-border-horrific-visuals-surface\">freepressjournal.in/world/pa\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHIr8RW8XMAAfY9s.jpg\" />\n\n<hr />\n<blockquote>\n<b>Baba Thoka (@ThokaReturns)</b>\n<p>\n<p>Kashmiri Mujahideen (Freedom Fighters) reportedly ambushed an Indian Army convoy while it was proceeding to Jhakar Post from the Noshera Brigade area, Rajouri district, right along the Line of Control (LoC) in the Jammu.</p>\n<a href=\"https://nitter.net/ThokaReturns/status/2056696747079107035#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056696675843133440%2Fimg%2FwUdSQUyA7M4kdeAk.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThokaReturns/status/2056696747079107035#m\">https://nitter.net/ThokaReturns/status/2056696747079107035#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Happy to see OsintTV updates reaching the right audience and gaining attention where it matters....",
+      "link": "https://nitter.net/OsintTV/status/2056725007049294210#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-19T18:43:48+05:30",
+      "time": "19 May, 06:43 PM",
+      "type": "tweets",
+      "content": "<p>Happy to see OsintTV updates reaching the right audience and gaining attention where it matters....</p>\n<img src=\"https://nitter.net/pic/media%2FHIr0cfiWwAAAQRT.jpg\" />\n\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\u201cLahori Churan Max Pro\u201d.... \ud83e\udd23<br />\n<br />\n\ud83d\udccd Host: The Fateh 1 missiles you fired, did they hit the intended targets successfully?<br />\n<br />\n\ud83d\udccd Churan Master: Exactly. We were assigned two targets, RAJOURI AIRBASE and MAMUN AIRBASE, and we successfully engaged them.<br />\n<br />\nOsintTV: Hien...Can someone please explain where exactly \u201cRajouri Airbase\u201d and \u201cMamun Airbase\u201d exist in India... ?Archaeologists, cartographers, Google Maps, and the Indian Air Force have all launched a joint mission to locate these legendary airbases. \ud83d\ude02<br />\n<br />\n\ud83d\udccd The moment the Host realized the blunder, instant recovery mode activated:\u201cSo\u2026 you were with Major Mamoon?\u201d \ud83e\udd23</p>\n<a href=\"https://nitter.net/OsintTV/status/2056578089086533668#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056472007772950528%2Fimg%2FwhBUa2VvjujX6SBC.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2056578089086533668#m\">https://nitter.net/OsintTV/status/2056578089086533668#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "\"Sambandh\" is an Icelandic terms, Island PM Kristr\u00fan Frostad\u00f3ttir tells PM Modi @WIONews, pointing to language connect",
+      "link": "https://nitter.net/sidhant/status/2056720528426090774#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-19T18:26:00+05:30",
+      "time": "19 May, 06:26 PM",
+      "type": "tweets",
+      "content": "<p>\"Sambandh\" is an Icelandic terms, Island PM Kristr\u00fan Frostad\u00f3ttir tells PM Modi <a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a>, pointing to language connect</p>\n<a href=\"https://nitter.net/sidhant/status/2056720528426090774#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2056720478803214336%2Fpu%2Fimg%2FJZRTk6OMh4DCDa1H.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Pakistan\u2019s political leadership is no longer even pretending to keep distance from globally designated terror figures.\n\nHere is the video proof. Talha Saeed and Lashkar-e-Taiba co-founder Amir Hamza are openly seen alongside senior pak ministers. These terroristgroup members are not operating from the shadows. They are being protected, legitimized, and politically shielded by the very people running the state.\n\n\ud83d\udccdAttaullah Tarar\nFederal Minister for Information and Broadcasting\n\ud83d\udccd Ahsan Iqbal\nFederal Minister for Planning, Development and Special Initiatives\n\ud83d\udccdRana Sanaullah -Adviser to the Prime Minister on Political Affairs\n\ud83d\udccdMalik Muhammad Ahmad Khan\nSpeaker, Punjab Assembly",
+      "link": "https://nitter.net/OsintTV/status/2056719745466912975#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-19T18:22:53+05:30",
+      "time": "19 May, 06:22 PM",
+      "type": "tweets",
+      "content": "<p>Pakistan\u2019s political leadership is no longer even pretending to keep distance from globally designated terror figures.<br />\n<br />\nHere is the video proof. Talha Saeed and Lashkar-e-Taiba co-founder Amir Hamza are openly seen alongside senior pak ministers. These terroristgroup members are not operating from the shadows. They are being protected, legitimized, and politically shielded by the very people running the state.<br />\n<br />\n\ud83d\udccdAttaullah Tarar<br />\nFederal Minister for Information and Broadcasting<br />\n\ud83d\udccd Ahsan Iqbal<br />\nFederal Minister for Planning, Development and Special Initiatives<br />\n\ud83d\udccdRana Sanaullah -Adviser to the Prime Minister on Political Affairs<br />\n\ud83d\udccdMalik Muhammad Ahmad Khan<br />\nSpeaker, Punjab Assembly</p>\n<a href=\"https://nitter.net/OsintTV/status/2056719745466912975#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056718566108340224%2Fimg%2F3gj74bjXR1i6LFmW.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Finland to hold next India Nordic summit, annouces Finland PM",
+      "link": "https://nitter.net/sidhant/status/2056719449781137796#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-19T18:21:43+05:30",
+      "time": "19 May, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>Finland to hold next India Nordic summit, annouces Finland PM</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "EAM Jaishankar, NSA Ajit Doval,  FS Misri, Secy West Sibi George & JS PMO Manhar Yadav at India, Nordic summit",
+      "link": "https://nitter.net/sidhant/status/2056719259024208211#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-19T18:20:58+05:30",
+      "time": "19 May, 06:20 PM",
+      "type": "tweets",
+      "content": "<p>EAM Jaishankar, NSA Ajit Doval,  FS Misri, Secy West Sibi George &amp; JS PMO Manhar Yadav at India, Nordic summit</p>\n<img src=\"https://nitter.net/pic/media%2FHIrvREoWQAA3jqn.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India is a big power, says Denmark PM",
+      "link": "https://nitter.net/sidhant/status/2056718516967928177#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-19T18:18:01+05:30",
+      "time": "19 May, 06:18 PM",
+      "type": "tweets",
+      "content": "<p>India is a big power, says Denmark PM</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Press statement by India, Nordic leaders begins in Oslo</p>\n<img src=\"https://nitter.net/pic/media%2FHIrsFpLXsAEn0Hs.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2056715764816592924#m\">https://nitter.net/sidhant/status/2056715764816592924#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian PM Modi calls for strengthening of ties with Nordic",
+      "link": "https://nitter.net/sidhant/status/2056718376005730573#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-19T18:17:27+05:30",
+      "time": "19 May, 06:17 PM",
+      "type": "tweets",
+      "content": "<p>Indian PM Modi calls for strengthening of ties with Nordic</p>\n<a href=\"https://nitter.net/sidhant/status/2056718376005730573#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2056718313732947968%2Fpu%2Fimg%2FuymL3GOA4gfNcNzB.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "UNSC needs to be reformed, terrorism cannot have double standards,  PM Modi at India Nordic summit",
+      "link": "https://nitter.net/sidhant/status/2056718019980615884#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-19T18:16:02+05:30",
+      "time": "19 May, 06:16 PM",
+      "type": "tweets",
+      "content": "<p>UNSC needs to be reformed, terrorism cannot have double standards,  PM Modi at India Nordic summit</p>\n<a href=\"https://nitter.net/sidhant/status/2056718019980615884#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2056717965903462400%2Fpu%2Fimg%2F1n3BouNUtK0y24I2.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "India annouces Green technology partnership with Nordic countries",
       "link": "https://nitter.net/sidhant/status/2056717323273134266#m",
@@ -986,77 +1068,7 @@
       "author": "@cozyduke_apt29"
     },
     {
-      "title": "Russian President Putin to attend the BRICS summit in New Delhi on September 12-13, annouces Kremlin",
-      "link": "https://nitter.net/sidhant/status/2056673555010465888#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-19T15:19:21+05:30",
-      "time": "19 May, 03:19 PM",
-      "type": "tweets",
-      "content": "<p>Russian President Putin to attend the BRICS summit in New Delhi on September 12-13, annouces Kremlin</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US approves $198.2M Apache Helicopters follow-on support sale to India.",
-      "link": "https://nitter.net/sidhant/status/2056663836648776024#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-19T14:40:44+05:30",
-      "time": "19 May, 02:40 PM",
-      "type": "tweets",
-      "content": "<p>US approves $198.2M Apache Helicopters follow-on support sale to India.</p>\n<img src=\"https://nitter.net/pic/media%2FHIq83GxWUAALt2D.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India, Nordic summit set to begin shortly. Reporting from Summit Venue",
-      "link": "https://nitter.net/sidhant/status/2056663553331925362#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-19T14:39:36+05:30",
-      "time": "19 May, 02:39 PM",
-      "type": "tweets",
-      "content": "<p>India, Nordic summit set to begin shortly. Reporting from Summit Venue</p>\n<a href=\"https://nitter.net/sidhant/status/2056663553331925362#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056654349192089600%2Fimg%2FevweI-mn_odm43yH.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: Norway minister hails India's digital revolution as key to new green partnership\n\nWrites @sidhant \n\nREAD: https://www.wionews.com/world/norway-minister-hails-india-s-digital-revolution-as-key-to-new-green-partnership-1779179536145\n\nhttps://www.wionews.com/world/norway-minister-hails-india-s-digital-revolution-as-key-to-new-green-partnership-1779179536145",
-      "link": "https://nitter.net/WIONews/status/2056660825373577727#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-19T14:28:46+05:30",
-      "time": "19 May, 02:28 PM",
-      "type": "tweets",
-      "content": "<p>Norway minister hails India's digital revolution as key to new green partnership<br />\n<br />\nWrites <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> <br />\n<br />\nREAD: <a href=\"https://www.wionews.com/world/norway-minister-hails-india-s-digital-revolution-as-key-to-new-green-partnership-1779179536145\">wionews.com/world/norway-min\u2026</a><br />\n<br />\n<a href=\"https://www.wionews.com/world/norway-minister-hails-india-s-digital-revolution-as-key-to-new-green-partnership-1779179536145\">wionews.com/world/norway-min\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2056657479212072960%2FYTVIcH6j%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@WIONews"
-    },
-    {
-      "title": "RT by @sidhant: First Norway visit by Indian PM in 43 years \n\nIndian diaspora elated after meeting PM Modi \n\nNorway backs India's fight against terrorism; hails growing ties \n\n@kripatistic and @sidhant have more",
-      "link": "https://nitter.net/WIONews/status/2056657787611156531#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-19T14:16:42+05:30",
-      "time": "19 May, 02:16 PM",
-      "type": "tweets",
-      "content": "<p>First Norway visit by Indian PM in 43 years <br />\n<br />\nIndian diaspora elated after meeting PM Modi <br />\n<br />\nNorway backs India's fight against terrorism; hails growing ties <br />\n<br />\n<a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2056657787611156531#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056654349192089600%2Fimg%2FevweI-mn_odm43yH.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
-      "title": "India-Norway Green Partnership to drive sustainable growth, says Norwegian Foreign Minister Espen Barth Eide @EspenBarthEide\n\nInterview from Oslo\n\nhttps://www.wionews.com/world/india-norway-green-partnership-to-drive-sustainable-growth-says-fm-eide-1779177786491",
-      "link": "https://nitter.net/sidhant/status/2056657758095630497#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-19T14:16:35+05:30",
-      "time": "19 May, 02:16 PM",
-      "type": "tweets",
-      "content": "<p>India-Norway Green Partnership to drive sustainable growth, says Norwegian Foreign Minister Espen Barth Eide <a href=\"https://nitter.net/EspenBarthEide\" title=\"Espen Barth Eide\">@EspenBarthEide</a><br />\n<br />\nInterview from Oslo<br />\n<br />\n<a href=\"https://www.wionews.com/world/india-norway-green-partnership-to-drive-sustainable-growth-says-fm-eide-1779177786491\">wionews.com/world/india-norw\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2056657632362930176%2FqIZxPDt6%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Norway Minister hails India's digital revolution as key to new green partnership. Interview with \u00c5smund Gr\u00f8ver Aukrust, Norway's Minister of International Development.\n\nInterview from Oslo:\n\nhttps://www.wionews.com/world/norway-minister-hails-india-s-digital-revolution-as-key-to-new-green-partnership-1779179536145",
-      "link": "https://nitter.net/sidhant/status/2056657478029365379#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-19T14:15:28+05:30",
-      "time": "19 May, 02:15 PM",
-      "type": "tweets",
-      "content": "<p>Norway Minister hails India's digital revolution as key to new green partnership. Interview with \u00c5smund Gr\u00f8ver Aukrust, Norway's Minister of International Development.<br />\n<br />\nInterview from Oslo:<br />\n<br />\n<a href=\"https://www.wionews.com/world/norway-minister-hails-india-s-digital-revolution-as-key-to-new-green-partnership-1779179536145\">wionews.com/world/norway-min\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2056657479212072960%2FYTVIcH6j%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Terrorist Hafiz Saeed, who is around 75 years old now has an 8 - 9 year old son named Abdullah from his third wife. \n\nNote : His first son Talha Saeed from his 1st wife is currently around 50 years old.\n\n(AI generated pic for representative purposes)",
+      "title": "RT by @OsintTV: Terrorist Hafiz Saeed, who is around 75 years old now has an 8 - 9 year old son named Abdullah from his third wife. \n\nNote : His first son Talha Saeed from his 1st wife is currently around 50 years old.\n\n(AI generated pic for representative purposes)",
       "link": "https://nitter.net/OsintTV/status/2056657035106582783#m",
       "source": "Osint TV",
       "sort_key": "2026-05-19T14:13:42+05:30",
@@ -1166,7 +1178,7 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "RT by @OsintTV: LAHORI CHURAN Ultra Pro...\ud83e\udd23\n\n\ud83d\udccd Churan-1: Toh... yeh Fatah-1 hai. Fatah-2, Fatah-3 bhi humare paas hai. Testing ho chuki hai lekin humne fire nahi kiya.\n\n\ud83d\udccd Churan Master: Sir, humare paas Fatah-3 nahi, Fatah-5 tak series hai.\n\n\ud83d\udccd Churan-1: Fatah-5 tak...? \ud83e\udeea\n\n\ud83d\udccd Churan Master: Aur uski testing bhi ho chuki hai, fire bhi ho chuka hai...\n\nNote: Reality check, Pakistan recently in 2026 tested only Fatah-4, based on Chinese TAKNOLOGI. But according to Churan doctrine, luckily India didn\u2019t give them a chance to launch the imaginary Fatah-5 during the 2025 baniyan chaddi operation... \ud83e\udd23",
+      "title": "LAHORI CHURAN Ultra Pro...\ud83e\udd23\n\n\ud83d\udccd Churan-1: Toh... yeh Fatah-1 hai. Fatah-2, Fatah-3 bhi humare paas hai. Testing ho chuki hai lekin humne fire nahi kiya.\n\n\ud83d\udccd Churan Master: Sir, humare paas Fatah-3 nahi, Fatah-5 tak series hai.\n\n\ud83d\udccd Churan-1: Fatah-5 tak...? \ud83e\udeea\n\n\ud83d\udccd Churan Master: Aur uski testing bhi ho chuki hai, fire bhi ho chuka hai...\n\nNote: Reality check, Pakistan recently in 2026 tested only Fatah-4, based on Chinese TAKNOLOGI. But according to Churan doctrine, luckily India didn\u2019t give them a chance to launch the imaginary Fatah-5 during the 2025 baniyan chaddi operation... \ud83e\udd23",
       "link": "https://nitter.net/OsintTV/status/2056611508918915352#m",
       "source": "Osint TV",
       "sort_key": "2026-05-19T11:12:48+05:30",
@@ -1206,7 +1218,7 @@
       "author": "@AadiAchint"
     },
     {
-      "title": "RT by @OsintTV: \u201cLahori Churan Max Pro\u201d.... \ud83e\udd23\n\n\ud83d\udccd Host: The Fateh 1 missiles you fired, did they hit the intended targets successfully?\n\n\ud83d\udccd Churan Master: Exactly. We were assigned two targets, RAJOURI AIRBASE and MAMUN AIRBASE, and we successfully engaged them.\n\nOsintTV: Hien...Can someone please explain where exactly \u201cRajouri Airbase\u201d and \u201cMamun Airbase\u201d exist in India... ?Archaeologists, cartographers, Google Maps, and the Indian Air Force have all launched a joint mission to locate these legendary airbases. \ud83d\ude02\n\n\ud83d\udccd The moment the Host realized the blunder, instant recovery mode activated:\u201cSo\u2026 you were with Major Mamoon?\u201d \ud83e\udd23",
+      "title": "\u201cLahori Churan Max Pro\u201d.... \ud83e\udd23\n\n\ud83d\udccd Host: The Fateh 1 missiles you fired, did they hit the intended targets successfully?\n\n\ud83d\udccd Churan Master: Exactly. We were assigned two targets, RAJOURI AIRBASE and MAMUN AIRBASE, and we successfully engaged them.\n\nOsintTV: Hien...Can someone please explain where exactly \u201cRajouri Airbase\u201d and \u201cMamun Airbase\u201d exist in India... ?Archaeologists, cartographers, Google Maps, and the Indian Air Force have all launched a joint mission to locate these legendary airbases. \ud83d\ude02\n\n\ud83d\udccd The moment the Host realized the blunder, instant recovery mode activated:\u201cSo\u2026 you were with Major Mamoon?\u201d \ud83e\udd23",
       "link": "https://nitter.net/OsintTV/status/2056578089086533668#m",
       "source": "Osint TV",
       "sort_key": "2026-05-19T09:00:00+05:30",
@@ -1446,7 +1458,7 @@
       "author": "@SongsOfChinar"
     },
     {
-      "title": "RT by @OsintTV: With a dead serious face, Pakistani \u201cExfart\u201d listing Indian bases destroyed in \u201cBaniyan Chaddi Operation\u201d like WhatsApp forwards are declassified military intel \ud83d\ude1d\n\nChandigarh weapon depot,\nSrinagar airbase\nRajasthan military installation,\nGujarat airbase\nJalandhar airbase\nPathankot airbase\nAdampur airbase defense system S-400 \ud83d\ude02\nUdhampur, Bathinda\nSuratgarh\nMamun\nAkhnoor\nBarnala airbase, \nUri supply depot... Sab bure tareeqe se tabah ho chuka hai \ud83d\ude02\n\nFemale host trying hard not to laugh, anchor almost asking:\n\u201cAur kuch bacha hai ya pura map hi delete kar diya?\u201d \ud83d\ude1d",
+      "title": "With a dead serious face, Pakistani \u201cExfart\u201d listing Indian bases destroyed in \u201cBaniyan Chaddi Operation\u201d like WhatsApp forwards are declassified military intel \ud83d\ude1d\n\nChandigarh weapon depot,\nSrinagar airbase\nRajasthan military installation,\nGujarat airbase\nJalandhar airbase\nPathankot airbase\nAdampur airbase defense system S-400 \ud83d\ude02\nUdhampur, Bathinda\nSuratgarh\nMamun\nAkhnoor\nBarnala airbase, \nUri supply depot... Sab bure tareeqe se tabah ho chuka hai \ud83d\ude02\n\nFemale host trying hard not to laugh, anchor almost asking:\n\u201cAur kuch bacha hai ya pura map hi delete kar diya?\u201d \ud83d\ude1d",
       "link": "https://nitter.net/OsintTV/status/2056372888060473738#m",
       "source": "Osint TV",
       "sort_key": "2026-05-18T19:24:36+05:30",
@@ -1656,16 +1668,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "RT by @OsintTV: \u092e\u093e\u0932\u0947\u0917\u093e\u0902\u0935 \u0935\u093f\u0938\u094d\u092b\u094b\u091f \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u0932\u0917\u092d\u0917 18 \u0935\u0930\u094d\u0937\u094b\u0902 \u0924\u0915 \u091a\u0932\u0947 \u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0902\u0918\u0930\u094d\u0937, \u0928\u094c \u0935\u0930\u094d\u0937 \u0915\u0940 \u091c\u0947\u0932, \u0928\u094d\u092f\u093e\u092f\u093e\u0932\u092f \u0938\u0947 \u092c\u0930\u0940 \u0939\u094b\u0928\u0947 \u0914\u0930 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u092e\u0947\u0902 \u0938\u092e\u094d\u092e\u093e\u0928\u091c\u0928\u0915 \u0935\u093e\u092a\u0938\u0940 \u0915\u0947 \u092c\u093e\u0926 \u092c\u094d\u0930\u093f\u0917\u0947\u0921\u093f\u092f\u0930 \u0936\u094d\u0930\u0940\u0915\u093e\u0902\u0924 \u092a\u094d\u0930\u0938\u093e\u0926 \u092a\u0941\u0930\u094b\u0939\u093f\u0924 \u0928\u0947 \u091c\u092f\u092a\u0941\u0930 \u0938\u094d\u0925\u093f\u0924 \u0938\u093e\u0909\u0925 \u0935\u0947\u0938\u094d\u091f\u0930\u094d\u0928 \u0915\u092e\u093e\u0902\u0921 \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u092e\u0947\u0902 \u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940 \u0907\u0902\u091f\u0947\u0932\u093f\u091c\u0947\u0902\u0938 \u0915\u0947 \u092c\u094d\u0930\u093f\u0917\u0947\u0921\u093f\u092f\u0930 \u091c\u0940\u090f\u0938 (\u0907\u0902\u091f\u0947\u0932\u093f\u091c\u0947\u0902\u0938) \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u0938\u0902\u092d\u093e\u0932\u093e \u092a\u0926\u092d\u093e\u0930, \u0905\u092c \u092c\u0940\u0915\u093e\u0928\u0947\u0930, \u0936\u094d\u0930\u0940\u0917\u0902\u0917\u093e\u0928\u0917\u0930, \u091c\u0948\u0938\u0932\u092e\u0947\u0930, \u092c\u093e\u0921\u093c\u092e\u0947\u0930 \u0914\u0930 \u092a\u0902\u091c\u093e\u092c \u0938\u0947 \u0938\u091f\u0947 \u0938\u0902\u0935\u0947\u0926\u0928\u0936\u0940\u0932 \u092d\u093e\u0930\u0924-\u092a\u093e\u0915 \u0938\u0940\u092e\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0930\u0923\u0928\u0940\u0924\u093f\u0915 \u0916\u0941\u092b\u093f\u092f\u093e \u0928\u093f\u0917\u0930\u093e\u0928\u0940 \u0915\u0940 \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u091c\u093f\u092e\u094d\u092e\u0947\u0926\u093e\u0930\u0940 \u0909\u0928\u0915\u0947 \u0915\u0902\u0927\u094b\u0902 \u092a\u0930\n\nIn a remarkable turn of events that marks one of the most dramatic comebacks in modern Indian military history, Brigadier Shrikant Prasad Purohit has assumed charge as Brigadier GS (Intelligence) at Headquarters South Western Command, Jaipur.\n\nOnce at the center of the 2008 Malegaon blast case, Purohit spent nearly nine years in jail and fought a legal battle that lasted close to 18 years. Throughout the ordeal, he maintained that his interactions with extremist elements were part of authorized Military Intelligence operations aimed at infiltrating and monitoring suspicious networks.\n\nIn July 2025, the NIA Special Court acquitted him and all other accused, concluding that the prosecution failed to prove the charges beyond reasonable doubt. Following his acquittal, the Indian Army restored his career progression, promoted him to Brigadier, and entrusted him with one of the most sensitive intelligence appointments in the force.\n\nAs Brigadier GS (Intelligence) at South Western Command, headquartered in Jaipur, he will oversee strategic intelligence assessments related to the western theatre, including Rajasthan\u2019s key border districts such as Bikaner, Sri Ganganagar, Jaisalmer, Barmer, and adjoining sectors linked to Punjab and Gujarat. His role will involve monitoring Pakistani military deployments, drone intrusions, cross-border smuggling routes, terror networks, and emerging hybrid warfare threats.\n\nFor many in the defence community, this appointment symbolizes institutional confidence, professional vindication, and the extraordinary resilience of an officer who returned from one of the most controversial legal battles in India to occupy a coveted Military Intelligence position at the heart of the nation\u2019s western security architecture.\n\n#ShrikantPurohit #BrigadierPurohit #MilitaryIntelligence #IndianArmy #SouthWesternCommand #Jaipur #SaptaShaktiCommand #MalegaonCase #NationalSecurity #DefenceNews #IndiaPakistanBorder #RajasthanBorder #Bikaner #Jaisalmer #SriGanganagar #IndianMilitary #MilitaryHistory #DefenceJournalistSahil #TINNetwork #StrategicAffairs #OperationSindoor #IndianDefence #AtmanirbharBharat #BorderSecurity #MilitaryIntelligenceCorps",
-      "link": "https://nitter.net/DefenceSahil/status/2056229226601447484#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-18T09:53:45+05:30",
-      "time": "18 May, 09:53 AM",
-      "type": "tweets",
-      "content": "<p>\u092e\u093e\u0932\u0947\u0917\u093e\u0902\u0935 \u0935\u093f\u0938\u094d\u092b\u094b\u091f \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u0932\u0917\u092d\u0917 18 \u0935\u0930\u094d\u0937\u094b\u0902 \u0924\u0915 \u091a\u0932\u0947 \u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0902\u0918\u0930\u094d\u0937, \u0928\u094c \u0935\u0930\u094d\u0937 \u0915\u0940 \u091c\u0947\u0932, \u0928\u094d\u092f\u093e\u092f\u093e\u0932\u092f \u0938\u0947 \u092c\u0930\u0940 \u0939\u094b\u0928\u0947 \u0914\u0930 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u092e\u0947\u0902 \u0938\u092e\u094d\u092e\u093e\u0928\u091c\u0928\u0915 \u0935\u093e\u092a\u0938\u0940 \u0915\u0947 \u092c\u093e\u0926 \u092c\u094d\u0930\u093f\u0917\u0947\u0921\u093f\u092f\u0930 \u0936\u094d\u0930\u0940\u0915\u093e\u0902\u0924 \u092a\u094d\u0930\u0938\u093e\u0926 \u092a\u0941\u0930\u094b\u0939\u093f\u0924 \u0928\u0947 \u091c\u092f\u092a\u0941\u0930 \u0938\u094d\u0925\u093f\u0924 \u0938\u093e\u0909\u0925 \u0935\u0947\u0938\u094d\u091f\u0930\u094d\u0928 \u0915\u092e\u093e\u0902\u0921 \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u092e\u0947\u0902 \u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940 \u0907\u0902\u091f\u0947\u0932\u093f\u091c\u0947\u0902\u0938 \u0915\u0947 \u092c\u094d\u0930\u093f\u0917\u0947\u0921\u093f\u092f\u0930 \u091c\u0940\u090f\u0938 (\u0907\u0902\u091f\u0947\u0932\u093f\u091c\u0947\u0902\u0938) \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u0938\u0902\u092d\u093e\u0932\u093e \u092a\u0926\u092d\u093e\u0930, \u0905\u092c \u092c\u0940\u0915\u093e\u0928\u0947\u0930, \u0936\u094d\u0930\u0940\u0917\u0902\u0917\u093e\u0928\u0917\u0930, \u091c\u0948\u0938\u0932\u092e\u0947\u0930, \u092c\u093e\u0921\u093c\u092e\u0947\u0930 \u0914\u0930 \u092a\u0902\u091c\u093e\u092c \u0938\u0947 \u0938\u091f\u0947 \u0938\u0902\u0935\u0947\u0926\u0928\u0936\u0940\u0932 \u092d\u093e\u0930\u0924-\u092a\u093e\u0915 \u0938\u0940\u092e\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u094b\u0902 \u0915\u0940 \u0930\u0923\u0928\u0940\u0924\u093f\u0915 \u0916\u0941\u092b\u093f\u092f\u093e \u0928\u093f\u0917\u0930\u093e\u0928\u0940 \u0915\u0940 \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u091c\u093f\u092e\u094d\u092e\u0947\u0926\u093e\u0930\u0940 \u0909\u0928\u0915\u0947 \u0915\u0902\u0927\u094b\u0902 \u092a\u0930<br />\n<br />\nIn a remarkable turn of events that marks one of the most dramatic comebacks in modern Indian military history, Brigadier Shrikant Prasad Purohit has assumed charge as Brigadier GS (Intelligence) at Headquarters South Western Command, Jaipur.<br />\n<br />\nOnce at the center of the 2008 Malegaon blast case, Purohit spent nearly nine years in jail and fought a legal battle that lasted close to 18 years. Throughout the ordeal, he maintained that his interactions with extremist elements were part of authorized Military Intelligence operations aimed at infiltrating and monitoring suspicious networks.<br />\n<br />\nIn July 2025, the NIA Special Court acquitted him and all other accused, concluding that the prosecution failed to prove the charges beyond reasonable doubt. Following his acquittal, the Indian Army restored his career progression, promoted him to Brigadier, and entrusted him with one of the most sensitive intelligence appointments in the force.<br />\n<br />\nAs Brigadier GS (Intelligence) at South Western Command, headquartered in Jaipur, he will oversee strategic intelligence assessments related to the western theatre, including Rajasthan\u2019s key border districts such as Bikaner, Sri Ganganagar, Jaisalmer, Barmer, and adjoining sectors linked to Punjab and Gujarat. His role will involve monitoring Pakistani military deployments, drone intrusions, cross-border smuggling routes, terror networks, and emerging hybrid warfare threats.<br />\n<br />\nFor many in the defence community, this appointment symbolizes institutional confidence, professional vindication, and the extraordinary resilience of an officer who returned from one of the most controversial legal battles in India to occupy a coveted Military Intelligence position at the heart of the nation\u2019s western security architecture.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23ShrikantPurohit\">#ShrikantPurohit</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BrigadierPurohit\">#BrigadierPurohit</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryIntelligence\">#MilitaryIntelligence</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SouthWesternCommand\">#SouthWesternCommand</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Jaipur\">#Jaipur</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SaptaShaktiCommand\">#SaptaShaktiCommand</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MalegaonCase\">#MalegaonCase</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NationalSecurity\">#NationalSecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceNews\">#DefenceNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaPakistanBorder\">#IndiaPakistanBorder</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RajasthanBorder\">#RajasthanBorder</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Bikaner\">#Bikaner</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Jaisalmer\">#Jaisalmer</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SriGanganagar\">#SriGanganagar</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianMilitary\">#IndianMilitary</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryHistory\">#MilitaryHistory</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceJournalistSahil\">#DefenceJournalistSahil</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TINNetwork\">#TINNetwork</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23StrategicAffairs\">#StrategicAffairs</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationSindoor\">#OperationSindoor</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianDefence\">#IndianDefence</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AtmanirbharBharat\">#AtmanirbharBharat</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BorderSecurity\">#BorderSecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryIntelligenceCorps\">#MilitaryIntelligenceCorps</a></p>\n<img src=\"https://nitter.net/pic/media%2FHIkxlXvaAAAHd0h.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIkxlYiaYAAalgH.jpg\" />",
-      "author": "@DefenceSahil"
-    },
-    {
       "title": "He is pretending to be cool after using unwanted ambiguous emojis \"\ud83e\udd21\ud83d\ude02\"\n\nThis inferiority laden retard has blocked everyone to evade a debate who tried to confront him. \n\nInferiority over inclusion :)",
       "link": "https://nitter.net/Goreunit/status/2056175534162444680#m",
       "source": "War & Gore",
@@ -1724,19 +1726,18 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief:   <br />\n17th May 2026:    <br />\n<br />\n  - We will be posting daily war updates on the ongoing war in Middle East <br />\n   - \u2060Follow us for daily Brief<br />\n<br />\n    \u25cf Iranian Parliament Speaker Mohammad Bagher Ghalibaf was appointed as the country\u2019s special envoy for China affairs, signaling Tehran\u2019s push to strengthen ties with Beijing. <br />\n<br />\n \u25cf China\u2019s Ministry of Commerce announced that the latest round of economic and trade consultations with the United States yielded \u201cpositive outcomes.\u201d<br />\n<br />\n  \u25cf Reports confirm at least 11 US Air Force C-17A aircraft departed from Middle East bases heading to Europe, reminiscent of pre-hostilities patterns observed before Operation Epic Fury.<br />\n<br />\n  \u25cfA fire broke out in an electrical generator outside the inner perimeter of Abu Dhabi\u2019s Barakah Nuclear Power Plant. Abu Dhabi authorities reported no injuries and no impact on radiological safety. <br />\n<br />\n \u25cfAs of May 17, CENTCOM has redirected 81 commercial vessels and disabled 4 to ensure compliance with the naval blockcade. <br />\n<br />\n \u25cf Despite the 45-day ceasefire extension, low-level violations continued. The IDF reported intercepting several Hezbollah drones over southern Lebanon.  <br />\nEND OF THE BRIEF.</p>\n<img src=\"https://nitter.net/pic/media%2FHIieqqsaYAAm7V6.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n16th May 2026:  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n - \u2060Follow us for daily Brief<br />\n<br />\n\u25cf China\u2019s Ministry of Foreign Affairs announced that President Xi Jinping has invited Russian President Vladimir Putin for a state visit to Beijing on May 19-20.<br />\n<br />\n\u25cfThe IDF eliminated Izz al-Din al-Haddad, Head of Hamas\u2019 military wing and one of the last senior commanders involved in planning the October 7 massacre.<br />\n<br />\n\u25cf The IDF also eliminated Hamas terrorists Hamer Iyad Muhammad Almatouk and Khaled Muhammad Salem Joudeh.<br />\n<br />\n\u25cf Iran announced a new management system for the Strait of Hormuz, including designated routes for commercial vessels, imposed transit fees for safe passage, and a ban on vessels linked to \u201cProject Freedom\u201d operators.<br />\n<br />\n\u25cf As of May 16, CENTCOM has redirected 78 commercial ships, and 4 have been disabled to enforce the naval blockade.<br />\n<br />\n\u25cf Israel and Lebanon agreed to a 45-day extension of their ceasefire following another round of talks in Washington.<br />\n<br />\n\u25cf Hezbollah continued launching drone strikes targeting Israeli soldiers in southern Lebanon.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHIdC9Q9a4AAa9q4.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2055685391836156292#m\">https://nitter.net/NetramDefence/status/2055685391836156292#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Mahendra Singh Dhoni with NSG in Chennai.",
-      "link": "https://nitter.net/elitepredatorss/status/2055996759793709411#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-17T18:30:00+05:30",
-      "time": "17 May, 06:30 PM",
-      "type": "tweets",
-      "content": "<p>Mahendra Singh Dhoni with NSG in Chennai.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2055996759793709411#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2055996609515974656%2Fimg%2FTV8b7Zcx4X77P021.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
+    {
+      "title": "India\u2019s 4 Nuclear Subs Spotted",
+      "link": "https://www.youtube.com/watch?v=aHuk2rync6c",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-05-19T19:06:18+05:30",
+      "time": "19 May, 07:06 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/aHuk2rync6c/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Su-57 Combo Offer,$198mn Apache Clear,Mithya on Agni ICBM,4th S400 Delivery",
       "link": "https://www.youtube.com/watch?v=TivZWqNwPlA",
@@ -1820,6 +1821,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
