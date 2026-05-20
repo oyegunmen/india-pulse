@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Ebola death toll rises to 136 in Congo",
+      "link": "https://www.newsonair.gov.in/ebola-death-toll-rises-to-136-in-congo/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-20T11:17:30+05:30",
+      "time": "20 May, 11:17 AM",
+      "type": "news",
+      "description": "In Congo, the death toll due to the Ebola outbreak has risen to 136. Health Minister Roger Kamba informed this amid the spread of the deadly virus tha..."
+    },
+    {
+      "title": "India and Italy reaffirm commitment to deepen bilateral cooperation across key sectors",
+      "link": "https://www.newsonair.gov.in/india-and-italy-reaffirm-commitment-to-deepen-bilateral-cooperation-across-key-sectors/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-20T10:30:25+05:30",
+      "time": "20 May, 10:30 AM",
+      "type": "news",
+      "description": "India-Italy ties have expanded with unprecedented momentum in recent years and have now reached a decisive stage. In a joint article written by Prime ..."
+    },
+    {
+      "title": "Security forces carry out search operation to trace those held hostage by armed groups in Manipur",
+      "link": "https://www.newindianexpress.com/india/2026/May/20/security-forces-carry-out-search-operation-to-trace-those-held-hostage-by-armed-groups-in-manipur",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-20T10:22:01+05:30",
+      "time": "20 May, 10:22 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Russian President Vladimir Putin arrives in Beijing on two-day state visit",
       "link": "https://www.newsonair.gov.in/russian-president-vladimir-putin-arrives-in-beijing-on-two-day-state-visit/",
       "source": "All India Radio",
@@ -8,6 +35,15 @@
       "time": "20 May, 10:20 AM",
       "type": "news",
       "description": "Russian President Vladimir Putin arrived in Beijing last night on a two-day state visit for talks with his Chinese counterpart Xi Jinping. The visit c..."
+    },
+    {
+      "title": "India tests ULPGM-V3 fire and forget missile that can be launched from drones; Check its features",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-tests-ulpgm-v3-fire-and-forget-missile-that-can-be-launched-from-drones-check-its-features/articleshow/131216595.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-20T10:19:38+05:30",
+      "time": "20 May, 10:19 AM",
+      "type": "news",
+      "description": "DRDO ULPGM-V3 has successfully completed development trials in both air-to-ground and air-to-air modes, marking a major boost to India\u2019s indigenous de..."
     },
     {
       "title": "Nepal government promises land ownership certificates by Dashain to Genuine landless of demolished squatters",
@@ -35,15 +71,6 @@
       "time": "20 May, 09:37 AM",
       "type": "news",
       "description": "In Bangladesh, an Assistant Security Protocol Officer at the Assistant High Commission of India in Chattogram has been found dead at the mission premi..."
-    },
-    {
-      "title": "Xi-Putin meet in China Live Updates: Days after Trump\u2019s visit, Chinese President meets his Russian counterpart in Beijing",
-      "link": "https://indianexpress.com/article/world/vladimir-putin-xi-jinping-meet-live-updates-china-beijing-donald-trump-10698710/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-20T09:09:51+05:30",
-      "time": "20 May, 09:09 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Union Health Minister JP Nadda reaffirms India\u2019s commitment to Universal Health Coverage at World Health Assembly",
@@ -143,15 +170,6 @@
       "time": "20 May, 02:21 AM",
       "type": "news",
       "description": "India and the Nordic countries on Tuesday decided to elevate their ties to a \u201cgreen technology and innovation strategic partnership\u201d as Prime Minister..."
-    },
-    {
-      "title": "India set to finalise $8-billion German submarine project",
-      "link": "https://www.tribuneindia.com/news/health/india-set-to-finalise-8-billion-german-submarine-project",
-      "source": "The Tribune",
-      "sort_key": "2026-05-20T02:13:11+05:30",
-      "time": "20 May, 02:13 AM",
-      "type": "news",
-      "description": "India and Germany\u2019s joint project to produce the latest submarines for the Navy is set to be finalised in the next few weeks. A crucial inter-minister..."
     },
     {
       "title": "US clears $428 mln packages for India: Howitzers, helicopters in focus with support for Apache choppers, M777 guns",
@@ -260,24 +278,6 @@
       "time": "19 May, 09:59 PM",
       "type": "news",
       "description": "NATO's top commander is considering how the alliance could assist in the Strait of Hormuz, though no formal planning has commenced. European nations, ..."
-    },
-    {
-      "title": "Romanian fighter jet targets suspected Ukrainian drone as part of NATO\u2019s Baltic air policing",
-      "link": "https://www.newsonair.gov.in/romanian-fighter-jet-targets-suspected-ukrainian-drone-as-part-of-natos-baltic-air-policing/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-19T21:43:35+05:30",
-      "time": "19 May, 09:43 PM",
-      "type": "news",
-      "description": "A Romanian F-16 fighter jet operating as part of NATO\u2019s Baltic air policing mission reportedly shot down a suspected Ukrainian drone over central Esto..."
-    },
-    {
-      "title": "PM\u2019s Italy visit:\u00a0Bilateral meetings to be focused on trade, defence, maritime & port-related cooperation",
-      "link": "https://www.newsonair.gov.in/pms-italy-visit-bilateral-meetings-to-be-focused-on-trade-defence-maritime-port-related-cooperation/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-19T21:20:04+05:30",
-      "time": "19 May, 09:20 PM",
-      "type": "news",
-      "description": "India and Italy are expected to see stronger cooperation in the areas of talent exchange, innovation, and mobility in the coming years. Ahead of Prime..."
     },
     {
       "title": "Amit Shah Launches Rs 20-Crore Rehabilitation Centres in Bastar for Surrendered Naxals",
@@ -764,18 +764,29 @@
       "time": "18 May, 12:18 PM",
       "type": "news",
       "description": "The Prime Minister said that cooperation between the two sides in the defence sector is continuously expanding."
-    },
-    {
-      "title": "Manipur: Security Forces Launch Rescue Operations for Captives Held By Armed Groups",
-      "link": "https://www.deccanchronicle.com/nation/manipur-security-forces-launch-rescue-operations-for-captives-held-by-armed-groups-1957465",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-18T10:42:35+05:30",
-      "time": "18 May, 10:42 AM",
-      "type": "news",
-      "description": "Thirty-one of around 38 people belonging to the Kuki and Naga communities, who were held hostage by armed groups in Kangpokpi and Senapati districts, ..."
     }
   ],
   "tweets": [
+    {
+      "title": "WATCH | In a major boost for Indian defence forces, private sector firm Nibe Limited has successfully carried out  the firing demonstration of the EXTRA and Predator Hawk \u201cSuryastra\u201d rockets of 150 km and 300 Km range in ITR Chandipur Orissa. \n\nThe rockets achieved CEP of 1.5 meters and 2 meters respectively during the firing trials. This demonstration is part of the procurement order placed by Indian Army on the company: Nibe Limited\n\n\ud83d\udcf8 : @Nibe_Limited | @ANI",
+      "link": "https://nitter.net/alpha_defense/status/2056975706672771448#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-20T11:19:59+05:30",
+      "time": "20 May, 11:19 AM",
+      "type": "tweets",
+      "content": "<p>WATCH | In a major boost for Indian defence forces, private sector firm Nibe Limited has successfully carried out  the firing demonstration of the EXTRA and Predator Hawk \u201cSuryastra\u201d rockets of 150 km and 300 Km range in ITR Chandipur Orissa. <br />\n<br />\nThe rockets achieved CEP of 1.5 meters and 2 meters respectively during the firing trials. This demonstration is part of the procurement order placed by Indian Army on the company: Nibe Limited<br />\n<br />\n\ud83d\udcf8 : <a href=\"https://nitter.net/Nibe_Limited\" title=\"NIBE Limited\">@Nibe_Limited</a> | <a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a></p>\n<a href=\"https://nitter.net/alpha_defense/status/2056975706672771448#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2056975650637099008%2Fpu%2Fimg%2F4muW_w50T_ryIjjg.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Suryastra PULS long-range rocket system successfully demonstrated at Chandipur \ud83c\uddee\ud83c\uddf3\n\nAccording to Nibe Limited, both the 150 km and 300 km range rockets achieved successful firing trials with reported CEP accuracy of 1.5\u20132 meters.",
+      "link": "https://nitter.net/DefenceDecode/status/2056966887297421780#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-05-20T10:44:57+05:30",
+      "time": "20 May, 10:44 AM",
+      "type": "tweets",
+      "content": "<p>Suryastra PULS long-range rocket system successfully demonstrated at Chandipur \ud83c\uddee\ud83c\uddf3<br />\n<br />\nAccording to Nibe Limited, both the 150 km and 300 km range rockets achieved successful firing trials with reported CEP accuracy of 1.5\u20132 meters.</p>\n<a href=\"https://nitter.net/DefenceDecode/status/2056966887297421780#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056966578659573760%2Fimg%2FlkR-kY9P8CzGjWfI.jpg\" />\n</a>",
+      "author": "@DefenceDecode"
+    },
     {
       "title": "PM Modi with @GiorgiaMeloni",
       "link": "https://nitter.net/elitepredatorss/status/2056958484831457484#m",
@@ -1423,7 +1434,7 @@
       "sort_key": "2026-05-19T12:38:51+05:30",
       "time": "19 May, 12:38 PM",
       "type": "tweets",
-      "content": "<p>Don\u2019t take every Ukrainian claim about Russian systems at face value. Another image has now surfaced via FighterBomber Telegram. <br />\n<br />\nIf the claim is that the 17th marked the first flight, it\u2019s better to hold our horses and wait for actual video evidence over the coming weeks before drawing conclusions.</p>\n<img src=\"https://nitter.net/pic/media%2FHIqg9WRaQAAbG8h.jpg\" />\n\n<hr />\n<blockquote>\n<b> (@)</b>\n<p>\n<p>Good that it is called out! The leaked twin seat Su57 looks too fat and compressed in the middle and not the original sleek lengthier Su57 that we know of.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/i/status/2056596670285263065#m\">https://nitter.net/i/status/2056596670285263065#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Don\u2019t take every Ukrainian claim about Russian systems at face value. Another image has now surfaced via FighterBomber Telegram. <br />\n<br />\nIf the claim is that the 17th marked the first flight, it\u2019s better to hold our horses and wait for actual video evidence over the coming weeks before drawing conclusions.</p>\n<img src=\"https://nitter.net/pic/media%2FHIqg9WRaQAAbG8h.jpg\" />\n\n<hr />\n<blockquote>\n<b>Defence By IITian (@raptor1991007)</b>\n<p>\n<p>Good that it is called out! The leaked twin seat Su57 looks too fat and compressed in the middle and not the original sleek lengthier Su57 that we know of.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/raptor1991007/status/2056596670285263065#m\">https://nitter.net/raptor1991007/status/2056596670285263065#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
     },
     {
@@ -1555,16 +1566,6 @@
       "type": "tweets",
       "content": "<p>Khawaja Asif is back to playing the external victim card, claiming a connection between India, Israel, and Afghanistan acting against Pakistan. \ud83e\udd23<br />\n<br />\n Trying to stitch this fictional \"triple threat\" nexus together is a classic distraction tactic. To top it off, he claims \"India as a single entity never existed before 1947.\" \ud83e\udd21<br />\n<br />\n Instead of trying to rewrite ancient civilizational history and blaming everyone else, maybe focus on your own borders and the Indus Waters Treaty.<br />\n<br />\n Denial isn't a strategy! <br />\n<br />\nVideo : GeoNews</p>\n<a href=\"https://nitter.net/OsintTV/status/2056570545605431320#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056461773268496384%2Fimg%2FqdKgAU-5i2C0fgVr.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\ude02",
-      "link": "https://nitter.net/alpha_defense/status/2056472143911948713#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-19T01:59:01+05:30",
-      "time": "19 May, 01:59 AM",
-      "type": "tweets",
-      "content": "<p>\ud83d\ude02</p>\n<img src=\"https://nitter.net/pic/media%2FHIoOg0AbQAAIfEE.jpg\" />",
-      "author": "@alpha_defense"
     },
     {
       "title": "A group of people can literally declare this their father if this thing says a word against the old man !",
@@ -1815,20 +1816,10 @@
       "type": "tweets",
       "content": "<p>The Central Industrial Security Force (CISF) spearheaded a joint counter-terrorism mock exercise at the Indira Gandhi International (IGI) Airport in New Delhi on Monday.<br />\n<br />\nThe large-scale security drill was organised under the direct supervision of the Deputy Inspector General of Police (DIG) and Chief Airport Security Officer (CASO) of the Aviation Security Group (ASG) Delhi to test emergency response and defence preparedness frameworks.<br />\n<br />\nIn a post on X, the Central Industrial Security Force said, \"Top officers from the Central Industrial Security Force (CISF) and key aviation stakeholders participated and coordinated the drill operations to ensure maximum readiness.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHIlXQzpbQAEk2T7.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "LeT terrorist Usman Jatt alias 'Chinese', sent from Lahore to carry out attacks in India, told interrogators that real life in the Valley was nothing like the hate he was taught in Pakistani terror camps and even got a hairline restoration done in Srinagar.",
-      "link": "https://nitter.net/elitepredatorss/status/2056244359893545000#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-18T10:53:53+05:30",
-      "time": "18 May, 10:53 AM",
-      "type": "tweets",
-      "content": "<p>LeT terrorist Usman Jatt alias 'Chinese', sent from Lahore to carry out attacks in India, told interrogators that real life in the Valley was nothing like the hate he was taught in Pakistani terror camps and even got a hairline restoration done in Srinagar.</p>\n<img src=\"https://nitter.net/pic/media%2FHIk_WTjbEAAlMjP.jpg\" />",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
