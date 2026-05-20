@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "UAE says drone that hit near its nuclear plant was launched from Iraq",
+      "link": "https://economictimes.indiatimes.com/news/defence/uae-says-drone-that-hit-near-its-nuclear-plant-was-launched-from-iraq/articleshow/131213995.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-20T06:51:54+05:30",
+      "time": "20 May, 06:51 AM",
+      "type": "news",
+      "description": "The United Arab Emirates said six drones were launched from Iraq towards its territory over the past 48 hours, including one that struck near the Bara..."
+    },
+    {
+      "title": "At White House briefing, Vance says Iran war won't be 'forever'",
+      "link": "https://economictimes.indiatimes.com/news/defence/at-white-house-briefing-vance-says-iran-war-wont-be-forever/articleshow/131213928.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-20T06:42:40+05:30",
+      "time": "20 May, 06:42 AM",
+      "type": "news",
+      "description": "US Vice President JD Vance defended President Donald Trump\u2019s Iran policy during a White House briefing, assuring Americans the conflict would not beco..."
+    },
+    {
+      "title": "Will end war 'very quickly' as Iran wants to make deal 'so badly': US President Trump says 'oil prices to plummet'",
+      "link": "https://economictimes.indiatimes.com/news/defence/will-end-war-very-quickly-as-iran-wants-to-make-deal-so-badly-us-president-trump-says-oil-prices-to-plummet/articleshow/131213886.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-20T06:34:55+05:30",
+      "time": "20 May, 06:34 AM",
+      "type": "news",
+      "description": "US President Donald Trump said Iran wanted a deal \u201cso badly\u201d and claimed the conflict would end \u201cvery quickly,\u201d while also predicting global oil price..."
+    },
+    {
       "title": "DRDO\u2019s ULPGM-V3 Clears Final Trials: \u2018Made In India\u2019 Drone Missile Ready For Anti-Tank, Air Combat",
       "link": "https://www.republicworld.com/defence/drdos-ulpgm-v3-clears-final-trials-made-in-india-drone-missile-ready-for-anti-tank-air-combat-2026-05-19-124953",
       "source": "Republic World",
@@ -215,15 +242,6 @@
       "time": "19 May, 05:54 PM",
       "type": "news",
       "description": "Chief of the Air Staff of the Indian Air Force, Air Chief Marshal Amar Preet Singh, arrived in Sri Lanka last night for a three-day official visit aim..."
-    },
-    {
-      "title": "Army Chief General Upendra Dwivedi calls for expanding \u2018Smart Power\u2019 in volatile world",
-      "link": "https://defencemonitor.in/army-chief-general-upendra-dwivedi-calls-for-expanding-smart-power-in-volatile-world/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-05-19T17:52:14+05:30",
-      "time": "19 May, 05:52 PM",
-      "type": "news",
-      "description": "<p>New Delhi, May 19 (IANS) Pointing to the turmoil in the Strait of Hormuz, Indian Army Chief General Upendra Dwivedi on Tuesday led discussions on h..."
     },
     {
       "title": "DR Congo: No approved vaccine for Bundibugyo variant of Ebola say health authorities",
@@ -737,15 +755,6 @@
       "time": "18 May, 07:40 AM",
       "type": "news",
       "description": "Four crew members safely ejected after two U.S. Navy E/A-18G Growler jets collided mid-air during an aerial demonstration at the Gunfighter Skies Air ..."
-    },
-    {
-      "title": "'Dangerous escalation': India expresses deep concern after drone strikes target Barakah nuclear facility in UAE",
-      "link": "https://economictimes.indiatimes.com/news/defence/dangerous-escalation-india-expresses-deep-concern-after-drone-strikes-target-barakah-nuclear-facility-in-uae/articleshow/131164232.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-18T06:54:07+05:30",
-      "time": "18 May, 06:54 AM",
-      "type": "news",
-      "description": "India on Monday expressed deep concern after a drone attack targeted the Barakah Nuclear Power Plant in the UAE, calling it a \u201cdangerous escalation\u201d a..."
     }
   ],
   "tweets": [
@@ -1440,6 +1449,16 @@
       "author": "@alpha_defense"
     },
     {
+      "title": "What\u2019s your favourite mango ?",
+      "link": "https://nitter.net/alpha_defense/status/2056436983912910886#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-18T23:39:18+05:30",
+      "time": "18 May, 11:39 PM",
+      "type": "tweets",
+      "content": "<p>What\u2019s your favourite mango ?</p>\n<img src=\"https://nitter.net/pic/media%2FHInuiL_bsAAnKT2.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Daily US-Israel-Iran War Brief:\n18 th May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf Saudi Arabia\u2019s Ministry of Defence reported intercepting and destroying three drones that entered Saudi airspace from Iraqi territory.\n\n\u25cf The IDF dismantled an anti-tank weapons storage facility belonging to Hezbollah in southern Lebanon.\n\n\u25cf The IDF eliminated Wael Mahmoud Abd al-Halim, Commander of Islamic Jihad\u2019s Beqaa region in Lebanon, in a strike near Baalbek.\n\n\u25cf Israeli forces intercepted vessels of the Global Sumud Flotilla in international waters off Cyprus (~250nm from Gaza).\n\n\u25cf Iran officially announced the establishment of the Persian Gulf Strait Affairs Authority (PGSA) to oversee traffic in the Strait of Hormuz. The body will offer state-backed insurance to commercial vessels against detention or cargo seizure.\n\n\u25cfAs of May 18, CENTCOM forces have redirected 84 commercial vessels and disabled 4 to ensure compliance of the naval blockade.\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2056421687596630038#m",
       "source": "Netram Defense",
@@ -1702,6 +1721,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
