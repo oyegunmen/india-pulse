@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Russia approves law permitting drones to be shot down over oil and gas rigs in Caspian Sea, Ifx reports",
+      "link": "https://economictimes.indiatimes.com/news/defence/russia-approves-law-permitting-drones-to-be-shot-down-over-oil-and-gas-rigs-in-caspian-sea-ifx-reports/articleshow/131229057.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-20T19:54:04+05:30",
+      "time": "20 May, 07:54 PM",
+      "type": "news",
+      "description": "Russia's second-largest oil producer \u200bLukoil extracts oil at two major projects in the Caspian Sea - the Filanovsky \u200band Korchagin fields, \u2060which have..."
+    },
+    {
+      "title": "BSF\u2019s first all-women expedition to Mount Everest to commemorate its diamond jubilee",
+      "link": "https://www.tribuneindia.com/news/india/bsfs-first-all-women-expedition-to-mount-everest-to-commemorate-its-diamond-jubilee",
+      "source": "The Tribune",
+      "sort_key": "2026-05-20T19:50:16+05:30",
+      "time": "20 May, 07:50 PM",
+      "type": "news",
+      "description": "The Border Security Force (BSF) is conducting an all-women mountaineering expedition to Mount Everest as part of its diamond jubilee celebrations this..."
+    },
+    {
+      "title": "Man Fabricates Maoist Identity For Rehabilitation Aid, Let Off",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/man-fabricates-maoist-identity-for-rehabilitation-aid-let-off-1957994",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-20T19:24:21+05:30",
+      "time": "20 May, 07:24 PM",
+      "type": "news",
+      "description": "He was subsequently shifted to the Special Investigation Bureau headquarters in Hyderabad for further verification"
+    },
+    {
       "title": "Bengal govt hands over land to BSF for border fencing; CM vows crackdown on infiltrators",
       "link": "https://www.tribuneindia.com/news/india/bengal-govt-hands-over-land-to-bsf-for-border-fencing-cm-vows-crackdown-on-infiltrators",
       "source": "The Tribune",
@@ -26,15 +53,6 @@
       "time": "20 May, 06:29 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "India, South Korea deepen defence partnership with new MoUs, industry push during Rajnath Singh\u2019s Seoul visit",
-      "link": "https://www.indiastrategic.in/india-south-korea-deepen-defence-partnership-with-new-mous-industry-push-during-rajnath-singhs-seoul-visit/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-20T18:23:41+05:30",
-      "time": "20 May, 06:23 PM",
-      "type": "news",
-      "description": "<p>By Aroonim Bhuyan New Delhi/Seoul, May 20. India and South Korea on May 20 agreed to significantly expand their defence cooperation, signing a seri..."
     },
     {
       "title": "\u2018From cordial friendship to partnership\u2019: Meloni says India-Italy reached decisive phase after meeting with PM Modi",
@@ -127,15 +145,6 @@
       "description": "Union Education Minister Dharmendra Pradhan today chaired a high-level review meeting with Central Security and Intelligence Agencies to seek support ..."
     },
     {
-      "title": "Airbus demonstrates multi-domain capabilities with Spanish Navy crewed-uncrewed teaming exercise",
-      "link": "https://www.indiastrategic.in/airbus-demonstrates-multi-domain-capabilities-with-spanish-navy-crewed-uncrewed-teaming-exercise/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-20T17:01:03+05:30",
-      "time": "20 May, 05:01 PM",
-      "type": "news",
-      "description": "<p>Manching, Germany, May 20, 2026. Airbus Helicopters and the Spanish Navy successfully completed a tactical flight trial earlier this month in Rota,..."
-    },
-    {
       "title": "In first drill of its kind, Army hosts militaries from 12 countries for joint training",
       "link": "https://www.tribuneindia.com/news/defence/in-first-drill-of-its-kind-army-hosts-militaries-from-12-countries-for-joint-training",
       "source": "The Tribune",
@@ -152,15 +161,6 @@
       "time": "20 May, 03:34 PM",
       "type": "news",
       "description": "Army Chief Gen Upendra Dwivedi will review the Passing Out Parade of the 150th course of the National Defence Academy (NDA) in Pune on May 30. Nearly ..."
-    },
-    {
-      "title": "Tight security, webcasting in place for Falta repoll on Thursday",
-      "link": "https://www.newindianexpress.com/states/west-bengal/2026/May/20/tight-security-webcasting-in-place-for-falta-repoll-on-thursday",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-20T15:23:24+05:30",
-      "time": "20 May, 03:23 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Russia and China scold the United States over 'Golden Dome' plans",
@@ -550,6 +550,15 @@
       "description": "Iran's army has issued a stern warning to the United States. It states new fronts will be opened if attacks resume. This comes as both nations engage ..."
     },
     {
+      "title": "GymNation Secures $100 Million Investment From HPS, part of BlackRock, To Accelerate Expansion",
+      "link": "https://www.indiastrategic.in/gymnation-secures-100-million-investment-from-hps-part-of-blackrock-to-accelerate-expansion/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-19T17:10:54+05:30",
+      "time": "19 May, 05:10 PM",
+      "type": "news",
+      "description": "<p>Dubai, May 19, 2026. GymNation, the GCC\u2019s fastest-growing gym operator, has secured a $100 million private credit facility from certain funds, enti..."
+    },
+    {
       "title": "Long before Tejas, how India\u2019s indigenous fighter jet Marut met a painful death that still haunts India today",
       "link": "https://economictimes.indiatimes.com/news/defence/long-before-tejas-how-indias-indigenous-fighter-jet-marut-met-a-painful-death-that-still-haunts-india-today/articleshow/131198087.cms",
       "source": "Economic Times",
@@ -557,6 +566,15 @@
       "time": "19 May, 04:46 PM",
       "type": "news",
       "description": "India's HF-24 Marut was its first indigenous jet fighter.  Developed with German expertise, it faced engine issues limiting its speed.  Despite this, ..."
+    },
+    {
+      "title": "India-Vietnam defence ties get fresh push as Rajnath Singh meets Gen Phan Van Giang in Hanoi",
+      "link": "https://www.indiastrategic.in/india-vietnam-defence-ties-get-fresh-push-as-rajnath-singh-meets-gen-phan-van-giang-in-hanoi/",
+      "source": "India Strategic",
+      "sort_key": "2026-05-19T16:24:48+05:30",
+      "time": "19 May, 04:24 PM",
+      "type": "news",
+      "description": "<p>Hanoi, May 19. India and Vietnam reviewed their expanding defence partnership and agreed on steps to deepen cooperation across maritime security, d..."
     },
     {
       "title": "United States clears $428 million Apache, M777 howitzer support package for India",
@@ -782,18 +800,69 @@
       "time": "18 May, 09:47 PM",
       "type": "news",
       "description": "The move heralds the launch of the Bastar 2.0 roadmap where security camps, established in the remote areas of Bastar, are being \u2018repurposed\u2019 for publ..."
-    },
-    {
-      "title": "India to continue buying Russian crude oil regardless of US sanctions waivers, says Petroleum Ministry Official",
-      "link": "https://indianexpress.com/article/world/india-russian-crude-oil-imports-us-sanctions-waiver-expiry-10696163/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-18T19:37:16+05:30",
-      "time": "18 May, 07:37 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "R to @alpha_defense: See it here -",
+      "link": "https://nitter.net/alpha_defense/status/2057111678643486792#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-20T20:20:18+05:30",
+      "time": "20 May, 08:20 PM",
+      "type": "tweets",
+      "content": "<p>See it here -</p>\n<hr />\n<blockquote>\n<b>ANI (@ANI)</b>\n<p>\n<p>Promo | EP-416 with IAS Sanjeev Kumar, Secretary (Defence Production), premieres today at 5 PM<br />\n<br />\n\u201cIt is almost impossible for any country to create an entire supply chain within its own geographical boundaries.\u201d<br />\n<br />\n\u201cSelf-reliance means not just manufacturing, but having the capability to design and modify weapons the way we want.\u201d<br />\n<br />\n\u201cI'm 100% confident that Tejas will be delivered this year.\u201d<br />\n<br />\n\u201cThe private sector is better equipped and better organised to build a strong drone manufacturing system.\u201d<br />\n<br />\n\u201cIndia will have to focus on dual-use technology, where civilian factories can quickly shift to defence production during wartime.\u201d<br />\n<br />\nTap 'Notify Me' to get episode alerts: <a href=\"https://piped.video/462iqGuAVD8\">piped.video/462iqGuAVD8</a><br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23ANIPodcast\">#ANIPodcast</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SmitaPrakash\">#SmitaPrakash</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23India\">#India</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Defence\">#Defence</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Tejas\">#Tejas</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Drones\">#Drones</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23China\">#China</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pakistan\">#Pakistan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Iran\">#Iran</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Atmanirbharta\">#Atmanirbharta</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Weapons\">#Weapons</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Jets\">#Jets</a></p>\n<a href=\"https://nitter.net/ANI/status/2056996569707426184#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2056996377624985601%2Fimg%2FEh-GNyhFWSSKpzfN.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ANI/status/2056996569707426184#m\">https://nitter.net/ANI/status/2056996569707426184#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "I just loved that we #Atmanirbhar fan group converted @smitaprakash ji\n\nThe highlight question from her podcast with Sec Def Production Sanjeev Kumar. \u201cIndia imports a lot of critical tech; how India will become Atmanirbhar\u201d.",
+      "link": "https://nitter.net/alpha_defense/status/2057111444404175155#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-20T20:19:22+05:30",
+      "time": "20 May, 08:19 PM",
+      "type": "tweets",
+      "content": "<p>I just loved that we <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Atmanirbhar\">#Atmanirbhar</a> fan group converted <a href=\"https://nitter.net/smitaprakash\" title=\"Smita Prakash\">@smitaprakash</a> ji<br />\n<br />\nThe highlight question from her podcast with Sec Def Production Sanjeev Kumar. \u201cIndia imports a lot of critical tech; how India will become Atmanirbhar\u201d.</p>\n<img src=\"https://nitter.net/pic/media%2FHIxT9BabgAATI-u.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "PM Modi receives Food and Agriculture Organisation\u2019s highest honour, Agricola Medal.",
+      "link": "https://nitter.net/sidhant/status/2057107023154594034#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-20T20:01:48+05:30",
+      "time": "20 May, 08:01 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi receives Food and Agriculture Organisation\u2019s highest honour, Agricola Medal.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Russian President Putin,  Chinese President Xi Jinping meet in Beijing",
+      "link": "https://nitter.net/sidhant/status/2057100038015160676#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-20T19:34:02+05:30",
+      "time": "20 May, 07:34 PM",
+      "type": "tweets",
+      "content": "<p>Russian President Putin,  Chinese President Xi Jinping meet in Beijing</p>\n<img src=\"https://nitter.net/pic/media%2FHIxJlVlWEAERVqP.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India Has Issued NOTAM For  Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.      \n\nFrom:26/05/2026 , 10:30 IST   \nUntil:26/05/2026 , 12:30 IST   \nV-Limit:Surface-Unlimited",
+      "link": "https://nitter.net/notam_in/status/2057097979383951789#m",
+      "source": "Notam India",
+      "sort_key": "2026-05-20T19:25:51+05:30",
+      "time": "20 May, 07:25 PM",
+      "type": "tweets",
+      "content": "<p>India Has Issued NOTAM For  Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.      <br />\n<br />\nFrom:26/05/2026 , 10:30 IST   <br />\nUntil:26/05/2026 , 12:30 IST   <br />\nV-Limit:Surface-Unlimited</p>\n<img src=\"https://nitter.net/pic/media%2FHIxHivtbcAA7IIL.jpg\" />\n\n<hr />\n<blockquote>\n<b>NOTAM INDIA \ud83c\uddee\ud83c\uddf3 (@notam_in)</b>\n<p>\n<p>India Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.<br />\n<br />\nFrom:03/02/2026 , 10:00 IST        <br />\nUntil:04/02/2026 , 16:30 IST</p>\n<img src=\"https://nitter.net/pic/media%2FG_rRPoQbAAkDdv-.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/notam_in/status/2016153861799739603#m\">https://nitter.net/notam_in/status/2016153861799739603#m</a>\n</footer>\n</blockquote>",
+      "author": "@notam_in"
+    },
+    {
+      "title": "RT by @NetramDefence: This post is a prime example of hostile narrative engineering. Pitting the civil administration against the security forces is a known tactic to erode public trust in both institutions in #Manipur.",
+      "link": "https://nitter.net/KangleipakDaily/status/2057097181375635854#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-20T19:22:41+05:30",
+      "time": "20 May, 07:22 PM",
+      "type": "tweets",
+      "content": "<p>This post is a prime example of hostile narrative engineering. Pitting the civil administration against the security forces is a known tactic to erode public trust in both institutions in <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Manipur\">#Manipur</a>.</p>",
+      "author": "@KangleipakDaily"
+    },
     {
       "title": "RT by @OsintTV: 2 handles that I (& most indians) like & \ud83d\udc95 the most are: (not specifically in this order)\n@OsintTV (who lets us peek into ISI camps, their therorist stooges & its conspiracies against Bharat) &\n@aravind (who time travels into the future -something like film \"back to the future\"",
       "link": "https://nitter.net/VP86448164/status/2057093902025548266#m",
@@ -1011,7 +1080,7 @@
       "sort_key": "2026-05-20T17:22:40+05:30",
       "time": "20 May, 05:22 PM",
       "type": "tweets",
-      "content": "<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf9 Strategic Partnership in Defence, especially in maritime domain. <br />\n<a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a></p>\n<hr />\n<blockquote>\n<b>Narendra Modi (@narendramodi)</b>\n<p>\n<p>Addressing the joint press meet with PM Meloni of Italy. <br />\n<br />\n<a href=\"https://nitter.net/GiorgiaMeloni\" title=\"Giorgia Meloni\">@GiorgiaMeloni</a> <a href=\"https://nitter.net/i/broadcasts/1pKkOyBqvQmKj\">nitter.net/i/broadcasts/1pKkOyBqv\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2057096896444092416%2FKGOwEisM%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/narendramodi/status/2057058086217761026#m\">https://nitter.net/narendramodi/status/2057058086217761026#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf9 Strategic Partnership in Defence, especially in maritime domain. <br />\n<a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a></p>\n<hr />\n<blockquote>\n<b>Narendra Modi (@narendramodi)</b>\n<p>\n<p>Addressing the joint press meet with PM Meloni of Italy. <br />\n<br />\n<a href=\"https://nitter.net/GiorgiaMeloni\" title=\"Giorgia Meloni\">@GiorgiaMeloni</a> <a href=\"https://nitter.net/i/broadcasts/1pKkOyBqvQmKj\">nitter.net/i/broadcasts/1pKkOyBqv\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2057111796507451392%2FZwhwkCA6%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/narendramodi/status/2057058086217761026#m\">https://nitter.net/narendramodi/status/2057058086217761026#m</a>\n</footer>\n</blockquote>",
       "author": "@ConflictXtweets"
     },
     {
@@ -1075,26 +1144,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "We want to focus on design & develop in India, Italy for the world world says PM Modi",
-      "link": "https://nitter.net/sidhant/status/2057059065885237444#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-20T16:51:14+05:30",
-      "time": "20 May, 04:51 PM",
-      "type": "tweets",
-      "content": "<p>We want to focus on design &amp; develop in India, Italy for the world world says PM Modi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi says India, Italy ties have got new direction under PM Meloni</p>\n<img src=\"https://nitter.net/pic/media%2FHIwjzStWoAA5FeX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2057058496470786365#m\">https://nitter.net/sidhant/status/2057058496470786365#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India, Italy aim to take trade ties to $20 bn says PM Modi",
-      "link": "https://nitter.net/sidhant/status/2057058757335515313#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-20T16:50:00+05:30",
-      "time": "20 May, 04:50 PM",
-      "type": "tweets",
-      "content": "<p>India, Italy aim to take trade ties to $20 bn says PM Modi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi says India, Italy ties have got new direction under PM Meloni</p>\n<img src=\"https://nitter.net/pic/media%2FHIwjzStWoAA5FeX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2057058496470786365#m\">https://nitter.net/sidhant/status/2057058496470786365#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "The PAF aircraft that crashed today was an FT-7PG trainer near Mianwali.\n\nBoth pilots ejected safely, and locals assisted them and ensured their safety before a helicopter arrived at the crash site.",
       "link": "https://nitter.net/alpha_defense/status/2057039574455767358#m",
       "source": "Alpha Defense",
@@ -1143,16 +1192,6 @@
       "type": "tweets",
       "content": "<p>New contender in LHD</p>\n<hr />\n<blockquote>\n<b>ConflictX (@ConflictXtweets)</b>\n<p>\n<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf9 \"Special Strategic Partnership \" - Is Trieste on the cards ? It's powered by Rolls Royce MT30 gas Turbines for which local maintenance agreement was already signed in 2021 between Rolls Royce and HAL .<br />\n<a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a><br />\n<a href=\"https://nitter.net/BlackIAdder\" title=\"BlackAdder\">@BlackIAdder</a></p>\n<img src=\"https://nitter.net/pic/media%2FHIwBOX4asAAso5t.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIwBOZOaAAAB0MX.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIwBOalacAAVK9X.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ConflictXtweets/status/2057020483871387937#m\">https://nitter.net/ConflictXtweets/status/2057020483871387937#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Rescue of the pilots after the Pakistan Air Force aircraft crashed near Kamar Mushani, Mianwali.",
-      "link": "https://nitter.net/elitepredatorss/status/2057018988224553087#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-20T14:11:59+05:30",
-      "time": "20 May, 02:11 PM",
-      "type": "tweets",
-      "content": "<p>Rescue of the pilots after the Pakistan Air Force aircraft crashed near Kamar Mushani, Mianwali.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2057018988224553087#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057018621910827008%2Fimg%2FmviVnDJNbNHjCYHh.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Pakistani jet crashed in Mianwali</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2057010608588091717#m\">https://nitter.net/elitepredatorss/status/2057010608588091717#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     },
     {
       "title": "Visuals from the PAF Jet Crash Site in Mianwali\n\nClear footage from the crash site shows debris scattered across the area after the Pakistan Air Force aircraft went down near Kamar Mushani.",
@@ -1725,26 +1764,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "From New London.",
-      "link": "https://nitter.net/alpha_defense/status/2056688309431353562#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-19T16:17:59+05:30",
-      "time": "19 May, 04:17 PM",
-      "type": "tweets",
-      "content": "<p>From New London.</p>\n<img src=\"https://nitter.net/pic/media%2FHIrTEneawAAV12e.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "These are 140M Plus on surface ! any guesses ?",
-      "link": "https://nitter.net/alpha_defense/status/2056686351588966907#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-19T16:10:12+05:30",
-      "time": "19 May, 04:10 PM",
-      "type": "tweets",
-      "content": "<p>These are 140M Plus on surface ! any guesses ?</p>\n<img src=\"https://nitter.net/pic/media%2FHIrQu9AbEAAktjd.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @NetramDefence: Pakistan deploys 8,000 troops and a squadron of JF-17 jets to Saudi Arabia under their 2025 mutual defense pact amid the US-Iran conflict.\n\nWhile officially described as advisory, this provides combat support to Riyadh as Pakistan simultaneously hosts US-Iran mediation talks.",
       "link": "https://nitter.net/Globalwatchh/status/2056678992468410620#m",
       "source": "Netram Defense",
@@ -1939,6 +1958,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 PM IST"
+    "last_updated": "08:24 PM IST"
   }
 }
