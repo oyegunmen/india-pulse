@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "India, Egypt deepen anti-terror ties amid drone, AI threats",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-egypt-deepen-anti-terror-ties-amid-drone-ai-threats/articleshow/131266715.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-22T23:46:02+05:30",
+      "time": "22 May, 11:46 PM",
+      "type": "news",
+      "description": "India and Egypt met to boost their fight against terrorism. They will work together on training, cyber security, and sharing intelligence. Both nation..."
+    },
+    {
       "title": "India, Cyprus elevate ties with defence roadmap, counter-terror pact and IMEC push",
       "link": "https://www.newindianexpress.com/india/2026/May/22/india-cyprus-elevate-ties-with-defence-roadmap-counter-terror-pact-and-imec-push",
       "source": "New Indian Express",
@@ -370,6 +379,24 @@
       "description": ""
     },
     {
+      "title": "How the West Misreads Modi\u2019s Success",
+      "link": "https://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/",
+      "source": "Foreign Policy",
+      "sort_key": "2026-05-22T09:31:32+05:30",
+      "time": "22 May, 09:31 AM",
+      "type": "news",
+      "description": "India may be less liberal now, but it remains democratic."
+    },
+    {
+      "title": "Why the Quad Was Doomed From the Start",
+      "link": "https://foreignpolicy.com/2026/05/22/quad-rubio-india-china/",
+      "source": "Foreign Policy",
+      "sort_key": "2026-05-22T09:31:07+05:30",
+      "time": "22 May, 09:31 AM",
+      "type": "news",
+      "description": "The Philippines has replaced India in Washington\u2019s security calculus on China."
+    },
+    {
       "title": "Israel fears surprise Iranian attack amid ceasefire talks: Reports",
       "link": "https://economictimes.indiatimes.com/news/defence/israel-fears-surprise-iranian-attack-amid-ceasefire-talks-reports/articleshow/131255698.cms",
       "source": "Economic Times",
@@ -701,36 +728,39 @@
       "time": "21 May, 12:26 AM",
       "type": "news",
       "description": "Push defence, tech cooperation in Rome talks"
-    },
-    {
-      "title": "India, South Korea to jointly develop laser weapons, air defence systems",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-south-korea-to-jointly-develop-laser-weapons-air-defence-systems/articleshow/131233879.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-20T23:59:09+05:30",
-      "time": "20 May, 11:59 PM",
-      "type": "news",
-      "description": "India and South Korea are set to collaborate on advanced defence technologies. Plans include joint development and production of next-generation weapo..."
-    },
-    {
-      "title": "US military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
-      "link": "https://indianexpress.com/article/world/us-military-boards-iranian-oil-tanker-celestial-sea-gulf-of-oman-blockade-10700222/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-20T23:58:21+05:30",
-      "time": "20 May, 11:58 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "C\u2019garh: Bastar Produces First Tribal PhD Holder in Agriculture",
-      "link": "https://www.deccanchronicle.com/nation/cgarh-bastar-produces-first-tribal-phd-holder-in-agriculture-1958065",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-20T23:26:59+05:30",
-      "time": "20 May, 11:26 PM",
-      "type": "news",
-      "description": "Honoured With \u2018Young Scientist\u2019 Award"
     }
   ],
   "tweets": [
+    {
+      "title": "Cypriot officials confirmed that Turkiye was part of the conversations when Indian, Cyprus leaders met in Delhi on Friday. When asked about ties with Pakistan, they termed ties \"difficult\" given Islamabad's position on UNSC resolutions that is supportive of Turkish stance.",
+      "link": "https://nitter.net/sidhant/status/2057886071510450429#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-22T23:37:27+05:30",
+      "time": "22 May, 11:37 PM",
+      "type": "tweets",
+      "content": "<p>Cypriot officials confirmed that Turkiye was part of the conversations when Indian, Cyprus leaders met in Delhi on Friday. When asked about ties with Pakistan, they termed ties \"difficult\" given Islamabad's position on UNSC resolutions that is supportive of Turkish stance.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Cyprus eyes Indian weapons citing battle tested capabilities in Operation Sindoor. Cyprus Defence Minister to visit India soon.<br />\n<br />\nReporting. <br />\n<br />\n<a href=\"https://www.wionews.com/world/cyprus-eyes-indian-weapons-citing-battle-tested-capabilities-in-operation-sindoor-1779471597898\">wionews.com/world/cyprus-eye\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2057882746509459456%2F-853PSCT%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2057882835793625342#m\">https://nitter.net/sidhant/status/2057882835793625342#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Next week in Delhi Diplomacy\n-US Secy of State Marco Rubio to visit India\n\n-Indian trade minister Goyal in Canada for key trade talk",
+      "link": "https://nitter.net/sidhant/status/2057884878126149904#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-22T23:32:43+05:30",
+      "time": "22 May, 11:32 PM",
+      "type": "tweets",
+      "content": "<p>Next week in Delhi Diplomacy<br />\n-US Secy of State Marco Rubio to visit India<br />\n<br />\n-Indian trade minister Goyal in Canada for key trade talk</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Cyprus eyes Indian weapons citing battle tested capabilities in Operation Sindoor. Cyprus Defence Minister to visit India soon.\n\nReporting. \n\nhttps://www.wionews.com/world/cyprus-eyes-indian-weapons-citing-battle-tested-capabilities-in-operation-sindoor-1779471597898",
+      "link": "https://nitter.net/sidhant/status/2057882835793625342#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-22T23:24:36+05:30",
+      "time": "22 May, 11:24 PM",
+      "type": "tweets",
+      "content": "<p>Cyprus eyes Indian weapons citing battle tested capabilities in Operation Sindoor. Cyprus Defence Minister to visit India soon.<br />\n<br />\nReporting. <br />\n<br />\n<a href=\"https://www.wionews.com/world/cyprus-eyes-indian-weapons-citing-battle-tested-capabilities-in-operation-sindoor-1779471597898\">wionews.com/world/cyprus-eye\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2057882746509459456%2F-853PSCT%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "BSF lads pouring their hearts out for motherland \ud83c\uddee\ud83c\uddf3",
       "link": "https://nitter.net/elitepredatorss/status/2057881949512056935#m",
@@ -932,36 +962,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "India extends support to territorial integrity of Cyprus, calls for implementing UNSC resolution.\n\nPS: The country is divided since Turkish invasion of 1974. UNSC resolution call for Turkey to remove its troops.",
-      "link": "https://nitter.net/sidhant/status/2057853119325987002#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-22T21:26:31+05:30",
-      "time": "22 May, 09:26 PM",
-      "type": "tweets",
-      "content": "<p>India extends support to territorial integrity of Cyprus, calls for implementing UNSC resolution.<br />\n<br />\nPS: The country is divided since Turkish invasion of 1974. UNSC resolution call for Turkey to remove its troops.</p>\n<img src=\"https://nitter.net/pic/media%2FHI72gakbkAAsRXc.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India, Cyprus Joint statement released:\n\nhttps://www.mea.gov.in/bilateral-documents.htm?dtl/41221",
-      "link": "https://nitter.net/sidhant/status/2057849326807011404#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-22T21:11:27+05:30",
-      "time": "22 May, 09:11 PM",
-      "type": "tweets",
-      "content": "<p>India, Cyprus Joint statement released:<br />\n<br />\n<a href=\"https://www.mea.gov.in/bilateral-documents.htm?dtl/41221\">mea.gov.in/bilateral-documen\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2056764487890599937%2Fn_Og6brQ%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US Assistant Secretary for education & cultural affairs Cate Dillon is on travel to India from May 22-25: US advisory",
-      "link": "https://nitter.net/sidhant/status/2057848199201849842#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-22T21:06:58+05:30",
-      "time": "22 May, 09:06 PM",
-      "type": "tweets",
-      "content": "<p>US Assistant Secretary for education &amp; cultural affairs Cate Dillon is on travel to India from May 22-25: US advisory</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "SRBM \u2018Agni-1\u2019 was successfully test-launched from the ITR at Chandipur, Odisha on May 22, 2026.\n\n The launch validated all operational and technical parameters. \nThe test was carried out under the aegis of the Strategic Forces Command.",
       "link": "https://nitter.net/DefenceDecode/status/2057833987729698848#m",
       "source": "Defense Decode",
@@ -970,6 +970,16 @@
       "type": "tweets",
       "content": "<p>SRBM \u2018Agni-1\u2019 was successfully test-launched from the ITR at Chandipur, Odisha on May 22, 2026.<br />\n<br />\n The launch validated all operational and technical parameters. <br />\nThe test was carried out under the aegis of the Strategic Forces Command.</p>\n<img src=\"https://nitter.net/pic/media%2FHI7lBRcb0AAdTde.jpg\" />",
       "author": "@DefenceDecode"
+    },
+    {
+      "title": "JUST IN | Short Range Ballistic Missile \u2018Agni-1\u2019 was successfully test-launched from the Integrated Test Range at Chandipur, Odisha on May 22, 2026. The launch validated all operational and technical parameters. The test was carried out under the aegis of the Strategic Forces Command.",
+      "link": "https://nitter.net/alpha_defense/status/2057829062845042887#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T19:50:55+05:30",
+      "time": "22 May, 07:50 PM",
+      "type": "tweets",
+      "content": "<p>JUST IN | Short Range Ballistic Missile \u2018Agni-1\u2019 was successfully test-launched from the Integrated Test Range at Chandipur, Odisha on May 22, 2026. The launch validated all operational and technical parameters. The test was carried out under the aegis of the Strategic Forces Command.</p>",
+      "author": "@alpha_defense"
     },
     {
       "title": "RT by @OsintTV: Short Range Ballistic Missile \u2018#Agni1\u2019 was successfully test-launched from the Integrated Test Range at Chandipur, Odisha on May 22.The launch validated all operational and technical parameters. The test was carried out under the aegis of the Strategic Forces Command. @indiatvnews @DRDO_India",
@@ -982,6 +992,36 @@
       "author": "@manishindiatv"
     },
     {
+      "title": "Another set of mothballed aircraft. Painful look 2.0",
+      "link": "https://nitter.net/alpha_defense/status/2057808010962255983#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T18:27:16+05:30",
+      "time": "22 May, 06:27 PM",
+      "type": "tweets",
+      "content": "<p>Another set of mothballed aircraft. Painful look 2.0</p>\n<img src=\"https://nitter.net/pic/media%2FHI7NeV5b0AAQLyp.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Convert these into test bed yaar \ud83d\ude22\nFeels bad to see them mothballed \n\nIL76 at IGI",
+      "link": "https://nitter.net/alpha_defense/status/2057806943738286421#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T18:23:02+05:30",
+      "time": "22 May, 06:23 PM",
+      "type": "tweets",
+      "content": "<p>Convert these into test bed yaar \ud83d\ude22<br />\nFeels bad to see them mothballed <br />\n<br />\nIL76 at IGI</p>\n<img src=\"https://nitter.net/pic/media%2FHI7MgO_aAAAUPQN.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "\ud83d\ude4f\ud83c\udffb anyone going to Tirupati do the same please. We need all the blessings \n\nThis is for India (that is Bharat \ud83c\uddee\ud83c\uddf3)",
+      "link": "https://nitter.net/alpha_defense/status/2057805791391027256#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T18:18:27+05:30",
+      "time": "22 May, 06:18 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\ude4f\ud83c\udffb anyone going to Tirupati do the same please. We need all the blessings <br />\n<br />\nThis is for India (that is Bharat \ud83c\uddee\ud83c\uddf3)</p>\n<hr />\n<blockquote>\n<b>sudhansu (@iitiansudh61187)</b>\n<p>\n<p>Ayodhya jaa rha hui amca keliye prathna krunga ram ji se \u2764\ufe0f\ud83e\udd1e</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/iitiansudh61187/status/2057804539278041371#m\">https://nitter.net/iitiansudh61187/status/2057804539278041371#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "The Delhi High Court granted three days interim bail to Umar Khalid in the UAPA case fir larger conspiracy in commission of 2020 North East Delhi riots.\n\nUmar Khalid got interim bail to attend his mother's surgery. Starting June 1st, Khalid must follow strict conditions, including staying in the National Capital Region and using a single mobile phone. \n\nDelhi police officials opposed the bail, claiming his sisters were available to provide care during the medical procedure.",
       "link": "https://nitter.net/NetramDefence/status/2057803041546609036#m",
       "source": "Netram Defense",
@@ -990,6 +1030,16 @@
       "type": "tweets",
       "content": "<p>The Delhi High Court granted three days interim bail to Umar Khalid in the UAPA case fir larger conspiracy in commission of 2020 North East Delhi riots.<br />\n<br />\nUmar Khalid got interim bail to attend his mother's surgery. Starting June 1st, Khalid must follow strict conditions, including staying in the National Capital Region and using a single mobile phone. <br />\n<br />\nDelhi police officials opposed the bail, claiming his sisters were available to provide care during the medical procedure.</p>\n<img src=\"https://nitter.net/pic/media%2FHI7I82LaQAAqXmF.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "Next 3 weeks : We will see good development around AMCA \u201cProcess\u201d.",
+      "link": "https://nitter.net/alpha_defense/status/2057802576700297715#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T18:05:41+05:30",
+      "time": "22 May, 06:05 PM",
+      "type": "tweets",
+      "content": "<p>Next 3 weeks : We will see good development around AMCA \u201cProcess\u201d.</p>\n<img src=\"https://nitter.net/pic/media%2FHI7Igj0aYAADM9R.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "Iranian FM Abbas Araqchi held another round of talks with Pakistan\u2019s Interior Minister Mohsin Naqvi, who is reportedly facilitating communication between Tehran and Washington.\n\nKey sticking points in the peace deal remain:\n- Iran\u2019s enriched uranium stockpile\n- Tehran\u2019s demand for control/tolls in the Strait of Hormuz\n- Sanctions relief and frozen assets",
@@ -1020,6 +1070,16 @@
       "type": "tweets",
       "content": "<p>With reference to Joint press conference on 3 ex armymen and 1 deserter armymen were given a stage.<br />\nThe Facts about the 4 representatives of Army is:-<br />\nChandu Chavan :discharged from army on 25 July 2024 due to accumulation of five red ink entries due to indiscipline.<br />\nHarendra Yadav :dismissed from army on 27 Jan 2024 due to indiscipline. <br />\nShankar Singh Gujjar:deserter from army since November 2024<br />\nP Narender:dismissed from army due to indiscipline. <a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a> <a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a></p>\n<hr />\n<blockquote>\n<b>ADG PI - INDIAN ARMY (@adgpi)</b>\n<p>\n<p>\u0905\u092b\u0935\u093e\u0939\u094b\u0902 \u0938\u0947 \u092c\u091a\u0947\u0902<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23FakeAlert\">#FakeAlert</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23Beware\">#Beware</a><br />\n<br />\nA press conference video is being circulated across media and social media platforms with an attempt to malign the image of the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a>.<br />\n<br />\nIt is reiterated that the individuals seen in the video, namely Chandu Chavan, Harendra Yadav and P Narender, were dismissed from service on grounds of indiscipline and unsoldierly conduct. The fourth individual, Shankar Singh Gujjar, is a deserter and disciplinary proceedings are undergoing against him in both military and civil courts.<br />\n<br />\nThese individuals are deliberately spreading fake, malicious and misleading narratives on social media to divert attention from their own misconduct and dismissal from service. Citizens are advised not to fall prey to such propaganda and to remain vigilant against misinformation. (1/2)<br />\n<br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a></p>\n<img src=\"https://nitter.net/pic/media%2FHI6dGrbaQAArJLV.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/adgpi/status/2057754821147689156#m\">https://nitter.net/adgpi/status/2057754821147689156#m</a>\n</footer>\n</blockquote>",
       "author": "@manishindiatv"
+    },
+    {
+      "title": "#FAKENEWSALERT | A press conference video is being circulated across media and social media platforms with an attempt to malign the image of the Indian Army.\n\nIt is reiterated that the individuals seen in the video, namely Chandu Chavan, Harendra Yadav and P Narender, were dismissed from service on grounds of indiscipline and unsoldierly conduct. The fourth individual, Shankar Singh Gujjar, is a deserter and disciplinary proceedings are undergoing against him in both military and civil courts.\n\nThese individuals are deliberately spreading fake, malicious and misleading narratives on social media to divert attention from their own misconduct and dismissal from service. Citizens are advised not to fall prey to such propaganda and to remain vigilant against misinformation. (1/2",
+      "link": "https://nitter.net/alpha_defense/status/2057769531632959770#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T15:54:22+05:30",
+      "time": "22 May, 03:54 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23FAKENEWSALERT\">#FAKENEWSALERT</a> | A press conference video is being circulated across media and social media platforms with an attempt to malign the image of the Indian Army.<br />\n<br />\nIt is reiterated that the individuals seen in the video, namely Chandu Chavan, Harendra Yadav and P Narender, were dismissed from service on grounds of indiscipline and unsoldierly conduct. The fourth individual, Shankar Singh Gujjar, is a deserter and disciplinary proceedings are undergoing against him in both military and civil courts.<br />\n<br />\nThese individuals are deliberately spreading fake, malicious and misleading narratives on social media to divert attention from their own misconduct and dismissal from service. Citizens are advised not to fall prey to such propaganda and to remain vigilant against misinformation. (1/2</p>\n<img src=\"https://nitter.net/pic/media%2FHI6qes4aoAA7kGl.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "RT by @NetramDefence: A high-end \u201cMade in Taiwan\u201d anti-drone jammer, routed via Myanmar, has reportedly been recovered from UNLF cadres in Manipur along with weapons & ammunition.\n\nThe recovery points to the presence of increasingly sophisticated military-grade equipment in the Manipur.",
@@ -1082,6 +1142,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "RT by @alpha_defense: The 16/3 attack by #Pakistan @ Omid Drug Rehab Hosp #Kabul where #UNAMA verified  269+ civilians killed demands a full,indep investigation. Deliberate attacks on civilians or civ objects may amount to war crimes. I also urge Taliban to ensure safety of patients in such facilities",
+      "link": "https://nitter.net/SR_Afghanistan/status/2057745610992722264#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T14:19:19+05:30",
+      "time": "22 May, 02:19 PM",
+      "type": "tweets",
+      "content": "<p>The 16/3 attack by <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pakistan\">#Pakistan</a> @ Omid Drug Rehab Hosp <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kabul\">#Kabul</a> where <a href=\"https://nitter.net/search?f=tweets&amp;q=%23UNAMA\">#UNAMA</a> verified  269+ civilians killed demands a full,indep investigation. Deliberate attacks on civilians or civ objects may amount to war crimes. I also urge Taliban to ensure safety of patients in such facilities</p>\n<hr />\n<blockquote>\n<b>UNAMA News (@UNAMAnews)</b>\n<p>\n<p>NEW RELEASES: \ud83d\udcc4<br />\n\u27a1\ufe0f Update on the human rights situation in Afghanistan (Jan-Mar 2026)<br />\n\u27a1\ufe0f Cross-border civilian casualties in <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Afghanistan\">#Afghanistan</a> (Jan-Mar 2026)<br />\nAvailable in Dari, English, Pashto: <a href=\"https://unama.unmissions.org/en/unama-human-rights-monitoring-and-reporting\">unama.unmissions.org/en/unam\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHIGhgPhXoAA8mFq.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHIGhi8xWsAArn1S.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/UNAMAnews/status/2054101771229000115#m\">https://nitter.net/UNAMAnews/status/2054101771229000115#m</a>\n</footer>\n</blockquote>",
+      "author": "@SR_Afghanistan"
+    },
+    {
       "title": "Exclusive images of 72'd Hamza !",
       "link": "https://nitter.net/elitepredatorss/status/2057742534147965236#m",
       "source": "Elite Predators",
@@ -1132,6 +1202,16 @@
       "author": "@manishindiatv"
     },
     {
+      "title": "DRDO is seeking small turbo jet engine for its missiles and UAVs.\n1. Target Thrust Class: Focusing on existing engines in the 130\u2013180 kgf uninstalled thrust segment.\n 2. Zero Development Lead-Time: Restricting candidate hardware to readily available, flight-proven systems with established airworthiness clearances.\n 3. Strict Physical Envelopes: Targeting a maximum diameter of 275 mm, dry weight under 25 kg, and operational limits up to Mach 0.9.\n 4. Domestic Testing: Shortlisted engines will undergo rigorous ground and installed-mode testing across varying operational envelopes within India.\n\nThere are atleast 5 Indian companies that can offer system in this category.",
+      "link": "https://nitter.net/alpha_defense/status/2057712685282959534#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T12:08:29+05:30",
+      "time": "22 May, 12:08 PM",
+      "type": "tweets",
+      "content": "<p>DRDO is seeking small turbo jet engine for its missiles and UAVs.<br />\n1. Target Thrust Class: Focusing on existing engines in the 130\u2013180 kgf uninstalled thrust segment.<br />\n 2. Zero Development Lead-Time: Restricting candidate hardware to readily available, flight-proven systems with established airworthiness clearances.<br />\n 3. Strict Physical Envelopes: Targeting a maximum diameter of 275 mm, dry weight under 25 kg, and operational limits up to Mach 0.9.<br />\n 4. Domestic Testing: Shortlisted engines will undergo rigorous ground and installed-mode testing across varying operational envelopes within India.<br />\n<br />\nThere are atleast 5 Indian companies that can offer system in this category.</p>\n<img src=\"https://nitter.net/pic/media%2FHI52xliagAAU1FN.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Game knows game \ud83d\udcaf\n\nWhoever thought that a 4 Para SF officer should head the Western Command of the Indian Army overlooking Pakistan knew what they were doing.\n\nI have questions for Singh sir, hope I get the opportunity to meet him someday.",
       "link": "https://nitter.net/elitepredatorss/status/2057708332723704119#m",
       "source": "Elite Predators",
@@ -1142,6 +1222,16 @@
       "author": "@elitepredatorss"
     },
     {
+      "title": "All the best ! Do meaningful things",
+      "link": "https://nitter.net/alpha_defense/status/2057707861980119512#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T11:49:19+05:30",
+      "time": "22 May, 11:49 AM",
+      "type": "tweets",
+      "content": "<p>All the best ! Do meaningful things</p>\n<hr />\n<blockquote>\n<b>Kaveri Engine (@KaveriEngine7)</b>\n<p>\n<p>Thank you !<br />\nGuys I am working on two things now (one telegram group of all the supporters and verification of account).<br />\n<br />\nThank you <a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a> giving us a soft launch and it acted as catapult.</p>\n<img src=\"https://nitter.net/pic/media%2FHI5tCPMbIAAjjsY.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/KaveriEngine7/status/2057701972321701903#m\">https://nitter.net/KaveriEngine7/status/2057701972321701903#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "This is interesting \ud83d\ude42",
       "link": "https://nitter.net/elitepredatorss/status/2057703139789410440#m",
       "source": "Elite Predators",
@@ -1150,6 +1240,26 @@
       "type": "tweets",
       "content": "<p>This is interesting \ud83d\ude42</p>\n<hr />\n<blockquote>\n<b>DRDO (@DRDO_India)</b>\n<p>\n<p>A delegation led by Mr Patrick Pailloux, Delegate General for Armaments, DGA France, visited DRDO HQ on 20th May and held discussions with Dr Samir V Kamat, Secretary DDR&amp;D and Chairman DRDO. The discussions focussed on strengthening the collaboration between India and France in advanced defence technologies.</p>\n<img src=\"https://nitter.net/pic/media%2FHI43v12aoAAzgIg.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI43v1rb0AADMkv.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI43v1qbgAEJmtF.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DRDO_India/status/2057643383099994158#m\">https://nitter.net/DRDO_India/status/2057643383099994158#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "DGA (Direction g\u00e9n\u00e9rale de l\u2019armement) is effectively the French government\u2019s top defence procurement and technology authority.\n\nAMCA engine technologies ?",
+      "link": "https://nitter.net/alpha_defense/status/2057699161819230478#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T11:14:45+05:30",
+      "time": "22 May, 11:14 AM",
+      "type": "tweets",
+      "content": "<p>DGA (Direction g\u00e9n\u00e9rale de l\u2019armement) is effectively the French government\u2019s top defence procurement and technology authority.<br />\n<br />\nAMCA engine technologies ?</p>\n<hr />\n<blockquote>\n<b>DRDO (@DRDO_India)</b>\n<p>\n<p>A delegation led by Mr Patrick Pailloux, Delegate General for Armaments, DGA France, visited DRDO HQ on 20th May and held discussions with Dr Samir V Kamat, Secretary DDR&amp;D and Chairman DRDO. The discussions focussed on strengthening the collaboration between India and France in advanced defence technologies.</p>\n<img src=\"https://nitter.net/pic/media%2FHI43v12aoAAzgIg.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI43v1rb0AADMkv.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI43v1qbgAEJmtF.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DRDO_India/status/2057643383099994158#m\">https://nitter.net/DRDO_India/status/2057643383099994158#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Damm!",
+      "link": "https://nitter.net/alpha_defense/status/2057690856937918822#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T10:41:44+05:30",
+      "time": "22 May, 10:41 AM",
+      "type": "tweets",
+      "content": "<p>Damm!</p>\n<hr />\n<blockquote>\n<b>RBR Daily (@RBR_Daily)</b>\n<p>\n<p>\ud83d\udea8 Red Bull hope to have their new wind tunnel operational by early 2027.<br />\n<br />\n[<a href=\"https://nitter.net/Motorsport\" title=\"Motorsport\">@Motorsport</a>]</p>\n<img src=\"https://nitter.net/pic/media%2FHI2BhAdWEAANtl9.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/RBR_Daily/status/2057443017343021561#m\">https://nitter.net/RBR_Daily/status/2057443017343021561#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
     },
     {
       "title": "The funeral prayer of hoorified terrorist Hamza Burhan is scheduled to be held at:\n\n\ud83d\udccd Fatima School, Burma Town, Islamabad\n\ud83d\udd5a Friday, May 22 at 11:00 AM",
@@ -1182,6 +1292,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "RT by @alpha_defense: We export the raw talent, we import the finished products that the refined talent abroad develops. \nThis is a different form of resource curse.",
+      "link": "https://nitter.net/cvkrishnan/status/2057651916596011494#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T08:07:00+05:30",
+      "time": "22 May, 08:07 AM",
+      "type": "tweets",
+      "content": "<p>We export the raw talent, we import the finished products that the refined talent abroad develops. <br />\nThis is a different form of resource curse.</p>\n<hr />\n<blockquote>\n<b>Shubham Mishra (@brahma_4u)</b>\n<p>\n<p>India trains the engineer. <br />\n<br />\nAmerica files the patents.<br />\nGurtej Sandhu was raised in Amritsar and trained at IIT Delhi. <br />\n<br />\nHe now holds 1,299 US patents at Micron, Edison topped out at 1,093. <br />\n<br />\nSandhu is the 7th most prolific inventor in American history. <br />\n<br />\nHis titanium nitride deposition work is why every DRAM cell in your phone and every GPU training a foundation model actually holds charge. <br />\n<br />\nMicron, Samsung, and SK Hynix own 95% of global DRAM. <br />\n<br />\nNone of them are Indian. <br />\n<br />\nWe export the inventor. <br />\n<br />\nWe import the chip.</p>\n<img src=\"https://nitter.net/pic/media%2FHI2wENCa4AAIPMq.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/brahma_4u/status/2057494400058708392#m\">https://nitter.net/brahma_4u/status/2057494400058708392#m</a>\n</footer>\n</blockquote>",
+      "author": "@cvkrishnan"
+    },
+    {
       "title": "RT by @Goreunit: Para special forces in Exercise Trishul \nEx Maru Jwala",
       "link": "https://nitter.net/DefenceSphere/status/2057549735742095803#m",
       "source": "War & Gore",
@@ -1200,6 +1320,16 @@
       "type": "tweets",
       "content": "<p>Listen to the powerful chants of \u201cVande Mataram\u201d directly from Mt. Everest by <a href=\"https://nitter.net/BSF_India\" title=\"BSF\">@BSF_India</a> first all-women expedition team.<a href=\"https://nitter.net/search?f=tweets&amp;q=%23BSF\">#BSF</a>\u2019s first all-women Mt. Everest expedition team has scripted history under <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MissionVandeMataram\">#MissionVandeMataram</a> by successfully summiting Mt. Everest. <br />\nThese brave Mahila Seema Praharis showcased unmatched courage, endurance and the true spirit of Nari Shakti. A proud moment for the Border Security Force and the nation. <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BSF\">#BSF</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Everest\">#Everest</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NariShakt\">#NariShakt</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2057515596317893112#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057515574062952448%2Fimg%2FVNp60L7GZrFYfxWC.jpg\" />\n</a>",
       "author": "@manishindiatv"
+    },
+    {
+      "title": "US Secretary of State Marco Rubio says Venezuela\u2019s interim President will visit India next week.",
+      "link": "https://nitter.net/alpha_defense/status/2057510239583543796#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-21T22:44:02+05:30",
+      "time": "21 May, 10:44 PM",
+      "type": "tweets",
+      "content": "<p>US Secretary of State Marco Rubio says Venezuela\u2019s interim President will visit India next week.</p>\n<img src=\"https://nitter.net/pic/media%2FHI2-p-HbQAAnIWd.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "Daily US-Israel-Iran War Brief:\n21st May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf The Persian Gulf Strait Authority (PGSA) of Iran has formally announced defined supervisory boundaries for the Strait of Hormuz.\n\n\u25cf Iran\u2019s Supreme Leader issued a directive prohibiting the export of the country\u2019s uranium stockpile abroad, according to Reuters.\n\n\u25cf Iran is in discussions with Oman to establish a permanent toll system that would formalize its control over maritime traffic in the Strait of Hormuz.\n\n\u25cf The IDF apprehended 3 terrorists affiliated with a Hamas-linked network in Hebron who were planning an imminent shooting attack.\n\n\u25cf In the Gulf of Oman, US Marines boarded the Iranian-flagged tanker M/T Celestial Sea suspected of violating the blockade. The vessel was searched and released after its crew was ordered to alter course.\n\n\u25cf As of May 21, CENTCOM has redirected 94 commercial vessels and disabled 4 while enforcing the naval blockade.\n\nEND OF THE BRIEF",
@@ -1232,6 +1362,16 @@
       "author": "@Globalwatchh"
     },
     {
+      "title": "We need to understand that the developments initiated by DRDO are driven by the Qualitative Requirements (QRs) laid down by the services. So if a requirement is initiated today, the resulting system will realistically enter service only 4\u20135 years down the line.",
+      "link": "https://nitter.net/alpha_defense/status/2057475811234734506#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-21T20:27:14+05:30",
+      "time": "21 May, 08:27 PM",
+      "type": "tweets",
+      "content": "<p>We need to understand that the developments initiated by DRDO are driven by the Qualitative Requirements (QRs) laid down by the services. So if a requirement is initiated today, the resulting system will realistically enter service only 4\u20135 years down the line.</p>\n<img src=\"https://nitter.net/pic/media%2FHI2e0yqbwAA9y0L.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Iran Hardens Nuclear Stance Ahead of US Talks\n\nAccording to Reuters, Iran\u2019s Supreme Leader Ayatollah Mojtaba Khamenei has ordered that Iran\u2019s stockpile of highly enriched uranium must remain inside the country, rejecting a key US demand to transfer it abroad.\n\nThe move complicates ongoing US\u2013Iran negotiations and could deepen tensions with both Washington and Israel, which insist any deal must include removal of Iran\u2019s enriched uranium stockpile.\n\nIranian officials reportedly fear sending the material abroad would leave the country vulnerable to future attacks.",
       "link": "https://nitter.net/NetramDefence/status/2057475769253957685#m",
       "source": "Netram Defense",
@@ -1240,6 +1380,16 @@
       "type": "tweets",
       "content": "<p>Iran Hardens Nuclear Stance Ahead of US Talks<br />\n<br />\nAccording to Reuters, Iran\u2019s Supreme Leader Ayatollah Mojtaba Khamenei has ordered that Iran\u2019s stockpile of highly enriched uranium must remain inside the country, rejecting a key US demand to transfer it abroad.<br />\n<br />\nThe move complicates ongoing US\u2013Iran negotiations and could deepen tensions with both Washington and Israel, which insist any deal must include removal of Iran\u2019s enriched uranium stockpile.<br />\n<br />\nIranian officials reportedly fear sending the material abroad would leave the country vulnerable to future attacks.</p>\n<img src=\"https://nitter.net/pic/media%2FHI2fNQqbgAAHljB.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "PULS launches Extra and Predator Hawk. Now we have seen SkyStriker UAV.\nThe complete package has Delilah (cruise missile) as well. So is that the area warning ?",
+      "link": "https://nitter.net/alpha_defense/status/2057466433840513316#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-21T19:49:58+05:30",
+      "time": "21 May, 07:49 PM",
+      "type": "tweets",
+      "content": "<p>PULS launches Extra and Predator Hawk. Now we have seen SkyStriker UAV.<br />\nThe complete package has Delilah (cruise missile) as well. So is that the area warning ?</p>\n<img src=\"https://nitter.net/pic/media%2FHI2Wzy2a4AEG1Ko.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "RT by @OsintTV: Nibe Group says - Nibe Group has successfully completed the no-cost, no-commitment demonstration of its loitering munition named Vayu Astra with 100 KM Range at Pokhran on 18-19 April 2026 & Joshimath (Malari), Uttarakhand on 26-27 April 2026. \n\nNibe Limited\u2019s Vayu Astra-1 Loitering Munition Anti-Personal carried out first NCNC demo successfully at Pokhran Range, Rajasthan, with 10 kg warhead in single attempt, successfully hitting the target at 100 km with CEP less than 1 m with abort attack and reattack capability of the LM. The LM is based on an Israeli loitering munition. \n \nThe team carried out Anti Armour (Anti-Tank) night strike using- IR camera and LM successfully hit the target within the 2 m CEP in a single attempt with capability of handing over the control from GCS to Forward Control Segment 70 km away was successfully demonstrated.\n \nAt Joshimath (Malari) Uttarakhand Vayu Astra-1 LM had been successfully demonstrated endurance flying more than 90 minutes high altitude loitering and endurance completed at more than 14000 Ft height and LM is recovery for next flight after completion of mission.",
@@ -1270,6 +1420,26 @@
       "type": "tweets",
       "content": "<p>China confirms deal to buy 200 Boeing jets<br />\n<br />\nThe agreement ends a nearly decade-long freeze on major orders for the US planemaker. Both nations also plan to extend a trade truce and discuss cutting tariffs on $30 billion worth of goods to stabilize relations.</p>\n<img src=\"https://nitter.net/pic/media%2FHI2BDl5acAAAUzu.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "Nibe Limited successfully demonstrated the Vayu Astra-1 loitering munition during NCNC trials at Pokhran.\n\n\u2714\ufe0f 100 km strike range\n\u2714\ufe0f CEP under 1 meter\n\u2714\ufe0f Abort & re-attack capability\n\u2714\ufe0f 10 kg warhead\n\u2714\ufe0f Successful target hit in a single attempt",
+      "link": "https://nitter.net/alpha_defense/status/2057441004072968617#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-21T18:08:55+05:30",
+      "time": "21 May, 06:08 PM",
+      "type": "tweets",
+      "content": "<p>Nibe Limited successfully demonstrated the Vayu Astra-1 loitering munition during NCNC trials at Pokhran.<br />\n<br />\n\u2714\ufe0f 100 km strike range<br />\n\u2714\ufe0f CEP under 1 meter<br />\n\u2714\ufe0f Abort &amp; re-attack capability<br />\n\u2714\ufe0f 10 kg warhead<br />\n\u2714\ufe0f Successful target hit in a single attempt</p>\n<a href=\"https://nitter.net/alpha_defense/status/2057441004072968617#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2057440885172805632%2Fpu%2Fimg%2F7Vx2-lYya_1sS1K9.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @alpha_defense: Reiterating our demand @DefenceMinIndia 4 engines and supporting structures please \ud83d\ude4f\ud83c\udffb \n#FundkaveriEngine #KaveriJantaParty",
+      "link": "https://nitter.net/KaveriEngine7/status/2057438688695693739#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-21T17:59:43+05:30",
+      "time": "21 May, 05:59 PM",
+      "type": "tweets",
+      "content": "<p>Reiterating our demand <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> 4 engines and supporting structures please \ud83d\ude4f\ud83c\udffb <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23FundkaveriEngine\">#FundkaveriEngine</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23KaveriJantaParty\">#KaveriJantaParty</a></p>\n<hr />\n<blockquote>\n<b>Kaveri Engine (@KaveriEngine7)</b>\n<p>\n<p>We request Bharat Sarkar to immediately fund 4 engine programs with infrastructure and flying test bed.<br />\n1. 85 KN class for LCA MK1 &amp; MK1A<br />\n2. 98 KN class for LCA MK2 <br />\n3. 110 KN class for AMCA and <br />\n4. 150 KN class for Su30 upgrade<br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a></p>\n<img src=\"https://nitter.net/pic/media%2FHIyVBJEb0AAaj-M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/KaveriEngine7/status/2057182983959007267#m\">https://nitter.net/KaveriEngine7/status/2057182983959007267#m</a>\n</footer>\n</blockquote>",
+      "author": "@KaveriEngine7"
     },
     {
       "title": "RT by @NetramDefence: Manipur Police, Assam Rifles and CRPF have recovered and secured a large cache of arms and war-like stores consisting of 29 weapons comprising AK series rifles, M-series rifles, pistols and other firearms, during a cordon and search operation at an unauthorised UNLF(P) camp.",
@@ -1312,6 +1482,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "2019 Pulwama 'Mastermind' Hamza Burhan UnknownGunManned",
+      "link": "https://nitter.net/alpha_defense/status/2057425833124680026#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-21T17:08:38+05:30",
+      "time": "21 May, 05:08 PM",
+      "type": "tweets",
+      "content": "<p>2019 Pulwama 'Mastermind' Hamza Burhan UnknownGunManned</p>",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Arjumand Gulzar Dar was not involved in the 2019 Pulwama suicide bombing. He was involved in the grenade attack on CRPF personnel in Pulwama on November 18, 2020. \n\nNational media should report verified facts accurately.",
       "link": "https://nitter.net/elitepredatorss/status/2057425590266016136#m",
       "source": "Elite Predators",
@@ -1338,7 +1518,7 @@
       "sort_key": "2026-05-21T16:37:02+05:30",
       "time": "21 May, 04:37 PM",
       "type": "tweets",
-      "content": "<p>\ud83d\udea8 Four top Jaish commanders behind 2019 Pulwama terror attack case remain absconding, including three Pakistani terrorists and one Kashmiri. Masood Azhar Alvi, Rouf Asgar Alvi, Ammar Alvi and Ashaq Ahmed Nengroo are alive and operating from Pakistan. <br />\n<br />\n<a href=\"https://www.republicworld.com/india/four-top-jaish-commanders-behind-pulwama-attack-continue-to-operate-from-pakistan-2026-05-21-125188\">republicworld.com/india/four\u2026</a></p>",
+      "content": "<p>\ud83d\udea8 Four top Jaish commanders behind 2019 Pulwama terror attack case remain absconding, including three Pakistani terrorists and one Kashmiri. Masood Azhar Alvi, Rouf Asgar Alvi, Ammar Alvi and Ashaq Ahmed Nengroo are alive and operating from Pakistan. <br />\n<br />\n<a href=\"https://www.republicworld.com/india/four-top-jaish-commanders-behind-pulwama-attack-continue-to-operate-from-pakistan-2026-05-21-125188\">republicworld.com/india/four\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2057417879474384896%2F3BM5hlTM%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@FromGursimran"
     },
     {
@@ -1390,6 +1570,26 @@
       "type": "tweets",
       "content": "<p>Big Breaking \ud83d\udea8. From Manipur. <br />\n<br />\n70 weapons of Meitei militant group UNLF and 4 militants were arrested by Assam rifles and Manipur police after a brief exchange of fire  in Imphal, militants were planning a bigger attack on Security forces . Jammers, Drones and many Chinese  made weapons captured . <br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23unlf\">#unlf</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23imphal\">#imphal</a>.</p>\n<a href=\"https://nitter.net/Dig_raw21/status/2057400928093802998#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057400873341308928%2Fimg%2FOICrbcn0sVo-uUqO.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHI1bMZbXIAA8khl.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI1bMZaWwAACILd.jpg\" />\n\n<a href=\"https://nitter.net/Dig_raw21/status/2057400928093802998#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057400873345531904%2Fimg%2Fy7cMjpZRqzLOEt7K.jpg\" />\n</a>",
       "author": "@Dig_raw21"
+    },
+    {
+      "title": "AGNIT Semiconductors GaN modules.",
+      "link": "https://nitter.net/alpha_defense/status/2057392717626528231#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-21T14:57:03+05:30",
+      "time": "21 May, 02:57 PM",
+      "type": "tweets",
+      "content": "<p>AGNIT Semiconductors GaN modules.</p>\n<img src=\"https://nitter.net/pic/media%2FHI1TkDNb0AIjebQ.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "EOTS Dome for AMCA from Optica",
+      "link": "https://nitter.net/alpha_defense/status/2057390897260868027#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-21T14:49:49+05:30",
+      "time": "21 May, 02:49 PM",
+      "type": "tweets",
+      "content": "<p>EOTS Dome for AMCA from Optica</p>\n<img src=\"https://nitter.net/pic/media%2FHI1RkhMb0AA-Psm.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "RT by @OsintTV: West Bengal mai Indo Bangladesh Border par Fence lagane ka karya pragati par hai. @indiatvnews @BSF_India",
@@ -1528,6 +1728,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "11:24 PM IST"
+    "last_updated": "12:24 AM IST"
   }
 }
