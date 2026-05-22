@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Afghanistan reports 250 deaths since March due to natural disasters across the country",
+      "link": "https://www.newsonair.gov.in/afghanistan-reports-250-deaths-since-march-due-to-natural-disasters-across-the-country/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-22T18:11:40+05:30",
+      "time": "22 May, 06:11 PM",
+      "type": "news",
+      "description": "In Afghanistan, six people were killed and 11 others injured after strong winds, floods and thunderstorms struck Kandahar, Herat, Ghor and Takhar prov..."
+    },
+    {
+      "title": "OPINION | Dhurandhar in Pakistan: Terrorists on the run",
+      "link": "https://www.indiatvnews.com/news/india/opinion-dhurandhar-in-pakistan-terrorists-on-the-run-aaj-ki-baat-with-rajat-sharma-2026-05-22-1042101",
+      "source": "India TV",
+      "sort_key": "2026-05-22T17:48:53+05:30",
+      "time": "22 May, 05:48 PM",
+      "type": "news",
+      "description": "Unidentified killers in Muzaffarabad, Pakistan-occupied Kashmir,&nbsp; showered bullets on Hamza Burhan, said to be the mastermind behind the November..."
+    },
+    {
       "title": "PM Modi and Cyprus President Nikos Christodoulides hold wide-ranging talks on trade, defence and technology cooperation",
       "link": "https://www.newsonair.gov.in/pm-modi-and-cyprus-president-nikos-christodoulides-hold-wide-ranging-talks-on-trade-defence-and-technology-cooperation/",
       "source": "All India Radio",
@@ -298,13 +316,22 @@
       "description": "US Secretary of State Marco Rubio has said that the US is ready to sell as much energy as India is willing to buy. He said this while responding to a ..."
     },
     {
-      "title": "UAE marks Biodiversity Day with record conservation milestones",
-      "link": "https://www.newsonair.gov.in/uae-marks-biodiversity-day-with-record-conservation-milestones/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-22T09:57:20+05:30",
-      "time": "22 May, 09:57 AM",
+      "title": "How the West Misreads Modi\u2019s Success",
+      "link": "https://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/",
+      "source": "Foreign Policy",
+      "sort_key": "2026-05-22T09:31:32+05:30",
+      "time": "22 May, 09:31 AM",
       "type": "news",
-      "description": "The UAE is marking the International Day for Biological Diversity today \u2013 observed every year on May 22 to commemorate the adoption of the Convention ..."
+      "description": "India may be less liberal now, but it remains democratic."
+    },
+    {
+      "title": "Why the Quad Was Doomed From the Start",
+      "link": "https://foreignpolicy.com/2026/05/22/quad-rubio-india-china/",
+      "source": "Foreign Policy",
+      "sort_key": "2026-05-22T09:31:07+05:30",
+      "time": "22 May, 09:31 AM",
+      "type": "news",
+      "description": "The Philippines has replaced India in Washington\u2019s security calculus on China."
     },
     {
       "title": "Israel fears surprise Iranian attack amid ceasefire talks: Reports",
@@ -737,63 +764,69 @@
       "time": "20 May, 06:23 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Why are terror operatives opting for cosmetic procedures: Personal reasons or biometric escape plan?",
-      "link": "https://economictimes.indiatimes.com/news/defence/why-are-terror-operatives-opting-for-cosmetic-procedures-personal-reasons-or-biometric-escape-plan/articleshow/131226864.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-20T17:58:13+05:30",
-      "time": "20 May, 05:58 PM",
-      "type": "news",
-      "description": "A Lashkar-e-Taiba operative reportedly paused his infiltration mission in Srinagar for a hair transplant, while another, arrested in Delhi, had a dent..."
-    },
-    {
-      "title": "Multilateral military exercise PRAGATI 2026 commences in Meghalaya",
-      "link": "https://economictimes.indiatimes.com/news/defence/multilateral-military-exercise-pragati-2026-commences-in-meghalaya/articleshow/131226911.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-20T17:53:42+05:30",
-      "time": "20 May, 05:53 PM",
-      "type": "news",
-      "description": "Military exercise PRAGATI 2026 has begun in Meghalaya. Twelve friendly nations are participating. The exercise focuses on counter-terrorism in challen..."
-    },
-    {
-      "title": "US test fires mobile rocket system near Mount Fuji in rapid 'shoot and scoot' drill",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-test-fires-mobile-rocket-system-near-mount-fuji-in-rapid-shoot-and-scoot-drill/articleshow/131227110.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-20T17:53:36+05:30",
-      "time": "20 May, 05:53 PM",
-      "type": "news",
-      "description": "US Marines conducted a rocket test firing in Japan. The exercise showcased the High Mobility Artillery Rocket System, a crucial weapon for the America..."
-    },
-    {
-      "title": "India, South Korea sign pact in key areas of defence cooperation",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-south-korea-sign-pact-in-key-areas-of-defence-cooperation/articleshow/131226644.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-20T17:41:03+05:30",
-      "time": "20 May, 05:41 PM",
-      "type": "news",
-      "description": "India and South Korea have strengthened their defence ties. MoUs were signed in key areas like defence cyber, training, and UN peacekeeping cooperatio..."
-    },
-    {
-      "title": "'100% confident that Tejas Mk1A will be delivered this year': Defence Production Secy Sanjeev Kumar",
-      "link": "https://economictimes.indiatimes.com/news/defence/100-confident-that-tejas-mk1a-will-be-delivered-this-year-defence-production-secy-sanjeev-kumar/articleshow/131226813.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-20T17:40:37+05:30",
-      "time": "20 May, 05:40 PM",
-      "type": "news",
-      "description": "Secretary of Defence Production Sanjeev Kumar expressed 100% confidence in the Indian Air Force receiving Tejas Mark 1A fighter jets this financial ye..."
-    },
-    {
-      "title": "\u2018Over 800 Italian firms contributing to India\u2019s growth story\u2019: PM Modi after meeting Meloni",
-      "link": "https://indianexpress.com/article/world/pm-narendra-modi-giorgia-meloni-india-italy-strategic-action-plan-10699700/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-20T17:29:55+05:30",
-      "time": "20 May, 05:29 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "\ud83d\ude4f\ud83c\udffb anyone going to Tirupati do the same please. We need all the blessings \n\nThis is for India (that is Bharat \ud83c\uddee\ud83c\uddf3)",
+      "link": "https://nitter.net/alpha_defense/status/2057805791391027256#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T18:18:27+05:30",
+      "time": "22 May, 06:18 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\ude4f\ud83c\udffb anyone going to Tirupati do the same please. We need all the blessings <br />\n<br />\nThis is for India (that is Bharat \ud83c\uddee\ud83c\uddf3)</p>\n<hr />\n<blockquote>\n<b>sudhansu (@iitiansudh61187)</b>\n<p>\n<p>Ayodhya jaa rha hui amca keliye prathna krunga ram ji se \u2764\ufe0f\ud83e\udd1e</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/iitiansudh61187/status/2057804539278041371#m\">https://nitter.net/iitiansudh61187/status/2057804539278041371#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "The Delhi High Court granted three days interim bail to Umar Khalid in the UAPA case fir larger conspiracy in commission of 2020 North East Delhi riots.\n\nUmar Khalid got interim bail to attend his mother's surgery. Starting June 1st, Khalid must follow strict conditions, including staying in the National Capital Region and using a single mobile phone. \n\nDelhi police officials opposed the bail, claiming his sisters were available to provide care during the medical procedure.",
+      "link": "https://nitter.net/NetramDefence/status/2057803041546609036#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-22T18:07:31+05:30",
+      "time": "22 May, 06:07 PM",
+      "type": "tweets",
+      "content": "<p>The Delhi High Court granted three days interim bail to Umar Khalid in the UAPA case fir larger conspiracy in commission of 2020 North East Delhi riots.<br />\n<br />\nUmar Khalid got interim bail to attend his mother's surgery. Starting June 1st, Khalid must follow strict conditions, including staying in the National Capital Region and using a single mobile phone. <br />\n<br />\nDelhi police officials opposed the bail, claiming his sisters were available to provide care during the medical procedure.</p>\n<img src=\"https://nitter.net/pic/media%2FHI7I82LaQAAqXmF.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Next 3 weeks : We will see good development around AMCA \u201cProcess\u201d.",
+      "link": "https://nitter.net/alpha_defense/status/2057802576700297715#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-22T18:05:41+05:30",
+      "time": "22 May, 06:05 PM",
+      "type": "tweets",
+      "content": "<p>Next 3 weeks : We will see good development around AMCA \u201cProcess\u201d.</p>\n<img src=\"https://nitter.net/pic/media%2FHI7Igj0aYAADM9R.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Iranian FM Abbas Araqchi held another round of talks with Pakistan\u2019s Interior Minister Mohsin Naqvi, who is reportedly facilitating communication between Tehran and Washington.\n\nKey sticking points in the peace deal remain:\n- Iran\u2019s enriched uranium stockpile\n- Tehran\u2019s demand for control/tolls in the Strait of Hormuz\n- Sanctions relief and frozen assets",
+      "link": "https://nitter.net/NetramDefence/status/2057795411226857830#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-22T17:37:12+05:30",
+      "time": "22 May, 05:37 PM",
+      "type": "tweets",
+      "content": "<p>Iranian FM Abbas Araqchi held another round of talks with Pakistan\u2019s Interior Minister Mohsin Naqvi, who is reportedly facilitating communication between Tehran and Washington.<br />\n<br />\nKey sticking points in the peace deal remain:<br />\n- Iran\u2019s enriched uranium stockpile<br />\n- Tehran\u2019s demand for control/tolls in the Strait of Hormuz<br />\n- Sanctions relief and frozen assets</p>\n<img src=\"https://nitter.net/pic/media%2FHI7B_rxbYAAQT6b.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "India Sends Critical Vaccine Support to Afghanistan\n\nIndia has dispatched vaccine material to Afghanistan to strengthen its child immunisation programme, continuing its humanitarian outreach to the Afghan people.\n\nThe consignment includes BCG vaccines and related medical supplies aimed at boosting tuberculosis immunisation for children through Afghanistan\u2019s public health system.",
+      "link": "https://nitter.net/NetramDefence/status/2057793905895346631#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-22T17:31:13+05:30",
+      "time": "22 May, 05:31 PM",
+      "type": "tweets",
+      "content": "<p>India Sends Critical Vaccine Support to Afghanistan<br />\n<br />\nIndia has dispatched vaccine material to Afghanistan to strengthen its child immunisation programme, continuing its humanitarian outreach to the Afghan people.<br />\n<br />\nThe consignment includes BCG vaccines and related medical supplies aimed at boosting tuberculosis immunisation for children through Afghanistan\u2019s public health system.</p>\n<img src=\"https://nitter.net/pic/media%2FHI7AomHagAAda78.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "RT by @OsintTV: With reference to Joint press conference on 3 ex armymen and 1 deserter armymen were given a stage.\nThe Facts about the 4 representatives of Army is:-\nChandu Chavan :discharged from army on 25 July 2024 due to accumulation of five red ink entries due to indiscipline.\nHarendra Yadav :dismissed from army on 27 Jan 2024 due to indiscipline. \nShankar Singh Gujjar:deserter from army since November 2024\nP Narender:dismissed from army due to indiscipline. @indiatvnews @adgpi",
+      "link": "https://nitter.net/manishindiatv/status/2057781523341038051#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-22T16:42:01+05:30",
+      "time": "22 May, 04:42 PM",
+      "type": "tweets",
+      "content": "<p>With reference to Joint press conference on 3 ex armymen and 1 deserter armymen were given a stage.<br />\nThe Facts about the 4 representatives of Army is:-<br />\nChandu Chavan :discharged from army on 25 July 2024 due to accumulation of five red ink entries due to indiscipline.<br />\nHarendra Yadav :dismissed from army on 27 Jan 2024 due to indiscipline. <br />\nShankar Singh Gujjar:deserter from army since November 2024<br />\nP Narender:dismissed from army due to indiscipline. <a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a> <a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a></p>\n<hr />\n<blockquote>\n<b>ADG PI - INDIAN ARMY (@adgpi)</b>\n<p>\n<p>\u0905\u092b\u0935\u093e\u0939\u094b\u0902 \u0938\u0947 \u092c\u091a\u0947\u0902<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23FakeAlert\">#FakeAlert</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23Beware\">#Beware</a><br />\n<br />\nA press conference video is being circulated across media and social media platforms with an attempt to malign the image of the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a>.<br />\n<br />\nIt is reiterated that the individuals seen in the video, namely Chandu Chavan, Harendra Yadav and P Narender, were dismissed from service on grounds of indiscipline and unsoldierly conduct. The fourth individual, Shankar Singh Gujjar, is a deserter and disciplinary proceedings are undergoing against him in both military and civil courts.<br />\n<br />\nThese individuals are deliberately spreading fake, malicious and misleading narratives on social media to divert attention from their own misconduct and dismissal from service. Citizens are advised not to fall prey to such propaganda and to remain vigilant against misinformation. (1/2)<br />\n<br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a></p>\n<img src=\"https://nitter.net/pic/media%2FHI6dGrbaQAArJLV.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/adgpi/status/2057754821147689156#m\">https://nitter.net/adgpi/status/2057754821147689156#m</a>\n</footer>\n</blockquote>",
+      "author": "@manishindiatv"
+    },
     {
       "title": "India invites Cyprus to open campus in Gift city say MEA official",
       "link": "https://nitter.net/sidhant/status/2057771720816386352#m",
@@ -893,6 +926,16 @@
       "type": "tweets",
       "content": "<p>Cyprus to open trade office in Mumbai, Bollywood movie to be shot in Cyprus: MEA officials</p>",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT by @NetramDefence: A high-end \u201cMade in Taiwan\u201d anti-drone jammer, routed via Myanmar, has reportedly been recovered from UNLF cadres in Manipur along with weapons & ammunition.\n\nThe recovery points to the presence of increasingly sophisticated military-grade equipment in the Manipur.",
+      "link": "https://nitter.net/KangleipakDaily/status/2057764535101243740#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-22T15:34:31+05:30",
+      "time": "22 May, 03:34 PM",
+      "type": "tweets",
+      "content": "<p>A high-end \u201cMade in Taiwan\u201d anti-drone jammer, routed via Myanmar, has reportedly been recovered from UNLF cadres in Manipur along with weapons &amp; ammunition.<br />\n<br />\nThe recovery points to the presence of increasingly sophisticated military-grade equipment in the Manipur.</p>\n<a href=\"https://nitter.net/KangleipakDaily/status/2057764535101243740#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057764308105539584%2Fimg%2FEPySKzKlw-NgzvFQ.jpg\" />\n</a>",
+      "author": "@KangleipakDaily"
     },
     {
       "title": "MEA presser on Cyprus President @Christodulides begins",
@@ -1072,6 +1115,16 @@
       "time": "22 May, 01:15 PM",
       "type": "tweets",
       "content": "<p>India, Cyprus to firm up cooperation in \"strategic sector\", says Cypus President <a href=\"https://nitter.net/Christodulides\" title=\"NikosChristodoulides\">@Christodulides</a></p>\n<a href=\"https://nitter.net/sidhant/status/2057729641616674965#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2057729417548591105%2Fpu%2Fimg%2FgRkOBlV1md_3xrjn.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Cyprus President Christodulides takes a selfie with Indian PM Modi",
+      "link": "https://nitter.net/sidhant/status/2057725051022266853#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-22T12:57:37+05:30",
+      "time": "22 May, 12:57 PM",
+      "type": "tweets",
+      "content": "<p>Cyprus President Christodulides takes a selfie with Indian PM Modi</p>\n<a href=\"https://nitter.net/sidhant/status/2057725051022266853#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2057725015433641984%2Fpu%2Fimg%2FOnuWO6YVc_BJyW7M.jpg\" />\n</a>",
       "author": "@sidhant"
     },
     {
@@ -1595,16 +1648,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "\ud83e\udd1e\nWell, this sounds good as a concept and, in fact, was used by most countries until a few years ago. However, let me tell you industries across the world are now going back to the old-school approach. \u201cJust-in-time\u201d inventory management is gradually being reconsidered, and strategic stockpiling is making a comeback.\n\nIn fact, my own team learned this the hard way. A couple of years ago, we were sourcing certain materials from a country that was considered friendly at the time. Then the regime changed, relations turned hostile, and suddenly all three silos of our supply chain got stuck.\n\nWe had order books to fulfil, penalty clauses in place, and no immediate workaround. Ironically, the material itself was at the bottom of the value chain if we had enough time, we could have manufactured it ourselves without much difficulty. But timelines don\u2019t wait.\n\nWe ended up paying penalties, and since then we\u2019ve been working aggressively to make our supply chain more robust bringing as much as possible within our own sphere of influence. And let me assure you, doing that on the go is far from easy.",
-      "link": "https://nitter.net/alpha_defense/status/2057328686085394932#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-21T10:42:36+05:30",
-      "time": "21 May, 10:42 AM",
-      "type": "tweets",
-      "content": "<p>\ud83e\udd1e<br />\nWell, this sounds good as a concept and, in fact, was used by most countries until a few years ago. However, let me tell you industries across the world are now going back to the old-school approach. \u201cJust-in-time\u201d inventory management is gradually being reconsidered, and strategic stockpiling is making a comeback.<br />\n<br />\nIn fact, my own team learned this the hard way. A couple of years ago, we were sourcing certain materials from a country that was considered friendly at the time. Then the regime changed, relations turned hostile, and suddenly all three silos of our supply chain got stuck.<br />\n<br />\nWe had order books to fulfil, penalty clauses in place, and no immediate workaround. Ironically, the material itself was at the bottom of the value chain if we had enough time, we could have manufactured it ourselves without much difficulty. But timelines don\u2019t wait.<br />\n<br />\nWe ended up paying penalties, and since then we\u2019ve been working aggressively to make our supply chain more robust bringing as much as possible within our own sphere of influence. And let me assure you, doing that on the go is far from easy.</p>\n<hr />\n<blockquote>\n<b>Defence Matrix (@Defencematrix1)</b>\n<p>\n<p>Eyup, R&amp;D in everything is expensive and time taking for country like india, with limited budget and time, we should focus on niche technologies to put our existing resources, there R&amp;D is needed where we learn something new. But for tech we already have building blocks, what we know we can develop, it\u2019s not required to make everything on our own when we are getting it from somewhere with tech transfer and local production.<br />\nThings like Jet engine tech requires more of our R&amp;D effort than tech we have already mastered. <br />\nEverything should be made in india is a myth. You can\u2019t, no country does as we don\u2019t have all the resources you will always have to import things. <br />\nIt\u2019s better to put context, than a clip so that you don\u2019t create controversy and people understand the point I was making. <br />\nYou can\u2019t expect Startup to do R&amp;D from the start, it\u2019s hard to get investment, if you want to sustain you need orders then you can focus on R&amp;D.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Defencematrix1/status/2057317302274752619#m\">https://nitter.net/Defencematrix1/status/2057317302274752619#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Bangladesh\u2019s ruling BNP has linked future ties with India to a new Ganges Water Sharing Treaty, as the current 1996 agreement approaches expiry in December 2026.\n\nDhaka is seeking immediate negotiations for a revised pact aligned with Bangladesh\u2019s \u201cneeds and expectations,\u201d while also moving ahead with a major Padma Barrage project aimed at countering the impact of the Farakka Barrage.",
       "link": "https://nitter.net/NetramDefence/status/2057323732549734862#m",
       "source": "Netram Defense",
@@ -1625,16 +1668,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Okie join @KaveriEngine7 (Kaveri Janta Party)",
-      "link": "https://nitter.net/alpha_defense/status/2057175524875940028#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-21T00:34:00+05:30",
-      "time": "21 May, 12:34 AM",
-      "type": "tweets",
-      "content": "<p>Okie join <a href=\"https://nitter.net/KaveriEngine7\" title=\"Kaveri Engine\">@KaveriEngine7</a> (Kaveri Janta Party)</p>\n<img src=\"https://nitter.net/pic/media%2FHIyOO9bboAAf1d5.jpg\" />\n\n<hr />\n<blockquote>\n<b>Kaveri Engine (@KaveriEngine7)</b>\n<p>\n<p>Here we are <br />\nPromote us.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/KaveriEngine7/status/2057173443020542013#m\">https://nitter.net/KaveriEngine7/status/2057173443020542013#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @OsintTV: Indian Army during a domination operation near the LoC in forward Balakote\n\n recovered a concealed bag containing a Chinese-origin pistol and two yellow polyethylene-wrapped packages. Investigation is underway.",
       "link": "https://nitter.net/buntymahajan6/status/2057146246486462629#m",
       "source": "Osint TV",
@@ -1643,16 +1676,6 @@
       "type": "tweets",
       "content": "<p>Indian Army during a domination operation near the LoC in forward Balakote<br />\n<br />\n recovered a concealed bag containing a Chinese-origin pistol and two yellow polyethylene-wrapped packages. Investigation is underway.</p>\n<img src=\"https://nitter.net/pic/media%2FHIxzkcMaEAAFP2T.jpg\" />",
       "author": "@buntymahajan6"
-    },
-    {
-      "title": "Daily US-Israel-Iran War Brief:\n20th May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf UAE MoD confirmed that the three drones that attacked the Barakah Nuclear Power Plant on May 17 were launched from Iraq.\n\n\u25cf Two Chinese VLCCs - OCEAN LILY and YUAN GUI YANG - carrying ~4 million barrels of Iraqi crude, have exited the Strait of Hormuz after over 2 months of being trapped in the Gulf.\n\n\u25cf South Korea-flagged supertanker UNIVERSAL WINNER, carrying Kuwaiti crude, is transiting the Strait of Hormuz via an Iran-approved northern route.\n\n\u25cf Chinese President Xi Jinping called for an end to all hostilities in West Asia during talks with Russian President Putin in Beijing, urging higher-level cooperation as permanent UNSC members.\n\n\u25cfThe IRGC issued a strong statement warning the US and Israel against any renewed military action, declaring that any future conflict could expand beyond West Asia.\n\n\u25cfThe IDF dismantled a Hezbollah weapons production site embedded in a building used as a clinic in the Tyre area of southern Lebanon, located near a mosque.\n\n\u25cfAs of May 20, CENTCOM has redirected 90 ships and disabled 4 to ensure compliance with the naval blockade.\nEND OF THE BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2057135261595885981#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-20T21:54:00+05:30",
-      "time": "20 May, 09:54 PM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n20th May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf UAE MoD confirmed that the three drones that attacked the Barakah Nuclear Power Plant on May 17 were launched from Iraq.<br />\n<br />\n\u25cf Two Chinese VLCCs - OCEAN LILY and YUAN GUI YANG - carrying ~4 million barrels of Iraqi crude, have exited the Strait of Hormuz after over 2 months of being trapped in the Gulf.<br />\n<br />\n\u25cf South Korea-flagged supertanker UNIVERSAL WINNER, carrying Kuwaiti crude, is transiting the Strait of Hormuz via an Iran-approved northern route.<br />\n<br />\n\u25cf Chinese President Xi Jinping called for an end to all hostilities in West Asia during talks with Russian President Putin in Beijing, urging higher-level cooperation as permanent UNSC members.<br />\n<br />\n\u25cfThe IRGC issued a strong statement warning the US and Israel against any renewed military action, declaring that any future conflict could expand beyond West Asia.<br />\n<br />\n\u25cfThe IDF dismantled a Hezbollah weapons production site embedded in a building used as a clinic in the Tyre area of southern Lebanon, located near a mosque.<br />\n<br />\n\u25cfAs of May 20, CENTCOM has redirected 90 ships and disabled 4 to ensure compliance with the naval blockade.<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHIxplTiaMAABONc.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n19th May 2026:  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf Iranian FM Spokesperson Esmaeil Baqaei criticised German Chancellor Friedrich Merz, accusing Germany of applying selective standards on international law and issues involving Iran.<br />\n<br />\n \u25cf The Curaco-flagged tanker LOUIZA (ex-EURO FORTUNE) is heading back into the Persian Gulf at approximately 10 knots.<br />\n<br />\n\u25cf The IDF eliminated a Hamas terrorist who crossed the Yellow Line in southern Gaza, posing an imminent threat to IDF troops.<br />\n<br />\n\u25cf FMs of Jordan, Indonesia, Spain, Pakistan, Brazil, Bangladesh, Turkey, Colombia, Libya, & Maldives condemned Israel\u2019s interception of the Global Sumud Flotilla in international waters, calling it a violation of international law.<br />\n<br />\n\u25cf Iraq\u2019s FM denied that any drones were launched from or passed through Iraqi territory in relation to the recent Saudi airspace incident and announced an immediate investigation.<br />\n<br />\n\u25cf As of May 19, CENTCOM forces have redirected 88 commercial vessels, and disabled 4 to ensure total compliance with the naval blockade.<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHIsktdCbkAAGwjM.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2056778301100974246#m\">https://nitter.net/NetramDefence/status/2056778301100974246#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
     },
     {
       "title": "RT by @OsintTV: Drone warfare. \ud83c\uddee\ud83c\uddf3",
@@ -1705,16 +1728,6 @@
       "author": "@VP86448164"
     },
     {
-      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \n\nhttps://t.me/OsntTV/41932\n\n\ud83d\ude4f",
-      "link": "https://nitter.net/OsintTV/status/2057091548186059061#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-20T19:00:18+05:30",
-      "time": "20 May, 07:00 PM",
-      "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV/41932\">t.me/OsntTV/41932</a><br />\n<br />\n\ud83d\ude4f</p>\n<img src=\"https://nitter.net/pic/card_img%2F2057091548475502593%2Fj3zLxAU4%3Fformat%3Djpg%26name%3D280x280_2\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "The whole video of that chaman chachundar fact checked ! Tere me abhi bhi dam ho to aaja live space me @keshavbedi !",
       "link": "https://nitter.net/elitepredatorss/status/2057085169010708733#m",
       "source": "Elite Predators",
@@ -1723,19 +1736,18 @@
       "type": "tweets",
       "content": "<p>The whole video of that chaman chachundar fact checked ! Tere me abhi bhi dam ho to aaja live space me <a href=\"https://nitter.net/keshavbedi\" title=\"Keshav Bedi\">@keshavbedi</a> !</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2057085169010708733#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057081708030447616%2Fimg%2Fwf3gwqF8GIjZwmj-.jpg\" />\n</a>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "2-3Kg Heroin in a single drop. Usually DJI type drones are found to carry 0.5-1.2Kg Packages only. Might have started using bigger Flies \ud83e\udeb0.",
-      "link": "https://nitter.net/AngryRumi7/status/2057071799578611760#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-05-20T17:41:50+05:30",
-      "time": "20 May, 05:41 PM",
-      "type": "tweets",
-      "content": "<p>2-3Kg Heroin in a single drop. Usually DJI type drones are found to carry 0.5-1.2Kg Packages only. Might have started using bigger Flies \ud83e\udeb0.</p>\n<img src=\"https://nitter.net/pic/media%2FHIwv4aTb0AE_M7v.jpg\" />\n\n<hr />\n<blockquote>\n<b>AngryRumi\ud83d\udc24 (@AngryRumi7)</b>\n<p>\n<p>\ud83d\udea8Incident of Drone Dropping in Bishnah,Jammu. <br />\n<br />\nFarmer reported that he observed an aerial Object(Drone ) hovering over his field for a long time, the drone released the payload and subsequently returned.</p>\n<img src=\"https://nitter.net/pic/media%2FHIvnG23bQAANMdN.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AngryRumi7/status/2056991769162895620#m\">https://nitter.net/AngryRumi7/status/2056991769162895620#m</a>\n</footer>\n</blockquote>",
-      "author": "@AngryRumi7"
     }
   ],
   "youtube": [
+    {
+      "title": "We should take good note of this incident #news #pmmodi",
+      "link": "https://www.youtube.com/shorts/jYDcRuK9Qrg",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-22T18:00:42+05:30",
+      "time": "22 May, 06:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Rafale F4 Rejected,NIBE Vayu Astra-1 Test,L&T Hanwa Laser Weapon Deal",
       "link": "https://www.youtube.com/watch?v=pbLEhRykTtk",
@@ -1810,6 +1822,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
