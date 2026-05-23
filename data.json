@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "SpaceX launches more powerful Super Heavy-Starship rocket on test flight",
+      "link": "https://www.newsonair.gov.in/spacex-launches-more-powerful-super-heavy-starship-rocket-on-test-flight/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-23T09:05:22+05:30",
+      "time": "23 May, 09:05 AM",
+      "type": "news",
+      "description": "SpaceX launched the largest and most powerful version of its Starship-Super Heavy rocket system this morning, marking another milestone in its efforts..."
+    },
+    {
+      "title": "Trump administration changes green card process; applicants to apply from their home countries",
+      "link": "https://www.newsonair.gov.in/trump-administration-changes-green-card-process-applicants-to-apply-from-their-home-countries/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-23T08:58:26+05:30",
+      "time": "23 May, 08:58 AM",
+      "type": "news",
+      "description": "The Trump administration has announced a major change to the US green card process, stating that foreign nationals seeking permanent residency will no..."
+    },
+    {
+      "title": "Bihar ATS arrests man over alleged links to Pakistan-based arms dealer",
+      "link": "https://www.newindianexpress.com/india/2026/May/23/bihar-ats-arrests-man-over-alleged-links-to-pakistan-based-arms-dealer",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-23T08:56:03+05:30",
+      "time": "23 May, 08:56 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "\u00a38M cartel crushed: Indian-origin man among 5 jailed for flooding London with drugs",
+      "link": "https://indianexpress.com/article/world/uk-indian-origin-man-jagjit-singh-jailed-8-million-pounds-drug-smuggling-network-10703699/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-23T08:51:29+05:30",
+      "time": "23 May, 08:51 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "One held from Pathankot over allegedly  spying for Pakistani handlers",
+      "link": "https://www.newindianexpress.com/india/2026/May/23/one-held-from-pathankot-over-allegedly-spying-for-pakistani-handlers",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-23T08:51:22+05:30",
+      "time": "23 May, 08:51 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Major Abhilasha Barak honoured with UN Military Gender Advocate of the Year Award 2025",
       "link": "https://www.newsonair.gov.in/major-abhilasha-barak-honoured-with-un-military-gender-advocate-of-the-year-award-2025/",
       "source": "All India Radio",
@@ -181,15 +226,6 @@
       "description": "In a statement issued on its X handle, the Army said the press conference video is being circulated across media and social media platforms with an \"a..."
     },
     {
-      "title": "Amnesty International calls on Bangladesh to withdraw charges against Ekattor TV journalists",
-      "link": "https://www.newsonair.gov.in/amnesty-international-calls-on-bangladesh-to-withdraw-charges-against-ekattor-tv-journalists/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-22T21:42:03+05:30",
-      "time": "22 May, 09:42 PM",
-      "type": "news",
-      "description": "Amnesty International has called on authorities in Bangladesh to withdraw charges filed by the International Crimes Tribunal against detained Ekattor ..."
-    },
-    {
       "title": "\u2018Some progress, not there yet\u2019: Rubio credits Pakistan, Qatar as US-Iran talks intensify",
       "link": "https://indianexpress.com/article/world/us-news/rubio-pakistan-primary-interlocutor-us-iran-talks-munir-qatar-nato-sweden-10703390/",
       "source": "The Indian Express",
@@ -197,15 +233,6 @@
       "time": "22 May, 09:39 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "India delivers 20 tonnes of vaccines and dry materials to Afghanistan for child immunisation programme",
-      "link": "https://www.newsonair.gov.in/india-delivers-20-tonnes-of-vaccines-and-dry-materials-to-afghanistan-for-child-immunisation-programme/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-22T21:08:00+05:30",
-      "time": "22 May, 09:08 PM",
-      "type": "news",
-      "description": "India has delivered twenty tonnes of critical dry materials for BCG, and Tetanus and Diphtheria vaccines to Kabul to augment Afghanistan\u2019s Child Immun..."
     },
     {
       "title": "India successfully tests Agni-1 Ballistic Missile",
@@ -440,24 +467,6 @@
       "time": "22 May, 10:06 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "How the West Misreads Modi\u2019s Success",
-      "link": "https://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/",
-      "source": "Foreign Policy",
-      "sort_key": "2026-05-22T09:31:32+05:30",
-      "time": "22 May, 09:31 AM",
-      "type": "news",
-      "description": "India may be less liberal now, but it remains democratic."
-    },
-    {
-      "title": "Why the Quad Was Doomed From the Start",
-      "link": "https://foreignpolicy.com/2026/05/22/quad-rubio-india-china/",
-      "source": "Foreign Policy",
-      "sort_key": "2026-05-22T09:31:07+05:30",
-      "time": "22 May, 09:31 AM",
-      "type": "news",
-      "description": "The Philippines has replaced India in Washington\u2019s security calculus on China."
     },
     {
       "title": "Israel fears surprise Iranian attack amid ceasefire talks: Reports",
@@ -737,27 +746,19 @@
       "time": "21 May, 09:57 AM",
       "type": "news",
       "description": "Iran war: Trump has indicated he is ready to wait for the right answers from Tehran. He also warned of renewed attacks if an agreement is not reached...."
-    },
-    {
-      "title": "Elderly Americans duped of \u2018millions of dollars\u2019: FBI shuts down call centre in India",
-      "link": "https://indianexpress.com/article/world/fbi-shuts-down-india-call-centre-fraud-elderlies-10700534/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-21T08:57:44+05:30",
-      "time": "21 May, 08:57 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "DRDO completes trials of UAV-launched precision guided missile in air-to-ground, air-to-air modes",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/drdo-completes-trials-of-uav-launched-precision-guided-missile-in-air-to-ground-air-to-air-modes/131238711",
-      "source": "Economic Times",
-      "sort_key": "2026-05-21T08:22:19+05:30",
-      "time": "21 May, 08:22 AM",
-      "type": "news",
-      "description": "Developed with industry partners and integrated on UAVs, the missile&#039;s successful trials confirm a domestic supply chain ready for serial product..."
     }
   ],
   "tweets": [
+    {
+      "title": "US Secretary of State Marco Rubio has kicked off a crucial 4-day visit to India, landing in Kolkata before heading to New Delhi to meet PM Modi and EFM S. Jaishankar.  \n\nWith the West Asia crisis disrupting traditional supply lines, the agenda centers on scaling up US LNG and crude exports to stabilize India's energy security, alongside resolving tariff frictions and expanding co-production in defense tech. The visit will culminate in the major Quad Foreign Ministers' Meeting on May 26.",
+      "link": "https://nitter.net/NetramDefence/status/2058026722222830056#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-23T08:56:21+05:30",
+      "time": "23 May, 08:56 AM",
+      "type": "tweets",
+      "content": "<p>US Secretary of State Marco Rubio has kicked off a crucial 4-day visit to India, landing in Kolkata before heading to New Delhi to meet PM Modi and EFM S. Jaishankar.  <br />\n<br />\nWith the West Asia crisis disrupting traditional supply lines, the agenda centers on scaling up US LNG and crude exports to stabilize India's energy security, alongside resolving tariff frictions and expanding co-production in defense tech. The visit will culminate in the major Quad Foreign Ministers' Meeting on May 26.</p>\n<img src=\"https://nitter.net/pic/media%2FHI-UYDUacAA1MsZ.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "Rubio in Kolkata, India\n\nPic by Sergio Gor",
       "link": "https://nitter.net/sidhant/status/2058010366727323995#m",
@@ -1209,6 +1210,16 @@
       "author": "@elitepredatorss"
     },
     {
+      "title": "RT by @NetramDefence: China\u2019s waterway project to boost trade with ASEAN\n\nThe Pinglu Canal, a $10.7 billion project connecting China's heartlands to the Gulf of Tonkin, to begin trial operations in Sept 2026.\n\n\u25ab\ufe0f94% done; water-filled testing phase underway\n\u25ab\ufe0f~ $715 mil in transport costs for Guangxi",
+      "link": "https://nitter.net/Globalwatchh/status/2057739069698793761#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-22T13:53:19+05:30",
+      "time": "22 May, 01:53 PM",
+      "type": "tweets",
+      "content": "<p>China\u2019s waterway project to boost trade with ASEAN<br />\n<br />\nThe Pinglu Canal, a $10.7 billion project connecting China's heartlands to the Gulf of Tonkin, to begin trial operations in Sept 2026.<br />\n<br />\n\u25ab\ufe0f94% done; water-filled testing phase underway<br />\n\u25ab\ufe0f~ $715 mil in transport costs for Guangxi</p>\n<img src=\"https://nitter.net/pic/media%2FHI6Oqd5WcAA52zE.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI6OxL1XIAAiuoJ.png\" />",
+      "author": "@Globalwatchh"
+    },
+    {
       "title": "Lahori Churan Ultra Pro Max with extra dry fruits. I challenge anyone to watch  full video without laughing. Legend level task. \ud83d\ude2d\n\nAccording to Mohsin Naqvi paijaan\u2019s military science during \u201cBaniyan Chaddi Operation\u201d:\n\n\ud83d\udd39 Pakistani drones entered Delhi, hovered above PM House for hours, enjoyed weather update, then safely returned home on low battery mode. \ud83d\udd0b\ud83e\udd23\n\n\ud83d\udd39 But advanced Indian drones got shot down by random Paijaans with danda-level rifles. \ud83d\udc80\n\nSomeone please check the TAKNOLOGI and battery specs on those magical drones. \ud83d\ude2d\ud83d\ude02\n\nAnd dear Naqvi paijaan, India did not target civilians. Use the correct word: terrorists. \ud83e\udd21",
       "link": "https://nitter.net/OsintTV/status/2057733533674647949#m",
       "source": "Osint TV",
@@ -1639,16 +1650,6 @@
       "author": "@manishindiatv"
     },
     {
-      "title": "Maharashtra signs $77 billion nuclear power deals.\n\nThe state government partnered with four major companies to build plants capable of generating 25,400 MW of energy.",
-      "link": "https://nitter.net/NetramDefence/status/2057368529058558264#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-21T13:20:56+05:30",
-      "time": "21 May, 01:20 PM",
-      "type": "tweets",
-      "content": "<p>Maharashtra signs $77 billion nuclear power deals.<br />\n<br />\nThe state government partnered with four major companies to build plants capable of generating 25,400 MW of energy.</p>\n<img src=\"https://nitter.net/pic/media%2FHI09wqUbsAA-XAA.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "RT by @OsintTV: He is @JmuKmrPolice constable , Shaheed Mudasir Ahmad Sheikh aka Bindaas\u2014 a true son of the soil and recipient of the prestigious Shaurya Chakra for his exceptional bravery and supreme sacrifice during a counter-terrorist operation in which three Pakistani terrorists were neutralized.\n\nMudasir was deployed on a special covert operation where he successfully traced the movement of terrorists and tactically led them towards the ambush party. During the fierce encounter, he displayed extraordinary courage and killed one terrorist on the spot before attaining martyrdom in the line of duty.\n\nHis bravery, dedication and commitment towards the nation continue to inspire thousands of young Kashmiris. Shaheed Mudasir Sheikh laid down his life while fighting terrorism to protect innocent lives and safeguard peace in the Valley.\n\nHeroes like Mudasir never die; they live forever in the hearts of the people and in the proud history of J&K Police and India.\n\nSalute to the braveheart. \ud83c\uddee\ud83c\uddf3",
       "link": "https://nitter.net/MikeLimaBravo12/status/2057363597052051503#m",
       "source": "Osint TV",
@@ -1687,28 +1688,9 @@
       "type": "tweets",
       "content": "<p>Apart from the fun melody video, the things discussed  between India and Italy are as follow :<br />\n<br />\n- India-Italy ties upgraded to \"Special Strategic Partnership\" level<br />\n<br />\n- Target to double bilateral trade to \u20ac20 billion by 2029.<br />\n-  Strong reaffirmation and push for India-Middle East-Europe Economic Corridor (IMEC)<br />\n<br />\n-  Defence Industrial Roadmap for co-design, co-development, and co-production.|<br />\n<br />\n- Maritime and CT domains discussed, but interesting financing of terror activities were also discussed, as per sources.<br />\n<br />\n- MoUs signed on critical minerals (sustainable supply chains, recycling), agriculture research, and maritime transport/ports (with a joint working group).<br />\n<br />\n- A close cooperation will be ensured through multiple other MOUs, including economic crime.</p>\n<img src=\"https://nitter.net/pic/media%2FHI0dI-9b0AApmLO.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Bangladesh\u2019s ruling BNP has linked future ties with India to a new Ganges Water Sharing Treaty, as the current 1996 agreement approaches expiry in December 2026.\n\nDhaka is seeking immediate negotiations for a revised pact aligned with Bangladesh\u2019s \u201cneeds and expectations,\u201d while also moving ahead with a major Padma Barrage project aimed at countering the impact of the Farakka Barrage.",
-      "link": "https://nitter.net/NetramDefence/status/2057323732549734862#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-21T10:22:55+05:30",
-      "time": "21 May, 10:22 AM",
-      "type": "tweets",
-      "content": "<p>Bangladesh\u2019s ruling BNP has linked future ties with India to a new Ganges Water Sharing Treaty, as the current 1996 agreement approaches expiry in December 2026.<br />\n<br />\nDhaka is seeking immediate negotiations for a revised pact aligned with Bangladesh\u2019s \u201cneeds and expectations,\u201d while also moving ahead with a major Padma Barrage project aimed at countering the impact of the Farakka Barrage.</p>\n<img src=\"https://nitter.net/pic/media%2FHI0U_xDbEAAN5Z7.jpg\" />",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
-    {
-      "title": "Turkey-Pakistan 15 Billion Dollar KAAN Fighter Deal!,Tejas Mk2 delay Good News,Vayu Astra- 1",
-      "link": "https://www.youtube.com/watch?v=-c8IoH1NGQo",
-      "source": "Indian Defense News",
-      "sort_key": "2026-05-23T07:00:35+05:30",
-      "time": "23 May, 07:00 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/-c8IoH1NGQo/mqdefault.jpg"
-    },
     {
       "title": "Defence Updates - India Raystrike-9 Laser Weapon, India Smart Border Fence, NIA Pahalgam Report",
       "link": "https://www.youtube.com/watch?v=3rLiWwyAf0U",
@@ -1728,24 +1710,6 @@
       "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
     },
     {
-      "title": "Indian Defence Updates : Rafale F4 Rejected,NIBE Vayu Astra-1 Test,L&T Hanwa Laser Weapon Deal",
-      "link": "https://www.youtube.com/watch?v=pbLEhRykTtk",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-22T16:39:39+05:30",
-      "time": "22 May, 04:39 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/pbLEhRykTtk/mqdefault.jpg"
-    },
-    {
-      "title": "Pakistan Ka STEALTH Missile EXPOSED ?,Rudram-1 Upgrade,Secret Plan LEAK!,INS Arisudan",
-      "link": "https://www.youtube.com/watch?v=FeCv2VjvP0M",
-      "source": "Indian Defense News",
-      "sort_key": "2026-05-21T22:30:26+05:30",
-      "time": "21 May, 10:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/FeCv2VjvP0M/mqdefault.jpg"
-    },
-    {
       "title": "Defence Updates - Unknwon Gunmen In Action, India Vayuastra Drone Trial, Indian Special Forces In US",
       "link": "https://www.youtube.com/watch?v=7UEjSQKOCgU",
       "source": "Defense Squad",
@@ -1753,27 +1717,9 @@
       "time": "21 May, 09:54 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/7UEjSQKOCgU/mqdefault.jpg"
-    },
-    {
-      "title": "Lets Settle the \u201cSuryaAstra\u201d Debate",
-      "link": "https://www.youtube.com/watch?v=wKYanHHr1Gc",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-05-21T20:20:54+05:30",
-      "time": "21 May, 08:20 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/wKYanHHr1Gc/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : 114 Rafale F4 Plus Offer,S4 Star SSBN Trials,New Rudram-1 ER,NGOPV Launched",
-      "link": "https://www.youtube.com/watch?v=9uI3_y6DGGM",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-21T16:49:24+05:30",
-      "time": "21 May, 04:49 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/9uI3_y6DGGM/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
