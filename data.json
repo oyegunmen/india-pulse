@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Taiwan detects 16 sorties of Chinese military aircraft, 8 vessels around itself",
+      "link": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-16-sorties-of-chinese-military-aircraft-8-vessels-around-itself/articleshow/131273053.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-23T11:39:38+05:30",
+      "time": "23 May, 11:39 AM",
+      "type": "news",
+      "description": "Taiwan's defense ministry reported sixteen Chinese military aircraft and eight vessels near its waters. Thirteen aircraft crossed the median line into..."
+    },
+    {
+      "title": "Trump to attack again? Arab nations seek Iran war deal as ceasefire remains fragile",
+      "link": "https://economictimes.indiatimes.com/news/defence/several-arab-nations-including-the-uae-qatar-and-saudi-arabia-urged-president-donald-trump-to-grant-more-time-for-iran-war-negotiations-as-ceasefire-remains-fragile/articleshow/131272600.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-23T11:22:45+05:30",
+      "time": "23 May, 11:22 AM",
+      "type": "news",
+      "description": "Several Arab nations join Pakistan in urging President Donald Trump to allow more time for negotiations to end the Iran war. Despite indications of pr..."
+    },
+    {
       "title": "DoS Clears Common Technical Facilities in Gujarat, Tamil Nadu to Boost Space Manufacturing and Launch Ecosystem",
       "link": "https://www.indiastrategic.in/dos-clears-common-technical-facilities-in-gujarat-tamil-nadu-to-boost-space-manufacturing-and-launch-ecosystem/",
       "source": "India Strategic",
@@ -55,6 +73,15 @@
       "description": "<p>By Aroonim Bhuyan New Delhi, May 22. India and Cyprus on May 22 elevated their bilateral relationship to a Strategic Partnership and unveiled an am..."
     },
     {
+      "title": "China coal mine blast: Over 80 killed in Shanxi; Xi Jinping calls for urgent rescue",
+      "link": "https://indianexpress.com/article/world/china-coal-mine-explosion-shanxi-death-toll-xi-jinping-rescue-10703774/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-23T09:40:22+05:30",
+      "time": "23 May, 09:40 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Quad, energy security and trade: Why is Marco Rubio's 4-day visit significant for India | Explained",
       "link": "https://www.indiatvnews.com/news/india/quad-energy-security-and-trade-why-is-marco-rubio-s-4-day-visit-significant-for-india-explained-2026-05-23-1042151",
       "source": "India TV",
@@ -100,8 +127,8 @@
       "description": "Pakistan's army chief arrived in Tehran for mediation efforts to end the Middle East war, as Iran considers a peace proposal amid reports of potential..."
     },
     {
-      "title": "Eight dead, dozens trapped in China coal mine blast",
-      "link": "https://www.newindianexpress.com/world/2026/May/23/eight-dead-dozens-trapped-in-china-coal-mine-blast",
+      "title": "At least 82 killed, nine missing in China coal mine blast",
+      "link": "https://www.newindianexpress.com/world/2026/May/23/at-least-82-killed-nine-missing-in-gas-explosion-at-coal-mining-factory-in-northern-china",
       "source": "New Indian Express",
       "sort_key": "2026-05-23T07:11:19+05:30",
       "time": "23 May, 07:11 AM",
@@ -325,15 +352,6 @@
       "description": "The Indian Navy has said around 45 ships are currently under construction in the country and will be delivered over the next 3\u20134 years, signalling a m..."
     },
     {
-      "title": "India to launch &#8216;smart border&#8217; project along Pakistan, Bangladesh borders to curb infiltration: Shah",
-      "link": "https://www.tribuneindia.com/news/india/india-to-launch-smart-border-project-along-pakistan-bangladesh-borders-to-curb-infiltration-shah",
-      "source": "The Tribune",
-      "sort_key": "2026-05-22T13:34:11+05:30",
-      "time": "22 May, 01:34 PM",
-      "type": "news",
-      "description": "Union Home Minister Amit Shah on Friday said the government will launch a tech-enabled \u201csmart border\u201d project by the next year to make the 6,000 km fr..."
-    },
-    {
       "title": "India to launch 'smart border' project along Pakistan, Bangladesh borders to curb infiltration: Amit Shah",
       "link": "https://economictimes.indiatimes.com/news/defence/india-to-launch-smart-border-project-along-pak-bdesh-borders-to-curb-infiltration-amit-shah/articleshow/131259319.cms",
       "source": "Economic Times",
@@ -404,24 +422,6 @@
       "time": "22 May, 10:06 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "How the West Misreads Modi\u2019s Success",
-      "link": "https://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/",
-      "source": "Foreign Policy",
-      "sort_key": "2026-05-22T09:31:32+05:30",
-      "time": "22 May, 09:31 AM",
-      "type": "news",
-      "description": "India may be less liberal now, but it remains democratic."
-    },
-    {
-      "title": "Why the Quad Was Doomed From the Start",
-      "link": "https://foreignpolicy.com/2026/05/22/quad-rubio-india-china/",
-      "source": "Foreign Policy",
-      "sort_key": "2026-05-22T09:31:07+05:30",
-      "time": "22 May, 09:31 AM",
-      "type": "news",
-      "description": "The Philippines has replaced India in Washington\u2019s security calculus on China."
     },
     {
       "title": "Israel fears surprise Iranian attack amid ceasefire talks: Reports",
@@ -687,6 +687,106 @@
   ],
   "tweets": [
     {
+      "title": "Adani Vehicle Mounted Counter UAS",
+      "link": "https://nitter.net/alpha_defense/status/2058077726653985129#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-23T12:19:01+05:30",
+      "time": "23 May, 12:19 PM",
+      "type": "tweets",
+      "content": "<p>Adani Vehicle Mounted Counter UAS</p>\n<img src=\"https://nitter.net/pic/media%2FHI_Cx4va0AAfM-B.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "NLCA",
+      "link": "https://nitter.net/alpha_defense/status/2058075966845649369#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-23T12:12:02+05:30",
+      "time": "23 May, 12:12 PM",
+      "type": "tweets",
+      "content": "<p>NLCA</p>\n<img src=\"https://nitter.net/pic/media%2FHI_BLRXaAAE4fM_.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "This is sick \ud83d\udcaf\n\nLet the meme fest begun \ud83d\udd25",
+      "link": "https://nitter.net/elitepredatorss/status/2058074869712277575#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-23T12:07:40+05:30",
+      "time": "23 May, 12:07 PM",
+      "type": "tweets",
+      "content": "<p>This is sick \ud83d\udcaf<br />\n<br />\nLet the meme fest begun \ud83d\udd25</p>\n<hr />\n<blockquote>\n<b>KHAN. yo yo (@ar31650)</b>\n<p>\n<p></p>\n<img src=\"https://nitter.net/pic/media%2FHI-_jiTbcAAP3aU.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ar31650/status/2058074177798865314#m\">https://nitter.net/ar31650/status/2058074177798865314#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "There has been an update on CJP with us, we will share shortly.\n\nJust one request, don't put any of your information if you are planning to on any forms.",
+      "link": "https://nitter.net/elitepredatorss/status/2058074289463841100#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-23T12:05:22+05:30",
+      "time": "23 May, 12:05 PM",
+      "type": "tweets",
+      "content": "<p>There has been an update on CJP with us, we will share shortly.<br />\n<br />\nJust one request, don't put any of your information if you are planning to on any forms.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Pictures from Marco Rubio's India visit- Kolkata leg of the visit",
+      "link": "https://nitter.net/sidhant/status/2058074258350526671#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T12:05:15+05:30",
+      "time": "23 May, 12:05 PM",
+      "type": "tweets",
+      "content": "<p>Pictures from Marco Rubio's India visit- Kolkata leg of the visit</p>\n<img src=\"https://nitter.net/pic/media%2FHI-_oP0bUAAc1Ih.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI-_oYIbcAAmLP3.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI-_oZWbgAAtofv.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI-_oVnbYAAGLGk.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "US Secretary of State Marco Rubio pays homage at the tomb of Mother Teresa in Kolkata",
+      "link": "https://nitter.net/sidhant/status/2058074047444058507#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T12:04:24+05:30",
+      "time": "23 May, 12:04 PM",
+      "type": "tweets",
+      "content": "<p>US Secretary of State Marco Rubio pays homage at the tomb of Mother Teresa in Kolkata</p>\n<img src=\"https://nitter.net/pic/media%2FHI-_cIvbUAAR9hs.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Delhi's annual golden rain\n\nAmaltas (Cassia fistula)",
+      "link": "https://nitter.net/sidhant/status/2058068306746294372#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T11:41:36+05:30",
+      "time": "23 May, 11:41 AM",
+      "type": "tweets",
+      "content": "<p>Delhi's annual golden rain<br />\n<br />\nAmaltas (Cassia fistula)</p>\n<img src=\"https://nitter.net/pic/media%2FHI-6N7lbkAAHtzo.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Great meeting Cypus President @Christodulides during his India visit.",
+      "link": "https://nitter.net/sidhant/status/2058066360530575462#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T11:33:52+05:30",
+      "time": "23 May, 11:33 AM",
+      "type": "tweets",
+      "content": "<p>Great meeting Cypus President <a href=\"https://nitter.net/Christodulides\" title=\"NikosChristodoulides\">@Christodulides</a> during his India visit.</p>\n<img src=\"https://nitter.net/pic/media%2FHI-4crPagAAgOrU.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Kya desh hai bhai ye \ud83e\udd23",
+      "link": "https://nitter.net/elitepredatorss/status/2058065599369281560#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-23T11:30:50+05:30",
+      "time": "23 May, 11:30 AM",
+      "type": "tweets",
+      "content": "<p>Kya desh hai bhai ye \ud83e\udd23</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Indian Shahed 136 (Nibe Vayu Astra)\n1000 KM range",
+      "link": "https://nitter.net/alpha_defense/status/2058065325888090615#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-23T11:29:45+05:30",
+      "time": "23 May, 11:29 AM",
+      "type": "tweets",
+      "content": "<p>Indian Shahed 136 (Nibe Vayu Astra)<br />\n1000 KM range</p>\n<img src=\"https://nitter.net/pic/media%2FHI-3fbabUAAl7cy.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Pinaka and Suryastra \nTogether",
       "link": "https://nitter.net/alpha_defense/status/2058063271769640972#m",
       "source": "Alpha Defense",
@@ -897,13 +997,83 @@
       "author": "@sidhant"
     },
     {
-      "title": "\ud83e\uddf5India visit of \ud83c\udde8\ud83c\uddfeCyprus President @Christodulides \nCyprus Prez Nikos Christodoulides is on an India visit, a visit that comes a year after PM Modi had visited the country. They are firming up ties in a range of issues, from defence to trade with some Bollywood \"Ishq\"\nOutcomes",
-      "link": "https://nitter.net/sidhant/status/2057900836207120463#m",
+      "title": "R to @sidhant: Indo Pacific\nCyprus is joining the Indo-Pacific Oceans Initiative under the Pillar \u201cTrade, Connectivity and Maritime Transport\u201d. This deepens cooperation in maritime security as well as the sustainable use of marine resources.",
+      "link": "https://nitter.net/sidhant/status/2057900919908675594#m",
       "source": "Sidhant Sibal",
-      "sort_key": "2026-05-23T00:36:07+05:30",
+      "sort_key": "2026-05-23T00:36:27+05:30",
       "time": "23 May, 12:36 AM",
       "type": "tweets",
-      "content": "<p>\ud83e\uddf5India visit of \ud83c\udde8\ud83c\uddfeCyprus President <a href=\"https://nitter.net/Christodulides\" title=\"NikosChristodoulides\">@Christodulides</a> <br />\nCyprus Prez Nikos Christodoulides is on an India visit, a visit that comes a year after PM Modi had visited the country. They are firming up ties in a range of issues, from defence to trade with some Bollywood \"Ishq\"<br />\nOutcomes</p>\n<img src=\"https://nitter.net/pic/media%2FHI8fx1EasAAXf9C.jpg\" />",
+      "content": "<p>Indo Pacific<br />\nCyprus is joining the Indo-Pacific Oceans Initiative under the Pillar \u201cTrade, Connectivity and Maritime Transport\u201d. This deepens cooperation in maritime security as well as the sustainable use of marine resources.</p>\n<img src=\"https://nitter.net/pic/media%2FHI8gh4OaEAEXM0R.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Health\nIndia gifted of Bharat Health Initiative for Sahyog Hita & Maitri (BHISM) Cube to Cyprus. These cubes consists of medicines incase of medical situations, helps rapid delivery of life saving care.",
+      "link": "https://nitter.net/sidhant/status/2057900914892284287#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T00:36:26+05:30",
+      "time": "23 May, 12:36 AM",
+      "type": "tweets",
+      "content": "<p>Health<br />\nIndia gifted of Bharat Health Initiative for Sahyog Hita & Maitri (BHISM) Cube to Cyprus. These cubes consists of medicines incase of medical situations, helps rapid delivery of life saving care.</p>\n<img src=\"https://nitter.net/pic/media%2FHI8haUMbsAASFQC.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Culture cooperation\nMoU on Cultural Cooperation between the Ministry of Culture of India and the Deputy Ministry of Culture of Cyprus for the years 2026-2030. Advances knowledge on archaeological research, info sharing on illicit trafficking of cultural property.",
+      "link": "https://nitter.net/sidhant/status/2057900910182043798#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T00:36:25+05:30",
+      "time": "23 May, 12:36 AM",
+      "type": "tweets",
+      "content": "<p>Culture cooperation<br />\nMoU on Cultural Cooperation between the Ministry of Culture of India and the Deputy Ministry of Culture of Cyprus for the years 2026-2030. Advances knowledge on archaeological research, info sharing on illicit trafficking of cultural property.</p>\n<img src=\"https://nitter.net/pic/media%2FHI8g5BxbUAA_qDg.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Mobility\nFinal stages of discussions on a mobility partnership agreement that will help streamline the movement of skilled Indian workers to Cyprus. Also work underway on social security agreement. On table seafarers training.",
+      "link": "https://nitter.net/sidhant/status/2057900905102741555#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T00:36:24+05:30",
+      "time": "23 May, 12:36 AM",
+      "type": "tweets",
+      "content": "<p>Mobility<br />\nFinal stages of discussions on a mobility partnership agreement that will help streamline the movement of skilled Indian workers to Cyprus. Also work underway on social security agreement. On table seafarers training.</p>\n<img src=\"https://nitter.net/pic/media%2FHI8gvUWawAABzR_.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Education\nMoU on Higher Education and Research between the Ministries of Education of both countries. student exchange level, faculty exchange level, and also explore the possibility of a Cyprus university campus at GIFT city on the table.",
+      "link": "https://nitter.net/sidhant/status/2057900899859890428#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T00:36:23+05:30",
+      "time": "23 May, 12:36 AM",
+      "type": "tweets",
+      "content": "<p>Education<br />\nMoU on Higher Education and Research between the Ministries of Education of both countries. student exchange level, faculty exchange level, and also explore the possibility of a Cyprus university campus at GIFT city on the table.</p>\n<img src=\"https://nitter.net/pic/media%2FHI8gmJhacAAsbrz.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Diplomats training\nMoU in the field of Diplomatic Training between the Sushma Swaraj Institute of Foreign Service of India and the Diplomatic Academy of Cyprus. Facilitates training of diplomats from the 2 countries.",
+      "link": "https://nitter.net/sidhant/status/2057900894914785645#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T00:36:21+05:30",
+      "time": "23 May, 12:36 AM",
+      "type": "tweets",
+      "content": "<p>Diplomats training<br />\nMoU in the field of Diplomatic Training between the Sushma Swaraj Institute of Foreign Service of India and the Diplomatic Academy of Cyprus. Facilitates training of diplomats from the 2 countries.</p>\n<img src=\"https://nitter.net/pic/media%2FHI8gZSkasAAYcR8.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: New Dialogues\nKey new dialogues, one on cyber security, one on consular issues & one on connectivity have been established. In addition to this, a joint working group on counter terror has been announced as well.\n\nhttps://twitter.com/sidhant/status/2057768561352093794/video/1",
+      "link": "https://nitter.net/sidhant/status/2057900890045210656#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T00:36:20+05:30",
+      "time": "23 May, 12:36 AM",
+      "type": "tweets",
+      "content": "<p>New Dialogues<br />\nKey new dialogues, one on cyber security, one on consular issues & one on connectivity have been established. In addition to this, a joint working group on counter terror has been announced as well.<br />\n<br />\n<a href=\"https://nitter.net/sidhant/status/2057768561352093794/video/1\">nitter.net/sidhant/status/2\u2026</a></p>\n<a href=\"https://nitter.net/sidhant/status/2057900890045210656#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2057768476241199104%2Fpu%2Fimg%2F3RX_KEo6KefmY5ov.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: UNSC reforms\nCyprus reiterated its firm support for India\u2019s permanent membership of a reformed United Nations Security Council.",
+      "link": "https://nitter.net/sidhant/status/2057900886199083429#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-23T00:36:19+05:30",
+      "time": "23 May, 12:36 AM",
+      "type": "tweets",
+      "content": "<p>UNSC reforms<br />\nCyprus reiterated its firm support for India\u2019s permanent membership of a reformed United Nations Security Council.</p>\n<img src=\"https://nitter.net/pic/media%2FHI8evKCa8AAZyVx.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1317,16 +1487,6 @@
       "author": "@manishindiatv"
     },
     {
-      "title": "US Secretary of State Marco Rubio says Venezuela\u2019s interim President will visit India next week.",
-      "link": "https://nitter.net/alpha_defense/status/2057510239583543796#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-21T22:44:02+05:30",
-      "time": "21 May, 10:44 PM",
-      "type": "tweets",
-      "content": "<p>US Secretary of State Marco Rubio says Venezuela\u2019s interim President will visit India next week.</p>\n<img src=\"https://nitter.net/pic/media%2FHI2-p-HbQAAnIWd.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief:\n21st May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf The Persian Gulf Strait Authority (PGSA) of Iran has formally announced defined supervisory boundaries for the Strait of Hormuz.\n\n\u25cf Iran\u2019s Supreme Leader issued a directive prohibiting the export of the country\u2019s uranium stockpile abroad, according to Reuters.\n\n\u25cf Iran is in discussions with Oman to establish a permanent toll system that would formalize its control over maritime traffic in the Strait of Hormuz.\n\n\u25cf The IDF apprehended 3 terrorists affiliated with a Hamas-linked network in Hebron who were planning an imminent shooting attack.\n\n\u25cf In the Gulf of Oman, US Marines boarded the Iranian-flagged tanker M/T Celestial Sea suspected of violating the blockade. The vessel was searched and released after its crew was ordered to alter course.\n\n\u25cf As of May 21, CENTCOM has redirected 94 commercial vessels and disabled 4 while enforcing the naval blockade.\n\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2057503555184202189#m",
       "source": "Netram Defense",
@@ -1357,16 +1517,6 @@
       "author": "@Globalwatchh"
     },
     {
-      "title": "We need to understand that the developments initiated by DRDO are driven by the Qualitative Requirements (QRs) laid down by the services. So if a requirement is initiated today, the resulting system will realistically enter service only 4\u20135 years down the line.",
-      "link": "https://nitter.net/alpha_defense/status/2057475811234734506#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-21T20:27:14+05:30",
-      "time": "21 May, 08:27 PM",
-      "type": "tweets",
-      "content": "<p>We need to understand that the developments initiated by DRDO are driven by the Qualitative Requirements (QRs) laid down by the services. So if a requirement is initiated today, the resulting system will realistically enter service only 4\u20135 years down the line.</p>\n<img src=\"https://nitter.net/pic/media%2FHI2e0yqbwAA9y0L.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Iran Hardens Nuclear Stance Ahead of US Talks\n\nAccording to Reuters, Iran\u2019s Supreme Leader Ayatollah Mojtaba Khamenei has ordered that Iran\u2019s stockpile of highly enriched uranium must remain inside the country, rejecting a key US demand to transfer it abroad.\n\nThe move complicates ongoing US\u2013Iran negotiations and could deepen tensions with both Washington and Israel, which insist any deal must include removal of Iran\u2019s enriched uranium stockpile.\n\nIranian officials reportedly fear sending the material abroad would leave the country vulnerable to future attacks.",
       "link": "https://nitter.net/NetramDefence/status/2057475769253957685#m",
       "source": "Netram Defense",
@@ -1375,16 +1525,6 @@
       "type": "tweets",
       "content": "<p>Iran Hardens Nuclear Stance Ahead of US Talks<br />\n<br />\nAccording to Reuters, Iran\u2019s Supreme Leader Ayatollah Mojtaba Khamenei has ordered that Iran\u2019s stockpile of highly enriched uranium must remain inside the country, rejecting a key US demand to transfer it abroad.<br />\n<br />\nThe move complicates ongoing US\u2013Iran negotiations and could deepen tensions with both Washington and Israel, which insist any deal must include removal of Iran\u2019s enriched uranium stockpile.<br />\n<br />\nIranian officials reportedly fear sending the material abroad would leave the country vulnerable to future attacks.</p>\n<img src=\"https://nitter.net/pic/media%2FHI2fNQqbgAAHljB.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "PULS launches Extra and Predator Hawk. Now we have seen SkyStriker UAV.\nThe complete package has Delilah (cruise missile) as well. So is that the area warning ?",
-      "link": "https://nitter.net/alpha_defense/status/2057466433840513316#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-21T19:49:58+05:30",
-      "time": "21 May, 07:49 PM",
-      "type": "tweets",
-      "content": "<p>PULS launches Extra and Predator Hawk. Now we have seen SkyStriker UAV.<br />\nThe complete package has Delilah (cruise missile) as well. So is that the area warning ?</p>\n<img src=\"https://nitter.net/pic/media%2FHI2Wzy2a4AEG1Ko.jpg\" />",
-      "author": "@alpha_defense"
     },
     {
       "title": "RT by @OsintTV: Nibe Group says - Nibe Group has successfully completed the no-cost, no-commitment demonstration of its loitering munition named Vayu Astra with 100 KM Range at Pokhran on 18-19 April 2026 & Joshimath (Malari), Uttarakhand on 26-27 April 2026. \n\nNibe Limited\u2019s Vayu Astra-1 Loitering Munition Anti-Personal carried out first NCNC demo successfully at Pokhran Range, Rajasthan, with 10 kg warhead in single attempt, successfully hitting the target at 100 km with CEP less than 1 m with abort attack and reattack capability of the LM. The LM is based on an Israeli loitering munition. \n \nThe team carried out Anti Armour (Anti-Tank) night strike using- IR camera and LM successfully hit the target within the 2 m CEP in a single attempt with capability of handing over the control from GCS to Forward Control Segment 70 km away was successfully demonstrated.\n \nAt Joshimath (Malari) Uttarakhand Vayu Astra-1 LM had been successfully demonstrated endurance flying more than 90 minutes high altitude loitering and endurance completed at more than 14000 Ft height and LM is recovery for next flight after completion of mission.",
@@ -1463,7 +1603,7 @@
       "sort_key": "2026-05-21T17:07:40+05:30",
       "time": "21 May, 05:07 PM",
       "type": "tweets",
-      "content": "<p>Arjumand Gulzar Dar was not involved in the 2019 Pulwama suicide bombing. He was involved in the grenade attack on CRPF personnel in Pulwama on November 18, 2020. <br />\n<br />\nNational media should report verified facts accurately.</p>\n<img src=\"https://nitter.net/pic/media%2FHI1xn7UaQAA6ViQ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI1xn2gakAAWmXo.jpg\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Pulwama attack mastermind, Hamza Burhan was shot dead by unknown men in POJK</p>\n<img src=\"https://nitter.net/pic/media%2FHI1csMubMAAhYBd.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI1csMtbIAADw0v.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2057402558373884267#m\">https://nitter.net/elitepredatorss/status/2057402558373884267#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Arjumand Gulzar Dar was not involved in the 2019 Pulwama suicide bombing. He was involved in the grenade attack on CRPF personnel in Pulwama on November 18, 2020. <br />\n<br />\nNational media should report verified facts accurately.</p>\n<img src=\"https://nitter.net/pic/media%2FHI1xn7UaQAA6ViQ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI1xn2gakAAWmXo.jpg\" />",
       "author": "@elitepredatorss"
     },
     {
@@ -1503,17 +1643,7 @@
       "sort_key": "2026-05-21T16:00:20+05:30",
       "time": "21 May, 04:00 PM",
       "type": "tweets",
-      "content": "<p>We think the media made a mistake and forgot to mention that he was the mastermind of the 2020 Pulwama grenade attack, not the 2019 attack.<br />\n<br />\nWe are checking our sources.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Pulwama attack mastermind, Hamza Burhan was shot dead by unknown men in POJK</p>\n<img src=\"https://nitter.net/pic/media%2FHI1csMubMAAhYBd.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI1csMtbIAADw0v.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2057402558373884267#m\">https://nitter.net/elitepredatorss/status/2057402558373884267#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Pulwama attack mastermind, Hamza Burhan was shot dead by unknown men in POJK",
-      "link": "https://nitter.net/elitepredatorss/status/2057402558373884267#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-21T15:36:09+05:30",
-      "time": "21 May, 03:36 PM",
-      "type": "tweets",
-      "content": "<p>Pulwama attack mastermind, Hamza Burhan was shot dead by unknown men in POJK</p>\n<img src=\"https://nitter.net/pic/media%2FHI1csMubMAAhYBd.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI1csMtbIAADw0v.jpg\" />",
+      "content": "<p>We think the media made a mistake and forgot to mention that he was the mastermind of the 2020 Pulwama grenade attack, not the 2019 attack.<br />\n<br />\nWe are checking our sources.</p>",
       "author": "@elitepredatorss"
     },
     {
@@ -1555,20 +1685,10 @@
       "type": "tweets",
       "content": "<p>\ud83d\udccd\ud83c\uddee\ud83c\uddf3\ud83e\ude96 Indian Army Dominating the Skies, Conquering the Heights! <br />\n<br />\n\u200bUnforgiving terrain, unmatched resolve. Indian Army warriors leverage cutting-edge Fixed-Wing VTOL UAVs and relentless drone swarms to ensure absolute vigilance over our high-altitude frontiers.<br />\n<br />\n\u200bWith lethal precision and tech-driven superiority, we stand guardbunblinking and unstoppable.</p>\n<a href=\"https://nitter.net/OsintTV/status/2057355309916524659#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057354812887322624%2Fimg%2FK9Tcm2MBhJBP8f-1.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @NetramDefence: \ud83e\uddf5THREAD\nIran's Supervisory Boundaries for Strait of Hormuz\n\n1/\n\nThe Persian Gulf Strait Authority (PGSA) of Iran has formally announced defined supervisory boundaries for the Strait of Hormuz, a critical chokepoint for global energy trade.",
-      "link": "https://nitter.net/Globalwatchh/status/2057345372150726668#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-21T11:48:55+05:30",
-      "time": "21 May, 11:48 AM",
-      "type": "tweets",
-      "content": "<p>\ud83e\uddf5THREAD<br />\nIran's Supervisory Boundaries for Strait of Hormuz<br />\n<br />\n1/<br />\n<br />\nThe Persian Gulf Strait Authority (PGSA) of Iran has formally announced defined supervisory boundaries for the Strait of Hormuz, a critical chokepoint for global energy trade.</p>\n<img src=\"https://nitter.net/pic/media%2FHI0nOkLXwAAXOau.jpg\" />",
-      "author": "@Globalwatchh"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
