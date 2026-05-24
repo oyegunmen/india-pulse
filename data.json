@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "China asks India to keep off Dalai Lama\u2019s \u2018reincarnation\u2019",
+      "link": "https://www.tribuneindia.com/news/india/china-asks-india-to-keep-off-dalai-lamas-reincarnation",
+      "source": "The Tribune",
+      "sort_key": "2026-05-25T02:23:27+05:30",
+      "time": "25 May, 02:23 AM",
+      "type": "news",
+      "description": "With the new \u201cpolitical leader\u201d of the Central Tibetan Administration (CTA) set to take oath, China on Sunday asked India to \u201crefrain\u201d from providing ..."
+    },
+    {
       "title": "Energy security, visa curbs: EAM Jaishankar raises India&#8217;s concerns with Marco Rubio",
       "link": "https://www.tribuneindia.com/news/top-headlines/energy-security-visa-curbs-eam-jaishankar-raises-indias-concerns-with-marco-rubio",
       "source": "The Tribune",
@@ -62,15 +71,6 @@
       "time": "24 May, 11:18 PM",
       "type": "news",
       "description": "Hezbollah chief Naim Qassem expressed hope Sunday for an agreement between Iran and the United States and that Lebanon, where Israel and the Iran-back..."
-    },
-    {
-      "title": "\u2018I love India, Modi\u2019: Trump dials US envoy Sergio Gor at key US event in Delhi",
-      "link": "https://indianexpress.com/article/world/i-love-modi-trump-dials-in-rubio-at-key-us-event-in-delhi-10705947/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-24T21:47:31+05:30",
-      "time": "24 May, 09:47 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "European Commission backs diplomatic efforts to de-escalate US-Iran tensions",
@@ -1913,6 +1913,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 AM IST"
+    "last_updated": "03:24 AM IST"
   }
 }
