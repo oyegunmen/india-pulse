@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Iran decides to shift FIFA World Cup 2026 base camp from US to Mexico",
+      "link": "https://newsonair.gov.in/iran-decides-to-shift-fifa-world-cup-2026-base-camp-from-us-to-mexico/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-24T14:10:40+05:30",
+      "time": "24 May, 02:10 PM",
+      "type": "news",
+      "description": "Iran\u2019s football team has decided to shift its FIFA World Cup 2026 base camp from the United States to Mexico after receiving approval from FIFA. The m..."
+    },
+    {
+      "title": "Delhi Red Fort blast: NIA chargesheet reveals abuse of AI platform for \u2018terror engineering\u2019",
+      "link": "https://www.tribuneindia.com/news/india/delhi-red-fort-blast-nia-chargesheet-reveals-abuse-of-ai-platform-for-terror-engineering",
+      "source": "The Tribune",
+      "sort_key": "2026-05-24T13:56:22+05:30",
+      "time": "24 May, 01:56 PM",
+      "type": "news",
+      "description": "The National Investigation Agency (NIA) probe into the Red Fort area car blast case in Delhi has found that a chargesheeted accused, linked to an offs..."
+    },
+    {
+      "title": "At least 24 people killed in blast near railway track in Quetta in Pakistan\u2019s Balochistan",
+      "link": "https://newsonair.gov.in/at-least-30-killed-several-injured-after-powerful-explosion-ripped-through-a-railway-line-in-pakistan/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-24T13:41:31+05:30",
+      "time": "24 May, 01:41 PM",
+      "type": "news",
+      "description": "At least 24 people were killed and several were injured after a powerful explosion ripped through a railway line in Pakistan&#8217;s Balochistan provi..."
+    },
+    {
+      "title": "NIA chargesheet says accused in Delhi Red Fort blast case abused AI platform for 'terror engineering'",
+      "link": "https://www.newindianexpress.com/india/2026/May/24/nia-chargesheet-says-accused-in-delhi-red-fort-blast-case-abused-ai-platform-for-terror-engineering",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-24T13:40:10+05:30",
+      "time": "24 May, 01:40 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Israeli military kills three members of family, including an infant in pre-dawn strike on central Gaza",
+      "link": "https://www.newindianexpress.com/world/2026/May/24/israeli-military-kills-three-members-of-family-including-an-infant-in-pre-dawn-strike-on-central-gaza",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-24T13:19:03+05:30",
+      "time": "24 May, 01:19 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "3 Months 0 Flights, HAL\u2019s LUH Descends To Limbo",
       "link": "https://www.livefistdefence.com/3-months-0-flights-hals-luh-descends-to-limbo/",
       "source": "Live Fist Defense",
@@ -10,24 +55,6 @@
       "description": "The photograph went viral internationally. A grim looking Indian Army officer, Major General Sachin Mehta, seated amid the wreckage of a crashed Cheet..."
     },
     {
-      "title": "Iran decides to shift FIFA World Cup 2026 base camp from US to Mexico",
-      "link": "https://newsonair.gov.in/iran-decides-to-shift-fifa-world-cup-2026-base-camp-from-us-to-mexico/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-24T13:01:40+05:30",
-      "time": "24 May, 01:01 PM",
-      "type": "news",
-      "description": "Iran\u2019s football team has decided to shift its FIFA World Cup 2026 base camp from the United States to Mexico after receiving approval from FIFA. The m..."
-    },
-    {
-      "title": "At least 30 killed, several injured after powerful explosion ripped through a railway line in Pakistan",
-      "link": "https://newsonair.gov.in/at-least-30-killed-several-injured-after-powerful-explosion-ripped-through-a-railway-line-in-pakistan/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-24T12:57:31+05:30",
-      "time": "24 May, 12:57 PM",
-      "type": "news",
-      "description": "At least 30 people were killed and several injured after powerful explosion ripped through a railway line in Pakistan&#8217;s Balochistan province tod..."
-    },
-    {
       "title": "White House shooting: US President thanks law enforcement after gunman shot dead",
       "link": "https://newsonair.gov.in/white-house-shooting-us-president-thanks-law-enforcement-after-gunman-shot-dead/",
       "source": "All India Radio",
@@ -35,6 +62,15 @@
       "time": "24 May, 12:51 PM",
       "type": "news",
       "description": "US President Donald Trump has thanked law enforcement authorities and Secret Service agents for their swift action after a shooting near the White Hou..."
+    },
+    {
+      "title": "At least 24 killed, several injured in powerful explosion near railway track in southwest Pakistan",
+      "link": "https://www.newindianexpress.com/world/2026/May/24/a-powerful-bomb-has-exploded-near-railway-track-in-southwest-pakistan-wounding-more-than-two-dozen",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-24T12:51:14+05:30",
+      "time": "24 May, 12:51 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "At least 82 killed after a coal mine blast in northern China",
@@ -226,15 +262,6 @@
       "description": "India and Oman have strengthened their strategic defence partnership with specialized military training for the Sultan's Armed Forces. Two Indian Mobi..."
     },
     {
-      "title": "Major Abhilasha to get UN Gender Advocate Award",
-      "link": "https://www.tribuneindia.com/news/india/major-abhilasha-to-get-un-gender-advocate-award",
-      "source": "The Tribune",
-      "sort_key": "2026-05-24T07:01:14+05:30",
-      "time": "24 May, 07:01 AM",
-      "type": "news",
-      "description": "Indian peacekeeper serving with the UN mission in Lebanon, Major Abhilasha Barak, has been named the recipient of a prestigious military gender advoca..."
-    },
-    {
       "title": "Deal with Iran, opening of Strait of Hormuz 'largely negotiated': Trump",
       "link": "https://economictimes.indiatimes.com/news/defence/deal-with-iran-opening-of-strait-of-hormuz-largely-negotiated-trump/articleshow/131287839.cms",
       "source": "Economic Times",
@@ -260,15 +287,6 @@
       "time": "24 May, 06:13 AM",
       "type": "news",
       "description": "Kyiv experienced a significant missile and drone attack early Sunday, with explosions heard across the city. At least three people were injured and re..."
-    },
-    {
-      "title": "America: Made in Pakistan",
-      "link": "https://www.newindianexpress.com/magazine/2026/May/24/america-made-in-pakistan",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-24T06:01:00+05:30",
-      "time": "24 May, 06:01 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Centre orders takeover of elite Delhi Gymkhana Club, cites security needs",
@@ -467,15 +485,6 @@
       "time": "23 May, 05:34 PM",
       "type": "news",
       "description": "Shirdi is set to become a hub for defense manufacturing and technological innovation with the inauguration of the NIBE Shirdi Defence Manufacturing Co..."
-    },
-    {
-      "title": "PM Modi discusses trade, security in meeting with Marco Rubio; gets Trump's invite to White House",
-      "link": "https://www.indiatvnews.com/news/india/pm-modi-discusses-trade-security-in-meeting-with-marco-rubio-gets-trump-s-invite-to-white-house-2026-05-23-1042199",
-      "source": "India TV",
-      "sort_key": "2026-05-23T16:30:26+05:30",
-      "time": "23 May, 04:30 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi on Saturday held crucial talks on security and trade with US Secretary of State Marco Rubio, who extended an invitation t..."
     },
     {
       "title": "YFQ-42A Returns to Flight Testing",
@@ -737,27 +746,49 @@
       "time": "22 May, 06:43 PM",
       "type": "news",
       "description": "The scope of the order includes supply of GE SF Lens 1 (\u00d850X6.0) and GE SF Lens 2 (\u00d826X4.5)."
-    },
-    {
-      "title": "45 warships will be delivered in 3-4 years, approval given for 195 naval vessels: Vice Admiral Sanjay Vatsyan",
-      "link": "https://economictimes.indiatimes.com/news/defence/45-warships-will-be-delivered-in-3-4-years-approval-given-for-195-naval-vessels-vice-admiral-sanjay-vatsyan/articleshow/131260201.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-22T14:13:39+05:30",
-      "time": "22 May, 02:13 PM",
-      "type": "news",
-      "description": "The Indian Navy has said around 45 ships are currently under construction in the country and will be delivered over the next 3\u20134 years, signalling a m..."
-    },
-    {
-      "title": "India to launch 'smart border' project along Pakistan, Bangladesh borders to curb infiltration: Amit Shah",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-to-launch-smart-border-project-along-pak-bdesh-borders-to-curb-infiltration-amit-shah/articleshow/131259319.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-22T13:24:02+05:30",
-      "time": "22 May, 01:24 PM",
-      "type": "news",
-      "description": "India will soon launch a 'smart border' project to secure its 6,000 km frontiers with Pakistan and Bangladesh. Union Home Minister Amit Shah stated th..."
     }
   ],
   "tweets": [
+    {
+      "title": "\ud83c\uddee\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 India and the United States have begun high-level delegation talks in New Delhi, with EAM S. Jaishankar and U.S. Secretary of State Marco Rubio reaffirming the \u201cComprehensive Global Strategic Partnership\u201d between the two democracies.\n\nRubio called India a \u201cstrategic ally,\u201d while Jaishankar said the partnership now influences regions far beyond South Asia.\n\nKey focus areas include:\n- Defence cooperation\n- Strategic technologies\n- Trade & investment\n- Energy security\n- Quad coordination\n\nThe talks come ahead of the Quad Foreign Ministers\u2019 Meeting in New Delhi on May 26.",
+      "link": "https://nitter.net/NetramDefence/status/2058464705145151588#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-24T13:56:44+05:30",
+      "time": "24 May, 01:56 PM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 India and the United States have begun high-level delegation talks in New Delhi, with EAM S. Jaishankar and U.S. Secretary of State Marco Rubio reaffirming the \u201cComprehensive Global Strategic Partnership\u201d between the two democracies.<br />\n<br />\nRubio called India a \u201cstrategic ally,\u201d while Jaishankar said the partnership now influences regions far beyond South Asia.<br />\n<br />\nKey focus areas include:<br />\n- Defence cooperation<br />\n- Strategic technologies<br />\n- Trade & investment<br />\n- Energy security<br />\n- Quad coordination<br />\n<br />\nThe talks come ahead of the Quad Foreign Ministers\u2019 Meeting in New Delhi on May 26.</p>\n<img src=\"https://nitter.net/pic/media%2FHJEgQA-bcAAfDS5.jpg\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>BREAKING: Marco Rubio Says India to Buy $500 Billion in U.S. Goods<br />\n<br />\nU.S. Secretary of State Marco Rubio said India has committed to purchasing $500 billion worth of American goods over the next five years. No official confirmation from the Indian Government yet.</p>\n<img src=\"https://nitter.net/pic/media%2FHJEAcExbMAACJgz.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2058427043352838326#m\">https://nitter.net/NetramDefence/status/2058427043352838326#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Pro Pak army channels are now openly abusing Asim Munir after Quetta blast.",
+      "link": "https://nitter.net/Goreunit/status/2058464307797700621#m",
+      "source": "War & Gore",
+      "sort_key": "2026-05-24T13:55:10+05:30",
+      "time": "24 May, 01:55 PM",
+      "type": "tweets",
+      "content": "<p>Pro Pak army channels are now openly abusing Asim Munir after Quetta blast.</p>\n<img src=\"https://nitter.net/pic/media%2FHJEiYQZaMAAuQbm.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Visuals from Quetta blast site <br />\nBalochistan <br />\n<br />\nThe train was targeted by Baloch freedom fighters</p>\n<a href=\"https://nitter.net/Goreunit/status/2058403479044210700#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2058403434760749056%2Fpu%2Fimg%2FvKDC6TNJBpfsYsuB.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2058403479044210700#m\">https://nitter.net/Goreunit/status/2058403479044210700#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "\"Who said that...\", US Secretary of State Rubio in response to my question on racism agaisnt Indians in US. \n\nUS President Donald Trump had endorsed a post terming India \"Hellhole\"",
+      "link": "https://nitter.net/sidhant/status/2058461912028131581#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-24T13:45:38+05:30",
+      "time": "24 May, 01:45 PM",
+      "type": "tweets",
+      "content": "<p>\"Who said that...\", US Secretary of State Rubio in response to my question on racism agaisnt Indians in US. <br />\n<br />\nUS President Donald Trump had endorsed a post terming India \"Hellhole\"</p>\n<a href=\"https://nitter.net/sidhant/status/2058461912028131581#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2058461836635426816%2Fpu%2Fimg%2FWaj4PPWanX2ktebb.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Massive explosion reported in Quetta, Balochistan, near the Chaman Phatak railway track.\n\nInitial reports indicate at least 30 dead and over 80 injured, with multiple vehicles and nearby buildings damaged in the blast.\n\nThough I usually avoid commenting on Pakistan and its continued occupation of Balochistan, as it inevitably brings a lot of filth onto the timeline.",
+      "link": "https://nitter.net/alpha_defense/status/2058459493625962744#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-24T13:36:02+05:30",
+      "time": "24 May, 01:36 PM",
+      "type": "tweets",
+      "content": "<p>Massive explosion reported in Quetta, Balochistan, near the Chaman Phatak railway track.<br />\n<br />\nInitial reports indicate at least 30 dead and over 80 injured, with multiple vehicles and nearby buildings damaged in the blast.<br />\n<br />\nThough I usually avoid commenting on Pakistan and its continued occupation of Balochistan, as it inevitably brings a lot of filth onto the timeline.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2058459493625962744#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058459430170267648%2Fimg%2FPpPSTJ2SOqgMtJ7A.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/alpha_defense/status/2058459493625962744#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058459430149341185%2Fimg%2FsNUQWrRZLLsPosqP.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
     {
       "title": "We will continue to diversify our energy sources, says EAM Jaishankar standing alongside Rubio",
       "link": "https://nitter.net/sidhant/status/2058456661548060753#m",
@@ -967,16 +998,6 @@
       "type": "tweets",
       "content": "<p>Global military spending has hit a record $2.89 trillion in 2025, the sharpest arms buildup since WWII.<br />\n<br />\nDefence expenditure has risen 41% since 2016, driven by: <br />\n\ud83d\udd39 Russia\u2013Ukraine war<br />\n\ud83d\udd39 US\u2013China rivalry<br />\n\ud83d\udd39 Indo-Pacific tensions<br />\n\ud83d\udd39 Middle East instability<br />\n\ud83d\udd39 NATO rearmament<br />\n<br />\nOver 100 countries increased defence budgets in the last two years alone, signaling a rapidly militarising world order.</p>\n<img src=\"https://nitter.net/pic/media%2FHJER0ptaIAAA19W.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "India is our \"strategic\" partner, US Secretary of State Rubio says",
-      "link": "https://nitter.net/sidhant/status/2058445911311999309#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-24T12:42:03+05:30",
-      "time": "24 May, 12:42 PM",
-      "type": "tweets",
-      "content": "<p>India is our \"strategic\" partner, US Secretary of State Rubio says</p>\n<a href=\"https://nitter.net/sidhant/status/2058445911311999309#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2058445760325390336%2Fpu%2Fimg%2FENGlF_Bvsiqt5Syk.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "Images emerging from Kyiv suggest a large-scale Russian offensive overnight, coming shortly after Moscow claimed that 18 people were killed in a strike on a student dormitory which Russia blamed on Ukraine.",
@@ -1419,36 +1440,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: Advancing Tech Corridors and MRO Infrastructure\n\nEstablishing a Regional MRO Hub\n\nSustaining military readiness in the Indo-Pacific requires highly distributed logistics. Recognizing its advantageous geographic position between Europe and Southeast Asia, India has implemented significant incentives, including a uniform 5% GST rate on aircraft engine parts and extended re-import periods, to establish itself as a regional Maintenance, Repair, and Overhaul (MRO) hub for aerospace and maritime assets.\n\n4/6",
-      "link": "https://nitter.net/NetramDefence/status/2058102166137794593#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-23T13:56:08+05:30",
-      "time": "23 May, 01:56 PM",
-      "type": "tweets",
-      "content": "<p>Advancing Tech Corridors and MRO Infrastructure<br />\n<br />\nEstablishing a Regional MRO Hub<br />\n<br />\nSustaining military readiness in the Indo-Pacific requires highly distributed logistics. Recognizing its advantageous geographic position between Europe and Southeast Asia, India has implemented significant incentives, including a uniform 5% GST rate on aircraft engine parts and extended re-import periods, to establish itself as a regional Maintenance, Repair, and Overhaul (MRO) hub for aerospace and maritime assets.<br />\n<br />\n4/6</p>",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: India\u2019s strategy in the Indo-Pacific has evolved from conducting joint maritime exercises to transferring hard, strategic assets. Providing material capability to regional partners is the most direct method of ensuring a free and open Indo-Pacific order.\n\nThe Philippines: Delivery of the BrahMos supersonic cruise missile batteries to Manila establishes a credible coastal deterrence architecture.\n\nVietnam: The gifting of the operational missile corvette INS Kirpan represents a shift toward enabling regional partners with active naval platforms.\n\nSingapore and Indonesia: Ongoing exports of radar distribution cards, amplifiers, and naval gun systems integrate Indian hardware into Southeast Asian defense networks.\n\nHardware exports serve as instruments of strategic diplomacy. Supplying neighboring nations with precision strike and surveillance capabilities directly checks the unilateral expansion of adversary powers without requiring a massive forward deployment of Indian forces. \n\n3/6",
-      "link": "https://nitter.net/NetramDefence/status/2058102163155669026#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-23T13:56:08+05:30",
-      "time": "23 May, 01:56 PM",
-      "type": "tweets",
-      "content": "<p>India\u2019s strategy in the Indo-Pacific has evolved from conducting joint maritime exercises to transferring hard, strategic assets. Providing material capability to regional partners is the most direct method of ensuring a free and open Indo-Pacific order.<br />\n<br />\nThe Philippines: Delivery of the BrahMos supersonic cruise missile batteries to Manila establishes a credible coastal deterrence architecture.<br />\n<br />\nVietnam: The gifting of the operational missile corvette INS Kirpan represents a shift toward enabling regional partners with active naval platforms.<br />\n<br />\nSingapore and Indonesia: Ongoing exports of radar distribution cards, amplifiers, and naval gun systems integrate Indian hardware into Southeast Asian defense networks.<br />\n<br />\nHardware exports serve as instruments of strategic diplomacy. Supplying neighboring nations with precision strike and surveillance capabilities directly checks the unilateral expansion of adversary powers without requiring a massive forward deployment of Indian forces. <br />\n<br />\n3/6</p>\n<img src=\"https://nitter.net/pic/media%2FHI_TPH7aoAANu2a.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: The growth in production is no longer exclusively driven by Defense Public Sector Undertakings (DPSUs). The stabilization of India's Defense Industrial Corridors and updated procurement procedures have galvanized the private sector.  \nCapitalizing on \n\nMarket Gaps: Indigenous private defense manufacturers have advanced small arms and tactical systems, are actively capturing market share amid fragmented global supply chains.\n\nVenture Integration: Military-tech startup funding has scaled aggressively, with cumulative investments surpassing \u20b95,240 crore ($611 million) across over 200 funding rounds.\n\n2/6",
-      "link": "https://nitter.net/NetramDefence/status/2058102159464648792#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-23T13:56:07+05:30",
-      "time": "23 May, 01:56 PM",
-      "type": "tweets",
-      "content": "<p>The growth in production is no longer exclusively driven by Defense Public Sector Undertakings (DPSUs). The stabilization of India's Defense Industrial Corridors and updated procurement procedures have galvanized the private sector.  <br />\nCapitalizing on <br />\n<br />\nMarket Gaps: Indigenous private defense manufacturers have advanced small arms and tactical systems, are actively capturing market share amid fragmented global supply chains.<br />\n<br />\nVenture Integration: Military-tech startup funding has scaled aggressively, with cumulative investments surpassing \u20b95,240 crore ($611 million) across over 200 funding rounds.<br />\n<br />\n2/6</p>\n<img src=\"https://nitter.net/pic/media%2FHI_S_HwbQAANNaR.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "THREAD \ud83e\uddf5: India's Defense Industrial Expansion in the Indo-Pacific\n\nIndia\u2019s defense manufacturing is undergoing a measurable structural realignment, shifting from import-dependency to active integration within global supply chains. As of FY26, India's defense exports have reached an unprecedented \u20b938,424 crore (approximately $4 billion). This represents a nearly 63% year-on-year growth and marks a definitive transition from conceptual self-reliance to actual market capture.\n\nHere's the thread taking the look at this expansion in detail. \ud83d\udc47\ud83c\udffc\n\n@PMOIndia @DefenceMinIndia @SpokespersonMoD @adgpi @NorthernComd IA @indiannavy @IAF MCC @IaSouthern @easterncomd @rajnathsingh >@AN_Command @indiannavy\n\n1/6",
       "link": "https://nitter.net/NetramDefence/status/2058102153974092280#m",
       "source": "Netram Defense",
@@ -1729,16 +1720,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Reports of an Indian Army Cheetah helicopter making a hard landing in Ladakh on 20th May.\n\nAll occupants are reported safe and the helicopter remains undamaged.",
-      "link": "https://nitter.net/alpha_defense/status/2057999642911232140#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-23T07:08:45+05:30",
-      "time": "23 May, 07:08 AM",
-      "type": "tweets",
-      "content": "<p>Reports of an Indian Army Cheetah helicopter making a hard landing in Ladakh on 20th May.<br />\n<br />\nAll occupants are reported safe and the helicopter remains undamaged.</p>\n<img src=\"https://nitter.net/pic/media%2FHI97wtja8AArlo1.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Venezuela became India's third-largest crude supplier in May, overtaking Saudi Arabia and the United States.",
       "link": "https://nitter.net/Goreunit/status/2057873097693565022#m",
       "source": "War & Gore",
@@ -1747,16 +1728,6 @@
       "type": "tweets",
       "content": "<p>Venezuela became India's third-largest crude supplier in May, overtaking Saudi Arabia and the United States.</p>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Daily US-Israel-Iran War Brief:\n22nd May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf The Trump administration paused a $14 billion weapons sale to Taiwan to preserve U.S. munitions for the Iran war, according to Acting Navy Secretary Hung Cao.\n\n\u25cf The UAE joined Saudi Arabia and Qatar in urging President Trump to prioritize diplomacy with Iran rather than resuming military action.\n\n\u25cf Secretary of State Marco Rubio described Iran\u2019s maneuvers in vital trade corridors as a \u201cnon-negotiable hurdle\u201d in current diplomatic talks.\n\n\u25cf Pakistan\u2019s military leader, General Asim Munir, is en route to Iran as part of ongoing mediation \nefforts between Washington and Tehran.\n\n\u25cf UKMTO reported that a tanker was approached by a small craft carrying five people 98 nm north of Socotra. The vessel\u2019s armed security team fired warning shots, causing the craft to alter course.\n\n\u25cf As of today, CENTCOM has redirected 97 commercial vessels and disabled 4 since the start of the blockade.\n\nEND OF BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2057867875709485473#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-22T22:25:09+05:30",
-      "time": "22 May, 10:25 PM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n22nd May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The Trump administration paused a $14 billion weapons sale to Taiwan to preserve U.S. munitions for the Iran war, according to Acting Navy Secretary Hung Cao.<br />\n<br />\n\u25cf The UAE joined Saudi Arabia and Qatar in urging President Trump to prioritize diplomacy with Iran rather than resuming military action.<br />\n<br />\n\u25cf Secretary of State Marco Rubio described Iran\u2019s maneuvers in vital trade corridors as a \u201cnon-negotiable hurdle\u201d in current diplomatic talks.<br />\n<br />\n\u25cf Pakistan\u2019s military leader, General Asim Munir, is en route to Iran as part of ongoing mediation <br />\nefforts between Washington and Tehran.<br />\n<br />\n\u25cf UKMTO reported that a tanker was approached by a small craft carrying five people 98 nm north of Socotra. The vessel\u2019s armed security team fired warning shots, causing the craft to alter course.<br />\n<br />\n\u25cf As of today, CENTCOM has redirected 97 commercial vessels and disabled 4 since the start of the blockade.<br />\n<br />\nEND OF BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHI8D6XaacAAsDNX.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n21st May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The Persian Gulf Strait Authority (PGSA) of Iran has formally announced defined supervisory boundaries for the Strait of Hormuz.<br />\n<br />\n\u25cf Iran\u2019s Supreme Leader issued a directive prohibiting the export of the country\u2019s uranium stockpile abroad, according to Reuters.<br />\n<br />\n\u25cf Iran is in discussions with Oman to establish a permanent toll system that would formalize its control over maritime traffic in the Strait of Hormuz.<br />\n<br />\n\u25cf The IDF apprehended 3 terrorists affiliated with a Hamas-linked network in Hebron who were planning an imminent shooting attack.<br />\n<br />\n\u25cf In the Gulf of Oman, US Marines boarded the Iranian-flagged tanker M/T Celestial Sea suspected of violating the blockade. The vessel was searched and released after its crew was ordered to alter course.<br />\n<br />\n\u25cf As of May 21, CENTCOM has redirected 94 commercial vessels and disabled 4 while enforcing the naval blockade.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHI24jVqbAAATFhG.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2057503555184202189#m\">https://nitter.net/NetramDefence/status/2057503555184202189#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
     },
     {
       "title": "SRBM \u2018Agni-1\u2019 was successfully test-launched from the ITR at Chandipur, Odisha on May 22, 2026.\n\n The launch validated all operational and technical parameters. \nThe test was carried out under the aegis of the Strategic Forces Command.",
@@ -1826,26 +1797,6 @@
       "time": "22 May, 02:34 PM",
       "type": "tweets",
       "content": "<p>\ud83d\udccd\ud83c\uddee\ud83c\uddf3\ud83e\ude96 Indian Army Lethal. Precise. Unstoppable...<br />\n<br />\nIndian Army unleashes weaponized Robotic Canines and advanced drone swarms into the tactical battlefield. Maximum lethality, zero margin for error.<br />\n<br />\n We don\u2019t just face the future we command it.</p>\n<a href=\"https://nitter.net/OsintTV/status/2057749367608512828#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057749270619443200%2Fimg%2FDswFyEBGsKl0Do-1.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @NetramDefence: China\u2019s waterway project to boost trade with ASEAN\n\nThe Pinglu Canal, a $10.7 billion project connecting China's heartlands to the Gulf of Tonkin, to begin trial operations in Sept 2026.\n\n\u25ab\ufe0f94% done; water-filled testing phase underway\n\u25ab\ufe0f~ $715 mil in transport costs for Guangxi",
-      "link": "https://nitter.net/Globalwatchh/status/2057739069698793761#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-22T13:53:19+05:30",
-      "time": "22 May, 01:53 PM",
-      "type": "tweets",
-      "content": "<p>China\u2019s waterway project to boost trade with ASEAN<br />\n<br />\nThe Pinglu Canal, a $10.7 billion project connecting China's heartlands to the Gulf of Tonkin, to begin trial operations in Sept 2026.<br />\n<br />\n\u25ab\ufe0f94% done; water-filled testing phase underway<br />\n\u25ab\ufe0f~ $715 mil in transport costs for Guangxi</p>\n<img src=\"https://nitter.net/pic/media%2FHI6Oqd5WcAA52zE.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHI6OxL1XIAAiuoJ.png\" />",
-      "author": "@Globalwatchh"
-    },
-    {
-      "title": "Lahori Churan Ultra Pro Max with extra dry fruits. I challenge anyone to watch  full video without laughing. Legend level task. \ud83d\ude2d\n\nAccording to Mohsin Naqvi paijaan\u2019s military science during \u201cBaniyan Chaddi Operation\u201d:\n\n\ud83d\udd39 Pakistani drones entered Delhi, hovered above PM House for hours, enjoyed weather update, then safely returned home on low battery mode. \ud83d\udd0b\ud83e\udd23\n\n\ud83d\udd39 But advanced Indian drones got shot down by random Paijaans with danda-level rifles. \ud83d\udc80\n\nSomeone please check the TAKNOLOGI and battery specs on those magical drones. \ud83d\ude2d\ud83d\ude02\n\nAnd dear Naqvi paijaan, India did not target civilians. Use the correct word: terrorists. \ud83e\udd21",
-      "link": "https://nitter.net/OsintTV/status/2057733533674647949#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-22T13:31:19+05:30",
-      "time": "22 May, 01:31 PM",
-      "type": "tweets",
-      "content": "<p>Lahori Churan Ultra Pro Max with extra dry fruits. I challenge anyone to watch  full video without laughing. Legend level task. \ud83d\ude2d<br />\n<br />\nAccording to Mohsin Naqvi paijaan\u2019s military science during \u201cBaniyan Chaddi Operation\u201d:<br />\n<br />\n\ud83d\udd39 Pakistani drones entered Delhi, hovered above PM House for hours, enjoyed weather update, then safely returned home on low battery mode. \ud83d\udd0b\ud83e\udd23<br />\n<br />\n\ud83d\udd39 But advanced Indian drones got shot down by random Paijaans with danda-level rifles. \ud83d\udc80<br />\n<br />\nSomeone please check the TAKNOLOGI and battery specs on those magical drones. \ud83d\ude2d\ud83d\ude02<br />\n<br />\nAnd dear Naqvi paijaan, India did not target civilians. Use the correct word: terrorists. \ud83e\udd21</p>\n<a href=\"https://nitter.net/OsintTV/status/2057733533674647949#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2057733171332997120%2Fimg%2FPO6JmxIZPII0BflV.jpg\" />\n</a>",
       "author": "@OsintTV"
     }
   ],
@@ -1924,6 +1875,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
