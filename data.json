@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Cyber fraudsters posing as cops dupe 70-year-old Thane man of Rs 40.5 lakh",
+      "link": "https://www.tribuneindia.com/news/india/cyber-fraudsters-posing-as-cops-dupe-70-year-old-thane-man-of-rs-40-5-lakh",
+      "source": "The Tribune",
+      "sort_key": "2026-05-25T14:31:01+05:30",
+      "time": "25 May, 02:31 PM",
+      "type": "news",
+      "description": "A 70-year-old man from Maharashtra&#8217;s Thane city was allegedly duped of Rs 40.5 lakh by cyber fraudsters, who posed as police officers and threat..."
+    },
+    {
       "title": "Nearly 80 thousand people affected by adverse weather conditions in Sri Lanka",
       "link": "https://newsonair.gov.in/nearly-80-thousand-people-affected-by-adverse-weather-conditions-in-sri-lanka/",
       "source": "All India Radio",
@@ -26,6 +35,15 @@
       "time": "25 May, 02:04 PM",
       "type": "news",
       "description": "US Secretary of State Marco Rubio said Washington and Tehran have made significant progress in talks to reopen the Strait of Hormuz. Talking to report..."
+    },
+    {
+      "title": "Govt finalises \u20b93.25 lakh crore proposal for 114 Rafale fighter jets: Report",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-landmark-325-lakh-crore-deal-for-114-rafale-fighter-jets-finalized/131305230",
+      "source": "Economic Times",
+      "sort_key": "2026-05-25T14:00:42+05:30",
+      "time": "25 May, 02:00 PM",
+      "type": "news",
+      "description": "The move comes ahead of Indian Air Force Chief AP Singh\u2019s planned visit to France next month and Prime Minister Narendra Modi\u2019s expected trip."
     },
     {
       "title": "First Gaganyaan\u2019suncrewed G-1 gears up for launch in next three to four months",
@@ -296,15 +314,6 @@
       "time": "25 May, 12:43 AM",
       "type": "news",
       "description": "Iran warns a potential deal with the US could collapse due to ongoing American obstruction on key clauses, particularly the release of its blocked ass..."
-    },
-    {
-      "title": "Remaining outside RCEP failed to curb China dependence, says DBS Bank economist",
-      "link": "https://www.newindianexpress.com/business/2026/May/24/remaining-outside-rcep-failed-to-curb-china-dependence-says-dbs-bank-economist",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-24T23:28:08+05:30",
-      "time": "24 May, 11:28 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Hezbollah chief says hopes for Iran-US deal and that it includes Lebanon",
@@ -737,18 +746,119 @@
       "time": "23 May, 03:40 PM",
       "type": "news",
       "description": "Defence Minister Rajnath Singh inaugurates a major artillery shell manufacturing facility near Shirdi today. This facility is the largest private sect..."
-    },
-    {
-      "title": "New Zealand unveils defence boost for fleet and drones",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/new-zealand-allocates-nz158-billion-for-enhanced-defence-and-maritime-security/131277267",
-      "source": "Economic Times",
-      "sort_key": "2026-05-23T15:21:02+05:30",
-      "time": "23 May, 03:21 PM",
-      "type": "news",
-      "description": "New Zealand&#039;s government is investing NZ$1.58 billion in defence. The focus is on maritime security, including new drone systems and renewing its..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @NetramDefence: Modern developments are focused on increasing delivery  speed and maneuverability. Systems like the Avangard hypersonic glide vehicle are  designed to be boosted by missiles to extreme speeds, carrying warheads with variable  yields that can reach up to 2,000 kt.\n\n10/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837529198207076#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:12+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>Modern developments are focused on increasing delivery  speed and maneuverability. Systems like the Avangard hypersonic glide vehicle are  designed to be boosted by missiles to extreme speeds, carrying warheads with variable  yields that can reach up to 2,000 kt.<br />\n<br />\n10/10</p>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: LGM-30G Minuteman III (United States): Stationed in hardened silos, this ICBM remains a staple of land-based strategic forces. It is typically armed with either W78 (335 kt) or W87 (300 kt) warheads.\n\n9/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837524542349763#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:11+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>LGM-30G Minuteman III (United States): Stationed in hardened silos, this ICBM remains a staple of land-based strategic forces. It is typically armed with either W78 (335 kt) or W87 (300 kt) warheads.<br />\n<br />\n9/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJzsmHaEAE00Pe.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Jericho III (Israel): This medium-to-long-range ballistic missile is believed to be a three-stage solid-propellant system. Although technical details remain classified, estimates suggest its potential payload could yield between 400 kt and 1,000 kt.\n\n8/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837521191326105#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:11+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>Jericho III (Israel): This medium-to-long-range ballistic missile is believed to be a three-stage solid-propellant system. Although technical details remain classified, estimates suggest its potential payload could yield between 400 kt and 1,000 kt.<br />\n<br />\n8/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJzDrwaUAAltuh.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Agni-V (India): This solid-fueled missile is part of the Agni series and features a canisterized launch system. Its payload is capable of carrying a warhead with an estimated yield of around 200 kt.\n\n7/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837518356025855#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:10+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>Agni-V (India): This solid-fueled missile is part of the Agni series and features a canisterized launch system. Its payload is capable of carrying a warhead with an estimated yield of around 200 kt.<br />\n<br />\n7/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJyl8wa8AAkhID.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: M51 (France): As a submarine-launched ballistic missile, the M51 serves as France's primary sea-based deterrent. It is equipped with TNO (T\u00eate Nucl\u00e9aire  Oc\u00e9anique) warheads, which are reported to have yields of approximately 150 kt each.\n\n6/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837515084177720#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:09+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>M51 (France): As a submarine-launched ballistic missile, the M51 serves as France's primary sea-based deterrent. It is equipped with TNO (T\u00eate Nucl\u00e9aire  Oc\u00e9anique) warheads, which are reported to have yields of approximately 150 kt each.<br />\n<br />\n6/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJxv8caUAA8Omu.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Hwasong-17 (North Korea): This large, road-mobile ICBM marks a significant shift in missile scale. While specific data is limited, analysts estimate its payload capacity could support a thermonuclear device with a yield in the 200 kt to 300 kt range.\n\n5/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837511666028874#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:08+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>Hwasong-17 (North Korea): This large, road-mobile ICBM marks a significant shift in missile scale. While specific data is limited, analysts estimate its payload capacity could support a thermonuclear device with a yield in the 200 kt to 300 kt range.<br />\n<br />\n5/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJxQlea0AAO7SI.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Trident II D5 (US/UK): Deployed on ballistic missile submarines, the Trident II is a key element of sea-based deterrence. It can carry various warhead configurations, including the W88 (approx. 455 kt), the W76-1 (approx. 90 kt), or the low-yield W76-2 variant.\n\n4/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837507249422576#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:07+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>Trident II D5 (US/UK): Deployed on ballistic missile submarines, the Trident II is a key element of sea-based deterrence. It can carry various warhead configurations, including the W88 (approx. 455 kt), the W76-1 (approx. 90 kt), or the low-yield W76-2 variant.<br />\n<br />\n4/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJw2_0aEAAti9d.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: Dongfeng-41 / DF-41 (China): A central component of land-based strategic forces, this solid-fueled missile is known for its mobility. It can be equipped with several MIRVs, with individual warhead yields usually estimated between 200 kt and 500 kt.\n\n3/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837503550042382#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:06+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>Dongfeng-41 / DF-41 (China): A central component of land-based strategic forces, this solid-fueled missile is known for its mobility. It can be equipped with several MIRVs, with individual warhead yields usually estimated between 200 kt and 500 kt.<br />\n<br />\n3/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJwXPhaQAAJr9I.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: RS-28 Sarmat (Russia): This heavy, liquid-fueled intercontinental ballistic missile (ICBM) is designed with a high payload capacity. It is capable of carrying multiple independently targetable reentry vehicles (MIRVs). Technical reports indicate that the warheads associated with this system typically have yields ranging from 500 to 750 kilotons.\n\n2/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837500383346912#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:06+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>RS-28 Sarmat (Russia): This heavy, liquid-fueled intercontinental ballistic missile (ICBM) is designed with a high payload capacity. It is capable of carrying multiple independently targetable reentry vehicles (MIRVs). Technical reports indicate that the warheads associated with this system typically have yields ranging from 500 to 750 kilotons.<br />\n<br />\n2/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJtFVwasAAGPJX.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "THREAD \ud83e\uddf5\n\nStrategic Ballistic Missiles around the World\n\nThe pinnacle of destructive engineering is found in strategic ballistic missiles. Traveling through space at hypersonic speeds, these weapons can cross hemispheres in under 30 minutes. Below is a technical breakdown of the world\u2019s most formidable missile arsenals, including their staggering nuclear payloads. (Not listed in any particular order)\n\n@DefenceMinIndia @RusEmbIndia @USAndIndia @China_Amb_India @FranceinIndia @UKinIndia @IsraelinIndia \n\n1/10",
+      "link": "https://nitter.net/NetramDefence/status/2058837496470127047#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-05-25T14:38:05+05:30",
+      "time": "25 May, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>THREAD \ud83e\uddf5<br />\n<br />\nStrategic Ballistic Missiles around the World<br />\n<br />\nThe pinnacle of destructive engineering is found in strategic ballistic missiles. Traveling through space at hypersonic speeds, these weapons can cross hemispheres in under 30 minutes. Below is a technical breakdown of the world\u2019s most formidable missile arsenals, including their staggering nuclear payloads. (Not listed in any particular order)<br />\n<br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/RusEmbIndia\" title=\"Russia in India \ud83c\uddf7\ud83c\uddfa\">@RusEmbIndia</a> <a href=\"https://nitter.net/USAndIndia\" title=\"U.S. Embassy India\">@USAndIndia</a> <a href=\"https://nitter.net/China_Amb_India\" title=\"Xu Feihong\">@China_Amb_India</a> <a href=\"https://nitter.net/FranceinIndia\" title=\"French Embassy in India \ud83c\uddeb\ud83c\uddf7\ud83c\uddea\ud83c\uddfa\">@FranceinIndia</a> <a href=\"https://nitter.net/UKinIndia\" title=\"UK in India\ud83c\uddec\ud83c\udde7\ud83c\uddee\ud83c\uddf3\">@UKinIndia</a> <a href=\"https://nitter.net/IsraelinIndia\" title=\"Israel in India\">@IsraelinIndia</a> <br />\n<br />\n1/10</p>\n<img src=\"https://nitter.net/pic/media%2FHJJ0upobUAAT-0g.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Folks what you take on these one minute explainers !\n- The idea was to make these on topics that requires more context and yet keep it crisp.\n- Team felt that videos are better than long texts that no one reads.\n- No intro or outro to save time.\n\nThis was first Experiment.",
+      "link": "https://nitter.net/alpha_defense/status/2058833754861510971#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-25T14:23:13+05:30",
+      "time": "25 May, 02:23 PM",
+      "type": "tweets",
+      "content": "<p>Folks what you take on these one minute explainers !<br />\n- The idea was to make these on topics that requires more context and yet keep it crisp.<br />\n- Team felt that videos are better than long texts that no one reads.<br />\n- No intro or outro to save time.<br />\n<br />\nThis was first Experiment.</p>\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>AMCA next Stage !</p>\n<a href=\"https://nitter.net/alpha_defense/status/2058812112206721289#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058808907464859648%2Fimg%2FRBx8CnXQZaHIXsic.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2058812112206721289#m\">https://nitter.net/alpha_defense/status/2058812112206721289#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
     {
       "title": "Quad FM to meet tomm. Reporting from Delhi:",
       "link": "https://nitter.net/sidhant/status/2058829686998970575#m",
@@ -768,6 +878,16 @@
       "type": "tweets",
       "content": "<p>Rubio clarifies Pakistan\u2019s role in the US-Iran conflict; says Pak's mediator role never came up with India<br />\n<br />\nRubio on ties: India 'strategic', Pakistan 'tactical' <br />\n<br />\nRubio to attend Quad foreign ministers' meeting; says Quad more important than ever <br />\n<br />\n<a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2058829353807736834#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058825275732017152%2Fimg%2FaV1NFIVMuwkN7PAE.jpg\" />\n</a>",
       "author": "@WIONews"
+    },
+    {
+      "title": "RT by @alpha_defense: @EAC_IAF is hosting a Joint Aerospace Power Seminar on 'Doklam Revisited' at AF Stn Guwahati on 29 May 26. \n\n@prodefgau \n>@proshillong\n@ProAssam \n@ProDefKolkata \n>@prodefkohima",
+      "link": "https://nitter.net/EAC_IAF/status/2058823446688375153#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-25T13:42:15+05:30",
+      "time": "25 May, 01:42 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/EAC_IAF\" title=\"Eastern Air Command IAF\">@EAC_IAF</a> is hosting a Joint Aerospace Power Seminar on 'Doklam Revisited' at AF Stn Guwahati on 29 May 26. <br />\n<br />\n<a href=\"https://nitter.net/prodefgau\" title=\"PRO, Defence, Guwahati\">@prodefgau</a> <br />\n<a href=\"https://nitter.net/proshillong\" title=\"Spokesperson &amp; PRO Shillong, Ministry of Defence\">@proshillong</a><br />\n<a href=\"https://nitter.net/ProAssam\" title=\"PRO Defence Tezpur (Assam/Arunachal Pradesh)\">@ProAssam</a> <br />\n<a href=\"https://nitter.net/ProDefKolkata\" title=\"PRO Defence Kolkata\">@ProDefKolkata</a> <br />\n<a href=\"https://nitter.net/prodefkohima\" title=\"PRO Defence, Manipur, Nagaland &amp; South Arunachal\">@prodefkohima</a></p>",
+      "author": "@EAC_IAF"
     },
     {
       "title": "RT by @sidhant: \"\ud83c\uddee\ud83c\uddf3Modi held talks with \ud83c\uddea\ud83c\uddfaEuropean Commission President Ursula von der Leyen, who declared that a \u201enew era\u201d in EU-India relations is dawning and described the FTA as merely the first step. \u201eThe next step must be to deliver an investment agreement,\u201d she stated.\n\nMy article for @Defence24eng \n\nhttps://defence24.com/geopolitics/modis-european-tour-and-the-deepening-india-eu-partnership",
@@ -868,6 +988,16 @@
       "type": "tweets",
       "content": "<p>Finalising Rafale when Rubio is visiting India, after giving him a cold shoulder during his entire visit.<br />\n<br />\nCould be a pure coincidence, but as the saying goes, there are no coincidences in geopolitics.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2058797407555772815#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058796520636571648%2Fimg%2FWCf9x3880sMVREcj.jpg\" />\n</a>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @alpha_defense: Koun sa art hai bhai?? \ud83d\ude2d",
+      "link": "https://nitter.net/Wellutwt/status/2058794649888932080#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-05-25T11:47:49+05:30",
+      "time": "25 May, 11:47 AM",
+      "type": "tweets",
+      "content": "<p>Koun sa art hai bhai?? \ud83d\ude2d</p>\n<img src=\"https://nitter.net/pic/media%2FHJJO0bfbUAAriK5.jpg\" />",
+      "author": "@Wellutwt"
     },
     {
       "title": "US Secretary of State Rubio this morning at Taj Mahal, Agra.",
@@ -1360,16 +1490,6 @@
       "author": "@itswpceo"
     },
     {
-      "title": "\ud83c\uddee\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 India and the United States have begun high-level delegation talks in New Delhi, with EAM S. Jaishankar and U.S. Secretary of State Marco Rubio reaffirming the \u201cComprehensive Global Strategic Partnership\u201d between the two democracies.\n\nRubio called India a \u201cstrategic ally,\u201d while Jaishankar said the partnership now influences regions far beyond South Asia.\n\nKey focus areas include:\n- Defence cooperation\n- Strategic technologies\n- Trade & investment\n- Energy security\n- Quad coordination\n\nThe talks come ahead of the Quad Foreign Ministers\u2019 Meeting in New Delhi on May 26.",
-      "link": "https://nitter.net/NetramDefence/status/2058464705145151588#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-24T13:56:44+05:30",
-      "time": "24 May, 01:56 PM",
-      "type": "tweets",
-      "content": "<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 India and the United States have begun high-level delegation talks in New Delhi, with EAM S. Jaishankar and U.S. Secretary of State Marco Rubio reaffirming the \u201cComprehensive Global Strategic Partnership\u201d between the two democracies.<br />\n<br />\nRubio called India a \u201cstrategic ally,\u201d while Jaishankar said the partnership now influences regions far beyond South Asia.<br />\n<br />\nKey focus areas include:<br />\n- Defence cooperation<br />\n- Strategic technologies<br />\n- Trade & investment<br />\n- Energy security<br />\n- Quad coordination<br />\n<br />\nThe talks come ahead of the Quad Foreign Ministers\u2019 Meeting in New Delhi on May 26.</p>\n<img src=\"https://nitter.net/pic/media%2FHJEgQA-bcAAfDS5.jpg\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>BREAKING: Marco Rubio Says India to Buy $500 Billion in U.S. Goods<br />\n<br />\nU.S. Secretary of State Marco Rubio said India has committed to purchasing $500 billion worth of American goods over the next five years. No official confirmation from the Indian Government yet.</p>\n<img src=\"https://nitter.net/pic/media%2FHJEAcExbMAACJgz.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2058427043352838326#m\">https://nitter.net/NetramDefence/status/2058427043352838326#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Pro Pak army channels are now openly abusing Asim Munir after Quetta blast.",
       "link": "https://nitter.net/Goreunit/status/2058464307797700621#m",
       "source": "War & Gore",
@@ -1387,36 +1507,6 @@
       "time": "24 May, 01:36 PM",
       "type": "tweets",
       "content": "<p>Massive explosion reported in Quetta, Balochistan, near the Chaman Phatak railway track.<br />\n<br />\nInitial reports indicate at least 30 dead and over 80 injured, with multiple vehicles and nearby buildings damaged in the blast.<br />\n<br />\nThough I usually avoid commenting on Pakistan and its continued occupation of Balochistan, as it inevitably brings a lot of filth onto the timeline.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2058459493625962744#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058459430170267648%2Fimg%2FPpPSTJ2SOqgMtJ7A.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/alpha_defense/status/2058459493625962744#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058459430149341185%2Fimg%2FsNUQWrRZLLsPosqP.jpg\" />\n</a>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "The assumption being made is that yesterday\u2019s strike on Kyiv involved the Oreshnik, as the footage appears to show groups of six glowing reentry vehicles in each wave.",
-      "link": "https://nitter.net/alpha_defense/status/2058449271519891642#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-24T12:55:25+05:30",
-      "time": "24 May, 12:55 PM",
-      "type": "tweets",
-      "content": "<p>The assumption being made is that yesterday\u2019s strike on Kyiv involved the Oreshnik, as the footage appears to show groups of six glowing reentry vehicles in each wave.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2058449271519891642#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058449208156508160%2Fimg%2FflDwzKgHD9xP7sAW.jpg\" />\n</a>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "Global military spending has hit a record $2.89 trillion in 2025, the sharpest arms buildup since WWII.\n\nDefence expenditure has risen 41% since 2016, driven by: \n\ud83d\udd39 Russia\u2013Ukraine war\n\ud83d\udd39 US\u2013China rivalry\n\ud83d\udd39 Indo-Pacific tensions\n\ud83d\udd39 Middle East instability\n\ud83d\udd39 NATO rearmament\n\nOver 100 countries increased defence budgets in the last two years alone, signaling a rapidly militarising world order.",
-      "link": "https://nitter.net/NetramDefence/status/2058446214182613355#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-24T12:43:16+05:30",
-      "time": "24 May, 12:43 PM",
-      "type": "tweets",
-      "content": "<p>Global military spending has hit a record $2.89 trillion in 2025, the sharpest arms buildup since WWII.<br />\n<br />\nDefence expenditure has risen 41% since 2016, driven by: <br />\n\ud83d\udd39 Russia\u2013Ukraine war<br />\n\ud83d\udd39 US\u2013China rivalry<br />\n\ud83d\udd39 Indo-Pacific tensions<br />\n\ud83d\udd39 Middle East instability<br />\n\ud83d\udd39 NATO rearmament<br />\n<br />\nOver 100 countries increased defence budgets in the last two years alone, signaling a rapidly militarising world order.</p>\n<img src=\"https://nitter.net/pic/media%2FHJER0ptaIAAA19W.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Images emerging from Kyiv suggest a large-scale Russian offensive overnight, coming shortly after Moscow claimed that 18 people were killed in a strike on a student dormitory which Russia blamed on Ukraine.",
-      "link": "https://nitter.net/alpha_defense/status/2058445783280869526#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-24T12:41:33+05:30",
-      "time": "24 May, 12:41 PM",
-      "type": "tweets",
-      "content": "<p>Images emerging from Kyiv suggest a large-scale Russian offensive overnight, coming shortly after Moscow claimed that 18 people were killed in a strike on a student dormitory which Russia blamed on Ukraine.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2058445783280869526#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058445726250885120%2Fimg%2FlskCgirx8aZ1_QJg.jpg\" />\n</a>",
       "author": "@alpha_defense"
     },
     {
@@ -1438,36 +1528,6 @@
       "type": "tweets",
       "content": "<p>Indian Air Force's MiG-29 Story \ud83c\uddee\ud83c\uddf3\u2708\ufe0f<br />\n<br />\nI made this thread to cover the complete IAF MiG-29 story:<br />\nfrom history, acquisition, sqns, ops, upgrades, radar, avionics, weapons and to where the platform stands today.<br />\n<br />\nIAF became the first international customer of the MiG-29 outside the Warsaw Pact \u262d\ud83c\uddf7\ud83c\uddfa<br />\n-order placed in 1984<br />\n-officially inducted into the IAF in 1987<br />\n-Initial batch : 44 aircraft (40 single-seat+4 trainers).</p>\n<img src=\"https://nitter.net/pic/media%2FHJD3ZnuaAAAhr9j.jpg\" />",
       "author": "@vasilyaarkhipov"
-    },
-    {
-      "title": "I am told that the Scorpene-class submarines do not have even 20% indigenous content in actual terms. A naval officer said that anyone who doubts this claim should ask for a detailed review of the entire supply chain and subsystem sourcing.",
-      "link": "https://nitter.net/alpha_defense/status/2058431246800494643#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-24T11:43:47+05:30",
-      "time": "24 May, 11:43 AM",
-      "type": "tweets",
-      "content": "<p>I am told that the Scorpene-class submarines do not have even 20% indigenous content in actual terms. A naval officer said that anyone who doubts this claim should ask for a detailed review of the entire supply chain and subsystem sourcing.</p>\n<img src=\"https://nitter.net/pic/media%2FHJEETfmawAAKdA1.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "Erdo\u011fan\u2019s Islamist ambition is not limited to West Asia. He has increasingly made the Kashmiri separatist cause his own.\n\nOn 5 May 2026, Turkey quietly unveiled its new \u201cYildirimhan\u201d (\u201cLightning\u201d) intercontinental ballistic missile, Turkish officials said the new missile could deliver a 3,000-kilogram warhead at Mach 25 and Turkey would test fire the missile later this year, claiming the entirety of Europe, Africa, West Asia, and India would fall within range of Turkey\u2019s missiles.",
-      "link": "https://nitter.net/NetramDefence/status/2058431241893171401#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-24T11:43:46+05:30",
-      "time": "24 May, 11:43 AM",
-      "type": "tweets",
-      "content": "<p>Erdo\u011fan\u2019s Islamist ambition is not limited to West Asia. He has increasingly made the Kashmiri separatist cause his own.<br />\n<br />\nOn 5 May 2026, Turkey quietly unveiled its new \u201cYildirimhan\u201d (\u201cLightning\u201d) intercontinental ballistic missile, Turkish officials said the new missile could deliver a 3,000-kilogram warhead at Mach 25 and Turkey would test fire the missile later this year, claiming the entirety of Europe, Africa, West Asia, and India would fall within range of Turkey\u2019s missiles.</p>\n<img src=\"https://nitter.net/pic/media%2FHJED6CSaAAAWm6k.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "BREAKING: Marco Rubio Says India to Buy $500 Billion in U.S. Goods\n\nU.S. Secretary of State Marco Rubio said India has committed to purchasing $500 billion worth of American goods over the next five years. No official confirmation from the Indian Government yet.",
-      "link": "https://nitter.net/NetramDefence/status/2058427043352838326#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-24T11:27:05+05:30",
-      "time": "24 May, 11:27 AM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Marco Rubio Says India to Buy $500 Billion in U.S. Goods<br />\n<br />\nU.S. Secretary of State Marco Rubio said India has committed to purchasing $500 billion worth of American goods over the next five years. No official confirmation from the Indian Government yet.</p>\n<img src=\"https://nitter.net/pic/media%2FHJEAcExbMAACJgz.jpg\" />",
-      "author": "@NetramDefence"
     },
     {
       "title": "Retarded and ill-informed take like most of the time, just because something needs to be opposed!\n\nThe Japanese SF was in Florida for a joint training exercise with GROM and MARSOC Raiders for an assault and ship clearing exercises a week before SOF Week 26.\n\nWhen you go for a dedicated joint exercise, you carry kits with you because you get a dedicated aircraft. You can't fly coach with your tactical gear and weapons on most of the airlines from India.\n\nYou need a shit ton of paperwork, including 3 different ministries, just to do that in India.\n\nBut ground reality samjh aa jati to X pe bakwas na ruk jaati \ud83d\ude02",
@@ -1530,16 +1590,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "BREAKING: Iran has agreed in principle to surrender its highly enriched uranium stockpile as part of a broad, emerging peace framework spearheaded by the United States to resolve the ongoing West Asia conflict. This major diplomatic breakthrough, confirmed by U.S. officials, has the potential to unlock a wider deal aimed at halting regional hostilities, lifting naval blockades, and releasing billions in frozen assets.",
-      "link": "https://nitter.net/NetramDefence/status/2058398195865321535#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-24T09:32:27+05:30",
-      "time": "24 May, 09:32 AM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Iran has agreed in principle to surrender its highly enriched uranium stockpile as part of a broad, emerging peace framework spearheaded by the United States to resolve the ongoing West Asia conflict. This major diplomatic breakthrough, confirmed by U.S. officials, has the potential to unlock a wider deal aimed at halting regional hostilities, lifting naval blockades, and releasing billions in frozen assets.</p>\n<img src=\"https://nitter.net/pic/media%2FHJDmGTMakAARl3D.jpg\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>BREAKING: Peace deal with Iran has been \"largely negotiated\" and will include reopening Strait of Hormuz, Trump says</p>\n<img src=\"https://nitter.net/pic/media%2FHJDCKEabkAAvE78.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2058358540134445353#m\">https://nitter.net/NetramDefence/status/2058358540134445353#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "RT by @OsintTV: \"By the time you read this letter, I'll be watching over you from the skies...\"\n\nThese unforgettable words were written by Captain Vijyant Thapar (Vir Chakra) shortly before he led his assault team to capture the strategic Three Pimples position during the Battle of Tololing in the 1999 Kargil War.\n\nAt just 22 years old, Captain Thapar laid down his life for the nation with unmatched courage and honor. Even in his final moments, his thoughts reflected humanity and selflessness \u2014 from expressing his wish to donate his organs to ensuring continued support for a young Kashmiri girl, Ruksana, whom he had met during deployment.\nHis bravery, compassion, and sacrifice continue to inspire generations of Indians.\n\n\"Live life king size\" \u2014 a line that became immortal with him.",
       "link": "https://nitter.net/MikeLimaBravo12/status/2058391666491621822#m",
       "source": "Osint TV",
@@ -1558,16 +1608,6 @@
       "type": "tweets",
       "content": "<p>White House placed under lockdown after a gunman opened fire near a Secret Service checkpoint while President Trump was inside the complex. <br />\n<br />\nThe suspect, identified as 21-year-old Nasire Best of Maryland, was shot by Secret Service and later died; one bystander was injured.</p>\n<img src=\"https://nitter.net/pic/media%2FHJDZ1deaQAAojGi.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "BREAKING: Peace deal with Iran has been \"largely negotiated\" and will include reopening Strait of Hormuz, Trump says",
-      "link": "https://nitter.net/NetramDefence/status/2058358540134445353#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-24T06:54:53+05:30",
-      "time": "24 May, 06:54 AM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Peace deal with Iran has been \"largely negotiated\" and will include reopening Strait of Hormuz, Trump says</p>\n<img src=\"https://nitter.net/pic/media%2FHJDCKEabkAAvE78.jpg\" />",
-      "author": "@NetramDefence"
     },
     {
       "title": "The world order will not remain the same after the US Israel Iran conflict.\n\nBookmark this update....",
@@ -1620,16 +1660,6 @@
       "author": "@Drishti_K47"
     },
     {
-      "title": "Daily US-Israel-Iran War Brief:\n23rd May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf Iran\u2019s Mission to the UN stated that the NPT Review Conference has failed for the third consecutive time, blaming \u201cobstructionism by the US and its allies.\u201d\n\n\u25cf An MoU has been reached via Pakistani mediators that notably excludes the key issue of Iran\u2019s enriched uranium stockpile. Both sides are now awaiting a formal US response. Previous US positions have rejected frameworks that sideline the nuclear program.\n\n\u25cf GPS and navigation jamming has intensified across the GCC, with significant disruptions reported at Abu Dhabi\u2019s airport.\n\n\u25cf UKMTO reported that vessels are being approached by skiffs in the region. One large skiff with two outboard engines was observed carrying ladders and weapons.\n\n\u25cf The IRGC Navy\u2019s Public Relations Office announced that 25 vessels transited the Strait of Hormuz in the past 24 hours after obtaining authorization and coordinating with Iranian naval forces.\n\n\u25cf CENTCOM reached the milestone of redirecting 100 commercial vessels while enforcing a maritime blockade against Iran.\n\nEND OF THE BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2058219700149203301#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-23T21:43:11+05:30",
-      "time": "23 May, 09:43 PM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n23rd May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf Iran\u2019s Mission to the UN stated that the NPT Review Conference has failed for the third consecutive time, blaming \u201cobstructionism by the US and its allies.\u201d<br />\n<br />\n\u25cf An MoU has been reached via Pakistani mediators that notably excludes the key issue of Iran\u2019s enriched uranium stockpile. Both sides are now awaiting a formal US response. Previous US positions have rejected frameworks that sideline the nuclear program.<br />\n<br />\n\u25cf GPS and navigation jamming has intensified across the GCC, with significant disruptions reported at Abu Dhabi\u2019s airport.<br />\n<br />\n\u25cf UKMTO reported that vessels are being approached by skiffs in the region. One large skiff with two outboard engines was observed carrying ladders and weapons.<br />\n<br />\n\u25cf The IRGC Navy\u2019s Public Relations Office announced that 25 vessels transited the Strait of Hormuz in the past 24 hours after obtaining authorization and coordinating with Iranian naval forces.<br />\n<br />\n\u25cf CENTCOM reached the milestone of redirecting 100 commercial vessels while enforcing a maritime blockade against Iran.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJBD1NMbMAAEhmJ.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n22nd May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The Trump administration paused a $14 billion weapons sale to Taiwan to preserve U.S. munitions for the Iran war, according to Acting Navy Secretary Hung Cao.<br />\n<br />\n\u25cf The UAE joined Saudi Arabia and Qatar in urging President Trump to prioritize diplomacy with Iran rather than resuming military action.<br />\n<br />\n\u25cf Secretary of State Marco Rubio described Iran\u2019s maneuvers in vital trade corridors as a \u201cnon-negotiable hurdle\u201d in current diplomatic talks.<br />\n<br />\n\u25cf Pakistan\u2019s military leader, General Asim Munir, is en route to Iran as part of ongoing mediation <br />\nefforts between Washington and Tehran.<br />\n<br />\n\u25cf UKMTO reported that a tanker was approached by a small craft carrying five people 98 nm north of Socotra. The vessel\u2019s armed security team fired warning shots, causing the craft to alter course.<br />\n<br />\n\u25cf As of today, CENTCOM has redirected 97 commercial vessels and disabled 4 since the start of the blockade.<br />\n<br />\nEND OF BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHI8D6XaacAAsDNX.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2057867875709485473#m\">https://nitter.net/NetramDefence/status/2057867875709485473#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Raksha Mantri ji if you will set the target for 10 years, and keep everyone accountable then we will reach the goal in 15 years.\n\n25-30 years is lousy timeline sir.",
       "link": "https://nitter.net/elitepredatorss/status/2058216124962226489#m",
       "source": "Elite Predators",
@@ -1660,16 +1690,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Encounter underway in Rajouri, J&K.\n\nSecurity forces established contact with terrorists during an intelligence-based joint operation in the Gambhir Mughlan area of Rajouri.\n\nThe operation, involving Army, J&K Police, and CRPF, is ongoing under \u201cOp Sheruwali.\u201d A cordon has been laid and firefight continues.",
-      "link": "https://nitter.net/NetramDefence/status/2058179674854117439#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-23T19:04:08+05:30",
-      "time": "23 May, 07:04 PM",
-      "type": "tweets",
-      "content": "<p>Encounter underway in Rajouri, J&amp;K.<br />\n<br />\nSecurity forces established contact with terrorists during an intelligence-based joint operation in the Gambhir Mughlan area of Rajouri.<br />\n<br />\nThe operation, involving Army, J&amp;K Police, and CRPF, is ongoing under \u201cOp Sheruwali.\u201d A cordon has been laid and firefight continues.</p>\n<img src=\"https://nitter.net/pic/media%2FHJAfdgubcAAhuJo.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Two very different scenarios, that's why some interaction with SF is needed before commenting on such issues.\n\nEx-RIMPAC 2022, the Indian Navy sent INS Satpura and P8i Poseidon for the exercise. Let me know which aircraft the Indian military sent for the SOF week 2026\n\nIf you ever get on INS Satpura, request them to take you to the area where MARCOs usually stay because they are stationed on certain ships. A small force always carries its full equipment on these ships because they can be called anywhere at any time.",
       "link": "https://nitter.net/elitepredatorss/status/2058179339670413422#m",
       "source": "Elite Predators",
@@ -1688,16 +1708,6 @@
       "type": "tweets",
       "content": "<p>Video by NDTV <br />\n<br />\nWanted Pakistani Terrorists in the funeral ceremony of Hamza Burhan</p>\n<a href=\"https://nitter.net/DefenceSphere/status/2058178341019287964#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2058178237931642880%2Fpu%2Fimg%2Fn601sqqaQNweNLVX.jpg\" />\n</a>",
       "author": "@DefenceSphere"
-    },
-    {
-      "title": "RT by @NetramDefence: Assam Rifles, along with the Bomb Disposal Team, ED Dog Squad, and Moreh Police, conducted a joint operation near BP 72\u201373 in \n\nTengnoupal district, Manipur on 20 May 2026.\n\nThe IEDs were safely destroyed on-site, preventing a potential threat to civilians and security forces.",
-      "link": "https://nitter.net/KangleipakDaily/status/2058172566507008417#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-23T18:35:53+05:30",
-      "time": "23 May, 06:35 PM",
-      "type": "tweets",
-      "content": "<p>Assam Rifles, along with the Bomb Disposal Team, ED Dog Squad, and Moreh Police, conducted a joint operation near BP 72\u201373 in <br />\n<br />\nTengnoupal district, Manipur on 20 May 2026.<br />\n<br />\nThe IEDs were safely destroyed on-site, preventing a potential threat to civilians and security forces.</p>\n<img src=\"https://nitter.net/pic/media%2FHJAZB4KbwAAHepR.jpg\" />",
-      "author": "@KangleipakDaily"
     },
     {
       "title": "The operative covered the ear for couple of seconds due to a minigun firing just couple of feet away from his face and he will have to do a ship clearing op post landing.\n\nAur lo ji ban gaya mudda ! Fauj to ear protection nahi de rahi special forces ko !\n\nWho will tell the group was not carrying their kits to US.\n\nAnd if that basic thing can't be understood how you gonna make them understand that COMTACS in jungle warfare can get you killed.\n\nThings will escalate where doctrines will start getting discussed and in the end everything will boil down to you guys just want to import \ud83e\udd23",
@@ -1730,16 +1740,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Union Home Minister Amit Shah says the government will ensure \u201cno unnatural demographic changes\u201d in India by strengthening anti-infiltration measures and deporting illegal infiltrators.\n\nKey announcements:\n- \u201cSmart Border\u201d system with drones, radars & surveillance tech\n- High-powered demography mission to identify infiltration routes\n- Greater coordination between BSF, police & local administration\n- Focus on infiltration, drones, fake currency & hybrid threats",
-      "link": "https://nitter.net/NetramDefence/status/2058142395498398145#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-23T16:36:00+05:30",
-      "time": "23 May, 04:36 PM",
-      "type": "tweets",
-      "content": "<p>Union Home Minister Amit Shah says the government will ensure \u201cno unnatural demographic changes\u201d in India by strengthening anti-infiltration measures and deporting illegal infiltrators.<br />\n<br />\nKey announcements:<br />\n- \u201cSmart Border\u201d system with drones, radars & surveillance tech<br />\n- High-powered demography mission to identify infiltration routes<br />\n- Greater coordination between BSF, police & local administration<br />\n- Focus on infiltration, drones, fake currency & hybrid threats</p>\n<img src=\"https://nitter.net/pic/media%2FHI_9ly9aoAE6QGd.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Time to Look North, Not West.\n\nLet them exhaust borrowed money on imported hardware. Real defence strength is built through economic power, indigenous capability, infrastructure, and national development.\n\nThe day Bharat matches the economic scale of the giant to our North, the nuisance across our Western border becomes strategically irrelevant.\n\nEconomic dominance is the ultimate deterrence.",
       "link": "https://nitter.net/OsintTV/status/2058138195166937565#m",
       "source": "Osint TV",
@@ -1748,16 +1748,6 @@
       "type": "tweets",
       "content": "<p>Time to Look North, Not West.<br />\n<br />\nLet them exhaust borrowed money on imported hardware. Real defence strength is built through economic power, indigenous capability, infrastructure, and national development.<br />\n<br />\nThe day Bharat matches the economic scale of the giant to our North, the nuisance across our Western border becomes strategically irrelevant.<br />\n<br />\nEconomic dominance is the ultimate deterrence.</p>\n<hr />\n<blockquote>\n<b>WLVN (@TheLegateIN)</b>\n<p>\n<p>India considering purchase of Australian MQ-28 Ghost Bat UCAVs in case Turkey proceeds with sale of Kizilema UAVs to Pakistan.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/TheLegateIN/status/2058133065524982137#m\">https://nitter.net/TheLegateIN/status/2058133065524982137#m</a>\n</footer>\n</blockquote>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "And just like holywood, the aliens are visiting only US !",
-      "link": "https://nitter.net/elitepredatorss/status/2058108944607007230#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-23T14:23:04+05:30",
-      "time": "23 May, 02:23 PM",
-      "type": "tweets",
-      "content": "<p>And just like holywood, the aliens are visiting only US !</p>\n<img src=\"https://nitter.net/pic/media%2FHI_fLZobAAEBeHw.jpg\" />",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -1835,6 +1825,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
