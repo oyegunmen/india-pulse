@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "IAF introduces GATE-based scheme for officer recruitment, bypasses AFCAT exam",
+      "link": "https://economictimes.indiatimes.com/news/defence/iaf-introduces-gate-based-scheme-for-officer-recruitment-bypasses-afcat-exam/articleshow/131329994.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-26T18:23:42+05:30",
+      "time": "26 May, 06:23 PM",
+      "type": "news",
+      "description": "IAF is now accepting GATE scores for induction into its Technical Branch under a new officers\u2019 entry scheme. Eligible candidates with valid GATE score..."
+    },
+    {
       "title": "Quad Focuses on Maritime Security, Energy and Supply Chains",
       "link": "https://www.indiastrategic.in/quad-focuses-on-maritime-security-energy-and-supply-chains/",
       "source": "India Strategic",
@@ -134,15 +143,6 @@
       "time": "26 May, 01:13 PM",
       "type": "news",
       "description": "India and the US on Tuesday firmed up a key framework for cooperation in ensuring steady supplies of critical minerals, a move that comes amid growing..."
-    },
-    {
-      "title": "Quad unveils critical minerals, energy initiatives; flags China\u2019s maritime actions",
-      "link": "https://www.newindianexpress.com/india/2026/May/26/quad-unveils-critical-minerals-energy-initiatives-flags-chinas-maritime-actions",
-      "source": "New Indian Express",
-      "sort_key": "2026-05-26T12:57:41+05:30",
-      "time": "26 May, 12:57 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Khamenei raises stakes in Iran's war vs US; says America 'no longer' has safe haven in Mideast",
@@ -692,29 +692,81 @@
       "time": "24 May, 09:02 PM",
       "type": "news",
       "description": "<p>Bengaluru, May 24. Hindustan Aeronautics Limited (HAL) has confirmed that the India) basic trainer aircraft in the financial year 2027, marking a m..."
-    },
-    {
-      "title": "Netanyahu told Trump Israel will remain free to act against threats, Israeli source says",
-      "link": "https://economictimes.indiatimes.com/news/defence/netanyahu-told-trump-israel-will-remain-free-to-act-against-threats-israeli-source-says/articleshow/131293144.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-24T18:55:42+05:30",
-      "time": "24 May, 06:55 PM",
-      "type": "news",
-      "description": "Israeli Prime Minister Benjamin Netanyahu informed U.S. President Donald Trump that Israel will retain freedom to act against threats in Lebanon durin..."
-    },
-    {
-      "title": "Apache vs Prachand: Why India operates both attack helicopters and how they differ",
-      "link": "https://economictimes.indiatimes.com/news/defence/apache-vs-prachand-why-india-operates-both-attack-helicopters-and-how-they-differ/articleshow/131292786.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-24T18:25:57+05:30",
-      "time": "24 May, 06:25 PM",
-      "type": "news",
-      "description": "India is acquiring support for Boeing AH-64E Apache attack helicopters. This acquisition renews discussions on India's use of foreign and indigenous p..."
     }
   ],
   "tweets": [
     {
-      "title": "Two legendary tweets that will remain in Pakistan\u2019s history forever.....",
+      "title": "Where is the video proof? : Anchor...\ud83e\udd14\n\n\u200b\"We shot down 8 Indian jets, but our policy is not to show any video proof.\" : PAF Air Cmd (R) Khalid Chishti ...\ud83d\ude02\ud83d\ude2d\n\n\u200bThe awkward laugh from the uncle says it all.\n\n\u200bKuch proof rahega toh share karenge na ...\ud83d\ude1d",
+      "link": "https://nitter.net/OsintTV/status/2059269102544335029#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-26T19:13:08+05:30",
+      "time": "26 May, 07:13 PM",
+      "type": "tweets",
+      "content": "<p>Where is the video proof? : Anchor...\ud83e\udd14<br />\n<br />\n\u200b\"We shot down 8 Indian jets, but our policy is not to show any video proof.\" : PAF Air Cmd (R) Khalid Chishti ...\ud83d\ude02\ud83d\ude2d<br />\n<br />\n\u200bThe awkward laugh from the uncle says it all.<br />\n<br />\n\u200bKuch proof rahega toh share karenge na ...\ud83d\ude1d</p>\n<a href=\"https://nitter.net/OsintTV/status/2059269102544335029#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2059261356952440832%2Fimg%2FkKxKw7FUoEpjqsdc.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Japan Foreign minister Toshimitsu Motegi calls on PM Modi in Delhi",
+      "link": "https://nitter.net/sidhant/status/2059264305435177310#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-26T18:54:04+05:30",
+      "time": "26 May, 06:54 PM",
+      "type": "tweets",
+      "content": "<p>Japan Foreign minister Toshimitsu Motegi calls on PM Modi in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJP57QmaAAAz9N0.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Australian foreign minister Penny Wong calls on PM Modi in Delhi",
+      "link": "https://nitter.net/sidhant/status/2059264181405454717#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-26T18:53:34+05:30",
+      "time": "26 May, 06:53 PM",
+      "type": "tweets",
+      "content": "<p>Australian foreign minister Penny Wong calls on PM Modi in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJP50dMaoAAj3To.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Quad foreign ministers \nFamily foto\nMay 2026\nNew Delhi",
+      "link": "https://nitter.net/sidhant/status/2059260877371760648#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-26T18:40:27+05:30",
+      "time": "26 May, 06:40 PM",
+      "type": "tweets",
+      "content": "<p>Quad foreign ministers <br />\nFamily foto<br />\nMay 2026<br />\nNew Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJP22s7bYAAxQQ4.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Zen Technologies Limited is the L1 bidder for an \u20b985.21 crore RCWS program for Armoured Recovery Vehicles(#ARV) under Armoured Vehicles Nigam Limited.",
+      "link": "https://nitter.net/DefenceDecode/status/2059260806462882086#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-05-26T18:40:10+05:30",
+      "time": "26 May, 06:40 PM",
+      "type": "tweets",
+      "content": "<p>Zen Technologies Limited is the L1 bidder for an \u20b985.21 crore RCWS program for Armoured Recovery Vehicles(<a href=\"https://nitter.net/search?f=tweets&amp;q=%23ARV\">#ARV</a>) under Armoured Vehicles Nigam Limited.</p>\n<img src=\"https://nitter.net/pic/media%2FHJP2t3haIAA_N1I.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "Japan foreign minister Toshimitsu Motegi tries some filter coffee & gulab Jamun before he leaves India.",
+      "link": "https://nitter.net/sidhant/status/2059257934304178559#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-26T18:28:45+05:30",
+      "time": "26 May, 06:28 PM",
+      "type": "tweets",
+      "content": "<p>Japan foreign minister Toshimitsu Motegi tries some filter coffee &amp; gulab Jamun before he leaves India.</p>\n<a href=\"https://nitter.net/sidhant/status/2059257934304178559#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2059236027156615168%2Fimg%2FnlY2CArHm2i6Opp8.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @OsintTV: \u092c\u0940\u0915\u093e\u0928\u0947\u0930 \u092e\u0947\u0902 \u0905\u092e\u093f\u0924 \u0936\u093e\u0939 \u0915\u0940 \u0939\u093e\u0908-\u0932\u0947\u0935\u0932 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u092c\u0948\u0920\u0915 \u0938\u0902\u092a\u0928\u094d\u0928, \u0938\u0940\u092e\u093e \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0938\u0947 \u0932\u0947\u0915\u0930 \u0906\u0924\u0902\u0915\u0935\u093e\u0926, \u0928\u093e\u0930\u094d\u0915\u094b\u091f\u093f\u0915\u094d\u0938 \u0914\u0930 \u0916\u0941\u092b\u093f\u092f\u093e \u0938\u092e\u0928\u094d\u0935\u092f \u092a\u0930 \u092e\u0902\u0925\u0928; BSF \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u092e\u0947\u0902 \u0926\u0947\u0936 \u0915\u0940 \u0936\u0940\u0930\u094d\u0937 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u093e\u0925 \u091a\u0932\u0940 \u092e\u0948\u0930\u093e\u0925\u0928 \u0930\u0923\u0928\u0940\u0924\u093f\u0915 \u092c\u0948\u0920\u0915 \u0915\u0947 \u092c\u093e\u0926 \u0926\u093f\u0932\u094d\u0932\u0940 \u0930\u0935\u093e\u0928\u093e \u0939\u0941\u090f \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0917\u0943\u0939\u092e\u0902\u0924\u094d\u0930\u0940\n\nUnion Home Minister Amit Shah concluded a high-level strategic security review meeting at the BSF Headquarters in Bikaner, Rajasthan, bringing together India\u2019s top security, intelligence, border management, and administrative leadership. The closed-door meeting witnessed the presence of BSF Director General Praveen Kumar, Union Home Secretary Govind Mohan, Intelligence Bureau Director Tapan Kumar Deka, NCB Director IPS Anurag Garg, IG BSF Rajasthan Frontier M. L. Garg, DIG BSF Ajay Luthra, Rajasthan DGP Rajeev Sharma and Chief Secretary V. Srinivas among several senior officials.\n\nThe marathon security deliberations reportedly focused on border security preparedness, anti-infiltration measures, counter-terror coordination, narcotics trafficking routes, intelligence sharing mechanisms, and administrative preparedness across Rajasthan\u2019s border districts. Senior district collectors, divisional commissioners, SPs from multiple border districts, and top anti-crime officials also attended the strategic review.\n\nFollowing the meeting, Amit Shah departed from the BSF Headquarters to Nal Air Force Station before leaving for Delhi via a special aircraft. Rajasthan Chief Minister Bhajan Lal Sharma is also scheduled to depart from Nal Airport. The visit is being seen as a major signal of the Centre\u2019s heightened focus on western border security, internal intelligence coordination, and anti-terror preparedness in the desert sector.\n\n#AmitShah #Bikaner #BSF #BorderSecurity #Rajasthan #IndiaSecurity #NationalSecurity #IntelligenceBureau #IB #NCB #PraveenKumar #GovindMohan #TapanDeka #AnuragGarg #BhajanLalSharma #IndianSecurity #CounterTerrorism #BorderManagement #PakistanBorder #RajasthanFrontier #DefenceJournalistSahil #TINNetwork",
+      "link": "https://nitter.net/DefenceSahil/status/2059257398368604170#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-26T18:26:37+05:30",
+      "time": "26 May, 06:26 PM",
+      "type": "tweets",
+      "content": "<p>\u092c\u0940\u0915\u093e\u0928\u0947\u0930 \u092e\u0947\u0902 \u0905\u092e\u093f\u0924 \u0936\u093e\u0939 \u0915\u0940 \u0939\u093e\u0908-\u0932\u0947\u0935\u0932 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u092c\u0948\u0920\u0915 \u0938\u0902\u092a\u0928\u094d\u0928, \u0938\u0940\u092e\u093e \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0938\u0947 \u0932\u0947\u0915\u0930 \u0906\u0924\u0902\u0915\u0935\u093e\u0926, \u0928\u093e\u0930\u094d\u0915\u094b\u091f\u093f\u0915\u094d\u0938 \u0914\u0930 \u0916\u0941\u092b\u093f\u092f\u093e \u0938\u092e\u0928\u094d\u0935\u092f \u092a\u0930 \u092e\u0902\u0925\u0928; BSF \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u092e\u0947\u0902 \u0926\u0947\u0936 \u0915\u0940 \u0936\u0940\u0930\u094d\u0937 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0915\u0947 \u0938\u093e\u0925 \u091a\u0932\u0940 \u092e\u0948\u0930\u093e\u0925\u0928 \u0930\u0923\u0928\u0940\u0924\u093f\u0915 \u092c\u0948\u0920\u0915 \u0915\u0947 \u092c\u093e\u0926 \u0926\u093f\u0932\u094d\u0932\u0940 \u0930\u0935\u093e\u0928\u093e \u0939\u0941\u090f \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0917\u0943\u0939\u092e\u0902\u0924\u094d\u0930\u0940<br />\n<br />\nUnion Home Minister Amit Shah concluded a high-level strategic security review meeting at the BSF Headquarters in Bikaner, Rajasthan, bringing together India\u2019s top security, intelligence, border management, and administrative leadership. The closed-door meeting witnessed the presence of BSF Director General Praveen Kumar, Union Home Secretary Govind Mohan, Intelligence Bureau Director Tapan Kumar Deka, NCB Director IPS Anurag Garg, IG BSF Rajasthan Frontier M. L. Garg, DIG BSF Ajay Luthra, Rajasthan DGP Rajeev Sharma and Chief Secretary V. Srinivas among several senior officials.<br />\n<br />\nThe marathon security deliberations reportedly focused on border security preparedness, anti-infiltration measures, counter-terror coordination, narcotics trafficking routes, intelligence sharing mechanisms, and administrative preparedness across Rajasthan\u2019s border districts. Senior district collectors, divisional commissioners, SPs from multiple border districts, and top anti-crime officials also attended the strategic review.<br />\n<br />\nFollowing the meeting, Amit Shah departed from the BSF Headquarters to Nal Air Force Station before leaving for Delhi via a special aircraft. Rajasthan Chief Minister Bhajan Lal Sharma is also scheduled to depart from Nal Airport. The visit is being seen as a major signal of the Centre\u2019s heightened focus on western border security, internal intelligence coordination, and anti-terror preparedness in the desert sector.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23AmitShah\">#AmitShah</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Bikaner\">#Bikaner</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BSF\">#BSF</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BorderSecurity\">#BorderSecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rajasthan\">#Rajasthan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaSecurity\">#IndiaSecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NationalSecurity\">#NationalSecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IntelligenceBureau\">#IntelligenceBureau</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IB\">#IB</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NCB\">#NCB</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PraveenKumar\">#PraveenKumar</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GovindMohan\">#GovindMohan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TapanDeka\">#TapanDeka</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AnuragGarg\">#AnuragGarg</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BhajanLalSharma\">#BhajanLalSharma</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianSecurity\">#IndianSecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CounterTerrorism\">#CounterTerrorism</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BorderManagement\">#BorderManagement</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanBorder\">#PakistanBorder</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RajasthanFrontier\">#RajasthanFrontier</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceJournalistSahil\">#DefenceJournalistSahil</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TINNetwork\">#TINNetwork</a></p>\n<a href=\"https://nitter.net/DefenceSahil/status/2059257398368604170#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2059256783101972480%2Fimg%2FlNwW5HSB7hDSAm7g.jpg\" />\n</a>",
+      "author": "@DefenceSahil"
+    },
+    {
+      "title": "RT by @OsintTV: Two legendary tweets that will remain in Pakistan\u2019s history forever.....",
       "link": "https://nitter.net/OsintTV/status/2059241083528155575#m",
       "source": "Osint TV",
       "sort_key": "2026-05-26T17:21:47+05:30",
@@ -1014,26 +1066,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @sidhant: Quad foreign ministers' meet in Delhi\n\nRubio announces Quad initiatives \n\nIndo-Pacific stability dominates Quad discussions\n\n@kripatistic and @sidhant have more",
-      "link": "https://nitter.net/WIONews/status/2059187623131025727#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-26T13:49:21+05:30",
-      "time": "26 May, 01:49 PM",
-      "type": "tweets",
-      "content": "<p>Quad foreign ministers' meet in Delhi<br />\n<br />\nRubio announces Quad initiatives <br />\n<br />\nIndo-Pacific stability dominates Quad discussions<br />\n<br />\n<a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2059187623131025727#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2059181637041332224%2Fimg%2FJz2IX3uGiVxSxNWh.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
-      "title": "RT by @sidhant: Global powers unite for Quad meeting \n\nIndia-Australia-Japan-US Quad Ministers meeting in New Delhi\n\n@sidhant shares more details",
-      "link": "https://nitter.net/WIONews/status/2059185427421286861#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-26T13:40:38+05:30",
-      "time": "26 May, 01:40 PM",
-      "type": "tweets",
-      "content": "<p>Global powers unite for Quad meeting <br />\n<br />\nIndia-Australia-Japan-US Quad Ministers meeting in New Delhi<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> shares more details</p>\n<a href=\"https://nitter.net/WIONews/status/2059185427421286861#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2059182436672741376%2Fimg%2FtjTicdVnWm7BzrQ9.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
       "title": "RT by @NetramDefence: \ud83e\uddf5THREAD\n\nFrom Manipur to the early Universe: Discovery of the Loktak Protocluster\n\nManipur\u2019s astrophysicist Ronaldo Laishram and team led the discovery of a massive protocluster in the early Universe, naming it Loktak Protocluster.\n\n@ronaldolaishram @govt_of_manipur",
       "link": "https://nitter.net/MN_Unfiltered/status/2059182078843834490#m",
       "source": "Netram Defense",
@@ -1042,26 +1074,6 @@
       "type": "tweets",
       "content": "<p>\ud83e\uddf5THREAD<br />\n<br />\nFrom Manipur to the early Universe: Discovery of the Loktak Protocluster<br />\n<br />\nManipur\u2019s astrophysicist Ronaldo Laishram and team led the discovery of a massive protocluster in the early Universe, naming it Loktak Protocluster.<br />\n<br />\n<a href=\"https://nitter.net/ronaldolaishram\" title=\"Ronaldo Laishram\">@ronaldolaishram</a> <a href=\"https://nitter.net/govt_of_manipur\" title=\"Government of Manipur\">@govt_of_manipur</a></p>\n<img src=\"https://nitter.net/pic/media%2FHJOqc3-WwAAeqcs.png\" />",
       "author": "@MN_Unfiltered"
-    },
-    {
-      "title": "Iran's Ayatollah Seyyed Mojtaba Khamenei: Clock cannot be turned back, West Asia will no longer shield US",
-      "link": "https://nitter.net/sidhant/status/2059177405345108055#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-26T13:08:45+05:30",
-      "time": "26 May, 01:08 PM",
-      "type": "tweets",
-      "content": "<p>Iran's Ayatollah Seyyed Mojtaba Khamenei: Clock cannot be turned back, West Asia will no longer shield US</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Pakistani side will provide safety to Chinese personnel, projects in Pakistan: Pakistan, China joint statement",
-      "link": "https://nitter.net/sidhant/status/2059176428017770843#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-26T13:04:52+05:30",
-      "time": "26 May, 01:04 PM",
-      "type": "tweets",
-      "content": "<p>Pakistani side will provide safety to Chinese personnel, projects in Pakistan: Pakistan, China joint statement</p>\n<img src=\"https://nitter.net/pic/media%2FHJOqC7sagAIt0wn.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Marco Rubio lands in Delhi for QUAD talks...\n\nHis arrival strictly followed standard institutional protocol, without any of the political theatrics or over-hospitality like our paijaans do.",
@@ -1090,7 +1102,7 @@
       "sort_key": "2026-05-26T12:20:08+05:30",
       "time": "26 May, 12:20 PM",
       "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n...\ud83d\ude4f...</p>\n<img src=\"https://nitter.net/pic/card_img%2F2057316551947419648%2F5gERXrVa%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n...\ud83d\ude4f...</p>",
       "author": "@OsintTV"
     },
     {
@@ -1160,7 +1172,7 @@
       "sort_key": "2026-05-26T11:20:12+05:30",
       "time": "26 May, 11:20 AM",
       "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n.... ..\ud83d\ude4f</p>\n<img src=\"https://nitter.net/pic/card_img%2F2057316551947419648%2F5gERXrVa%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n.... ..\ud83d\ude4f</p>",
       "author": "@OsintTV"
     },
     {
@@ -1170,7 +1182,7 @@
       "sort_key": "2026-05-26T11:19:52+05:30",
       "time": "26 May, 11:19 AM",
       "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n.... .....</p>\n<img src=\"https://nitter.net/pic/card_img%2F2057316551947419648%2F5gERXrVa%3Fformat%3Djpg%26name%3D420x420_2\" />",
+      "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n.... .....</p>",
       "author": "@OsintTV"
     },
     {
@@ -1202,6 +1214,16 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 As I pointed out yesterday, another Pakistani national has been seen filming near the sensitive India Bangladesh border in the name of vlogging.<br />\n<br />\nEarlier, some creators falsely projected Nepal as UP, India. Now, many Pakistani nationals are reportedly making videos near sensitive border zones and uploading them on social media.<br />\n<br />\nThere is nothing wrong with legal tourism. But repeated filming near strategic areas, misleading location claims, and unusual border focused content raise serious security concerns.<br />\n<br />\nWhat looks like a casual vlog can also be used to study terrain, movement, and security patterns. India must take this seriously and raise the issue with Bangladesh and Nepal immediately.<br />\n<br />\nVideo credit to the respective owners</p>\n<a href=\"https://nitter.net/OsintTV/status/2059142079305961615#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2059141711327010816%2Fimg%2FrBTZygsTdyQdfBBx.jpg\" />\n</a>",
       "author": "@OsintTV"
+    },
+    {
+      "title": "A game of cat and mouse !\n\nPatience gentlemen, patience.",
+      "link": "https://nitter.net/elitepredatorss/status/2059134498974117922#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-26T10:18:16+05:30",
+      "time": "26 May, 10:18 AM",
+      "type": "tweets",
+      "content": "<p>A game of cat and mouse !<br />\n<br />\nPatience gentlemen, patience.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Initial inputs gives a positive picture, seems like solid intel.  We will probably 72'd 2 pigs here!</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2058098546818343077#m\">https://nitter.net/elitepredatorss/status/2058098546818343077#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
     },
     {
       "title": "Dori Maal forest , Gambhir Mughalan Rajouri encounter \n\nFresh gunshots & explosions were heard in the early morning.",
@@ -1242,6 +1264,26 @@
       "type": "tweets",
       "content": "<p>Following the price increases in petrol and diesel, the cost of Compressed Natural Gas (CNG) has also risen. The price of CNG has been increased by Rs 2 per kilogram.</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Diesel rose by Rs. 2.71/litre to Rs. 95.20 in Delhi; petrol rose by Rs. 2.61/litre to Rs. 102.12.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2058731932930945296#m\">https://nitter.net/Goreunit/status/2058731932930945296#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
+    },
+    {
+      "title": "So after decades of \u201cDe*th to Israel\u201d speeches, Pakistan might end up joining the same table through the Abraham Accords.",
+      "link": "https://nitter.net/elitepredatorss/status/2059087032379675073#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-26T07:09:39+05:30",
+      "time": "26 May, 07:09 AM",
+      "type": "tweets",
+      "content": "<p>So after decades of \u201cDe*th to Israel\u201d speeches, Pakistan might end up joining the same table through the Abraham Accords.</p>\n<img src=\"https://nitter.net/pic/media%2FHJNYZkXbcAAlhK5.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Chinese businessmen were assaulted, tied up, and robbed at gunpoint during a late-night attack at a guesthouse in Islamabad\u2019s F-7/4 sector.",
+      "link": "https://nitter.net/elitepredatorss/status/2059078910089072943#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-26T06:37:22+05:30",
+      "time": "26 May, 06:37 AM",
+      "type": "tweets",
+      "content": "<p>Chinese businessmen were assaulted, tied up, and robbed at gunpoint during a late-night attack at a guesthouse in Islamabad\u2019s F-7/4 sector.</p>\n<img src=\"https://nitter.net/pic/media%2FHJNRTIFbYAA74c5.jpg\" />",
+      "author": "@elitepredatorss"
     },
     {
       "title": "RT by @OsintTV: Khawaja Asif cracked another joke on live TV .  \ud83d\ude02 \ud83d\udc47\n\n\u201cPakistan\u2019s foreign policy is sovereign, and no one can dictate Pakistan to join the Abraham Accords.\u201d \n\nPakistan do not recognize Israel but they Recognize Osama Bin Laden and Masood Azhar as their father . \n\n#pakistanterroristnation",
@@ -1294,16 +1336,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @OsintTV: Qudrat ka nizaam....",
-      "link": "https://nitter.net/Goreunit/status/2058977223521243173#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-25T23:53:18+05:30",
-      "time": "25 May, 11:53 PM",
-      "type": "tweets",
-      "content": "<p>Qudrat ka nizaam....</p>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "Stay Tuned :)",
       "link": "https://nitter.net/alpha_defense/status/2058976620481011905#m",
       "source": "Alpha Defense",
@@ -1334,14 +1366,14 @@
       "author": "@shivank_8mishra"
     },
     {
-      "title": "RT by @OsintTV: From the Gulmarg Gondola, all stranded tourists were safely rescued by these brave heroes of the nation personnel from the High Altitude Warfare School,#IndianArmy, and SDRF of @KashmirPolice teams. This is the most powerful image of the entire rescue operation and reflects the nation\u2019s unwavering trust in its bravehearts. In total, 310 tourists were rescued safely. \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/manishindiatv/status/2058961663592997071#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-25T22:51:28+05:30",
-      "time": "25 May, 10:51 PM",
+      "title": "Padma Shri is going to alot of people lately, well deserved Nuwal sir.",
+      "link": "https://nitter.net/elitepredatorss/status/2058961860372939013#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-05-25T22:52:15+05:30",
+      "time": "25 May, 10:52 PM",
       "type": "tweets",
-      "content": "<p>From the Gulmarg Gondola, all stranded tourists were safely rescued by these brave heroes of the nation personnel from the High Altitude Warfare School,<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a>, and SDRF of <a href=\"https://nitter.net/KashmirPolice\" title=\"Kashmir Zone Police\">@KashmirPolice</a> teams. This is the most powerful image of the entire rescue operation and reflects the nation\u2019s unwavering trust in its bravehearts. In total, 310 tourists were rescued safely. \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/manishindiatv/status/2058961663592997071#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058961593749401600%2Fimg%2FxtKsrpgVtrHOQwXG.jpg\" />\n</a>",
-      "author": "@manishindiatv"
+      "content": "<p>Padma Shri is going to alot of people lately, well deserved Nuwal sir.</p>\n<hr />\n<blockquote>\n<b>ANI (@ANI)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WATCH\">#WATCH</a> | Solar Group Chairman Satyanarayan Nuwal receives Padma Shri award from President Droupadi Murmu for his contribution to India's defence manufacturing ecosystem</p>\n<a href=\"https://nitter.net/ANI/status/2058883779910160578#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058883319438397440%2Fimg%2Fc_4uJwaU3LTP9eaD.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ANI/status/2058883779910160578#m\">https://nitter.net/ANI/status/2058883779910160578#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
     },
     {
       "title": "Daily US-Israel-Iran War Brief:\n25th May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf Iranian negotiators are demanding immediate access to $12 billion in frozen Qatari assets as a non-negotiable precondition for any further talks with the United States.\n\n\u25cf The Qatari tanker AL RAYYAN successfully exited the Strait of Hormuz en route to China after loading at Ras Laffan. A second vessel, FUWAIRIT, is also currently transiting the strait heading to Pakistan.\n\n\u25cf Iran\u2019s FM announced plans to impose an \u201cenvironmental tax\u201d on vessels transiting the Strait of Hormuz, Persian Gulf, and Sea of Oman, explicitly rejecting the term \u201ctoll.\u201d\n\n\u25cf The VLCC IDEMITSU MARU docked at a pier off Chita City, Japan, carrying approximately 2 million barrels of Saudi crude - one month after successfully passing through the Strait of Hormuz.\n\n\u25cf A senior US administration official confirmed that an emerging proposal includes a 60-day ceasefire extension to allow complete de-mining and formal reopening of the Strait of Hormuz. However, the White House stressed that no formal agreement has been signed yet.\n\nEND OF THE BRIEF",
@@ -1360,8 +1392,18 @@
       "sort_key": "2026-05-25T22:13:05+05:30",
       "time": "25 May, 10:13 PM",
       "type": "tweets",
-      "content": "<p>That's some good research and analysis right there !</p>\n<img src=\"https://nitter.net/pic/media%2FHJLd7sMbsAMTJmb.jpg\" />",
+      "content": "<p>That's some good research and analysis right there !</p>\n<img src=\"https://nitter.net/pic/media%2FHJLd7sMbsAMTJmb.jpg\" />\n\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>Ghar mein ghus kar maarenge.....</p>\n<a href=\"https://nitter.net/OsintTV/status/2058934153660285298#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058934031006273536%2Fimg%2F3ODRXpp0rkPZJQv-.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2058934153660285298#m\">https://nitter.net/OsintTV/status/2058934153660285298#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @OsintTV: Ghar mein ghus kar maarenge.....",
+      "link": "https://nitter.net/OsintTV/status/2058934153660285298#m",
+      "source": "Osint TV",
+      "sort_key": "2026-05-25T21:02:10+05:30",
+      "time": "25 May, 09:02 PM",
+      "type": "tweets",
+      "content": "<p>Ghar mein ghus kar maarenge.....</p>\n<a href=\"https://nitter.net/OsintTV/status/2058934153660285298#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058934031006273536%2Fimg%2F3ODRXpp0rkPZJQv-.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "Thai law enforcement officers adopted disguises as female dancers to apprehend a notorious drug trafficker.",
@@ -1700,18 +1742,8 @@
       "sort_key": "2026-05-24T19:49:05+05:30",
       "time": "24 May, 07:49 PM",
       "type": "tweets",
-      "content": "<p>Loved the new furniture, adding picatinny rail on top and ARCA at bottom actually complete this sniper.<br />\n<br />\nSuperb job and thanks for adding mic this time. The audio quality is very decent \ud83d\udcaf</p>\n<hr />\n<blockquote>\n<b> (@)</b>\n<p>\n<p>Been 9 years since the <a href=\"https://nitter.net/sssdefence\" title=\"SSS Defence\">@sssdefence</a> Viper was born. It\u2019ll finally go into service with 2 amazing police forces in less than a month. <br />\nThis is what rebirth looks like. An entire generation of young weapon designers &amp; engineers gave it new essence. I love the new spirit, it\u2019s</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/i/status/2058545023566983530#m\">https://nitter.net/i/status/2058545023566983530#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Loved the new furniture, adding picatinny rail on top and ARCA at bottom actually complete this sniper.<br />\n<br />\nSuperb job and thanks for adding mic this time. The audio quality is very decent \ud83d\udcaf</p>\n<hr />\n<blockquote>\n<b>Vivek Krishnan (@Viv_Krishnan)</b>\n<p>\n<p>Been 9 years since the <a href=\"https://nitter.net/sssdefence\" title=\"SSS Defence\">@sssdefence</a> Viper was born. It\u2019ll finally go into service with 2 amazing police forces in less than a month. <br />\nThis is what rebirth looks like. An entire generation of young weapon designers & engineers gave it new essence. I love the new spirit, it\u2019s infectious. This is not India that apologises, explains or asks permission. It\u2019s unabashedly, unapologetically, unmistakably BHARAT. <br />\nAnd we will not change the weapon\u2019s name. It will forever be the Viper. A sticker is not soul. The honesty - knowing what is yours & what is not is wisdom that the Bhagwad Gita teaches. Some missed that chapter. I pray everyday that we have memory of our origin <a href=\"https://nitter.net/AlishaMachani\" title=\"Alisha Machani\">@AlishaMachani</a> <a href=\"https://nitter.net/machani_satish\" title=\"Machani Satish\">@machani_satish</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Viv_Krishnan/status/2058545023566983530#m\">https://nitter.net/Viv_Krishnan/status/2058545023566983530#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "USA is worried about internal matters of other countries while their own civilians aren't safe.",
-      "link": "https://nitter.net/Goreunit/status/2058532212077998379#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-24T18:24:59+05:30",
-      "time": "24 May, 06:24 PM",
-      "type": "tweets",
-      "content": "<p>USA is worried about internal matters of other countries while their own civilians aren't safe.</p>\n<hr />\n<blockquote>\n<b>News.Az (@news_az)</b>\n<p>\n<p>BREAKING: \ud83d\udea8\ud83c\uddfa\ud83c\uddf8 Shooting near White House triggers lockdown <br />\n<br />\nThe White House was briefly placed on lockdown after a man opened fire near a Secret Service checkpoint, U.S. media report. <br />\n<br />\nThe suspect was neutralized by law enforcement. <br />\n<br />\nPresident Donald Trump was inside the White House at the time but was not harmed.</p>\n<a href=\"https://nitter.net/news_az/status/2058444855182049480#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058444595751788545%2Fimg%2Fm1xkf1Rqf_zURzU6.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/news_az/status/2058444855182049480#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058444595743318016%2Fimg%2Fhw5nJfvwfRarpzAT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/news_az/status/2058444855182049480#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058444595739140096%2Fimg%2FyJfnLnNK5HooL7_o.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHJEQdOibsAEi196.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/news_az/status/2058444855182049480#m\">https://nitter.net/news_az/status/2058444855182049480#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1777,18 +1809,9 @@
       "time": "24 May, 09:38 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/r9eaXvnD5W0/mqdefault.jpg"
-    },
-    {
-      "title": "Large Indian Ballistic Missile for Pak",
-      "link": "https://www.youtube.com/watch?v=ypALw5CIysE",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-05-24T19:14:11+05:30",
-      "time": "24 May, 07:14 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/ypALw5CIysE/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
