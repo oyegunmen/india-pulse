@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Trump appears to threaten to 'blow up' ally Oman",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-appears-to-threaten-to-blow-up-ally-oman/articleshow/131361198.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-28T06:07:26+05:30",
+      "time": "28 May, 06:07 AM",
+      "type": "news",
+      "description": "President Trump issued a stark warning to Oman, threatening to \"blow them up\" if the US ally does not \"behave\" and allow free passage through the Stra..."
+    },
+    {
+      "title": "US carries out new strikes in Iran against military site, official says",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-carries-out-new-strikes-in-iran-against-military-site-official-says/articleshow/131361183.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-28T06:02:13+05:30",
+      "time": "28 May, 06:02 AM",
+      "type": "news",
+      "description": "Overnight, the U.S. military launched new strikes in Iran targeting a military site deemed a threat to American forces and maritime traffic in the Str..."
+    },
+    {
       "title": "Modern world can\u2019t run on 1945 power structure, India tells UN",
       "link": "https://www.tribuneindia.com/news/india/un-losing-credibility-effectiveness-reforms-must-india-to-unsc",
       "source": "The Tribune",
@@ -764,15 +782,6 @@
       "time": "26 May, 06:31 AM",
       "type": "news",
       "description": "The development comes hours after the US made progress in ceasefire negotiations"
-    },
-    {
-      "title": "US military says it carried out 'self-defense' strikes on Iran, including on missile launch sites",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-carried-out-self-defense-strikes-on-iran-including-on-missile-launch-sites/articleshow/131319700.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-26T06:05:43+05:30",
-      "time": "26 May, 06:05 AM",
-      "type": "news",
-      "description": "US forces launched strikes in southern Iran targeting missile sites and boats. This action was taken in self-defense to protect troops. Meanwhile, Pre..."
     }
   ],
   "tweets": [
@@ -1767,27 +1776,8 @@
       "author": "@elitepredatorss"
     }
   ],
-  "youtube": [
-    {
-      "title": "Indian Defence Updates : Oreshnik For India,60 Su-57 Order,AMCA Big Delay,Scorpion Armed UGV",
-      "link": "https://www.youtube.com/watch?v=HR0Lj45LjZU",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-27T16:52:52+05:30",
-      "time": "27 May, 04:52 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/HR0Lj45LjZU/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : Ghatak UCAV Test Centre,6th S-400 Squadron Order,Su-30MKI Decoy,PAK 40 J-35",
-      "link": "https://www.youtube.com/watch?v=53pZWs3B0R8",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-05-26T17:20:33+05:30",
-      "time": "26 May, 05:20 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/53pZWs3B0R8/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
