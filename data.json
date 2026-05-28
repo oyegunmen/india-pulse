@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Iran targets US airbase after attack near Bandar Abbas, warns \u2018aggressor\u2019 of harsher response",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-targets-us-airbase-after-attack-near-bandar-abbas-warns-aggressor-of-harsher-response/articleshow/131362396.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-28T09:04:31+05:30",
+      "time": "28 May, 09:04 AM",
+      "type": "news",
+      "description": "Iran's Revolutionary Guards announced they struck a U.S. airbase early Thursday, claiming it followed a U.S. attack near Bandar Abbas. The Guards issu..."
+    },
+    {
+      "title": "Sacred relics from Sanchi Stupa to be sent to Mongolia on PM Modi\u2019s initiative",
+      "link": "https://newsonair.gov.in/sacred-relics-from-sanchi-stupa-to-be-sent-to-mongolia-on-pm-modis-initiative/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-28T08:51:54+05:30",
+      "time": "28 May, 08:51 AM",
+      "type": "news",
+      "description": "On a special initiative of Prime Minister Narendra Modi, sacred relics from the UNESCO World Heritage Site Sanchi Stupa are being sent to Mongolia. Th..."
+    },
+    {
+      "title": "Kerala Man Returns Home After 20 Years in Saudi Jail",
+      "link": "https://newsonair.gov.in/kerala-man-returns-home-after-20-years-in-saudi-jail/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-28T08:41:11+05:30",
+      "time": "28 May, 08:41 AM",
+      "type": "news",
+      "description": "Indian national Abdul Rahim, who spent nearly two decades in prison in Saudi Arabia in a high-profile case that drew widespread attention from the Ind..."
+    },
+    {
+      "title": "US strikes Iranian military site in Bandar Abbas amid fragile ceasefire",
+      "link": "https://newsonair.gov.in/us-strikes-iranian-military-site-in-bandar-abbas-amid-fragile-ceasefire/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-28T08:40:13+05:30",
+      "time": "28 May, 08:40 AM",
+      "type": "news",
+      "description": "The United States military has carried out fresh strikes on an Iranian military site in Bandar Abbas, a strategic port city in southern Iran near the ..."
+    },
+    {
+      "title": "US military strikes another alleged drug boat in the eastern Pacific, killing two",
+      "link": "https://www.newindianexpress.com/world/2026/May/28/us-military-strikes-another-alleged-drug-boat-in-the-eastern-pacific-killing-two",
+      "source": "New Indian Express",
+      "sort_key": "2026-05-28T08:23:56+05:30",
+      "time": "28 May, 08:23 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Iran forces fired at 4 ships attempting to cross Strait of Hormuz: state broadcaster",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-forces-fired-at-4-ships-attempting-to-cross-strait-of-hormuz-state-broadcaster/articleshow/131362040.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-28T08:21:04+05:30",
+      "time": "28 May, 08:21 AM",
+      "type": "news",
+      "description": "Iranian forces opened fire on four ships in the Strait of Hormuz. The vessels reportedly attempted to enter the Persian Gulf without authorization. Wa..."
+    },
+    {
       "title": "Two Senior Hamas Operatives Eliminated in Gaza Strikes: IDF",
       "link": "https://www.deccanchronicle.com/west-asia/two-senior-hamas-operatives-eliminated-in-gaza-strikes-idf-1959613",
       "source": "Deccan Chronicle",
@@ -433,33 +487,6 @@
       "description": "Israel announced the killing of Mohammed Odeh, the new head of Hamas's armed wing in Gaza. This strike follows the elimination of his predecessor just..."
     },
     {
-      "title": "At least 31 killed and 40 injured in Israeli air raids across southern Lebanon",
-      "link": "https://newsonair.gov.in/at-least-31-killed-and-40-injured-in-israeli-air-raids-across-southern-lebanon/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-27T11:34:33+05:30",
-      "time": "27 May, 11:34 AM",
-      "type": "news",
-      "description": "At least 31 people were killed and 40 others injured in Israeli air raids across southern Lebanon. According to Lebanon\u2019s Ministry of Public Health, t..."
-    },
-    {
-      "title": "Indian Embassy in Japan organises 4th edition of INDIA CONNECT event in Tokyo",
-      "link": "https://newsonair.gov.in/indian-embassy-in-japan-organises-4th-edition-of-india-connect-event-in-tokyo/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-27T11:31:19+05:30",
-      "time": "27 May, 11:31 AM",
-      "type": "news",
-      "description": "Embassy of India, in collaboration with Sumitomo Realty and Development, organised the 4th edition of INDIA CONNECT event, Celebrating India &#8211; J..."
-    },
-    {
-      "title": "Commerce Minister Piyush Goyal co-chairs Canada-India Investment Roundtable with Maninder Sidhu",
-      "link": "https://newsonair.gov.in/commerce-minister-piyush-goyal-co-chairs-canada-india-investment-roundtable-with-maninder-sidhu/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-27T11:27:10+05:30",
-      "time": "27 May, 11:27 AM",
-      "type": "news",
-      "description": "Union Commerce and Industry Minister Piyush Goyal co-chaired the &#8216;Canada-India Investment Roundtable&#8217; alongside his Canadian counterpart M..."
-    },
-    {
       "title": "INS Kolkata thwarts suspected piracy attack near merchant vessel MV Mashallah 1",
       "link": "https://economictimes.indiatimes.com/news/defence/ins-kolkata-thwarts-suspected-piracy-attack-near-merchant-vessel-mv-mashallah-1/articleshow/131342669.cms",
       "source": "Economic Times",
@@ -800,27 +827,29 @@
       "time": "26 May, 09:41 AM",
       "type": "news",
       "description": "US Secretary of State Marco Rubio met with Australian, Indian, and Japanese counterparts in New Delhi. The Quad grouping aims to regain strategic mome..."
-    },
-    {
-      "title": "Israel's military says it's striking Hezbollah sites as Netanyahu vows to 'increase the blows'",
-      "link": "https://economictimes.indiatimes.com/news/defence/israels-military-says-its-striking-hezbollah-sites-as-netanyahu-vows-to-increase-the-blows/articleshow/131320273.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-26T09:15:14+05:30",
-      "time": "26 May, 09:15 AM",
-      "type": "news",
-      "description": "Israel intensified its air strikes on Hezbollah locations in Lebanon's Bekaa Valley. Prime Minister Benjamin Netanyahu vowed further attacks. Hezbolla..."
-    },
-    {
-      "title": "Russia to launch \u2018systematic strikes\u2019 on Kyiv military-linked sites, Foreign Minister Lavrov tells Rubio",
-      "link": "https://economictimes.indiatimes.com/news/defence/russia-to-launch-systematic-strikes-on-kyiv-military-linked-sites-foreign-minister-lavrov-tells-rubio/articleshow/131320107.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-26T08:32:14+05:30",
-      "time": "26 May, 08:32 AM",
-      "type": "news",
-      "description": "Russia's Foreign Minister Sergei Lavrov informed US Secretary of State Marco Rubio about Moscow's decision. Russia will launch systematic strikes on s..."
     }
   ],
   "tweets": [
+    {
+      "title": "Just in: Australia Prime Minister Albanese annouces the visit of PM Modi to his country during address to the Parliament.",
+      "link": "https://nitter.net/sidhant/status/2059835416027734357#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-28T08:43:27+05:30",
+      "time": "28 May, 08:43 AM",
+      "type": "tweets",
+      "content": "<p>Just in: Australia Prime Minister Albanese annouces the visit of PM Modi to his country during address to the Parliament.</p>\n<a href=\"https://nitter.net/sidhant/status/2059835416027734357#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2059831052278042624%2Fimg%2FOi7y6gdNjVnSq8fh.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: \ud83c\uddee\ud83c\uddf3 India Panam\u00e1 \ud83c\uddf5\ud83c\udde6 \n\n|| India\u2019s Royal Enfield in Panama ||\n\nAmb. @doctorsumitseth launched 3 new @RoyalEnfield models in Panama today - Goan Classic 350, Himalayan 450 Mana Black Edition and Classic 650.\n\n\ud83d\udd39A win for India\u2019s export story, from Chennai to Ciudad de Panam\u00e1!\n\n\ud83d\udd39Panama\u2019s open economy & dollar-based pricing make it one of the most affordable RE markets in the entire region.\n\n\ud83d\udd39Royal Enfield is one of the oldest motorcycle brands in continuous production since 1901. Its expanding footprint in Panama reflects the growing confidence of Indian brands in Latin America.",
+      "link": "https://nitter.net/IndiainPanama/status/2059827084629827854#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-05-28T08:10:21+05:30",
+      "time": "28 May, 08:10 AM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3 India Panam\u00e1 \ud83c\uddf5\ud83c\udde6 <br />\n<br />\n|| India\u2019s Royal Enfield in Panama ||<br />\n<br />\nAmb. <a href=\"https://nitter.net/doctorsumitseth\" title=\"Ambassador Dr Sumit Seth \ud83c\uddee\ud83c\uddf3\">@doctorsumitseth</a> launched 3 new <a href=\"https://nitter.net/RoyalEnfield\" title=\"Royal Enfield\">@RoyalEnfield</a> models in Panama today - Goan Classic 350, Himalayan 450 Mana Black Edition and Classic 650.<br />\n<br />\n\ud83d\udd39A win for India\u2019s export story, from Chennai to Ciudad de Panam\u00e1!<br />\n<br />\n\ud83d\udd39Panama\u2019s open economy & dollar-based pricing make it one of the most affordable RE markets in the entire region.<br />\n<br />\n\ud83d\udd39Royal Enfield is one of the oldest motorcycle brands in continuous production since 1901. Its expanding footprint in Panama reflects the growing confidence of Indian brands in Latin America.</p>\n<img src=\"https://nitter.net/pic/media%2FHJX5zTnW0AA5RNe.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJX5zTjW4AI3Tqm.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJX5zTlWcAI4eOY.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJX5zTkW4AMvYja.jpg\" />",
+      "author": "@IndiainPanama"
+    },
     {
       "title": "US, Iran confirm Americans carried out strikes in port city of Bandar Abbas amid the fragile truce.",
       "link": "https://nitter.net/sidhant/status/2059814588200432051#m",
@@ -1090,26 +1119,6 @@
       "type": "tweets",
       "content": "<p>2.5 years from T0 for the first prototype and 5 years from there for flight testing etc is a good timeline.<br />\nI hope it gets signed this years and we have T0 as 2026 so first prototype by 2029.</p>\n<img src=\"https://nitter.net/pic/media%2FHJVbqVNaEAAFzni.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Dharamsala: Lawmakers from India, UK, Chile and El Salvador attended the swearing-in of Tibetan exile president, Penpa Tsering",
-      "link": "https://nitter.net/sidhant/status/2059653162135642286#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-27T20:39:15+05:30",
-      "time": "27 May, 08:39 PM",
-      "type": "tweets",
-      "content": "<p>Dharamsala: Lawmakers from India, UK, Chile and El Salvador attended the swearing-in of Tibetan exile president, Penpa Tsering</p>\n<img src=\"https://nitter.net/pic/media%2FHJVbdYXbsAAcl-f.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJVbdYRakAAYANA.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJVbdYVa0AE568o.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJVbdYHaMAE7IAv.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Dharamsala: American embassy official, Brand Kroeger (in the back) at the swearing-in ceremony of Penpa Tsering, president of Tibetan government-in-exile. He is Senior Advisor to US Ambassador to India Sergio Gor.",
-      "link": "https://nitter.net/sidhant/status/2059652887438065672#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-05-27T20:38:09+05:30",
-      "time": "27 May, 08:38 PM",
-      "type": "tweets",
-      "content": "<p>Dharamsala: American embassy official, Brand Kroeger (in the back) at the swearing-in ceremony of Penpa Tsering, president of Tibetan government-in-exile. He is Senior Advisor to US Ambassador to India Sergio Gor.</p>\n<img src=\"https://nitter.net/pic/media%2FHJVbEcwaMAE2pl4.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @OsintTV: 1/5\nRussia has just revealed a two-seat Su-57 variant \u2014 and for India, this could be the biggest defence development of 2026. Images from Ilya Tumanov\u2019s Fighterbomber Telegram channel show a tandem cockpit with elongated Su-30-style forward fuselage, explicitly \u201cintended primarily for export.\u201d Moscow has finally delivered on the configuration India wanted in 2018.",
@@ -1718,7 +1727,7 @@
       "sort_key": "2026-05-26T12:09:37+05:30",
       "time": "26 May, 12:09 PM",
       "type": "tweets",
-      "content": "<p>Digitization of AL31 and DRDOFication <br />\nStep 1: Recover the missing information and read more here..<br />\n<br />\n<a href=\"https://alphadefense.in/index.php/2026/05/26/india-begins-deep-indigenization-push-for-al-31fp-engines-powering-su-30mki-fleet/\">alphadefense.in/index.php/20\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2059162136765759488%2F9qsXNO10%3Fformat%3Djpg%26name%3D800x419\" />",
+      "content": "<p>Digitization of AL31 and DRDOFication <br />\nStep 1: Recover the missing information and read more here..<br />\n<br />\n<a href=\"https://alphadefense.in/index.php/2026/05/26/india-begins-deep-indigenization-push-for-al-31fp-engines-powering-su-30mki-fleet/\">alphadefense.in/index.php/20\u2026</a></p>",
       "author": "@alpha_defense"
     },
     {
@@ -1740,59 +1749,10 @@
       "type": "tweets",
       "content": "<p>A game of cat and mouse !<br />\n<br />\nPatience gentlemen, patience.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Initial inputs gives a positive picture, seems like solid intel.  We will probably 72'd 2 pigs here!</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2058098546818343077#m\">https://nitter.net/elitepredatorss/status/2058098546818343077#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Dori Maal forest , Gambhir Mughalan Rajouri encounter \n\nFresh gunshots & explosions were heard in the early morning.",
-      "link": "https://nitter.net/Goreunit/status/2059114022457471028#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-26T08:56:54+05:30",
-      "time": "26 May, 08:56 AM",
-      "type": "tweets",
-      "content": "<p>Dori Maal forest , Gambhir Mughalan Rajouri encounter <br />\n<br />\nFresh gunshots &amp; explosions were heard in the early morning.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Pakistan has refused to commit to joining the Abraham Accords, with Defence Minister Khawaja Muhammad Asif stating that Islamabad would not support any agreement that conflicts with the country's \"fundamental ideologies\",",
-      "link": "https://nitter.net/Goreunit/status/2059113510790124016#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-26T08:54:52+05:30",
-      "time": "26 May, 08:54 AM",
-      "type": "tweets",
-      "content": "<p>Pakistan has refused to commit to joining the Abraham Accords, with Defence Minister Khawaja Muhammad Asif stating that Islamabad would not support any agreement that conflicts with the country's \"fundamental ideologies\",</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Donald Trump has requested that Pakistan and other Muslim nations immediately join the Abraham Accords as a mandatory condition for any agreement concerning Iran.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2058902874223202412#m\">https://nitter.net/Goreunit/status/2058902874223202412#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Civilians rescued by the Indian Army thank Soldiers for saving their lives. No matter the situation Indian Army is always the first one to aid the citizens.\n\n@adgpi @DefenceMinIndia @NorthernComd_IA @HQ_IDS_India @SpokespersonMoD",
-      "link": "https://nitter.net/NetramDefence/status/2059112212862828608#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-26T08:49:42+05:30",
-      "time": "26 May, 08:49 AM",
-      "type": "tweets",
-      "content": "<p>Civilians rescued by the Indian Army thank Soldiers for saving their lives. No matter the situation Indian Army is always the first one to aid the citizens.<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/NorthernComd_IA\" title=\"NORTHERN COMMAND - INDIAN ARMY\">@NorthernComd_IA</a> <a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a></p>\n<a href=\"https://nitter.net/NetramDefence/status/2059112212862828608#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2059111430214000640%2Fimg%2FjnYMPonowsB28gvh.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>BREAKING: Indian Army Leads Massive Rescue Operation in Gulmarg<br />\n<br />\nFollowing a major technical fault that stranded dozens of gondola cabins mid-air in Gulmarg, troops of the Indian Army\u2019s 9 Rajputana Rifles, alongside SDRF and J&amp;K Police, launched a swift high-altitude rescue operation under challenging weather conditions.<br />\n<br />\nUsing ropes, casualty assistance teams, and all-terrain vehicles, rescue teams safely evacuated stranded tourists, including families, women, and children, with no injuries reported.<br />\n<br />\nA powerful example of the Indian Army stepping in when civilians needed help the most. \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/NetramDefence/status/2058893053797265563#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058892947618398209%2Fimg%2FcdAqsw-tNVzm_qks.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/NetramDefence/status/2058893053797265563#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2058892947605852160%2Fimg%2FKssA5ptb96apGqag.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2058893053797265563#m\">https://nitter.net/NetramDefence/status/2058893053797265563#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
     }
   ],
-  "youtube": [
-    {
-      "title": "Defence Updates - \u20b915000 Crore Private AMCA, No HAL In AMCA, Indian Army Mortar Drone",
-      "link": "https://www.youtube.com/watch?v=LeGUkkBVZss",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-27T22:07:16+05:30",
-      "time": "27 May, 10:07 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/LeGUkkBVZss/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - PAK On IAF Jet Down Proof, Su-57 Deal Talks, Private Astra Missile",
-      "link": "https://www.youtube.com/watch?v=3bKNnGT8DqM",
-      "source": "Defense Squad",
-      "sort_key": "2026-05-26T21:57:52+05:30",
-      "time": "26 May, 09:57 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/3bKNnGT8DqM/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
