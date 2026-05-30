@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "President of Myanmar U Min Aung Hlaing to arrive in India on five-day visit",
+      "link": "https://newsonair.gov.in/president-of-myanmar-u-min-aung-hlaing-to-arrive-in-india-on-five-day-visit/",
+      "source": "All India Radio",
+      "sort_key": "2026-05-30T06:21:26+05:30",
+      "time": "30 May, 06:21 AM",
+      "type": "news",
+      "description": "President of Myanmar, U Min Aung Hlaing, will arrive at Gaya in Bihar this morning on a five-day visit to India. A high-level delegation, including se..."
+    },
+    {
       "title": "Op Sindoor strategist Vice Admiral Kochhar takes over as Navy Vice Chief",
       "link": "https://www.tribuneindia.com/news/india/op-sindoor-strategist-vice-admiral-kochhar-takes-over-as-navy-vice-chief",
       "source": "The Tribune",
@@ -469,15 +478,6 @@
       "description": "Three oil tankers were attacked by drones off Turkey's Black Sea coast. The ships are part of a 'shadow fleet' exporting Russian oil and evading sanct..."
     },
     {
-      "title": "Myanmar President U Min Aung Hlaing to visit India on PM Modi\u2019s invitation",
-      "link": "https://newsonair.gov.in/myanmar-president-u-min-aung-hlaing-to-visit-india-on-pm-modis-invitation/",
-      "source": "All India Radio",
-      "sort_key": "2026-05-28T20:33:52+05:30",
-      "time": "28 May, 08:33 PM",
-      "type": "news",
-      "description": "The President of Myanmar, U Min Aung Hlaing, will be on a five-day visit to India from Saturday. He is visiting India at the invitation of Prime Minis..."
-    },
-    {
       "title": "EU says won't be 'neutral mediator' between Ukraine and Russia",
       "link": "https://economictimes.indiatimes.com/news/defence/eu-says-wont-be-neutral-mediator-between-ukraine-and-russia/articleshow/131372866.cms",
       "source": "Economic Times",
@@ -755,24 +755,6 @@
       "time": "28 May, 06:28 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Trump appears to threaten to 'blow up' ally Oman",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-appears-to-threaten-to-blow-up-ally-oman/articleshow/131361198.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-28T06:07:26+05:30",
-      "time": "28 May, 06:07 AM",
-      "type": "news",
-      "description": "President Trump issued a stark warning to Oman, threatening to \"blow them up\" if the US ally does not \"behave\" and allow free passage through the Stra..."
-    },
-    {
-      "title": "US carries out new strikes in Iran against military site, official says",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-carries-out-new-strikes-in-iran-against-military-site-official-says/articleshow/131361183.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-28T06:02:13+05:30",
-      "time": "28 May, 06:02 AM",
-      "type": "news",
-      "description": "Overnight, the U.S. military launched new strikes in Iran targeting a military site deemed a threat to American forces and maritime traffic in the Str..."
     }
   ],
   "tweets": [
@@ -1714,6 +1696,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
