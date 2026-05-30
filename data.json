@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Lula Blasts US for Labelling Brazil Crime Factions as Terrorists",
+      "link": "https://www.deccanchronicle.com/world/lula-blasts-us-for-labelling-brazil-crime-factions-as-terrorists-1960067",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-05-30T07:39:52+05:30",
+      "time": "30 May, 07:39 AM",
+      "type": "news",
+      "description": "The US government on Thursday designated Brazil's two main organized crime groups, the Red Command (CV) and First Capital Command (PCC), as terrorist ..."
+    },
+    {
+      "title": "Another US strike on alleged drug boat kills 3 in eastern Pacific Ocean",
+      "link": "https://economictimes.indiatimes.com/news/defence/another-us-strike-on-alleged-drug-boat-kills-3-in-eastern-pacific-ocean/articleshow/131402618.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-05-30T07:27:44+05:30",
+      "time": "30 May, 07:27 AM",
+      "type": "news",
+      "description": "The US military conducted a third strike this week on a boat accused of drug smuggling in the eastern Pacific, resulting in three deaths. This attack ..."
+    },
+    {
+      "title": "Military talks in Washington, airstrikes in Lebanon: Israel opens two fronts",
+      "link": "https://indianexpress.com/article/world/israel-troops-lebanon-military-talks-pentagon-10714957/",
+      "source": "The Indian Express",
+      "sort_key": "2026-05-30T07:18:16+05:30",
+      "time": "30 May, 07:18 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Trump insists on red lines as Iran deal remains elusive",
       "link": "https://economictimes.indiatimes.com/news/defence/trump-insists-on-red-lines-as-iran-deal-remains-elusive/articleshow/131402515.cms",
       "source": "Economic Times",
@@ -10,7 +37,7 @@
       "description": "US President Donald Trump stated he will only agree to a peace deal with Iran if all his conditions are met, including Iran never possessing nuclear w..."
     },
     {
-      "title": "Hegseth says 'rightful alarm' over China military buildup in Asia",
+      "title": "Pentagon chief urges allies to boost defence spending amid 'alarm' over China's buildup",
       "link": "https://economictimes.indiatimes.com/news/defence/hegseth-says-rightful-alarm-over-china-military-buildup-in-asia/articleshow/131402478.cms",
       "source": "Economic Times",
       "sort_key": "2026-05-30T06:59:38+05:30",
@@ -764,24 +791,6 @@
       "time": "28 May, 08:30 AM",
       "type": "news",
       "description": "Lockheed Martin\u2019s C-130J Hercules at lower end of requirement with payload of about 19 tonnes, KC-390 near upper limit with 26 tonnes, while Airbus A ..."
-    },
-    {
-      "title": "Iran forces fired at 4 ships attempting to cross Strait of Hormuz: state broadcaster",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-forces-fired-at-4-ships-attempting-to-cross-strait-of-hormuz-state-broadcaster/articleshow/131362040.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-28T08:21:04+05:30",
-      "time": "28 May, 08:21 AM",
-      "type": "news",
-      "description": "Iranian forces opened fire on four ships in the Strait of Hormuz. The vessels reportedly attempted to enter the Persian Gulf without authorization. Wa..."
-    },
-    {
-      "title": "Two Senior Hamas Operatives Eliminated in Gaza Strikes: IDF",
-      "link": "https://www.deccanchronicle.com/west-asia/two-senior-hamas-operatives-eliminated-in-gaza-strikes-idf-1959613",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-28T07:34:55+05:30",
-      "time": "28 May, 07:34 AM",
-      "type": "news",
-      "description": "This comes after the Israeli Air Force and Israel Defence Forces eliminated Muhammad Odeh in Gaza, the new leader of the military wing of"
     }
   ],
   "tweets": [
@@ -1733,6 +1742,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
