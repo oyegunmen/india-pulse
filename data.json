@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Trump says he has not heard from Iran that they are suspending talks, NBC News reports",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-unaware-of-iran-suspending-talks-says-silence-could-be-beneficial/articleshow/131447737.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-01T23:15:05+05:30",
+      "time": "01 Jun, 11:15 PM",
+      "type": "news",
+      "description": "US President Donald Trump stated he has not received word of Iran suspending talks. He believes going silent would be beneficial and is willing to wai..."
+    },
+    {
+      "title": "'I don't care if negotiations with Iran are over': Trump dismisses Hormuz oil concerns",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-shrugs-off-oil-concerns-amid-rising-tensions-with-iran-over-strait-of-hormuz/articleshow/131447145.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-01T22:50:36+05:30",
+      "time": "01 Jun, 10:50 PM",
+      "type": "news",
+      "description": "US President Donald Trump stated he is unconcerned if talks with Iran end. He also shrugged off worries about oil prices even if Tehran blocks the Str..."
+    },
+    {
       "title": "Iran Guards threaten 'new fronts' over Israel's Lebanon offensive",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-guards-threaten-new-fronts-over-israels-lebanon-offensive/articleshow/131446540.cms",
       "source": "Economic Times",
@@ -845,27 +863,39 @@
       "time": "30 May, 11:36 PM",
       "type": "news",
       "description": "Union Home Minister Amit Shah has instructed border district administrations to create specific Standard Operating Procedures. These will help identif..."
-    },
-    {
-      "title": "US 'more than capable' of resuming Iran war: Hegseth",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-more-than-capable-of-resuming-iran-war-hegseth/articleshow/131413634.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-30T23:17:46+05:30",
-      "time": "30 May, 11:17 PM",
-      "type": "news",
-      "description": "America has warned it can restart war with Iran, with Trump demanding Iran never build nuclear weapons as a condition for peace. Both nations exchange..."
-    },
-    {
-      "title": "NSA Doval meets Patrushev in Moscow, discusses maritime, defence ties",
-      "link": "https://economictimes.indiatimes.com/news/defence/nsa-doval-meets-patrushev-in-moscow-discusses-maritime-defence-ties/articleshow/131412829.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-30T23:00:00+05:30",
-      "time": "30 May, 11:00 PM",
-      "type": "news",
-      "description": "National Security Advisor Ajit Doval met with Russia's Nikolai Patrushev in Moscow. They discussed boosting cooperation in maritime and defense sector..."
     }
   ],
   "tweets": [
+    {
+      "title": "Lao foreign minister Thongsavan Phomvihane in Delhi",
+      "link": "https://nitter.net/sidhant/status/2061504778182832192#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T23:16:54+05:30",
+      "time": "01 Jun, 11:16 PM",
+      "type": "tweets",
+      "content": "<p>Lao foreign minister Thongsavan Phomvihane in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJvvq5oagAAyyft.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @NetramDefence: BREAKING; The UNC (United Naga Council) office in Senapati is currently being stormed by Naga youths, and they have also started burning things.",
+      "link": "https://nitter.net/KangleipakDaily/status/2061503184850534571#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-01T23:10:34+05:30",
+      "time": "01 Jun, 11:10 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING; The UNC (United Naga Council) office in Senapati is currently being stormed by Naga youths, and they have also started burning things.</p>\n<a href=\"https://nitter.net/KangleipakDaily/status/2061503184850534571#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061503121000640512%2Fimg%2Fd121hyzfuRnuQPiW.jpg\" />\n</a>",
+      "author": "@KangleipakDaily"
+    },
+    {
+      "title": "Minister-President (Chief minister) of the Federal State of Thuringia\u00a0(German State) Mario Voigt @mariovoigt speaking with German Charg\u00e9 d'affaires Georg Enzweiler speaking in Delhi earlier in the day.",
+      "link": "https://nitter.net/sidhant/status/2061491855708291403#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T22:25:33+05:30",
+      "time": "01 Jun, 10:25 PM",
+      "type": "tweets",
+      "content": "<p>Minister-President (Chief minister) of the Federal State of Thuringia\u00a0(German State) Mario Voigt <a href=\"https://nitter.net/mariovoigt\" title=\"Mario Voigt\">@mariovoigt</a> speaking with German Charg\u00e9 d'affaires Georg Enzweiler speaking in Delhi earlier in the day.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvj6vDawAAHHrI.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Myanmar President Min Aung Hlaing holds talks with PM Modi in Delhi",
       "link": "https://nitter.net/sidhant/status/2061488089944780916#m",
@@ -907,16 +937,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "OSINT Update:\n\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.",
-      "link": "https://nitter.net/OsintTV/status/2061480496098382195#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T21:40:25+05:30",
-      "time": "01 Jun, 09:40 PM",
-      "type": "tweets",
-      "content": "<p>OSINT Update:<br />\n<br />\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvZk48WsAAb7yr.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu & Kashmir.",
       "link": "https://nitter.net/elitepredatorss/status/2061479877820494318#m",
       "source": "Elite Predators",
@@ -925,16 +945,6 @@
       "type": "tweets",
       "content": "<p>Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu &amp; Kashmir.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvY-ZRakAAHCk4.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJvY-a5bcAAN3w9.jpg\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>\"Muslims! Never step back from Jihad. Never lose heart. Never say that Jihad has ended.\" Hafiz Abdul Rauf, a senior Lashkar-e-Taiba terrorist commander, said in Bahawalpur</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2046414520969814370#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2046413947268648960%2Fimg%2F1orWPoHDAcX7s3VK.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHGZSpH9aMAATMWq.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2046414520969814370#m\">https://nitter.net/elitepredatorss/status/2046414520969814370#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "A Pakistani SSG Commando has been killed in North Wazaristan and Captain Waqar of the SSG has been critically injured, during an attack in Mustang, Balochistan.",
-      "link": "https://nitter.net/OsintTV/status/2061474099767943484#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T21:15:00+05:30",
-      "time": "01 Jun, 09:15 PM",
-      "type": "tweets",
-      "content": "<p>A Pakistani SSG Commando has been killed in North Wazaristan and Captain Waqar of the SSG has been critically injured, during an attack in Mustang, Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvS7jnW0AAfeZp.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJvS7jjXYAAyc8f.jpg\" />",
-      "author": "@OsintTV"
     },
     {
       "title": "Delhi",
@@ -967,16 +977,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @OsintTV: Pakis hiding their casualties as usual.",
-      "link": "https://nitter.net/Goreunit/status/2061470700016414812#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T21:01:29+05:30",
-      "time": "01 Jun, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>Pakis hiding their casualties as usual.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.<br />\n<br />\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvL-gSXYAEjTdg.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2061465714599317750#m\">https://nitter.net/OsintTV/status/2061465714599317750#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "RT by @Goreunit: \ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.\n\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.",
       "link": "https://nitter.net/OsintTV/status/2061465714599317750#m",
       "source": "War & Gore",
@@ -985,36 +985,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.<br />\n<br />\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvL-gSXYAEjTdg.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @OsintTV: \ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.\n\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.",
-      "link": "https://nitter.net/OsintTV/status/2061465714599317750#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T20:41:41+05:30",
-      "time": "01 Jun, 08:41 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.<br />\n<br />\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvL-gSXYAEjTdg.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @OsintTV: \ud83d\udea8 Flash News: PoJK on the Boil\n\nJAAC has rejected talks with Pakistan's govt and confirmed a massive long march and indefinite lockdown from June 9.\n\nWith key demands ignored and elections approaching, residents are being urged to stockpile essential supplies for at least a month.\n\nPolitical unrest in PoJK is escalating fast. More pants are likely to come off as public anger spills onto the streets.",
-      "link": "https://nitter.net/OsintTV/status/2061465037089226781#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T20:38:59+05:30",
-      "time": "01 Jun, 08:38 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Flash News: PoJK on the Boil<br />\n<br />\nJAAC has rejected talks with Pakistan's govt and confirmed a massive long march and indefinite lockdown from June 9.<br />\n<br />\nWith key demands ignored and elections approaching, residents are being urged to stockpile essential supplies for at least a month.<br />\n<br />\nPolitical unrest in PoJK is escalating fast. More pants are likely to come off as public anger spills onto the streets.</p>\n<a href=\"https://nitter.net/OsintTV/status/2061465037089226781#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061464041722175488%2Fimg%2F4aUcehybBHq3VunT.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @OsintTV: Rafale \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/manishindiatv/status/2061460781334778063#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T20:22:05+05:30",
-      "time": "01 Jun, 08:22 PM",
-      "type": "tweets",
-      "content": "<p>Rafale \ud83c\uddee\ud83c\uddf3</p>\n<img src=\"https://nitter.net/pic/media%2FHJvHpq3a0AATFyU.jpg\" />",
-      "author": "@manishindiatv"
     },
     {
       "title": "India issues Letter of Request to France for Rs 3.25 lakh crore 114 Rafale jet deal, \u2705Deal in years time  @ajitkdubey for @ani_digital \n\nRead more At: \nhttps://www.aninews.in/news/national/general-news/india-issues-letter-of-request-to-france-for-rs-325-lakh-crore-114-rafale-jet-deal-94-jets-to-be-made-in-india20260601193317/",
@@ -1035,16 +1005,6 @@
       "type": "tweets",
       "content": "<p>India has formally issued the LoR to France for 114 <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rafale\">#Rafale</a> fighters under a proposed \u20b93.25 lakh crore government-to-government deal \ud83c\uddee\ud83c\uddf3 A major step forward in the IAF's fighter modernization and squadron-strength restoration plans.<br />\n<a href=\"https://www.aninews.in/news/national/general-news/india-issues-letter-of-request-to-france-for-rs-325-lakh-crore-114-rafale-jet-deal-94-jets-to-be-made-in-india20260601193317/\">aninews.in/news/national/gen\u2026</a> via <a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a></p>\n<img src=\"https://nitter.net/pic/media%2FHJvEbTobgAAp3RK.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "RT by @OsintTV: India has reportedly issued a Letter of Request to France for a massive \u20b93.25 lakh crore deal for 114 Rafale fighter jets.\n\nThe big headline?\n\n94 of the 114 jets are expected to be manufactured in India, giving a major boost to indigenous aerospace production, jobs, and defence self reliance.",
-      "link": "https://nitter.net/OsintTV/status/2061452642853814660#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T19:49:44+05:30",
-      "time": "01 Jun, 07:49 PM",
-      "type": "tweets",
-      "content": "<p>India has reportedly issued a Letter of Request to France for a massive \u20b93.25 lakh crore deal for 114 Rafale fighter jets.<br />\n<br />\nThe big headline?<br />\n<br />\n94 of the 114 jets are expected to be manufactured in India, giving a major boost to indigenous aerospace production, jobs, and defence self reliance.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvAKGMWsAA4UkG.jpg\" />",
-      "author": "@OsintTV"
     },
     {
       "title": "\"Pakistan briefed on Kashmir..\"\n\nFrom EU, Pakistan join statement:",
@@ -1227,26 +1187,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "At Shangri-la dialogue, Philippines Defence Minister quotes former Indian Foreign Secretary Vijay Gokhale @VGokhale59 on South China sea situation.",
-      "link": "https://nitter.net/sidhant/status/2061415612669464782#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T17:22:35+05:30",
-      "time": "01 Jun, 05:22 PM",
-      "type": "tweets",
-      "content": "<p>At Shangri-la dialogue, Philippines Defence Minister quotes former Indian Foreign Secretary Vijay Gokhale <a href=\"https://nitter.net/VGokhale59\" title=\"Vijay Gokhale\">@VGokhale59</a> on South China sea situation.</p>\n<a href=\"https://nitter.net/sidhant/status/2061415612669464782#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061407233754148864%2Fimg%2F4aKt1eypGMp5-yeC.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Venezuela's acting President Delcy Rodr\u00edguez to visit India amid energy security push\n\nDetails\n\nhttps://www.wionews.com/india-news/venezuela-s-acting-president-delcy-rodr-guez-to-visit-india-amid-energy-security-push-1780313883480",
-      "link": "https://nitter.net/sidhant/status/2061414575917207666#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T17:18:28+05:30",
-      "time": "01 Jun, 05:18 PM",
-      "type": "tweets",
-      "content": "<p>Venezuela's acting President Delcy Rodr\u00edguez to visit India amid energy security push<br />\n<br />\nDetails<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/venezuela-s-acting-president-delcy-rodr-guez-to-visit-india-amid-energy-security-push-1780313883480\">wionews.com/india-news/venez\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2061414150128193537%2F_oaL6V6d%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "#DRDO's PF and Incendiary warhead family: engineered for optimized fragmentation lethality and thermal destruction across diverse combat scenarios.",
       "link": "https://nitter.net/DefenceDecode/status/2061407112090292450#m",
       "source": "Defense Decode",
@@ -1275,16 +1215,6 @@
       "type": "tweets",
       "content": "<p>Baloch Liberation Front (BLF) releases operational report for May 2026.<br />\nAccording to the BLF report, \ud83c\uddf5\ud83c\uddf0 security forces suffered 81 fatal casualties in 49 attacks in the month of May alone.<br />\n<br />\nP0rkis getting cooked right, left and center in KPK and Balochistan\ud83e\udd23</p>\n<img src=\"https://nitter.net/pic/media%2FHJuQOEPaMAAsm6-.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: MORE DETAILS EMERGE IN PAHALGAM TERROR ATTACK INVESTIGATION\n\nInvestigators have uncovered significant digital evidence linking the perpetrators to meticulous pre-attack planning. The National Investigation Agency (NIA) found that the two mobile phones used by the terrorists had originally been shipped to Pakistan by Chinese smartphone manufacturer Xiaomi. Supply chain records provided to investigators reportedly showed that the devices were delivered to addresses in Karachi and Lahore.\n\nForensic examination of the recovered phones revealed that the geographical coordinates of Baisaran Meadows, Pahalgam, had been plotted, screenshotted, and stored within the AlpineQuest navigation application. Investigators determined that these screenshots were taken on 15 and 16 April 2025, indicating that reconnaissance and operational planning for the attack had begun at least a week before the massacre.\n\nAccording to the investigation, detailed analysis of data recovered from the phone of a terrorist killed during Operation Mahadev confirmed that specific points in the Baisaran area had been marked and preserved on the devices. The findings provide crucial evidence of premeditation and offer further insight into the planning behind one of the deadliest terror attacks in recent years.",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2061399808359960655#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T16:19:47+05:30",
-      "time": "01 Jun, 04:19 PM",
-      "type": "tweets",
-      "content": "<p>MORE DETAILS EMERGE IN PAHALGAM TERROR ATTACK INVESTIGATION<br />\n<br />\nInvestigators have uncovered significant digital evidence linking the perpetrators to meticulous pre-attack planning. The National Investigation Agency (NIA) found that the two mobile phones used by the terrorists had originally been shipped to Pakistan by Chinese smartphone manufacturer Xiaomi. Supply chain records provided to investigators reportedly showed that the devices were delivered to addresses in Karachi and Lahore.<br />\n<br />\nForensic examination of the recovered phones revealed that the geographical coordinates of Baisaran Meadows, Pahalgam, had been plotted, screenshotted, and stored within the AlpineQuest navigation application. Investigators determined that these screenshots were taken on 15 and 16 April 2025, indicating that reconnaissance and operational planning for the attack had begun at least a week before the massacre.<br />\n<br />\nAccording to the investigation, detailed analysis of data recovered from the phone of a terrorist killed during Operation Mahadev confirmed that specific points in the Baisaran area had been marked and preserved on the devices. The findings provide crucial evidence of premeditation and offer further insight into the planning behind one of the deadliest terror attacks in recent years.</p>\n<img src=\"https://nitter.net/pic/media%2FHJuQMgebIAA3Tvj.jpg\" />",
-      "author": "@MikeLimaBravo12"
     },
     {
       "title": "Investigations conducted by the National Investigation Agency (NIA) and the Jammu and Kashmir Police have revealed that among the mobile phones recovered from the terrorists involved in the Pahalgam attack, one device was procured in Pakistan four years ago and remained unused from that time until just prior to the attack.",
@@ -1397,16 +1327,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "RT by @OsintTV: Jyoti Kumar Aka Abdul from Pakistan, you need basic education which is not possible in Pakistan, both  communities(Naga/Kuki)  fighting are Christians how is Indian government killing Christians. \n\nAtleast delete your previous tweet for BLA.",
-      "link": "https://nitter.net/Dig_raw21/status/2061266016445895108#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T07:28:09+05:30",
-      "time": "01 Jun, 07:28 AM",
-      "type": "tweets",
-      "content": "<p>Jyoti Kumar Aka Abdul from Pakistan, you need basic education which is not possible in Pakistan, both  communities(Naga/Kuki)  fighting are Christians how is Indian government killing Christians. <br />\n<br />\nAtleast delete your previous tweet for BLA.</p>\n<img src=\"https://nitter.net/pic/media%2FHJsWhJ3WkAQkS0j.jpg\" />\n\n<hr />\n<blockquote>\n<b>Jyoti Kumar (@jyoti_kumarkf)</b>\n<p>\n<p>Kharam Vaiphei Kuki Village was set ablaze by the suspected ZUF-K and NSCN -IM. This incident took place just after the  selective search and combing ops conducted by the security forces. The State forces are complicit with these militants in violence against minorities.<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23\u0641\u0648\u064a\u0633\">#\u0641\u0648\u064a\u0633</a></p>\n<a href=\"https://nitter.net/jyoti_kumarkf/status/2060982328500109727#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2060982162342428674%2Fimg%2FwAsm9m9EXvWVu3XY.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/jyoti_kumarkf/status/2060982328500109727#m\">https://nitter.net/jyoti_kumarkf/status/2060982328500109727#m</a>\n</footer>\n</blockquote>",
-      "author": "@Dig_raw21"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief:\n31st May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf  Iran\u2019s IRGC intercepted and destroyed a US MQ-1 drone after it entered Iranian territorial waters early Sunday.\n\n\u25cf The IRGC Navy reported that 28 vessels, including oil tankers and container ships, were granted permits to transit the Strait in the past 24 hours.\n\n\u25cf The IDF foiled a Hezbollah plot to destroy the Qaraoun Dam on the Litani River to flood the area and obstruct advances toward Beaufort Castle and Ali al-Taher Ridge.\n\n\u25cf Iran\u2019s Khatam al-Anbia Central Headquarters stated that the Armed Forces now exercise full control over the Strait of Hormuz and all vessels must follow Iranian regulations.\n\n\u25cf Iranian Ambassador to Qatar Ali Saleh Abadi met with Russian Ambassador Dmitry Dugadin to discuss bilateral ties and regional issues.\n\n\u25cf As of today, CENTCOM has redirected 118 commercial vessels and disabled 5 to ensure compliance with the naval blockade.\n\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2061174260547383360#m",
       "source": "Netram Defense",
@@ -1427,26 +1347,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "According to sources, several explosions have been heard in the Red Zone area of Kharan city, Balochistan.\n\nDeveloping story.",
-      "link": "https://nitter.net/OsintTV/status/2061146887734915503#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-31T23:34:46+05:30",
-      "time": "31 May, 11:34 PM",
-      "type": "tweets",
-      "content": "<p>According to sources, several explosions have been heard in the Red Zone area of Kharan city, Balochistan.<br />\n<br />\nDeveloping story.</p>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @OsintTV: FIRST ON CAMERA ADMISSION OF ISI TERROR PLOT\n\nYouth lured by ISI to help for multiple terror attacks - share details of ISI plot on camera \n\nHow Doda Police brought back youth from clutches of ISI\n\nThe \u201cHoneytrap\u201d and \u201cMonthly Salary\u201d game of ISI exposed\n\nMore details \ud83d\udc47",
-      "link": "https://nitter.net/FromGursimran/status/2061115242244198491#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-31T21:29:02+05:30",
-      "time": "31 May, 09:29 PM",
-      "type": "tweets",
-      "content": "<p>FIRST ON CAMERA ADMISSION OF ISI TERROR PLOT<br />\n<br />\nYouth lured by ISI to help for multiple terror attacks - share details of ISI plot on camera <br />\n<br />\nHow Doda Police brought back youth from clutches of ISI<br />\n<br />\nThe \u201cHoneytrap\u201d and \u201cMonthly Salary\u201d game of ISI exposed<br />\n<br />\nMore details \ud83d\udc47</p>\n<a href=\"https://nitter.net/FromGursimran/status/2061115242244198491#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061114494257135616%2Fimg%2FLrD4N9-6SIXTXik3.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Gursimran Singh (@FromGursimran)</b>\n<p>\n<p>Youth brought back from clutches of terrorists by Doda Police (<a href=\"https://nitter.net/dpododa\" title=\"DISTRICT POLICE DODA\">@dpododa</a>)<br />\n<br />\nMore details on <a href=\"https://nitter.net/republic\" title=\"Republic\">@republic</a></p>\n<img src=\"https://nitter.net/pic/media%2FHJp1ZhNawAAvQ14.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/FromGursimran/status/2061088886701608993#m\">https://nitter.net/FromGursimran/status/2061088886701608993#m</a>\n</footer>\n</blockquote>",
-      "author": "@FromGursimran"
-    },
-    {
       "title": "Pakistani telecom towers along the LoC are pushing cellular signals into border districts, enabling communications that could be exploited by terror networks.",
       "link": "https://nitter.net/elitepredatorss/status/2061103862443016254#m",
       "source": "Elite Predators",
@@ -1455,16 +1355,6 @@
       "type": "tweets",
       "content": "<p>Pakistani telecom towers along the LoC are pushing cellular signals into border districts, enabling communications that could be exploited by terror networks.</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Aukaat:\n\nWhen your best of your best 'ELITE FORCE' is reduced to 'DAAL' and 'ROTI'...",
-      "link": "https://nitter.net/OsintTV/status/2061092462437806484#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-31T19:58:30+05:30",
-      "time": "31 May, 07:58 PM",
-      "type": "tweets",
-      "content": "<p>Aukaat:<br />\n<br />\nWhen your best of your best 'ELITE FORCE' is reduced to 'DAAL' and 'ROTI'...</p>\n<a href=\"https://nitter.net/OsintTV/status/2061092462437806484#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061091636671545346%2Fimg%2FnYeSZPDrt9rdv24j.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Powindah \ud83d\udc80 (@intel_view)</b>\n<p>\n<p>One Pakistan \ud83c\uddf5\ud83c\uddf0 army powindah soldier mogs entire Indian ethnicity \ud83c\uddee\ud83c\uddf3\ud83e\udd2e</p>\n<img src=\"https://nitter.net/pic/media%2FHJd32xmb0AAZG2C.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/intel_view/status/2060247145232674867#m\">https://nitter.net/intel_view/status/2060247145232674867#m</a>\n</footer>\n</blockquote>",
-      "author": "@OsintTV"
     },
     {
       "title": "\ud83d\udcf8 For Representation :)",
@@ -1627,16 +1517,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "\ud83d\udccd\ud83c\uddee\ud83c\uddf3\ud83e\ude96 J&K Police\u2019s Markhor atop a rugged ridge in the Trimukha Range , standing watch where the mountains meet the sky. \n\nSilent, vigilant, and ever prepared.... \ud83d\udd25",
-      "link": "https://nitter.net/OsintTV/status/2060959965976670518#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-31T11:12:01+05:30",
-      "time": "31 May, 11:12 AM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udccd\ud83c\uddee\ud83c\uddf3\ud83e\ude96 J&amp;K Police\u2019s Markhor atop a rugged ridge in the Trimukha Range , standing watch where the mountains meet the sky. <br />\n<br />\nSilent, vigilant, and ever prepared.... \ud83d\udd25</p>\n<img src=\"https://nitter.net/pic/media%2FHJn_4MJWwAIOSpY.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "General N. S. Raja Subramani Takes Charge as Chief of Defence Staff\n\nWith a career starting in 1985 in the Garhwal Rifles, the new CDS brings extensive experience from operational roles in Jammu & Kashmir and Assam, alongside senior positions as Vice Chief of the Army Staff and Military Adviser to the NSCS. He is highly decorated, having received the PVSM, AVSM, SM, and VSM for his service.\n\nGeneral Subramani\u2019s mandate focuses on critical reforms within the Indian Armed Forces:\n- Theaterisation: Implementing integrated military commands.\n- Jointness: Enhancing synergies across the Army, Navy, and Air Force.\n-Indigenization: Accelerating Atmanirbharta (self-reliance) in defense production.",
       "link": "https://nitter.net/NetramDefence/status/2060959002536911184#m",
       "source": "Netram Defense",
@@ -1665,16 +1545,6 @@
       "type": "tweets",
       "content": "<p>\ud83c\uddee\ud83c\uddf3\u26a1 Big day for India's military leadership.<br />\n<br />\nGeneral NS Raja Subramani has assumed office as the new Chief of Defence Staff (CDS).<br />\n<br />\nLater today, Admiral Krishna Swaminathan will take over as the next Chief of the Indian Navy.</p>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: 1/5\n\ud83d\udea8 Russia's latest pitch to India is bigger than just the Su-57E.\nReports indicate Moscow is offering extensive technology transfer, local production through existing Su-30MKI infrastructure and even discussing a future twin-seat variant optimized for controlling unmanned combat drones.\nBut that's only half the story. \ud83e\uddf5",
-      "link": "https://nitter.net/DefenseNewsIN/status/2060949142705405997#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-31T10:29:00+05:30",
-      "time": "31 May, 10:29 AM",
-      "type": "tweets",
-      "content": "<p>1/5<br />\n\ud83d\udea8 Russia's latest pitch to India is bigger than just the Su-57E.<br />\nReports indicate Moscow is offering extensive technology transfer, local production through existing Su-30MKI infrastructure and even discussing a future twin-seat variant optimized for controlling unmanned combat drones.<br />\nBut that's only half the story. \ud83e\uddf5</p>\n<img src=\"https://nitter.net/pic/media%2FHJn2US3b0AAFNDl.jpg\" />",
-      "author": "@DefenseNewsIN"
     },
     {
       "title": "Surya murder case culprit Asad killed in a police encounter.",
@@ -1717,16 +1587,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "RT by @OsintTV: Guardians of the Valley: The Special Operations Group (SOG) of Jammu & Kashmir Police @JmuKmrPolice",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2060935446075687210#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-31T09:34:35+05:30",
-      "time": "31 May, 09:34 AM",
-      "type": "tweets",
-      "content": "<p>Guardians of the Valley: The Special Operations Group (SOG) of Jammu &amp; Kashmir Police <a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a></p>\n<img src=\"https://nitter.net/pic/media%2FHJnp3NaaIAAbSVy.jpg\" />",
-      "author": "@MikeLimaBravo12"
-    },
-    {
       "title": "NSA Ajit Doval held high-level talks in Moscow with Russian and Myanmar leadership on defence, security, connectivity, and space cooperation.\n\nKey discussions reportedly covered: \n- Defence & energy ties with Russia\n- Space cooperation with Roscosmos\n- Border security & connectivity with Myanmar\n- Regional stability and Indo-Pacific developments",
       "link": "https://nitter.net/NetramDefence/status/2060923898196291639#m",
       "source": "Netram Defense",
@@ -1735,19 +1595,18 @@
       "type": "tweets",
       "content": "<p>NSA Ajit Doval held high-level talks in Moscow with Russian and Myanmar leadership on defence, security, connectivity, and space cooperation.<br />\n<br />\nKey discussions reportedly covered: <br />\n- Defence & energy ties with Russia<br />\n- Space cooperation with Roscosmos<br />\n- Border security & connectivity with Myanmar<br />\n- Regional stability and Indo-Pacific developments</p>\n<img src=\"https://nitter.net/pic/media%2FHJnfV9cawAA1YMx.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Daily US-Israel-Iran War Brief:\n30th May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf CENTCOM, via the UKMTO/JMIC, issued an urgent maritime advisory north of Oman\u2019s Musandam Peninsula, warning mariners of imminent US naval operations to counter suspected Iranian mine-laying.\n\n\u25cf In Washington, President Trump reviewed the draft peace deal with top security advisers in the Situation Room. The session concluded with zero announcements, keeping the region in an uneasy gridlock.\n\n\u25cf Defense Secretary Pete Hegseth stated the U.S. possesses more than sufficient stockpiles to immediately resume aggressive bombardment strikes if Tehran rejects core U.S. parameters, though officials maintain the ceasefire \"is not officially over.\"\n\n\u25cf Iranian FM Spokesman Esmaeil Baghaei confirmed text is not finalized. Tehran remains strictly focused on ending hostilities and lifting the U.S. naval blockade, refusing to negotiate the finer details of its nuclear plan at this stage.\n\n\u25cf Hezbollah launched a major rocket barrage deep into northern Israel targeting Safed and Kiryat Shmona. In response, the IDF issued immediate evacuation orders for 7 southern Lebanese villages as ground operations intensify.\n\n\u25cf The IRGC Navy claimed that 20 commercial vessels successfully transited the Strait of Hormuz over the past 24 hours in direct coordination with Iranian forces.\n\nEND OF THE BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2060772031776620633#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-30T22:45:14+05:30",
-      "time": "30 May, 10:45 PM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n30th May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf CENTCOM, via the UKMTO/JMIC, issued an urgent maritime advisory north of Oman\u2019s Musandam Peninsula, warning mariners of imminent US naval operations to counter suspected Iranian mine-laying.<br />\n<br />\n\u25cf In Washington, President Trump reviewed the draft peace deal with top security advisers in the Situation Room. The session concluded with zero announcements, keeping the region in an uneasy gridlock.<br />\n<br />\n\u25cf Defense Secretary Pete Hegseth stated the U.S. possesses more than sufficient stockpiles to immediately resume aggressive bombardment strikes if Tehran rejects core U.S. parameters, though officials maintain the ceasefire \"is not officially over.\"<br />\n<br />\n\u25cf Iranian FM Spokesman Esmaeil Baghaei confirmed text is not finalized. Tehran remains strictly focused on ending hostilities and lifting the U.S. naval blockade, refusing to negotiate the finer details of its nuclear plan at this stage.<br />\n<br />\n\u25cf Hezbollah launched a major rocket barrage deep into northern Israel targeting Safed and Kiryat Shmona. In response, the IDF issued immediate evacuation orders for 7 southern Lebanese villages as ground operations intensify.<br />\n<br />\n\u25cf The IRGC Navy claimed that 20 commercial vessels successfully transited the Strait of Hormuz over the past 24 hours in direct coordination with Iranian forces.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJlVLj4acAA7r1z.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n29th May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The IDF eliminated Imad Hassan Hussein Aslim, the Deputy Commander of the Gaza Brigade and the Commander of the Zeitoun Battalion in Hamas' Military Wing.<br />\n<br />\n\u25cf Speaker of the Iranian Parliament Mohammad Bagher Ghalibaf stated that Iran will not take any action on current issues until the US makes the first move.<br />\n<br />\n\u25cf Washington explicitly rejected a proposal from Muscat that would allow a joint Iran-Oman authority to levy commercial shipping fees in the Strait of Hormuz.<br />\n<br />\n\u25cf Declassified satellite imagery confirmed 4 structural impacts from yesterday\u2019s Iranian missile strike on Ali Al-Salem Air Base in Kuwait. CENTCOM stated the base remains fully operational.<br />\n<br />\n\u25cf The bulk carrier MDL KAMRAN successfully crossed the Strait of Hormuz en route to Imam Khomeini port after returning from Brazil.<br />\n<br />\n\u25cf As of May 29, CENTCOM has redirected 115 commercial vessels to ensure no commerce enters or leaves Iranian ports.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJgRpdIbgAAjceC.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2060416285914308918#m\">https://nitter.net/NetramDefence/status/2060416285914308918#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
+    {
+      "title": "J-10CE Delivery Stopped by China ,Su-30mki Talisman E/W Suit,Secret IRBM for Su-30MKI,NightShade UAV",
+      "link": "https://www.youtube.com/watch?v=RaCUCwPkxj4",
+      "source": "Indian Defense News",
+      "sort_key": "2026-06-01T23:04:18+05:30",
+      "time": "01 Jun, 11:04 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/RaCUCwPkxj4/mqdefault.jpg"
+    },
     {
       "title": "Defence Updates - Indian Army Divyastra, Air Raid System, PAK ISI In Politics,  Navy Small Submarine",
       "link": "https://www.youtube.com/watch?v=N9aLf_HSdgg",
@@ -1786,6 +1645,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
