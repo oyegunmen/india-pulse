@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "New Make In India Defence Boost As Indigenous Divyastra Mk-1 Drone Aces Operational Army Trials; Check Capabilities",
+      "link": "https://www.republicworld.com/defence/new-make-in-india-defence-boost-as-indigenous-divyastra-mk-1-drone-aces-operational-army-trials-check-capabilities-2026-06-01-126524",
+      "source": "Republic World",
+      "sort_key": "2026-06-01T18:13:50+05:30",
+      "time": "01 Jun, 06:13 PM",
+      "type": "news",
+      "description": "Hoverit successfully tests the indigenous Divyastra Mk-1 loitering munition in Jodhpur, showcasing a 95% indigenous, low-cost drone tech."
+    },
+    {
+      "title": "US intercepts two Iranian missiles aimed at forces in Kuwait",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-intercepts-two-iranian-missiles-aimed-at-forces-in-kuwait/articleshow/131442515.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-01T17:50:48+05:30",
+      "time": "01 Jun, 05:50 PM",
+      "type": "news",
+      "description": "Late Sunday night, US military forces thwarted an attack by intercepting two Iranian ballistic missiles aimed directly at American troops located in K..."
+    },
+    {
+      "title": "Britain orders more missiles from Thales to shoot down drones",
+      "link": "https://economictimes.indiatimes.com/news/defence/britain-orders-more-missiles-from-thales-to-shoot-down-drones/articleshow/131442458.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-01T17:42:48+05:30",
+      "time": "01 Jun, 05:42 PM",
+      "type": "news",
+      "description": "Britain has secured new contracts worth \u00a336 million with Thales for hundreds of Lightweight Multirole missiles. These missiles, already utilized by UK..."
+    },
+    {
+      "title": "Brahmos cruise missile deal with Vietnam already signed: Defence Secretary",
+      "link": "https://defencemonitor.in/brahmos-cruise-missile-deal-with-vietnam-already-signed-defence-secretary/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-01T17:40:56+05:30",
+      "time": "01 Jun, 05:40 PM",
+      "type": "news",
+      "description": "<p>Singapore, May 30 (IANS) Highlighting India&#8217;s expanding expertise in missile manufacturing and increasing outreach, Defence Secretary Rajesh ..."
+    },
+    {
+      "title": "India and Australia bolster defence ties, work on finalising Joint Maritime Security Collaboration Roadmap",
+      "link": "https://defencemonitor.in/india-and-australia-bolster-defence-ties-work-on-finalising-joint-maritime-security-collaboration-roadmap/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-01T17:39:15+05:30",
+      "time": "01 Jun, 05:39 PM",
+      "type": "news",
+      "description": "<p>Canberra/New Delhi, June 1 (IANS) India and Australia on Monday discussed advancements in bilateral maritime security cooperation and efforts to fi..."
+    },
+    {
+      "title": "South Korea: 5 killed, 2 injured in Aerospace factory blast",
+      "link": "https://newsonair.gov.in/south-korea-5-killed-2-injured-in-aerospace-factory-blast/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-01T17:33:46+05:30",
+      "time": "01 Jun, 05:33 PM",
+      "type": "news",
+      "description": "In South Korea, five people were killed and two others injured in an explosion at a Hanwha Aerospace factory in the central city of Daejeon today. Acc..."
+    },
+    {
       "title": "India, Australia deepen defence ties with maritime, industrial and Quad-focused agenda",
       "link": "https://www.indiastrategic.in/india-australia-deepen-defence-ties-with-maritime-industrial-and-quad-focused-agenda/",
       "source": "India Strategic",
@@ -19,13 +73,13 @@
       "description": "India is emerging as a significant defence supplier in Southeast Asia, with Vietnam becoming the second buyer of the BrahMos missile after the Philipp..."
     },
     {
-      "title": "PM Modi holds talks with Myanmar President Aung Hlaing",
+      "title": "Modi assures support for peace process in Myanmar, vows deeper bilateral cooperation",
       "link": "https://www.tribuneindia.com/news/india/pm-modi-holds-talks-with-myanmar-president-aung-hlaing",
       "source": "The Tribune",
       "sort_key": "2026-06-01T14:50:16+05:30",
       "time": "01 Jun, 02:50 PM",
       "type": "news",
-      "description": "Prime Minister Narendra Modi on Monday held wide-ranging talks with Myanmar President U Min Aung Hlaing focusing on boosting bilateral cooperation in ..."
+      "description": "Prime Minister Narendra Modi on Monday held wide-ranging talks with Myanmar&#8217;s military leader and State Administration Council Chairman, Senior ..."
     },
     {
       "title": "India, Australia to collaborate on maritime surveillance",
@@ -199,6 +253,15 @@
       "description": "The United States and Iran have exchanged military strikes over the weekend. Iran's Revolutionary Guards targeted a US base in response to US strikes ..."
     },
     {
+      "title": "India revives plan to acquire small submarines. Foreign design or indigenous solution is the question",
+      "link": "https://theprint.in/defence/india-revives-plan-to-acquire-small-submarines-foreign-design-or-indigenous-solution-is-the-question/2942855/",
+      "source": "The Print",
+      "sort_key": "2026-06-01T08:44:03+05:30",
+      "time": "01 Jun, 08:44 AM",
+      "type": "news",
+      "description": "EXCLUSIVE &#124; Indian Navy has reinitiated discussions with at least 2 Indian shipyards for procurement of vessels, meant for covert missions by the..."
+    },
+    {
       "title": "US proposes new plan to ease Israel-Lebanon tensions amid fighting",
       "link": "https://economictimes.indiatimes.com/news/defence/us-proposes-new-plan-to-ease-israel-lebanon-tensions-amid-fighting/articleshow/131432801.cms",
       "source": "Economic Times",
@@ -233,24 +296,6 @@
       "time": "01 Jun, 07:40 AM",
       "type": "news",
       "description": "Responding to members of parliament in the House of Representatives on Sunday, Nepal&#8217;s Prime Minister Balendra Shah said that it is not only tha..."
-    },
-    {
-      "title": "India, Bangladesh to discuss border fencing, illegal migration and security issues in DG talks",
-      "link": "https://newsonair.gov.in/india-bangladesh-to-discuss-border-fencing-illegal-migration-and-security-issues-in-dg-talks/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-01T07:29:59+05:30",
-      "time": "01 Jun, 07:29 AM",
-      "type": "news",
-      "description": "India and Bangladesh will hold their bi-annual Director General-level border talks in New Delhi from June 8 to 11, marking the first such meeting sinc..."
-    },
-    {
-      "title": "Were you also called terrorists? Rahul Gandhi asks pupils amid CBSE row",
-      "link": "https://www.tribuneindia.com/news/india/were-you-also-called-terrorists-rahul-asks-pupils-amid-cbse-row",
-      "source": "The Tribune",
-      "sort_key": "2026-06-01T01:50:42+05:30",
-      "time": "01 Jun, 01:50 AM",
-      "type": "news",
-      "description": "Leader of Opposition (LoP) in the Lok Sabha Rahul Gandhi on Sunday took a jibe at the Centre during his meeting with CBSE Class XII students, who were..."
     },
     {
       "title": "Cricket Fraternity Hails RCB's Successful IPL Title Defence",
@@ -809,27 +854,89 @@
       "time": "30 May, 06:30 PM",
       "type": "news",
       "description": "Chief of Naval Staff Admiral Dinesh K Tripathi highlighted that India's security is increasingly impacted by global events, with maritime security int..."
-    },
-    {
-      "title": "Indian Navy confined entire Pakistan Navy to its ports during Operation Sindoor, says Rajnath",
-      "link": "https://theprint.in/defence/indian-navy-confined-entire-pakistan-navy-to-its-ports-during-operation-sindoor-says-rajnath/2946012/",
-      "source": "The Print",
-      "sort_key": "2026-05-30T17:49:53+05:30",
-      "time": "30 May, 05:49 PM",
-      "type": "news",
-      "description": "The defence minister said the Navy played a significant role in maintaining pressure on Pakistan during the operation."
-    },
-    {
-      "title": "Rajnath Singh inaugurates Nausena Shaurya Vatika in Lucknow, highlights Navy\u2019s role in Operation Sindoor",
-      "link": "https://www.indiastrategic.in/rajnath-singh-inaugurates-nausena-shaurya-vatika-in-lucknow-highlights-navys-role-in-operation-sindoor/",
-      "source": "India Strategic",
-      "sort_key": "2026-05-30T17:30:25+05:30",
-      "time": "30 May, 05:30 PM",
-      "type": "news",
-      "description": "<p>Lucknow, May 30.\u00a0 Defence Minister Rajnath Singh and Uttar Pradesh Chief Minister Yogi Adityanath on May 30 inaugurated the \u2018Nausena Shaurya Vatika..."
     }
   ],
   "tweets": [
+    {
+      "title": "Myanmar President Min Aung Hlaing meets Indian President Murmu",
+      "link": "https://nitter.net/sidhant/status/2061425130782482464#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T18:00:25+05:30",
+      "time": "01 Jun, 06:00 PM",
+      "type": "tweets",
+      "content": "<p>Myanmar President Min Aung Hlaing meets Indian President Murmu</p>\n<img src=\"https://nitter.net/pic/media%2FHJunOSraIAAarqb.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri   says India's policy is 'sustained dialogue' with Myanmar as a neighbor. Adds, \"disengagement doesn't gives any results.. only produces vacuum others go on to fill to our detriment\"",
+      "link": "https://nitter.net/sidhant/status/2061424261060030916#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T17:56:57+05:30",
+      "time": "01 Jun, 05:56 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri   says India's policy is 'sustained dialogue' with Myanmar as a neighbor. Adds, \"disengagement doesn't gives any results.. only produces vacuum others go on to fill to our detriment\"</p>\n<a href=\"https://nitter.net/sidhant/status/2061424261060030916#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061424209876992001%2Fpu%2Fimg%2Ftu5uS33wsi9kFUtP.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India calls for inclusion in Myanmar, but foreign secretary Vikram Misri points \"its not a commentary on internal political arrangements of the country\"",
+      "link": "https://nitter.net/sidhant/status/2061424259034181974#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T17:56:57+05:30",
+      "time": "01 Jun, 05:56 PM",
+      "type": "tweets",
+      "content": "<p>India calls for inclusion in Myanmar, but foreign secretary Vikram Misri points \"its not a commentary on internal political arrangements of the country\"</p>\n<a href=\"https://nitter.net/sidhant/status/2061424259034181974#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061424151542534144%2Fpu%2Fimg%2F3BfQuUCoSJt5Ya4K.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "President Aung Hlaing reiterated Myanmar\u2019s assurance that its territory would not be permitted to be used against India\u2019s security interests: India, Myanmar joint statement",
+      "link": "https://nitter.net/sidhant/status/2061420058648481976#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T17:40:15+05:30",
+      "time": "01 Jun, 05:40 PM",
+      "type": "tweets",
+      "content": "<p>President Aung Hlaing reiterated Myanmar\u2019s assurance that its territory would not be permitted to be used against India\u2019s security interests: India, Myanmar joint statement</p>\n<img src=\"https://nitter.net/pic/media%2FHJuinU3bIAAMHRn.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Mekong Ganga ICCR scholarships for Myanmar students would be enhanced from 36 to 100 from 2026 onwards: India",
+      "link": "https://nitter.net/sidhant/status/2061419771124744239#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T17:39:07+05:30",
+      "time": "01 Jun, 05:39 PM",
+      "type": "tweets",
+      "content": "<p>Mekong Ganga ICCR scholarships for Myanmar students would be enhanced from 36 to 100 from 2026 onwards: India</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India, Myanmar joint statement released:\n\nhttps://www.mea.gov.in/bilateral-documents.htm?dtl/41250",
+      "link": "https://nitter.net/sidhant/status/2061419632893043021#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T17:38:34+05:30",
+      "time": "01 Jun, 05:38 PM",
+      "type": "tweets",
+      "content": "<p>India, Myanmar joint statement released:<br />\n<br />\n<a href=\"https://www.mea.gov.in/bilateral-documents.htm?dtl/41250\">mea.gov.in/bilateral-documen\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2059309923276890112%2Fj2TGZA8V%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "A U.S. delegation led by Assistant U.S. Trade Representative Brendan Lynch is visiting India from June 1\u20134 for trade agreement discussions. (These are usually the negotiation war rooms)\n\nDefence watchers should keep an eye on these talks from the GE F414 perspective as well.",
+      "link": "https://nitter.net/alpha_defense/status/2061418431560479000#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-01T17:33:48+05:30",
+      "time": "01 Jun, 05:33 PM",
+      "type": "tweets",
+      "content": "<p>A U.S. delegation led by Assistant U.S. Trade Representative Brendan Lynch is visiting India from June 1\u20134 for trade agreement discussions. (These are usually the negotiation war rooms)<br />\n<br />\nDefence watchers should keep an eye on these talks from the GE F414 perspective as well.</p>\n<img src=\"https://nitter.net/pic/media%2FHJuhInkbUAAhUPb.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Stability, peace in Myanmar is of major interest for India, not just for security of north east but also for connectivity for South East Asia. It is important for coherence of Asean: foreign secretary Vikram Misri",
+      "link": "https://nitter.net/sidhant/status/2061418181860986921#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-01T17:32:48+05:30",
+      "time": "01 Jun, 05:32 PM",
+      "type": "tweets",
+      "content": "<p>Stability, peace in Myanmar is of major interest for India, not just for security of north east but also for connectivity for South East Asia. It is important for coherence of Asean: foreign secretary Vikram Misri</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "At Shangri-la dialogue, Philippines Defence Minister quotes former Indian Foreign Secretary Vijay Gokhale @VGokhale59 on South China sea situation.",
       "link": "https://nitter.net/sidhant/status/2061415612669464782#m",
@@ -981,16 +1088,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Stability, peace is of major interest for India, not just for security of north east but also for connectivity for South East Asia. It is important for coherence of Asean: foreign secretary Vikram Misri",
-      "link": "https://nitter.net/sidhant/status/2061386727403737088#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T15:27:49+05:30",
-      "time": "01 Jun, 03:27 PM",
-      "type": "tweets",
-      "content": "<p>Stability, peace is of major interest for India, not just for security of north east but also for connectivity for South East Asia. It is important for coherence of Asean: foreign secretary Vikram Misri</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "India, Myanmar to cooperate on critical minerals, rare earth says Foreign Secretary Vikram Misri",
       "link": "https://nitter.net/sidhant/status/2061386129652543519#m",
       "source": "Sidhant Sibal",
@@ -1011,16 +1108,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Security situation delays the Kaladan Multi-Modal Transit Transport Project, & India Myanmar Thailand trilateral highway project says Foreign Secretary Vikram Misri",
-      "link": "https://nitter.net/sidhant/status/2061385844599193835#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T15:24:18+05:30",
-      "time": "01 Jun, 03:24 PM",
-      "type": "tweets",
-      "content": "<p>Security situation delays the Kaladan Multi-Modal Transit Transport Project, &amp; India Myanmar Thailand trilateral highway project says Foreign Secretary Vikram Misri</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "India\u2019s indigenous loitering munition capability takes another step forward.\n\nHoverit successfully demonstrated the Divyastra Mk-1 tactical UAV before senior Indian Army officials in Jodhpur. Notably, the system was launched from a Made-in-India Thar-based mobile platform, highlighting growing domestic integration in India\u2019s defence ecosystem.\n\n- Vehicle-mounted rapid launch capability\n- Up to 500 km operational range\n- Up to 5 hours endurance\n- ISR, reconnaissance & precision strike roles\n- Configurable EO/IR payloads & mission-specific warheads",
       "link": "https://nitter.net/NetramDefence/status/2061385737984213249#m",
       "source": "Netram Defense",
@@ -1029,56 +1116,6 @@
       "type": "tweets",
       "content": "<p>India\u2019s indigenous loitering munition capability takes another step forward.<br />\n<br />\nHoverit successfully demonstrated the Divyastra Mk-1 tactical UAV before senior Indian Army officials in Jodhpur. Notably, the system was launched from a Made-in-India Thar-based mobile platform, highlighting growing domestic integration in India\u2019s defence ecosystem.<br />\n<br />\n- Vehicle-mounted rapid launch capability<br />\n- Up to 500 km operational range<br />\n- Up to 5 hours endurance<br />\n- ISR, reconnaissance & precision strike roles<br />\n- Configurable EO/IR payloads & mission-specific warheads</p>\n<a href=\"https://nitter.net/NetramDefence/status/2061385737984213249#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061385610707992576%2Fimg%2Fpuhpa7U6irATQnTt.jpg\" />\n</a>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "India's defence engagement with Myanmar includes training as part of UN Peacekeeping, capacity building says Foreign Secretary Vikram Misri",
-      "link": "https://nitter.net/sidhant/status/2061385412015489026#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T15:22:35+05:30",
-      "time": "01 Jun, 03:22 PM",
-      "type": "tweets",
-      "content": "<p>India's defence engagement with Myanmar includes training as part of UN Peacekeeping, capacity building says Foreign Secretary Vikram Misri</p>\n<a href=\"https://nitter.net/sidhant/status/2061385412015489026#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061385340301266944%2Fpu%2Fimg%2FPEcK5brBVfIaCk3K.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Myanmar's President assured \"Myanmar's territory wont be used\" againt India's security interest says Foreign Secretary Vikram Misri",
-      "link": "https://nitter.net/sidhant/status/2061382930988237255#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T15:12:44+05:30",
-      "time": "01 Jun, 03:12 PM",
-      "type": "tweets",
-      "content": "<p>Myanmar's President assured \"Myanmar's territory wont be used\" againt India's security interest says Foreign Secretary Vikram Misri</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Aim to \"forge closer cooperation\" between India, Myanmar,  says Foreign Secretary Vikram Misri",
-      "link": "https://nitter.net/sidhant/status/2061382766328266999#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T15:12:04+05:30",
-      "time": "01 Jun, 03:12 PM",
-      "type": "tweets",
-      "content": "<p>Aim to \"forge closer cooperation\" between India, Myanmar,  says Foreign Secretary Vikram Misri</p>\n<a href=\"https://nitter.net/sidhant/status/2061382766328266999#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061382704051236864%2Fpu%2Fimg%2Fhm2l7TIo-zBpghRN.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Myanmar is an important country, Foreign Secretary Vikram Misri begins his presser on Myanmar President U Min Aung Hlaing's India visit.",
-      "link": "https://nitter.net/sidhant/status/2061382482424180832#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T15:10:57+05:30",
-      "time": "01 Jun, 03:10 PM",
-      "type": "tweets",
-      "content": "<p>Myanmar is an important country, Foreign Secretary Vikram Misri begins his presser on Myanmar President U Min Aung Hlaing's India visit.</p>\n<a href=\"https://nitter.net/sidhant/status/2061382482424180832#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061382340979691521%2Fpu%2Fimg%2FvVY2LHV3sghCv7B4.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Foreign Secretary Vikram Misri briefs the media on Myanmar President's India visit.",
-      "link": "https://nitter.net/sidhant/status/2061381597266665849#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-01T15:07:26+05:30",
-      "time": "01 Jun, 03:07 PM",
-      "type": "tweets",
-      "content": "<p>Foreign Secretary Vikram Misri briefs the media on Myanmar President's India visit.</p>\n<img src=\"https://nitter.net/pic/media%2FHJt_oW7bUAAb7Nv.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "INDIAN NAVY REVEALS SCALE OF \u2018OPERATION SINDOOR\u2019 DEPLOYMENT\n\nFollowing the Pahalgam terror attack, the Indian Navy rapidly deployed frontline warships, submarines, carrier battle groups, and aviation assets into the Arabian Sea, maintaining what Navy Chief Admiral Dinesh K. Tripathi described as \u201cconstant pressure\u201d on Pakistan. \n\nAccording to the Navy Chief: \n- A forward deployment in the Northern Arabian Sea was established within days\n- Submarines, surface combatants, and carrier assets were placed on operational readiness\n- Pakistan Navy was effectively forced to remain close to harbour and the Makran coast during the standoff \n\nReports indicate that around 36 frontline warships and multiple submarines, led by an INS Vikrant carrier battle group, were deployed during the operation. \n\nAdmiral Tripathi said the operation demonstrated the Navy\u2019s combat readiness, operational reach, and deterrence capability, while also highlighting growing tri-service coordination among the Army, Navy, and Air Force. \n\nThe deployment increased shipping risks and insurance costs around Pakistan\u2019s maritime zone, adding economic pressure alongside the military posture.",
@@ -1569,79 +1606,18 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 After returning from Moscow, the Defense Minister told reporters at Kabul Airport:<br />\n<br />\nOur goal is to ensure that no one, including Pakistan, can ever again dare to violate or attack Afghanistan\u2019s territory.</p>\n<a href=\"https://nitter.net/burhan_uddin_0/status/2060707384717373857#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2060707366149242881%2Fpu%2Fimg%2FXQ915a6Wie6l84qT.jpg\" />\n</a>",
       "author": "@burhan_uddin_0"
-    },
-    {
-      "title": "At the Shangri-La Dialogue, Defence Secretary Rajesh Kumar announced that the BrahMos defence deal with Vietnam has been signed, while negotiations with Indonesia are in the final stages.",
-      "link": "https://nitter.net/alpha_defense/status/2060698176475291898#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-30T17:51:45+05:30",
-      "time": "30 May, 05:51 PM",
-      "type": "tweets",
-      "content": "<p>At the Shangri-La Dialogue, Defence Secretary Rajesh Kumar announced that the BrahMos defence deal with Vietnam has been signed, while negotiations with Indonesia are in the final stages.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2060698176475291898#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2060683575759155200%2Fpu%2Fimg%2Fdb4Mj3tbvGw0Zqrl.jpg\" />\n</a>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "India has officially finalized an agreement to supply BrahMos supersonic cruise missiles to Vietnam. Announced by Indian Defense Secretary Rajesh Kumar Singh at the Shangri-La Dialogue in Singapore, this deal makes Vietnam the third Southeast Asian nation to procure the missile system.",
-      "link": "https://nitter.net/NetramDefence/status/2060696490243404157#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-05-30T17:45:03+05:30",
-      "time": "30 May, 05:45 PM",
-      "type": "tweets",
-      "content": "<p>India has officially finalized an agreement to supply BrahMos supersonic cruise missiles to Vietnam. Announced by Indian Defense Secretary Rajesh Kumar Singh at the Shangri-La Dialogue in Singapore, this deal makes Vietnam the third Southeast Asian nation to procure the missile system.</p>\n<img src=\"https://nitter.net/pic/media%2FHJkQg5Ha8AAywHy.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "RT by @alpha_defense: One of the mobile numbers of Ex HAL CMD, Dr D K Sunil  is hacked with many  receiving request for financial help. He retired exactly a month ago and hackers hope to get something. Stay cautioned, don't be victims @PTI_News @DeccanHerald @TOIIndiaNews @alpha_defense @ajitkdubey",
-      "link": "https://nitter.net/gopalsutar/status/2060696462011609172#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-30T17:44:57+05:30",
-      "time": "30 May, 05:44 PM",
-      "type": "tweets",
-      "content": "<p>One of the mobile numbers of Ex HAL CMD, Dr D K Sunil  is hacked with many  receiving request for financial help. He retired exactly a month ago and hackers hope to get something. Stay cautioned, don't be victims <a href=\"https://nitter.net/PTI_News\" title=\"Press Trust of India\">@PTI_News</a> <a href=\"https://nitter.net/DeccanHerald\" title=\"Deccan Herald\">@DeccanHerald</a> <a href=\"https://nitter.net/TOIIndiaNews\" title=\"TOI India\">@TOIIndiaNews</a> <a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a> <a href=\"https://nitter.net/ajitkdubey\" title=\"Ajit Kumar Dubey\">@ajitkdubey</a></p>",
-      "author": "@gopalsutar"
-    },
-    {
-      "title": "India has officially concluded a landmark #BrahMos missile export agreement with Vietnam\ud83c\uddee\ud83c\uddf3\ud83c\uddfb\ud83c\uddf3\n\nThe deal,valued at up to $629mn,was confirmed by Defence Sec.R K Singh at the Shangri-La Dialogue.\nVietnam joins the Philippines as the 2nd Southeast Asian customer fr the BrahMos system",
-      "link": "https://nitter.net/DefenceDecode/status/2060696025933959644#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-05-30T17:43:13+05:30",
-      "time": "30 May, 05:43 PM",
-      "type": "tweets",
-      "content": "<p>India has officially concluded a landmark <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BrahMos\">#BrahMos</a> missile export agreement with Vietnam\ud83c\uddee\ud83c\uddf3\ud83c\uddfb\ud83c\uddf3<br />\n<br />\nThe deal,valued at up to $629mn,was confirmed by Defence Sec.R K Singh at the Shangri-La Dialogue.<br />\nVietnam joins the Philippines as the 2nd Southeast Asian customer fr the BrahMos system</p>\n<img src=\"https://nitter.net/pic/media%2FHJkPVZ0bIAEPVnG.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "Government has exempted all customs duties on cotton imports from June 1 to October 30, 2026, to support the textile sector and reduce input costs for manufacturers.",
-      "link": "https://nitter.net/elitepredatorss/status/2060695991976956365#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-30T17:43:05+05:30",
-      "time": "30 May, 05:43 PM",
-      "type": "tweets",
-      "content": "<p>Government has exempted all customs duties on cotton imports from June 1 to October 30, 2026, to support the textile sector and reduce input costs for manufacturers.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Rajasthan:\nLadnun, Didwana-Kuchaman \nToday 4:15pm\n\n\ud83c\udfa5 RPS TG user",
-      "link": "https://nitter.net/Goreunit/status/2060695365201048005#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-30T17:40:35+05:30",
-      "time": "30 May, 05:40 PM",
-      "type": "tweets",
-      "content": "<p>Rajasthan:<br />\nLadnun, Didwana-Kuchaman <br />\nToday 4:15pm<br />\n<br />\n\ud83c\udfa5 RPS TG user</p>\n<a href=\"https://nitter.net/Goreunit/status/2060695365201048005#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2060695337124474881%2Fpu%2Fimg%2F2zDC786XQW5nUbYt.jpg\" />\n</a>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Rajasthan Churu",
-      "link": "https://nitter.net/Goreunit/status/2060692695904047315#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-30T17:29:59+05:30",
-      "time": "30 May, 05:29 PM",
-      "type": "tweets",
-      "content": "<p>Rajasthan Churu</p>\n<a href=\"https://nitter.net/Goreunit/status/2060692695904047315#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2060692675398107136%2Fpu%2Fimg%2FU4ST4M7eR2_u-TZw.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Sandstorm in Rajasthan</p>\n<a href=\"https://nitter.net/Goreunit/status/2060683733389521368#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2060683705656774656%2Fpu%2Fimg%2FgX-JEFqzwU_4cQQz.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2060683733389521368#m\">https://nitter.net/Goreunit/status/2060683733389521368#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
+    {
+      "title": "Indian Defence Updates : Rafale Final Push,Next-Gen Cruiser,Adani Agnikaa Kamikaze,Talisman on Su-30",
+      "link": "https://www.youtube.com/watch?v=zyGnipEurWs",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-01T17:47:17+05:30",
+      "time": "01 Jun, 05:47 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/zyGnipEurWs/mqdefault.jpg"
+    },
     {
       "title": "Defence Updates - India Local Su57E, DRDO Secret Bomb Test, Indian Navy TEDBF Fighter Jet",
       "link": "https://www.youtube.com/watch?v=DFK4xiZMbN8",
@@ -1668,18 +1644,9 @@
       "time": "30 May, 10:20 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/889E0HwCpzk/mqdefault.jpg"
-    },
-    {
-      "title": "The Battle for Andaman Has Already Begun | Elitepredators",
-      "link": "https://www.youtube.com/watch?v=ZsNmx3vYTS4",
-      "source": "Elite Predators",
-      "sort_key": "2026-05-30T18:07:49+05:30",
-      "time": "30 May, 06:07 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/ZsNmx3vYTS4/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
