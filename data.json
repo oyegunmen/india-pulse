@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "DRDO, IAF successfully test RudraM-II air-to-surface missile from Su-30MKI fighter; hits target with pin-point accuracy",
+      "link": "https://economictimes.indiatimes.com/news/defence/drdo-iaf-successfully-test-rudram-ii-air-to-surface-missile-from-su-30mki-fighter-hits-target-with-pin-point-accuracy/articleshow/131465756.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-02T19:32:40+05:30",
+      "time": "02 Jun, 07:32 PM",
+      "type": "news",
+      "description": "India's Defence Research and Development Organisation and the Indian Air Force have successfully conducted flight tests of the RudraM-II air-to-surfac..."
+    },
+    {
+      "title": "India successfully flight-tests RudraM-II air-to-surface missile: Why is it a gamechanger?",
+      "link": "https://www.indiatvnews.com/news/india/india-successfully-flight-tests-rudram-ii-air-to-surface-missile-from-airborne-platform-drdo-indian-air-force-latest-updates-2026-06-02-1043393",
+      "source": "India TV",
+      "sort_key": "2026-06-02T19:15:07+05:30",
+      "time": "02 Jun, 07:15 PM",
+      "type": "news",
+      "description": "The Defence Research and Development Organisation (DRDO) and the Indian Air Force (IAF) have successfully conducted flight tests of the RudraM-II air-..."
+    },
+    {
       "title": "Tata chairman reviews defence manufacturing push at Bengaluru facilities",
       "link": "https://economictimes.indiatimes.com/news/defence/tata-chairman-reviews-defence-manufacturing-push-at-bengaluru-facilities/articleshow/131465297.cms",
       "source": "Economic Times",
@@ -96,15 +114,6 @@
       "source": "New Indian Express",
       "sort_key": "2026-06-02T16:16:04+05:30",
       "time": "02 Jun, 04:16 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "China suppressing Tiananmen Square massacre remembrance efforts ahead of 37th anniversary: HRW",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/02/china-suppressing-tiananmen-square-massacre-remembrance-efforts-ahead-of-37th-anniversary-hrw",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-02T15:59:19+05:30",
-      "time": "02 Jun, 03:59 PM",
       "type": "news",
       "description": ""
     },
@@ -442,6 +451,15 @@
       "description": "India has requested France for 114 Rafale fighter jets. This major deal is valued at approximately 3.25 lakh crore rupees. A significant portion of th..."
     },
     {
+      "title": "Eye on China, India and Australia pledge deeper maritime security ties, defence cooperation",
+      "link": "https://theprint.in/defence/eye-on-china-india-and-australia-pledge-deeper-maritime-security-ties-defence-cooperation/2947499/",
+      "source": "The Print",
+      "sort_key": "2026-06-01T19:30:51+05:30",
+      "time": "01 Jun, 07:30 PM",
+      "type": "news",
+      "description": "Defence Minister Rajnath Singh and Australian counterpart Richard Marles agreed to further maritime domain awareness activities both undersea and thro..."
+    },
+    {
       "title": "US-Iran conflict flares again: American strikes trigger missile retaliation as peace talks falter",
       "link": "https://economictimes.indiatimes.com/news/defence/us-iran-conflict-flares-again-american-strikes-trigger-missile-retaliation-as-peace-talks-falter/articleshow/131444248.cms",
       "source": "Economic Times",
@@ -586,6 +604,15 @@
       "description": "The United States and Iran have exchanged military strikes over the weekend. Iran's Revolutionary Guards targeted a US base in response to US strikes ..."
     },
     {
+      "title": "India revives plan to acquire small submarines. Foreign design or indigenous solution is the question",
+      "link": "https://theprint.in/defence/india-revives-plan-to-acquire-small-submarines-foreign-design-or-indigenous-solution-is-the-question/2942855/",
+      "source": "The Print",
+      "sort_key": "2026-06-01T08:44:03+05:30",
+      "time": "01 Jun, 08:44 AM",
+      "type": "news",
+      "description": "EXCLUSIVE &#124; Indian Navy has reinitiated discussions with at least 2 Indian shipyards for procurement of vessels, meant for covert missions by the..."
+    },
+    {
       "title": "US proposes new plan to ease Israel-Lebanon tensions amid fighting",
       "link": "https://economictimes.indiatimes.com/news/defence/us-proposes-new-plan-to-ease-israel-lebanon-tensions-amid-fighting/articleshow/131432801.cms",
       "source": "Economic Times",
@@ -647,36 +674,69 @@
       "time": "31 May, 08:48 PM",
       "type": "news",
       "description": "Officials said the units have been involved in intelligence-based jungle warfare and counter-insurgency operations against Maoists"
-    },
-    {
-      "title": "Myanmar explosion kills 45, houses near China border damaged",
-      "link": "https://indianexpress.com/article/world/myanmar-mining-explosives-blast-namhkam-death-toll-10717263/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-31T20:09:23+05:30",
-      "time": "31 May, 08:09 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Israeli forces make historic push inside Lebanon and complicate an Iran deal",
-      "link": "https://economictimes.indiatimes.com/news/defence/israeli-forces-make-historic-push-inside-lebanon-and-complicate-an-iran-deal/articleshow/131424429.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-31T19:56:06+05:30",
-      "time": "31 May, 07:56 PM",
-      "type": "news",
-      "description": "Israeli forces are conducting their deepest incursion into Lebanon in over 25 years. This is happening despite a U.S.-brokered ceasefire and initial d..."
-    },
-    {
-      "title": "Taiwan condemns China after New York Times reporter expelled after presidential interview",
-      "link": "https://indianexpress.com/article/world/taiwan-condemns-china-nyt-reporter-expulsion-lai-ching-te-interview-10717230/",
-      "source": "The Indian Express",
-      "sort_key": "2026-05-31T19:27:14+05:30",
-      "time": "31 May, 07:27 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Nepal's ruling party Rastriya Swatantra Party Chief Rabi Lamichhane meets India's Home Minister Amit Shah in Delhi",
+      "link": "https://nitter.net/sidhant/status/2061815886936461711#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T19:53:08+05:30",
+      "time": "02 Jun, 07:53 PM",
+      "type": "tweets",
+      "content": "<p>Nepal's ruling party Rastriya Swatantra Party Chief Rabi Lamichhane meets India's Home Minister Amit Shah in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0Kng3a4AAem0n.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "More visuals of Nepal's ruling party chief Rastriya Swatantra Party Rabi Lamichhane at headquarters of India's ruling party BJP.",
+      "link": "https://nitter.net/sidhant/status/2061815433142133095#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T19:51:20+05:30",
+      "time": "02 Jun, 07:51 PM",
+      "type": "tweets",
+      "content": "<p>More visuals of Nepal's ruling party chief Rastriya Swatantra Party Rabi Lamichhane at headquarters of India's ruling party BJP.</p>\n<a href=\"https://nitter.net/sidhant/status/2061815433142133095#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061697201957654528%2Fimg%2F2sEilAHAjE-0TI3m.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Vipul @vipulifs appointed as India's envoy to Saudi Arabia",
+      "link": "https://nitter.net/sidhant/status/2061812167826088164#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T19:38:22+05:30",
+      "time": "02 Jun, 07:38 PM",
+      "type": "tweets",
+      "content": "<p>Vipul <a href=\"https://nitter.net/vipulifs\" title=\"vipul\">@vipulifs</a> appointed as India's envoy to Saudi Arabia</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0HPHwbcAAPjT8.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Another major milestone for India's defence capabilities.\n\nDRDO and the Indian Air Force have successfully tested the RudraM-II Air-to-Surface Missile, demonstrating precision, reliability, and long-range strike capability at nearly 300 km under demanding test conditions.\n\nA strong step forward for indigenous defence technology and a testament to the skill of India's scientists, engineers, and air warriors.\n\nRepresentative pics",
+      "link": "https://nitter.net/OsintTV/status/2061809259914920233#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-02T19:26:48+05:30",
+      "time": "02 Jun, 07:26 PM",
+      "type": "tweets",
+      "content": "<p>Another major milestone for India's defence capabilities.<br />\n<br />\nDRDO and the Indian Air Force have successfully tested the RudraM-II Air-to-Surface Missile, demonstrating precision, reliability, and long-range strike capability at nearly 300 km under demanding test conditions.<br />\n<br />\nA strong step forward for indigenous defence technology and a testament to the skill of India's scientists, engineers, and air warriors.<br />\n<br />\nRepresentative pics</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0ElUtXMAAMd2j.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "India tests RudraM-II Air-to-Surface Missile. Picture of the test",
+      "link": "https://nitter.net/sidhant/status/2061808032322089364#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T19:21:56+05:30",
+      "time": "02 Jun, 07:21 PM",
+      "type": "tweets",
+      "content": "<p>India tests RudraM-II Air-to-Surface Missile. Picture of the test</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0DesbbMAAqp2g.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India test-fires indigenous RudraM-II air-to-surface missile from airborne platform:</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0B5LeboAAUgYD.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2061806296308011219#m\">https://nitter.net/sidhant/status/2061806296308011219#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Boards in Delhi to welcome Nepal Ruling party chief Rastriya Swatantra Party Rabi Lamichhane. Rare for a visiting party leader of a foreign country to get such a welcome.",
+      "link": "https://nitter.net/sidhant/status/2061807523922145307#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T19:19:54+05:30",
+      "time": "02 Jun, 07:19 PM",
+      "type": "tweets",
+      "content": "<p>Boards in Delhi to welcome Nepal Ruling party chief Rastriya Swatantra Party Rabi Lamichhane. Rare for a visiting party leader of a foreign country to get such a welcome.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0DAt9bwAAyW7w.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "DRDO and IAF successfully flight-tested the indigenous RudraM-II air-to-surface missile from a Su-30MKI under extreme release conditions.\n\n\u2714\ufe0f Direct hit on target\n\u2714\ufe0f All mission objectives achieved\n\u2714\ufe0f Significant boost to India\u2019s indigenous precision-strike capability",
       "link": "https://nitter.net/alpha_defense/status/2061807095088087180#m",
@@ -1028,26 +1088,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "EAM Dr Jaishankar meets Nepal's Rastriya Swatantra Party Chairperson Rabi Lamichhane",
-      "link": "https://nitter.net/sidhant/status/2061776688158273962#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T17:17:23+05:30",
-      "time": "02 Jun, 05:17 PM",
-      "type": "tweets",
-      "content": "<p>EAM Dr Jaishankar meets Nepal's Rastriya Swatantra Party Chairperson Rabi Lamichhane</p>\n<img src=\"https://nitter.net/pic/media%2FHJzm9oebgAA_jSI.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Breaking: Indian nationals will no longer require a transit visa when traveling to another country with a layover at a German airport, annouces Germany",
-      "link": "https://nitter.net/sidhant/status/2061774680160399400#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T17:09:24+05:30",
-      "time": "02 Jun, 05:09 PM",
-      "type": "tweets",
-      "content": "<p>Breaking: Indian nationals will no longer require a transit visa when traveling to another country with a layover at a German airport, annouces Germany</p>\n<img src=\"https://nitter.net/pic/media%2FHJzlJFjaYAAkdIW.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: It started ?\n\nPoJK Crisis: Civilians bear the brunt of economic failure\n\nAmidst the ongoing struggle for basic supplies, this heart-wrenching scene from Haveli - Kahuta, PoJK, highlights the severe crisis as people queue for hours just for a bag of flour.",
       "link": "https://nitter.net/OsintTV/status/2061764984250438113#m",
       "source": "Osint TV",
@@ -1056,36 +1096,6 @@
       "type": "tweets",
       "content": "<p>It started ?<br />\n<br />\nPoJK Crisis: Civilians bear the brunt of economic failure<br />\n<br />\nAmidst the ongoing struggle for basic supplies, this heart-wrenching scene from Haveli - Kahuta, PoJK, highlights the severe crisis as people queue for hours just for a bag of flour.</p>\n<a href=\"https://nitter.net/OsintTV/status/2061764984250438113#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061764816587362304%2Fimg%2F0dit-o9lX6w7MBdo.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Rabi Lamichhane will have high level meeting in Delhi, MEA Spox Randhir Jaiswal highlighting cultural, people ties",
-      "link": "https://nitter.net/sidhant/status/2061763353568243720#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T16:24:23+05:30",
-      "time": "02 Jun, 04:24 PM",
-      "type": "tweets",
-      "content": "<p>Rabi Lamichhane will have high level meeting in Delhi, MEA Spox Randhir Jaiswal highlighting cultural, people ties</p>\n<a href=\"https://nitter.net/sidhant/status/2061763353568243720#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061763259561385984%2Fpu%2Fimg%2F8CX_Q-YBpO6eWsFm.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: India on Kashmir mention in Pakistan EU joint statement \n\n\"We categorically reject such unwarranted references in the Joint Press Communique on matters internal to India. The UTs of Jammu and Kashmir and Ladakh are integral and inalienable parts of India. Those who have no locus standi on such matters should desist from making any comment on them.\"",
-      "link": "https://nitter.net/sidhant/status/2061762449490215000#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T16:20:48+05:30",
-      "time": "02 Jun, 04:20 PM",
-      "type": "tweets",
-      "content": "<p>India on Kashmir mention in Pakistan EU joint statement <br />\n<br />\n\"We categorically reject such unwarranted references in the Joint Press Communique on matters internal to India. The UTs of Jammu and Kashmir and Ladakh are integral and inalienable parts of India. Those who have no locus standi on such matters should desist from making any comment on them.\"</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: India on Baleh remarks\n\nWe have seen the remarks of Prime Minister of Nepal concerning India-Nepal boundary as well as the subsequent statement issued by Nepali MOFA on this matter.\n\nWhile close to 98% of the India-Nepal boundary has been demarcated, there are some unresolved segments.  The shifting of the course of the Gandak river has resulted in this situation. In addition, there are cases of cross-border occupation and encroachment of No-Man's land in demarcated segments of the boundary which are currently being mapped jointly.\n\nWe have established bilateral mechanisms to deal with all aspects of boundary matters. It should be clear to all concerned that there is no role for any third parties in a bilateral matter between India and Nepal.",
-      "link": "https://nitter.net/sidhant/status/2061762261874770140#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T16:20:03+05:30",
-      "time": "02 Jun, 04:20 PM",
-      "type": "tweets",
-      "content": "<p>India on Baleh remarks<br />\n<br />\nWe have seen the remarks of Prime Minister of Nepal concerning India-Nepal boundary as well as the subsequent statement issued by Nepali MOFA on this matter.<br />\n<br />\nWhile close to 98% of the India-Nepal boundary has been demarcated, there are some unresolved segments.  The shifting of the course of the Gandak river has resulted in this situation. In addition, there are cases of cross-border occupation and encroachment of No-Man's land in demarcated segments of the boundary which are currently being mapped jointly.<br />\n<br />\nWe have established bilateral mechanisms to deal with all aspects of boundary matters. It should be clear to all concerned that there is no role for any third parties in a bilateral matter between India and Nepal.</p>",
-      "author": "@sidhant"
     },
     {
       "title": "Annamalai quits BJP!!",
@@ -1248,16 +1258,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "OSINT Update:\n\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.",
-      "link": "https://nitter.net/OsintTV/status/2061480496098382195#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T21:40:25+05:30",
-      "time": "01 Jun, 09:40 PM",
-      "type": "tweets",
-      "content": "<p>OSINT Update:<br />\n<br />\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvZk48WsAAb7yr.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu & Kashmir.",
       "link": "https://nitter.net/elitepredatorss/status/2061479877820494318#m",
       "source": "Elite Predators",
@@ -1344,7 +1344,7 @@
       "sort_key": "2026-06-01T20:22:02+05:30",
       "time": "01 Jun, 08:22 PM",
       "type": "tweets",
-      "content": "<p>India issues Letter of Request to France for Rs 3.25 lakh crore 114 Rafale jet deal, \u2705Deal in years time  <a href=\"https://nitter.net/ajitkdubey\" title=\"Ajit Kumar Dubey\">@ajitkdubey</a> for <a href=\"https://nitter.net/ani_digital\" title=\"ANI Digital\">@ani_digital</a> <br />\n<br />\nRead more At: <br />\n<a href=\"https://www.aninews.in/news/national/general-news/india-issues-letter-of-request-to-france-for-rs-325-lakh-crore-114-rafale-jet-deal-94-jets-to-be-made-in-india20260601193317/\">aninews.in/news/national/gen\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2061448839664738304%2Fp2D6-BA_%3Fformat%3Djpg%26name%3D280x280_2\" />",
+      "content": "<p>India issues Letter of Request to France for Rs 3.25 lakh crore 114 Rafale jet deal, \u2705Deal in years time  <a href=\"https://nitter.net/ajitkdubey\" title=\"Ajit Kumar Dubey\">@ajitkdubey</a> for <a href=\"https://nitter.net/ani_digital\" title=\"ANI Digital\">@ani_digital</a> <br />\n<br />\nRead more At: <br />\n<a href=\"https://www.aninews.in/news/national/general-news/india-issues-letter-of-request-to-france-for-rs-325-lakh-crore-114-rafale-jet-deal-94-jets-to-be-made-in-india20260601193317/\">aninews.in/news/national/gen\u2026</a></p>",
       "author": "@alpha_defense"
     },
     {
@@ -1566,26 +1566,6 @@
       "type": "tweets",
       "content": "<p>Pakistani telecom towers along the LoC are pushing cellular signals into border districts, enabling communications that could be exploited by terror networks.</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Aukaat:\n\nWhen your best of your best 'ELITE FORCE' is reduced to 'DAAL' and 'ROTI'...",
-      "link": "https://nitter.net/OsintTV/status/2061092462437806484#m",
-      "source": "Osint TV",
-      "sort_key": "2026-05-31T19:58:30+05:30",
-      "time": "31 May, 07:58 PM",
-      "type": "tweets",
-      "content": "<p>Aukaat:<br />\n<br />\nWhen your best of your best 'ELITE FORCE' is reduced to 'DAAL' and 'ROTI'...</p>\n<a href=\"https://nitter.net/OsintTV/status/2061092462437806484#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061091636671545346%2Fimg%2FnYeSZPDrt9rdv24j.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Powindah \ud83d\udc80 (@intel_view)</b>\n<p>\n<p>One Pakistan \ud83c\uddf5\ud83c\uddf0 army powindah soldier mogs entire Indian ethnicity \ud83c\uddee\ud83c\uddf3\ud83e\udd2e</p>\n<img src=\"https://nitter.net/pic/media%2FHJd32xmb0AAZG2C.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/intel_view/status/2060247145232674867#m\">https://nitter.net/intel_view/status/2060247145232674867#m</a>\n</footer>\n</blockquote>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\udcf8 For Representation :)",
-      "link": "https://nitter.net/alpha_defense/status/2061088000629686738#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-31T19:40:47+05:30",
-      "time": "31 May, 07:40 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udcf8 For Representation :)</p>\n<img src=\"https://nitter.net/pic/media%2FHJp0nSCbkAAc5-q.jpg\" />\n\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23UPDATE\">#UPDATE</a> | Solar Industries India Limited and its subsidiary have received export orders worth INR 1076 Crores for Supply of Defence Products, to be delivered over a period of 3 years.</p>\n<img src=\"https://nitter.net/pic/media%2FHJpiKZ1akAAjRjU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJpiKcKaAAA_i60.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2061067714421264781#m\">https://nitter.net/alpha_defense/status/2061067714421264781#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
     }
   ],
   "youtube": [
@@ -1636,6 +1616,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 PM IST"
+    "last_updated": "08:24 PM IST"
   }
 }
