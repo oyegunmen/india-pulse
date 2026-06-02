@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "At least 16 Ukrainian civilians killed, more than 100 injured in Russian drone and missile attacks",
+      "link": "https://newsonair.gov.in/at-least-16-ukrainian-civilians-killed-more-than-100-injured-in-russian-drone-and-missile-attacks/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-02T18:05:31+05:30",
+      "time": "02 Jun, 06:05 PM",
+      "type": "news",
+      "description": "Russia launched hundreds of drones and dozens of missiles against Kyiv and other Ukrainian cities overnight, killing at least 16 civilians and woundin..."
+    },
+    {
+      "title": "Lebanon: Eight people die in Israeli drone strikes",
+      "link": "https://newsonair.gov.in/lebanon-eight-people-die-in-israeli-drone-strikes/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-02T17:55:03+05:30",
+      "time": "02 Jun, 05:55 PM",
+      "type": "news",
+      "description": "Eight people died in Israeli drone strikes in southern Lebanon today. Israel threatened yesterday to strike Beirut&#8217;s southern suburbs, causing p..."
+    },
+    {
+      "title": "The ceasefires in Gaza, Lebanon and Iran are stretching the term's meaning",
+      "link": "https://economictimes.indiatimes.com/news/defence/the-ceasefires-in-gaza-lebanon-and-iran-are-stretching-the-terms-meaning/articleshow/131463540.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-02T17:38:17+05:30",
+      "time": "02 Jun, 05:38 PM",
+      "type": "news",
+      "description": "Ceasefires have been announced but fighting continues across the Middle East - Gaza, Lebanon and Iran. Israeli forces advance in Gaza and Lebanon. The..."
+    },
+    {
+      "title": "'No role for any third parties': India after Nepal PM seeks China, UK involvement in border dispute",
+      "link": "https://www.indiatvnews.com/news/india/no-role-for-any-third-parties-in-india-nepal-border-issue-mea-after-pm-balen-shah-seeks-china-uk-involvement-latest-updates-2026-06-02-1043376",
+      "source": "India TV",
+      "sort_key": "2026-06-02T17:31:53+05:30",
+      "time": "02 Jun, 05:31 PM",
+      "type": "news",
+      "description": "India on Tuesday (June 2) firmly rejected any role for third parties in resolving its boundary dispute with Nepal, days after Nepalese Prime Minister ..."
+    },
+    {
+      "title": "Battlefield-tested, Israeli defence exports jump nearly 30% in 2025",
+      "link": "https://economictimes.indiatimes.com/news/defence/battlefield-tested-israeli-defence-exports-jump-nearly-30-in-2025/articleshow/131463227.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-02T17:19:17+05:30",
+      "time": "02 Jun, 05:19 PM",
+      "type": "news",
+      "description": "Israel's defence exports surged to a record $19.2 billion in 2025, driven by missile and air defence systems.  Wartime production for domestic forces ..."
+    },
+    {
+      "title": "Ukraine pushed Russia back in May for second month running: AFP analysis",
+      "link": "https://economictimes.indiatimes.com/news/defence/ukraine-pushed-russia-back-in-may-for-second-month-running-afp-analysis/articleshow/131463158.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-02T17:16:01+05:30",
+      "time": "02 Jun, 05:16 PM",
+      "type": "news",
+      "description": "Ukraine has regained more land than it lost to Russia for two consecutive months.  In May, Kyiv's forces secured a net gain of 282 square kilometers. ..."
+    },
+    {
       "title": "Norsk Titanium signs Airbus deal to advance 3D-printed aircraft parts",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/norsk-titanium-signs-airbus-deal-to-advance-3d-printed-aircraft-parts/131462845",
       "source": "Economic Times",
@@ -163,15 +217,6 @@
       "description": ""
     },
     {
-      "title": "Meet the 3 teens who took on CBSE",
-      "link": "https://www.tribuneindia.com/news/trending/meet-the-3-teens-who-took-on-cbse",
-      "source": "The Tribune",
-      "sort_key": "2026-06-02T11:35:24+05:30",
-      "time": "02 Jun, 11:35 AM",
-      "type": "news",
-      "description": "In an age where social media often drives public discourse, three teenagers have emerged at the centre of one of the biggest controversies involving t..."
-    },
-    {
       "title": "Operation Sheruwali: Rajouri anti-terror op enters Day 11; helicopters, drones deployed",
       "link": "https://economictimes.indiatimes.com/news/defence/operation-sheruwali-rajouri-anti-terror-op-enters-day-11-helicopters-drones-deployed/videoshow/131455338.cms",
       "source": "Economic Times",
@@ -215,24 +260,6 @@
       "time": "02 Jun, 10:06 AM",
       "type": "news",
       "description": "Canadian Prime Minister Mark Carney has warned that antisemitism in the country has reached levels not seen since World War II. Speaking at Holy Bloss..."
-    },
-    {
-      "title": "US Senators raise concern over AI chip export control loopholes benefiting China",
-      "link": "https://newsonair.gov.in/us-senators-raise-concern-over-ai-chip-export-control-loopholes-benefiting-china/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-02T10:04:12+05:30",
-      "time": "02 Jun, 10:04 AM",
-      "type": "news",
-      "description": "United States Senators have raised concerns over AI Chip Export Controls. Two senior Democratic senators have accused the Trump administration of leav..."
-    },
-    {
-      "title": "US Pentagon designates press office as classified space, restricts journalist access",
-      "link": "https://newsonair.gov.in/us-pentagon-designates-press-office-as-classified-space-restricts-journalist-access/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-02T10:00:56+05:30",
-      "time": "02 Jun, 10:00 AM",
-      "type": "news",
-      "description": "In another of a series of moves restricting media access at the Pentagon, the US Defence Department has designated the Pentagon press office as a clas..."
     },
     {
       "title": "Lockheed Martin Opens Next Generation Interceptor Facility in Courtland, Alabama",
@@ -656,27 +683,229 @@
       "time": "31 May, 06:40 PM",
       "type": "news",
       "description": "Indian Army soldiers embraced yoga near Pasang Sonam Lake in Arunachal Pradesh. This event, held nearly 9,000 feet high, is part of month-long celebra..."
-    },
-    {
-      "title": "Iran slams Washington's attempt to divide Iran and force it to surrender as \"false dream\"",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-slams-washingtons-attempt-to-divide-iran-and-force-it-to-surrender-as-false-dream/articleshow/131422919.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-05-31T17:51:03+05:30",
-      "time": "31 May, 05:51 PM",
-      "type": "news",
-      "description": "\"In the new phase of the war, the enemy is seeking to create discord and destroy the country's cohesion through economic pressure and media manipulati..."
-    },
-    {
-      "title": "I Stand As Victim Of State-Sponsored Terrorism: Abhishek Banerjee slams BJP",
-      "link": "https://www.deccanchronicle.com/nation/politics/i-stand-as-victim-of-state-sponsored-terrorism-abhishek-banerjee-slams-bjp-1960340",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-05-31T17:44:50+05:30",
-      "time": "31 May, 05:44 PM",
-      "type": "news",
-      "description": "The attack on MP Abhishek Banerjee in Sonarpur is utterly reprehensible, says Rahul Gandhi"
     }
   ],
   "tweets": [
+    {
+      "title": "R to @NetramDefence: 13/13 \nThe Underwater Domain: \n\nAs China's naval presence expands across the Indian Ocean Region, submarines will become increasingly important for maintaining strategic balance and protecting India's maritime interests. The underwater domain is becoming one of the most critical arenas of modern competition.",
+      "link": "https://nitter.net/NetramDefence/status/2061792802795933881#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:25+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>13/13 <br />\nThe Underwater Domain: <br />\n<br />\nAs China's naval presence expands across the Indian Ocean Region, submarines will become increasingly important for maintaining strategic balance and protecting India's maritime interests. The underwater domain is becoming one of the most critical arenas of modern competition.</p>\n<img src=\"https://nitter.net/pic/media%2FHJz0l7mbcAARDy7.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 12/13 \nIndia's Submarine Future: \n\nIndia is actively pursuing indigenous SSN development while also expanding its conventional submarine fleet through Project-75(I). \nFuture submarines are expected to feature: \n\ud83d\udd39 Air Independent Propulsion (AIP) \n\ud83d\udd39 Greater endurance \n\ud83d\udd39 Enhanced stealth \n\ud83d\udd39 Advanced sensors and weapons.",
+      "link": "https://nitter.net/NetramDefence/status/2061792799629185272#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:24+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>12/13 <br />\nIndia's Submarine Future: <br />\n<br />\nIndia is actively pursuing indigenous SSN development while also expanding its conventional submarine fleet through Project-75(I). <br />\nFuture submarines are expected to feature: <br />\n\ud83d\udd39 Air Independent Propulsion (AIP) <br />\n\ud83d\udd39 Greater endurance <br />\n\ud83d\udd39 Enhanced stealth <br />\n\ud83d\udd39 Advanced sensors and weapons.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzz3hCboAA8B48.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 11/13\nNuclear Attack Submarines (SSNs): The Future of Undersea Warfare \n\nUnlike SSBNs, which carry strategic nuclear missiles, SSNs are hunter-killers designed to: \n\u2022 Track enemy submarines \n\u2022 Escort carrier strike groups \n\u2022 Gather intelligence \n\u2022 Project power far from home waters\n\nWhy SSNs Matters ?\n\nSSNs combine unlimited endurance, high speed, and exceptional stealth, allowing them to operate undetected across vast oceans. Their versatility makes them indispensable for surveillance, strike missions, fleet protection, and maintaining blue-water naval dominance.\n\nIndia's SSN Ambition\n\nIndia's Arihant-class SSBNs provide strategic deterrence, but future indigenous SSNs will strengthen the Indian Navy's ability to counter adversary submarines, protect carrier battle groups, and maintain a persistent presence across the Indian Ocean Region and beyond.",
+      "link": "https://nitter.net/NetramDefence/status/2061792796303052995#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:23+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>11/13<br />\nNuclear Attack Submarines (SSNs): The Future of Undersea Warfare <br />\n<br />\nUnlike SSBNs, which carry strategic nuclear missiles, SSNs are hunter-killers designed to: <br />\n\u2022 Track enemy submarines <br />\n\u2022 Escort carrier strike groups <br />\n\u2022 Gather intelligence <br />\n\u2022 Project power far from home waters<br />\n<br />\nWhy SSNs Matters ?<br />\n<br />\nSSNs combine unlimited endurance, high speed, and exceptional stealth, allowing them to operate undetected across vast oceans. Their versatility makes them indispensable for surveillance, strike missions, fleet protection, and maintaining blue-water naval dominance.<br />\n<br />\nIndia's SSN Ambition<br />\n<br />\nIndia's Arihant-class SSBNs provide strategic deterrence, but future indigenous SSNs will strengthen the Indian Navy's ability to counter adversary submarines, protect carrier battle groups, and maintain a persistent presence across the Indian Ocean Region and beyond.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzzAhOaYAAd0FD.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 10/13\nIndia's Nuclear Triad: \nA credible nuclear deterrent rests on three pillars: \n1. Land-Based Missiles \u2013 Agni series ballistic missiles \n2. Air-Based Delivery \u2013 Nuclear-capable fighter aircraft \n3. Sea-Based Deterrent \u2013 Arihant-class SSBNs armed with SLBMs \n\nEven if one or two legs of the triad are neutralized, the third can retaliate; ensuring a credible second-strike capability and robust nuclear deterrence. With the induction of the Arihant class, India joined the select group of nations with a fully operational nuclear triad.\n\nLand. Air. Sea. \nThree Dimensions. One Deterrent.",
+      "link": "https://nitter.net/NetramDefence/status/2061792792729600401#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:22+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>10/13<br />\nIndia's Nuclear Triad: <br />\nA credible nuclear deterrent rests on three pillars: <br />\n1. Land-Based Missiles \u2013 Agni series ballistic missiles <br />\n2. Air-Based Delivery \u2013 Nuclear-capable fighter aircraft <br />\n3. Sea-Based Deterrent \u2013 Arihant-class SSBNs armed with SLBMs <br />\n<br />\nEven if one or two legs of the triad are neutralized, the third can retaliate; ensuring a credible second-strike capability and robust nuclear deterrence. With the induction of the Arihant class, India joined the select group of nations with a fully operational nuclear triad.<br />\n<br />\nLand. Air. Sea. <br />\nThree Dimensions. One Deterrent.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzxs9SaMAAUJQQ.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 9/13\nThe Arihant-Class \n\nBut the most strategic component of India's submarine force lies elsewhere. Enter the Arihant Class. Arihant-Class SSBN SSBN stands for: Ship Submersible Ballistic Nuclear.\n\nThe Arihant-class is India's first indigenous nuclear-powered ballistic missile submarine (SSBN), forming the sea-based leg of the nuclear triad. Equipped with K-15 and K-4 SLBMs and powered by an 83 MW reactor, it provides stealthy, long-endurance patrols and a credible second-strike nuclear deterrent. \n\nActive Units \n\u2022 INS Arihant (S2) \n\u2022 INS Arighaat (S3)\n\nKey Features \n\ud83d\udd39 Nuclear-powered propulsion \n\ud83d\udd39 Ballistic missile capability \n\ud83d\udd39 Advanced stealth and sonar systems \n\ud83d\udd39 Indigenous design and construction \n\ud83d\udd39 Cornerstone of India's strategic deterrence \n\n\"Silent Sentinels of India's Nuclear Triad.\"",
+      "link": "https://nitter.net/NetramDefence/status/2061792789520888042#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:21+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>9/13<br />\nThe Arihant-Class <br />\n<br />\nBut the most strategic component of India's submarine force lies elsewhere. Enter the Arihant Class. Arihant-Class SSBN SSBN stands for: Ship Submersible Ballistic Nuclear.<br />\n<br />\nThe Arihant-class is India's first indigenous nuclear-powered ballistic missile submarine (SSBN), forming the sea-based leg of the nuclear triad. Equipped with K-15 and K-4 SLBMs and powered by an 83 MW reactor, it provides stealthy, long-endurance patrols and a credible second-strike nuclear deterrent. <br />\n<br />\nActive Units <br />\n\u2022 INS Arihant (S2) <br />\n\u2022 INS Arighaat (S3)<br />\n<br />\nKey Features <br />\n\ud83d\udd39 Nuclear-powered propulsion <br />\n\ud83d\udd39 Ballistic missile capability <br />\n\ud83d\udd39 Advanced stealth and sonar systems <br />\n\ud83d\udd39 Indigenous design and construction <br />\n\ud83d\udd39 Cornerstone of India's strategic deterrence <br />\n<br />\n\"Silent Sentinels of India's Nuclear Triad.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHJzvc1sagAAV0Uu.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 8/13\n\nThe Shishumar-Class Derived from Germany's Type-209 design, these submarines introduced several advanced Western technologies to the Indian Navy. Known for reliability and endurance, they continue to remain valuable operational assets. \n\nActive Submarines: \nINS Shishumar (S44) \nINS Shankush (S45) \nINS Shalki (S46)\nINS Shankul (S47)",
+      "link": "https://nitter.net/NetramDefence/status/2061792785917985275#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:21+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>8/13<br />\n<br />\nThe Shishumar-Class Derived from Germany's Type-209 design, these submarines introduced several advanced Western technologies to the Indian Navy. Known for reliability and endurance, they continue to remain valuable operational assets. <br />\n<br />\nActive Submarines: <br />\nINS Shishumar (S44) <br />\nINS Shankush (S45) <br />\nINS Shalki (S46)<br />\nINS Shankul (S47)</p>\n<img src=\"https://nitter.net/pic/media%2FHJzuUo1aYAAzc_E.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 7/13\n\nThe Sindhughosh-Class \nThe INS Sindhughosh class (also known as Kilo-class) are Russian-built, diesel-electric attack submarines. They are optimized for anti-submarine and anti-shipping operations in shallow littoral waters. Known for their quiet operations, they are armed with heavyweight torpedoes and Klub-S anti-ship cruise missiles. \n\nActive Submarines \nINS Sindhuraj (S57) \nINS Sindhuratna (S59) \nINS Sindhukesari (S60) \nINS Sindhukirti (S61) \nINS Sindhuvijay (S62)\nINS Sindhurashtra (S65) \nINS Sindhushastra (S65) \n\nMany naval analysts referred to them as \"Black Holes\" because of the difficulty in detecting them underwater.",
+      "link": "https://nitter.net/NetramDefence/status/2061792782394732850#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:20+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>7/13<br />\n<br />\nThe Sindhughosh-Class <br />\nThe INS Sindhughosh class (also known as Kilo-class) are Russian-built, diesel-electric attack submarines. They are optimized for anti-submarine and anti-shipping operations in shallow littoral waters. Known for their quiet operations, they are armed with heavyweight torpedoes and Klub-S anti-ship cruise missiles. <br />\n<br />\nActive Submarines <br />\nINS Sindhuraj (S57) <br />\nINS Sindhuratna (S59) <br />\nINS Sindhukesari (S60) <br />\nINS Sindhukirti (S61) <br />\nINS Sindhuvijay (S62)<br />\nINS Sindhurashtra (S65) <br />\nINS Sindhushastra (S65) <br />\n<br />\nMany naval analysts referred to them as \"Black Holes\" because of the difficulty in detecting them underwater.</p>\n<img src=\"https://nitter.net/pic/media%2FHJztfhyasAAr46s.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 6/13\nWhat makes the Kalvari class dangerous? \n\n\u2705 Extremely low acoustic signature \n\u2705 Advanced sonar systems \n\u2705 Modern combat management systems \n\u2705 Heavyweight torpedoes \n\u2705 Anti-ship missile capability \n\nIn naval warfare, the submarine that remains undetected usually wins.",
+      "link": "https://nitter.net/NetramDefence/status/2061792778368282656#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:19+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>6/13<br />\nWhat makes the Kalvari class dangerous? <br />\n<br />\n\u2705 Extremely low acoustic signature <br />\n\u2705 Advanced sonar systems <br />\n\u2705 Modern combat management systems <br />\n\u2705 Heavyweight torpedoes <br />\n\u2705 Anti-ship missile capability <br />\n<br />\nIn naval warfare, the submarine that remains undetected usually wins.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzrmZiakAEq9o6.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 5/13\n\u2693 The Kalvari-Class Built under Project-75 at Mazagon Dock Shipbuilders in Mumbai, these submarines are based on the French Scorp\u00e8ne design and represent India's most modern conventional submarines. The project significantly strengthened India's indigenous shipbuilding capabilities.\n\nThe six submarines of this class are: \n\u2022 INS Kalvari\n\u2022 INS Khanderi \n\u2022 INS Karanj \n\u2022 INS Vela \n\u2022 INS Vagir \n\u2022 INS Vaghsheer \n\nEach is designed for stealth operations, anti-ship warfare, anti-submarine warfare, intelligence gathering, and special forces deployment.",
+      "link": "https://nitter.net/NetramDefence/status/2061792774962512316#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:18+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>5/13<br />\n\u2693 The Kalvari-Class Built under Project-75 at Mazagon Dock Shipbuilders in Mumbai, these submarines are based on the French Scorp\u00e8ne design and represent India's most modern conventional submarines. The project significantly strengthened India's indigenous shipbuilding capabilities.<br />\n<br />\nThe six submarines of this class are: <br />\n\u2022 INS Kalvari<br />\n\u2022 INS Khanderi <br />\n\u2022 INS Karanj <br />\n\u2022 INS Vela <br />\n\u2022 INS Vagir <br />\n\u2022 INS Vaghsheer <br />\n<br />\nEach is designed for stealth operations, anti-ship warfare, anti-submarine warfare, intelligence gathering, and special forces deployment.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzq4FObMAAvRLZ.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 4/13\n\nIndia currently operates a mixed submarine force consisting of: \n\ud83d\udd39 Kalvari-class (Scorp\u00e8ne) \n\ud83d\udd39 Sindhughosh-class (Kilo) \n\ud83d\udd39 Shishumar-class \n\ud83d\udd39 Arihant-class Nuclear Ballistic Missile Submarines (SSBNs) \n\nTogether, they form the backbone of India's underwater warfare capability.",
+      "link": "https://nitter.net/NetramDefence/status/2061792771552460962#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:17+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>4/13<br />\n<br />\nIndia currently operates a mixed submarine force consisting of: <br />\n\ud83d\udd39 Kalvari-class (Scorp\u00e8ne) <br />\n\ud83d\udd39 Sindhughosh-class (Kilo) <br />\n\ud83d\udd39 Shishumar-class <br />\n\ud83d\udd39 Arihant-class Nuclear Ballistic Missile Submarines (SSBNs) <br />\n<br />\nTogether, they form the backbone of India's underwater warfare capability.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzqBGpaEAAgYx9.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 3/13\n\nA submarine's greatest weapon is not its torpedoes or missiles. It's stealth. Unlike warships that can be tracked by radar and satellites, submarines can remain hidden for weeks or even months, making them one of the most difficult military assets to detect and destroy.",
+      "link": "https://nitter.net/NetramDefence/status/2061792768176083361#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:16+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>3/13<br />\n<br />\nA submarine's greatest weapon is not its torpedoes or missiles. It's stealth. Unlike warships that can be tracked by radar and satellites, submarines can remain hidden for weeks or even months, making them one of the most difficult military assets to detect and destroy.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzpKHsasAAwr08.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 2/13\n\nFor a nation with over 7,500 km of coastline and strategic interests stretching from the Persian Gulf to the Malacca Strait, undersea dominance is not a luxury, it's a necessity.\n\nThe Indian Ocean carries a major share of global energy and trade traffic, making maritime security critical for India.",
+      "link": "https://nitter.net/NetramDefence/status/2061792764002750774#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:15+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>2/13<br />\n<br />\nFor a nation with over 7,500 km of coastline and strategic interests stretching from the Persian Gulf to the Malacca Strait, undersea dominance is not a luxury, it's a necessity.<br />\n<br />\nThe Indian Ocean carries a major share of global energy and trade traffic, making maritime security critical for India.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzoiQ4agAEm-3h.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "THREAD \ud83e\uddf5\nIndia's Underwater Warriors: The Submarine Arm of the Indian Navy \n\nSubmarines are among the most complex and powerful weapons ever built. Operating silently beneath the ocean's surface, they provide stealth, deterrence, intelligence, and strike capability. \n\nHere's a deep dive into India's submarine fleet. \ud83d\udc47\n\n@indiannavy @SpokespersonMoD @IndiannavyMedia @IN_WNC @IN_HQENC @IN_HQSNC @IN_HQSNC @IN_HQMNA  @IN_WesternFleet @IN_EasternFleet @DefenceMinIndia @HQ_IDS_India \n\n1/13",
+      "link": "https://nitter.net/NetramDefence/status/2061792760399855937#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-02T18:21:14+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>THREAD \ud83e\uddf5<br />\nIndia's Underwater Warriors: The Submarine Arm of the Indian Navy <br />\n<br />\nSubmarines are among the most complex and powerful weapons ever built. Operating silently beneath the ocean's surface, they provide stealth, deterrence, intelligence, and strike capability. <br />\n<br />\nHere's a deep dive into India's submarine fleet. \ud83d\udc47<br />\n<br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <a href=\"https://nitter.net/IndiannavyMedia\" title=\"IN\">@IndiannavyMedia</a> <a href=\"https://nitter.net/IN_WNC\" title=\"Western Naval Command\">@IN_WNC</a> <a href=\"https://nitter.net/IN_HQENC\" title=\"Eastern Naval Command \ud83c\uddee\ud83c\uddf3\">@IN_HQENC</a> <a href=\"https://nitter.net/IN_HQSNC\" title=\"Southern Naval Command\">@IN_HQSNC</a> <a href=\"https://nitter.net/IN_HQSNC\" title=\"Southern Naval Command\">@IN_HQSNC</a> <a href=\"https://nitter.net/IN_HQMNA\" title=\"HQ Maharashtra Naval Area\">@IN_HQMNA</a>  <a href=\"https://nitter.net/IN_WesternFleet\" title=\"The Sword Arm\">@IN_WesternFleet</a> <a href=\"https://nitter.net/IN_EasternFleet\" title=\"The Eastern Sword\">@IN_EasternFleet</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <br />\n<br />\n1/13</p>\n<img src=\"https://nitter.net/pic/media%2FHJzntlybYAALLWI.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "South Africa is gateway to Africa for India says South Africa Deputy President Mashatile",
+      "link": "https://nitter.net/sidhant/status/2061792733031973245#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T18:21:08+05:30",
+      "time": "02 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>South Africa is gateway to Africa for India says South Africa Deputy President Mashatile</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Delhi: Deputy President of South Africa, Shipokosa Paulus Mashatile emphasizes on trade ties between his country &amp; India.<br />\n<br />\n<a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<a href=\"https://nitter.net/sidhant/status/2061792184853234130#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061791664503697408%2Fpu%2Fimg%2FZdZPIKzx_q2Pcyw5.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2061792184853234130#m\">https://nitter.net/sidhant/status/2061792184853234130#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Delhi: Deputy President of South Africa, Shipokosa Paulus Mashatile emphasizes on trade ties between his country & India.\n\n@WIONews",
+      "link": "https://nitter.net/sidhant/status/2061792184853234130#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T18:18:57+05:30",
+      "time": "02 Jun, 06:18 PM",
+      "type": "tweets",
+      "content": "<p>Delhi: Deputy President of South Africa, Shipokosa Paulus Mashatile emphasizes on trade ties between his country &amp; India.<br />\n<br />\n<a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<a href=\"https://nitter.net/sidhant/status/2061792184853234130#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061791664503697408%2Fpu%2Fimg%2FZdZPIKzx_q2Pcyw5.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Deputy President of South Africa, Shipokosa Paulus Mashatile holds presser in Delhi \n\n@WIONews",
+      "link": "https://nitter.net/sidhant/status/2061790932492824897#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T18:13:59+05:30",
+      "time": "02 Jun, 06:13 PM",
+      "type": "tweets",
+      "content": "<p>Deputy President of South Africa, Shipokosa Paulus Mashatile holds presser in Delhi <br />\n<br />\n<a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<img src=\"https://nitter.net/pic/media%2FHJzz6uGa0AAIOV2.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India News\n\nCBSE Chairman & Secretary transferred as Indian Govt orders probe into OSM procurement amid exam row.",
+      "link": "https://nitter.net/sidhant/status/2061786244548591962#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T17:55:21+05:30",
+      "time": "02 Jun, 05:55 PM",
+      "type": "tweets",
+      "content": "<p>India News<br />\n<br />\nCBSE Chairman &amp; Secretary transferred as Indian Govt orders probe into OSM procurement amid exam row.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Deputy President of South Africa Shipokosa Paulus Mashatile to hold press conference shortly in Delhi",
+      "link": "https://nitter.net/sidhant/status/2061785128393978033#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T17:50:55+05:30",
+      "time": "02 Jun, 05:50 PM",
+      "type": "tweets",
+      "content": "<p>Deputy President of South Africa Shipokosa Paulus Mashatile to hold press conference shortly in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJzuo26aMAA-HSd.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Gurdaspur Punjab: There has been news of an explosion in the emergency ward of a private hospital near the bus stand in Kalanaur town of Gurdaspur this afternoon.",
+      "link": "https://nitter.net/Goreunit/status/2061783770253197762#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-02T17:45:31+05:30",
+      "time": "02 Jun, 05:45 PM",
+      "type": "tweets",
+      "content": "<p>Gurdaspur Punjab: There has been news of an explosion in the emergency ward of a private hospital near the bus stand in Kalanaur town of Gurdaspur this afternoon.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Venezuela's interim leader Delcy Rodr\u00edguez to meet PM Modi on Thursday in Delhi",
+      "link": "https://nitter.net/sidhant/status/2061777355283304624#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T17:20:02+05:30",
+      "time": "02 Jun, 05:20 PM",
+      "type": "tweets",
+      "content": "<p>Venezuela's interim leader Delcy Rodr\u00edguez to meet PM Modi on Thursday in Delhi</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "EAM Dr Jaishankar meets Nepal's Rastriya Swatantra Party Chairperson Rabi Lamichhane",
+      "link": "https://nitter.net/sidhant/status/2061776688158273962#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T17:17:23+05:30",
+      "time": "02 Jun, 05:17 PM",
+      "type": "tweets",
+      "content": "<p>EAM Dr Jaishankar meets Nepal's Rastriya Swatantra Party Chairperson Rabi Lamichhane</p>\n<img src=\"https://nitter.net/pic/media%2FHJzm9oebgAA_jSI.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking: Indian nationals will no longer require a transit visa when traveling to another country with a layover at a German airport, annouces Germany",
+      "link": "https://nitter.net/sidhant/status/2061774680160399400#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-02T17:09:24+05:30",
+      "time": "02 Jun, 05:09 PM",
+      "type": "tweets",
+      "content": "<p>Breaking: Indian nationals will no longer require a transit visa when traveling to another country with a layover at a German airport, annouces Germany</p>\n<img src=\"https://nitter.net/pic/media%2FHJzlJFjaYAAkdIW.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "It started ?\n\nPoJK Crisis: Civilians bear the brunt of economic failure\n\nAmidst the ongoing struggle for basic supplies, this heart-wrenching scene from Haveli - Kahuta, PoJK, highlights the severe crisis as people queue for hours just for a bag of flour.",
       "link": "https://nitter.net/OsintTV/status/2061764984250438113#m",
@@ -838,36 +1067,6 @@
       "author": "@manishindiatv"
     },
     {
-      "title": "Nepal's Rastriya Swatantra \nParty (RSP), Chairman Rabi Lamichhane, meets Nitin Nabin, National President of \nthe Bharatiya Janata Party.",
-      "link": "https://nitter.net/sidhant/status/2061753242972000725#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T15:44:13+05:30",
-      "time": "02 Jun, 03:44 PM",
-      "type": "tweets",
-      "content": "<p>Nepal's Rastriya Swatantra <br />\nParty (RSP), Chairman Rabi Lamichhane, meets Nitin Nabin, National President of <br />\nthe Bharatiya Janata Party.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzRozHaIAAxXJM.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJzRozEawAAcm96.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJzRo0ebMAAqvzI.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>BJP, RSP chiefs \"discussed the growing role and potential of Gen Z in politics, particularly in shaping democratic participation, public discourse and future leadership\", says BJP Statement on Nitin Nabin- Rabi Lamichhane meet<br />\n<br />\nFull Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHJzNWO-XoAAcbGB.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2061748524564242877#m\">https://nitter.net/sidhant/status/2061748524564242877#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Shortly, weekly MEA presser",
-      "link": "https://nitter.net/sidhant/status/2061750269000483123#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T15:32:24+05:30",
-      "time": "02 Jun, 03:32 PM",
-      "type": "tweets",
-      "content": "<p>Shortly, weekly MEA presser</p>\n<img src=\"https://nitter.net/pic/media%2FHJzO7qeXwAAyCbS.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "BJP, RSP chiefs \"discussed the growing role and potential of Gen Z in politics, particularly in shaping democratic participation, public discourse and future leadership\", says BJP Statement on Nitin Nabin- Rabi Lamichhane meet\n\nFull Statement",
-      "link": "https://nitter.net/sidhant/status/2061748524564242877#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T15:25:28+05:30",
-      "time": "02 Jun, 03:25 PM",
-      "type": "tweets",
-      "content": "<p>BJP, RSP chiefs \"discussed the growing role and potential of Gen Z in politics, particularly in shaping democratic participation, public discourse and future leadership\", says BJP Statement on Nitin Nabin- Rabi Lamichhane meet<br />\n<br />\nFull Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHJzNWO-XoAAcbGB.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "Ukraine:\nThe skyline of Kyiv was filled with smoke this morning after a massive Russian drone attack.",
       "link": "https://nitter.net/Goreunit/status/2061735861205815453#m",
       "source": "War & Gore",
@@ -878,16 +1077,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "India has extended urgent medical assistance to the Africa Centres for Disease Control and Prevention (Africa CDC) to support their Ebola response efforts, in response to a request received from the African Union Commission: Statement",
-      "link": "https://nitter.net/sidhant/status/2061730458019459303#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T14:13:40+05:30",
-      "time": "02 Jun, 02:13 PM",
-      "type": "tweets",
-      "content": "<p>India has extended urgent medical assistance to the Africa Centres for Disease Control and Prevention (Africa CDC) to support their Ebola response efforts, in response to a request received from the African Union Commission: Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHJy864kaAAAAsPq.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "Marine commando Amit Singh Rana ( Shaurya Chakra ) has lost his life in a road accident.\nHe was conferred with Shaurya Chakra in 2021 for a CT operation.\n\nHis service and sacrifice will never be forgotten\ud83d\ude4f\ud83c\udffb\nOm Shanti.",
       "link": "https://nitter.net/Goreunit/status/2061729457455702424#m",
       "source": "War & Gore",
@@ -896,46 +1085,6 @@
       "type": "tweets",
       "content": "<p>Marine commando Amit Singh Rana ( Shaurya Chakra ) has lost his life in a road accident.<br />\nHe was conferred with Shaurya Chakra in 2021 for a CT operation.<br />\n<br />\nHis service and sacrifice will never be forgotten\ud83d\ude4f\ud83c\udffb<br />\nOm Shanti.</p>\n<img src=\"https://nitter.net/pic/media%2FHJy8AcKbsAIBHSE.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJy8AdpaEAAf8hE.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Chiefs of India, Nepal's ruling parties, BJP & RSP hold meeting in Delhi- Nitin Nabin & Rabi Lamichhane.",
-      "link": "https://nitter.net/sidhant/status/2061729209735897162#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T14:08:43+05:30",
-      "time": "02 Jun, 02:08 PM",
-      "type": "tweets",
-      "content": "<p>Chiefs of India, Nepal's ruling parties, BJP &amp; RSP hold meeting in Delhi- Nitin Nabin &amp; Rabi Lamichhane.</p>\n<a href=\"https://nitter.net/sidhant/status/2061729209735897162#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061707591106138112%2Fimg%2Fo7BZ-PFyLKvsP8Pr.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Jaishankar meets Minister-President @mariovoigt of Thuringia, Germany.",
-      "link": "https://nitter.net/sidhant/status/2061727568982954122#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T14:02:12+05:30",
-      "time": "02 Jun, 02:02 PM",
-      "type": "tweets",
-      "content": "<p>EAM Jaishankar meets Minister-President <a href=\"https://nitter.net/mariovoigt\" title=\"Mario Voigt\">@mariovoigt</a> of Thuringia, Germany.</p>\n<img src=\"https://nitter.net/pic/media%2FHJy6SgvaEAAY5Nd.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Minister-President (Chief minister) of the Federal State of Thuringia\u00a0(German State) Mario Voigt <a href=\"https://nitter.net/mariovoigt\" title=\"Mario Voigt\">@mariovoigt</a> speaking with German Charg\u00e9 d'affaires Georg Enzweiler speaking in Delhi earlier in the day.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvj6vDawAAHHrI.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2061491855708291403#m\">https://nitter.net/sidhant/status/2061491855708291403#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US diplomat Sarah B. Rogers meets Nepal FM Shisir Khanal in Kathmandu",
-      "link": "https://nitter.net/sidhant/status/2061724453445513684#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T13:49:49+05:30",
-      "time": "02 Jun, 01:49 PM",
-      "type": "tweets",
-      "content": "<p>US diplomat Sarah B. Rogers meets Nepal FM Shisir Khanal in Kathmandu</p>\n<img src=\"https://nitter.net/pic/media%2FHJy3dRGaMAApoD1.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Deputy President of South Africa, Shipokosa Paulus Mashatile meets Vice President C.P. Radhakrishnan",
-      "link": "https://nitter.net/sidhant/status/2061723753122590981#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T13:47:02+05:30",
-      "time": "02 Jun, 01:47 PM",
-      "type": "tweets",
-      "content": "<p>Deputy President of South Africa, Shipokosa Paulus Mashatile meets Vice President C.P. Radhakrishnan</p>\n<a href=\"https://nitter.net/sidhant/status/2061723753122590981#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061723702564470784%2Fpu%2Fimg%2Fex7Sww5GO6rwQubY.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "Rajouri Anti-Terror Operation Enters Day 11\n\nSecurity forces have intensified the ongoing cordon and search operation in the dense forested areas of Rajouri, J&K, to track down hiding terrorists.\n\nOperations are underway in extremely challenging terrain marked by thick forests, steep hills, and difficult access routes. Forces are maintaining a tight security grid, carrying out extensive searches, and closely monitoring movement across the area.\n\nAdditional security measures remain in place to prevent any escape attempts as efforts continue to locate and neutralise the terrorists.",
@@ -1046,6 +1195,16 @@
       "type": "tweets",
       "content": "<p>When someone says \"Pakistan jaa raha hu\" what they actually means around you?</p>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "OSINT Update:\n\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.",
+      "link": "https://nitter.net/OsintTV/status/2061480496098382195#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-01T21:40:25+05:30",
+      "time": "01 Jun, 09:40 PM",
+      "type": "tweets",
+      "content": "<p>OSINT Update:<br />\n<br />\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvZk48WsAAb7yr.jpg\" />",
+      "author": "@OsintTV"
     },
     {
       "title": "Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu & Kashmir.",
@@ -1268,16 +1427,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "INDIAN NAVY REVEALS SCALE OF \u2018OPERATION SINDOOR\u2019 DEPLOYMENT\n\nFollowing the Pahalgam terror attack, the Indian Navy rapidly deployed frontline warships, submarines, carrier battle groups, and aviation assets into the Arabian Sea, maintaining what Navy Chief Admiral Dinesh K. Tripathi described as \u201cconstant pressure\u201d on Pakistan. \n\nAccording to the Navy Chief: \n- A forward deployment in the Northern Arabian Sea was established within days\n- Submarines, surface combatants, and carrier assets were placed on operational readiness\n- Pakistan Navy was effectively forced to remain close to harbour and the Makran coast during the standoff \n\nReports indicate that around 36 frontline warships and multiple submarines, led by an INS Vikrant carrier battle group, were deployed during the operation. \n\nAdmiral Tripathi said the operation demonstrated the Navy\u2019s combat readiness, operational reach, and deterrence capability, while also highlighting growing tri-service coordination among the Army, Navy, and Air Force. \n\nThe deployment increased shipping risks and insurance costs around Pakistan\u2019s maritime zone, adding economic pressure alongside the military posture.",
-      "link": "https://nitter.net/NetramDefence/status/2061359304872173704#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-01T13:38:51+05:30",
-      "time": "01 Jun, 01:38 PM",
-      "type": "tweets",
-      "content": "<p>INDIAN NAVY REVEALS SCALE OF \u2018OPERATION SINDOOR\u2019 DEPLOYMENT<br />\n<br />\nFollowing the Pahalgam terror attack, the Indian Navy rapidly deployed frontline warships, submarines, carrier battle groups, and aviation assets into the Arabian Sea, maintaining what Navy Chief Admiral Dinesh K. Tripathi described as \u201cconstant pressure\u201d on Pakistan. <br />\n<br />\nAccording to the Navy Chief: <br />\n- A forward deployment in the Northern Arabian Sea was established within days<br />\n- Submarines, surface combatants, and carrier assets were placed on operational readiness<br />\n- Pakistan Navy was effectively forced to remain close to harbour and the Makran coast during the standoff <br />\n<br />\nReports indicate that around 36 frontline warships and multiple submarines, led by an INS Vikrant carrier battle group, were deployed during the operation. <br />\n<br />\nAdmiral Tripathi said the operation demonstrated the Navy\u2019s combat readiness, operational reach, and deterrence capability, while also highlighting growing tri-service coordination among the Army, Navy, and Air Force. <br />\n<br />\nThe deployment increased shipping risks and insurance costs around Pakistan\u2019s maritime zone, adding economic pressure alongside the military posture.</p>\n<img src=\"https://nitter.net/pic/media%2FHJtrWQvbcAApi31.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "HoverIT is killing it !!\nThey recently tested their Divyastra MK1 in thar desert (55 degrees)",
       "link": "https://nitter.net/alpha_defense/status/2061352907249975766#m",
       "source": "Alpha Defense",
@@ -1288,16 +1437,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "RT by @NetramDefence: An updated look into the Israel-Lebanon border.\n\nDefense zone enforced to protect Israeli communities from Hezbolla's daily missile strikes and explosive AUVs. \n\nAs we have seen, the ceasefire along Israeli border has been regularly breached by attacks from the Lebanon side.",
-      "link": "https://nitter.net/Manik_M_Jolly/status/2061346960423133483#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-01T12:49:47+05:30",
-      "time": "01 Jun, 12:49 PM",
-      "type": "tweets",
-      "content": "<p>An updated look into the Israel-Lebanon border.<br />\n<br />\nDefense zone enforced to protect Israeli communities from Hezbolla's daily missile strikes and explosive AUVs. <br />\n<br />\nAs we have seen, the ceasefire along Israeli border has been regularly breached by attacks from the Lebanon side.</p>\n<img src=\"https://nitter.net/pic/media%2FHJtgIeHaMAArAWH.jpg\" />",
-      "author": "@Manik_M_Jolly"
-    },
-    {
       "title": "The issue between Nepal and India is an old one. I am seeing an unnecessary hype around Nepal's PM statement. He said nothing extraordinary, and it is being actively discussed between the two sides.\n\nThe reference to the UK in the discussion of key areas of discussion is unnecessary and might attract harsh reaction from Raisina Hills. We understand you want a counterbalance for India in the negotiations; that's why China and the UK are being involved, but things can go south really fast if that happens.",
       "link": "https://nitter.net/elitepredatorss/status/2061318703762014228#m",
       "source": "Elite Predators",
@@ -1306,16 +1445,6 @@
       "type": "tweets",
       "content": "<p>The issue between Nepal and India is an old one. I am seeing an unnecessary hype around Nepal's PM statement. He said nothing extraordinary, and it is being actively discussed between the two sides.<br />\n<br />\nThe reference to the UK in the discussion of key areas of discussion is unnecessary and might attract harsh reaction from Raisina Hills. We understand you want a counterbalance for India in the negotiations; that's why China and the UK are being involved, but things can go south really fast if that happens.</p>\n<img src=\"https://nitter.net/pic/media%2FHJtFwNsa4AAj00s.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJtF3mGaAAEBKoK.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "US\u2013Iran tensions escalate further\n\nThe U.S. says it struck Iranian military sites on the Gulf coast after Iran allegedly shot down a U.S. MQ-1 drone over international waters.\n\nIn response, Iran\u2019s IRGC claims it targeted a U.S. airbase, while Kuwait reportedly activated air defenses amid missile and drone alerts.\n\nMeanwhile, negotiations remain fragile as Tehran warns it will not accept any deal that compromises Iranian interests or control over the Strait of Hormuz.",
-      "link": "https://nitter.net/NetramDefence/status/2061317939580781024#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-01T10:54:28+05:30",
-      "time": "01 Jun, 10:54 AM",
-      "type": "tweets",
-      "content": "<p>US\u2013Iran tensions escalate further<br />\n<br />\nThe U.S. says it struck Iranian military sites on the Gulf coast after Iran allegedly shot down a U.S. MQ-1 drone over international waters.<br />\n<br />\nIn response, Iran\u2019s IRGC claims it targeted a U.S. airbase, while Kuwait reportedly activated air defenses amid missile and drone alerts.<br />\n<br />\nMeanwhile, negotiations remain fragile as Tehran warns it will not accept any deal that compromises Iranian interests or control over the Strait of Hormuz.</p>\n<img src=\"https://nitter.net/pic/media%2FHJtFuFuaEAALwuh.jpg\" />",
-      "author": "@NetramDefence"
     },
     {
       "title": "DRDO has successfully conducted a trial of a high-calibre bomb at the #TBRL facility in Haryana \ud83c\uddee\ud83c\uddf3\ud83d\udca5\n\nTest required a 2km danger zone, with fragments projected up to 1.5 km-pointing to a very large warhead and future heavy air-delivered, bunker-busting, or LRPGM strike munitions.",
@@ -1356,16 +1485,6 @@
       "type": "tweets",
       "content": "<p>Jyoti Kumar Aka Abdul from Pakistan, you need basic education which is not possible in Pakistan, both  communities(Naga/Kuki)  fighting are Christians how is Indian government killing Christians. <br />\n<br />\nAtleast delete your previous tweet for BLA.</p>\n<img src=\"https://nitter.net/pic/media%2FHJsWhJ3WkAQkS0j.jpg\" />\n\n<hr />\n<blockquote>\n<b>Jyoti Kumar (@jyoti_kumarkf)</b>\n<p>\n<p>Kharam Vaiphei Kuki Village was set ablaze by the suspected ZUF-K and NSCN -IM. This incident took place just after the  selective search and combing ops conducted by the security forces. The State forces are complicit with these militants in violence against minorities.<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23\u0641\u0648\u064a\u0633\">#\u0641\u0648\u064a\u0633</a></p>\n<a href=\"https://nitter.net/jyoti_kumarkf/status/2060982328500109727#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2060982162342428674%2Fimg%2FwAsm9m9EXvWVu3XY.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/jyoti_kumarkf/status/2060982328500109727#m\">https://nitter.net/jyoti_kumarkf/status/2060982328500109727#m</a>\n</footer>\n</blockquote>",
       "author": "@Dig_raw21"
-    },
-    {
-      "title": "Daily US-Israel-Iran War Brief:\n31st May 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf  Iran\u2019s IRGC intercepted and destroyed a US MQ-1 drone after it entered Iranian territorial waters early Sunday.\n\n\u25cf The IRGC Navy reported that 28 vessels, including oil tankers and container ships, were granted permits to transit the Strait in the past 24 hours.\n\n\u25cf The IDF foiled a Hezbollah plot to destroy the Qaraoun Dam on the Litani River to flood the area and obstruct advances toward Beaufort Castle and Ali al-Taher Ridge.\n\n\u25cf Iran\u2019s Khatam al-Anbia Central Headquarters stated that the Armed Forces now exercise full control over the Strait of Hormuz and all vessels must follow Iranian regulations.\n\n\u25cf Iranian Ambassador to Qatar Ali Saleh Abadi met with Russian Ambassador Dmitry Dugadin to discuss bilateral ties and regional issues.\n\n\u25cf As of today, CENTCOM has redirected 118 commercial vessels and disabled 5 to ensure compliance with the naval blockade.\n\nEND OF THE BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2061174260547383360#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-01T01:23:33+05:30",
-      "time": "01 Jun, 01:23 AM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n31st May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf  Iran\u2019s IRGC intercepted and destroyed a US MQ-1 drone after it entered Iranian territorial waters early Sunday.<br />\n<br />\n\u25cf The IRGC Navy reported that 28 vessels, including oil tankers and container ships, were granted permits to transit the Strait in the past 24 hours.<br />\n<br />\n\u25cf The IDF foiled a Hezbollah plot to destroy the Qaraoun Dam on the Litani River to flood the area and obstruct advances toward Beaufort Castle and Ali al-Taher Ridge.<br />\n<br />\n\u25cf Iran\u2019s Khatam al-Anbia Central Headquarters stated that the Armed Forces now exercise full control over the Strait of Hormuz and all vessels must follow Iranian regulations.<br />\n<br />\n\u25cf Iranian Ambassador to Qatar Ali Saleh Abadi met with Russian Ambassador Dmitry Dugadin to discuss bilateral ties and regional issues.<br />\n<br />\n\u25cf As of today, CENTCOM has redirected 118 commercial vessels and disabled 5 to ensure compliance with the naval blockade.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJrDDG-akAAeyho.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n30th May 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf CENTCOM, via the UKMTO/JMIC, issued an urgent maritime advisory north of Oman\u2019s Musandam Peninsula, warning mariners of imminent US naval operations to counter suspected Iranian mine-laying.<br />\n<br />\n\u25cf In Washington, President Trump reviewed the draft peace deal with top security advisers in the Situation Room. The session concluded with zero announcements, keeping the region in an uneasy gridlock.<br />\n<br />\n\u25cf Defense Secretary Pete Hegseth stated the U.S. possesses more than sufficient stockpiles to immediately resume aggressive bombardment strikes if Tehran rejects core U.S. parameters, though officials maintain the ceasefire \"is not officially over.\"<br />\n<br />\n\u25cf Iranian FM Spokesman Esmaeil Baghaei confirmed text is not finalized. Tehran remains strictly focused on ending hostilities and lifting the U.S. naval blockade, refusing to negotiate the finer details of its nuclear plan at this stage.<br />\n<br />\n\u25cf Hezbollah launched a major rocket barrage deep into northern Israel targeting Safed and Kiryat Shmona. In response, the IDF issued immediate evacuation orders for 7 southern Lebanese villages as ground operations intensify.<br />\n<br />\n\u25cf The IRGC Navy claimed that 20 commercial vessels successfully transited the Strait of Hormuz over the past 24 hours in direct coordination with Iranian forces.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJlVLj4acAA7r1z.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2060772031776620633#m\">https://nitter.net/NetramDefence/status/2060772031776620633#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
     },
     {
       "title": "Only in Pakistan\n\nTwo dacoits in Gujranwala robbed a 47-year-old male rickshaw driver at gunpoint, then took turns r**** him in the fields like it was a bonus service.",
@@ -1436,39 +1555,18 @@
       "type": "tweets",
       "content": "<p>A high-caliber bomb successfully tested at the Terminal Ballistics Research Laboratory, DRDO located in Ramgarh in Panchkula district of Haryana.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2061068402039636420#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061024035669254144%2Fimg%2FlLCvtVoh0pRGweJL.jpg\" />\n</a>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "#UPDATE | Solar Industries India Limited and its subsidiary have received export orders worth INR 1076 Crores for Supply of Defence Products, to be delivered over a period of 3 years.",
-      "link": "https://nitter.net/alpha_defense/status/2061067714421264781#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-05-31T18:20:10+05:30",
-      "time": "31 May, 06:20 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23UPDATE\">#UPDATE</a> | Solar Industries India Limited and its subsidiary have received export orders worth INR 1076 Crores for Supply of Defence Products, to be delivered over a period of 3 years.</p>\n<img src=\"https://nitter.net/pic/media%2FHJpiKZ1akAAjRjU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJpiKcKaAAA_i60.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "RT by @Goreunit: A PoK resident, Zeeshan Ahmad Mir, was apprehended by Indian Army's 12 Grenadiers after crossing the LoC at Silikote, Uri.\n\nAuthorities suspect he entered India to meet his girlfriend, Iram Bano. He remains in military custody.",
-      "link": "https://nitter.net/DefenceSphere/status/2061062426167214482#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-31T17:59:09+05:30",
-      "time": "31 May, 05:59 PM",
-      "type": "tweets",
-      "content": "<p>A PoK resident, Zeeshan Ahmad Mir, was apprehended by Indian Army's 12 Grenadiers after crossing the LoC at Silikote, Uri.<br />\n<br />\nAuthorities suspect he entered India to meet his girlfriend, Iram Bano. He remains in military custody.</p>\n<img src=\"https://nitter.net/pic/media%2FHJpdU4cbUAA-MOz.jpg\" />\n\n<a href=\"https://nitter.net/DefenceSphere/status/2061062426167214482#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061062392088608768%2Fpu%2Fimg%2F5aEBFp47RZgThJyI.jpg\" />\n</a>",
-      "author": "@DefenceSphere"
-    },
-    {
-      "title": "Exfiltration Bid Foiled by Chinar Corps\n\nDetails of the individuals detained:\n\n1. Adil Dar R/O: Sopore.\n2. Ishfaq Shafi Lone R/O: Sopore.\n3. Jaffar Hafee Shaikh R/O: Sopore.",
-      "link": "https://nitter.net/Goreunit/status/2061061732630688082#m",
-      "source": "War & Gore",
-      "sort_key": "2026-05-31T17:56:24+05:30",
-      "time": "31 May, 05:56 PM",
-      "type": "tweets",
-      "content": "<p>Exfiltration Bid Foiled by Chinar Corps<br />\n<br />\nDetails of the individuals detained:<br />\n<br />\n1. Adil Dar R/O: Sopore.<br />\n2. Ishfaq Shafi Lone R/O: Sopore.<br />\n3. Jaffar Hafee Shaikh R/O: Sopore.</p>\n<img src=\"https://nitter.net/pic/media%2FHJpcuTFbkAAsXEf.jpg\" />",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
+    {
+      "title": "Indian Defence Updates : 6th Gen Fighter Entry,114 Rafale Final,300 R-37M Approved,Solar 450 Km MBRL",
+      "link": "https://www.youtube.com/watch?v=zyHE44SIKKc",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-02T17:30:40+05:30",
+      "time": "02 Jun, 05:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/zyHE44SIKKc/mqdefault.jpg"
+    },
     {
       "title": "J-10CE Delivery Stopped by China ,Su-30mki Talisman E/W Suit,Secret IRBM for Su-30MKI,NightShade UAV",
       "link": "https://www.youtube.com/watch?v=RaCUCwPkxj4",
@@ -1507,6 +1605,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
