@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "BRICS Anti-Corruption Working Group Holds First Meeting Under India\u2019s Presidency",
+      "link": "https://newsonair.gov.in/brics-anti-corruption-working-group-holds-first-meeting-under-indias-presidency/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-03T22:06:06+05:30",
+      "time": "03 Jun, 10:06 PM",
+      "type": "news",
+      "description": "The first BRICS Anti-Corruption Working Group (ACWG) Meeting concluded today under India\u2019s BRICS Presidency, led by the Department of Personnel and Tr..."
+    },
+    {
+      "title": "Fourth Sudarshan S-400 squadron arrives in India from Russia",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/fourth-sudarshan-s-400-squadron-arrives-in-india-from-russia/131488282",
+      "source": "Economic Times",
+      "sort_key": "2026-06-03T22:03:17+05:30",
+      "time": "03 Jun, 10:03 PM",
+      "type": "news",
+      "description": "This advanced system significantly boosts the nation&#039;s long-range air defence. The S-400 played a crucial role in past operations."
+    },
+    {
+      "title": "Kuwait Airport Terminal Resumes Operations After Security Assessments",
+      "link": "https://newsonair.gov.in/kuwait-airport-terminal-resumes-operations-after-security-assessments/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-03T21:27:27+05:30",
+      "time": "03 Jun, 09:27 PM",
+      "type": "news",
+      "description": "Kuwait says its armed forces intercepted 13 ballistic missiles and 17 drones that entered the country&#8217;s airspace early today, amid a sharp escal..."
+    },
+    {
       "title": "Uttarakhand STF Claims ISI-Linked Handlers Targeting Youth Online",
       "link": "https://www.deccanchronicle.com/nation/uttarakhand-stf-claims-isi-linked-handlers-targeting-youth-online-1961105",
       "source": "Deccan Chronicle",
@@ -181,24 +208,6 @@
       "description": "An Iranian attack on Kuwait's airport wounded at least 63 people on Wednesday, the health ministry said, with authorities earlier reporting one person..."
     },
     {
-      "title": "Iranian drone strike damages Kuwait International Airport",
-      "link": "https://newsonair.gov.in/iranian-drone-strike-damages-kuwait-international-airport/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T17:14:34+05:30",
-      "time": "03 Jun, 05:14 PM",
-      "type": "news",
-      "description": "Kuwait&#8217;s international airport has sustained heavy damage after an Iranian drone strike struck the main passenger terminal in the early hours of..."
-    },
-    {
-      "title": "CPJ Urges Bangladesh Government to Strengthen Press Freedom Protections",
-      "link": "https://newsonair.gov.in/cpj-urges-bangladesh-government-to-strengthen-press-freedom-protections/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T17:05:46+05:30",
-      "time": "03 Jun, 05:05 PM",
-      "type": "news",
-      "description": "The Committee to Protect Journalists has called on Bangladesh Prime Minister Tarique Rahman to break what it described as the country&#8217;s \u201ccycle o..."
-    },
-    {
       "title": "Iran claims responsibility for attacks on US Fifth Fleet HQ, Kuwait air base",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-launches-strikes-on-us-facilities-in-kuwait-bahrain-after-alleged-american-attack/articleshow/131482888.cms",
       "source": "Economic Times",
@@ -224,15 +233,6 @@
       "time": "03 Jun, 04:19 PM",
       "type": "news",
       "description": "US-Iran war: Iran has accused Kuwait and Bahrain of allowing the United States to use their territory for attacks. The strikes targeted an Iranian tan..."
-    },
-    {
-      "title": "Garba on Great Wall of China? Indian tourists draw attention yet again",
-      "link": "https://www.tribuneindia.com/news/trending/garba-on-great-wall-of-china-indian-tourists-draw-attention-yet-again",
-      "source": "The Tribune",
-      "sort_key": "2026-06-03T15:53:18+05:30",
-      "time": "03 Jun, 03:53 PM",
-      "type": "news",
-      "description": "From dancing on airport tarmacs to a Swiss hotel reportedly displaying a notice for Indian guests regarding their behaviour, Indians have found themse..."
     },
     {
       "title": "Trump says Iran agreed not to pursue nuclear weapon; Ayatollah giving approval in talks",
@@ -737,36 +737,109 @@
       "time": "01 Jun, 10:50 PM",
       "type": "news",
       "description": "US President Donald Trump stated he is unconcerned if talks with Iran end. He also shrugged off worries about oil prices even if Tehran blocks the Str..."
-    },
-    {
-      "title": "Iran Guards threaten 'new fronts' over Israel's Lebanon offensive",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-guards-threaten-new-fronts-over-israels-lebanon-offensive/articleshow/131446540.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-01T22:13:48+05:30",
-      "time": "01 Jun, 10:13 PM",
-      "type": "news",
-      "description": "Iran's Revolutionary Guards threatened to open \"new fronts\" and keep the Strait of Hormuz closed over Israel's offensive in Lebanon, state media repor..."
-    },
-    {
-      "title": "India Moves Ahead on \u20b93.25 Lakh Crore Rafale Deal",
-      "link": "https://www.deccanchronicle.com/nation/india-moves-ahead-on-325-lakh-crore-rafale-deal-1960616",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-01T22:05:44+05:30",
-      "time": "01 Jun, 10:05 PM",
-      "type": "news",
-      "description": "The Defence Acquisition Council, headed by defence minister Rajnath Singh, had accorded Acceptance of Necessity (AoN) for the deal in February."
-    },
-    {
-      "title": "'Sit back and relax': Can Trump afford to go back to war with Iran?",
-      "link": "https://economictimes.indiatimes.com/news/defence/sit-back-and-relax-can-trump-afford-to-go-back-to-war-with-iran/articleshow/131446060.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-01T21:39:52+05:30",
-      "time": "01 Jun, 09:39 PM",
-      "type": "news",
-      "description": "US President Trump's cautious optimism regarding Iran negotiations has been shattered as Tehran suspends talks, citing Israeli actions in Lebanon. Thi..."
     }
   ],
   "tweets": [
+    {
+      "title": "Chairperson - Rastriya Swatantra Party, Rabi Lamichhane, party officials, Nepal's top diplomat in Delhi, Dr. Surendra Thapa with Indian PM Modi in Delhi earlier in the day.",
+      "link": "https://nitter.net/sidhant/status/2062213433236553922#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T22:12:51+05:30",
+      "time": "03 Jun, 10:12 PM",
+      "type": "tweets",
+      "content": "<p>Chairperson - Rastriya Swatantra Party, Rabi Lamichhane, party officials, Nepal's top diplomat in Delhi, Dr. Surendra Thapa with Indian PM Modi in Delhi earlier in the day.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5zbS-agAQlDT8.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "During Nepal ruling party chief Rabi Lamichhane's meet with PM Modi today, EAM Jaishankar, NSA Ajit Doval, FS Vikram Misri were present.",
+      "link": "https://nitter.net/sidhant/status/2062212466982166836#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T22:09:00+05:30",
+      "time": "03 Jun, 10:09 PM",
+      "type": "tweets",
+      "content": "<p>During Nepal ruling party chief Rabi Lamichhane's meet with PM Modi today, EAM Jaishankar, NSA Ajit Doval, FS Vikram Misri were present.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5zEUtbEAAavD-.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "During Delhi talks with EAM Jaishankar, Laos Foreign minister Thongsavanh Phomvihane sees India ties being firmed up with his visit",
+      "link": "https://nitter.net/sidhant/status/2062211501335937259#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T22:05:10+05:30",
+      "time": "03 Jun, 10:05 PM",
+      "type": "tweets",
+      "content": "<p>During Delhi talks with EAM Jaishankar, Laos Foreign minister Thongsavanh Phomvihane sees India ties being firmed up with his visit</p>\n<a href=\"https://nitter.net/sidhant/status/2062211501335937259#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062211312520953859%2Fpu%2Fimg%2FX1DFQIukig-0Lc49.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We have a common heritage of Buddhism, &  Ramayana, EAM Jaishankar tells Lao foreign minister Thongsavanh Phomvihane in Delhi",
+      "link": "https://nitter.net/sidhant/status/2062210528580370737#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T22:01:18+05:30",
+      "time": "03 Jun, 10:01 PM",
+      "type": "tweets",
+      "content": "<p>We have a common heritage of Buddhism, &amp;  Ramayana, EAM Jaishankar tells Lao foreign minister Thongsavanh Phomvihane in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2062210528580370737#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062210352566403073%2Fpu%2Fimg%2FQDJkYTHzGxMYJw2O.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "News from another news : Solar industries is DcPP of Kusha air defence system.\n\nImage : Overt Defence",
+      "link": "https://nitter.net/alpha_defense/status/2062206904919888322#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-03T21:46:54+05:30",
+      "time": "03 Jun, 09:46 PM",
+      "type": "tweets",
+      "content": "<p>News from another news : Solar industries is DcPP of Kusha air defence system.<br />\n<br />\nImage : Overt Defence</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5tKuja4AAy15c.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Deputy Prime Minister and Foreign Minister of Lao, Thongsavan Phomvihane calls on President Droupadi Murmu",
+      "link": "https://nitter.net/sidhant/status/2062206279989538901#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T21:44:25+05:30",
+      "time": "03 Jun, 09:44 PM",
+      "type": "tweets",
+      "content": "<p>Deputy Prime Minister and Foreign Minister of Lao, Thongsavan Phomvihane calls on President Droupadi Murmu</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5tkmMbMAAxrKT.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign Secretary Yvette Cooper to visit India, UK announces\n\nFull Statement\n\nForeign Secretary Yvette Cooper arrives in India on her first official visit to the country. She will meet External Affairs Minister Dr. S. Jaishankar tomorrow (4 June) where both ministers will discuss closer collaboration between the UK and India to minimise economic shocks from ongoing conflicts, preserve global stability, and ensure freedom of navigation.\n\nThe Foreign Secretary\u2019s trip sets an ambitious path for engagement with India, a top priority partner for the UK. It builds on the visit by Business and Trade Secretary Peter Kyle earlier this week to bring the landmark UK-India Free Trade Agreement into force as soon as possible.\n\nTogether with Dr Jaishankar, the Foreign Secretary will undertake a formal review of delivery under the UK-India Vision 2035 to date, highlighting the UK\u2019s priorities for the year ahead across economic growth, technology and innovation, defence and security, climate and education.\u202fThe annual review ensures our partnership remains dynamic, aligned, and responsive to rapid global change.",
+      "link": "https://nitter.net/sidhant/status/2062205396543312222#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T21:40:55+05:30",
+      "time": "03 Jun, 09:40 PM",
+      "type": "tweets",
+      "content": "<p>Foreign Secretary Yvette Cooper to visit India, UK announces<br />\n<br />\nFull Statement<br />\n<br />\nForeign Secretary Yvette Cooper arrives in India on her first official visit to the country. She will meet External Affairs Minister Dr. S. Jaishankar tomorrow (4 June) where both ministers will discuss closer collaboration between the UK and India to minimise economic shocks from ongoing conflicts, preserve global stability, and ensure freedom of navigation.<br />\n<br />\nThe Foreign Secretary\u2019s trip sets an ambitious path for engagement with India, a top priority partner for the UK. It builds on the visit by Business and Trade Secretary Peter Kyle earlier this week to bring the landmark UK-India Free Trade Agreement into force as soon as possible.<br />\n<br />\nTogether with Dr Jaishankar, the Foreign Secretary will undertake a formal review of delivery under the UK-India Vision 2035 to date, highlighting the UK\u2019s priorities for the year ahead across economic growth, technology and innovation, defence and security, climate and education.\u202fThe annual review ensures our partnership remains dynamic, aligned, and responsive to rapid global change.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\u2018New landmarks\u2019 ahead in ties as PM Modi prepares for Australia trip, says Australian high commissioner Philip Green @AusHCIndia; Both sides looking to announce new overarching defence declaration\n\nInterview:\n\nhttps://www.wionews.com/world/new-landmarks-ahead-in-ties-as-pm-modi-prepares-for-australia-trip-says-australian-high-commissioner-philip-green-1780500784232",
+      "link": "https://nitter.net/sidhant/status/2062200630769492433#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T21:21:58+05:30",
+      "time": "03 Jun, 09:21 PM",
+      "type": "tweets",
+      "content": "<p>\u2018New landmarks\u2019 ahead in ties as PM Modi prepares for Australia trip, says Australian high commissioner Philip Green <a href=\"https://nitter.net/AusHCIndia\" title=\"Philip Green OAM\">@AusHCIndia</a>; Both sides looking to announce new overarching defence declaration<br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/new-landmarks-ahead-in-ties-as-pm-modi-prepares-for-australia-trip-says-australian-high-commissioner-philip-green-1780500784232\">wionews.com/world/new-landma\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2062200633298690048%2FBSnkpxDF%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India's minister of state in MEA @KVSinghMPGonda meets foreign nationals who were rescued from the Malviya Nagar fire incident.",
+      "link": "https://nitter.net/sidhant/status/2062199937417589131#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T21:19:13+05:30",
+      "time": "03 Jun, 09:19 PM",
+      "type": "tweets",
+      "content": "<p>India's minister of state in MEA <a href=\"https://nitter.net/KVSinghMPGonda\" title=\"Kirti Vardhan Singh\">@KVSinghMPGonda</a> meets foreign nationals who were rescued from the Malviya Nagar fire incident.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5nq6nbgAAXQgH.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Malviya Nagar fire incident: MEA is in touch with Embassies and is extending all necessary assistance.<br />\n<br />\n21 people have died in the incident, many of them foreign nationals.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2062198987722236084#m\">https://nitter.net/sidhant/status/2062198987722236084#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Malviya Nagar fire incident: MEA is in touch with Embassies and is extending all necessary assistance.\n\n21 people have died in the incident, many of them foreign nationals.",
+      "link": "https://nitter.net/sidhant/status/2062198987722236084#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T21:15:27+05:30",
+      "time": "03 Jun, 09:15 PM",
+      "type": "tweets",
+      "content": "<p>Malviya Nagar fire incident: MEA is in touch with Embassies and is extending all necessary assistance.<br />\n<br />\n21 people have died in the incident, many of them foreign nationals.</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "RT by @Goreunit: The first consignment of the 4th regiment of the S-400 air defence system has reached India. \nRest of the consignment will come over the next few days at different ports. \nThe delivery of the full regiment will be completed by this month.",
       "link": "https://nitter.net/DefenceSphere/status/2062196540396187840#m",
@@ -988,16 +1061,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "UK foreign secretary Yvette Cooper reaches Delhi today. Will hold talks with EAM Jaishankar & call on PM Modi tomm",
-      "link": "https://nitter.net/sidhant/status/2062118045330645148#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T15:53:48+05:30",
-      "time": "03 Jun, 03:53 PM",
-      "type": "tweets",
-      "content": "<p>UK foreign secretary Yvette Cooper reaches Delhi today. Will hold talks with EAM Jaishankar &amp; call on PM Modi tomm</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "The U.S. Navy plans to deploy up to 8 next-generation Columbia-class nuclear ballistic missile submarines to the Pacific by 2032, significantly strengthening its strategic deterrence posture against China.\n\nKey points:\n- Replacing ageing Ohio-class SSBNs\n- Designed for lower acoustic signature & higher survivability\n- Equipped with 16 Trident II D5LE SLBMs\n- 42-year reactor life without refuelling\n- Expected to carry ~70% of deployed U.S. nuclear warheads\n\nThe move highlights intensifying undersea strategic competition in the Pacific, as China develops the Type-096 SSBN and Russia expands its Borei-class fleet.",
       "link": "https://nitter.net/NetramDefence/status/2062117562331340830#m",
       "source": "Netram Defense",
@@ -1028,46 +1091,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Laos foreign minister Thongsavanh Phomvihane speaks to @WIONews on Ramayana connect, India's concern  over cyber scam  centers, Quick inpact projects. Coming soon",
-      "link": "https://nitter.net/sidhant/status/2062111680054837451#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T15:28:31+05:30",
-      "time": "03 Jun, 03:28 PM",
-      "type": "tweets",
-      "content": "<p>Laos foreign minister Thongsavanh Phomvihane speaks to <a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a> on Ramayana connect, India's concern  over cyber scam  centers, Quick inpact projects. Coming soon</p>\n<img src=\"https://nitter.net/pic/media%2FHJ4Xo0uaoAAuupN.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Chief of Nepal's Ruling Party Rastriya Swatantra Party Rabi Lamichhane meets PM Modi in Delhi",
-      "link": "https://nitter.net/sidhant/status/2062089381754945676#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T13:59:55+05:30",
-      "time": "03 Jun, 01:59 PM",
-      "type": "tweets",
-      "content": "<p>Chief of Nepal's Ruling Party Rastriya Swatantra Party Rabi Lamichhane meets PM Modi in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJ4DWZobMAA7Xlr.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "An IAF C-17 Globemaster-III airlifted critical medical aid from New Delhi to Uganda on 2 Jun 26 to combat the Ebola virus outbreak.",
-      "link": "https://nitter.net/sidhant/status/2062080861043089441#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T13:26:03+05:30",
-      "time": "03 Jun, 01:26 PM",
-      "type": "tweets",
-      "content": "<p>An IAF C-17 Globemaster-III airlifted critical medical aid from New Delhi to Uganda on 2 Jun 26 to combat the Ebola virus outbreak.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ37nEhaUAAPDje.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Acting Venezuela President Delcy Rodriguez reaches Delhi today at 5 pm. She holds talks with PM Modi tomm.",
-      "link": "https://nitter.net/sidhant/status/2062080374671540293#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T13:24:07+05:30",
-      "time": "03 Jun, 01:24 PM",
-      "type": "tweets",
-      "content": "<p>Acting Venezuela President Delcy Rodriguez reaches Delhi today at 5 pm. She holds talks with PM Modi tomm.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "EP Exclusive | A bomb threat is under investigation in Ahmedabad, Gujarat.\n\n- A letter was found in a room of a sports club, stating a bomb threat on 1st June, 2026.\n\n- Ahmedabad hosted the IPL final the night before this discovery.\n\n-  Investigation kicked in, 3 foreign nationals from Tanzania who stayed in the room, but the room was booked by a local. The hunt for those foreigners is underway.\n\n- The letter had the name of Dawood and LeT.\n\nVery interesting case !",
       "link": "https://nitter.net/elitepredatorss/status/2062071406788313268#m",
       "source": "Elite Predators",
@@ -1088,16 +1111,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Indian govt reacts to US threats of new tariffs on India\n\n\"India remains engaged with the U.S. on Section 301 proceedings and for finalisation of a framework agreement\"",
-      "link": "https://nitter.net/sidhant/status/2062067219761397977#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T12:31:51+05:30",
-      "time": "03 Jun, 12:31 PM",
-      "type": "tweets",
-      "content": "<p>Indian govt reacts to US threats of new tariffs on India<br />\n<br />\n\"India remains engaged with the U.S. on Section 301 proceedings and for finalisation of a framework agreement\"</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3vNWWbUAA0imo.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>US trade authorities propose tariffs on India, over others countries forced labour import curbs</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3K7NxacAAy_5-.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2062027333339664856#m\">https://nitter.net/sidhant/status/2062027333339664856#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Kuwait's airport attacked !",
       "link": "https://nitter.net/elitepredatorss/status/2062066435275551221#m",
       "source": "Elite Predators",
@@ -1116,16 +1129,6 @@
       "type": "tweets",
       "content": "<p>Called a nearby police station a couple of times, but nobody answered!<br />\n<br />\nIt is one of the main police stations in my locality.<br />\n<br />\nWhat should I tell them while visiting the station?</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "R to @sidhant: From USTR:",
-      "link": "https://nitter.net/sidhant/status/2062063195586699384#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T12:15:51+05:30",
-      "time": "03 Jun, 12:15 PM",
-      "type": "tweets",
-      "content": "<p>From USTR:</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3rh-casAAJ3j5.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Magnus ko fir pel diyaa Pragg ne !\n\nTwo times in a week.\n\nOur boys are too humble against these sore losers.",
@@ -1156,16 +1159,6 @@
       "type": "tweets",
       "content": "<p>Rajouri | It is not like we have not found something after 15 days of operations, but this has happened in rare cases.<br />\n<br />\nI am manifesting another contact getting established, and we get those pigs. Otherwise, it was a great effort by everyone involved.</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "\"Significant material damage\" to Kuwait international airport with \"injuries to a number of individuals, who received the necessary medical care\" after attacks, says Kuwait army in a statement; Blames Iran for the attack",
-      "link": "https://nitter.net/sidhant/status/2062055776521458040#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T11:46:22+05:30",
-      "time": "03 Jun, 11:46 AM",
-      "type": "tweets",
-      "content": "<p>\"Significant material damage\" to Kuwait international airport with \"injuries to a number of individuals, who received the necessary medical care\" after attacks, says Kuwait army in a statement; Blames Iran for the attack</p>",
-      "author": "@sidhant"
     },
     {
       "title": "one of the 100s of reason why i do not take pakistanis seriously. we have few in India as well who can shoot fighter jets at 300 KM+ without X Band, Ka and Ku band.",
@@ -1208,16 +1201,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "UN General Assembly will hold elections today for five non-permanent UN Security Council seats. \nContested: \nAfrica (Somalia exits),\nAsia-Pacific: (Pakistan exits)\nGRULAC (Panama exits)  \nTwo for WEOG (Denmark, Greece exits)\n\nTerms begin January 2027.",
-      "link": "https://nitter.net/sidhant/status/2062050516646207735#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T11:25:28+05:30",
-      "time": "03 Jun, 11:25 AM",
-      "type": "tweets",
-      "content": "<p>UN General Assembly will hold elections today for five non-permanent UN Security Council seats. <br />\nContested: <br />\nAfrica (Somalia exits),<br />\nAsia-Pacific: (Pakistan exits)<br />\nGRULAC (Panama exits)  <br />\nTwo for WEOG (Denmark, Greece exits)<br />\n<br />\nTerms begin January 2027.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "R to @alpha_defense: Image",
       "link": "https://nitter.net/alpha_defense/status/2062050454503293327#m",
       "source": "Alpha Defense",
@@ -1246,16 +1229,6 @@
       "type": "tweets",
       "content": "<p>DRDO &amp; IAF successfully flight-tested the indigenous RudraM-II air-to-surface missile from an airborne platform under extreme release conditions.<br />\n<br />\nThe missile accurately struck its designated target, validating critical subsystems and flight performance parameters.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3MEDgbsAAr7Ag.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "US trade authorities propose tariffs on India, over others countries forced labour import curbs",
-      "link": "https://nitter.net/sidhant/status/2062027333339664856#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T09:53:21+05:30",
-      "time": "03 Jun, 09:53 AM",
-      "type": "tweets",
-      "content": "<p>US trade authorities propose tariffs on India, over others countries forced labour import curbs</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3K7NxacAAy_5-.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Ahmedabad Police detained over 290 suspects during a large-scale overnight operation targeting illegal Bangladeshi immigrants in Chandola, Gulabnagar, and Khodiyarnagar.\n\nAuthorities have so far identified 131 foreign nationals.",
@@ -1666,29 +1639,18 @@
       "type": "tweets",
       "content": "<p>Yes, Eric got a week to choose which pen he wants to sign the deal\ud83d\ude02</p>\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>Finalising? You mean Eric purchasing Mont Blanc \ud83d\ude02</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2058883846285009027#m\">https://nitter.net/alpha_defense/status/2058883846285009027#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "When someone says \"Pakistan jaa raha hu\" what they actually means around you?",
-      "link": "https://nitter.net/elitepredatorss/status/2061483354546123237#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-01T21:51:46+05:30",
-      "time": "01 Jun, 09:51 PM",
-      "type": "tweets",
-      "content": "<p>When someone says \"Pakistan jaa raha hu\" what they actually means around you?</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu & Kashmir.",
-      "link": "https://nitter.net/elitepredatorss/status/2061479877820494318#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-01T21:37:57+05:30",
-      "time": "01 Jun, 09:37 PM",
-      "type": "tweets",
-      "content": "<p>Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu &amp; Kashmir.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvY-ZRakAAHCk4.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJvY-a5bcAAN3w9.jpg\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>\"Muslims! Never step back from Jihad. Never lose heart. Never say that Jihad has ended.\" Hafiz Abdul Rauf, a senior Lashkar-e-Taiba terrorist commander, said in Bahawalpur</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2046414520969814370#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2046413947268648960%2Fimg%2F1orWPoHDAcX7s3VK.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHGZSpH9aMAATMWq.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2046414520969814370#m\">https://nitter.net/elitepredatorss/status/2046414520969814370#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
+    {
+      "title": "Defence Updates - No J-10CE Fighter For Pakistan, India $2 Billion Drones, Iran Strike US Bases",
+      "link": "https://www.youtube.com/watch?v=3_mycwR2DLg",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-03T22:07:07+05:30",
+      "time": "03 Jun, 10:07 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/3_mycwR2DLg/mqdefault.jpg"
+    },
     {
       "title": "WipingOut Enemy Radar Network",
       "link": "https://www.youtube.com/watch?v=UQJcQDM37hU",
@@ -1751,18 +1713,9 @@
       "time": "01 Jun, 11:04 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/RaCUCwPkxj4/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - 114 Rafale Deal Letter, Air Raid System, PAK ISI In Politic,  Navy Small Submarine",
-      "link": "https://www.youtube.com/watch?v=N9aLf_HSdgg",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-01T22:15:21+05:30",
-      "time": "01 Jun, 10:15 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/N9aLf_HSdgg/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
