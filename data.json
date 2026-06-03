@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Iranian drone strike damages Kuwait International Airport",
+      "link": "https://newsonair.gov.in/iranian-drone-strike-damages-kuwait-international-airport/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-03T17:14:34+05:30",
+      "time": "03 Jun, 05:14 PM",
+      "type": "news",
+      "description": "Kuwait&#8217;s international airport has sustained heavy damage after an Iranian drone strike struck the main passenger terminal in the early hours of..."
+    },
+    {
+      "title": "CPJ Urges Bangladesh Government to Strengthen Press Freedom Protections",
+      "link": "https://newsonair.gov.in/cpj-urges-bangladesh-government-to-strengthen-press-freedom-protections/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-03T17:05:46+05:30",
+      "time": "03 Jun, 05:05 PM",
+      "type": "news",
+      "description": "The Committee to Protect Journalists has called on Bangladesh Prime Minister Tarique Rahman to break what it described as the country&#8217;s \u201ccycle o..."
+    },
+    {
+      "title": "Iran claims responsibility for attacks on US Fifth Fleet HQ, Kuwait air base",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-launches-strikes-on-us-facilities-in-kuwait-bahrain-after-alleged-american-attack/articleshow/131482888.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-03T16:37:23+05:30",
+      "time": "03 Jun, 04:37 PM",
+      "type": "news",
+      "description": "Iran's Revolutionary Guards have claimed responsibility for attacks on Kuwait and Bahrain. The strikes targeted the Ali Al Salem Air Base in Kuwait an..."
+    },
+    {
       "title": "ICEYE appoints Eric Jensen as Chief Operating Officer",
       "link": "https://www.indiastrategic.in/iceye-appoints-eric-jensen-as-chief-operating-officer/",
       "source": "India Strategic",
@@ -8,6 +35,15 @@
       "time": "03 Jun, 04:21 PM",
       "type": "news",
       "description": "<p>Helsinki, Finland. ICEYE, the world leader in sovereign intelligence from space, announced on June 2, 2026 the appointment of Eric Jensen as global..."
+    },
+    {
+      "title": "Iran says Kuwait, Bahrain to blame for US attacks",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-says-kuwait-bahrain-to-blame-for-us-attacks/articleshow/131480054.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-03T16:19:40+05:30",
+      "time": "03 Jun, 04:19 PM",
+      "type": "news",
+      "description": "US-Iran war: Iran has accused Kuwait and Bahrain of allowing the United States to use their territory for attacks. The strikes targeted an Iranian tan..."
     },
     {
       "title": "Indian companies Secure Major Energy and Infrastructure Contracts in Sri Lanka",
@@ -82,7 +118,16 @@
       "description": "The selected startups will gain access to industry experts, investors, former ISRO leaders and space-sector veterans through mentorship, masterclasses..."
     },
     {
-      "title": "Hyderabad Set for Bigger Role in Workforce, Medical Tourism: Revanth Reddy",
+      "title": "Indian killed in Iranian drone attack at Kuwait airport\u2019s T1 terminal, IndiGo, Kuwait Airways suspend flights as ceasefire talks stall",
+      "link": "https://indianexpress.com/article/world/indian-killed-in-iranian-drone-attack-at-kuwait-airport-indian-embassy-10721865/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-03T15:06:37+05:30",
+      "time": "03 Jun, 03:06 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Hyderabad Set for Bigger Role in Workforce, Medical Tourism: Revanth",
       "link": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-set-for-bigger-role-in-workforce-medical-tourism-revanth-reddy-1961026",
       "source": "Deccan Chronicle",
       "sort_key": "2026-06-03T14:47:31+05:30",
@@ -253,24 +298,6 @@
       "description": "Today is World Bicycle Day. The day is celebrated annually on June 3 to acknowledge the simple, affordable, reliable and environmentally fit sustainab..."
     },
     {
-      "title": "BRICS Disaster Risk Reduction Working Group meeting begins in Puri today",
-      "link": "https://newsonair.gov.in/brics-disaster-risk-reduction-working-group-meeting-begins-in-puri-today/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T08:53:26+05:30",
-      "time": "03 Jun, 08:53 AM",
-      "type": "news",
-      "description": "The first in-person technical meeting of the BRICS Disaster Risk Reduction Working will begin in Puri of Odisha today under India\u2019s BRICS Presidency. ..."
-    },
-    {
-      "title": "US strikes Iranian military facility after missiles fired toward Kuwait and Bahrain",
-      "link": "https://newsonair.gov.in/us-strikes-iranian-military-facility-after-missiles-fired-toward-kuwait-and-bahrain/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T08:51:58+05:30",
-      "time": "03 Jun, 08:51 AM",
-      "type": "news",
-      "description": "The US military has said that Iranian missiles fired toward Kuwait and Bahrain either failed to reach their targets or were intercepted. It also said ..."
-    },
-    {
       "title": "Skyroot Aerospace forecasts \u20b9977 crore in revenues by FY27, ahead of Vikram-1 launch",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/skyroot-aerospace-forecasts-977-crore-in-revenues-by-fy27-ahead-of-vikram-1-launch/131474946",
       "source": "Economic Times",
@@ -377,15 +404,6 @@
       "time": "02 Jun, 09:42 PM",
       "type": "news",
       "description": "The Bailey Bridges, constructed by the Border Road Organization (BRO), have helped bridge the remote villages of Bastar, pushed to backwardness due to..."
-    },
-    {
-      "title": "&#8216;Abjure terrorism first&#8217;: India hits back at Hegseth&#8217;s remarks on US-Pakistan &#8216;true friendship&#8217;",
-      "link": "https://www.tribuneindia.com/news/india/abjure-terrorism-first-india-hits-back-at-hegseths-remarks-on-us-pakistan-true-friendship",
-      "source": "The Tribune",
-      "sort_key": "2026-06-02T21:38:32+05:30",
-      "time": "02 Jun, 09:38 PM",
-      "type": "news",
-      "description": "India on Tuesday delivered a pointed response to US Defence Secretary Pete Hegseth&#8217;s description of an emerging &#8220;true friendship&#8221; be..."
     },
     {
       "title": "Abu Dhabi freezes all rent hikes: What it means for existing, new, and Indian expat tenants",
@@ -741,6 +759,56 @@
   ],
   "tweets": [
     {
+      "title": "R to @sidhant: Statement\n\nEmbassy of India in Kuwait expresses its deepest condolences at the tragic demise of an Indian national due to an attack on the airport in Kuwait today. The Embassy is in touch with the bereaved family and is closely coordinating with the Kuwaiti authorities to render all possible support and assistance to the bereaved family as well as those injured in the incident.",
+      "link": "https://nitter.net/sidhant/status/2062138394382401733#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T17:14:40+05:30",
+      "time": "03 Jun, 05:14 PM",
+      "type": "tweets",
+      "content": "<p>Statement<br />\n<br />\nEmbassy of India in Kuwait expresses its deepest condolences at the tragic demise of an Indian national due to an attack on the airport in Kuwait today. The Embassy is in touch with the bereaved family and is closely coordinating with the Kuwaiti authorities to render all possible support and assistance to the bereaved family as well as those injured in the incident.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking: One Indian dead after attack on Kuwait airport,  says Indian embassy in Kuwait",
+      "link": "https://nitter.net/sidhant/status/2062138104715346224#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T17:13:31+05:30",
+      "time": "03 Jun, 05:13 PM",
+      "type": "tweets",
+      "content": "<p>Breaking: One Indian dead after attack on Kuwait airport,  says Indian embassy in Kuwait</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Rudra M2",
+      "link": "https://nitter.net/alpha_defense/status/2062133909136306450#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-03T16:56:51+05:30",
+      "time": "03 Jun, 04:56 PM",
+      "type": "tweets",
+      "content": "<p>Rudra M2</p>\n<img src=\"https://nitter.net/pic/media%2FHJ4ryrubsAADWhn.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Turkish Foreign Minister Hakan Fidan on India-T\u00fcrkiye relations:\n\n\"If India is going to be resentful about any country having good relations with Pakistan. I dont know...We have no problem bilaterally with India\"",
+      "link": "https://nitter.net/sidhant/status/2062125336310227047#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T16:22:47+05:30",
+      "time": "03 Jun, 04:22 PM",
+      "type": "tweets",
+      "content": "<p>Turkish Foreign Minister Hakan Fidan on India-T\u00fcrkiye relations:<br />\n<br />\n\"If India is going to be resentful about any country having good relations with Pakistan. I dont know...We have no problem bilaterally with India\"</p>\n<a href=\"https://nitter.net/sidhant/status/2062125336310227047#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062108118507503616%2Fimg%2FfAQHiKME97VE3lUS.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"Pakistan has no option but to keep knocking on the IMF's door again and again.\" : Former FM Miftah Ismail\n\nHe further added \n\nPakistan has effectively joined the remittance-dependent club alongside Myanmar, Nepal and the Philippines, surviving on dollars sent home by citizens working abroad.\n\nNo export growth, no meaningful FDI and more IMF programs are inevitable.\n\nMeanwhile, electricity, gas, taxes and interest rates are higher than in India, Bangladesh, Sri Lanka, Thailand, Vietnam, Cambodia, Malaysia and Indonesia, making Pakistani exports increasingly uncompetitive.",
+      "link": "https://nitter.net/OsintTV/status/2062125308434636940#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-03T16:22:40+05:30",
+      "time": "03 Jun, 04:22 PM",
+      "type": "tweets",
+      "content": "<p>\"Pakistan has no option but to keep knocking on the IMF's door again and again.\" : Former FM Miftah Ismail<br />\n<br />\nHe further added <br />\n<br />\nPakistan has effectively joined the remittance-dependent club alongside Myanmar, Nepal and the Philippines, surviving on dollars sent home by citizens working abroad.<br />\n<br />\nNo export growth, no meaningful FDI and more IMF programs are inevitable.<br />\n<br />\nMeanwhile, electricity, gas, taxes and interest rates are higher than in India, Bangladesh, Sri Lanka, Thailand, Vietnam, Cambodia, Malaysia and Indonesia, making Pakistani exports increasingly uncompetitive.</p>\n<a href=\"https://nitter.net/OsintTV/status/2062125308434636940#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062125081984192512%2Fimg%2FTZsQbYAU4ATEn20A.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
       "title": "Senior Pakistani politician Qamar Zaman Kaira has openly questioned the 12 refugee seats in PoJK, arguing that they undermine the rights of PoJK residents.\n\nUnder the current system, refugees from Jammu & Kashmir living in Pakistan elect 12 representatives to the PoJK Legislative Assembly despite residing outside the territory. These legislators can vote on the formation of the PoJK government.\n\nThink of it like residents of one city being allowed to elect councillors who can decide the mayor of another city where they do not even live. The local population may vote, but the final outcome can still be shaped by people outside the territory.\n\nThis highlights how PoJK residents do not fully control their own assembly, as through refugee constituencies, the Pakistani establishment can influence government formation.\n\nThis mechanism provides Islamabad a strategic leverage over PoJK.",
       "link": "https://nitter.net/elitepredatorss/status/2062119836784984125#m",
       "source": "Elite Predators",
@@ -937,7 +1005,7 @@
       "sort_key": "2026-06-03T11:38:58+05:30",
       "time": "03 Jun, 11:38 AM",
       "type": "tweets",
-      "content": "<p>one of the 100s of reason why i do not take pakistanis seriously. we have few in India as well who can shoot fighter jets at 300 KM+ without X Band, Ka and Ku band.</p>\n<hr />\n<blockquote>\n<b>RDX\u30c4 (@DayDreamer15k)</b>\n<p>\n<p>70Cc IQ outpost  strikes again <br />\n50% of 200km is 400km \ud83d\udc4f\ud83c\udffb<br />\neven 450 \ud83e\udd21 paki guys thats your so called defence exfart  aka \ud83d\udc2d child joker is comparing pl-16 to pl-17 now :)</p>\n<img src=\"https://nitter.net/pic/media%2FHJ05fElbQAA3Kq8.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJ051nsbEAAX0l4.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DayDreamer15k/status/2061867957798707430#m\">https://nitter.net/DayDreamer15k/status/2061867957798707430#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>one of the 100s of reason why i do not take pakistanis seriously. we have few in India as well who can shoot fighter jets at 300 KM+ without X Band, Ka and Ku band.</p>",
       "author": "@alpha_defense"
     },
     {
@@ -1041,16 +1109,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "#RudraM-II tactical air-launched quasi-ballistic strike missile\n\u25aa\ufe0fDesigned for energy-management maneuver\nAt around: 230\u2013260km range,12\u201313 km alti\nthe trajectory briefly flattens then performs a pull-up maneuver. \n\u25aa\ufe0fMax range at Max Alti\n\u25aa\ufe0fDifficult for enemy ADS to intercept",
-      "link": "https://nitter.net/DefenceDecode/status/2062015747740872909#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-03T09:07:19+05:30",
-      "time": "03 Jun, 09:07 AM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23RudraM\">#RudraM</a>-II tactical air-launched quasi-ballistic strike missile<br />\n\u25aa\ufe0fDesigned for energy-management maneuver<br />\nAt around: 230\u2013260km range,12\u201313 km alti<br />\nthe trajectory briefly flattens then performs a pull-up maneuver. <br />\n\u25aa\ufe0fMax range at Max Alti<br />\n\u25aa\ufe0fDifficult for enemy ADS to intercept</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3AULQbkAEkiIJ.jpg\" />\n\n<hr />\n<blockquote>\n<b>Defence Decode\u00ae (@DefenceDecode)</b>\n<p>\n<p>DRDO and the IAF have successfully tested the RudraM-II ASM from a SU-30MKI \ud83c\uddee\ud83c\uddf3<br />\n<br />\nThe trial,conducted under extreme release conditions,validated all major subsystems n flight trajectory parameters,marking another step forward in India's indigenous standoff strike capability.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0BHsfaQAACl26.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceDecode/status/2061805543501729794#m\">https://nitter.net/DefenceDecode/status/2061805543501729794#m</a>\n</footer>\n</blockquote>",
-      "author": "@DefenceDecode"
-    },
-    {
       "title": "Today in Delhi:\n-Chief of Nepal's ruling party, RSP, Rabi Lamichhane will call on PM Modi today in Delhi\n\n-Acting Venezuela President Rodr\u00edguez reaches India today\n\n-Lao FM will hold talks with EAM Jaishankar, address business meet, call on President Murmu today",
       "link": "https://nitter.net/sidhant/status/2062002132132495561#m",
       "source": "Sidhant Sibal",
@@ -1111,16 +1169,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Breaking: Iran\u2019s IRGC announced that it struck a US military air base and the US Fifth Fleet\u2019s headquarters with missiles and drones in retaliation for American attacks, reports Iran's Press TV",
-      "link": "https://nitter.net/sidhant/status/2061966770219713006#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T05:52:42+05:30",
-      "time": "03 Jun, 05:52 AM",
-      "type": "tweets",
-      "content": "<p>Breaking: Iran\u2019s IRGC announced that it struck a US military air base and the US Fifth Fleet\u2019s headquarters with missiles and drones in retaliation for American attacks, reports Iran's Press TV</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Footage from this morning\u2019s missile attack showing Russian cruise missile impacts in Kyiv.",
       "link": "https://nitter.net/Goreunit/status/2061870539267039676#m",
       "source": "War & Gore",
@@ -1131,26 +1179,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "EAM Jaishankar,  Mexico FM Roberto Velasco \u00c1lvarez hold talks",
-      "link": "https://nitter.net/sidhant/status/2061867212802265282#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T23:17:05+05:30",
-      "time": "02 Jun, 11:17 PM",
-      "type": "tweets",
-      "content": "<p>EAM Jaishankar,  Mexico FM Roberto Velasco \u00c1lvarez hold talks</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US Secretary of State Rubio claims US \"ended that war\" between India, Pakistan. At congressional hearing he said, \"we were involved in helping broker that\"",
-      "link": "https://nitter.net/sidhant/status/2061867028563263841#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-02T23:16:21+05:30",
-      "time": "02 Jun, 11:16 PM",
-      "type": "tweets",
-      "content": "<p>US Secretary of State Rubio claims US \"ended that war\" between India, Pakistan. At congressional hearing he said, \"we were involved in helping broker that\"</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief:\n2nd Jun 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf The IDF eliminated 5 terrorists planning attacks against troops, including Yousef Ayesh Awad Ramadan, a deputy commander of a Hamas Nukhba terrorist cell.\n\n\u25cf Bahrain's Interior Ministry has barred citizens from traveling to Iran and Iraq citing security tensions.\n\n\u25cf The fourth round of Israel-Lebanon talks took place at the US State Department in Washington.\n\n\u25cf IDF spokesperson Avichay Adraee issued an urgent military directive ordering all civilians in the major city of Nabatieh to immediately evacuate north of the Zahrani River.\n\n\u25cf The IRGC Navy announced on Tuesday that 24 vessels safely transited the Strait of Hormuz over the past 24 hours, following coordinated permissions and oversight.\n\n\u25cf Shipowners and ship captains worldwide can now submit requests at any time to transit the Strait of Hormuz via Iran\u2019s Persian Gulf Strait Authority (PGSA) online system.\n\n\u25cf As of today, CENTCOM has redirected 122 commercial vessels to ensure compliance with the naval blockade.\n\nEND IF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2061864334234714346#m",
       "source": "Netram Defense",
@@ -1159,16 +1187,6 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief:<br />\n2nd Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The IDF eliminated 5 terrorists planning attacks against troops, including Yousef Ayesh Awad Ramadan, a deputy commander of a Hamas Nukhba terrorist cell.<br />\n<br />\n\u25cf Bahrain's Interior Ministry has barred citizens from traveling to Iran and Iraq citing security tensions.<br />\n<br />\n\u25cf The fourth round of Israel-Lebanon talks took place at the US State Department in Washington.<br />\n<br />\n\u25cf IDF spokesperson Avichay Adraee issued an urgent military directive ordering all civilians in the major city of Nabatieh to immediately evacuate north of the Zahrani River.<br />\n<br />\n\u25cf The IRGC Navy announced on Tuesday that 24 vessels safely transited the Strait of Hormuz over the past 24 hours, following coordinated permissions and oversight.<br />\n<br />\n\u25cf Shipowners and ship captains worldwide can now submit requests at any time to transit the Strait of Hormuz via Iran\u2019s Persian Gulf Strait Authority (PGSA) online system.<br />\n<br />\n\u25cf As of today, CENTCOM has redirected 122 commercial vessels to ensure compliance with the naval blockade.<br />\n<br />\nEND IF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJ02ofmbgAEQ5WS.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n1st Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The IDF eliminated Jamal Abu Aoun, a Hamas platoon commander in the military wing who operated as a doctor at Yafa Hospital in Deir al-Balah.<br />\n<br />\n\u25cf The IRGC Navy announced that 15 vessels, including 4 oil tankers, safely transited the Strait in the past 24 hours under their coordination.<br />\n<br />\n\u25cf Parliament Speaker Ghalibaf warned that the \u201cbill\u201d for Israel\u2019s attacks on Lebanon is imminent, accusing the US of failing to enforce the ceasefire amid the naval blockade.<br />\n<br />\n\u25cf Iran launched a ballistic missile targeting Ali Al Salem Airbase early today. Kuwaiti air defenses intercepted it, with reports of limited damage.<br />\n<br />\n\u25cf A cargo vessel was struck by an unknown projectile in the Arabian Gulf, approximately 40 nautical miles southeast of Umm Qasr, Iraq, causing a large explosion on the starboard side.<br />\n<br />\n\u25cf Tehran announced it has halted backchannel negotiations and text exchanges with mediators amid the recent escalation.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJvfCtma8AIIFkO.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2061486533417566246#m\">https://nitter.net/NetramDefence/status/2061486533417566246#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "DRDO #RudraM-II is not merely an ARM. It is effectively SEAD/DEAD weapon+bunker buster+airfield attack missile\nIntegration of a delayed-action fuze and PCB warhead enables it to engage fortified shelters, cmd posts, hardened infra and protected facilities in addition to enemy ADS",
-      "link": "https://nitter.net/DefenceDecode/status/2061860913360331117#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-02T22:52:03+05:30",
-      "time": "02 Jun, 10:52 PM",
-      "type": "tweets",
-      "content": "<p>DRDO <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RudraM\">#RudraM</a>-II is not merely an ARM. It is effectively SEAD/DEAD weapon+bunker buster+airfield attack missile<br />\nIntegration of a delayed-action fuze and PCB warhead enables it to engage fortified shelters, cmd posts, hardened infra and protected facilities in addition to enemy ADS</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0xa0saoAADTgn.jpg\" />",
-      "author": "@DefenceDecode"
     },
     {
       "title": "RT by @OsintTV: A warrior who faced terrorists without fear has left us too soon.\n\nRest in peace, Amit Singh Rana. Your courage, sacrifice, and service to the nation will always be remembered.",
@@ -1229,16 +1247,6 @@
       "type": "tweets",
       "content": "<p>DRDO and IAF successfully flight-tested the indigenous RudraM-II air-to-surface missile from a Su-30MKI under extreme release conditions.<br />\n<br />\n\u2714\ufe0f Direct hit on target<br />\n\u2714\ufe0f All mission objectives achieved<br />\n\u2714\ufe0f Significant boost to India\u2019s indigenous precision-strike capability</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0Cn2WbAAEPsZw.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "DRDO and the IAF have successfully tested the RudraM-II ASM from a SU-30MKI \ud83c\uddee\ud83c\uddf3\n\nThe trial,conducted under extreme release conditions,validated all major subsystems n flight trajectory parameters,marking another step forward in India's indigenous standoff strike capability.",
-      "link": "https://nitter.net/DefenceDecode/status/2061805543501729794#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-02T19:12:02+05:30",
-      "time": "02 Jun, 07:12 PM",
-      "type": "tweets",
-      "content": "<p>DRDO and the IAF have successfully tested the RudraM-II ASM from a SU-30MKI \ud83c\uddee\ud83c\uddf3<br />\n<br />\nThe trial,conducted under extreme release conditions,validated all major subsystems n flight trajectory parameters,marking another step forward in India's indigenous standoff strike capability.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ0BHsfaQAACl26.jpg\" />",
-      "author": "@DefenceDecode"
     },
     {
       "title": "India Has Issued Another NOTAM For  Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.        From:06/06/2026 , 15:00 IST    \nUntil:09/06/2026 , 17:00 IST    \nV-Limit:Surface-Unlimited",
@@ -1641,16 +1649,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "India has formally issued the LoR to France for 114 #Rafale fighters under a proposed \u20b93.25 lakh crore government-to-government deal \ud83c\uddee\ud83c\uddf3 A major step forward in the IAF's fighter modernization and squadron-strength restoration plans.\nhttps://www.aninews.in/news/national/general-news/india-issues-letter-of-request-to-france-for-rs-325-lakh-crore-114-rafale-jet-deal-94-jets-to-be-made-in-india20260601193317/ via @ANI",
-      "link": "https://nitter.net/DefenceDecode/status/2061457461383770151#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-01T20:08:53+05:30",
-      "time": "01 Jun, 08:08 PM",
-      "type": "tweets",
-      "content": "<p>India has formally issued the LoR to France for 114 <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rafale\">#Rafale</a> fighters under a proposed \u20b93.25 lakh crore government-to-government deal \ud83c\uddee\ud83c\uddf3 A major step forward in the IAF's fighter modernization and squadron-strength restoration plans.<br />\n<a href=\"https://www.aninews.in/news/national/general-news/india-issues-letter-of-request-to-france-for-rs-325-lakh-crore-114-rafale-jet-deal-94-jets-to-be-made-in-india20260601193317/\">aninews.in/news/national/gen\u2026</a> via <a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a></p>\n<img src=\"https://nitter.net/pic/media%2FHJvEbTobgAAp3RK.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
       "title": "India has reportedly issued a Letter of Request to France for a massive \u20b93.25 lakh crore deal for 114 Rafale fighter jets.\n\nThe big headline?\n\n94 of the 114 jets are expected to be manufactured in India, giving a major boost to indigenous aerospace production, jobs, and defence self reliance.",
       "link": "https://nitter.net/OsintTV/status/2061452642853814660#m",
       "source": "Osint TV",
@@ -1689,26 +1687,6 @@
       "type": "tweets",
       "content": "<p>A U.S. delegation led by Assistant U.S. Trade Representative Brendan Lynch is visiting India from June 1\u20134 for trade agreement discussions. (These are usually the negotiation war rooms)<br />\n<br />\nDefence watchers should keep an eye on these talks from the GE F414 perspective as well.</p>\n<img src=\"https://nitter.net/pic/media%2FHJuhInkbUAAhUPb.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "#DRDO's PF and Incendiary warhead family: engineered for optimized fragmentation lethality and thermal destruction across diverse combat scenarios.",
-      "link": "https://nitter.net/DefenceDecode/status/2061407112090292450#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-01T16:48:49+05:30",
-      "time": "01 Jun, 04:48 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23DRDO\">#DRDO</a>'s PF and Incendiary warhead family: engineered for optimized fragmentation lethality and thermal destruction across diverse combat scenarios.</p>\n<img src=\"https://nitter.net/pic/media%2FHJuWGF-aIAAFBYh.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "RT by @Goreunit: Happy Raising Day to the 10 Para SF\ud83e\udd82\n'The Desert Scorpions'",
-      "link": "https://nitter.net/DefenceSphere/status/2061400924367839617#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-01T16:24:14+05:30",
-      "time": "01 Jun, 04:24 PM",
-      "type": "tweets",
-      "content": "<p>Happy Raising Day to the 10 Para SF\ud83e\udd82<br />\n'The Desert Scorpions'</p>\n<img src=\"https://nitter.net/pic/media%2FHJuRNwkbEAA2euh.jpg\" />",
-      "author": "@DefenceSphere"
     }
   ],
   "youtube": [
@@ -1786,6 +1764,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
