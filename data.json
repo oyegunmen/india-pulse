@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "IIT-Roorkee admits to glitch in JEE portal",
+      "link": "https://www.tribuneindia.com/news/india/iit-roorkee-admits-to-glitch-in-jee-portal",
+      "source": "The Tribune",
+      "sort_key": "2026-06-04T01:36:55+05:30",
+      "time": "04 Jun, 01:36 AM",
+      "type": "news",
+      "description": "IIT-Roorkee has confirmed that the JEE (Advanced) 2026 results portal faced a cloud storage configuration issue after a teenager who identifies as a c..."
+    },
+    {
       "title": "Iran fires missiles, US strikes Iran facility after reports of faltering peace talks",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-fires-missiles-us-strikes-iran-facility-after-reports-of-faltering-peace-talks/articleshow/131490810.cms",
       "source": "Economic Times",
@@ -1717,6 +1726,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 AM IST"
+    "last_updated": "02:24 AM IST"
   }
 }
