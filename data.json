@@ -1,7 +1,61 @@
 {
   "news": [
     {
-      "title": "Ukraine Drone Strike Hits Outskirts of St Petersburg Ahead of Major Economic Forum",
+      "title": "Uttarakhand STF Claims ISI-Linked Handlers Targeting Youth Online",
+      "link": "https://www.deccanchronicle.com/nation/uttarakhand-stf-claims-isi-linked-handlers-targeting-youth-online-1961105",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-03T21:18:03+05:30",
+      "time": "03 Jun, 09:18 PM",
+      "type": "news",
+      "description": "According to officials, the handlers were allegedly linked to the ISI and other terrorist groups."
+    },
+    {
+      "title": "India Gets Fourth S-400 Squadron From Russia",
+      "link": "https://www.deccanchronicle.com/nation/india-gets-fourth-s-400-squadron-from-russia-1961097",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-03T20:47:48+05:30",
+      "time": "03 Jun, 08:47 PM",
+      "type": "news",
+      "description": "Recent tensions in West Asia have reinforced the importance of air defence systems in modern warfare: Officials"
+    },
+    {
+      "title": "Laos Deputy PM Thongsavan Phomvihane Calls on President Droupadi Murmu in New Delhi",
+      "link": "https://newsonair.gov.in/laos-deputy-pm-thongsavan-phomvihane-calls-on-president-droupadi-murmu-in-new-delhi/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-03T20:40:42+05:30",
+      "time": "03 Jun, 08:40 PM",
+      "type": "news",
+      "description": "Deputy Prime Minister and Foreign Minister of Laos Thongsavan Phomvihane called on President Droupadi Murmu at Rashtrapati Bhavan in New Delhi today. ..."
+    },
+    {
+      "title": "Fourth Sudarshan S-400 squadron arrives in India from Russia",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-strengthens-air-defence-with-arrival-of-fourth-s-400-sudarshan-squadron-from-russia/articleshow/131486956.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-03T20:39:02+05:30",
+      "time": "03 Jun, 08:39 PM",
+      "type": "news",
+      "description": "India has received its fourth S-400 Sudarshan air defence system squadron from Russia. This advanced system significantly boosts the nation's long-ran..."
+    },
+    {
+      "title": "Fourth Sudarshan S-400 Squadron Arrives in India, Boosting Long-Range Air Defence Capabilities",
+      "link": "https://www.republicworld.com/defence/fourth-sudarshan-s-400-squadron-arrives-in-india-boosting-long-range-air-defence-capabilities-2026-06-03-126847",
+      "source": "Republic World",
+      "sort_key": "2026-06-03T20:36:41+05:30",
+      "time": "03 Jun, 08:36 PM",
+      "type": "news",
+      "description": "India receives its fourth Russian S-400 Sudarshan air defence squadron. The delivery strengthens long-range airspace security as Project Kusha develop..."
+    },
+    {
+      "title": "PhysicsWallah, McAfee India fined for digital manipulation, deceptive user interface",
+      "link": "https://www.tribuneindia.com/news/india/physicswallah-mcafee-india-fined-for-digital-manipulation-deceptive-user-interface",
+      "source": "The Tribune",
+      "sort_key": "2026-06-03T20:20:56+05:30",
+      "time": "03 Jun, 08:20 PM",
+      "type": "news",
+      "description": "Educational platform PhysicsWallah and cybersecurity firm McAfee India have been fined Rs 5 lakh and Rs 1 lakh, respectively, for digital manipulation..."
+    },
+    {
+      "title": "Ukraine Drone Strike Hits Outskirts of Russia\u2019s St Petersburg Ahead of Major Economic Forum",
       "link": "https://newsonair.gov.in/ukraine-drone-strike-hits-outskirts-of-st-petersburg-ahead-of-major-economic-forum/",
       "source": "All India Radio",
       "sort_key": "2026-06-03T20:15:17+05:30",
@@ -62,6 +116,15 @@
       "time": "03 Jun, 07:23 PM",
       "type": "news",
       "description": "The Director General of the International Atomic Energy Agency, Rafael Mariano Grossi, has praised the United Arab Emirates&#8217; peaceful nuclear en..."
+    },
+    {
+      "title": "US trade body announces new 12.5% tariff on India, Govt says proposed tax not final",
+      "link": "https://www.tribuneindia.com/news/business/us-trade-body-announces-new-12-5-tariff-on-india-govt-says-proposed-tax-not-final",
+      "source": "The Tribune",
+      "sort_key": "2026-06-03T19:19:33+05:30",
+      "time": "03 Jun, 07:19 PM",
+      "type": "news",
+      "description": "The US on Wednesday has proposed to impose 12.5 per cent tax on India, including China, the UK, and Japan after a USTR trade investigation under Secti..."
     },
     {
       "title": "After the West Asia war, Iran's nuclear programme is harder to track \u2014 and riskier: Report",
@@ -163,13 +226,13 @@
       "description": "US-Iran war: Iran has accused Kuwait and Bahrain of allowing the United States to use their territory for attacks. The strikes targeted an Iranian tan..."
     },
     {
-      "title": "Indian companies Secure Major Energy and Infrastructure Contracts in Sri Lanka",
-      "link": "https://newsonair.gov.in/indian-companies-secure-major-energy-and-infrastructure-contracts-in-sri-lanka/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T16:19:11+05:30",
-      "time": "03 Jun, 04:19 PM",
+      "title": "Garba on Great Wall of China? Indian tourists draw attention yet again",
+      "link": "https://www.tribuneindia.com/news/trending/garba-on-great-wall-of-china-indian-tourists-draw-attention-yet-again",
+      "source": "The Tribune",
+      "sort_key": "2026-06-03T15:53:18+05:30",
+      "time": "03 Jun, 03:53 PM",
       "type": "news",
-      "description": "Indian companies have secured significant contracts in Sri Lanka\u2019s infrastructure and energy sectors, reflecting growing economic engagement between t..."
+      "description": "From dancing on airport tarmacs to a Swiss hotel reportedly displaying a notice for Indian guests regarding their behaviour, Indians have found themse..."
     },
     {
       "title": "Trump says Iran agreed not to pursue nuclear weapon; Ayatollah giving approval in talks",
@@ -701,18 +764,39 @@
       "time": "01 Jun, 09:39 PM",
       "type": "news",
       "description": "US President Trump's cautious optimism regarding Iran negotiations has been shattered as Tehran suspends talks, citing Israeli actions in Lebanon. Thi..."
-    },
-    {
-      "title": "India issues formal request to France for 114 Rafales in \u20b93.25 lakh crore deal",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/india-issues-formal-request-to-france-for-114-rafales-in-3-25-lakh-crore-deal/131445326",
-      "source": "Economic Times",
-      "sort_key": "2026-06-01T20:27:57+05:30",
-      "time": "01 Jun, 08:27 PM",
-      "type": "news",
-      "description": "The French side is expected to reply to the Indian Letter of Request or tender in the next two to three months and the two sides are likely to conclud..."
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @Goreunit: The first consignment of the 4th regiment of the S-400 air defence system has reached India. \nRest of the consignment will come over the next few days at different ports. \nThe delivery of the full regiment will be completed by this month.",
+      "link": "https://nitter.net/DefenceSphere/status/2062196540396187840#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-03T21:05:43+05:30",
+      "time": "03 Jun, 09:05 PM",
+      "type": "tweets",
+      "content": "<p>The first consignment of the 4th regiment of the S-400 air defence system has reached India. <br />\nRest of the consignment will come over the next few days at different ports. <br />\nThe delivery of the full regiment will be completed by this month.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5k0yebgAAGIve.jpg\" />",
+      "author": "@DefenceSphere"
+    },
+    {
+      "title": "Acting President of Venezuela Delcy Rodr\u00edguez in Delhi. She meets PM Modi tomm.",
+      "link": "https://nitter.net/sidhant/status/2062193657286181375#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T20:54:16+05:30",
+      "time": "03 Jun, 08:54 PM",
+      "type": "tweets",
+      "content": "<p>Acting President of Venezuela Delcy Rodr\u00edguez in Delhi. She meets PM Modi tomm.</p>\n<a href=\"https://nitter.net/sidhant/status/2062193657286181375#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062178241990074368%2Fimg%2F8LOBoT0Zl0jRA6PG.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Laos vows crackdown on scam centres as deputy PM Phomvihane visits India to boost ties. Thanks India for archaeological preservation. India has helped restore a Shiv temple in the country. \n\nInterview:\n\nhttps://www.wionews.com/world/laos-vows-crackdown-on-scam-centres-as-deputy-pm-phomvihane-visits-india-to-boost-ties-1780496226895",
+      "link": "https://nitter.net/sidhant/status/2062192818958000566#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T20:50:56+05:30",
+      "time": "03 Jun, 08:50 PM",
+      "type": "tweets",
+      "content": "<p>Laos vows crackdown on scam centres as deputy PM Phomvihane visits India to boost ties. Thanks India for archaeological preservation. India has helped restore a Shiv temple in the country. <br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/laos-vows-crackdown-on-scam-centres-as-deputy-pm-phomvihane-visits-india-to-boost-ties-1780496226895\">wionews.com/world/laos-vows-\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2062185219252441089%2FUpPpRMXZ%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "The fourth S-400 #Sudarshan squadron has reportedly arrived, while delivery of the 5th unit is expected to arrive in the coming months.\nThe DAC has already approved the procurement process for 5 more squadrons\nhttps://www.aninews.in/news/national/general-news/fourth-sudarshan-s-400-squadron-arrives-in-india-from-russia20260603192143/ via @ANI",
       "link": "https://nitter.net/DefenceDecode/status/2062182344514212189#m",
@@ -732,16 +816,6 @@
       "type": "tweets",
       "content": "<p>\ud83c\uddec\ud83c\udde7 Three Royal Navy personnel were killed after an AgustaWestland AW101 Merlin HC4 helicopter (ZJ119) of 824 Naval Air Squadron crashed during a training flight near Okehampton, Devon. <br />\n<br />\nThe aircraft, operated by the Commando Helicopter Force in support of the Royal Marines, was completely destroyed in the crash.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5VPlMbsAAR1mG.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "They say no Pakistani Prime Minister has ever completed a full term in the history of Pakistan, but is Shehbaz Sharif\u2019s close deference to Asim Munir and engagement with Trump finally about to break that streak...?",
-      "link": "https://nitter.net/OsintTV/status/2062176961095405888#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-03T19:47:55+05:30",
-      "time": "03 Jun, 07:47 PM",
-      "type": "tweets",
-      "content": "<p>They say no Pakistani Prime Minister has ever completed a full term in the history of Pakistan, but is Shehbaz Sharif\u2019s close deference to Asim Munir and engagement with Trump finally about to break that streak...?</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5SbE8XwAAeWqe.jpg\" />",
-      "author": "@OsintTV"
     },
     {
       "title": "Beijing: Indian Ambassador to China Vikram Doraiswami @VDoraiswami meets Afghan Ambassador to China Mawlawi Asadullah (Bilal Karimi)",
@@ -1164,26 +1238,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "R to @sidhant: Similar thing happened for a Mumbai Kuwait city flight earlier today",
-      "link": "https://nitter.net/sidhant/status/2062031152102445260#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T10:08:32+05:30",
-      "time": "03 Jun, 10:08 AM",
-      "type": "tweets",
-      "content": "<p>Similar thing happened for a Mumbai Kuwait city flight earlier today</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3OZmHbsAAJqVH.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Amid deteriorating west Asia situation, a Delhi Kuwait city flight is flying in circles over the Persian Gulf\n\nPic: Flight Radar",
-      "link": "https://nitter.net/sidhant/status/2062030963614658619#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T10:07:47+05:30",
-      "time": "03 Jun, 10:07 AM",
-      "type": "tweets",
-      "content": "<p>Amid deteriorating west Asia situation, a Delhi Kuwait city flight is flying in circles over the Persian Gulf<br />\n<br />\nPic: Flight Radar</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3OOqIagAAaIKu.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "DRDO & IAF successfully flight-tested the indigenous RudraM-II air-to-surface missile from an airborne platform under extreme release conditions.\n\nThe missile accurately struck its designated target, validating critical subsystems and flight performance parameters.",
       "link": "https://nitter.net/NetramDefence/status/2062029036462002678#m",
       "source": "Netram Defense",
@@ -1192,6 +1246,16 @@
       "type": "tweets",
       "content": "<p>DRDO &amp; IAF successfully flight-tested the indigenous RudraM-II air-to-surface missile from an airborne platform under extreme release conditions.<br />\n<br />\nThe missile accurately struck its designated target, validating critical subsystems and flight performance parameters.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3MEDgbsAAr7Ag.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "US trade authorities propose tariffs on India, over others countries forced labour import curbs",
+      "link": "https://nitter.net/sidhant/status/2062027333339664856#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T09:53:21+05:30",
+      "time": "03 Jun, 09:53 AM",
+      "type": "tweets",
+      "content": "<p>US trade authorities propose tariffs on India, over others countries forced labour import curbs</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3K7NxacAAy_5-.jpg\" />",
+      "author": "@sidhant"
     },
     {
       "title": "Ahmedabad Police detained over 290 suspects during a large-scale overnight operation targeting illegal Bangladeshi immigrants in Chandola, Gulabnagar, and Khodiyarnagar.\n\nAuthorities have so far identified 131 foreign nationals.",
@@ -1614,16 +1678,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "OSINT Update:\n\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.",
-      "link": "https://nitter.net/OsintTV/status/2061480496098382195#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T21:40:25+05:30",
-      "time": "01 Jun, 09:40 PM",
-      "type": "tweets",
-      "content": "<p>OSINT Update:<br />\n<br />\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvZk48WsAAb7yr.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu & Kashmir.",
       "link": "https://nitter.net/elitepredatorss/status/2061479877820494318#m",
       "source": "Elite Predators",
@@ -1632,66 +1686,6 @@
       "type": "tweets",
       "content": "<p>Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu &amp; Kashmir.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvY-ZRakAAHCk4.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJvY-a5bcAAN3w9.jpg\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>\"Muslims! Never step back from Jihad. Never lose heart. Never say that Jihad has ended.\" Hafiz Abdul Rauf, a senior Lashkar-e-Taiba terrorist commander, said in Bahawalpur</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2046414520969814370#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2046413947268648960%2Fimg%2F1orWPoHDAcX7s3VK.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHGZSpH9aMAATMWq.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2046414520969814370#m\">https://nitter.net/elitepredatorss/status/2046414520969814370#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "A Pakistani SSG Commando has been killed in North Wazaristan and Captain Waqar of the SSG has been critically injured, during an attack in Mustang, Balochistan.",
-      "link": "https://nitter.net/OsintTV/status/2061474099767943484#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T21:15:00+05:30",
-      "time": "01 Jun, 09:15 PM",
-      "type": "tweets",
-      "content": "<p>A Pakistani SSG Commando has been killed in North Wazaristan and Captain Waqar of the SSG has been critically injured, during an attack in Mustang, Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvS7jnW0AAfeZp.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHJvS7jjXYAAyc8f.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Pakis hiding their casualties as usual.",
-      "link": "https://nitter.net/Goreunit/status/2061470700016414812#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-01T21:01:29+05:30",
-      "time": "01 Jun, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>Pakis hiding their casualties as usual.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.<br />\n<br />\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvL-gSXYAEjTdg.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2061465714599317750#m\">https://nitter.net/OsintTV/status/2061465714599317750#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: Pakis hiding their casualties as usual.",
-      "link": "https://nitter.net/Goreunit/status/2061470700016414812#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T21:01:29+05:30",
-      "time": "01 Jun, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>Pakis hiding their casualties as usual.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.<br />\n<br />\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvL-gSXYAEjTdg.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2061465714599317750#m\">https://nitter.net/OsintTV/status/2061465714599317750#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @Goreunit: \ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.\n\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.",
-      "link": "https://nitter.net/OsintTV/status/2061465714599317750#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-01T20:41:41+05:30",
-      "time": "01 Jun, 08:41 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.<br />\n<br />\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvL-gSXYAEjTdg.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.\n\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.",
-      "link": "https://nitter.net/OsintTV/status/2061465714599317750#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T20:41:41+05:30",
-      "time": "01 Jun, 08:41 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Images Emerge of 45 Pakistani Troops Killed in the May 24 Attack on a Military Train Near Quetta, Balochistan.<br />\n<br />\nThe deadly assault is among the most significant attacks targeting Pakistani security forces in recent months, highlighting the deteriorating security situation in Balochistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvL-gSXYAEjTdg.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\udea8 Flash News: PoJK on the Boil\n\nJAAC has rejected talks with Pakistan's govt and confirmed a massive long march and indefinite lockdown from June 9.\n\nWith key demands ignored and elections approaching, residents are being urged to stockpile essential supplies for at least a month.\n\nPolitical unrest in PoJK is escalating fast. More pants are likely to come off as public anger spills onto the streets.",
-      "link": "https://nitter.net/OsintTV/status/2061465037089226781#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-01T20:38:59+05:30",
-      "time": "01 Jun, 08:38 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Flash News: PoJK on the Boil<br />\n<br />\nJAAC has rejected talks with Pakistan's govt and confirmed a massive long march and indefinite lockdown from June 9.<br />\n<br />\nWith key demands ignored and elections approaching, residents are being urged to stockpile essential supplies for at least a month.<br />\n<br />\nPolitical unrest in PoJK is escalating fast. More pants are likely to come off as public anger spills onto the streets.</p>\n<a href=\"https://nitter.net/OsintTV/status/2061465037089226781#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061464041722175488%2Fimg%2F4aUcehybBHq3VunT.jpg\" />\n</a>",
-      "author": "@OsintTV"
     }
   ],
   "youtube": [
@@ -1769,6 +1763,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
