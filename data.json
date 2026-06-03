@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "US military attacks Iran\u2019s Qeshm Island; Tehran targets Kuwait, Bahrain",
+      "link": "https://indianexpress.com/article/world/us-military-attacks-iran-qeshm-island-tehran-kuwait-bahrain-10721204/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-03T06:43:17+05:30",
+      "time": "03 Jun, 06:43 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US military says it has 'defeated' Iran missile, drone attacks in Gulf",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-has-defeated-iran-missile-drone-attacks-in-gulf/articleshow/131473773.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-03T06:43:06+05:30",
+      "time": "03 Jun, 06:43 AM",
+      "type": "news",
+      "description": "US forces repelled Iranian missile and drone assaults in the Gulf. Self-defense strikes targeted Qeshm Island. Iran's claims of hitting US Navy bases ..."
+    },
+    {
       "title": "Iran war: Hostilities flare again, talks at a stalemate",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-war-hostilities-flare-again-talks-at-a-stalemate/articleshow/131473658.cms",
       "source": "Economic Times",
@@ -1383,6 +1401,16 @@
       "author": "@elitepredatorss"
     },
     {
+      "title": "OSINT Update:\n\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.",
+      "link": "https://nitter.net/OsintTV/status/2061480496098382195#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-01T21:40:25+05:30",
+      "time": "01 Jun, 09:40 PM",
+      "type": "tweets",
+      "content": "<p>OSINT Update:<br />\n<br />\nReports from Miranshah, North Waziristan indicate heavy casualties, including around 14 Pakistani security personnel, while Pakistani sources claim 13 rebels were killed.</p>\n<img src=\"https://nitter.net/pic/media%2FHJvZk48WsAAb7yr.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
       "title": "Lashkar-e-Taiba terrorist Abdul Rauf is currently on a visit to Pakistan-occupied Jammu & Kashmir.",
       "link": "https://nitter.net/elitepredatorss/status/2061479877820494318#m",
       "source": "Elite Predators",
@@ -1699,6 +1727,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
