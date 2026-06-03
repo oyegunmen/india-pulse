@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Iran fires missiles, US strikes Iran facility after reports of faltering peace talks",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-fires-missiles-us-strikes-iran-facility-after-reports-of-faltering-peace-talks/articleshow/131490810.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-04T00:00:43+05:30",
+      "time": "04 Jun, 12:00 AM",
+      "type": "news",
+      "description": "Iran's paramilitary Revolutionary Guard said it had targeted the headquarters of the US Navy's 5th Fleet in Bahrain and another country in its attack,..."
+    },
+    {
+      "title": "33 Surrendered Naxals Forced Into Vasectomies By Maoists Undergo Successful Reversal Surgeries In Bastar",
+      "link": "https://www.deccanchronicle.com/nation/33-surrendered-naxals-forced-into-vasectomies-by-maoists-undergo-successful-reversal-surgeries-in-bastar-1961168",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-04T00:00:41+05:30",
+      "time": "04 Jun, 12:00 AM",
+      "type": "news",
+      "description": "A health camp was held in the hospital to admit the surrendered Naxals, who had undergone vasectomy during their Maoist days, for their recanalization..."
+    },
+    {
       "title": "West Bengal clears 32 acres for BSF border fencing, rebrands Maa Canteen as \u2018Ma Ahar\u2019",
       "link": "https://economictimes.indiatimes.com/news/defence/west-bengal-clears-32-acres-for-bsf-border-fencing-rebrands-maa-canteen-as-ma-ahar/articleshow/131488957.cms",
       "source": "Economic Times",
@@ -719,27 +737,169 @@
       "time": "02 Jun, 12:53 AM",
       "type": "news",
       "description": "Iran struck a US air base following American strikes on its military sites. Kuwait also reported missile and drone attacks. These actions have heighte..."
-    },
-    {
-      "title": "India issues request to France for 114 Rafale jets under Rs 3.25 lakh crore deal",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-issues-request-to-france-for-114-rafale-jets-under-rs-3-25-lakh-crore-deal/articleshow/131448934.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-01T23:58:37+05:30",
-      "time": "01 Jun, 11:58 PM",
-      "type": "news",
-      "description": "India has initiated the process to acquire 114 Rafale fighter jets from France. A letter of request has been sent, paving the way for price negotiatio..."
-    },
-    {
-      "title": "India, Australia to sign pact to deepen defence industry cooperation",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-australia-to-sign-pact-to-deepen-defence-industry-cooperation/articleshow/131448442.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-01T23:41:24+05:30",
-      "time": "01 Jun, 11:41 PM",
-      "type": "news",
-      "description": "India and Australia are strengthening defence ties. Their defence ministers met in New Delhi. They will sign a new agreement to boost defence industry..."
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @sidhant: Delhi hotel owner Lovkesh Bajaj arrested; police rescue 40 from the burning building\n\nDelhi CM: Saddened  by the tragic loss of lives \n\n@eriknjoka and @sidhant have more on this",
+      "link": "https://nitter.net/WIONews/status/2062242029413818492#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-04T00:06:29+05:30",
+      "time": "04 Jun, 12:06 AM",
+      "type": "tweets",
+      "content": "<p>Delhi hotel owner Lovkesh Bajaj arrested; police rescue 40 from the burning building<br />\n<br />\nDelhi CM: Saddened  by the tragic loss of lives <br />\n<br />\n<a href=\"https://nitter.net/eriknjoka\" title=\"Eric Njoka \ud83c\uddf0\ud83c\uddea\">@eriknjoka</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more on this</p>\n<a href=\"https://nitter.net/WIONews/status/2062242029413818492#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062238322752389120%2Fimg%2Fl1qemqNKN6YBF8yK.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Delhi's Malviya Nagar Fire Incident \n\n\"We are informing the embassy.  They will be paying visit. Constant monitoring will take place\", MEA MoS @KVSinghMPGonda tells injured foreign national",
+      "link": "https://nitter.net/sidhant/status/2062239387245834494#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:55:59+05:30",
+      "time": "03 Jun, 11:55 PM",
+      "type": "tweets",
+      "content": "<p>Delhi's Malviya Nagar Fire Incident <br />\n<br />\n\"We are informing the embassy.  They will be paying visit. Constant monitoring will take place\", MEA MoS <a href=\"https://nitter.net/KVSinghMPGonda\" title=\"Kirti Vardhan Singh\">@KVSinghMPGonda</a> tells injured foreign national</p>\n<a href=\"https://nitter.net/sidhant/status/2062239387245834494#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062239364282036224%2Fpu%2Fimg%2FQ6fmXf88JAFmcTbg.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Delhi's Malviya Nagar Fire Incident \n\n\"I am very sorry for what has happened\", MEA MoS @KVSinghMPGonda tells injured foreign nationals during visit to hospital.",
+      "link": "https://nitter.net/sidhant/status/2062238916967829581#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:54:07+05:30",
+      "time": "03 Jun, 11:54 PM",
+      "type": "tweets",
+      "content": "<p>Delhi's Malviya Nagar Fire Incident <br />\n<br />\n\"I am very sorry for what has happened\", MEA MoS <a href=\"https://nitter.net/KVSinghMPGonda\" title=\"Kirti Vardhan Singh\">@KVSinghMPGonda</a> tells injured foreign nationals during visit to hospital.</p>\n<a href=\"https://nitter.net/sidhant/status/2062238916967829581#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062238886101938176%2Fpu%2Fimg%2FyaYwZdBGd0ot7sQ0.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Daily US-Israel-Iran War Brief:\n3rd Jun 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf The IRGC targeted the cargo vessel MSC PANAYA with missiles in retaliation for a reported US strike on an oil tanker in the Strait of Hormuz.\n\n\u25cf US forces struck a telecommunications tower south of Qeshm Island.\n\n\u25cf The IRGC claimed responsibility for missile and drone attacks targeting US military assets in Kuwait and Bahrain. Most threats were intercepted; Kuwait reported at least one fatality, injuries, and the temporary closure of Kuwait International Airport.\n\n\u25cf Kuwait has expelled two Iranian diplomats, declaring them persona non grata.\n\n\u25cf The US conducted strikes on Iranian military targets, including a command and ground control site on Qeshm Island near the Strait of Hormuz.\n\n\u25cf CENTCOM enforced measures against the Botswana-flagged tanker M/T Lexie as it attempted to reach Kharg Island.\n\n\u25cf Iran has frozen all back-channel communications with Washington over Israeli operations in Lebanon, contradicting President Trump\u2019s recent claims that messages from Tehran continue to arrive daily.\n\nEND OF THE BRIEF",
+      "link": "https://nitter.net/NetramDefence/status/2062237152654897420#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-03T23:47:06+05:30",
+      "time": "03 Jun, 11:47 PM",
+      "type": "tweets",
+      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n3rd Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The IRGC targeted the cargo vessel MSC PANAYA with missiles in retaliation for a reported US strike on an oil tanker in the Strait of Hormuz.<br />\n<br />\n\u25cf US forces struck a telecommunications tower south of Qeshm Island.<br />\n<br />\n\u25cf The IRGC claimed responsibility for missile and drone attacks targeting US military assets in Kuwait and Bahrain. Most threats were intercepted; Kuwait reported at least one fatality, injuries, and the temporary closure of Kuwait International Airport.<br />\n<br />\n\u25cf Kuwait has expelled two Iranian diplomats, declaring them persona non grata.<br />\n<br />\n\u25cf The US conducted strikes on Iranian military targets, including a command and ground control site on Qeshm Island near the Strait of Hormuz.<br />\n<br />\n\u25cf CENTCOM enforced measures against the Botswana-flagged tanker M/T Lexie as it attempted to reach Kharg Island.<br />\n<br />\n\u25cf Iran has frozen all back-channel communications with Washington over Israeli operations in Lebanon, contradicting President Trump\u2019s recent claims that messages from Tehran continue to arrive daily.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJ6Jv4uaQAAH7m3.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n2nd Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The IDF eliminated 5 terrorists planning attacks against troops, including Yousef Ayesh Awad Ramadan, a deputy commander of a Hamas Nukhba terrorist cell.<br />\n<br />\n\u25cf Bahrain's Interior Ministry has barred citizens from traveling to Iran and Iraq citing security tensions.<br />\n<br />\n\u25cf The fourth round of Israel-Lebanon talks took place at the US State Department in Washington.<br />\n<br />\n\u25cf IDF spokesperson Avichay Adraee issued an urgent military directive ordering all civilians in the major city of Nabatieh to immediately evacuate north of the Zahrani River.<br />\n<br />\n\u25cf The IRGC Navy announced on Tuesday that 24 vessels safely transited the Strait of Hormuz over the past 24 hours, following coordinated permissions and oversight.<br />\n<br />\n\u25cf Shipowners and ship captains worldwide can now submit requests at any time to transit the Strait of Hormuz via Iran\u2019s Persian Gulf Strait Authority (PGSA) online system.<br />\n<br />\n\u25cf As of today, CENTCOM has redirected 122 commercial vessels to ensure compliance with the naval blockade.<br />\n<br />\nEND IF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJ02ofmbgAEQ5WS.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2061864334234714346#m\">https://nitter.net/NetramDefence/status/2061864334234714346#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Kyrgyzstan elected as a non-permanent member of the Security Council for a two-year term beginning in January 2027. Replaces Pakistan as it concludes its 2 year term.\n\nPic ctsy: UN Web",
+      "link": "https://nitter.net/sidhant/status/2062237138855567362#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:47:03+05:30",
+      "time": "03 Jun, 11:47 PM",
+      "type": "tweets",
+      "content": "<p>Kyrgyzstan elected as a non-permanent member of the Security Council for a two-year term beginning in January 2027. Replaces Pakistan as it concludes its 2 year term.<br />\n<br />\nPic ctsy: UN Web</p>\n<img src=\"https://nitter.net/pic/media%2FHJ6Jv70aYAA3jYE.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: #Gravitas | A devastating fire at a hotel in South Delhi's Malviya Nagar has claimed at least 21 lives, including foreign nationals. Shocking visuals showed guests jumping from upper floors as flames and thick smoke engulfed the building. Investigators are now probing allegations of major fire safety violations, including the absence of a fire NOC, a single exit point, and unauthorized rooms. Was this a tragic accident or a disaster waiting to happen? This report breaks down the fire, the alleged lapses, and Delhi's long history of deadly fire incidents\n\n@MollyGambhir and @sidhant have more",
+      "link": "https://nitter.net/WIONews/status/2062234858253103300#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:37:59+05:30",
+      "time": "03 Jun, 11:37 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Gravitas\">#Gravitas</a> | A devastating fire at a hotel in South Delhi's Malviya Nagar has claimed at least 21 lives, including foreign nationals. Shocking visuals showed guests jumping from upper floors as flames and thick smoke engulfed the building. Investigators are now probing allegations of major fire safety violations, including the absence of a fire NOC, a single exit point, and unauthorized rooms. Was this a tragic accident or a disaster waiting to happen? This report breaks down the fire, the alleged lapses, and Delhi's long history of deadly fire incidents<br />\n<br />\n<a href=\"https://nitter.net/MollyGambhir\" title=\"Molly Gambhir\">@MollyGambhir</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2062234858253103300#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062229722088787968%2Fimg%2FI85IYsSLmyamwFRU.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Laos vows crackdown on scam centres as deputy PM Phomvihane visits India to boost ties. Interview:",
+      "link": "https://nitter.net/sidhant/status/2062234572075761719#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:36:51+05:30",
+      "time": "03 Jun, 11:36 PM",
+      "type": "tweets",
+      "content": "<p>Laos vows crackdown on scam centres as deputy PM Phomvihane visits India to boost ties. Interview:</p>\n<a href=\"https://nitter.net/sidhant/status/2062234572075761719#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062225723457437696%2Fimg%2FqJK5dJ3NjMX00_0g.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Australian Envoy Philip Green @AusHCIndia Sees Defence, Trade Ties With India Growing. Interview ahead of PM Modi's visit to the country next month:",
+      "link": "https://nitter.net/sidhant/status/2062234283637604536#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:35:42+05:30",
+      "time": "03 Jun, 11:35 PM",
+      "type": "tweets",
+      "content": "<p>Australian Envoy Philip Green <a href=\"https://nitter.net/AusHCIndia\" title=\"Philip Green OAM\">@AusHCIndia</a> Sees Defence, Trade Ties With India Growing. Interview ahead of PM Modi's visit to the country next month:</p>\n<a href=\"https://nitter.net/sidhant/status/2062234283637604536#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062220419118010368%2Fimg%2FJrId9xnaJxcNF7kJ.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The Quad, an important alliance in the Indo-Pacific, we\u2019ve had multiple meetings of those, of that group, including a meeting just last week in India and a follow-up that\u2019s going to occur later this year, including a leaders\u2019 meeting before the end of the year: Rubio",
+      "link": "https://nitter.net/sidhant/status/2062233035832246312#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:30:44+05:30",
+      "time": "03 Jun, 11:30 PM",
+      "type": "tweets",
+      "content": "<p>The Quad, an important alliance in the Indo-Pacific, we\u2019ve had multiple meetings of those, of that group, including a meeting just last week in India and a follow-up that\u2019s going to occur later this year, including a leaders\u2019 meeting before the end of the year: Rubio</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: In a conversation with WION's @sidhant, Australian high commissioner Philip Green (@AusHCIndia) says leaders are now working towards a new high-level defence agreement to replace the 2009 framework. \u201cWe have a bilateral relationship... it\u2019s a question of how much we can harvest at this important moment,\u201d he added",
+      "link": "https://nitter.net/WIONews/status/2062232926243430876#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:30:18+05:30",
+      "time": "03 Jun, 11:30 PM",
+      "type": "tweets",
+      "content": "<p>In a conversation with WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, Australian high commissioner Philip Green (<a href=\"https://nitter.net/AusHCIndia\" title=\"Philip Green OAM\">@AusHCIndia</a>) says leaders are now working towards a new high-level defence agreement to replace the 2009 framework. \u201cWe have a bilateral relationship... it\u2019s a question of how much we can harvest at this important moment,\u201d he added</p>\n<a href=\"https://nitter.net/WIONews/status/2062232926243430876#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062220419118010368%2Fimg%2FJrId9xnaJxcNF7kJ.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "\"India and Pakistan were on the verge of an all-out war.\u00a0 The State Department and I personally were involved in de-escalating that conflict and bringing it to an end, a war between two nuclear powers\", Marco Rubio, US Secy of state, restates his claims",
+      "link": "https://nitter.net/sidhant/status/2062232788280254467#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:29:45+05:30",
+      "time": "03 Jun, 11:29 PM",
+      "type": "tweets",
+      "content": "<p>\"India and Pakistan were on the verge of an all-out war.\u00a0 The State Department and I personally were involved in de-escalating that conflict and bringing it to an end, a war between two nuclear powers\", Marco Rubio, US Secy of state, restates his claims</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "UK foreign secretary Yvette Cooper reaches Delhi. Welcomed by Piyush Srivastava AS [EW] MEA & @Lindy_Cameron, UK's HC to India.",
+      "link": "https://nitter.net/sidhant/status/2062232222040821959#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:27:30+05:30",
+      "time": "03 Jun, 11:27 PM",
+      "type": "tweets",
+      "content": "<p>UK foreign secretary Yvette Cooper reaches Delhi. Welcomed by Piyush Srivastava AS [EW] MEA &amp; <a href=\"https://nitter.net/Lindy_Cameron\" title=\"Lindy Cameron\">@Lindy_Cameron</a>, UK's HC to India.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ6E8wKaMAAl8qb.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Malviya Nagar Fire incident:\n\n8 Bangladeshi nationals, 2  Nepalis, 2 Cameroonians, 2 Kenyans, 3 Liberians, 1 Nigerian & 3 Kazakhs injured. \n\nMEA says in touch with embassies.\n\nDetails:",
+      "link": "https://nitter.net/sidhant/status/2062231746469593249#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:25:37+05:30",
+      "time": "03 Jun, 11:25 PM",
+      "type": "tweets",
+      "content": "<p>Malviya Nagar Fire incident:<br />\n<br />\n8 Bangladeshi nationals, 2  Nepalis, 2 Cameroonians, 2 Kenyans, 3 Liberians, 1 Nigerian &amp; 3 Kazakhs injured. <br />\n<br />\nMEA says in touch with embassies.<br />\n<br />\nDetails:</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Malviya Nagar Fire incident:<br />\n<br />\n12 Foreign nationals dead among 21.<br />\n<br />\nDead include 4 Nigerians, 2 from Kyrgyzstan, 2 from Mozambique, &amp; one each from Liberia &amp; Uzbekistan. <br />\n<br />\nReporting<br />\n<a href=\"https://www.wionews.com/india-news/11-foreign-nationals-among-21-killed-in-delhi-hotel-fire-mos-kirti-vardhan-singh-visits-injured-in-hospital-1780504926954\">wionews.com/india-news/11-fo\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2062216887468167168%2FsznZirwe%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2062231609982812318#m\">https://nitter.net/sidhant/status/2062231609982812318#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Malviya Nagar Fire incident:\n\n12 Foreign nationals dead among 21.\n\nDead include 4 Nigerians, 2 from Kyrgyzstan, 2 from Mozambique, & one each from Liberia & Uzbekistan. \n\nReporting\nhttps://www.wionews.com/india-news/11-foreign-nationals-among-21-killed-in-delhi-hotel-fire-mos-kirti-vardhan-singh-visits-injured-in-hospital-1780504926954",
+      "link": "https://nitter.net/sidhant/status/2062231609982812318#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:25:04+05:30",
+      "time": "03 Jun, 11:25 PM",
+      "type": "tweets",
+      "content": "<p>Malviya Nagar Fire incident:<br />\n<br />\n12 Foreign nationals dead among 21.<br />\n<br />\nDead include 4 Nigerians, 2 from Kyrgyzstan, 2 from Mozambique, &amp; one each from Liberia &amp; Uzbekistan. <br />\n<br />\nReporting<br />\n<a href=\"https://www.wionews.com/india-news/11-foreign-nationals-among-21-killed-in-delhi-hotel-fire-mos-kirti-vardhan-singh-visits-injured-in-hospital-1780504926954\">wionews.com/india-news/11-fo\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2062216887468167168%2FsznZirwe%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: In an interview with WION's @sidhant, Laos deputy PM Thongsavan Phomvihane who met EAM Jaishankar, says \"scam centre is challenging for Laos and other countries. It's a priority to tackle it. Our govt is actively battling it\"",
+      "link": "https://nitter.net/WIONews/status/2062231237327266160#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:23:36+05:30",
+      "time": "03 Jun, 11:23 PM",
+      "type": "tweets",
+      "content": "<p>In an interview with WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, Laos deputy PM Thongsavan Phomvihane who met EAM Jaishankar, says \"scam centre is challenging for Laos and other countries. It's a priority to tackle it. Our govt is actively battling it\"</p>\n<a href=\"https://nitter.net/WIONews/status/2062231237327266160#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062225723457437696%2Fimg%2FqJK5dJ3NjMX00_0g.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Myanmar President Min Aung Hlaing\n\n\"We share intel with India\"\n\n\"Restoring normalcy to the Myanmar-India  border area is of utmost importance, I am prioritizing this\"\n\n\"One or two ASEAN member states maintain tense stance toward us\"\n\nOn India's state TV:\nhttps://twitter.com/ddindialive/status/2062227485069299933/video/1",
+      "link": "https://nitter.net/sidhant/status/2062231171946483851#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-03T23:23:20+05:30",
+      "time": "03 Jun, 11:23 PM",
+      "type": "tweets",
+      "content": "<p>Myanmar President Min Aung Hlaing<br />\n<br />\n\"We share intel with India\"<br />\n<br />\n\"Restoring normalcy to the Myanmar-India  border area is of utmost importance, I am prioritizing this\"<br />\n<br />\n\"One or two ASEAN member states maintain tense stance toward us\"<br />\n<br />\nOn India's state TV:<br />\n<a href=\"https://nitter.net/ddindialive/status/2062227485069299933/video/1\">nitter.net/ddindialive/stat\u2026</a></p>\n<a href=\"https://nitter.net/sidhant/status/2062231171946483851#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062226140325199873%2Fimg%2FWCpKomRQ2JMgkf44.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Argentina extends condolences over Malviya Nagar fire incident",
       "link": "https://nitter.net/sidhant/status/2062225545430286394#m",
@@ -801,46 +961,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Chairperson - Rastriya Swatantra Party, Rabi Lamichhane, party officials, Nepal's top diplomat in Delhi, Dr. Surendra Thapa with Indian PM Modi in Delhi earlier in the day.",
-      "link": "https://nitter.net/sidhant/status/2062213433236553922#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T22:12:51+05:30",
-      "time": "03 Jun, 10:12 PM",
-      "type": "tweets",
-      "content": "<p>Chairperson - Rastriya Swatantra Party, Rabi Lamichhane, party officials, Nepal's top diplomat in Delhi, Dr. Surendra Thapa with Indian PM Modi in Delhi earlier in the day.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5zbS-agAQlDT8.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "During Nepal ruling party chief Rabi Lamichhane's meet with PM Modi today, EAM Jaishankar, NSA Ajit Doval, FS Vikram Misri were present.",
-      "link": "https://nitter.net/sidhant/status/2062212466982166836#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T22:09:00+05:30",
-      "time": "03 Jun, 10:09 PM",
-      "type": "tweets",
-      "content": "<p>During Nepal ruling party chief Rabi Lamichhane's meet with PM Modi today, EAM Jaishankar, NSA Ajit Doval, FS Vikram Misri were present.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5zEUtbEAAavD-.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "During Delhi talks with EAM Jaishankar, Laos Foreign minister Thongsavanh Phomvihane sees India ties being firmed up with his visit",
-      "link": "https://nitter.net/sidhant/status/2062211501335937259#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T22:05:10+05:30",
-      "time": "03 Jun, 10:05 PM",
-      "type": "tweets",
-      "content": "<p>During Delhi talks with EAM Jaishankar, Laos Foreign minister Thongsavanh Phomvihane sees India ties being firmed up with his visit</p>\n<a href=\"https://nitter.net/sidhant/status/2062211501335937259#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062211312520953859%2Fpu%2Fimg%2FX1DFQIukig-0Lc49.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We have a common heritage of Buddhism, &  Ramayana, EAM Jaishankar tells Lao foreign minister Thongsavanh Phomvihane in Delhi",
-      "link": "https://nitter.net/sidhant/status/2062210528580370737#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T22:01:18+05:30",
-      "time": "03 Jun, 10:01 PM",
-      "type": "tweets",
-      "content": "<p>We have a common heritage of Buddhism, &amp;  Ramayana, EAM Jaishankar tells Lao foreign minister Thongsavanh Phomvihane in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2062210528580370737#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062210352566403073%2Fpu%2Fimg%2FQDJkYTHzGxMYJw2O.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "News from another news : Solar industries is DcPP of Kusha air defence system.\n\nImage : Overt Defence",
       "link": "https://nitter.net/alpha_defense/status/2062206904919888322#m",
       "source": "Alpha Defense",
@@ -861,56 +981,6 @@
       "author": "@manishindiatv"
     },
     {
-      "title": "Deputy Prime Minister and Foreign Minister of Lao, Thongsavan Phomvihane calls on President Droupadi Murmu",
-      "link": "https://nitter.net/sidhant/status/2062206279989538901#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T21:44:25+05:30",
-      "time": "03 Jun, 09:44 PM",
-      "type": "tweets",
-      "content": "<p>Deputy Prime Minister and Foreign Minister of Lao, Thongsavan Phomvihane calls on President Droupadi Murmu</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5tkmMbMAAxrKT.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Foreign Secretary Yvette Cooper to visit India, UK announces\n\nFull Statement\n\nForeign Secretary Yvette Cooper arrives in India on her first official visit to the country. She will meet External Affairs Minister Dr. S. Jaishankar tomorrow (4 June) where both ministers will discuss closer collaboration between the UK and India to minimise economic shocks from ongoing conflicts, preserve global stability, and ensure freedom of navigation.\n\nThe Foreign Secretary\u2019s trip sets an ambitious path for engagement with India, a top priority partner for the UK. It builds on the visit by Business and Trade Secretary Peter Kyle earlier this week to bring the landmark UK-India Free Trade Agreement into force as soon as possible.\n\nTogether with Dr Jaishankar, the Foreign Secretary will undertake a formal review of delivery under the UK-India Vision 2035 to date, highlighting the UK\u2019s priorities for the year ahead across economic growth, technology and innovation, defence and security, climate and education.\u202fThe annual review ensures our partnership remains dynamic, aligned, and responsive to rapid global change.",
-      "link": "https://nitter.net/sidhant/status/2062205396543312222#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T21:40:55+05:30",
-      "time": "03 Jun, 09:40 PM",
-      "type": "tweets",
-      "content": "<p>Foreign Secretary Yvette Cooper to visit India, UK announces<br />\n<br />\nFull Statement<br />\n<br />\nForeign Secretary Yvette Cooper arrives in India on her first official visit to the country. She will meet External Affairs Minister Dr. S. Jaishankar tomorrow (4 June) where both ministers will discuss closer collaboration between the UK and India to minimise economic shocks from ongoing conflicts, preserve global stability, and ensure freedom of navigation.<br />\n<br />\nThe Foreign Secretary\u2019s trip sets an ambitious path for engagement with India, a top priority partner for the UK. It builds on the visit by Business and Trade Secretary Peter Kyle earlier this week to bring the landmark UK-India Free Trade Agreement into force as soon as possible.<br />\n<br />\nTogether with Dr Jaishankar, the Foreign Secretary will undertake a formal review of delivery under the UK-India Vision 2035 to date, highlighting the UK\u2019s priorities for the year ahead across economic growth, technology and innovation, defence and security, climate and education.\u202fThe annual review ensures our partnership remains dynamic, aligned, and responsive to rapid global change.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\u2018New landmarks\u2019 ahead in ties as PM Modi prepares for Australia trip, says Australian high commissioner Philip Green @AusHCIndia; Both sides looking to announce new overarching defence declaration\n\nInterview:\n\nhttps://www.wionews.com/world/new-landmarks-ahead-in-ties-as-pm-modi-prepares-for-australia-trip-says-australian-high-commissioner-philip-green-1780500784232",
-      "link": "https://nitter.net/sidhant/status/2062200630769492433#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T21:21:58+05:30",
-      "time": "03 Jun, 09:21 PM",
-      "type": "tweets",
-      "content": "<p>\u2018New landmarks\u2019 ahead in ties as PM Modi prepares for Australia trip, says Australian high commissioner Philip Green <a href=\"https://nitter.net/AusHCIndia\" title=\"Philip Green OAM\">@AusHCIndia</a>; Both sides looking to announce new overarching defence declaration<br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/new-landmarks-ahead-in-ties-as-pm-modi-prepares-for-australia-trip-says-australian-high-commissioner-philip-green-1780500784232\">wionews.com/world/new-landma\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2062200633298690048%2FBSnkpxDF%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India's minister of state in MEA @KVSinghMPGonda meets foreign nationals who were rescued from the Malviya Nagar fire incident.",
-      "link": "https://nitter.net/sidhant/status/2062199937417589131#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T21:19:13+05:30",
-      "time": "03 Jun, 09:19 PM",
-      "type": "tweets",
-      "content": "<p>India's minister of state in MEA <a href=\"https://nitter.net/KVSinghMPGonda\" title=\"Kirti Vardhan Singh\">@KVSinghMPGonda</a> meets foreign nationals who were rescued from the Malviya Nagar fire incident.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5nq6nbgAAXQgH.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Malviya Nagar fire incident: MEA is in touch with Embassies and is extending all necessary assistance.<br />\n<br />\n21 people have died in the incident, many of them foreign nationals.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2062198987722236084#m\">https://nitter.net/sidhant/status/2062198987722236084#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Malviya Nagar fire incident: MEA is in touch with Embassies and is extending all necessary assistance.\n\n21 people have died in the incident, many of them foreign nationals.",
-      "link": "https://nitter.net/sidhant/status/2062198987722236084#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T21:15:27+05:30",
-      "time": "03 Jun, 09:15 PM",
-      "type": "tweets",
-      "content": "<p>Malviya Nagar fire incident: MEA is in touch with Embassies and is extending all necessary assistance.<br />\n<br />\n21 people have died in the incident, many of them foreign nationals.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @Goreunit: The first consignment of the 4th regiment of the S-400 air defence system has reached India. \nRest of the consignment will come over the next few days at different ports. \nThe delivery of the full regiment will be completed by this month.",
       "link": "https://nitter.net/DefenceSphere/status/2062196540396187840#m",
       "source": "War & Gore",
@@ -919,26 +989,6 @@
       "type": "tweets",
       "content": "<p>The first consignment of the 4th regiment of the S-400 air defence system has reached India. <br />\nRest of the consignment will come over the next few days at different ports. <br />\nThe delivery of the full regiment will be completed by this month.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5k0yebgAAGIve.jpg\" />",
       "author": "@DefenceSphere"
-    },
-    {
-      "title": "Acting President of Venezuela Delcy Rodr\u00edguez in Delhi. She meets PM Modi tomm.",
-      "link": "https://nitter.net/sidhant/status/2062193657286181375#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T20:54:16+05:30",
-      "time": "03 Jun, 08:54 PM",
-      "type": "tweets",
-      "content": "<p>Acting President of Venezuela Delcy Rodr\u00edguez in Delhi. She meets PM Modi tomm.</p>\n<a href=\"https://nitter.net/sidhant/status/2062193657286181375#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062178241990074368%2Fimg%2F8LOBoT0Zl0jRA6PG.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Laos vows crackdown on scam centres as deputy PM Phomvihane visits India to boost ties. Thanks India for archaeological preservation. India has helped restore a Shiv temple in the country. \n\nInterview:\n\nhttps://www.wionews.com/world/laos-vows-crackdown-on-scam-centres-as-deputy-pm-phomvihane-visits-india-to-boost-ties-1780496226895",
-      "link": "https://nitter.net/sidhant/status/2062192818958000566#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T20:50:56+05:30",
-      "time": "03 Jun, 08:50 PM",
-      "type": "tweets",
-      "content": "<p>Laos vows crackdown on scam centres as deputy PM Phomvihane visits India to boost ties. Thanks India for archaeological preservation. India has helped restore a Shiv temple in the country. <br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/laos-vows-crackdown-on-scam-centres-as-deputy-pm-phomvihane-visits-india-to-boost-ties-1780496226895\">wionews.com/world/laos-vows-\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2062185219252441089%2FUpPpRMXZ%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
     },
     {
       "title": "The fourth S-400 #Sudarshan squadron has reportedly arrived, while delivery of the 5th unit is expected to arrive in the coming months.\nThe DAC has already approved the procurement process for 5 more squadrons\nhttps://www.aninews.in/news/national/general-news/fourth-sudarshan-s-400-squadron-arrives-in-india-from-russia20260603192143/ via @ANI",
@@ -961,16 +1011,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Beijing: Indian Ambassador to China Vikram Doraiswami @VDoraiswami meets Afghan Ambassador to China Mawlawi Asadullah (Bilal Karimi)",
-      "link": "https://nitter.net/sidhant/status/2062172521655656837#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T19:30:17+05:30",
-      "time": "03 Jun, 07:30 PM",
-      "type": "tweets",
-      "content": "<p>Beijing: Indian Ambassador to China Vikram Doraiswami <a href=\"https://nitter.net/VDoraiswami\" title=\"Vikram Doraiswami\">@VDoraiswami</a> meets Afghan Ambassador to China Mawlawi Asadullah (Bilal Karimi)</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5O-FXbQAANkw2.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "Awesome news coming : Fourth Sudarshan S-400 squadron arrives in India from Russia by @ajitkdubey for ANI \nRead more At: \nhttps://www.aninews.in/news/national/general-news/fourth-sudarshan-s-400-squadron-arrives-in-india-from-russia20260603192143/",
       "link": "https://nitter.net/alpha_defense/status/2062171555908776253#m",
       "source": "Alpha Defense",
@@ -991,16 +1031,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Venezuela's interim President Delcy Rodr\u00edguez lands in Delhi; welcomed by Dr. Aman Puri, JS, South America Division, MEA",
-      "link": "https://nitter.net/sidhant/status/2062163289036247366#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T18:53:35+05:30",
-      "time": "03 Jun, 06:53 PM",
-      "type": "tweets",
-      "content": "<p>Venezuela's interim President Delcy Rodr\u00edguez lands in Delhi; welcomed by Dr. Aman Puri, JS, South America Division, MEA</p>\n<img src=\"https://nitter.net/pic/media%2FHJ5Gk5raIAAR0h3.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @Goreunit: Masood Azhar's address to JeM's women's wing, Jamaat-ul-Mominaat, reveals another facet of extremist recruitment. Amid emotional appeals and personal grief, he urges women to join the movement and contribute to jihad, in an attempt to expand the radicalization pipeline by targeting women as ideological enablers, recruiters, fundraisers, and supporters of terrorism.\n\nWhile Azhar sheds tears for his sister, who was a part of his terror network, the world remembers the countless innocent victims whose families were left mourning by the violence enabled by Jaish-e-Mohammed.\nNotably, his sister was killed in IAF strikes in Bahawalpur during Operation Sindoor.",
       "link": "https://nitter.net/Goreunit/status/2062162836479160345#m",
       "source": "War & Gore",
@@ -1009,26 +1039,6 @@
       "type": "tweets",
       "content": "<p>Masood Azhar's address to JeM's women's wing, Jamaat-ul-Mominaat, reveals another facet of extremist recruitment. Amid emotional appeals and personal grief, he urges women to join the movement and contribute to jihad, in an attempt to expand the radicalization pipeline by targeting women as ideological enablers, recruiters, fundraisers, and supporters of terrorism.<br />\n<br />\nWhile Azhar sheds tears for his sister, who was a part of his terror network, the world remembers the countless innocent victims whose families were left mourning by the violence enabled by Jaish-e-Mohammed.<br />\nNotably, his sister was killed in IAF strikes in Bahawalpur during Operation Sindoor.</p>\n<a href=\"https://nitter.net/Goreunit/status/2062162836479160345#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062162610074923008%2Fpu%2Fimg%2FRjKSsG9fS8886Hcg.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Kuwait statement:",
-      "link": "https://nitter.net/sidhant/status/2062151013277327447#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T18:04:49+05:30",
-      "time": "03 Jun, 06:04 PM",
-      "type": "tweets",
-      "content": "<p>Kuwait statement:</p>\n<img src=\"https://nitter.net/pic/media%2FHJ47aeuacAELAUO.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "UK Foreign secretary Yvette Cooper leaves China for next stop of Asia visit: India",
-      "link": "https://nitter.net/sidhant/status/2062150740441973155#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T18:03:44+05:30",
-      "time": "03 Jun, 06:03 PM",
-      "type": "tweets",
-      "content": "<p>UK Foreign secretary Yvette Cooper leaves China for next stop of Asia visit: India</p>\n<a href=\"https://nitter.net/sidhant/status/2062150740441973155#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062133946377285632%2Fimg%2FX7y-6467Q_E1p3Sn.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "Kuwaiti authorities have confirmed 63 injuries and the death of an Indian national after Kuwait International Airport came under attack from Iran. Emergency response operations are underway.",
@@ -1521,16 +1531,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 3/13\n\nA submarine's greatest weapon is not its torpedoes or missiles. It's stealth. Unlike warships that can be tracked by radar and satellites, submarines can remain hidden for weeks or even months, making them one of the most difficult military assets to detect and destroy.",
-      "link": "https://nitter.net/NetramDefence/status/2061792768176083361#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:16+05:30",
-      "time": "02 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>3/13<br />\n<br />\nA submarine's greatest weapon is not its torpedoes or missiles. It's stealth. Unlike warships that can be tracked by radar and satellites, submarines can remain hidden for weeks or even months, making them one of the most difficult military assets to detect and destroy.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzpKHsasAAwr08.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Gurdaspur Punjab: There has been news of an explosion in the emergency ward of a private hospital near the bus stand in Kalanaur town of Gurdaspur this afternoon.",
       "link": "https://nitter.net/Goreunit/status/2061783770253197762#m",
       "source": "War & Gore",
@@ -1649,16 +1649,6 @@
       "type": "tweets",
       "content": "<p>Pakistani SSG commando Sepoy Saim Ayub of 5 Commando Battalion (5 CDO), a resident of Jhang, was 72'd in North Waziristan's Miranshah (Darpakhel) area. He suffered fatal splinter injuries during an operational deployment. <br />\n<br />\nThe same incident left Major Allaudin wounded and injuries to the neck and shoulder.</p>\n<img src=\"https://nitter.net/pic/media%2FHJxZpLLaQAAEOnl.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Yes, Eric got a week to choose which pen he wants to sign the deal\ud83d\ude02",
-      "link": "https://nitter.net/elitepredatorss/status/2061516703474004112#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-02T00:04:17+05:30",
-      "time": "02 Jun, 12:04 AM",
-      "type": "tweets",
-      "content": "<p>Yes, Eric got a week to choose which pen he wants to sign the deal\ud83d\ude02</p>\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>Finalising? You mean Eric purchasing Mont Blanc \ud83d\ude02</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2058883846285009027#m\">https://nitter.net/alpha_defense/status/2058883846285009027#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -1736,6 +1726,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "11:24 PM IST"
+    "last_updated": "12:24 AM IST"
   }
 }
