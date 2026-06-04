@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Centre, Bengal plan border overhaul to plug infiltration gaps; BSF to lead plan",
+      "link": "https://economictimes.indiatimes.com/news/defence/centre-bengal-plan-border-overhaul-to-plug-infiltration-gaps-bsf-to-lead-plan/articleshow/131514661.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-04T23:50:59+05:30",
+      "time": "04 Jun, 11:50 PM",
+      "type": "news",
+      "description": "The Centre and West Bengal government will create a blueprint to stop infiltration along the Indo-Bangladesh border. The Border Security Force will dr..."
+    },
+    {
+      "title": "EAM Jaishankar, UK Foreign Secy Cooper launch initiatives on critical minerals, education, maritime security",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/04/eam-jaishankar-uk-foreign-secy-cooper-launch-initiatives-on-critical-minerals-education-maritime-security",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-04T23:27:00+05:30",
+      "time": "04 Jun, 11:27 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Adilabad To Get Telangana\u2019s Largest Joint Airfield After Shamshabad",
       "link": "https://www.deccanchronicle.com/southern-states/telangana/adilabad-to-get-telanganas-largest-joint-airfield-after-shamshabad-1961365",
       "source": "Deccan Chronicle",
@@ -8,6 +26,15 @@
       "time": "04 Jun, 10:58 PM",
       "type": "news",
       "description": "Defence-civil aviation project aims to boost connectivity and industrial growth."
+    },
+    {
+      "title": "India&#039;s defence export push needs technology, capital and certification, say industry leaders",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-defence-export-push-needs-technology-capital-and-certification-say-industry-leaders/131512633",
+      "source": "Economic Times",
+      "sort_key": "2026-06-04T22:42:08+05:30",
+      "time": "04 Jun, 10:42 PM",
+      "type": "news",
+      "description": "Speaking at the ET Aerospace &amp; Defence Manufacturing Summit 2026, industry and government leaders said technology ownership and export-ready desig..."
     },
     {
       "title": "First IAEA report on Iran's nuclear programme since February shows little change despite war",
@@ -91,15 +118,6 @@
       "description": "India and the United Kingdom on Thursday launched the first ministerial review of the India-UK Vision 2035 roadmap, with External Affairs Minister S J..."
     },
     {
-      "title": "House approves war powers resolution to halt military action against Iran",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/04/house-approves-war-powers-resolution-to-halt-military-action-against-iran",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-04T20:04:09+05:30",
-      "time": "04 Jun, 08:04 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "India diverting Chenab water to Beas violation of Indus Waters Treaty: Pakistan",
       "link": "https://www.tribuneindia.com/news/india-pakistan-news/india-diverting-chenab-water-to-beas-violation-of-indus-waters-treaty-pakistan",
       "source": "The Tribune",
@@ -116,15 +134,6 @@
       "time": "04 Jun, 07:55 PM",
       "type": "news",
       "description": "The US is boosting F-47 fighter funding as China advances its J-36 and J-50 programs, intensifying the race for sixth-generation air superiority."
-    },
-    {
-      "title": "Military commanders get greater spending powers under revised defence financial framework",
-      "link": "https://www.newindianexpress.com/india/2026/Jun/04/military-commanders-get-greater-spending-powers-under-revised-defence-financial-framework",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-04T19:54:14+05:30",
-      "time": "04 Jun, 07:54 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "How India is becoming a critical link in the global aerospace supply chain",
@@ -197,15 +206,6 @@
       "time": "04 Jun, 05:53 PM",
       "type": "news",
       "description": "French warplanes were scrambled 11 times last week during NATO's Baltic Air Policing Mission, intercepting Russian military aircraft. These incursions..."
-    },
-    {
-      "title": "South Korean, US Marine chiefs discuss expanding military cooperation, joint drills",
-      "link": "https://defencemonitor.in/south-korean-us-marine-chiefs-discuss-expanding-military-cooperation-joint-drills/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-04T17:41:42+05:30",
-      "time": "04 Jun, 05:41 PM",
-      "type": "news",
-      "description": "<p>Seoul, June 4 (IANS) The chiefs of the South Korean and US Marine Corps have discussed ways to expand military cooperation and joint drills in a bi..."
     },
     {
       "title": "Co-development key to India&#039;s aero-engine ecosystem by 2035, say industry leaders",
@@ -658,6 +658,15 @@
       "description": "According to officials, the handlers were allegedly linked to the ISI and other terrorist groups."
     },
     {
+      "title": "Army takes cognisance of Captain proposal viral video, seeks explanation",
+      "link": "https://theprint.in/defence/army-takes-cognisance-of-captain-proposal-viral-video-seeks-explanation/2949794/",
+      "source": "The Print",
+      "sort_key": "2026-06-03T20:52:07+05:30",
+      "time": "03 Jun, 08:52 PM",
+      "type": "news",
+      "description": "Army sources said the uniform comes with respect and every jawan and officer should honour it and not allow social media trends to influence their act..."
+    },
+    {
       "title": "India Gets Fourth S-400 Squadron From Russia",
       "link": "https://www.deccanchronicle.com/nation/india-gets-fourth-s-400-squadron-from-russia-1961097",
       "source": "Deccan Chronicle",
@@ -890,36 +899,39 @@
       "time": "03 Jun, 06:09 AM",
       "type": "news",
       "description": "With the Gulf region witnessing a surge in missile and drone strikes aimed at Kuwait, diplomatic efforts between Iran and the U.S. hit roadblocks. Isr..."
-    },
-    {
-      "title": "Trump's Israel-Lebanon truce plan up in smoke as IDF strike in Beirut kills 8",
-      "link": "https://economictimes.indiatimes.com/news/defence/trumps-israel-lebanon-truce-plan-up-in-smoke-as-idf-strike-in-beirut-kills-8/articleshow/131470205.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-02T23:56:51+05:30",
-      "time": "02 Jun, 11:56 PM",
-      "type": "news",
-      "description": "The ongoing hostilities-despite Trump's announcement and a nominal ceasefire that began in April-are deepening displacement for Lebanon's conflict-wea..."
-    },
-    {
-      "title": "Rolls-Royce Proposes Mega Fighter Engine Co-Development Deal with India, Eyeing Nuclear and MRO Expansion",
-      "link": "https://www.republicworld.com/defence/rolls-royce-proposes-mega-fighter-engine-co-development-deal-with-india-eyeing-nuclear-and-mro-expansion-2026-06-02-126686",
-      "source": "Republic World",
-      "sort_key": "2026-06-02T23:40:27+05:30",
-      "time": "02 Jun, 11:40 PM",
-      "type": "news",
-      "description": "Rolls-Royce proposes an ambitious co-development deal for India's AMCA stealth fighter engine, offering full IP rights, MRO expansion, and nuclear ene..."
-    },
-    {
-      "title": "Animal Encounters",
-      "link": "https://www.deccanchronicle.com/tabloid/hyderabad-chronicle/animal-encounters-1960915",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-02T23:29:45+05:30",
-      "time": "02 Jun, 11:29 PM",
-      "type": "news",
-      "description": "Behavioural psychologist Jessica Lobo adds, \u201cHumans naturally seek patterns and meaning, especially during periods of emotional uncertainty. Interpret..."
     }
   ],
   "tweets": [
+    {
+      "title": "Trump will always be remembered as a 'MAN OF PEACE,' says Shehbaz Shariff \n \nHe further added that Trump saved millions of lives during last year\u2019s conflict between India and Pakistan.\n\n(Sharif rightly admits that Trump saved millions of Pakistani lives and acknowledges who was desperate for the ceasefire)",
+      "link": "https://nitter.net/OsintTV/status/2062603381143937403#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-05T00:02:22+05:30",
+      "time": "05 Jun, 12:02 AM",
+      "type": "tweets",
+      "content": "<p>Trump will always be remembered as a 'MAN OF PEACE,' says Shehbaz Shariff <br />\n <br />\nHe further added that Trump saved millions of lives during last year\u2019s conflict between India and Pakistan.<br />\n<br />\n(Sharif rightly admits that Trump saved millions of Pakistani lives and acknowledges who was desperate for the ceasefire)</p>\n<a href=\"https://nitter.net/OsintTV/status/2062603381143937403#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062603295831564288%2Fimg%2FLPUgZtw2UZe9SQ4X.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Bangladesh says it blocked multiple alleged \"push-in\" attempts from India in the last 24 hours.\n\nDhaka claims Indian authorities tried to move groups across the border without formal repatriation procedures, while India has repeatedly called for cooperation in identifying and returning illegal immigrants.",
+      "link": "https://nitter.net/NetramDefence/status/2062601436366856389#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-04T23:54:38+05:30",
+      "time": "04 Jun, 11:54 PM",
+      "type": "tweets",
+      "content": "<p>Bangladesh says it blocked multiple alleged \"push-in\" attempts from India in the last 24 hours.<br />\n<br />\nDhaka claims Indian authorities tried to move groups across the border without formal repatriation procedures, while India has repeatedly called for cooperation in identifying and returning illegal immigrants.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ_VEERboAA8CCY.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "RT by @OsintTV: Kandhon se milte hain kandhe.\n\nBuilt on trust. Bound by brotherhood. Driven by duty.\n\nSOG J&K Police\n\n @JmuKmrPolice @KashmirPolice @ZPHQJammu",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2062593839714709864#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-04T23:24:27+05:30",
+      "time": "04 Jun, 11:24 PM",
+      "type": "tweets",
+      "content": "<p>Kandhon se milte hain kandhe.<br />\n<br />\nBuilt on trust. Bound by brotherhood. Driven by duty.<br />\n<br />\nSOG J&amp;K Police<br />\n<br />\n <a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> <a href=\"https://nitter.net/KashmirPolice\" title=\"Kashmir Zone Police\">@KashmirPolice</a> <a href=\"https://nitter.net/ZPHQJammu\" title=\"Zonal Police Media Centre- Jammu Zone\">@ZPHQJammu</a></p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2062593839714709864#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062593756101230592%2Fimg%2Fmi_vhr1w4rZtCpxb.jpg\" />\n</a>",
+      "author": "@MikeLimaBravo12"
+    },
     {
       "title": "R to @sidhant: Venezuela readout of Delcy-Hardeep Puri meet:\n\nFor Venezuela, India represents a market of vital importance in the hydrocarbons sector. Amid the current dynamics of global energy markets, deepening cooperation with New Delhi \u2014 which is emerging as one of the world's fastest-growing economies and largest energy consumers \u2014 constitutes a strategic step forward.Collaboration in the oil and gas sector is projected to become a fundamental pillar for strengthening Venezuela\u2019s productive capacities and meeting the energy security needs of the Asian giant.This technical and commercial exchange seeks to capitalize on the complementarities between both nations, enabling the creation of new investment schemes and technological development. India\u2019s economy, characterized by being one of the most rapidly expanding in the current era, features a robust industrial infrastructure and sustained demand for energy resources that aligns perfectly with Venezuela\u2019s export potential.The opening of direct channels of communication and cooperation with the Asian giant offers a pathway for the transfer of technical knowledge, access to diversified markets, and the strengthening of Venezuela\u2019s position in the new multipolar global scenario.",
       "link": "https://nitter.net/sidhant/status/2062592263910576370#m",
@@ -1001,16 +1013,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "We condemn the attack carried out on UN peacekeepers deployed with UNIFIL on 4 June 2026. We pay tribute to the fallen Serbian Blue Helmet and wish an early recovery to the injured peacekeepers: India mission to UN",
-      "link": "https://nitter.net/sidhant/status/2062580643914289488#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T22:32:01+05:30",
-      "time": "04 Jun, 10:32 PM",
-      "type": "tweets",
-      "content": "<p>We condemn the attack carried out on UN peacekeepers deployed with UNIFIL on 4 June 2026. We pay tribute to the fallen Serbian Blue Helmet and wish an early recovery to the injured peacekeepers: India mission to UN</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "R to @sidhant: India reiterates the\nfundamental importance of respecting the sanctity and inviolability of UN\npremises and personnel. We call upon all parties to ensure the safety and security of UN peacekeepers, who operate under UN Security Council mandates: Indian mission to UN",
       "link": "https://nitter.net/sidhant/status/2062580646082650436#m",
       "source": "Sidhant Sibal",
@@ -1018,6 +1020,16 @@
       "time": "04 Jun, 10:32 PM",
       "type": "tweets",
       "content": "<p>India reiterates the<br />\nfundamental importance of respecting the sanctity and inviolability of UN<br />\npremises and personnel. We call upon all parties to ensure the safety and security of UN peacekeepers, who operate under UN Security Council mandates: Indian mission to UN</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We condemn the attack carried out on UN peacekeepers deployed with UNIFIL on 4 June 2026. We pay tribute to the fallen Serbian Blue Helmet and wish an early recovery to the injured peacekeepers: India mission to UN",
+      "link": "https://nitter.net/sidhant/status/2062580643914289488#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-04T22:32:01+05:30",
+      "time": "04 Jun, 10:32 PM",
+      "type": "tweets",
+      "content": "<p>We condemn the attack carried out on UN peacekeepers deployed with UNIFIL on 4 June 2026. We pay tribute to the fallen Serbian Blue Helmet and wish an early recovery to the injured peacekeepers: India mission to UN</p>",
       "author": "@sidhant"
     },
     {
@@ -1161,16 +1173,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Japanese Prime Minister Takaichi Sanae may visit India next July for the annual summit with India. The meet with PM Modi could happen in the North East state of Assam: Japanese media",
-      "link": "https://nitter.net/sidhant/status/2062545495038550459#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T20:12:20+05:30",
-      "time": "04 Jun, 08:12 PM",
-      "type": "tweets",
-      "content": "<p>Japanese Prime Minister Takaichi Sanae may visit India next July for the annual summit with India. The meet with PM Modi could happen in the North East state of Assam: Japanese media</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Yet another Boeing : A Lufthansa Boeing 787-9 Dreamliner (D-ABPQ) was left with significant damage after its nose landing gear collapsed at Frankfurt Airport while the aircraft was parked at the gate.",
       "link": "https://nitter.net/alpha_defense/status/2062543746559094898#m",
       "source": "Alpha Defense",
@@ -1261,7 +1263,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @OsintTV: Typical Paijaan mindset....\n\n11 air bases struck? Not bothered....\n9 terror camps destroyed? Not bothered....\nHundreds of soldiers and terrorists eliminated? Not bothered....\n\nBut the mere claim of shooting down a few million dollars' worth of fighter jet is treated as if they won the war.\n\nIt's like losing an India vs Pakistan match by 100 runs and then celebrating because your opener hit Bumrah for a six in the first over.\n\nThe funniest part? Every fighter jet Pakistan claimed to have shot down has since appeared in multiple public flypasts.\n\nIndia has already released satellite imagery, videos of missile strikes on air bases, and footage of terror camps being hit. Ask Pakistan for evidence, and their Defence Minister's answer is:\n\n\"It's all over social meendiaaa...\" \ud83e\udd23",
+      "title": "Typical Paijaan mindset....\n\n11 air bases struck? Not bothered....\n9 terror camps destroyed? Not bothered....\nHundreds of soldiers and terrorists eliminated? Not bothered....\n\nBut the mere claim of shooting down a few million dollars' worth of fighter jet is treated as if they won the war.\n\nIt's like losing an India vs Pakistan match by 100 runs and then celebrating because your opener hit Bumrah for a six in the first over.\n\nThe funniest part? Every fighter jet Pakistan claimed to have shot down has since appeared in multiple public flypasts.\n\nIndia has already released satellite imagery, videos of missile strikes on air bases, and footage of terror camps being hit. Ask Pakistan for evidence, and their Defence Minister's answer is:\n\n\"It's all over social meendiaaa...\" \ud83e\udd23",
       "link": "https://nitter.net/OsintTV/status/2062499205348810778#m",
       "source": "Osint TV",
       "sort_key": "2026-06-04T17:08:24+05:30",
@@ -1271,7 +1273,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @OsintTV: According to local sources four Pakistani police personnel were taken captive by armed men in the Hor area of Kontani, Gwadar. \n\nTheir service weapons and official vehicle were also seized, while the personnel were reportedly moved to an unknown location.",
+      "title": "According to local sources four Pakistani police personnel were taken captive by armed men in the Hor area of Kontani, Gwadar. \n\nTheir service weapons and official vehicle were also seized, while the personnel were reportedly moved to an unknown location.",
       "link": "https://nitter.net/OsintTV/status/2062479585862672868#m",
       "source": "Osint TV",
       "sort_key": "2026-06-04T15:50:26+05:30",
@@ -1421,7 +1423,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @OsintTV: India shared no evidence....?\n\nSo the visuals of 11 air bases and 9 terror camps were courtesy of GHQ Rawalpindi, I presume.... \ud83e\udd23",
+      "title": "India shared no evidence....?\n\nSo the visuals of 11 air bases and 9 terror camps were courtesy of GHQ Rawalpindi, I presume.... \ud83e\udd23",
       "link": "https://nitter.net/OsintTV/status/2062442570450346359#m",
       "source": "Osint TV",
       "sort_key": "2026-06-04T13:23:21+05:30",
@@ -1551,7 +1553,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @OsintTV: Air Marshal Bharti rightly said, \"Our job is to hit the target, not to count body bags.\"\n\nThe Jaish-e-Mohammed funeral footage from Bahawalpur after Operation Sindoor appears to have done the counting anyway.\n\nAnyone counting the ambulances?",
+      "title": "Air Marshal Bharti rightly said, \"Our job is to hit the target, not to count body bags.\"\n\nThe Jaish-e-Mohammed funeral footage from Bahawalpur after Operation Sindoor appears to have done the counting anyway.\n\nAnyone counting the ambulances?",
       "link": "https://nitter.net/OsintTV/status/2062376293732401596#m",
       "source": "Osint TV",
       "sort_key": "2026-06-04T09:00:00+05:30",
@@ -1599,16 +1601,6 @@
       "type": "tweets",
       "content": "<p>Don't mess with Indians. We come from the land of the Kama Sutra, so we can fk you in more ways than you can count.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2062357113230463234#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062356934536331264%2Fimg%2FnQX37hWMB0PkDueA.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Max Matrix (@max_matrix1)</b>\n<p>\n<p>Poori air force ch#d gayi, pooch raha hai bhatinda mein kya gira.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/max_matrix1/status/2062190727250235650#m\">https://nitter.net/max_matrix1/status/2062190727250235650#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Daily US-Israel-Iran War Brief:\n3rd Jun 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf The IRGC targeted the cargo vessel MSC PANAYA with missiles in retaliation for a reported US strike on an oil tanker in the Strait of Hormuz.\n\n\u25cf US forces struck a telecommunications tower south of Qeshm Island.\n\n\u25cf The IRGC claimed responsibility for missile and drone attacks targeting US military assets in Kuwait and Bahrain. Most threats were intercepted; Kuwait reported at least one fatality, injuries, and the temporary closure of Kuwait International Airport.\n\n\u25cf Kuwait has expelled two Iranian diplomats, declaring them persona non grata.\n\n\u25cf The US conducted strikes on Iranian military targets, including a command and ground control site on Qeshm Island near the Strait of Hormuz.\n\n\u25cf CENTCOM enforced measures against the Botswana-flagged tanker M/T Lexie as it attempted to reach Kharg Island.\n\n\u25cf Iran has frozen all back-channel communications with Washington over Israeli operations in Lebanon, contradicting President Trump\u2019s recent claims that messages from Tehran continue to arrive daily.\n\nEND OF THE BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2062237152654897420#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-03T23:47:06+05:30",
-      "time": "03 Jun, 11:47 PM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n3rd Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The IRGC targeted the cargo vessel MSC PANAYA with missiles in retaliation for a reported US strike on an oil tanker in the Strait of Hormuz.<br />\n<br />\n\u25cf US forces struck a telecommunications tower south of Qeshm Island.<br />\n<br />\n\u25cf The IRGC claimed responsibility for missile and drone attacks targeting US military assets in Kuwait and Bahrain. Most threats were intercepted; Kuwait reported at least one fatality, injuries, and the temporary closure of Kuwait International Airport.<br />\n<br />\n\u25cf Kuwait has expelled two Iranian diplomats, declaring them persona non grata.<br />\n<br />\n\u25cf The US conducted strikes on Iranian military targets, including a command and ground control site on Qeshm Island near the Strait of Hormuz.<br />\n<br />\n\u25cf CENTCOM enforced measures against the Botswana-flagged tanker M/T Lexie as it attempted to reach Kharg Island.<br />\n<br />\n\u25cf Iran has frozen all back-channel communications with Washington over Israeli operations in Lebanon, contradicting President Trump\u2019s recent claims that messages from Tehran continue to arrive daily.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJ6Jv4uaQAAH7m3.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n2nd Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n<br />\n\u25cf The IDF eliminated 5 terrorists planning attacks against troops, including Yousef Ayesh Awad Ramadan, a deputy commander of a Hamas Nukhba terrorist cell.<br />\n<br />\n\u25cf Bahrain's Interior Ministry has barred citizens from traveling to Iran and Iraq citing security tensions.<br />\n<br />\n\u25cf The fourth round of Israel-Lebanon talks took place at the US State Department in Washington.<br />\n<br />\n\u25cf IDF spokesperson Avichay Adraee issued an urgent military directive ordering all civilians in the major city of Nabatieh to immediately evacuate north of the Zahrani River.<br />\n<br />\n\u25cf The IRGC Navy announced on Tuesday that 24 vessels safely transited the Strait of Hormuz over the past 24 hours, following coordinated permissions and oversight.<br />\n<br />\n\u25cf Shipowners and ship captains worldwide can now submit requests at any time to transit the Strait of Hormuz via Iran\u2019s Persian Gulf Strait Authority (PGSA) online system.<br />\n<br />\n\u25cf As of today, CENTCOM has redirected 122 commercial vessels to ensure compliance with the naval blockade.<br />\n<br />\nEND IF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHJ02ofmbgAEQ5WS.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2061864334234714346#m\">https://nitter.net/NetramDefence/status/2061864334234714346#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
     },
     {
       "title": "RT by @OsintTV: Gardish e waqt ho ya maidan e jang, saath kabhi nahi chhortay.\n\n@JmuKmrPolice Markhors somewhere in the Valley, relentlessly tracking those who seek to disturb peace. The hunt continues. \n\n#HuntingForTerrorists",
@@ -1909,16 +1901,6 @@
       "type": "tweets",
       "content": "<p>Interceptors are active over Kuwait after Iranian missile attack</p>\n<a href=\"https://nitter.net/Goreunit/status/2061969331614003266#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061969316258754560%2Fpu%2Fimg%2FRXQAORO-9vq7QmVl.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Footage from this morning\u2019s missile attack showing Russian cruise missile impacts in Kyiv.",
-      "link": "https://nitter.net/Goreunit/status/2061870539267039676#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-02T23:30:18+05:30",
-      "time": "02 Jun, 11:30 PM",
-      "type": "tweets",
-      "content": "<p>Footage from this morning\u2019s missile attack showing Russian cruise missile impacts in Kyiv.</p>\n<a href=\"https://nitter.net/Goreunit/status/2061870539267039676#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2061870484426575872%2Fpu%2Fimg%2Fksh3KYw2TQ5GnyQ9.jpg\" />\n</a>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1978,6 +1960,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "11:24 PM IST"
+    "last_updated": "12:24 AM IST"
   }
 }
