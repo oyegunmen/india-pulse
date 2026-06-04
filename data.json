@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "NASA declares Mars orbiter Maven mission over after six months of silence",
+      "link": "https://newsonair.gov.in/nasa-declares-mars-orbiter-maven-mission-over-after-six-months-of-silence/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-04T08:15:14+05:30",
+      "time": "04 Jun, 08:15 AM",
+      "type": "news",
+      "description": "NASA&#8217;s Maven spacecraft around Mars has been declared dead. After six months of radio silence. The space agency confirmed that the mission had e..."
+    },
+    {
+      "title": "Five countries elected non-permanent members of UN Security Council",
+      "link": "https://newsonair.gov.in/five-countries-elected-non-permanent-members-of-un-security-council/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-04T08:13:29+05:30",
+      "time": "04 Jun, 08:13 AM",
+      "type": "news",
+      "description": "Five countries, including Austria, Kyrgyzstan, Portugal, Trinidad and Tobago, and Zimbabwe, have been elected non-permanent members of the UN Security..."
+    },
+    {
+      "title": "Death toll in Sri Lanka elderly care home fire rises to eight",
+      "link": "https://newsonair.gov.in/death-toll-in-sri-lanka-elderly-care-home-fire-rises-to-eight/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-04T08:01:18+05:30",
+      "time": "04 Jun, 08:01 AM",
+      "type": "news",
+      "description": "The death toll from a fire at an elderly care home in Batagoda, Aguruwathota, Sri Lanka, has risen to more than eight, police said. Authorities recove..."
+    },
+    {
+      "title": "Bangladesh measles death toll rises to 601 as outbreak worsens",
+      "link": "https://newsonair.gov.in/bangladesh-measles-death-toll-rises-to-601-as-outbreak-worsens/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-04T07:28:09+05:30",
+      "time": "04 Jun, 07:28 AM",
+      "type": "news",
+      "description": "Bangladesh&#8217;s measles outbreak continues to worsen, with the death toll from confirmed and suspected measles cases rising to 601 after seven more..."
+    },
+    {
+      "title": "Israel, Lebanon renew ceasefire, agree to establish security zones free of Hezbollah",
+      "link": "https://www.newindianexpress.com/world/2026/Jun/04/israel-lebanon-renew-ceasefire-agree-to-establish-security-zones-free-of-hezbollah",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-04T07:18:53+05:30",
+      "time": "04 Jun, 07:18 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "US, India weeks away from concluding trade agreement: US Secretary of State Marco Rubio",
       "link": "https://newsonair.gov.in/us-india-weeks-away-from-concluding-trade-agreement-us-secretary-of-state-marco-rubio/",
       "source": "All India Radio",
@@ -91,15 +136,6 @@
       "description": "United Kingdom Secretary of State for Foreign and Commonwealth Affairs, Yvette Cooper, arrived in New Delhi last night on a two-day official visit to ..."
     },
     {
-      "title": "India\u2019s Cockroach Movement Gains Momentum",
-      "link": "https://foreignpolicy.com/2026/06/03/india-cockroach-janta-party-youth-unemployment-protest/",
-      "source": "Foreign Policy",
-      "sort_key": "2026-06-04T02:09:33+05:30",
-      "time": "04 Jun, 02:09 AM",
-      "type": "news",
-      "description": "A satirical political party has tapped into the discontent among unemployed youth."
-    },
-    {
       "title": "IIT-Roorkee admits to glitch in JEE portal",
       "link": "https://www.tribuneindia.com/news/india/iit-roorkee-admits-to-glitch-in-jee-portal",
       "source": "The Tribune",
@@ -163,15 +199,6 @@
       "description": "This advanced system significantly boosts the nation&#039;s long-range air defence. The S-400 played a crucial role in past operations."
     },
     {
-      "title": "Kuwait Airport Terminal Resumes Operations After Security Assessments",
-      "link": "https://newsonair.gov.in/kuwait-airport-terminal-resumes-operations-after-security-assessments/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T21:27:27+05:30",
-      "time": "03 Jun, 09:27 PM",
-      "type": "news",
-      "description": "Kuwait says its armed forces intercepted 13 ballistic missiles and 17 drones that entered the country&#8217;s airspace early today, amid a sharp escal..."
-    },
-    {
       "title": "Uttarakhand STF Claims ISI-Linked Handlers Targeting Youth Online",
       "link": "https://www.deccanchronicle.com/nation/uttarakhand-stf-claims-isi-linked-handlers-targeting-youth-online-1961105",
       "source": "Deccan Chronicle",
@@ -188,15 +215,6 @@
       "time": "03 Jun, 08:47 PM",
       "type": "news",
       "description": "Recent tensions in West Asia have reinforced the importance of air defence systems in modern warfare: Officials"
-    },
-    {
-      "title": "Laos Deputy PM Thongsavan Phomvihane Calls on President Droupadi Murmu in New Delhi",
-      "link": "https://newsonair.gov.in/laos-deputy-pm-thongsavan-phomvihane-calls-on-president-droupadi-murmu-in-new-delhi/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T20:40:42+05:30",
-      "time": "03 Jun, 08:40 PM",
-      "type": "news",
-      "description": "Deputy Prime Minister and Foreign Minister of Laos Thongsavan Phomvihane called on President Droupadi Murmu at Rashtrapati Bhavan in New Delhi today. ..."
     },
     {
       "title": "Fourth Sudarshan S-400 squadron arrives in India from Russia",
@@ -224,24 +242,6 @@
       "time": "03 Jun, 08:20 PM",
       "type": "news",
       "description": "Educational platform PhysicsWallah and cybersecurity firm McAfee India have been fined Rs 5 lakh and Rs 1 lakh, respectively, for digital manipulation..."
-    },
-    {
-      "title": "Ukraine Drone Strike Hits Outskirts of Russia\u2019s St Petersburg Ahead of Major Economic Forum",
-      "link": "https://newsonair.gov.in/ukraine-drone-strike-hits-outskirts-of-st-petersburg-ahead-of-major-economic-forum/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T20:15:17+05:30",
-      "time": "03 Jun, 08:15 PM",
-      "type": "news",
-      "description": "Ukraine has carried out a drone strike on the outskirts of Russia&#8217;s St Petersburg, just hours before the start of a major economic forum aimed a..."
-    },
-    {
-      "title": "Venezuela\u2019s Acting President Delcy Rodr\u00edguez arrives in India for five-day visit to India",
-      "link": "https://newsonair.gov.in/venezuelas-acting-president-delcy-rodriguez-arrives-in-india-for-five-day-visit-to-india/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T20:12:42+05:30",
-      "time": "03 Jun, 08:12 PM",
-      "type": "news",
-      "description": "Acting President of Venezuela Delcy Elo\u00edna Rodr\u00edguez G\u00f3mez arrived in New Delhi on a five-day visit to India. She is accompanied by a delegation compr..."
     },
     {
       "title": "5th-gen fighter jet: India invites proposals, 3 private bidders shortlisted for \u20b915,000 cr project",
@@ -494,15 +494,6 @@
       "time": "03 Jun, 10:29 AM",
       "type": "news",
       "description": "Russia intercepted 50 drones over Leningrad region overnight. This comes as President Putin's economic forum, the 'Russian Davos', starts in St. Peter..."
-    },
-    {
-      "title": "US-Israel-Iran War News LIVE Updates: Israel, Lebanon renew ceasefire, agree on Hezbollah-free security zones",
-      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-donald-trump-israel-lebanon-peace-talks-hezbollah-qeshm-island-kuwait-attack-10721222/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-03T08:57:18+05:30",
-      "time": "03 Jun, 08:57 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Skyroot Aerospace forecasts \u20b9977 crore in revenues by FY27, ahead of Vikram-1 launch",
@@ -794,6 +785,26 @@
     }
   ],
   "tweets": [
+    {
+      "title": "Parliament's Public Accounts Committee (PAC) will consider and adopt draft reports on delays in the production of the electronically upgraded 155mm/45-calibre Dhanush gun system, losses of \u20b962.10 crore due to replacement of defective ammunition supplied to the Army by Ordnance Factory Badmal, management of defence offsets, and non-compliance in the timely submission of Action Taken Notes.",
+      "link": "https://nitter.net/elitepredatorss/status/2062359149573472671#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-04T07:51:52+05:30",
+      "time": "04 Jun, 07:51 AM",
+      "type": "tweets",
+      "content": "<p>Parliament's Public Accounts Committee (PAC) will consider and adopt draft reports on delays in the production of the electronically upgraded 155mm/45-calibre Dhanush gun system, losses of \u20b962.10 crore due to replacement of defective ammunition supplied to the Army by Ordnance Factory Badmal, management of defence offsets, and non-compliance in the timely submission of Action Taken Notes.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ74qPxaAAAOXN0.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Don't mess with Indians. We come from the land of the Kama Sutra, so we can fk you in more ways than you can count.",
+      "link": "https://nitter.net/elitepredatorss/status/2062357113230463234#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-04T07:43:47+05:30",
+      "time": "04 Jun, 07:43 AM",
+      "type": "tweets",
+      "content": "<p>Don't mess with Indians. We come from the land of the Kama Sutra, so we can fk you in more ways than you can count.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2062357113230463234#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062356934536331264%2Fimg%2FnQX37hWMB0PkDueA.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Max Matrix (@max_matrix1)</b>\n<p>\n<p>Poori air force ch#d gayi, pooch raha hai bhatinda mein kya gira.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/max_matrix1/status/2062190727250235650#m\">https://nitter.net/max_matrix1/status/2062190727250235650#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
     {
       "title": "Today\n\ud83c\uddfb\ud83c\uddeaVenezuela acting President Delcy Rodriguez in Delhi\n9.45 am: Meeting with EAM Jaishankar\n1130 am: Meeting with PM Modi\n\n\ud83c\uddec\ud83c\udde7UK Foreign secretary Yvette Cooper in Delhi\n1630 hrs: Call on with PM Modi\n1800 hrs: Meeting with EAM Jaishankar",
       "link": "https://nitter.net/sidhant/status/2062330995995734398#m",
@@ -1695,27 +1706,8 @@
       "author": "@alpha_defense"
     }
   ],
-  "youtube": [
-    {
-      "title": "WipingOut Enemy Radar Network",
-      "link": "https://www.youtube.com/watch?v=UQJcQDM37hU",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-06-03T19:19:18+05:30",
-      "time": "03 Jun, 07:19 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/UQJcQDM37hU/mqdefault.jpg"
-    },
-    {
-      "title": "Over 200 Rafale for India",
-      "link": "https://www.youtube.com/watch?v=hXCYpE6Z_yE",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-06-02T21:37:42+05:30",
-      "time": "02 Jun, 09:37 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/hXCYpE6Z_yE/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
