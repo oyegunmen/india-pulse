@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Cockroach Janta Party Backed By  Urban Naxals: Telangana BJP Chief",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/cockroach-janta-party-backed-by-urban-naxals-claims-telangana-bjp-chief-1961283",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-04T16:59:43+05:30",
+      "time": "04 Jun, 04:59 PM",
+      "type": "news",
+      "description": "Asserting that Gen Z identifies with the Indian ethos, he said the country's youth would not fall into the trap of people allegedly backed by internat..."
+    },
+    {
+      "title": "Video: China\u2019s Unitree humanoid robots stun judges on \u2018America\u2019s Got Talent\u2019 with synchronised dance act",
+      "link": "https://indianexpress.com/article/world/unitree-chinese-humanoid-robots-americas-got-talent-performance-simon-cowell-10723592/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-04T16:30:19+05:30",
+      "time": "04 Jun, 04:30 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "TVS Supply Chain forms JV with Italy&#039;s ALA Group to foray into aerospace and defence segment",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tvs-supply-chain-forms-jv-with-italys-ala-group-to-foray-into-aerospace-and-defence-segment/131505115",
+      "source": "Economic Times",
+      "sort_key": "2026-06-04T16:24:07+05:30",
+      "time": "04 Jun, 04:24 PM",
+      "type": "news",
+      "description": "TVS Supply Chain Solutions is entering the aerospace and defence sector through a joint venture with Italy&#039;s ALA Group. This collaboration aims t..."
+    },
+    {
       "title": "India must move from build-to-print to technology ownership, say aerospace and defence leaders",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/india-must-move-from-build-to-print-to-technology-ownership-say-aerospace-and-defence-leaders/131504179",
       "source": "Economic Times",
@@ -125,15 +152,6 @@
       "time": "04 Jun, 01:03 PM",
       "type": "news",
       "description": "Speaking at the ET Aerospace &amp; Defence Manufacturing Summit 2026, Singh said indigenous software capabilities are essential for weapon integration..."
-    },
-    {
-      "title": "Beijing bans four New Zealand lawmakers from entering China because they visited Taiwan",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/04/beijing-bans-four-new-zealand-lawmakers-from-entering-china-because-they-visited-taiwan",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-04T12:49:35+05:30",
-      "time": "04 Jun, 12:49 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Dry weather and El Nino threat disrupt crop planting across Asia, raise food supply concerns",
@@ -406,6 +424,15 @@
       "description": ""
     },
     {
+      "title": "India\u2019s Cockroach Movement Gains Momentum",
+      "link": "https://foreignpolicy.com/2026/06/03/india-cockroach-janta-party-youth-unemployment-protest/",
+      "source": "Foreign Policy",
+      "sort_key": "2026-06-04T02:09:33+05:30",
+      "time": "04 Jun, 02:09 AM",
+      "type": "news",
+      "description": "A satirical political party has tapped into the discontent among unemployed youth."
+    },
+    {
       "title": "Iran fires missiles, US strikes Iran facility after reports of faltering peace talks",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-fires-missiles-us-strikes-iran-facility-after-reports-of-faltering-peace-talks/articleshow/131490810.cms",
       "source": "Economic Times",
@@ -494,15 +521,6 @@
       "time": "03 Jun, 08:11 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "LG VK Saxena lays foundation stone for Ladakh's first model border village in Chumur: All you need to know",
-      "link": "https://www.indiatvnews.com/news/india/lg-vk-saxena-lays-foundation-stone-for-ladakh-s-first-model-border-village-all-you-need-to-know-2026-06-03-1043527",
-      "source": "India TV",
-      "sort_key": "2026-06-03T19:28:43+05:30",
-      "time": "03 Jun, 07:28 PM",
-      "type": "news",
-      "description": "In a major boost to border development and national security, Ladakh Lieutenant Governor (LG) Vinai Kumar Saxena laid the foundation stone for the reg..."
     },
     {
       "title": "After the West Asia war, Iran's nuclear programme is harder to track \u2014 and riskier: Report",
@@ -667,6 +685,15 @@
       "description": "Russia intercepted 50 drones over Leningrad region overnight. This comes as President Putin's economic forum, the 'Russian Davos', starts in St. Peter..."
     },
     {
+      "title": "US-Israel-Iran War News LIVE Updates: Pakistan rejects claims that Deputy PM shared info about Iran\u2019s nuclear programme with US",
+      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-donald-trump-israel-lebanon-peace-talks-hezbollah-qeshm-island-kuwait-attack-10721222/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-03T08:57:18+05:30",
+      "time": "03 Jun, 08:57 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Skyroot Aerospace forecasts \u20b9977 crore in revenues by FY27, ahead of Vikram-1 launch",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/skyroot-aerospace-forecasts-977-crore-in-revenues-by-fy27-ahead-of-vikram-1-launch/131474946",
       "source": "Economic Times",
@@ -827,36 +854,49 @@
       "time": "02 Jun, 05:38 PM",
       "type": "news",
       "description": "Ceasefires have been announced but fighting continues across the Middle East - Gaza, Lebanon and Iran. Israeli forces advance in Gaza and Lebanon. The..."
-    },
-    {
-      "title": "Battlefield-tested, Israeli defence exports jump nearly 30% in 2025",
-      "link": "https://economictimes.indiatimes.com/news/defence/battlefield-tested-israeli-defence-exports-jump-nearly-30-in-2025/articleshow/131463227.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-02T17:19:17+05:30",
-      "time": "02 Jun, 05:19 PM",
-      "type": "news",
-      "description": "Israel's defence exports surged to a record $19.2 billion in 2025, driven by missile and air defence systems.  Wartime production for domestic forces ..."
-    },
-    {
-      "title": "Ukraine pushed Russia back in May for second month running: AFP analysis",
-      "link": "https://economictimes.indiatimes.com/news/defence/ukraine-pushed-russia-back-in-may-for-second-month-running-afp-analysis/articleshow/131463158.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-02T17:16:01+05:30",
-      "time": "02 Jun, 05:16 PM",
-      "type": "news",
-      "description": "Ukraine has regained more land than it lost to Russia for two consecutive months.  In May, Kyiv's forces secured a net gain of 282 square kilometers. ..."
-    },
-    {
-      "title": "Norsk Titanium signs Airbus deal to advance 3D-printed aircraft parts",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/norsk-titanium-signs-airbus-deal-to-advance-3d-printed-aircraft-parts/131462845",
-      "source": "Economic Times",
-      "sort_key": "2026-06-02T16:59:10+05:30",
-      "time": "02 Jun, 04:59 PM",
-      "type": "news",
-      "description": "Norsk \u2060Titanium signed a cooperation and research \u200bagreement (CRA) with Airbus to mature and qualify \u200bRapid Plasma Deposition (RPD) technology for str..."
     }
   ],
   "tweets": [
+    {
+      "title": "Manufacturing aircraft is the easy part. (Not so easy in our case). However Supporting 100\u2013200 aircraft for the next 40 years is the hard part.\n\nThe real question isn\u2019t whether India can build the Il-114-300 or SJ-100 under licence. It\u2019s whether the MRO, spares, overhaul and supply-chain ecosystem can keep fleet availability high throughout its service life.\n\nAirlines buy support as much as they buy aircraft. If an airline has an aircraft grounded in Chennai, Delhi, or Jakarta, can parts arrive within hours rather than weeks?",
+      "link": "https://nitter.net/alpha_defense/status/2062501416514527476#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-04T17:17:11+05:30",
+      "time": "04 Jun, 05:17 PM",
+      "type": "tweets",
+      "content": "<p>Manufacturing aircraft is the easy part. (Not so easy in our case). However Supporting 100\u2013200 aircraft for the next 40 years is the hard part.<br />\n<br />\nThe real question isn\u2019t whether India can build the Il-114-300 or SJ-100 under licence. It\u2019s whether the MRO, spares, overhaul and supply-chain ecosystem can keep fleet availability high throughout its service life.<br />\n<br />\nAirlines buy support as much as they buy aircraft. If an airline has an aircraft grounded in Chennai, Delhi, or Jakarta, can parts arrive within hours rather than weeks?</p>\n<img src=\"https://nitter.net/pic/media%2FHJ96GpobMAAVOaw.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Typical Paijaan mindset....\n\n11 air bases struck? Not bothered....\n9 terror camps destroyed? Not bothered....\nHundreds of soldiers and terrorists eliminated? Not bothered....\n\nBut the mere claim of shooting down a few million dollars' worth of fighter jet is treated as if they won the war.\n\nIt's like losing an India vs Pakistan match by 100 runs and then celebrating because your opener hit Bumrah for a six in the first over.\n\nThe funniest part? Every fighter jet Pakistan claimed to have shot down has since appeared in multiple public flypasts.\n\nIndia has already released satellite imagery, videos of missile strikes on air bases, and footage of terror camps being hit. Ask Pakistan for evidence, and their Defence Minister's answer is:\n\n\"It's all over social meendiaaa...\" \ud83e\udd23",
+      "link": "https://nitter.net/OsintTV/status/2062499205348810778#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-04T17:08:24+05:30",
+      "time": "04 Jun, 05:08 PM",
+      "type": "tweets",
+      "content": "<p>Typical Paijaan mindset....<br />\n<br />\n11 air bases struck? Not bothered....<br />\n9 terror camps destroyed? Not bothered....<br />\nHundreds of soldiers and terrorists eliminated? Not bothered....<br />\n<br />\nBut the mere claim of shooting down a few million dollars' worth of fighter jet is treated as if they won the war.<br />\n<br />\nIt's like losing an India vs Pakistan match by 100 runs and then celebrating because your opener hit Bumrah for a six in the first over.<br />\n<br />\nThe funniest part? Every fighter jet Pakistan claimed to have shot down has since appeared in multiple public flypasts.<br />\n<br />\nIndia has already released satellite imagery, videos of missile strikes on air bases, and footage of terror camps being hit. Ask Pakistan for evidence, and their Defence Minister's answer is:<br />\n<br />\n\"It's all over social meendiaaa...\" \ud83e\udd23</p>\n<a href=\"https://nitter.net/OsintTV/status/2062499205348810778#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062499105948028928%2Fimg%2F09LDOyDKXzmMVBDw.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>fawad rajpoot (@fawadrajpoot222)</b>\n<p>\n<p>Pakistan down million dollars jets and indian down houses \ud83c\udfd8 and some \ud83c\udf33 trees</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/fawadrajpoot222/status/2062455188448014356#m\">https://nitter.net/fawadrajpoot222/status/2062455188448014356#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Nepal's foreign minister @shisir Shisir Khanal will visit India, Nepal foreign ministry annouces",
+      "link": "https://nitter.net/sidhant/status/2062490388699701297#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-04T16:33:22+05:30",
+      "time": "04 Jun, 04:33 PM",
+      "type": "tweets",
+      "content": "<p>Nepal's foreign minister <a href=\"https://nitter.net/shisir\" title=\"Shisir Khanal\">@shisir</a> Shisir Khanal will visit India, Nepal foreign ministry annouces</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9wEB5aQAAlU4L.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Just in: Nepal's foreign minister <a href=\"https://nitter.net/shisir\" title=\"Shisir Khanal\">@shisir</a> Shisir Khanal will visit India over the weekend, officials from both sides confirm</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2062216692454002808#m\">https://nitter.net/sidhant/status/2062216692454002808#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iran Ambassador Dr. Mohammad Fathali will shortly address in Delhi",
+      "link": "https://nitter.net/sidhant/status/2062489320389578799#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-04T16:29:07+05:30",
+      "time": "04 Jun, 04:29 PM",
+      "type": "tweets",
+      "content": "<p>Iran Ambassador Dr. Mohammad Fathali will shortly address in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9vGBwa8AA0av2.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "According to local sources four Pakistani police personnel were taken captive by armed men in the Hor area of Kontani, Gwadar. \n\nTheir service weapons and official vehicle were also seized, while the personnel were reportedly moved to an unknown location.",
       "link": "https://nitter.net/OsintTV/status/2062479585862672868#m",
@@ -878,6 +918,16 @@
       "author": "@sidhant"
     },
     {
+      "title": "R to @NetramDefence: Bottom line: India has the historical revenue records, the continuous administrative presence, and the essential strategic mandate to hold Lipulekh. While New Delhi remains committed to constructive, fact-based neighborhood diplomacy, India's territorial sovereignty is not up for debate.\n\n9/9",
+      "link": "https://nitter.net/NetramDefence/status/2062475181663359361#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-04T15:32:56+05:30",
+      "time": "04 Jun, 03:32 PM",
+      "type": "tweets",
+      "content": "<p>Bottom line: India has the historical revenue records, the continuous administrative presence, and the essential strategic mandate to hold Lipulekh. While New Delhi remains committed to constructive, fact-based neighborhood diplomacy, India's territorial sovereignty is not up for debate.<br />\n<br />\n9/9</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9hn26aAAANJJi.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "R to @NetramDefence: Now, the narrative is cracking from within. PM Balendra Shah\u2019s recent admission that Nepal has also encroached on Indian territory shatters Kathmandu\u2019s long-held, one-sided victimhood narrative. It validates India's longstanding concerns about border management.\n\n8/9",
       "link": "https://nitter.net/NetramDefence/status/2062475178408587525#m",
       "source": "Netram Defense",
@@ -888,13 +938,33 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: Bottom line: India has the historical revenue records, the continuous administrative presence, and the essential strategic mandate to hold Lipulekh. While New Delhi remains committed to constructive, fact-based neighborhood diplomacy, India's territorial sovereignty is not up for debate.\n\n9/9",
-      "link": "https://nitter.net/NetramDefence/status/2062475181663359361#m",
+      "title": "R to @NetramDefence: Even China, which Nepal hoped would back its claims, has maintained that Lipulekh is a bilateral issue between New Delhi and Kathmandu. Furthermore, China and India have previously agreed to expand border trade through the Lipulekh Pass, implicitly recognizing India's sovereignty.\n\n7/9",
+      "link": "https://nitter.net/NetramDefence/status/2062475173568430352#m",
       "source": "Netram Defense",
-      "sort_key": "2026-06-04T15:32:56+05:30",
+      "sort_key": "2026-06-04T15:32:54+05:30",
       "time": "04 Jun, 03:32 PM",
       "type": "tweets",
-      "content": "<p>Bottom line: India has the historical revenue records, the continuous administrative presence, and the essential strategic mandate to hold Lipulekh. While New Delhi remains committed to constructive, fact-based neighborhood diplomacy, India's territorial sovereignty is not up for debate.<br />\n<br />\n9/9</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9hn26aAAANJJi.png\" />",
+      "content": "<p>Even China, which Nepal hoped would back its claims, has maintained that Lipulekh is a bilateral issue between New Delhi and Kathmandu. Furthermore, China and India have previously agreed to expand border trade through the Lipulekh Pass, implicitly recognizing India's sovereignty.<br />\n<br />\n7/9</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9hhkRbkAA5_CG.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: A major flashpoint has been India\u2019s infrastructure push. The construction of the 80-km road to Lipulekh was a massive logistical achievement that drastically cuts travel time for Kailash Mansarovar pilgrims. Nepal's protests against India developing its own sovereign territory lack historical backing.\n\n6/9",
+      "link": "https://nitter.net/NetramDefence/status/2062475170066121083#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-04T15:32:54+05:30",
+      "time": "04 Jun, 03:32 PM",
+      "type": "tweets",
+      "content": "<p>A major flashpoint has been India\u2019s infrastructure push. The construction of the 80-km road to Lipulekh was a massive logistical achievement that drastically cuts travel time for Kailash Mansarovar pilgrims. Nepal's protests against India developing its own sovereign territory lack historical backing.<br />\n<br />\n6/9</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9hX9mb0AAWZid.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: The issue was largely settled until 2020, when domestic political instability in Kathmandu led to sudden \"cartographic aggression.\" Nepal unilaterally amended its constitution to include Kalapani, Lipulekh, and Limpiyadhura in its official map, completely ignoring decades of bilateral understandings.\n\n5/9",
+      "link": "https://nitter.net/NetramDefence/status/2062475166035112172#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-04T15:32:53+05:30",
+      "time": "04 Jun, 03:32 PM",
+      "type": "tweets",
+      "content": "<p>The issue was largely settled until 2020, when domestic political instability in Kathmandu led to sudden \"cartographic aggression.\" Nepal unilaterally amended its constitution to include Kalapani, Lipulekh, and Limpiyadhura in its official map, completely ignoring decades of bilateral understandings.<br />\n<br />\n5/9</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9hQVSawAAyfjr.png\" />",
       "author": "@NetramDefence"
     },
     {
@@ -1128,26 +1198,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Venezuela's Interim President Delcy Rodr\u00edguez at Rajghat",
-      "link": "https://nitter.net/sidhant/status/2062459132855390716#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T14:29:10+05:30",
-      "time": "04 Jun, 02:29 PM",
-      "type": "tweets",
-      "content": "<p>Venezuela's Interim President Delcy Rodr\u00edguez at Rajghat</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9To62a0AAsvGc.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Shortly, MEA presser on Venezuela's interim President Delcy Rodr\u00edguez India visit \n\nSecy East R Tandon\nMEA Spox Randhir Jaiswal",
-      "link": "https://nitter.net/sidhant/status/2062458050913649129#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T14:24:52+05:30",
-      "time": "04 Jun, 02:24 PM",
-      "type": "tweets",
-      "content": "<p>Shortly, MEA presser on Venezuela's interim President Delcy Rodr\u00edguez India visit <br />\n<br />\nSecy East R Tandon<br />\nMEA Spox Randhir Jaiswal</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9SqPiboAAzD1Y.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @NetramDefence: Who's copying whom ?\n@Chopsyturvey  @theskindoctor13",
       "link": "https://nitter.net/LtTangoah/status/2062443559568199805#m",
       "source": "Netram Defense",
@@ -1178,7 +1228,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "India shared no evidence....?\n\nSo the visuals of 11 air bases and 9 terror camps were courtesy of GHQ Rawalpindi, I presume.... \ud83e\udd23",
+      "title": "RT by @OsintTV: India shared no evidence....?\n\nSo the visuals of 11 air bases and 9 terror camps were courtesy of GHQ Rawalpindi, I presume.... \ud83e\udd23",
       "link": "https://nitter.net/OsintTV/status/2062442570450346359#m",
       "source": "Osint TV",
       "sort_key": "2026-06-04T13:23:21+05:30",
@@ -1806,19 +1856,18 @@
       "type": "tweets",
       "content": "<p>Gurdaspur Punjab: There has been news of an explosion in the emergency ward of a private hospital near the bus stand in Kalanaur town of Gurdaspur this afternoon.</p>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "It started ?\n\nPoJK Crisis: Civilians bear the brunt of economic failure\n\nAmidst the ongoing struggle for basic supplies, this heart-wrenching scene from Haveli - Kahuta, PoJK, highlights the severe crisis as people queue for hours just for a bag of flour.",
-      "link": "https://nitter.net/OsintTV/status/2061764984250438113#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-02T16:30:52+05:30",
-      "time": "02 Jun, 04:30 PM",
-      "type": "tweets",
-      "content": "<p>It started ?<br />\n<br />\nPoJK Crisis: Civilians bear the brunt of economic failure<br />\n<br />\nAmidst the ongoing struggle for basic supplies, this heart-wrenching scene from Haveli - Kahuta, PoJK, highlights the severe crisis as people queue for hours just for a bag of flour.</p>\n<a href=\"https://nitter.net/OsintTV/status/2061764984250438113#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2061764816587362304%2Fimg%2F0dit-o9lX6w7MBdo.jpg\" />\n</a>",
-      "author": "@OsintTV"
     }
   ],
   "youtube": [
+    {
+      "title": "Indian Defence Updates : Agni-5 Mithya Shield,6 New Netra Mk3,4th S-400 Delivered,$2Bn Drone Order",
+      "link": "https://www.youtube.com/watch?v=5ieMsjHNdsI",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-04T16:58:26+05:30",
+      "time": "04 Jun, 04:58 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/5ieMsjHNdsI/mqdefault.jpg"
+    },
     {
       "title": "DRDO ka MITHYA System,Chinese PL-16 threat for India,Bangladesh Ka JF-17 Deal Bharat Ke Liye Khatra?",
       "link": "https://www.youtube.com/watch?v=kUQieSW8_-A",
@@ -1893,6 +1942,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
