@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Israel and Lebanon agree to implementation of ceasefire",
+      "link": "https://economictimes.indiatimes.com/news/defence/israel-and-lebanon-agree-to-implementation-of-ceasefire/articleshow/131494473.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-04T06:05:30+05:30",
+      "time": "04 Jun, 06:05 AM",
+      "type": "news",
+      "description": "Lebanon and Israel have agreed to a ceasefire. This follows negotiations facilitated by the United States. The agreement hinges on Hezbollah halting a..."
+    },
+    {
+      "title": "Israel-Lebanon renew ceasefire, agree on \u2018pilot\u2019 security zones free of Hezbollah",
+      "link": "https://indianexpress.com/article/world/israel-lebanon-renew-ceasefire-hezbollah-free-security-zones-10723103/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-04T05:59:58+05:30",
+      "time": "04 Jun, 05:59 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "EAM Dr S Jaishankar co-chairs 10th India-Lao PDR Joint Commission Meeting in New Delhi",
+      "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-co-chairs-10th-india-lao-pdr-joint-commission-meeting-in-new-delhi/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-04T05:46:45+05:30",
+      "time": "04 Jun, 05:46 AM",
+      "type": "news",
+      "description": "External Affairs Minister Dr S Jaishankar co-chaired the 10th India-Lao PDR Joint Commission Meeting with Deputy Prime Minister and Minister of Foreig..."
+    },
+    {
+      "title": "UK Secretary of State Yvette Cooper arrives in India on two-day visit",
+      "link": "https://newsonair.gov.in/uk-secretary-of-state-yvette-cooper-arrives-in-india-on-two-day-visit/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-04T05:43:07+05:30",
+      "time": "04 Jun, 05:43 AM",
+      "type": "news",
+      "description": "United Kingdom Secretary of State for Foreign and Commonwealth Affairs, Yvette Cooper, arrived in New Delhi last night on a two-day official visit to ..."
+    },
+    {
       "title": "IIT-Roorkee admits to glitch in JEE portal",
       "link": "https://www.tribuneindia.com/news/india/iit-roorkee-admits-to-glitch-in-jee-portal",
       "source": "The Tribune",
@@ -172,15 +208,6 @@
       "description": "Prime Minister Narendra Modi has congratulated Mette Frederiksen on assuming office as the Prime Minister of Denmark for a remarkable third consecutiv..."
     },
     {
-      "title": "LG VK Saxena lays foundation stone for Ladakh's first model border village in Chumur: All you need to know",
-      "link": "https://www.indiatvnews.com/news/india/lg-vk-saxena-lays-foundation-stone-for-ladakh-s-first-model-border-village-all-you-need-to-know-2026-06-03-1043527",
-      "source": "India TV",
-      "sort_key": "2026-06-03T19:28:43+05:30",
-      "time": "03 Jun, 07:28 PM",
-      "type": "news",
-      "description": "In a major boost to border development and national security, Ladakh Lieutenant Governor (LG) Vinai Kumar Saxena laid the foundation stone for the reg..."
-    },
-    {
       "title": "DG of IAEA Rafael Grossi praises UAE\u2019s peaceful Nuclear Energy Programme",
       "link": "https://newsonair.gov.in/dg-of-iaea-rafael-grossi-praises-uaes-peaceful-nuclear-energy-programme/",
       "source": "All India Radio",
@@ -206,24 +233,6 @@
       "time": "03 Jun, 07:12 PM",
       "type": "news",
       "description": "Iran's uranium stockpile faces reduced international oversight following US-Israel military strikes, according to an IAEA report. This diminished insp..."
-    },
-    {
-      "title": "Sri Lankan Court Bans Former President Gotabaya Rajapaksa from Overseas Travel in Easter Attacks Probe",
-      "link": "https://newsonair.gov.in/sri-lankan-court-bans-former-president-gotabaya-rajapaksa-from-overseas-travel-in-easter-attacks-probe/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T18:04:06+05:30",
-      "time": "03 Jun, 06:04 PM",
-      "type": "news",
-      "description": "A Sri Lankan court today imposed an overseas travel ban on former President Gotabaya Rajapaksa and two former military officers in connection with ong..."
-    },
-    {
-      "title": "India-US Interim Trade Deal 99 Per Cent Finalised : Sergio Gor, US Ambassador",
-      "link": "https://newsonair.gov.in/india-us-interim-trade-deal-99-per-cent-finalised-sergio-gor-us-ambassador/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-03T17:40:33+05:30",
-      "time": "03 Jun, 05:40 PM",
-      "type": "news",
-      "description": "United States Ambassador to India Sergio Gor has said that 99 per cent of the proposed India-US interim trade agreement has been finalised and both si..."
     },
     {
       "title": "Security forces intensify operations as 20 hostages remain missing in Manipur",
@@ -442,7 +451,7 @@
       "description": "Russia intercepted 50 drones over Leningrad region overnight. This comes as President Putin's economic forum, the 'Russian Davos', starts in St. Peter..."
     },
     {
-      "title": "US-Israel-Iran War News LIVE Updates: US House rebukes Donald Trump, passes war power resolution to halt military action in Iran",
+      "title": "US-Israel-Iran War News LIVE Updates: Israel, Lebanon renew ceasefire, agree on Hezbollah-free security zones",
       "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-donald-trump-israel-lebanon-peace-talks-hezbollah-qeshm-island-kuwait-attack-10721222/",
       "source": "The Indian Express",
       "sort_key": "2026-06-03T08:57:18+05:30",
@@ -737,18 +746,19 @@
       "time": "02 Jun, 08:43 AM",
       "type": "news",
       "description": "Prime Minister Narendra Modi and Myanmar President Min Aung Hlaing held talks in New Delhi focused on security cooperation, border management, connect..."
-    },
-    {
-      "title": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue",
-      "link": "https://economictimes.indiatimes.com/news/defence/lebanon-announces-partial-ceasefire-between-israel-hezbollah-but-attacks-continue/articleshow/131452495.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-02T06:13:06+05:30",
-      "time": "02 Jun, 06:13 AM",
-      "type": "news",
-      "description": "Lebanon has announced a partial ceasefire between Hezbollah and Israel. This move signals a limited de-escalation of the ongoing conflict. Israel will..."
     }
   ],
   "tweets": [
+    {
+      "title": "Today\n\ud83c\uddfb\ud83c\uddeaVenezuela acting President Delcy Rodriguez in Delhi\n9.45 am: Meeting with EAM Jaishankar\n1130 am: Meeting with PM Modi\n\n\ud83c\uddec\ud83c\udde7UK Foreign secretary Yvette Cooper in Delhi\n1630 hrs: Call on with PM Modi\n1800 hrs: Meeting with EAM Jaishankar",
+      "link": "https://nitter.net/sidhant/status/2062330995995734398#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-04T06:00:00+05:30",
+      "time": "04 Jun, 06:00 AM",
+      "type": "tweets",
+      "content": "<p>Today<br />\n\ud83c\uddfb\ud83c\uddeaVenezuela acting President Delcy Rodriguez in Delhi<br />\n9.45 am: Meeting with EAM Jaishankar<br />\n1130 am: Meeting with PM Modi<br />\n<br />\n\ud83c\uddec\ud83c\udde7UK Foreign secretary Yvette Cooper in Delhi<br />\n1630 hrs: Call on with PM Modi<br />\n1800 hrs: Meeting with EAM Jaishankar</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "RT by @sidhant: Delhi hotel owner Lovkesh Bajaj arrested; police rescue 40 from the burning building\n\nDelhi CM: Saddened  by the tragic loss of lives \n\n@eriknjoka and @sidhant have more on this",
       "link": "https://nitter.net/WIONews/status/2062242029413818492#m",
@@ -957,16 +967,6 @@
       "time": "03 Jun, 10:28 PM",
       "type": "tweets",
       "content": "<p>11 foreign nationals among 21 killed in Delhi hotel fire; MoS Kirti Vardhan Singh visits injured in hospital.<br />\n<br />\n2 Bangladesh nationals, 2 Nepal nationals discharged. 2 Bangladesh nationals, 4 from African countries on ventilator.<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/11-foreign-nationals-among-21-killed-in-delhi-hotel-fire-mos-kirti-vardhan-singh-visits-injured-in-hospital-1780504926954\">wionews.com/india-news/11-fo\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2062216887468167168%2FsznZirwe%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Just in: Nepal's foreign minister @shisir Shisir Khanal will visit India over the weekend, officials from both sides confirm",
-      "link": "https://nitter.net/sidhant/status/2062216692454002808#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-03T22:25:48+05:30",
-      "time": "03 Jun, 10:25 PM",
-      "type": "tweets",
-      "content": "<p>Just in: Nepal's foreign minister <a href=\"https://nitter.net/shisir\" title=\"Shisir Khanal\">@shisir</a> Shisir Khanal will visit India over the weekend, officials from both sides confirm</p>",
       "author": "@sidhant"
     },
     {
@@ -1460,83 +1460,13 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 11/13\nNuclear Attack Submarines (SSNs): The Future of Undersea Warfare \n\nUnlike SSBNs, which carry strategic nuclear missiles, SSNs are hunter-killers designed to: \n\u2022 Track enemy submarines \n\u2022 Escort carrier strike groups \n\u2022 Gather intelligence \n\u2022 Project power far from home waters\n\nWhy SSNs Matters ?\n\nSSNs combine unlimited endurance, high speed, and exceptional stealth, allowing them to operate undetected across vast oceans. Their versatility makes them indispensable for surveillance, strike missions, fleet protection, and maintaining blue-water naval dominance.\n\nIndia's SSN Ambition\n\nIndia's Arihant-class SSBNs provide strategic deterrence, but future indigenous SSNs will strengthen the Indian Navy's ability to counter adversary submarines, protect carrier battle groups, and maintain a persistent presence across the Indian Ocean Region and beyond.",
-      "link": "https://nitter.net/NetramDefence/status/2061792796303052995#m",
+      "title": "THREAD \ud83e\uddf5\nIndia's Underwater Warriors: The Submarine Arm of the Indian Navy \n\nSubmarines are among the most complex and powerful weapons ever built. Operating silently beneath the ocean's surface, they provide stealth, deterrence, intelligence, and strike capability. \n\nHere's a deep dive into India's submarine fleet. \ud83d\udc47\n\n@indiannavy @SpokespersonMoD @IndiannavyMedia @IN_WNC @IN_HQENC @IN_HQSNC @IN_HQSNC @IN_HQMNA  @IN_WesternFleet @IN_EasternFleet @DefenceMinIndia @HQ_IDS_India \n\n1/13",
+      "link": "https://nitter.net/NetramDefence/status/2061792760399855937#m",
       "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:23+05:30",
+      "sort_key": "2026-06-02T18:21:14+05:30",
       "time": "02 Jun, 06:21 PM",
       "type": "tweets",
-      "content": "<p>11/13<br />\nNuclear Attack Submarines (SSNs): The Future of Undersea Warfare <br />\n<br />\nUnlike SSBNs, which carry strategic nuclear missiles, SSNs are hunter-killers designed to: <br />\n\u2022 Track enemy submarines <br />\n\u2022 Escort carrier strike groups <br />\n\u2022 Gather intelligence <br />\n\u2022 Project power far from home waters<br />\n<br />\nWhy SSNs Matters ?<br />\n<br />\nSSNs combine unlimited endurance, high speed, and exceptional stealth, allowing them to operate undetected across vast oceans. Their versatility makes them indispensable for surveillance, strike missions, fleet protection, and maintaining blue-water naval dominance.<br />\n<br />\nIndia's SSN Ambition<br />\n<br />\nIndia's Arihant-class SSBNs provide strategic deterrence, but future indigenous SSNs will strengthen the Indian Navy's ability to counter adversary submarines, protect carrier battle groups, and maintain a persistent presence across the Indian Ocean Region and beyond.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzzAhOaYAAd0FD.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 10/13\nIndia's Nuclear Triad: \nA credible nuclear deterrent rests on three pillars: \n1. Land-Based Missiles \u2013 Agni series ballistic missiles \n2. Air-Based Delivery \u2013 Nuclear-capable fighter aircraft \n3. Sea-Based Deterrent \u2013 Arihant-class SSBNs armed with SLBMs \n\nEven if one or two legs of the triad are neutralized, the third can retaliate; ensuring a credible second-strike capability and robust nuclear deterrence. With the induction of the Arihant class, India joined the select group of nations with a fully operational nuclear triad.\n\nLand. Air. Sea. \nThree Dimensions. One Deterrent.",
-      "link": "https://nitter.net/NetramDefence/status/2061792792729600401#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:22+05:30",
-      "time": "02 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>10/13<br />\nIndia's Nuclear Triad: <br />\nA credible nuclear deterrent rests on three pillars: <br />\n1. Land-Based Missiles \u2013 Agni series ballistic missiles <br />\n2. Air-Based Delivery \u2013 Nuclear-capable fighter aircraft <br />\n3. Sea-Based Deterrent \u2013 Arihant-class SSBNs armed with SLBMs <br />\n<br />\nEven if one or two legs of the triad are neutralized, the third can retaliate; ensuring a credible second-strike capability and robust nuclear deterrence. With the induction of the Arihant class, India joined the select group of nations with a fully operational nuclear triad.<br />\n<br />\nLand. Air. Sea. <br />\nThree Dimensions. One Deterrent.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzxs9SaMAAUJQQ.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 9/13\nThe Arihant-Class \n\nBut the most strategic component of India's submarine force lies elsewhere. Enter the Arihant Class. Arihant-Class SSBN SSBN stands for: Ship Submersible Ballistic Nuclear.\n\nThe Arihant-class is India's first indigenous nuclear-powered ballistic missile submarine (SSBN), forming the sea-based leg of the nuclear triad. Equipped with K-15 and K-4 SLBMs and powered by an 83 MW reactor, it provides stealthy, long-endurance patrols and a credible second-strike nuclear deterrent. \n\nActive Units \n\u2022 INS Arihant (S2) \n\u2022 INS Arighaat (S3)\n\nKey Features \n\ud83d\udd39 Nuclear-powered propulsion \n\ud83d\udd39 Ballistic missile capability \n\ud83d\udd39 Advanced stealth and sonar systems \n\ud83d\udd39 Indigenous design and construction \n\ud83d\udd39 Cornerstone of India's strategic deterrence \n\n\"Silent Sentinels of India's Nuclear Triad.\"",
-      "link": "https://nitter.net/NetramDefence/status/2061792789520888042#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:21+05:30",
-      "time": "02 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>9/13<br />\nThe Arihant-Class <br />\n<br />\nBut the most strategic component of India's submarine force lies elsewhere. Enter the Arihant Class. Arihant-Class SSBN SSBN stands for: Ship Submersible Ballistic Nuclear.<br />\n<br />\nThe Arihant-class is India's first indigenous nuclear-powered ballistic missile submarine (SSBN), forming the sea-based leg of the nuclear triad. Equipped with K-15 and K-4 SLBMs and powered by an 83 MW reactor, it provides stealthy, long-endurance patrols and a credible second-strike nuclear deterrent. <br />\n<br />\nActive Units <br />\n\u2022 INS Arihant (S2) <br />\n\u2022 INS Arighaat (S3)<br />\n<br />\nKey Features <br />\n\ud83d\udd39 Nuclear-powered propulsion <br />\n\ud83d\udd39 Ballistic missile capability <br />\n\ud83d\udd39 Advanced stealth and sonar systems <br />\n\ud83d\udd39 Indigenous design and construction <br />\n\ud83d\udd39 Cornerstone of India's strategic deterrence <br />\n<br />\n\"Silent Sentinels of India's Nuclear Triad.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHJzvc1sagAAV0Uu.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 8/13\n\nThe Shishumar-Class Derived from Germany's Type-209 design, these submarines introduced several advanced Western technologies to the Indian Navy. Known for reliability and endurance, they continue to remain valuable operational assets. \n\nActive Submarines: \nINS Shishumar (S44) \nINS Shankush (S45) \nINS Shalki (S46)\nINS Shankul (S47)",
-      "link": "https://nitter.net/NetramDefence/status/2061792785917985275#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:21+05:30",
-      "time": "02 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>8/13<br />\n<br />\nThe Shishumar-Class Derived from Germany's Type-209 design, these submarines introduced several advanced Western technologies to the Indian Navy. Known for reliability and endurance, they continue to remain valuable operational assets. <br />\n<br />\nActive Submarines: <br />\nINS Shishumar (S44) <br />\nINS Shankush (S45) <br />\nINS Shalki (S46)<br />\nINS Shankul (S47)</p>\n<img src=\"https://nitter.net/pic/media%2FHJzuUo1aYAAzc_E.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 7/13\n\nThe Sindhughosh-Class \nThe INS Sindhughosh class (also known as Kilo-class) are Russian-built, diesel-electric attack submarines. They are optimized for anti-submarine and anti-shipping operations in shallow littoral waters. Known for their quiet operations, they are armed with heavyweight torpedoes and Klub-S anti-ship cruise missiles. \n\nActive Submarines \nINS Sindhuraj (S57) \nINS Sindhuratna (S59) \nINS Sindhukesari (S60) \nINS Sindhukirti (S61) \nINS Sindhuvijay (S62)\nINS Sindhurashtra (S65) \nINS Sindhushastra (S65) \n\nMany naval analysts referred to them as \"Black Holes\" because of the difficulty in detecting them underwater.",
-      "link": "https://nitter.net/NetramDefence/status/2061792782394732850#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:20+05:30",
-      "time": "02 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>7/13<br />\n<br />\nThe Sindhughosh-Class <br />\nThe INS Sindhughosh class (also known as Kilo-class) are Russian-built, diesel-electric attack submarines. They are optimized for anti-submarine and anti-shipping operations in shallow littoral waters. Known for their quiet operations, they are armed with heavyweight torpedoes and Klub-S anti-ship cruise missiles. <br />\n<br />\nActive Submarines <br />\nINS Sindhuraj (S57) <br />\nINS Sindhuratna (S59) <br />\nINS Sindhukesari (S60) <br />\nINS Sindhukirti (S61) <br />\nINS Sindhuvijay (S62)<br />\nINS Sindhurashtra (S65) <br />\nINS Sindhushastra (S65) <br />\n<br />\nMany naval analysts referred to them as \"Black Holes\" because of the difficulty in detecting them underwater.</p>\n<img src=\"https://nitter.net/pic/media%2FHJztfhyasAAr46s.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 6/13\nWhat makes the Kalvari class dangerous? \n\n\u2705 Extremely low acoustic signature \n\u2705 Advanced sonar systems \n\u2705 Modern combat management systems \n\u2705 Heavyweight torpedoes \n\u2705 Anti-ship missile capability \n\nIn naval warfare, the submarine that remains undetected usually wins.",
-      "link": "https://nitter.net/NetramDefence/status/2061792778368282656#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:19+05:30",
-      "time": "02 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>6/13<br />\nWhat makes the Kalvari class dangerous? <br />\n<br />\n\u2705 Extremely low acoustic signature <br />\n\u2705 Advanced sonar systems <br />\n\u2705 Modern combat management systems <br />\n\u2705 Heavyweight torpedoes <br />\n\u2705 Anti-ship missile capability <br />\n<br />\nIn naval warfare, the submarine that remains undetected usually wins.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzrmZiakAEq9o6.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 5/13\n\u2693 The Kalvari-Class Built under Project-75 at Mazagon Dock Shipbuilders in Mumbai, these submarines are based on the French Scorp\u00e8ne design and represent India's most modern conventional submarines. The project significantly strengthened India's indigenous shipbuilding capabilities.\n\nThe six submarines of this class are: \n\u2022 INS Kalvari\n\u2022 INS Khanderi \n\u2022 INS Karanj \n\u2022 INS Vela \n\u2022 INS Vagir \n\u2022 INS Vaghsheer \n\nEach is designed for stealth operations, anti-ship warfare, anti-submarine warfare, intelligence gathering, and special forces deployment.",
-      "link": "https://nitter.net/NetramDefence/status/2061792774962512316#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:18+05:30",
-      "time": "02 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>5/13<br />\n\u2693 The Kalvari-Class Built under Project-75 at Mazagon Dock Shipbuilders in Mumbai, these submarines are based on the French Scorp\u00e8ne design and represent India's most modern conventional submarines. The project significantly strengthened India's indigenous shipbuilding capabilities.<br />\n<br />\nThe six submarines of this class are: <br />\n\u2022 INS Kalvari<br />\n\u2022 INS Khanderi <br />\n\u2022 INS Karanj <br />\n\u2022 INS Vela <br />\n\u2022 INS Vagir <br />\n\u2022 INS Vaghsheer <br />\n<br />\nEach is designed for stealth operations, anti-ship warfare, anti-submarine warfare, intelligence gathering, and special forces deployment.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzq4FObMAAvRLZ.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 4/13\n\nIndia currently operates a mixed submarine force consisting of: \n\ud83d\udd39 Kalvari-class (Scorp\u00e8ne) \n\ud83d\udd39 Sindhughosh-class (Kilo) \n\ud83d\udd39 Shishumar-class \n\ud83d\udd39 Arihant-class Nuclear Ballistic Missile Submarines (SSBNs) \n\nTogether, they form the backbone of India's underwater warfare capability.",
-      "link": "https://nitter.net/NetramDefence/status/2061792771552460962#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-02T18:21:17+05:30",
-      "time": "02 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>4/13<br />\n<br />\nIndia currently operates a mixed submarine force consisting of: <br />\n\ud83d\udd39 Kalvari-class (Scorp\u00e8ne) <br />\n\ud83d\udd39 Sindhughosh-class (Kilo) <br />\n\ud83d\udd39 Shishumar-class <br />\n\ud83d\udd39 Arihant-class Nuclear Ballistic Missile Submarines (SSBNs) <br />\n<br />\nTogether, they form the backbone of India's underwater warfare capability.</p>\n<img src=\"https://nitter.net/pic/media%2FHJzqBGpaEAAgYx9.jpg\" />",
+      "content": "<p>THREAD \ud83e\uddf5<br />\nIndia's Underwater Warriors: The Submarine Arm of the Indian Navy <br />\n<br />\nSubmarines are among the most complex and powerful weapons ever built. Operating silently beneath the ocean's surface, they provide stealth, deterrence, intelligence, and strike capability. <br />\n<br />\nHere's a deep dive into India's submarine fleet. \ud83d\udc47<br />\n<br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <a href=\"https://nitter.net/IndiannavyMedia\" title=\"IN\">@IndiannavyMedia</a> <a href=\"https://nitter.net/IN_WNC\" title=\"Western Naval Command\">@IN_WNC</a> <a href=\"https://nitter.net/IN_HQENC\" title=\"Eastern Naval Command \ud83c\uddee\ud83c\uddf3\">@IN_HQENC</a> <a href=\"https://nitter.net/IN_HQSNC\" title=\"Southern Naval Command\">@IN_HQSNC</a> <a href=\"https://nitter.net/IN_HQSNC\" title=\"Southern Naval Command\">@IN_HQSNC</a> <a href=\"https://nitter.net/IN_HQMNA\" title=\"HQ Maharashtra Naval Area\">@IN_HQMNA</a>  <a href=\"https://nitter.net/IN_WesternFleet\" title=\"The Sword Arm\">@IN_WesternFleet</a> <a href=\"https://nitter.net/IN_EasternFleet\" title=\"The Eastern Sword\">@IN_EasternFleet</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <br />\n<br />\n1/13</p>\n<img src=\"https://nitter.net/pic/media%2FHJzntlybYAALLWI.jpg\" />",
       "author": "@NetramDefence"
     },
     {
@@ -1735,6 +1665,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
