@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "ACC clears Neelkanth Mishra\u2019s appointment as Executive Director, World Bank",
+      "link": "https://newsonair.gov.in/acc-clears-neelkanth-mishras-appointment-as-executive-director-world-bank/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-05T06:37:16+05:30",
+      "time": "05 Jun, 06:37 AM",
+      "type": "news",
+      "description": "The Appointments Committee of the Cabinet has approved the appointment of Neelkanth Mishra as Executive Director, World Bank Headquarters, Washington,..."
+    },
+    {
+      "title": "World Environment Day being celebrated across the globe today",
+      "link": "https://newsonair.gov.in/world-environment-day-being-celebrated-across-the-globe-today/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-05T06:34:15+05:30",
+      "time": "05 Jun, 06:34 AM",
+      "type": "news",
+      "description": "World Environment Day is being celebrated across the globe today. It has been observed on 5th June every year since 1973 as part of the United Nations..."
+    },
+    {
       "title": "\u2018We will get to a deal\u2019: Trump calls PM Modi \u2018good friend\u2019, says US and India close to trade agreement",
       "link": "https://indianexpress.com/article/world/donald-trump-praises-pm-modi-confident-us-india-trade-deal-tariffs-10724680/",
       "source": "The Indian Express",
@@ -19,7 +37,7 @@
       "description": "India and Venezuela on Thursday agreed to deepen cooperation in energy, critical minerals, technology, agriculture and healthcare as Prime Minister Na..."
     },
     {
-      "title": "Northern borders with China \u2018stable but sensitive\u2019: Army Chief",
+      "title": "Northern borders with China \u2018stable but sensitive\u2019: Indian Army Chief",
       "link": "https://www.tribuneindia.com/news/india/northern-borders-with-china-stable-but-sensitive-army-chief",
       "source": "The Tribune",
       "sort_key": "2026-06-05T01:39:01+05:30",
@@ -559,15 +577,6 @@
       "description": "Israel and Lebanon have agreed to renew ceasefire and create a number of pilot security zones inside Lebanon from which Hezbollah militants would be b..."
     },
     {
-      "title": "Telangana signs cooperation agreement with Germany\u2019s Thuringia",
-      "link": "https://newsonair.gov.in/telangana-signs-cooperation-agreement-with-germanys-thuringia/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-04T08:30:14+05:30",
-      "time": "04 Jun, 08:30 AM",
-      "type": "news",
-      "description": "Telangana state has signed a cooperation agreement with Thuringia, a state in Germany. The agreement focuses on technology, skill training, startups, ..."
-    },
-    {
       "title": "Experts highlight growing role of SMRs for defence manufacturing and data centre operation",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/experts-highlight-growing-role-of-smrs-for-defence-manufacturing-and-data-centre-operation/131495365",
       "source": "Economic Times",
@@ -575,15 +584,6 @@
       "time": "04 Jun, 08:25 AM",
       "type": "news",
       "description": "A recent policy dialogue highlighted Small Modular Reactors (SMRs) as a solution for reliable, clean, and uninterrupted electricity. Experts discussed..."
-    },
-    {
-      "title": "Us-India are only weeks away from concluding a long-awaited trade agreement, says US Secretary of State Marco Rubio",
-      "link": "https://newsonair.gov.in/us-india-weeks-away-from-concluding-trade-agreement-us-secretary-of-state-marco-rubio/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-04T08:15:18+05:30",
-      "time": "04 Jun, 08:15 AM",
-      "type": "news",
-      "description": "US Secretary of State Marco Rubio told lawmakers that the United States and India are only weeks away from concluding a long-awaited trade agreement. ..."
     },
     {
       "title": "Iran's Guards deny deadly attack on Kuwait airport, blame American Patriot System error",
@@ -901,15 +901,6 @@
       "description": "Russia intercepted 50 drones over Leningrad region overnight. This comes as President Putin's economic forum, the 'Russian Davos', starts in St. Peter..."
     },
     {
-      "title": "US-Israel-Iran War News LIVE Updates: Rubio expresses \u2018commitment\u2019 to Kuwait\u2019s security after Iranian attacks",
-      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-donald-trump-israel-lebanon-peace-talks-hezbollah-qeshm-island-kuwait-attack-10721222/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-03T08:57:18+05:30",
-      "time": "03 Jun, 08:57 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Skyroot Aerospace forecasts \u20b9977 crore in revenues by FY27, ahead of Vikram-1 launch",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/skyroot-aerospace-forecasts-977-crore-in-revenues-by-fy27-ahead-of-vikram-1-launch/131474946",
       "source": "Economic Times",
@@ -917,27 +908,59 @@
       "time": "03 Jun, 08:43 AM",
       "type": "news",
       "description": "Per the report, the startup plans to grow its headcount from 1,163 employees to 5,749 by FY32. That would make it among the largest private employers ..."
-    },
-    {
-      "title": "US military attacks Iran\u2019s Qeshm Island; Tehran targets Kuwait, Bahrain",
-      "link": "https://indianexpress.com/article/world/us-military-attacks-iran-qeshm-island-tehran-kuwait-bahrain-10721204/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-03T06:43:17+05:30",
-      "time": "03 Jun, 06:43 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "US military says it has 'defeated' Iran missile, drone attacks in Gulf",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-has-defeated-iran-missile-drone-attacks-in-gulf/articleshow/131473773.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-03T06:43:06+05:30",
-      "time": "03 Jun, 06:43 AM",
-      "type": "news",
-      "description": "US forces repelled Iranian missile and drone assaults in the Gulf. Self-defense strikes targeted Qeshm Island. Iran's claims of hitting US Navy bases ..."
     }
   ],
   "tweets": [
+    {
+      "title": "China, US, India, and Russia are 4  top countries [in terms of economy] says Russian Prez Putin",
+      "link": "https://nitter.net/sidhant/status/2062713414955475149#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-05T07:19:36+05:30",
+      "time": "05 Jun, 07:19 AM",
+      "type": "tweets",
+      "content": "<p>China, US, India, and Russia are 4  top countries [in terms of economy] says Russian Prez Putin</p>\n<a href=\"https://nitter.net/sidhant/status/2062713414955475149#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062604610129281024%2Fimg%2Fppd2_gr2o9_yukrN.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "SU 57 could have been a joint project with India, says Russian Prez Putin; Offers to supply to India\n\n\"We built it independently, but we are ready to work with India in this field, to supply this aircraft & to keep developing it\"",
+      "link": "https://nitter.net/sidhant/status/2062712850129485949#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-05T07:17:21+05:30",
+      "time": "05 Jun, 07:17 AM",
+      "type": "tweets",
+      "content": "<p>SU 57 could have been a joint project with India, says Russian Prez Putin; Offers to supply to India<br />\n<br />\n\"We built it independently, but we are ready to work with India in this field, to supply this aircraft &amp; to keep developing it\"</p>\n<a href=\"https://nitter.net/sidhant/status/2062712850129485949#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062605335924183040%2Fimg%2Fo34Lo2StgVlAeSBb.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Russia remains one of the largest foreign investors in the Indian economy, and we intend to further strengthen investment cooperation on a reciprocal basis, says Russian Prez Putin\n\nTranscript from Kremlin",
+      "link": "https://nitter.net/sidhant/status/2062711693806039499#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-05T07:12:45+05:30",
+      "time": "05 Jun, 07:12 AM",
+      "type": "tweets",
+      "content": "<p>Russia remains one of the largest foreign investors in the Indian economy, and we intend to further strengthen investment cooperation on a reciprocal basis, says Russian Prez Putin<br />\n<br />\nTranscript from Kremlin</p>\n<img src=\"https://nitter.net/pic/media%2FHKA5WrbbYAERQkx.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "US Prez Trump\n\n\"For years, India took advantage of the United States.They charged us tremendous tariffs and paid nothing\"\n\n\"We will get to a [trade] deal because I like your PM a lot. He is a good friend of mine, & we get along well. We have a good relationship\"",
+      "link": "https://nitter.net/sidhant/status/2062707416366768249#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-05T06:55:45+05:30",
+      "time": "05 Jun, 06:55 AM",
+      "type": "tweets",
+      "content": "<p>US Prez Trump<br />\n<br />\n\"For years, India took advantage of the United States.They charged us tremendous tariffs and paid nothing\"<br />\n<br />\n\"We will get to a [trade] deal because I like your PM a lot. He is a good friend of mine, &amp; we get along well. We have a good relationship\"</p>\n<a href=\"https://nitter.net/sidhant/status/2062707416366768249#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062707386004172800%2Fpu%2Fimg%2FzZoDkASBnX9FiQcX.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Russian President Putin\n\n\"You said that the cooperation between India and the US creates difficulties in the relations between Russia and India. I don't think that this is the case\"\n\n\"US is trying to creat pressure on India on some tracks, like cooperation with Russia\"",
+      "link": "https://nitter.net/sidhant/status/2062706517510340955#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-05T06:52:11+05:30",
+      "time": "05 Jun, 06:52 AM",
+      "type": "tweets",
+      "content": "<p>Russian President Putin<br />\n<br />\n\"You said that the cooperation between India and the US creates difficulties in the relations between Russia and India. I don't think that this is the case\"<br />\n<br />\n\"US is trying to creat pressure on India on some tracks, like cooperation with Russia\"</p>\n<a href=\"https://nitter.net/sidhant/status/2062706517510340955#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2062706443489284096%2Fpu%2Fimg%2Fh09pzli-F9GsB8wI.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "PM Modi is likely to be riding India\u2019s newest steel chariot tomorrow.\n\nWith the Prime Minister scheduled to visit L&T\u2019s Hazira facility tomorrow, he may be riding Zorawar.",
       "link": "https://nitter.net/alpha_defense/status/2062618357250339104#m",
@@ -1069,16 +1092,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "We condemn the attack carried out on UN peacekeepers deployed with UNIFIL on 4 June 2026. We pay tribute to the fallen Serbian Blue Helmet and wish an early recovery to the injured peacekeepers: India mission to UN",
-      "link": "https://nitter.net/sidhant/status/2062580643914289488#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T22:32:01+05:30",
-      "time": "04 Jun, 10:32 PM",
-      "type": "tweets",
-      "content": "<p>We condemn the attack carried out on UN peacekeepers deployed with UNIFIL on 4 June 2026. We pay tribute to the fallen Serbian Blue Helmet and wish an early recovery to the injured peacekeepers: India mission to UN</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "R to @sidhant: India reiterates the\nfundamental importance of respecting the sanctity and inviolability of UN\npremises and personnel. We call upon all parties to ensure the safety and security of UN peacekeepers, who operate under UN Security Council mandates: Indian mission to UN",
       "link": "https://nitter.net/sidhant/status/2062580646082650436#m",
       "source": "Sidhant Sibal",
@@ -1086,6 +1099,16 @@
       "time": "04 Jun, 10:32 PM",
       "type": "tweets",
       "content": "<p>India reiterates the<br />\nfundamental importance of respecting the sanctity and inviolability of UN<br />\npremises and personnel. We call upon all parties to ensure the safety and security of UN peacekeepers, who operate under UN Security Council mandates: Indian mission to UN</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We condemn the attack carried out on UN peacekeepers deployed with UNIFIL on 4 June 2026. We pay tribute to the fallen Serbian Blue Helmet and wish an early recovery to the injured peacekeepers: India mission to UN",
+      "link": "https://nitter.net/sidhant/status/2062580643914289488#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-04T22:32:01+05:30",
+      "time": "04 Jun, 10:32 PM",
+      "type": "tweets",
+      "content": "<p>We condemn the attack carried out on UN peacekeepers deployed with UNIFIL on 4 June 2026. We pay tribute to the fallen Serbian Blue Helmet and wish an early recovery to the injured peacekeepers: India mission to UN</p>",
       "author": "@sidhant"
     },
     {
@@ -1177,66 +1200,6 @@
       "type": "tweets",
       "content": "<p>Netra Mk2 : Bad News COMING !<br />\n<a href=\"https://alphadefense.in/index.php/2026/06/04/netra-mk2-faces-platform-delays/\">alphadefense.in/index.php/20\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2062553752989794304%2FCulFyqiz%3Fformat%3Djpg%26name%3D800x419\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Chiefs of Indian state oil companies present as Energy Minister Hardeep Singh Puri meets Venezuela's interim President Delcy Rodr\u00edguez in Delhi",
-      "link": "https://nitter.net/sidhant/status/2062549733030142430#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T20:29:11+05:30",
-      "time": "04 Jun, 08:29 PM",
-      "type": "tweets",
-      "content": "<p>Chiefs of Indian state oil companies present as Energy Minister Hardeep Singh Puri meets Venezuela's interim President Delcy Rodr\u00edguez in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJ-mDUgWQAEdLq3.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "UK Foreign Secretary Yvette Cooper meets PM Modi in Delhi",
-      "link": "https://nitter.net/sidhant/status/2062548494389493966#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T20:24:16+05:30",
-      "time": "04 Jun, 08:24 PM",
-      "type": "tweets",
-      "content": "<p>UK Foreign Secretary Yvette Cooper meets PM Modi in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHJ-k7PNaAAEUZv_.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian companies already have existing investments in Venezuela and now look forward to building upon them, in addition to looking for newer opportunities for fruitful collaborations: Indian readout of Minister Puri meet with Venezuela's Delcy",
-      "link": "https://nitter.net/sidhant/status/2062546265335087614#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T20:15:24+05:30",
-      "time": "04 Jun, 08:15 PM",
-      "type": "tweets",
-      "content": "<p>Indian companies already have existing investments in Venezuela and now look forward to building upon them, in addition to looking for newer opportunities for fruitful collaborations: Indian readout of Minister Puri meet with Venezuela's Delcy</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Venezuela is already among the largest crude oil suppliers to India in April & May 2026, which is a reflection of the future potential. Indian technical team will visit Venezuela soon to further explore this potential: Indian readout of Indian energy min Puri-Prez Delcy meet",
-      "link": "https://nitter.net/sidhant/status/2062546114885415096#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T20:14:48+05:30",
-      "time": "04 Jun, 08:14 PM",
-      "type": "tweets",
-      "content": "<p>Venezuela is already among the largest crude oil suppliers to India in April &amp; May 2026, which is a reflection of the future potential. Indian technical team will visit Venezuela soon to further explore this potential: Indian readout of Indian energy min Puri-Prez Delcy meet</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Delhi: India's energy minister Hardeep Singh Puri meets Venezuela's interim President Delcy Rodr\u00edguez",
-      "link": "https://nitter.net/sidhant/status/2062545849172041729#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T20:13:45+05:30",
-      "time": "04 Jun, 08:13 PM",
-      "type": "tweets",
-      "content": "<p>Delhi: India's energy minister Hardeep Singh Puri meets Venezuela's interim President Delcy Rodr\u00edguez</p>\n<img src=\"https://nitter.net/pic/media%2FHJ-iZPzbEAEaFPt.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Japanese Prime Minister Takaichi Sanae may visit India next July for the annual summit with India. The meet with PM Modi could happen in the North East state of Assam: Japanese media",
-      "link": "https://nitter.net/sidhant/status/2062545495038550459#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-04T20:12:20+05:30",
-      "time": "04 Jun, 08:12 PM",
-      "type": "tweets",
-      "content": "<p>Japanese Prime Minister Takaichi Sanae may visit India next July for the annual summit with India. The meet with PM Modi could happen in the North East state of Assam: Japanese media</p>",
-      "author": "@sidhant"
     },
     {
       "title": "Yet another Boeing : A Lufthansa Boeing 787-9 Dreamliner (D-ABPQ) was left with significant damage after its nose landing gear collapsed at Frankfurt Airport while the aircraft was parked at the gate.",
@@ -1929,16 +1892,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Very important infographics \n1. Observe the number of sensors.\n2. Observe the trajectory \n\nAnd then check the 2nd image in follow on tweet of this quote.",
-      "link": "https://nitter.net/alpha_defense/status/2062050441622601951#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-03T11:25:10+05:30",
-      "time": "03 Jun, 11:25 AM",
-      "type": "tweets",
-      "content": "<p>Very important infographics <br />\n1. Observe the number of sensors.<br />\n2. Observe the trajectory <br />\n<br />\nAnd then check the 2nd image in follow on tweet of this quote.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ3f8aVbwAAYwnS.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sameer Joshi (@joe_sameer)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23PL16\">#PL16</a> - A scaled tactical breakdown of BVR engagement brackets, from Max Range glide slopes down to the No-Escape Zone (Rne\u200b). (Disclaimer - OSINT based analytical modeling/sim data)</p>\n<img src=\"https://nitter.net/pic/media%2FHJ2jaV6aAAAp8X7.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/joe_sameer/status/2061984722155389327#m\">https://nitter.net/joe_sameer/status/2061984722155389327#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Ahmedabad Police detained over 290 suspects during a large-scale overnight operation targeting illegal Bangladeshi immigrants in Chandola, Gulabnagar, and Khodiyarnagar.\n\nAuthorities have so far identified 131 foreign nationals.",
       "link": "https://nitter.net/elitepredatorss/status/2062021678738354639#m",
       "source": "Elite Predators",
@@ -1961,7 +1914,7 @@
   ],
   "youtube": [
     {
-      "title": "Defence Updates - 3 S-400 Near Pakistan, Rolls Royce AMCA Engine, India New 5th Gen Jet Engine",
+      "title": "Defence Updates - US F15 Jet Shot Down Again, Rolls Royce AMCA Engine, India New 5th Gen Jet Engine",
       "link": "https://www.youtube.com/watch?v=IgsGI8PYb6U",
       "source": "Defense Squad",
       "sort_key": "2026-06-04T21:23:22+05:30",
@@ -2016,6 +1969,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
