@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Three killed, houses torched in attack on Manipur village",
+      "link": "https://www.tribuneindia.com/news/india/three-killed-houses-torched-in-attack-on-manipur-village",
+      "source": "The Tribune",
+      "sort_key": "2026-06-06T01:49:26+05:30",
+      "time": "06 Jun, 01:49 AM",
+      "type": "news",
+      "description": "Three civilians were killed and several houses damaged in an armed attack on a village in Manipur\u2019s Kangpokpi district in the early hours of Friday, r..."
+    },
+    {
+      "title": "No sensitive information compromised: IIT-Roorkee rejects JEE (Advanced) data breach claims",
+      "link": "https://www.tribuneindia.com/news/india/no-sensitive-information-compromised-iit-roorkee-rejects-jee-advanced-data-breach-claims",
+      "source": "The Tribune",
+      "sort_key": "2026-06-06T01:14:17+05:30",
+      "time": "06 Jun, 01:14 AM",
+      "type": "news",
+      "description": "IIT-Roorkee has rejected allegations of a large-scale data breach, involving JEE (Advanced) aspirants, saying claims circulating on social media were ..."
+    },
+    {
       "title": "Rafale fires MICA NG missile: All about the next-generation weapon built to target stealth aircraft, drones and cruise missiles",
       "link": "https://economictimes.indiatimes.com/news/defence/rafale-fires-mica-ng-missile-all-about-the-next-generation-weapon-built-to-target-stealth-aircraft-drones-and-cruise-missiles/articleshow/131538698.cms",
       "source": "Economic Times",
@@ -64,15 +82,6 @@
       "description": "In a significant development, India on Friday lodged a strong protest with Pakistan over Islamabad's plans to hold general elections to the so called ..."
     },
     {
-      "title": "India to launch smart border pilot project to enhance security, surveillance: Amit Shah at Tripura event",
-      "link": "https://www.newindianexpress.com/india/2026/Jun/05/india-to-launch-smart-border-pilot-project-to-enhance-security-surveillance-amit-shah-at-tripura-event",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-05T20:37:56+05:30",
-      "time": "05 Jun, 08:37 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Putin says Russia ready to jointly build Su-57 stealth fighter with India",
       "link": "https://indianexpress.com/article/world/putin-offers-india-joint-production-su-57-stealth-fighter-10725760/",
       "source": "The Indian Express",
@@ -80,15 +89,6 @@
       "time": "05 Jun, 07:17 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "India lodges strong protest over Pakistan holding election in occupied Gilgit-Baltistan",
-      "link": "https://www.tribuneindia.com/news/j-k/india-lodges-strong-protest-over-pakistan-holding-election-in-occupied-gilgit-baltistan",
-      "source": "The Tribune",
-      "sort_key": "2026-06-05T18:58:19+05:30",
-      "time": "05 Jun, 06:58 PM",
-      "type": "news",
-      "description": "India on Friday registered a strong protest with Pakistan over its decision to hold elections in the &#8216;so-called&#8217; Gilgit-Baltistan Assembly..."
     },
     {
       "title": "Iran says it fired warning missiles and drones at US warships in Gulf of Oman",
@@ -755,18 +755,19 @@
       "time": "04 Jun, 05:59 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "India\u2019s Cockroach Movement Gains Momentum",
-      "link": "https://foreignpolicy.com/2026/06/03/india-cockroach-janta-party-youth-unemployment-protest/",
-      "source": "Foreign Policy",
-      "sort_key": "2026-06-04T02:09:33+05:30",
-      "time": "04 Jun, 02:09 AM",
-      "type": "news",
-      "description": "A satirical political party has tapped into the discontent among unemployed youth."
     }
   ],
   "tweets": [
+    {
+      "title": "POJK Protest: An attempt was made to arrest the Joint Awami Action Committee leader Umar Nazir Kashmiri. He was injured as a result of direct firing by the Pakistani forces on his resistance.",
+      "link": "https://nitter.net/elitepredatorss/status/2062991333200220362#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-06T01:43:57+05:30",
+      "time": "06 Jun, 01:43 AM",
+      "type": "tweets",
+      "content": "<p>POJK Protest: An attempt was made to arrest the Joint Awami Action Committee leader Umar Nazir Kashmiri. He was injured as a result of direct firing by the Pakistani forces on his resistance.</p>\n<img src=\"https://nitter.net/pic/media%2FHKE3mYxaQAAPfSs.jpg\" />\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Jammu Kashmir Joint Awami Action Committee declared as a proscribed organization by the Occupied POJK government.</p>\n<img src=\"https://nitter.net/pic/media%2FHKEo8EXaYAAbGr_.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2062975240645529772#m\">https://nitter.net/elitepredatorss/status/2062975240645529772#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
     {
       "title": "Jammu Kashmir Joint Awami Action Committee declared as a proscribed organization by the Occupied POJK government.",
       "link": "https://nitter.net/elitepredatorss/status/2062975240645529772#m",
@@ -1915,6 +1916,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 AM IST"
+    "last_updated": "02:24 AM IST"
   }
 }
