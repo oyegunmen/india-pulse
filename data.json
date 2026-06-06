@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "73 awarded bachelor\u2019s degrees at Army Cadet College graduation ceremony",
+      "link": "https://www.tribuneindia.com/news/defence/73-bachelors-degrees-at-army-cadet-college-graduation-ceremony",
+      "source": "The Tribune",
+      "sort_key": "2026-06-06T15:10:47+05:30",
+      "time": "06 Jun, 03:10 PM",
+      "type": "news",
+      "description": "The Army Cadet College (ACC) Wing of the Indian Military Academy (IMA), Dehradun, marked its annual graduation ceremony on June 6, with 73 cadets bein..."
+    },
+    {
+      "title": "Abhishek Banerjee denies seeking central security cover after Sonarpur attack",
+      "link": "https://www.tribuneindia.com/news/india/abhishek-banerjee-denies-seeking-central-security-cover-after-sonarpur-attack",
+      "source": "The Tribune",
+      "sort_key": "2026-06-06T15:08:53+05:30",
+      "time": "06 Jun, 03:08 PM",
+      "type": "news",
+      "description": "Trinamool Congress leader Abhishek Banerjee on Saturday dismissed media reports claiming that he had sought central security cover following an allege..."
+    },
+    {
+      "title": "Iran says frozen funds key to progress in US talks",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-says-frozen-funds-key-to-progress-in-us-talks/articleshow/131548157.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-06T14:43:46+05:30",
+      "time": "06 Jun, 02:43 PM",
+      "type": "news",
+      "description": "Frozen Iranian funds are a central point in talks between Tehran and Washington to end their conflict. Iran demands the release of its assets, estimat..."
+    },
+    {
+      "title": "Russian President offers Sukhoi Su-57 stealth aircraft and joint production in India",
+      "link": "https://newsonair.gov.in/russian-president-offers-sukhoi-su-57-stealth-aircraft-and-joint-production-in-india/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-06T14:36:12+05:30",
+      "time": "06 Jun, 02:36 PM",
+      "type": "news",
+      "description": "Russian President Vladimir Putin has offered New Delhi Russia&#8217;s fifth-generation stealth aircraft Sukhoi Su-57, and proposed its joint productio..."
+    },
+    {
+      "title": "PM Modi shares video on Make in India war machines: Atmanirbhar Bharat campaign",
+      "link": "https://economictimes.indiatimes.com/news/defence/pm-modi-shares-video-on-make-in-india-war-machines-atmanirbhar-bharat-campaign/videoshow/131548138.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-06T14:22:49+05:30",
+      "time": "06 Jun, 02:22 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Putin reaffirms offer for joint Su-57 fighter programme",
       "link": "https://www.indiastrategic.in/putin-reaffirms-offer-for-joint-su-57-fighter-programme/",
       "source": "India Strategic",
@@ -179,15 +224,6 @@
       "time": "06 Jun, 10:35 AM",
       "type": "news",
       "description": "US forces struck Iranian radar sites in Goruk and Qeshm Island. This followed Iranian drone and missile attacks targeting maritime shipping. Six Irani..."
-    },
-    {
-      "title": "Government will ensure long-term water security for Palamuru ryots: Uttam",
-      "link": "https://www.newindianexpress.com/states/telangana/2026/Jun/06/government-will-ensure-long-term-water-security-for-palamuru-ryots-uttam",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-06T10:31:05+05:30",
-      "time": "06 Jun, 10:31 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "India eyes 200 Russian jets to boost regional connectivity: United Aircraft Corporation",
@@ -478,15 +514,6 @@
       "description": "Russian President Vladimir Putin has offered New Delhi Russia&#8217;s fifth-generation stealth aircraft Sukhoi Su-57 and proposed its joint production..."
     },
     {
-      "title": "Nepal Foreign Minister Shisir Khanal arrives in New Delhi on 3-day visit",
-      "link": "https://newsonair.gov.in/nepal-foreign-minister-shisir-khanal-to-visit-india-from-june-5-to-7/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-05T17:15:08+05:30",
-      "time": "05 Jun, 05:15 PM",
-      "type": "news",
-      "description": "Nepal Foreign Affairs Minister Shisir Khanal arrived in New Delhi today on a three day visit to India. He is visiting India at the invitation of Exter..."
-    },
-    {
       "title": "Elbit Systems Deutschland to Showcase Advanced Technologies at ILA Berlin 2026",
       "link": "https://www.indiastrategic.in/elbit-systems-deutschland-to-showcase-advanced-technologies-at-ila-berlin-2026/",
       "source": "India Strategic",
@@ -602,6 +629,15 @@
       "time": "05 Jun, 11:04 AM",
       "type": "news",
       "description": "<p>By R Anil Kumar Russian President Vladimir Putin says, &#8220;We hope that in the upcoming years we will reach 100 billion US dollars in mutual tra..."
+    },
+    {
+      "title": "India plans 9 new conventional submarines instead of 6 as govt ramps up underwater capabilities",
+      "link": "https://theprint.in/defence/india-plans-9-new-conventional-submarines-instead-of-6-as-govt-ramps-up-underwater-capabilities/2951288/",
+      "source": "The Print",
+      "sort_key": "2026-06-05T10:39:29+05:30",
+      "time": "05 Jun, 10:39 AM",
+      "type": "news",
+      "description": "EXCLUSIVE &#124; The Centre is focused on ramping up India\u2019s underwater strength on priority amid rapid naval expansion by China and Pakistan."
     },
     {
       "title": "Russian President Putin pitches Su-57 stealth jet to India; indicates readiness for co-production",
@@ -721,6 +757,15 @@
       "description": "Both sides discussed collaboration in trade, technology, supply chains, defence, climate, education and people-to-people ties, while also exploring op..."
     },
     {
+      "title": "Chinese missile may have downed US F-15E in Iran. NBC News report points to growing Beijing-Tehran ties",
+      "link": "https://theprint.in/defence/chinese-missile-may-have-downed-us-f-15e-in-iran-nbc-news-report-points-to-growing-beijing-tehran-ties/2950982/",
+      "source": "The Print",
+      "sort_key": "2026-06-04T22:07:00+05:30",
+      "time": "04 Jun, 10:07 PM",
+      "type": "news",
+      "description": "China, according to the NBC News report, also likely provided Iran with an early warning radar system during the early days of war in West Asia."
+    },
+    {
       "title": "UN\u2019s El Nino warning amid heatwave: How the climate pattern affected India before",
       "link": "https://indianexpress.com/article/world/el-nino-warning-un-wmo-india-heatwave-monsoon-impact-2027-warmest-year-10722674/",
       "source": "The Indian Express",
@@ -773,6 +818,15 @@
       "time": "04 Jun, 07:39 PM",
       "type": "news",
       "description": ""
+    },
+    {
+      "title": "MoD triples ceiling of funds at disposal of field commanders for operational procurements",
+      "link": "https://theprint.in/defence/mod-triples-ceiling-of-funds-at-disposal-of-field-commanders-for-operational-procurements/2950815/",
+      "source": "The Print",
+      "sort_key": "2026-06-04T19:12:00+05:30",
+      "time": "04 Jun, 07:12 PM",
+      "type": "news",
+      "description": "DFPDS last notified in 2021. Revision was necessitated due to expansion at force level and to cater to increased expenditure on ops and sustenance vis..."
     },
     {
       "title": "Peace Through Technology: Dr Vivek Lall on Security, Innovation and India\u2019s Defence Future",
@@ -890,18 +944,49 @@
       "time": "04 Jun, 03:32 PM",
       "type": "news",
       "description": "TVS Supply Chain Solutions is entering the aerospace and defence sector through a joint venture with Italy's ALA Group. This collaboration aims to pro..."
-    },
-    {
-      "title": "India interested in purchasing 100-200 Russian aircrafts from United Aircraft Corporation",
-      "link": "https://www.indiastrategic.in/india-interested-in-purchasing-100-200-russian-aircrafts-from-united-aircraft-corporation/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-04T14:53:57+05:30",
-      "time": "04 Jun, 02:53 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar India and Russia have a decades-long partnership in aviation. The Indian Air Force (IAF) currently operates over 260 Sukhoi Su-30MK..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @sidhant: Even AI generated videos being released on social media. Comes as Pakistan banned civil rights body, JK Awami Action Committee:",
+      "link": "https://nitter.net/sidhant/status/2063195088986218527#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-06T15:13:36+05:30",
+      "time": "06 Jun, 03:13 PM",
+      "type": "tweets",
+      "content": "<p>Even AI generated videos being released on social media. Comes as Pakistan banned civil rights body, JK Awami Action Committee:</p>\n<a href=\"https://nitter.net/sidhant/status/2063195088986218527#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063126963339100160%2Fimg%2FSsGFq-SMQoVmvImB.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "As situation in Pok's Gilgit-Baltistan becomes tensed, fake news machinery from Pakistan tries to pin blame on India. India's foreign ministry fact checks mis info:",
+      "link": "https://nitter.net/sidhant/status/2063194539368857681#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-06T15:11:25+05:30",
+      "time": "06 Jun, 03:11 PM",
+      "type": "tweets",
+      "content": "<p>As situation in Pok's Gilgit-Baltistan becomes tensed, fake news machinery from Pakistan tries to pin blame on India. India's foreign ministry fact checks mis info:</p>\n<hr />\n<blockquote>\n<b>MEA FactCheck (@MEAFactCheck)</b>\n<p>\n<p>Fake News Alert!<br />\n<br />\nPlease stay alert against such false and baseless claims and posts on social media.</p>\n<img src=\"https://nitter.net/pic/media%2FHKGaoDLbIAAn1aX.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKGaoDKaQAA4Qu5.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MEAFactCheck/status/2063100124449182203#m\">https://nitter.net/MEAFactCheck/status/2063100124449182203#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian mangoes make inroads into the US market with Seattle event\n\nDetails:\n\nhttps://www.wionews.com/india-news/indian-mangoes-make-inroads-into-the-us-market-with-seattle-event-1780733584198",
+      "link": "https://nitter.net/sidhant/status/2063188775870824617#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-06T14:48:31+05:30",
+      "time": "06 Jun, 02:48 PM",
+      "type": "tweets",
+      "content": "<p>Indian mangoes make inroads into the US market with Seattle event<br />\n<br />\nDetails:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/indian-mangoes-make-inroads-into-the-us-market-with-seattle-event-1780733584198\">wionews.com/india-news/india\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2063183936109604864%2FGeBoOqg2%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India restores key Sri Lanka railway line damaged by Cyclone Ditwah. Details:\n\nhttps://www.wionews.com/india-news/sri-lanka-northern-railway-line-restored-india-assistance-cyclone-ditwah-1780735296236",
+      "link": "https://nitter.net/sidhant/status/2063188497272615074#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-06T14:47:24+05:30",
+      "time": "06 Jun, 02:47 PM",
+      "type": "tweets",
+      "content": "<p>India restores key Sri Lanka railway line damaged by Cyclone Ditwah. Details:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/sri-lanka-northern-railway-line-restored-india-assistance-cyclone-ditwah-1780735296236\">wionews.com/india-news/sri-l\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2063184313764724736%2FOVzmEaDq%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "While \ud83c\uddf5\ud83c\uddf0 failed Marshal munir is trying his best to make \ud83c\uddf5\ud83c\uddf0 a vassal state, militant and armed rebellion violence in \ud83c\uddf5\ud83c\uddf0 is the worst it has been in a decade.\nP@k security forces are taking high numbers of casualties on a daily basis as the oppressed regions of the country demand freedom.",
       "link": "https://nitter.net/Goreunit/status/2063178225887674475#m",
@@ -1199,7 +1284,7 @@
       "sort_key": "2026-06-06T08:04:01+05:30",
       "time": "06 Jun, 08:04 AM",
       "type": "tweets",
-      "content": "<p>Follow the official armed forces fact check TG handle \ud83d\udc47</p>\n<hr />\n<blockquote>\n<b>Abhinav (@ThatArticleGuy)</b>\n<p>\n<p>The <a href=\"https://nitter.net/MythbusterXX\" title=\"Armed Forces Fact Check\">@MythbusterXX</a> is now on Telegram too.\u26a1\ufe0f<br />\n<br />\nFollow the official Armed Forces Fact Check handle on TG.<br />\n!<br />\n<br />\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a><br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a><br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a><br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a><br />\n<br />\nLink: <a href=\"https://t.me/MythbusterXX/313\">t.me/MythbusterXX/313</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThatArticleGuy/status/2063085353851089006#m\">https://nitter.net/ThatArticleGuy/status/2063085353851089006#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Follow the official armed forces fact check TG handle \ud83d\udc47</p>\n<hr />\n<blockquote>\n<b>Abhinav (@ThatArticleGuy)</b>\n<p>\n<p>The <a href=\"https://nitter.net/MythbusterXX\" title=\"Armed Forces Fact Check\">@MythbusterXX</a> is now on Telegram too.\u26a1\ufe0f<br />\n<br />\nFollow the official Armed Forces Fact Check handle on TG.<br />\n!<br />\n<br />\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a><br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a><br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a><br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a><br />\n<br />\nLink: <a href=\"https://t.me/MythbusterXX/313\">t.me/MythbusterXX/313</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2063084685014810624%2F7b_hS2-D%3Fformat%3Djpg%26name%3D420x420_2\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThatArticleGuy/status/2063085353851089006#m\">https://nitter.net/ThatArticleGuy/status/2063085353851089006#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1209,7 +1294,7 @@
       "sort_key": "2026-06-06T07:57:33+05:30",
       "time": "06 Jun, 07:57 AM",
       "type": "tweets",
-      "content": "<p>The <a href=\"https://nitter.net/MythbusterXX\" title=\"Armed Forces Fact Check\">@MythbusterXX</a> is now on Telegram too.\u26a1\ufe0f<br />\n<br />\nFollow the official Armed Forces Fact Check handle on TG.<br />\n!<br />\n<br />\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a><br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a><br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a><br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a><br />\n<br />\nLink: <a href=\"https://t.me/MythbusterXX/313\">t.me/MythbusterXX/313</a></p>",
+      "content": "<p>The <a href=\"https://nitter.net/MythbusterXX\" title=\"Armed Forces Fact Check\">@MythbusterXX</a> is now on Telegram too.\u26a1\ufe0f<br />\n<br />\nFollow the official Armed Forces Fact Check handle on TG.<br />\n!<br />\n<br />\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a><br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a><br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a><br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a><br />\n<br />\nLink: <a href=\"https://t.me/MythbusterXX/313\">t.me/MythbusterXX/313</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2063084685014810624%2F7b_hS2-D%3Fformat%3Djpg%26name%3D420x420_2\" />",
       "author": "@ThatArticleGuy"
     },
     {
@@ -1430,46 +1515,6 @@
       "time": "05 Jun, 08:51 PM",
       "type": "tweets",
       "content": "<p>\ud83c\uddfb\ud83c\uddeaDelcy meets \ud83c\uddfa\ud83c\uddf8Sergio in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHKD0wvZbcAEHqhW.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Visiting interim Venezuela President Delcy Rodriguez meets US Ambassador Sergio Gor in Delhi.</p>\n<img src=\"https://nitter.net/pic/media%2FHKDyc-FbAAAM2mb.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2062915211456311761#m\">https://nitter.net/sidhant/status/2062915211456311761#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India is our \"key\" partner says Russian Prez Putin; Points that it is \"one of the leading players in the IT industry. It accounts for a significant share of the global software market.\"",
-      "link": "https://nitter.net/sidhant/status/2062916346674110919#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-05T20:45:58+05:30",
-      "time": "05 Jun, 08:45 PM",
-      "type": "tweets",
-      "content": "<p>India is our \"key\" partner says Russian Prez Putin; Points that it is \"one of the leading players in the IT industry. It accounts for a significant share of the global software market.\"</p>\n<a href=\"https://nitter.net/sidhant/status/2062916346674110919#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062908606429769728%2Fimg%2FMXX0jSD77EXbwEke.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Visiting interim Venezuela President Delcy Rodriguez meets US Ambassador Sergio Gor in Delhi.",
-      "link": "https://nitter.net/sidhant/status/2062915211456311761#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-05T20:41:28+05:30",
-      "time": "05 Jun, 08:41 PM",
-      "type": "tweets",
-      "content": "<p>Visiting interim Venezuela President Delcy Rodriguez meets US Ambassador Sergio Gor in Delhi.</p>\n<img src=\"https://nitter.net/pic/media%2FHKDyc-FbAAAM2mb.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "As part of its BRICS chairship, India hosts the 11th BRICS Foreign Policy Dialogue\n\nhttps://www.mea.gov.in/press-releases?dtl/41270/11th_BRICS_Foreign_Policy_Dialogue",
-      "link": "https://nitter.net/sidhant/status/2062913321981055136#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-05T20:33:57+05:30",
-      "time": "05 Jun, 08:33 PM",
-      "type": "tweets",
-      "content": "<p>As part of its BRICS chairship, India hosts the 11th BRICS Foreign Policy Dialogue<br />\n<br />\n<a href=\"https://www.mea.gov.in/press-releases?dtl/41270/11th_BRICS_Foreign_Policy_Dialogue\">mea.gov.in/press-releases?dt\u2026</a></p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Fidan's comments\n\nhttps://x.com/i/status/2062125336310227047",
-      "link": "https://nitter.net/sidhant/status/2062912418125434987#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-05T20:30:22+05:30",
-      "time": "05 Jun, 08:30 PM",
-      "type": "tweets",
-      "content": "<p>Fidan's comments<br />\n<br />\n<a href=\"https://nitter.net/i/status/2062125336310227047\">nitter.net/i/status/2062125336310\u2026</a></p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Turkish Foreign Minister Hakan Fidan on India-T\u00fcrkiye relations:<br />\n<br />\n\"If India is going to be resentful about any country having good relations with Pakistan. I dont know...We have no problem bilaterally with India\"</p>\n<a href=\"https://nitter.net/sidhant/status/2062125336310227047#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062108118507503616%2Fimg%2FfAQHiKME97VE3lUS.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2062125336310227047#m\">https://nitter.net/sidhant/status/2062125336310227047#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1991,26 +2036,6 @@
       "type": "tweets",
       "content": "<p>THREAD\ud83e\uddf5<br />\n<br />\nLipulekh: History of India-Nepal border dispute<br />\n<br />\nBalendra Shah\u2019s recent comments about Nepal encroaching on Indian territory have revived a 200-year-old border dispute. Here is a breakdown of the complex geopolitics surrounding the Lipulekh, tri-junction between three sovereign Nations. \ud83d\udc47<br />\n<br />\n<a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a> <a href=\"https://nitter.net/DrSJaishankar\" title=\"Dr. S. Jaishankar\">@DrSJaishankar</a> <a href=\"https://nitter.net/ITBP_official\" title=\"ITBP\">@ITBP_official</a> <a href=\"https://nitter.net/SSB_INDIA\" title=\"Sashastra Seema Bal\">@SSB_INDIA</a> <a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/NorthernComd_IA\" title=\"NORTHERN COMMAND - INDIAN ARMY\">@NorthernComd_IA</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<br />\n1/9</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9fVSfaEAEMtDI.png\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "MoD's new DFPDS-2026 significantly enhances financial powers for the Armed Forces,enabling faster procurement,quicker project execution and improved ops readiness.\nThe reforms are also expected to boost indigenisation, R&D and participation by private industry,MSMEs n startups\ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/DefenceDecode/status/2062468577345863733#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-04T15:06:42+05:30",
-      "time": "04 Jun, 03:06 PM",
-      "type": "tweets",
-      "content": "<p>MoD's new DFPDS-2026 significantly enhances financial powers for the Armed Forces,enabling faster procurement,quicker project execution and improved ops readiness.<br />\nThe reforms are also expected to boost indigenisation, R&amp;D and participation by private industry,MSMEs n startups\ud83c\uddee\ud83c\uddf3</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9bzSRbkAAKPUp.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "BREAKING: Ministry of Defence has officially implemented the Delegation of Financial Powers to Defence Services (DFPDS-2026). This major policy overhaul grants enhanced financial authority for revenue-related procurement, decentralising a budget value exceeding \u20b91.25 Lakh Crore annually.\n\n- Operational Readiness: Grants field commanders direct financial autonomy to expedite decision-making and enhance immediate combat preparedness.\n\n- Doubled Works Capital: Financial allocations for structural and infrastructure works projects are officially doubled to eliminate delays and ensure timely completion.\n\n- Indigenisation & Innovation: Significantly expands financial ceilings for research and development to reduce reliance on foreign OEMs. This directly boosts domestic private players, including MSMEs and defense startups.\n\nThis marks a structural shift toward military decentralisation and self-reliance in defense manufacturing.",
-      "link": "https://nitter.net/NetramDefence/status/2062463084539888096#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-04T14:44:52+05:30",
-      "time": "04 Jun, 02:44 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Ministry of Defence has officially implemented the Delegation of Financial Powers to Defence Services (DFPDS-2026). This major policy overhaul grants enhanced financial authority for revenue-related procurement, decentralising a budget value exceeding \u20b91.25 Lakh Crore annually.<br />\n<br />\n- Operational Readiness: Grants field commanders direct financial autonomy to expedite decision-making and enhance immediate combat preparedness.<br />\n<br />\n- Doubled Works Capital: Financial allocations for structural and infrastructure works projects are officially doubled to eliminate delays and ensure timely completion.<br />\n<br />\n- Indigenisation & Innovation: Significantly expands financial ceilings for research and development to reduce reliance on foreign OEMs. This directly boosts domestic private players, including MSMEs and defense startups.<br />\n<br />\nThis marks a structural shift toward military decentralisation and self-reliance in defense manufacturing.</p>\n<img src=\"https://nitter.net/pic/media%2FHJ9XOjvawAAolC2.jpg\" />",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
@@ -2079,6 +2104,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
