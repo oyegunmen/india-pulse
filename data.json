@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Why is Trump pushing faster use of AI in the military, and what are the safeguards?",
+      "link": "https://indianexpress.com/article/world/donald-trump-memo-military-national-security-artificial-intelligence-safeguards-10726398/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-06T06:39:15+05:30",
+      "time": "06 Jun, 06:39 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-shot-down-iranian-drones-launched-toward-strait-of-hormuz/articleshow/131542883.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-06T06:12:13+05:30",
+      "time": "06 Jun, 06:12 AM",
+      "type": "news",
+      "description": "The US military shot down four Iranian drones near the Strait of Hormuz and struck coastal radar sites in response, escalating tensions. This action c..."
+    },
+    {
       "title": "Trump, campaigning for Republicans in Wisconsin, vows quick end to Iran war",
       "link": "https://economictimes.indiatimes.com/news/defence/trump-campaigning-for-republicans-in-wisconsin-vows-quick-end-to-iran-war/articleshow/131542865.cms",
       "source": "Economic Times",
@@ -10,7 +28,7 @@
       "description": "President Trump campaigned in Wisconsin, vowing to quickly end the \"Iran war\" and lower fertilizer prices, aiming to boost Republican midterm prospect..."
     },
     {
-      "title": "\u2018India acts in its own interest, pressure won\u2019t work\u2019: Putin on ties with New Delhi",
+      "title": "\u2018India acts in its own interest, pressure won\u2019t work\u2019: Putin defends ties with New Delhi",
       "link": "https://indianexpress.com/article/world/vladimir-putin-pm-modi-india-russia-ties-us-pressure-10726370/",
       "source": "The Indian Express",
       "sort_key": "2026-06-06T05:31:22+05:30",
@@ -728,24 +746,6 @@
       "time": "04 Jun, 08:25 AM",
       "type": "news",
       "description": "A recent policy dialogue highlighted Small Modular Reactors (SMRs) as a solution for reliable, clean, and uninterrupted electricity. Experts discussed..."
-    },
-    {
-      "title": "Iran's Guards deny deadly attack on Kuwait airport, blame American Patriot System error",
-      "link": "https://economictimes.indiatimes.com/news/defence/irans-guards-deny-deadly-attack-on-kuwait-airport-blame-american-patriot-system-error/articleshow/131494578.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-04T06:44:34+05:30",
-      "time": "04 Jun, 06:44 AM",
-      "type": "news",
-      "description": "Iran's Revolutionary Guards denied responsibility on Wednesday for an attack on Kuwait's international airport that officials said left an Indian nati..."
-    },
-    {
-      "title": "Iran FM says 'no tangible progress' in talks but Trump says deal close",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-fm-says-no-tangible-progress-in-talks-but-trump-says-deal-close/articleshow/131494516.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-04T06:24:45+05:30",
-      "time": "04 Jun, 06:24 AM",
-      "type": "news",
-      "description": "Middle East war negotiations face setbacks as Iran reports no tangible progress. Renewed US and Iranian strikes have strained a fragile ceasefire. Kuw..."
     }
   ],
   "tweets": [
@@ -1907,6 +1907,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
