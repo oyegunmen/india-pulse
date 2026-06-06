@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Trump, campaigning for Republicans in Wisconsin, vows quick end to Iran war",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-campaigning-for-republicans-in-wisconsin-vows-quick-end-to-iran-war/articleshow/131542865.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-06T06:08:31+05:30",
+      "time": "06 Jun, 06:08 AM",
+      "type": "news",
+      "description": "President Trump campaigned in Wisconsin, vowing to quickly end the \"Iran war\" and lower fertilizer prices, aiming to boost Republican midterm prospect..."
+    },
+    {
+      "title": "\u2018India acts in its own interest, pressure won\u2019t work\u2019: Putin on ties with New Delhi",
+      "link": "https://indianexpress.com/article/world/vladimir-putin-pm-modi-india-russia-ties-us-pressure-10726370/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-06T05:31:22+05:30",
+      "time": "06 Jun, 05:31 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Three killed, houses torched in attack on Manipur village",
       "link": "https://www.tribuneindia.com/news/india/three-killed-houses-torched-in-attack-on-manipur-village",
       "source": "The Tribune",
@@ -728,33 +746,6 @@
       "time": "04 Jun, 06:24 AM",
       "type": "news",
       "description": "Middle East war negotiations face setbacks as Iran reports no tangible progress. Renewed US and Iranian strikes have strained a fragile ceasefire. Kuw..."
-    },
-    {
-      "title": "North Korea unveils a new plant to produce fuel for nuclear weapons",
-      "link": "https://economictimes.indiatimes.com/news/defence/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons/articleshow/131494495.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-04T06:18:54+05:30",
-      "time": "04 Jun, 06:18 AM",
-      "type": "news",
-      "description": "North Korea has revealed a new facility for producing nuclear bomb fuels. Leader Kim Jong Un announced plans to significantly increase the country's n..."
-    },
-    {
-      "title": "Israel and Lebanon agree to implementation of ceasefire",
-      "link": "https://economictimes.indiatimes.com/news/defence/israel-and-lebanon-agree-to-implementation-of-ceasefire/articleshow/131494473.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-04T06:05:30+05:30",
-      "time": "04 Jun, 06:05 AM",
-      "type": "news",
-      "description": "Lebanon and Israel have agreed to a ceasefire. This follows negotiations facilitated by the United States. The agreement hinges on Hezbollah halting a..."
-    },
-    {
-      "title": "Israel, Lebanon renew ceasefire, agree on \u2018pilot\u2019 security zones free of Hezbollah",
-      "link": "https://indianexpress.com/article/world/israel-lebanon-renew-ceasefire-hezbollah-free-security-zones-10723103/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-04T05:59:58+05:30",
-      "time": "04 Jun, 05:59 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
@@ -1217,16 +1208,6 @@
       "type": "tweets",
       "content": "<p>Unmanned turret for FICV<br />\nFor now this for surface roles but imagine a slight modification with a radar and ammunition and we have our own sky shield</p>\n<img src=\"https://nitter.net/pic/media%2FHKC_7Nia0AAo3OK.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "14th Round of India, Greece Foreign Office Consultations takes place in Delhi",
-      "link": "https://nitter.net/sidhant/status/2062858386388226525#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-05T16:55:40+05:30",
-      "time": "05 Jun, 04:55 PM",
-      "type": "tweets",
-      "content": "<p>14th Round of India, Greece Foreign Office Consultations takes place in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHKC-w-ubQAAKiQx.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Looking at IFV/Tank propulsion and Transmission things look sorted. This L&T visit of PM has given us a good sneak peek..\nGo India build ! Build !!",
@@ -1926,6 +1907,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
