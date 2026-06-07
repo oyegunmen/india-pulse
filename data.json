@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Russian authorities say Ukraine launched unprecedented attack on and around St Petersburg",
+      "link": "https://newsonair.gov.in/russian-authorities-say-ukraine-launched-unprecedented-attack-on-and-around-st-petersburg/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-07T08:18:14+05:30",
+      "time": "07 Jun, 08:18 AM",
+      "type": "news",
+      "description": "Russian authorities said Ukraine has launched an unprecedented attack on and around St Petersburg. \u00a0 More than 140 drones were shot down over the surr..."
+    },
+    {
+      "title": "US forces intercept and destroy two Iranian attack drones near Strait of Hormuz",
+      "link": "https://newsonair.gov.in/us-forces-intercept-and-destroy-two-iranian-attack-drones-near-strait-of-hormuz/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-07T08:07:58+05:30",
+      "time": "07 Jun, 08:07 AM",
+      "type": "news",
+      "description": "According to the United States Central Command, the US military has intercepted and destroyed two Iranian one-way attack drones that were assessed to ..."
+    },
+    {
       "title": "NSG constable dies in mishap",
       "link": "https://www.tribuneindia.com/news/india/nsg-constable-dies-in-mishap",
       "source": "The Tribune",
@@ -226,15 +244,6 @@
       "description": "<p>Bengaluru, June 6, 2026. The Passing Out Parade (POP) of the seventh batch of Agniveervayu trainees (AGVT) intake 01/2026, comprising both men and ..."
     },
     {
-      "title": "Nine killed in Israeli strikes in southern Lebanon",
-      "link": "https://newsonair.gov.in/nine-killed-in-israeli-strikes-in-southern-lebanon/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-06T16:23:18+05:30",
-      "time": "06 Jun, 04:23 PM",
-      "type": "news",
-      "description": "The Lebanese Army has said that nine people, including three military personnel, were killed on Saturday in Israeli airstrikes in southern Lebanon, ju..."
-    },
-    {
       "title": "Nibe defence arm gets DPIIT licence to manufacture firearms, ammunition",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/nibe-defence-arm-gets-dpiit-licence-to-manufacture-firearms-ammunition/131550031",
       "source": "Economic Times",
@@ -278,15 +287,6 @@
       "time": "06 Jun, 02:43 PM",
       "type": "news",
       "description": "Frozen Iranian funds are a central point in talks between Tehran and Washington to end their conflict. Iran demands the release of its assets, estimat..."
-    },
-    {
-      "title": "Russian President offers Sukhoi Su-57 stealth aircraft and joint production in India",
-      "link": "https://newsonair.gov.in/russian-president-offers-sukhoi-su-57-stealth-aircraft-and-joint-production-in-india/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-06T14:36:12+05:30",
-      "time": "06 Jun, 02:36 PM",
-      "type": "news",
-      "description": "Russian President Vladimir Putin has offered New Delhi Russia&#8217;s fifth-generation stealth aircraft Sukhoi Su-57, and proposed its joint productio..."
     },
     {
       "title": "PM Modi shares video on Make in India war machines: Atmanirbhar Bharat campaign",
@@ -803,6 +803,16 @@
     }
   ],
   "tweets": [
+    {
+      "title": "Over the last few days, I\u2019ve met founders of several defence startups. One theme came up repeatedly: \u201cFailure is a step in the right direction. The more we fail, the better we get.\u201d\n\nYet many of India\u2019s major defence programmes have operated in an ecosystem where the appetite for failure is extremely low. Kaveri is perhaps the most cited example.",
+      "link": "https://nitter.net/alpha_defense/status/2063449936373624932#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-07T08:06:16+05:30",
+      "time": "07 Jun, 08:06 AM",
+      "type": "tweets",
+      "content": "<p>Over the last few days, I\u2019ve met founders of several defence startups. One theme came up repeatedly: \u201cFailure is a step in the right direction. The more we fail, the better we get.\u201d<br />\n<br />\nYet many of India\u2019s major defence programmes have operated in an ecosystem where the appetite for failure is extremely low. Kaveri is perhaps the most cited example.</p>\n<img src=\"https://nitter.net/pic/media%2FHKLYxhjb0AAE_nU.jpg\" />",
+      "author": "@alpha_defense"
+    },
     {
       "title": "R to @OsintTV: Update: Nowshera - KP - Pakistan",
       "link": "https://nitter.net/OsintTV/status/2063368450936860817#m",
@@ -1404,7 +1414,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @OsintTV: \ud83d\udea8 OSINT REPORT (Update):\n\n Khalistani terrorist Gopal Singh Chawla is reportedly linked to Pakistan-based extremist ecosystem and has been seen in proximity with senior Lashkar-e-Taiba leaders, including Hafiz Saeed, head of the UN-designated terrorist organization Lashkar-e-Taiba, and Deputy chief Saifullah Kasuri.\n\nHe is reported to be the General Secretary of PSGPC (Pakistan Sikh Gurdwara Parbandhak Committee), a Pakistan-based body.\n\nOpen-source visuals and reports have previously shown him alongside Hafiz Saeed, a UN-designated terrorist, indicating continued association with proscribed extremist networks.\n\nThese reported links highlight concerns over overlap between separatist elements and Pakistan-based terror infrastructure.",
+      "title": "\ud83d\udea8 OSINT REPORT (Update):\n\n Khalistani terrorist Gopal Singh Chawla is reportedly linked to Pakistan-based extremist ecosystem and has been seen in proximity with senior Lashkar-e-Taiba leaders, including Hafiz Saeed, head of the UN-designated terrorist organization Lashkar-e-Taiba, and Deputy chief Saifullah Kasuri.\n\nHe is reported to be the General Secretary of PSGPC (Pakistan Sikh Gurdwara Parbandhak Committee), a Pakistan-based body.\n\nOpen-source visuals and reports have previously shown him alongside Hafiz Saeed, a UN-designated terrorist, indicating continued association with proscribed extremist networks.\n\nThese reported links highlight concerns over overlap between separatist elements and Pakistan-based terror infrastructure.",
       "link": "https://nitter.net/OsintTV/status/2063163115110355336#m",
       "source": "Osint TV",
       "sort_key": "2026-06-06T13:06:33+05:30",
@@ -1482,6 +1492,16 @@
       "type": "tweets",
       "content": "<p>A sleeper coach of the Delhi\u2013Katra train suffered a structural failure at Ludhiana Railway Station while departing. <br />\n<br />\nNo injuries were reported, and authorities are assessing the incident</p>\n<img src=\"https://nitter.net/pic/media%2FHKG4zFVasAAO0Ak.jpg\" />\n\n<a href=\"https://nitter.net/elitepredatorss/status/2063133373208617208#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063133292015374336%2Fimg%2FVQ-pssAlqOftrn1D.jpg\" />\n</a>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @OsintTV: Wadhwa Singh, the incumbent chief of Babbar Khalsa International, and Ranjeet Singh Neeta, the head of KZF, are currently residing in Pakistan. Neeta deserves special mention, as he is considered a key figure in establishing links between Khalistani and Kashmiri militants",
+      "link": "https://nitter.net/CI_CT_IO/status/2063129654643540476#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-06T10:53:35+05:30",
+      "time": "06 Jun, 10:53 AM",
+      "type": "tweets",
+      "content": "<p>Wadhwa Singh, the incumbent chief of Babbar Khalsa International, and Ranjeet Singh Neeta, the head of KZF, are currently residing in Pakistan. Neeta deserves special mention, as he is considered a key figure in establishing links between Khalistani and Kashmiri militants</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>Khalistani terrorist Balbir Singh (alias), reportedly based in Pakistan, has surfaced in a video issuing anti-India rhetoric and expressing support for Hafiz Saeed, head of the UN designated terror group Lashkar-e-Taiba.<br />\n<br />\nIn the video, he claims no Pakistani leader has openly challenged India and quotes Hafiz Saeed: \u201cIf you [India] block our water, we will cut off your life-breath\u201d -in Punjabi.<br />\n<br />\nThis exposes yet again how Pakistan-linked networks continue to enable anti-India propaganda. India stays firm, vigilant, and ready to respond to any hostile narrative or threat.<br />\n<br />\nVideo date : May 15 2025 (After OpSindoor)</p>\n<a href=\"https://nitter.net/OsintTV/status/2063121194333679797#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063120901252554752%2Fimg%2Ff7RR1t2b2PoaxckP.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2063121194333679797#m\">https://nitter.net/OsintTV/status/2063121194333679797#m</a>\n</footer>\n</blockquote>",
+      "author": "@CI_CT_IO"
     },
     {
       "title": "RT by @OsintTV: Presumably, the Khalistani terrorist is identified as Gopal Singh Chawla.",
@@ -1918,6 +1938,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
