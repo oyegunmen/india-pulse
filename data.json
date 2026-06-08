@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "India, Pakistan developing new nuclear weapon delivery systems: Report",
+      "link": "https://www.tribuneindia.com/news/india/india-pakistan-developing-new-nuclear-weapon-delivery-systems-report",
+      "source": "The Tribune",
+      "sort_key": "2026-06-08T10:54:25+05:30",
+      "time": "08 Jun, 10:54 AM",
+      "type": "news",
+      "description": "India and Pakistan continued to develop new types of nuclear weapon delivery systems in 2025 and are pursuing the capability to deploy multiple warhea..."
+    },
+    {
+      "title": "China seeks to strengthen ties with North Korea",
+      "link": "https://newsonair.gov.in/china-seeks-to-strengthen-ties-with-north-korea/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-08T10:54:24+05:30",
+      "time": "08 Jun, 10:54 AM",
+      "type": "news",
+      "description": "Chinese President Xi Jinping arrived in North Korea on a two-day state visit. This is Mr. Jinping&#8217;s first trip to Pyongyang in nearly seven year..."
+    },
+    {
+      "title": "West Asia War: Hormuz strait will be open but with transit fees, Iran envoy to Moscow quoted",
+      "link": "https://economictimes.indiatimes.com/news/defence/west-asia-war-hormuz-strait-will-be-open-but-with-transit-fees-iran-envoy-to-moscow-quoted/articleshow/131578692.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-08T10:19:19+05:30",
+      "time": "08 Jun, 10:19 AM",
+      "type": "news",
+      "description": "Iran and Oman will control passage through the Strait of Hormuz. New conditions, including transit fees, will be implemented. This follows disruptions..."
+    },
+    {
+      "title": "Eight booked after 'I Love Muhammad' posters, Pakistan-like flag found during Sambhal mosque demolition",
+      "link": "https://www.newindianexpress.com/states/uttar-pradesh/2026/Jun/08/eight-booked-after-i-love-muhammad-posters-pakistan-like-flag-found-during-sambhal-mosque-demolition",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-08T10:17:40+05:30",
+      "time": "08 Jun, 10:17 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Powerful earthquake of 7.8 magnitude in southern Philippines; 5 dead",
+      "link": "https://newsonair.gov.in/powerful-earthquake-in-southern-philippines-with-tsunami-likely-on-some-regional-coasts/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-08T10:12:11+05:30",
+      "time": "08 Jun, 10:12 AM",
+      "type": "news",
+      "description": "In the Philippines, five people died after a 7.8 magnitude offshore earthquake hit the southern part this morning. More than 200 people got injured du..."
+    },
+    {
       "title": "Hezbollah threatens to attack US military bases in Iraq if Washington joins\u00a0 attacks",
       "link": "https://newsonair.gov.in/hezbollah-threatens-to-attack-us-military-bases-in-iraq-if-washington-joins-attacks/",
       "source": "All India Radio",
@@ -17,15 +62,6 @@
       "time": "08 Jun, 08:20 AM",
       "type": "news",
       "description": "\"We shared perspectives on the threats of terrorism, and our counter-terrorism cooperation outlined in India-USA Joint Statement of February 2025,\" Kw..."
-    },
-    {
-      "title": "Powerful earthquake in southern Philippines with tsunami likely on some regional coasts",
-      "link": "https://newsonair.gov.in/powerful-earthquake-in-southern-philippines-with-tsunami-likely-on-some-regional-coasts/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-08T08:12:11+05:30",
-      "time": "08 Jun, 08:12 AM",
-      "type": "news",
-      "description": "In the Philippines, A powerful earthquake of magnitude 7.8 on the Richter scale shook the Mindanao region in southern Philippines early in the morning..."
     },
     {
       "title": "Israel says it has struck Iran after taking missile fire",
@@ -134,15 +170,6 @@
       "time": "07 Jun, 09:35 PM",
       "type": "news",
       "description": "The Organization of the Petroleum Exporting Countries (OPEC plus) has agreed to raise oil production in July as the United States and Iran struggled t..."
-    },
-    {
-      "title": "South Korea, Japan conduct joint maritime search exercise after 9 years",
-      "link": "https://newsonair.gov.in/south-korea-japan-conduct-joint-maritime-search-exercise-after-9-years/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-07T21:28:00+05:30",
-      "time": "07 Jun, 09:28 PM",
-      "type": "news",
-      "description": "South Korea and Japan have conducted a joint maritime search and rescue exercise (SAREX) for the first time in nine years. South Korean Navy today ann..."
     },
     {
       "title": "US, Iran appear far from peace deal 100 days since war began",
@@ -296,15 +323,6 @@
       "time": "07 Jun, 11:27 AM",
       "type": "news",
       "description": "A community-led initiative supported by Signature is restoring degraded coastal land in Astaranga, helping revive mangrove ecosystems while strengthen..."
-    },
-    {
-      "title": "US-Israel-Iran War News Live Updates: Israeli military says it identified a new wave of missiles launched from Iran toward Israel",
-      "link": "https://indianexpress.com/article/world/us-israel-iran-war-news-live-updates-israel-hormuz-forces-regional-tensions-10727843/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-07T10:43:59+05:30",
-      "time": "07 Jun, 10:43 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "US bill targets H-1B visa, OPT visa, green card pathway \u2014 major impact for Indian tech workers and students",
@@ -557,27 +575,39 @@
       "time": "06 Jun, 11:32 AM",
       "type": "news",
       "description": "Russia said Saturday it intercepted hundreds of Ukrainian drones including near Saint Petersburg, where Moscow is hosting a major economic forum, as U..."
-    },
-    {
-      "title": "Russia ready to offer Su-57 &amp; air defence systems to India without any limitations: Putin",
-      "link": "https://economictimes.indiatimes.com/news/defence/russia-ready-to-offer-su-57-air-defence-systems-to-india-without-any-limitations-putin-sukhoi-fighter-jets/articleshow/131545441.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-06T11:17:26+05:30",
-      "time": "06 Jun, 11:17 AM",
-      "type": "news",
-      "description": "Russia has offered India unrestricted technology transfer and joint production rights for its Su-57 stealth fighter jet, including domestic manufactur..."
-    },
-    {
-      "title": "US unveils video of retaliatory strikes following interception of six Iranian missiles over Gulf",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-unveils-video-of-retaliatory-strikes-following-interception-of-six-iranian-missiles-over-gulf/articleshow/131544937.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-06T10:35:11+05:30",
-      "time": "06 Jun, 10:35 AM",
-      "type": "news",
-      "description": "US forces struck Iranian radar sites in Goruk and Qeshm Island. This followed Iranian drone and missile attacks targeting maritime shipping. Six Irani..."
     }
   ],
   "tweets": [
+    {
+      "title": "Situation in Pakistan occupied Kashmir's Rawlakot deteriorating; Deaths & injures reported over the weekend amid mobil/internet suspension",
+      "link": "https://nitter.net/sidhant/status/2063850730184683814#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-08T10:38:53+05:30",
+      "time": "08 Jun, 10:38 AM",
+      "type": "tweets",
+      "content": "<p>Situation in Pakistan occupied Kashmir's Rawlakot deteriorating; Deaths &amp; injures reported over the weekend amid mobil/internet suspension</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Firing was reported early in the morning in Dhir kot Pakistan occupied Jammu & Kashmir.\n\nRanger opened fire on the peaceful protestors.",
+      "link": "https://nitter.net/Goreunit/status/2063850679744303600#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-08T10:38:41+05:30",
+      "time": "08 Jun, 10:38 AM",
+      "type": "tweets",
+      "content": "<p>Firing was reported early in the morning in Dhir kot Pakistan occupied Jammu &amp; Kashmir.<br />\n<br />\nRanger opened fire on the peaceful protestors.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "SIPRI report suggests that Nuclear-armed states ramped up arsenals in 2025\n\nChina: expanding its nuclear arsenal faster than any other country\n\nIndia: slightly expanded its nuclear arsenal\n\nPakistan: continued to develop new delivery systems & accumulate fissile material",
+      "link": "https://nitter.net/sidhant/status/2063850057171079360#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-08T10:36:12+05:30",
+      "time": "08 Jun, 10:36 AM",
+      "type": "tweets",
+      "content": "<p>SIPRI report suggests that Nuclear-armed states ramped up arsenals in 2025<br />\n<br />\nChina: expanding its nuclear arsenal faster than any other country<br />\n<br />\nIndia: slightly expanded its nuclear arsenal<br />\n<br />\nPakistan: continued to develop new delivery systems &amp; accumulate fissile material</p>\n<img src=\"https://nitter.net/pic/media%2FHKREqKubsAAbbjU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKREqMEbQAAbyfn.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKRErEXbkAAXIz6.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKRErspakAApZ2T.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "RT by @sidhant: In a conversation with WION's @sidhant, Nepal FM Shisir Khanal (@shisir) highlights shared economic potential and signals fresh India outreach \n\n@ShivanChanana gets you more",
       "link": "https://nitter.net/WIONews/status/2063845208568303646#m",
@@ -597,6 +627,16 @@
       "type": "tweets",
       "content": "<p>W&amp;G fact check:<br />\n<br />\nThis specific indl claiming to be from the Indian army isn't a soldier, this guy was denied to attend SSB in 2021 due to Covid guideline enclosure.<br />\n<br />\nHe joined the anti govt protests in Delhi recently, claimed to be from IA.</p>\n<img src=\"https://nitter.net/pic/media%2FHKQzt_nbQAAToAY.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKQzuB7aUAAiBTa.jpg\" />",
       "author": "@Goreunit"
+    },
+    {
+      "title": "RT by @OsintTV: Meet An individual identified as Rahul Pathak.\nFormerly a Sepoy of the Indian Army. \nLast Unit- 1811 Pnr.\nBoarded out of service - March 2026 (due to an AFMSF-10 case related to mental health and disciplinary issues.)\nDistrict - Shahjahanpur\nState - Uttar Pradesh.\n\nA video dated 06 March 2026 is currently circulating across several social media platforms, showing him participating in a protest reportedly organized by CJP. \n\nNotably, he is seen wearing the Indian Army uniform despite no longer being in service. His actions raise serious concerns as wearing the Army uniform after dismissal and engaging in such activities is a violation and reflects disrespect towards the dignity of the uniform. @DesiEsco7 @Panther7112 @Platypuss_10 @ankitrawal5454 @adgpi @Uppolice @suryacommand",
+      "link": "https://nitter.net/BundelKhandee/status/2063830613363466526#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-08T09:18:57+05:30",
+      "time": "08 Jun, 09:18 AM",
+      "type": "tweets",
+      "content": "<p>Meet An individual identified as Rahul Pathak.<br />\nFormerly a Sepoy of the Indian Army. <br />\nLast Unit- 1811 Pnr.<br />\nBoarded out of service - March 2026 (due to an AFMSF-10 case related to mental health and disciplinary issues.)<br />\nDistrict - Shahjahanpur<br />\nState - Uttar Pradesh.<br />\n<br />\nA video dated 06 March 2026 is currently circulating across several social media platforms, showing him participating in a protest reportedly organized by CJP. <br />\n<br />\nNotably, he is seen wearing the Indian Army uniform despite no longer being in service. His actions raise serious concerns as wearing the Army uniform after dismissal and engaging in such activities is a violation and reflects disrespect towards the dignity of the uniform. <a href=\"https://nitter.net/DesiEsco7\" title=\"DesiEsco\ud83c\uddee\ud83c\uddf3\">@DesiEsco7</a> <a href=\"https://nitter.net/Panther7112\" title=\"Panther\ud83c\uddee\ud83c\uddf3\">@Panther7112</a> <a href=\"https://nitter.net/Platypuss_10\" title=\"Chauhan\">@Platypuss_10</a> <a href=\"https://nitter.net/ankitrawal5454\" title=\"Ankit Rawal\">@ankitrawal5454</a> <a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/Uppolice\" title=\"UP POLICE\">@Uppolice</a> <a href=\"https://nitter.net/suryacommand\" title=\"SuryaCommand_IA\">@suryacommand</a></p>\n<a href=\"https://nitter.net/BundelKhandee/status/2063830613363466526#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063829196384952320%2Fimg%2FvbwQ8bdQm2AP0JlF.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKQxxg8bEAAJKbB.png\" />",
+      "author": "@BundelKhandee"
     },
     {
       "title": "Iran launches ballistic missile attack on Israel in a first since April ceasefire\n\nThe Israeli military said it detected missiles launched from Iran and activated air defence systems to intercept the threat. Warning sirens sounded in several areas across Israel after the launches were identified.",
@@ -759,14 +799,24 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT @MikeLimaBravo12: Intense anti-Pakistan protests are underway across several areas of PoJK. Pakistani Army and police have opened fire o\u2026",
-      "link": "https://nitter.net/OsintTV/status/2063699708325892605#m",
+      "title": "RT by @OsintTV: Intense anti-Pakistan protests are underway across several areas of PoJK. Pakistani Army and police have opened fire on protesters. So far, 7 people have been killed and more than 50 injured. The situation remains highly tense. Terrorist  Field Marshal Asim Muneer is facing serious challenges on multiple fronts.  He has ordered the Pakistan Army to open fire directly on protesters and killing innocent Kashmiris.",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2063699159404925251#m",
       "source": "Osint TV",
-      "sort_key": "2026-06-08T00:38:46+05:30",
-      "time": "08 Jun, 12:38 AM",
+      "sort_key": "2026-06-08T00:36:35+05:30",
+      "time": "08 Jun, 12:36 AM",
       "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/MikeLimaBravo12\" title=\"Mike Lima\">@MikeLimaBravo12</a>: Intense anti-Pakistan protests are underway across several areas of PoJK. Pakistani Army and police have opened fire o\u2026</p>",
-      "author": "@OsintTV"
+      "content": "<p>Intense anti-Pakistan protests are underway across several areas of PoJK. Pakistani Army and police have opened fire on protesters. So far, 7 people have been killed and more than 50 injured. The situation remains highly tense. Terrorist  Field Marshal Asim Muneer is facing serious challenges on multiple fronts.  He has ordered the Pakistan Army to open fire directly on protesters and killing innocent Kashmiris.</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2063699159404925251#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063699094992990208%2Fimg%2F_Lhf8kOVt3XE2mgG.jpg\" />\n</a>",
+      "author": "@MikeLimaBravo12"
+    },
+    {
+      "title": "RT @shivank_8mishra: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.\n\nPakistani Army, Rangers and Punjab Police have open\u2026",
+      "link": "https://nitter.net/Goreunit/status/2063691790881099959#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-08T00:07:19+05:30",
+      "time": "08 Jun, 12:07 AM",
+      "type": "tweets",
+      "content": "<p>RT <a href=\"https://nitter.net/shivank_8mishra\" title=\"Shivank Mishra\">@shivank_8mishra</a>: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.<br />\n<br />\nPakistani Army, Rangers and Punjab Police have open\u2026</p>",
+      "author": "@Goreunit"
     },
     {
       "title": "RT by @OsintTV: PoJK's Ultimate \"Pants Clearance Sale\" is Live...!\n\nThe situation in Mang, PoJK just hit a whole new level of awkward for the Pakistani Security Forces! Local residents have literally set up an exhibition in the town square, putting the forces' PANTS up for open auction! \n\nCurrent Status: 100% authentic, stripped straight from duty.\n\nItem Condition: Slightly damp from panic, heavily soiled by reality.",
@@ -776,16 +826,6 @@
       "time": "07 Jun, 11:55 PM",
       "type": "tweets",
       "content": "<p>PoJK's Ultimate \"Pants Clearance Sale\" is Live...!<br />\n<br />\nThe situation in Mang, PoJK just hit a whole new level of awkward for the Pakistani Security Forces! Local residents have literally set up an exhibition in the town square, putting the forces' PANTS up for open auction! <br />\n<br />\nCurrent Status: 100% authentic, stripped straight from duty.<br />\n<br />\nItem Condition: Slightly damp from panic, heavily soiled by reality.</p>\n<a href=\"https://nitter.net/OsintTV/status/2063688770919211422#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063685854841720832%2Fimg%2FwzYVHhYv72xdpDlA.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT @shivank_8mishra: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.\n\nPakistani Army, Rangers and Punjab Police have open\u2026",
-      "link": "https://nitter.net/OsintTV/status/2063675142589358222#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-07T23:01:09+05:30",
-      "time": "07 Jun, 11:01 PM",
-      "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/shivank_8mishra\" title=\"Shivank Mishra\">@shivank_8mishra</a>: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.<br />\n<br />\nPakistani Army, Rangers and Punjab Police have open\u2026</p>",
       "author": "@OsintTV"
     },
     {
@@ -816,6 +856,16 @@
       "time": "07 Jun, 10:51 PM",
       "type": "tweets",
       "content": "<p>PoJK erupts with 'Hukmarano dekh lo ham tumahri maut hai ' chants \ud83d\udd25\ud83d\udd25!<br />\nThe people of PoJK completely rejecting the illegal Pakistani occupation....<br />\n<br />\nPS: \u0932\u094b\u0939\u093e \u0917\u0930\u092e \u0939\u0948, \u0939\u0925\u094c\u0921\u093c\u093e \u092e\u093e\u0930 \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u093f\u090f\ud83d\ude01</p>\n<a href=\"https://nitter.net/Goreunit/status/2063672605752905877#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063671934093787136%2Fpu%2Fimg%2FrCg4QdzMpThSwznr.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "This is how anti India narrative is being run by Wumaos \ud83c\udde8\ud83c\uddf3 & Porkis.",
+      "link": "https://nitter.net/Goreunit/status/2063659457033453676#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-07T21:58:50+05:30",
+      "time": "07 Jun, 09:58 PM",
+      "type": "tweets",
+      "content": "<p>This is how anti India narrative is being run by Wumaos \ud83c\udde8\ud83c\uddf3 &amp; Porkis.</p>\n<img src=\"https://nitter.net/pic/media%2FHKOXVazasAAkXoZ.jpg\" />",
       "author": "@Goreunit"
     },
     {
@@ -909,6 +959,16 @@
       "author": "@sidhant"
     },
     {
+      "title": "RT by @OsintTV: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.\n\nPakistani Army, Rangers and Punjab Police have opened fire on Awami Action Committee protesters, leaving 4 people seriously injured.\n\nInternet services remain suspended, AAC offices have been sealed, and the group has been designated a terrorist organization.\n\nJust a day earlier, AAC member Umar Nazir was seriously injured after Pakistani security forces allegedly opened fire on his vehicle, killing one of his associates.\n\nThe developments have revived memories of last year\u2019s deadly crackdown in which 28 protesters were killed.\n\nPoK is on edge.",
+      "link": "https://nitter.net/shivank_8mishra/status/2063624559107125689#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-07T19:40:09+05:30",
+      "time": "07 Jun, 07:40 PM",
+      "type": "tweets",
+      "content": "<p>Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.<br />\n<br />\nPakistani Army, Rangers and Punjab Police have opened fire on Awami Action Committee protesters, leaving 4 people seriously injured.<br />\n<br />\nInternet services remain suspended, AAC offices have been sealed, and the group has been designated a terrorist organization.<br />\n<br />\nJust a day earlier, AAC member Umar Nazir was seriously injured after Pakistani security forces allegedly opened fire on his vehicle, killing one of his associates.<br />\n<br />\nThe developments have revived memories of last year\u2019s deadly crackdown in which 28 protesters were killed.<br />\n<br />\nPoK is on edge.</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2063624559107125689#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063624502857396224%2Fimg%2FSXDqYAgfut53-F7d.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUMbEAAo6np.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUIbIAAeI7Z.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUCa0AAsr6S.jpg\" />",
+      "author": "@shivank_8mishra"
+    },
+    {
       "title": "RT by @sidhant: Nepal\u2019s Foreign Minister Shisir Khanal has signalled a fresh, forward-looking approach to relations with India, emphasising opportunities in trade, connectivity, technology and energy as the two neighbours seek to firm up ties under new leadership in Kathmandu\n\nSpeaking to WION's @sidhant during a visit that included meetings with top Indian officials, Khanal said Nepal\u2019s new government, backed by a strong mandate, was determined not to be held back by history\n\n@eriknjoka has more",
       "link": "https://nitter.net/WIONews/status/2063614382849094083#m",
       "source": "Sidhant Sibal",
@@ -999,16 +1059,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "The Pakistani Army thought suspending internet would not let the visuals of population of POJK thrashing the Pakistani security forces out.\n\nWell well well \ud83d\ude43",
-      "link": "https://nitter.net/elitepredatorss/status/2063573224743727472#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-07T16:16:10+05:30",
-      "time": "07 Jun, 04:16 PM",
-      "type": "tweets",
-      "content": "<p>The Pakistani Army thought suspending internet would not let the visuals of population of POJK thrashing the Pakistani security forces out.<br />\n<br />\nWell well well \ud83d\ude43</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2063573224743727472#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063573100655259648%2Fpu%2Fimg%2F5fhHNxbviobZdwcv.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/elitepredatorss/status/2063573224743727472#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063573117835128832%2Fpu%2Fimg%2FZVYBGaNApYApFa9K.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
       "title": "R to @sidhant: UK MP expresses concern over situation in Pakistan occupied Kashmir:",
       "link": "https://nitter.net/sidhant/status/2063572687356829746#m",
       "source": "Sidhant Sibal",
@@ -1036,26 +1086,6 @@
       "time": "07 Jun, 04:04 PM",
       "type": "tweets",
       "content": "<p>Just In: UK MPs write to UK Foreign Secretary Yvette Cooper over deteriorating situation in Pakistan occupied Kashmir; Call to address communications blackouts, arrests and rising tensions.</p>\n<img src=\"https://nitter.net/pic/media%2FHKNGN-JaoAAjFEQ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKNGN80bMAAFhPY.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India's energy ministry says, India is among the few countries to keep its energy cargoes moving through the Strait of Hormuz, & has paid no toll. Points to getting LPG from Algeria, Canada & US.\n\nStatement",
-      "link": "https://nitter.net/sidhant/status/2063568118870634928#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-07T15:55:53+05:30",
-      "time": "07 Jun, 03:55 PM",
-      "type": "tweets",
-      "content": "<p>India's energy ministry says, India is among the few countries to keep its energy cargoes moving through the Strait of Hormuz, &amp; has paid no toll. Points to getting LPG from Algeria, Canada &amp; US.<br />\n<br />\nStatement</p>\n<img src=\"https://nitter.net/pic/media%2FHKNEREvasAAb43f.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKNERGHbcAA_jKc.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKNERHnbMAAbY3i.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKNERKkaUAAxRVk.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Dr Jaishankar, Indonesian Foreign Minister Sugiono hold talks in Delhi",
-      "link": "https://nitter.net/sidhant/status/2063566351810413010#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-07T15:48:52+05:30",
-      "time": "07 Jun, 03:48 PM",
-      "type": "tweets",
-      "content": "<p>EAM Dr Jaishankar, Indonesian Foreign Minister Sugiono hold talks in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHKNCqSxbgAA3fVI.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1329,16 +1359,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Nepal FM Shisir Khanal met NSA Ajit Doval in Delhi.",
-      "link": "https://nitter.net/Goreunit/status/2063268568410841089#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-06T20:05:35+05:30",
-      "time": "06 Jun, 08:05 PM",
-      "type": "tweets",
-      "content": "<p>Nepal FM Shisir Khanal met NSA Ajit Doval in Delhi.</p>\n<img src=\"https://nitter.net/pic/media%2FHKIz1Aga8AASRGg.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKIz050aAAEix3w.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
       "title": "That is old AD Blue screen..\nAT that time i was hoping AMCA will be F22 (Minus those flat engine nozzles)",
       "link": "https://nitter.net/alpha_defense/status/2063248465300427062#m",
       "source": "Alpha Defense",
@@ -1377,16 +1397,6 @@
       "type": "tweets",
       "content": "<p>Ukrainian President Volodymyr Zelensky has publicly invited Russian President Vladimir Putin to a face-to-face meeting to negotiate an end to the war.<br />\n<br />\nIn an open letter, Zelensky said it would be \"wrong to simply wait\" for the conflict to regain Washington's full attention, calling for direct talks to pursue peace.</p>\n<img src=\"https://nitter.net/pic/media%2FHKITBCfaYAEByx2.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "RT @MikeLimaBravo12: Hammad Nazir S/o Master Nazir, R/o Nodiz, Kalatuk, Balochistan shot dead by ISI and Pakistan army for wearing an India\u2026",
-      "link": "https://nitter.net/OsintTV/status/2063231610422460682#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-06T17:38:43+05:30",
-      "time": "06 Jun, 05:38 PM",
-      "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/MikeLimaBravo12\" title=\"Mike Lima\">@MikeLimaBravo12</a>: Hammad Nazir S/o Master Nazir, R/o Nodiz, Kalatuk, Balochistan shot dead by ISI and Pakistan army for wearing an India\u2026</p>",
-      "author": "@OsintTV"
     },
     {
       "title": "News that the Navy has issued an EoI for 80 mm rockets for MiG-29K/KUB fighters.\n\nLooks more like stock replenishment than anything else. Strange that it is making headlines.",
@@ -1457,36 +1467,6 @@
       "type": "tweets",
       "content": "<p>We are witnessing one of the fastest tank development and induction programs in the world.<br />\n<br />\nThe only program getting close to Zorawar is the US M10 Booker's induction, which took around 8 years from development to induction.<br />\n<br />\nZorawar is at par with almost every capability of its Chinese and American counterparts, but Zorawar has some things that change the game for him against his Chinese counterpart.<br />\n<br />\nZorawar can swim, the ZTQ-15 can't !<br />\n<br />\nZorawar can fire and forget missiles, while ZTQ need to guide its missile through a laser designator, which means the Chinese ZTQ-15 might not be able to perform the shoot and scoot as effectively as Zorawar.<br />\n<br />\nI know Zorawar faced some difficulty in Ladakh, I am hoping we can get these beasts inducted in 2027 breaking the record.</p>\n<hr />\n<blockquote>\n<b>Manish Prasad (@manishindiatv)</b>\n<p>\n<p>Zorawar Light Tank ka ye video nahi dekha to, kuch nahi dekha. \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/manishindiatv/status/2062951744141947139#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2062950515483578368%2Fimg%2Fbe5sDt5dRCoH9qIK.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/manishindiatv/status/2062951744141947139#m\">https://nitter.net/manishindiatv/status/2062951744141947139#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Trending on X !\n\nTen people on ground.\n\nThirty media personnel covering the event.",
-      "link": "https://nitter.net/elitepredatorss/status/2063136395141767208#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-06T11:20:22+05:30",
-      "time": "06 Jun, 11:20 AM",
-      "type": "tweets",
-      "content": "<p>Trending on X !<br />\n<br />\nTen people on ground.<br />\n<br />\nThirty media personnel covering the event.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "A sleeper coach of the Delhi\u2013Katra train suffered a structural failure at Ludhiana Railway Station while departing. \n\nNo injuries were reported, and authorities are assessing the incident",
-      "link": "https://nitter.net/elitepredatorss/status/2063133373208617208#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-06T11:08:21+05:30",
-      "time": "06 Jun, 11:08 AM",
-      "type": "tweets",
-      "content": "<p>A sleeper coach of the Delhi\u2013Katra train suffered a structural failure at Ludhiana Railway Station while departing. <br />\n<br />\nNo injuries were reported, and authorities are assessing the incident</p>\n<img src=\"https://nitter.net/pic/media%2FHKG4zFVasAAO0Ak.jpg\" />\n\n<a href=\"https://nitter.net/elitepredatorss/status/2063133373208617208#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063133292015374336%2Fimg%2FVQ-pssAlqOftrn1D.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "SUV Mounted Counter UAS system by Adani Defence-DRDO and indian Army.",
-      "link": "https://nitter.net/DefenceDecode/status/2063123405030007211#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-06T10:28:45+05:30",
-      "time": "06 Jun, 10:28 AM",
-      "type": "tweets",
-      "content": "<p>SUV Mounted Counter UAS system by Adani Defence-DRDO and indian Army.</p>\n<img src=\"https://nitter.net/pic/media%2FHKGu4XkbQAA3Ytw.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKGu5ssaAAAbGUj.jpg\" />",
-      "author": "@DefenceDecode"
     }
   ],
   "youtube": [
@@ -1564,6 +1544,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
