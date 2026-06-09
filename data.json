@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Indian Army to raise &#8216;electronic warfare&#8217; brigades to intercept, jam enemy radars, UAVs",
+      "link": "https://www.tribuneindia.com/news/top-headlines/indian-army-to-raise-electronic-warfare-brigades-to-intercept-jam-enemy-radars-uavs",
+      "source": "The Tribune",
+      "sort_key": "2026-06-10T01:53:59+05:30",
+      "time": "10 Jun, 01:53 AM",
+      "type": "news",
+      "description": "The Army has decided to raise specialised brigades to carry out &#8216;electronic warfare\u2019 to intercept, track and jam enemy communication, radar netw..."
+    },
+    {
+      "title": "India asks world to hold Pakistan accountable as over 20 killed in PoK police crackdown",
+      "link": "https://www.tribuneindia.com/news/india/india-asks-world-to-hold-pakistan-accountable-as-over-20-killed-in-pok-police-crackdown",
+      "source": "The Tribune",
+      "sort_key": "2026-06-10T01:28:57+05:30",
+      "time": "10 Jun, 01:28 AM",
+      "type": "news",
+      "description": "India on Tuesday called on the international community to hold Pakistan accountable for its \u201cmisdeeds and abuses\u201d in Pakistan-occupied Kashmir (PoK), ..."
+    },
+    {
       "title": "India seeks global action as 20 killed in PoK",
       "link": "https://economictimes.indiatimes.com/news/defence/india-seeks-global-action-as-20-killed-in-pok/articleshow/131618027.cms",
       "source": "Economic Times",
@@ -80,15 +98,6 @@
       "time": "09 Jun, 08:21 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Modi voices concern over West Asia tensions, condemns attacks on Kuwait\u2019s sovereignty",
-      "link": "https://www.tribuneindia.com/news/india/modi-voices-concern-over-west-asia-tensions-condemns-attacks-on-kuwaits-sovereignty",
-      "source": "The Tribune",
-      "sort_key": "2026-06-09T19:39:20+05:30",
-      "time": "09 Jun, 07:39 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi on Tuesday expressed deep concern over the escalating security situation in West Asia and strongly condemned attacks on K..."
     },
     {
       "title": "US visa interview in 10 days for $750 extra fee: What it means for Indians",
@@ -224,15 +233,6 @@
       "time": "09 Jun, 05:21 PM",
       "type": "news",
       "description": "In light of ongoing delays in the delivery of Tejas Mk1A fighter jets, the Defence Ministry is contemplating penalties for Hindustan Aeronautics Limit..."
-    },
-    {
-      "title": "CID enters Mamata&#8217;s Kalighat residence-cum-party office in \u2018forged signature\u2019 probe",
-      "link": "https://www.tribuneindia.com/news/india/cid-enters-mamatas-kalighat-residence-cum-party-office-in-forged-signature-probe",
-      "source": "The Tribune",
-      "sort_key": "2026-06-09T17:14:09+05:30",
-      "time": "09 Jun, 05:14 PM",
-      "type": "news",
-      "description": "A CID team on Tuesday entered Trinamool Congress&#8217;s central party office-cum-residence of party supremo Mamata Banerjee in Kalighat area here, af..."
     },
     {
       "title": "'Hope international community will hold Pakistan accountable': What did India say on 'brutality' in PoK?",
@@ -1939,26 +1939,6 @@
       "type": "tweets",
       "content": "<p>Pakistani Rangers killed over 150 POJK citizens in Rawalakot.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2063743313875005778#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063743220077731840%2Fimg%2Fr9nO07vUX-2KN7Tt.jpg\" />\n</a>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "R to @elitepredatorss: Trump says a peace deal was around the corner, well he said that N number of times now.",
-      "link": "https://nitter.net/elitepredatorss/status/2063724809939485163#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-08T02:18:31+05:30",
-      "time": "08 Jun, 02:18 AM",
-      "type": "tweets",
-      "content": "<p>Trump says a peace deal was around the corner, well he said that N number of times now.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Missiles.. Missiles... Missiles !\n\nBut why now is my question.",
-      "link": "https://nitter.net/elitepredatorss/status/2063723955689804115#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-08T02:15:07+05:30",
-      "time": "08 Jun, 02:15 AM",
-      "type": "tweets",
-      "content": "<p>Missiles.. Missiles... Missiles !<br />\n<br />\nBut why now is my question.</p>\n<video loop=\"loop\" poster=\"https://nitter.net/pic/tweet_video_thumb%2FHKPR_MUaoAAxRr7.jpg\">\n  <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHKPR_MUaoAAxRr7.mp4\" type=\"video/mp4\" /></video>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -2054,6 +2034,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 AM IST"
+    "last_updated": "02:24 AM IST"
   }
 }
