@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "\u2018Dressing up massacre as military operation won\u2019t absolve perpetrator\u2019: India slams Pakistan at UN",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/09/dressing-up-massacre-as-military-operation-wont-absolve-perpetrator-india-slams-pakistan-at-un",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-09T10:03:00+05:30",
+      "time": "09 Jun, 10:03 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Iran and Israel announce halt in attacks against each other, but warn of retaliation if ceasefire breached again",
+      "link": "https://newsonair.gov.in/iran-and-israel-announce-halt-in-attacks-against-each-other-but-warn-of-retaliation-if-ceasefire-breached-again/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-09T09:51:09+05:30",
+      "time": "09 Jun, 09:51 AM",
+      "type": "news",
+      "description": "Iran and Israel have announced a halt to attacks against each other. The announcement was initially made by US President Donald Trump, who said in a p..."
+    },
+    {
+      "title": "France and Germany Pull Out of Joint Fighter Jet Initiative",
+      "link": "https://www.deccanchronicle.com/world/france-and-germany-pull-out-of-joint-fighter-jet-initiative-1962332",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-09T09:45:53+05:30",
+      "time": "09 Jun, 09:45 AM",
+      "type": "news",
+      "description": "The project was seen as a key test of European efforts to work more closely on defence as they seek to present a united front in the face of a hostile..."
+    },
+    {
+      "title": "US Army Apache helicopter crashes near Strait of Hormuz: Report",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-army-apache-helicopter-crashes-near-strait-of-hormuz-report/articleshow/131601096.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-09T09:28:50+05:30",
+      "time": "09 Jun, 09:28 AM",
+      "type": "news",
+      "description": "A U.S. Army Apache helicopter gunship crashed near the Strait of Hormuz on Monday, with both crew members safely rescued. The cause of the incident re..."
+    },
+    {
       "title": "Finalising a deal for Brahmos missiles with Indonesia will top the agenda of PM Modi's Jakarta trip",
       "link": "https://economictimes.indiatimes.com/news/defence/finalising-a-deal-for-brahmos-missiles-with-indonesia-will-top-the-agenda-of-modis-jakarta-trip/articleshow/131600432.cms",
       "source": "Economic Times",
@@ -314,15 +350,6 @@
       "time": "08 Jun, 08:58 PM",
       "type": "news",
       "description": "A major maritime emergency in the Arabian Sea ended without casualties today after a Palau-flagged oil tanker carrying an all-Indian crew came under a..."
-    },
-    {
-      "title": "European Union delegation visits Tata Electronics semiconductor facility in Assam\u2019s Morigaon district",
-      "link": "https://newsonair.gov.in/european-union-delegation-visits-tata-electronics-semiconductor-facility-in-assams-morigaon-district/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-08T20:55:53+05:30",
-      "time": "08 Jun, 08:55 PM",
-      "type": "news",
-      "description": "A high-level delegation of the European Union today visited the upcoming semiconductor assembly and testing facility being developed by Tata Electroni..."
     },
     {
       "title": "Israel Vows To Press Military Campaign in Lebanon Despite Iran's Warnings",
@@ -701,18 +728,59 @@
       "time": "07 Jun, 10:36 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "War, debt and cuts: The price of Israel's security push",
-      "link": "https://economictimes.indiatimes.com/news/defence/war-debt-and-cuts-the-price-of-israels-security-push/articleshow/131561986.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-07T10:06:03+05:30",
-      "time": "07 Jun, 10:06 AM",
-      "type": "news",
-      "description": "Israel faces a steep economic challenge. A massive defence budget, driven by ongoing conflicts and Netanyahu's vision for a militarised nation, is str..."
     }
   ],
   "tweets": [
+    {
+      "title": "11 killed in protests in Pakistan occupied Kashmir amid major communication blackout.",
+      "link": "https://nitter.net/sidhant/status/2064205114332868833#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-09T10:07:04+05:30",
+      "time": "09 Jun, 10:07 AM",
+      "type": "tweets",
+      "content": "<p>11 killed in protests in Pakistan occupied Kashmir amid major communication blackout.</p>\n<a href=\"https://nitter.net/sidhant/status/2064205114332868833#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064199050937978880%2Fimg%2FLLuYoF0-lu4Za3As.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "PoJK is perhaps the only place in the world where even the Pak police end up getting arrested.",
+      "link": "https://nitter.net/OsintTV/status/2064200345564184998#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-09T09:48:08+05:30",
+      "time": "09 Jun, 09:48 AM",
+      "type": "tweets",
+      "content": "<p>PoJK is perhaps the only place in the world where even the Pak police end up getting arrested.</p>\n<a href=\"https://nitter.net/OsintTV/status/2064200345564184998#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064200205235355648%2Fimg%2F-kS9gYtyO0F6_BI9.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Tempest : The warning signs around GCAP are becoming harder to ignore.\n\nWith reports that PM Starmer\u2019s government is repeatedly delaying funding decisions on the next-generation combat aircraft programme",
+      "link": "https://nitter.net/alpha_defense/status/2064200067364552721#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-09T09:47:01+05:30",
+      "time": "09 Jun, 09:47 AM",
+      "type": "tweets",
+      "content": "<p>Tempest : The warning signs around GCAP are becoming harder to ignore.<br />\n<br />\nWith reports that PM Starmer\u2019s government is repeatedly delaying funding decisions on the next-generation combat aircraft programme</p>\n<img src=\"https://nitter.net/pic/media%2FHKWDBL_bkAA3bWK.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Democratic party Lawmaker welcomes the development:",
+      "link": "https://nitter.net/sidhant/status/2064194467855470879#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-09T09:24:46+05:30",
+      "time": "09 Jun, 09:24 AM",
+      "type": "tweets",
+      "content": "<p>Democratic party Lawmaker welcomes the development:</p>\n<img src=\"https://nitter.net/pic/media%2FHKV97E8a0AA1ap9.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "So called PM of PoJK, Faisal Rathore, greatly honoured in London.\n\nPoJK diaspora members protest outside the Pakistani High Commission in London.\n\n(Strong language warning)",
+      "link": "https://nitter.net/OsintTV/status/2064193566885265912#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-09T09:21:11+05:30",
+      "time": "09 Jun, 09:21 AM",
+      "type": "tweets",
+      "content": "<p>So called PM of PoJK, Faisal Rathore, greatly honoured in London.<br />\n<br />\nPoJK diaspora members protest outside the Pakistani High Commission in London.<br />\n<br />\n(Strong language warning)</p>\n<a href=\"https://nitter.net/OsintTV/status/2064193566885265912#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064193280015839233%2Fimg%2FvRJtT8RESVSW_brn.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
     {
       "title": "A Pakistan Army Aviation Corps Bell 412 helicopter was reportedly shot down by Baloch rebels near Nall, Khuzdar district, Balochistan, on June 8, 2026.",
       "link": "https://nitter.net/elitepredatorss/status/2064188647713517835#m",
@@ -982,26 +1050,6 @@
       "type": "tweets",
       "content": "<p>US disables Palau flagged sanctioned vessel that tried to breach US blockade. 24 Indian crew rescued by Oman. <br />\n<br />\nDetails</p>\n<a href=\"https://nitter.net/sidhant/status/2064034360358232109#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064033136519024640%2Fimg%2F28XH1vv_tnaMkRz1.jpg\" />\n</a>",
       "author": "@sidhant"
-    },
-    {
-      "title": "At UNSC, Indian Envoy to UN @IndiaUNNewYork @AmbHarishP highlights India's support to Afghanistan, especially in health care; Slams Pakistan for airstrikes in Afghanistan, denying Afghanistan transit.",
-      "link": "https://nitter.net/sidhant/status/2064034179726406071#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-08T22:47:51+05:30",
-      "time": "08 Jun, 10:47 PM",
-      "type": "tweets",
-      "content": "<p>At UNSC, Indian Envoy to UN <a href=\"https://nitter.net/IndiaUNNewYork\" title=\"India at UN, NY\">@IndiaUNNewYork</a> <a href=\"https://nitter.net/AmbHarishP\" title=\"Parvathaneni Harish\">@AmbHarishP</a> highlights India's support to Afghanistan, especially in health care; Slams Pakistan for airstrikes in Afghanistan, denying Afghanistan transit.</p>\n<a href=\"https://nitter.net/sidhant/status/2064034179726406071#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064032984425267200%2Fimg%2Fa9JbCWgKynr_dB8E.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: #BREAKING | US confirms precision hit on vessel carrying Indians on board\n\nUS forces disabled a Palau-flagged oil tanker in the Gulf of Oman as the unladen vessel Marivex headed toward Iran\n\n@ShreyaOpines and @sidhant have more",
-      "link": "https://nitter.net/WIONews/status/2064033896090714389#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-08T22:46:43+05:30",
-      "time": "08 Jun, 10:46 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BREAKING\">#BREAKING</a> | US confirms precision hit on vessel carrying Indians on board<br />\n<br />\nUS forces disabled a Palau-flagged oil tanker in the Gulf of Oman as the unladen vessel Marivex headed toward Iran<br />\n<br />\n<a href=\"https://nitter.net/ShreyaOpines\" title=\"Shreya Upadhyaya\">@ShreyaOpines</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2064033896090714389#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064033136519024640%2Fimg%2F28XH1vv_tnaMkRz1.jpg\" />\n</a>",
-      "author": "@WIONews"
     },
     {
       "title": "RT by @OsintTV: DG @BSF_India & DG @BGB_GOV_BD, An important meeting is currently underway (8-11 June),Key issues on the agenda include illegal infiltration, border fencing, cross-border security challenges, and strengthening coordination between the two border guarding forces. @indiatvnews",
@@ -1714,16 +1762,6 @@
       "author": "@MikeLimaBravo12"
     },
     {
-      "title": "RT @shivank_8mishra: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.\n\nPakistani Army, Rangers and Punjab Police have open\u2026",
-      "link": "https://nitter.net/Goreunit/status/2063691790881099959#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-08T00:07:19+05:30",
-      "time": "08 Jun, 12:07 AM",
-      "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/shivank_8mishra\" title=\"Shivank Mishra\">@shivank_8mishra</a>: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.<br />\n<br />\nPakistani Army, Rangers and Punjab Police have open\u2026</p>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "PoJK's Ultimate \"Pants Clearance Sale\" is Live...!\n\nThe situation in Mang, PoJK just hit a whole new level of awkward for the Pakistani Security Forces! Local residents have literally set up an exhibition in the town square, putting the forces' PANTS up for open auction! \n\nCurrent Status: 100% authentic, stripped straight from duty.\n\nItem Condition: Slightly damp from panic, heavily soiled by reality.",
       "link": "https://nitter.net/OsintTV/status/2063688770919211422#m",
       "source": "Osint TV",
@@ -1814,6 +1852,16 @@
       "author": "@Dig_raw21"
     },
     {
+      "title": "RT by @Goreunit: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.\n\nPakistani Army, Rangers and Punjab Police have opened fire on Awami Action Committee protesters, leaving 4 people seriously injured.\n\nInternet services remain suspended, AAC offices have been sealed, and the group has been designated a terrorist organization.\n\nJust a day earlier, AAC member Umar Nazir was seriously injured after Pakistani security forces allegedly opened fire on his vehicle, killing one of his associates.\n\nThe developments have revived memories of last year\u2019s deadly crackdown in which 28 protesters were killed.\n\nPoK is on edge.",
+      "link": "https://nitter.net/shivank_8mishra/status/2063624559107125689#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-07T19:40:09+05:30",
+      "time": "07 Jun, 07:40 PM",
+      "type": "tweets",
+      "content": "<p>Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.<br />\n<br />\nPakistani Army, Rangers and Punjab Police have opened fire on Awami Action Committee protesters, leaving 4 people seriously injured.<br />\n<br />\nInternet services remain suspended, AAC offices have been sealed, and the group has been designated a terrorist organization.<br />\n<br />\nJust a day earlier, AAC member Umar Nazir was seriously injured after Pakistani security forces allegedly opened fire on his vehicle, killing one of his associates.<br />\n<br />\nThe developments have revived memories of last year\u2019s deadly crackdown in which 28 protesters were killed.<br />\n<br />\nPoK is on edge.</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2063624559107125689#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063624502857396224%2Fimg%2FSXDqYAgfut53-F7d.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUMbEAAo6np.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUIbIAAeI7Z.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUCa0AAsr6S.jpg\" />",
+      "author": "@shivank_8mishra"
+    },
+    {
       "title": "RT by @OsintTV: Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.\n\nPakistani Army, Rangers and Punjab Police have opened fire on Awami Action Committee protesters, leaving 4 people seriously injured.\n\nInternet services remain suspended, AAC offices have been sealed, and the group has been designated a terrorist organization.\n\nJust a day earlier, AAC member Umar Nazir was seriously injured after Pakistani security forces allegedly opened fire on his vehicle, killing one of his associates.\n\nThe developments have revived memories of last year\u2019s deadly crackdown in which 28 protesters were killed.\n\nPoK is on edge.",
       "link": "https://nitter.net/shivank_8mishra/status/2063624559107125689#m",
       "source": "Osint TV",
@@ -1822,16 +1870,6 @@
       "type": "tweets",
       "content": "<p>Brutal crackdown by Pakistan in PoK ahead of the June 9 shutdown.<br />\n<br />\nPakistani Army, Rangers and Punjab Police have opened fire on Awami Action Committee protesters, leaving 4 people seriously injured.<br />\n<br />\nInternet services remain suspended, AAC offices have been sealed, and the group has been designated a terrorist organization.<br />\n<br />\nJust a day earlier, AAC member Umar Nazir was seriously injured after Pakistani security forces allegedly opened fire on his vehicle, killing one of his associates.<br />\n<br />\nThe developments have revived memories of last year\u2019s deadly crackdown in which 28 protesters were killed.<br />\n<br />\nPoK is on edge.</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2063624559107125689#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063624502857396224%2Fimg%2FSXDqYAgfut53-F7d.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUMbEAAo6np.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUIbIAAeI7Z.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKN3jUCa0AAsr6S.jpg\" />",
       "author": "@shivank_8mishra"
-    },
-    {
-      "title": "RT by @OsintTV: Army Officer talking decently in best possible manner to protesters in Manipur with dignity. But what lady protester did is shameful. \n\n> What did the woman do in return? She climbed into his Army vehicle and tore his uniform. Yet, despite the provocation, he did not raise a hand against her, something he could easily have done but chose not to. \n\n> What followed was action by troops to disperse militant sponsored Mob blocking army vehicles. \n\n#manipur",
-      "link": "https://nitter.net/Dig_raw21/status/2063610635695350172#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-07T18:44:50+05:30",
-      "time": "07 Jun, 06:44 PM",
-      "type": "tweets",
-      "content": "<p>Army Officer talking decently in best possible manner to protesters in Manipur with dignity. But what lady protester did is shameful. <br />\n<br />\n&gt; What did the woman do in return? She climbed into his Army vehicle and tore his uniform. Yet, despite the provocation, he did not raise a hand against her, something he could easily have done but chose not to. <br />\n<br />\n&gt; What followed was action by troops to disperse militant sponsored Mob blocking army vehicles. <br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23manipur\">#manipur</a></p>\n<a href=\"https://nitter.net/Dig_raw21/status/2063610635695350172#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063610524848254976%2Fimg%2FQnRSXBv6-ax71pZ3.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Dig_raw21/status/2063610635695350172#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063610524873392128%2Fimg%2FQ6m8u7ULUuLQmXvs.jpg\" />\n</a>",
-      "author": "@Dig_raw21"
     },
     {
       "title": "R to @alpha_defense: What chief actually said",
@@ -1844,16 +1882,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "The Truth Stings Hard: Pak State Media Attacks JAAC Leader for Calling Pak Army a \"Foreign Force\"\n\nPak media is crying foul because Umar Nazeer Kashmiri (JAAC leader) finally said the quiet part out loud. Labeling the Pakistan Army a 'foreign force' has hit a nerve in the power corridors. Instead of addressing the JAAC\u2019s legitimate economic and structural demands, the state is once again playing the 'national security' card to justify a brutal crackdown and comparing everything with India.",
-      "link": "https://nitter.net/OsintTV/status/2063596041375510564#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-07T17:46:50+05:30",
-      "time": "07 Jun, 05:46 PM",
-      "type": "tweets",
-      "content": "<p>The Truth Stings Hard: Pak State Media Attacks JAAC Leader for Calling Pak Army a \"Foreign Force\"<br />\n<br />\nPak media is crying foul because Umar Nazeer Kashmiri (JAAC leader) finally said the quiet part out loud. Labeling the Pakistan Army a 'foreign force' has hit a nerve in the power corridors. Instead of addressing the JAAC\u2019s legitimate economic and structural demands, the state is once again playing the 'national security' card to justify a brutal crackdown and comparing everything with India.</p>\n<a href=\"https://nitter.net/OsintTV/status/2063596041375510564#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2063595941400096768%2Fimg%2FBlViwv10zqR-TjPg.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "India has a uniquely wired media. During development, every issue flagged in trials is reported as a setback, delay, or failure.\n\nElsewhere, the same process is called what it actually is: design refinement.\n\nCertain media outlet says \u201cThe Zorawar\u2019s issues being identified and will be fixed before induction and I am like \ud83e\udd26",
       "link": "https://nitter.net/alpha_defense/status/2063595703579169145#m",
       "source": "Alpha Defense",
@@ -1861,26 +1889,6 @@
       "time": "07 Jun, 05:45 PM",
       "type": "tweets",
       "content": "<p>India has a uniquely wired media. During development, every issue flagged in trials is reported as a setback, delay, or failure.<br />\n<br />\nElsewhere, the same process is called what it actually is: design refinement.<br />\n<br />\nCertain media outlet says \u201cThe Zorawar\u2019s issues being identified and will be fixed before induction and I am like \ud83e\udd26</p>\n<img src=\"https://nitter.net/pic/media%2FHKNdWjTbsAAUqTr.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "The Pakistani Army thought suspending internet would not let the visuals of population of POJK thrashing the Pakistani security forces out.\n\nWell well well \ud83d\ude43",
-      "link": "https://nitter.net/elitepredatorss/status/2063573224743727472#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-07T16:16:10+05:30",
-      "time": "07 Jun, 04:16 PM",
-      "type": "tweets",
-      "content": "<p>The Pakistani Army thought suspending internet would not let the visuals of population of POJK thrashing the Pakistani security forces out.<br />\n<br />\nWell well well \ud83d\ude43</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2063573224743727472#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063573100655259648%2Fpu%2Fimg%2F5fhHNxbviobZdwcv.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/elitepredatorss/status/2063573224743727472#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063573117835128832%2Fpu%2Fimg%2FZVYBGaNApYApFa9K.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "As a kid I read a chacha Chaudhry story \nIt said :\nA thief was caught and given a choice:\nEither eat 100 onions or receive 100 shoe-beatings (sau jute).\n\nThinking onions are easier, he starts eating them. After a few onions, the burning becomes unbearable, so he switches to shoe-beatings.\n\nAfter a few shoe-beatings, he finds those even worse and switches back to onions.\n\nHe keeps changing his mind until, in the end, he has eaten all 100 onions and received all 100 shoe-beatings.\n\nMoral : Failure to commit to a difficult choice makes things worse.",
-      "link": "https://nitter.net/alpha_defense/status/2063542295618789460#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-07T14:13:16+05:30",
-      "time": "07 Jun, 02:13 PM",
-      "type": "tweets",
-      "content": "<p>As a kid I read a chacha Chaudhry story <br />\nIt said :<br />\nA thief was caught and given a choice:<br />\nEither eat 100 onions or receive 100 shoe-beatings (sau jute).<br />\n<br />\nThinking onions are easier, he starts eating them. After a few onions, the burning becomes unbearable, so he switches to shoe-beatings.<br />\n<br />\nAfter a few shoe-beatings, he finds those even worse and switches back to onions.<br />\n<br />\nHe keeps changing his mind until, in the end, he has eaten all 100 onions and received all 100 shoe-beatings.<br />\n<br />\nMoral : Failure to commit to a difficult choice makes things worse.</p>\n<img src=\"https://nitter.net/pic/media%2FHKMsxvTbAAAolGf.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKMsxvNacAAXT04.jpg\" />",
       "author": "@alpha_defense"
     },
     {
@@ -1906,6 +1914,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "10:24 AM IST"
   }
 }
