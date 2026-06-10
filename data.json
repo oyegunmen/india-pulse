@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Jordanian military intercepts 5 Iranian missiles amid sharp US-Tehran escalation in Gulf",
+      "link": "https://economictimes.indiatimes.com/news/defence/jordanian-military-intercepts-iranian-missiles-amid-rising-us-iran-tensions-in-gulf-region/articleshow/131624999.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-10T10:20:09+05:30",
+      "time": "10 Jun, 10:20 AM",
+      "type": "news",
+      "description": "Jordan's air defence systems intercepted multiple projectiles launched from Iran. Iran claimed to have destroyed hangars housing F-35 jets and targete..."
+    },
+    {
+      "title": "EAM Dr S Jaishankar extends National Day greetings to Portugal",
+      "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-extends-national-day-greetings-to-portugal/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-10T10:19:46+05:30",
+      "time": "10 Jun, 10:19 AM",
+      "type": "news",
+      "description": "External Affairs Minister Dr S Jaishankar has extended greetings to the people of Portugal and his counterpart Paulo Rangel on the occasion of the cou..."
+    },
+    {
+      "title": "11 children killed in Pakistani attack in 3 Afghan provinces, alleges Taliban",
+      "link": "https://indianexpress.com/article/world/pakistan-airstrikes-afghanistan-children-killed-taliban-10732385/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-10T09:59:11+05:30",
+      "time": "10 Jun, 09:59 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US blocks Pakistan-China bid to blacklist BLA, Majeed Brigade at UNSC",
+      "link": "https://www.newindianexpress.com/world/2026/Jun/10/us-blocks-pakistan-china-bid-to-blacklist-bla-majeed-brigade-at-unsc",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-10T09:48:59+05:30",
+      "time": "10 Jun, 09:48 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "YC assault case: Ex-CM\u2019s five security personnel get bail",
+      "link": "https://www.newindianexpress.com/states/kerala/2026/Jun/10/yc-assault-case-ex-cms-five-security-personnel-get-bail",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-10T08:55:58+05:30",
+      "time": "10 Jun, 08:55 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Pakistani airstrikes in Afghanistan kill at least 13 people, including children",
       "link": "https://economictimes.indiatimes.com/news/defence/pakistani-airstrikes-in-afghanistan-kill-at-least-13-people-including-children/articleshow/131623348.cms",
       "source": "Economic Times",
@@ -190,15 +235,6 @@
       "description": "<p>Fourteen Kuki individuals who were abducted in Manipur\u2019s Senapati district nearly a month ago were released on Tuesday following sustained efforts ..."
     },
     {
-      "title": "PoK bloodshed: India urges global community to hold Pakistan accountable",
-      "link": "https://www.tribuneindia.com/news/india/india-urges-global-community-to-hold-pakistan-accountable-after-deadly-pok-violence",
-      "source": "The Tribune",
-      "sort_key": "2026-06-09T18:40:27+05:30",
-      "time": "09 Jun, 06:40 PM",
-      "type": "news",
-      "description": "India on Tuesday called on the international community to hold Pakistan accountable for its &#8220;misdeeds and abuses&#8221; in Pakistan-occupied Kas..."
-    },
-    {
       "title": "\u201cDesert Harmony\u201d Showcases Deepening India\u2013Saudi Cultural Engagement",
       "link": "https://newsonair.gov.in/desert-harmony-showcases-deepening-india-saudi-cultural-engagement/",
       "source": "All India Radio",
@@ -325,15 +361,6 @@
       "description": "Embraer is partnering with Indian companies for local manufacturing and maintenance. This collaboration aims to boost India&#039;s aerospace capabilit..."
     },
     {
-      "title": "NIA raids in Punjab, Haryana to probe terror-gangster nexus cases linked to Pak-based terrorist Shahzad Bhatti",
-      "link": "https://www.indiatvnews.com/news/india/nia-raids-in-punjab-haryana-to-probe-terror-gangster-nexus-cases-linked-to-pakistan-based-terrorist-shahzad-bhatti-latest-updates-2026-06-09-1044180",
-      "source": "India TV",
-      "sort_key": "2026-06-09T15:38:42+05:30",
-      "time": "09 Jun, 03:38 PM",
-      "type": "news",
-      "description": "The National Investigation Agency (NIA) on Tuesday (June 9) searched multiple locations in Punjab and Haryana in connection with three terror-gangster..."
-    },
-    {
       "title": "Geopolitical shifts to boost indigenous tech, five-fold jump in job creation in defence sector: Survey",
       "link": "https://economictimes.indiatimes.com/news/defence/geopolitical-shifts-to-boost-indigenous-tech-five-fold-jump-in-job-creation-in-defence-sector-survey/articleshow/131607216.cms",
       "source": "Economic Times",
@@ -368,15 +395,6 @@
       "time": "09 Jun, 02:10 PM",
       "type": "news",
       "description": "Primarily, it offers immense advantages for defence purposes, providing an all-weather route that allows for year-round movement. It is also crucial f..."
-    },
-    {
-      "title": "UN Chief Guterres expresses concern over renewed escalation in West Asia",
-      "link": "https://newsonair.gov.in/un-chief-guterres-expresses-concern-over-renewed-escalation-in-west-asia/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-09T13:57:19+05:30",
-      "time": "09 Jun, 01:57 PM",
-      "type": "news",
-      "description": "United Nations Secretary-General Antonio Guterres has expressed deep concerns over the renewed escalation in West Asia. Mr. Guterres urged all stakeho..."
     },
     {
       "title": "Defence Ministry clears 250 MW solar project with battery storage in Uttar Pradesh's Sitapur",
@@ -809,27 +827,49 @@
       "time": "08 Jun, 11:25 AM",
       "type": "news",
       "description": "The project involves manufacturing 155 mm artillery shell bodies, a key ammunition component requiring specialised metallurgy and precision engineerin..."
-    },
-    {
-      "title": "West Asia War: Hormuz strait will be open but with transit fees, Iran envoy to Moscow quoted",
-      "link": "https://economictimes.indiatimes.com/news/defence/west-asia-war-hormuz-strait-will-be-open-but-with-transit-fees-iran-envoy-to-moscow-quoted/articleshow/131578692.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-08T10:19:19+05:30",
-      "time": "08 Jun, 10:19 AM",
-      "type": "news",
-      "description": "Iran and Oman will control passage through the Strait of Hormuz. New conditions, including transit fees, will be implemented. This follows disruptions..."
-    },
-    {
-      "title": "India-Pakistan held 3 rounds of Track II talks after Op Sindoor with focus on conflict management",
-      "link": "https://theprint.in/diplomacy/india-pakistan-held-3-rounds-of-track-ii-talks-after-op-sindoor-with-focus-on-conflict-management/2953242/",
-      "source": "The Print",
-      "sort_key": "2026-06-08T09:48:25+05:30",
-      "time": "08 Jun, 09:48 AM",
-      "type": "news",
-      "description": "EXCLUSIVE &#124; Track II diplomacy between the two sides has shifted gears post Op Sindoor, with more structured discussions focused on conflict mana..."
     }
   ],
   "tweets": [
+    {
+      "title": "Afghan govt says Pakistan has conducted \"war crime\", killing civilians including children by attacking border provinces.",
+      "link": "https://nitter.net/sidhant/status/2064569031345295468#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-10T10:13:09+05:30",
+      "time": "10 Jun, 10:13 AM",
+      "type": "tweets",
+      "content": "<p>Afghan govt says Pakistan has conducted \"war crime\", killing civilians including children by attacking border provinces.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Afghan govt says Pakistan attacked civilians in bordering provinces killing children, women.",
+      "link": "https://nitter.net/sidhant/status/2064559705981419618#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-10T09:36:06+05:30",
+      "time": "10 Jun, 09:36 AM",
+      "type": "tweets",
+      "content": "<p>Afghan govt says Pakistan attacked civilians in bordering provinces killing children, women.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India's new high commissioner to UK P Kumaran @Kumaran49604795 presents credentials to British King",
+      "link": "https://nitter.net/sidhant/status/2064559345560678521#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-10T09:34:40+05:30",
+      "time": "10 Jun, 09:34 AM",
+      "type": "tweets",
+      "content": "<p>India's new high commissioner to UK P Kumaran <a href=\"https://nitter.net/Kumaran49604795\" title=\"Kumaran P\">@Kumaran49604795</a> presents credentials to British King</p>\n<img src=\"https://nitter.net/pic/media%2FHKbJxvqacAAquUk.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: I extend my warm congratulations to Prime Minister @narendramodi on becoming the longest-serving elected Prime Minister in the history of India. Sri Lanka values our close partnership and looks forward to further strengthening the enduring ties between our two nations.",
+      "link": "https://nitter.net/anuradisanayake/status/2064557443204685890#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-10T09:27:06+05:30",
+      "time": "10 Jun, 09:27 AM",
+      "type": "tweets",
+      "content": "<p>I extend my warm congratulations to Prime Minister <a href=\"https://nitter.net/narendramodi\" title=\"Narendra Modi\">@narendramodi</a> on becoming the longest-serving elected Prime Minister in the history of India. Sri Lanka values our close partnership and looks forward to further strengthening the enduring ties between our two nations.</p>",
+      "author": "@anuradisanayake"
+    },
     {
       "title": "PM Modi and President Trump could meet next week on the sidelines of G7 Summit\n\nDetails:\nhttps://www.wionews.com/india-news/pm-modi-and-president-trump-could-meet-next-week-on-the-sidelines-of-g7-summit-1781037600662",
       "link": "https://nitter.net/sidhant/status/2064546803316666820#m",
@@ -1211,24 +1251,14 @@
       "author": "@sidhant"
     },
     {
-      "title": "Papua New Guinea PM James Marape extends congratulations to PM Modi for longest continuously serving PM of India; Says, \"you are respected senior leader of global south\"",
-      "link": "https://nitter.net/sidhant/status/2064333695092421020#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-09T18:38:01+05:30",
-      "time": "09 Jun, 06:38 PM",
+      "title": "RT by @OsintTV: \ud83d\udea8 BLOOD ON THE STREETS: The Systematic Massacre in PoJK\n\n* A horrifying crackdown is unfolding in Pakistan-occupied Jammu & Kashmir PoJK as state forces unleash violence on their own citizens\n\n\ud83d\udccd The Human Toll: 15+ civilians killed (with reports of many children and women among the dead)\n\n * 70+ injured, 100+ arrested in a brutal military-style operation.\n\n\ud83d\udccd State Repression: ~14,000 security personnel imported from mainland Pakistan to crush peaceful civic protests.\n\n * An ongoing communications blackout imposed to conceal atrocities.\n\n * The Pakistan Army allegedly executed Sub-Inspector Sardar Inayat for refusing to fire on unarmed civilians.\n\n\ud83d\udccd A Historic Turning Point: In a massive shift, Kashmiri protesters in London moved their protest from the Indian Embassy to the Pakistan High Commission to hold absentee funeral prayers for the martyrs of this massacre.\n\n * Public anger is peaking, with protesters in Mang stripping and auctioning the uniforms of captured army personnel\n\n\ud83d\udea8Alert : Viewers Discretion Advised\nDetails : Open source",
+      "link": "https://nitter.net/OsintTV/status/2064330676594192425#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-09T18:26:01+05:30",
+      "time": "09 Jun, 06:26 PM",
       "type": "tweets",
-      "content": "<p>Papua New Guinea PM James Marape extends congratulations to PM Modi for longest continuously serving PM of India; Says, \"you are respected senior leader of global south\"</p>\n<a href=\"https://nitter.net/sidhant/status/2064333695092421020#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064333343064535040%2Fpu%2Fimg%2FWs78BaQH4_3qvHxE.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Assam launches 'Blue Valley Cluster' with EU to boost flavours, fragrances, AYUSH & food processing via innovation, investment & India-Europe value chains.",
-      "link": "https://nitter.net/sidhant/status/2064330410465939912#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-09T18:24:57+05:30",
-      "time": "09 Jun, 06:24 PM",
-      "type": "tweets",
-      "content": "<p>Assam launches 'Blue Valley Cluster' with EU to boost flavours, fragrances, AYUSH &amp; food processing via innovation, investment &amp; India-Europe value chains.</p>\n<img src=\"https://nitter.net/pic/media%2FHKX5jRgakAA0h47.jpg\" />",
-      "author": "@sidhant"
+      "content": "<p>\ud83d\udea8 BLOOD ON THE STREETS: The Systematic Massacre in PoJK<br />\n<br />\n* A horrifying crackdown is unfolding in Pakistan-occupied Jammu & Kashmir PoJK as state forces unleash violence on their own citizens<br />\n<br />\n\ud83d\udccd The Human Toll: 15+ civilians killed (with reports of many children and women among the dead)<br />\n<br />\n * 70+ injured, 100+ arrested in a brutal military-style operation.<br />\n<br />\n\ud83d\udccd State Repression: ~14,000 security personnel imported from mainland Pakistan to crush peaceful civic protests.<br />\n<br />\n * An ongoing communications blackout imposed to conceal atrocities.<br />\n<br />\n * The Pakistan Army allegedly executed Sub-Inspector Sardar Inayat for refusing to fire on unarmed civilians.<br />\n<br />\n\ud83d\udccd A Historic Turning Point: In a massive shift, Kashmiri protesters in London moved their protest from the Indian Embassy to the Pakistan High Commission to hold absentee funeral prayers for the martyrs of this massacre.<br />\n<br />\n * Public anger is peaking, with protesters in Mang stripping and auctioning the uniforms of captured army personnel<br />\n<br />\n\ud83d\udea8Alert : Viewers Discretion Advised<br />\nDetails : Open source</p>\n<a href=\"https://nitter.net/OsintTV/status/2064330676594192425#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064330486281859072%2Fimg%2FUK9aRimBFAF-MDio.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "RT by @Goreunit: BREAKING!!\nPakistani army has opened fire with AK47 on protesters in Pallandari too!!\nAt least six people are critically injured.\nAsim Munir has made pakistan a failed military totalitarian regime..",
@@ -1241,16 +1271,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Lakshmanan Ramesh Babu appointed as the next Ambassador of India to C\u00f4te d'Ivoire",
-      "link": "https://nitter.net/sidhant/status/2064328746564546716#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-09T18:18:21+05:30",
-      "time": "09 Jun, 06:18 PM",
-      "type": "tweets",
-      "content": "<p>Lakshmanan Ramesh Babu appointed as the next Ambassador of India to C\u00f4te d'Ivoire</p>\n<img src=\"https://nitter.net/pic/media%2FHKX4CnzasAA3r5e.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "Shaukat Nawaz Mir, member of Joint Awami Action Comittee : \"Orders have been issued open direct fire at the members of Awami Action committee members wherever they are seen. They've declared all the protestors as terrorists and massacred people in Rawalakot\"",
       "link": "https://nitter.net/Goreunit/status/2064325267011801299#m",
       "source": "War & Gore",
@@ -1259,16 +1279,6 @@
       "type": "tweets",
       "content": "<p>Shaukat Nawaz Mir, member of Joint Awami Action Comittee : \"Orders have been issued open direct fire at the members of Awami Action committee members wherever they are seen. They've declared all the protestors as terrorists and massacred people in Rawalakot\"</p>\n<a href=\"https://nitter.net/Goreunit/status/2064325267011801299#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064324203306975232%2Fpu%2Fimg%2FGrPod0PehPzfKvMT.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>POJK PROTESTS:<br />\n<br />\nKashmiris from Bhimber are heading towards Rawalakot to protest against the Pakistani occupation Regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064232405247172626#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064232270588973057%2Fpu%2Fimg%2F5xf_zX-ZrN0ROpB0.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064232405247172626#m\">https://nitter.net/Goreunit/status/2064232405247172626#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "EAM Dr Jaishankar to visit Bulgaria,  Finland:",
-      "link": "https://nitter.net/sidhant/status/2064320485878636950#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-09T17:45:31+05:30",
-      "time": "09 Jun, 05:45 PM",
-      "type": "tweets",
-      "content": "<p>EAM Dr Jaishankar to visit Bulgaria,  Finland:</p>\n<img src=\"https://nitter.net/pic/media%2FHKXwiKOa8AAf27v.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Human Rights Violations by Pakistani Forces in PoK\n\nReports indicate a major crackdown in PoK, with over 30 people reportedly killed, 200 injured, and more than 500 arrested, including children. Some unofficial sources claim the death toll could be significantly higher, with allegations of over 400 civilian deaths. Independent verification of these figures remains limited.",
@@ -1751,16 +1761,6 @@
       "author": "@ThatArticleGuy"
     },
     {
-      "title": "Innocent protestors are being massacred by occupying pakistani forces in PoK.\nInternational Media and organisations need to wake up and call our Pakistani Establishment and Military's tyranny!!\n@UNHumanRights @UN_HRC @Reuters @EURightsAgency @BBCWorld",
-      "link": "https://nitter.net/Goreunit/status/2063978469432926278#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-08T19:06:28+05:30",
-      "time": "08 Jun, 07:06 PM",
-      "type": "tweets",
-      "content": "<p>Innocent protestors are being massacred by occupying pakistani forces in PoK.<br />\nInternational Media and organisations need to wake up and call our Pakistani Establishment and Military's tyranny!!<br />\n<a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2063978469432926278#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063977992729341952%2Fpu%2Fimg%2FYMI9BIeWcVBTdTBf.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2063978469432926278#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063978324972777472%2Fpu%2Fimg%2F-VLhAlxecwMPCFRR.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2063978469432926278#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063978350381768704%2Fpu%2Fimg%2FLHoX1mlFQkSsfx9N.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>This video depicts the reality of police in POJK. Local police are the cannon fodder of NaPak regime. <br />\nIn Video, protestors can be seen chasing the police personnel.</p>\n<a href=\"https://nitter.net/Goreunit/status/2063955082077765766#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063955041804058625%2Fpu%2Fimg%2Fl3ebnzfL3E9OOAlG.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2063955082077765766#m\">https://nitter.net/Goreunit/status/2063955082077765766#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "R to @Goreunit: Correction: 26\u00d7 died in Rawalakot...",
       "link": "https://nitter.net/Goreunit/status/2063976608835510751#m",
       "source": "War & Gore",
@@ -1943,6 +1943,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "10:24 AM IST"
   }
 }
