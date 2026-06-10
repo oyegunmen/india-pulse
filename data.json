@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Pak army plane crashes in POJK; all on board killed",
+      "link": "https://newsonair.gov.in/pak-army-plane-crashes-in-pojk-all-on-board-killed/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-10T19:21:01+05:30",
+      "time": "10 Jun, 07:21 PM",
+      "type": "news",
+      "description": "A Pakistan Army Aviation Mi-17 helicopter crashed near Muzaffarabad in Pakistan-occupied Jammu and Kashmir during take-off today, reportedly due to a ..."
+    },
+    {
+      "title": "ICEYE leads a new era of sovereign intelligence from space with \u20ac1B funding round",
+      "link": "https://www.indiastrategic.in/iceye-leads-a-new-era-of-sovereign-intelligence-from-space-with-e1b-funding-round/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-10T18:25:36+05:30",
+      "time": "10 Jun, 06:25 PM",
+      "type": "news",
+      "description": "<p>Helsinki, Finland, June 9, 2026. ICEYE, the world leader in sovereign intelligence from space, has raised EUR 450 million (USD 520 million) in a pr..."
+    },
+    {
       "title": "CSIR\u2019s Indigenously Designed and Developed HANSA-3(NG) Trainer Aircraft Signifies Giant Leap for Creating India\u2019s Robust Aviation Ecosystem",
       "link": "https://www.indiastrategic.in/csirs-indigenously-designed-and-developed-hansa-3ng-trainer-aircraft-signifies-giant-leap-for-creating-indias-robust-aviation-ecosystem/",
       "source": "India Strategic",
@@ -8,6 +26,15 @@
       "time": "10 Jun, 06:16 PM",
       "type": "news",
       "description": "<p>By R Anil Kumar Huge Opportunity for Startups and MSMEs; Potential for Employment Generation through Indigenization of Technologies Democratization..."
+    },
+    {
+      "title": "Delhi HC grants bail to activist Khurram Parvez in terror conspiracy case, citing  slow trial proceedings",
+      "link": "https://www.newindianexpress.com/states/delhi/2026/Jun/10/delhi-hc-grants-bail-to-activist-khurram-parvez-in-terror-conspiracy-case-citing-slow-trial-proceedings",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-10T18:15:07+05:30",
+      "time": "10 Jun, 06:15 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "IIRIS Consulting launches Maroof Raza Centre for Security Studies",
@@ -151,7 +178,7 @@
       "sort_key": "2026-06-10T16:43:51+05:30",
       "time": "10 Jun, 04:43 PM",
       "type": "news",
-      "description": "US Ambassador to India Sergio Gor and Israeli envoy Reuven Azar today congratulated Prime Minister Narendra Modi on becoming India&#8217;s longest ser..."
+      "description": "Wishes are pouring in from across the world as PM Narendra Modi has become India\u2019s longest-serving elected Prime Minister. European Commission Preside..."
     },
     {
       "title": "Trump says Iran's military 'completely defeated', warns Tehran will 'pay the price'",
@@ -280,15 +307,6 @@
       "description": "China and Taiwan are in a dispute over Chinese coast guard patrols near Taiwan's waters. Taiwan claims these patrols are harassing merchant ships. Chi..."
     },
     {
-      "title": "US Ambassador to India Sergio Gor congratulates PM Modi on becoming longest-serving elected PM",
-      "link": "https://newsonair.gov.in/us-ambassador-to-india-sergio-gor-congratulates-pm-modi-on-becoming-longest-serving-elected-pm/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-10T12:32:38+05:30",
-      "time": "10 Jun, 12:32 PM",
-      "type": "news",
-      "description": "United States Ambassador to India Sergio Gor today congratulated Prime Minister Narendra Modi on becoming the country\u2019s longest-serving elected Prime ..."
-    },
-    {
       "title": "J-K: Army chief reviews ops preparedness, modernisation initiatives at Northern Command",
       "link": "https://economictimes.indiatimes.com/news/defence/army-chief-reviews-operational-preparedness-and-modernization-at-j-ks-northern-command/articleshow/131627724.cms",
       "source": "Economic Times",
@@ -341,15 +359,6 @@
       "time": "10 Jun, 11:01 AM",
       "type": "news",
       "description": "The Indian Army plans to procure over 300 K9 Vajra-T self-propelled howitzers, estimated at Rs 23,000 crore, to boost artillery capabilities amid secu..."
-    },
-    {
-      "title": "Rajnath Singh approves 250 MW solar project on defence land in UP",
-      "link": "https://www.indiastrategic.in/rajnath-singh-approves-250-mw-solar-project-on-defence-land-in-up/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-10T10:51:52+05:30",
-      "time": "10 Jun, 10:51 AM",
-      "type": "news",
-      "description": "<p>New Delhi, June 9. In a significant move aimed at strengthening energy security and expanding the use of renewable energy, Defence Minister Rajnath..."
     },
     {
       "title": "Iran says Gulf nations have 'responsibility' to halt US, Israeli strikes",
@@ -802,15 +811,6 @@
       "description": "\"The IDF will continue to operate in Lebanon against the terrorist organisation Hezbollah,\" Katz said in a statement"
     },
     {
-      "title": "Rajnath\u2019s stern message to HAL\u2014stick to your commitment, don\u2019t overpromise",
-      "link": "https://theprint.in/defence/rajnaths-stern-message-to-hal-stick-to-your-commitment-dont-overpromise/2954362/",
-      "source": "The Print",
-      "sort_key": "2026-06-08T20:16:22+05:30",
-      "time": "08 Jun, 08:16 PM",
-      "type": "news",
-      "description": "Defence minister helmed a review meeting of HAL projects which was attended by CDS Gen N S Raja Subramani, IAF chief Air Chief Marshal A P Singh, CMD ..."
-    },
-    {
       "title": "Defence ministry expects 24 Tejas Mk1A jets to be ready by end of year",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/defence-ministry-expects-24-tejas-mk1a-jets-to-be-ready-by-end-of-year/131590523",
       "source": "Economic Times",
@@ -818,27 +818,59 @@
       "time": "08 Jun, 07:54 PM",
       "type": "news",
       "description": "The programme has faced delays due to GE F414 engine supply issues from the US firm. The Tejas Mk1A is part of India\u2019s indigenous fighter aircraft dev..."
-    },
-    {
-      "title": "Iran halts military operations against Israel with a warning as Trump steps in: 5 updates",
-      "link": "https://indianexpress.com/article/world/us-iran-war-ceasefire-collapse-israel-missile-strikes-tel-aviv-donald-trump-10729936/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-08T19:01:14+05:30",
-      "time": "08 Jun, 07:01 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "India's Nuclear Arsenal Climbs to 190, Moving Past Pakistan as Country May Be Shifting to Peacetime Warhead Deployments",
-      "link": "https://www.republicworld.com/defence/india-s-nuclear-arsenal-climbs-to-190-moving-past-pakistan-as-country-may-be-shifting-to-peacetime-warhead-deployments-2026-06-08-127425",
-      "source": "Republic World",
-      "sort_key": "2026-06-08T18:44:46+05:30",
-      "time": "08 Jun, 06:44 PM",
-      "type": "news",
-      "description": "India\u2019s nuclear arsenal grows to 190 warheads as New Delhi advances its triad capabilities and shifts strategic focus toward China, according to the l..."
     }
   ],
   "tweets": [
+    {
+      "title": "A rare and auspicious picture of 'Om Parvat', received from someone special.... \ud83d\ude4f",
+      "link": "https://nitter.net/OsintTV/status/2064704805054922963#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-10T19:12:40+05:30",
+      "time": "10 Jun, 07:12 PM",
+      "type": "tweets",
+      "content": "<p>A rare and auspicious picture of 'Om Parvat', received from someone special.... \ud83d\ude4f</p>\n<img src=\"https://nitter.net/pic/media%2FHKdOCMSWkAAGWUF.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Clarification on inaccurate reporting by @timesofindia and @IndiaToday \n\n1\ufe0f\u20e3 The Indian Army has moved a proposal for an additional \u201c335 K9 Vajra-T Self-Propelled Howitzers.\u201d\n\n2\ufe0f\u20e3 The pricing figures quoted in the reports is way higher than the actual estimates.\n\nThere\u2019s more to this story. Keep an eye on this space as I am awaiting clearance to share further details.",
+      "link": "https://nitter.net/alpha_defense/status/2064703306199613484#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-10T19:06:43+05:30",
+      "time": "10 Jun, 07:06 PM",
+      "type": "tweets",
+      "content": "<p>Clarification on inaccurate reporting by <a href=\"https://nitter.net/timesofindia\" title=\"The Times Of India\">@timesofindia</a> and <a href=\"https://nitter.net/IndiaToday\" title=\"IndiaToday\">@IndiaToday</a> <br />\n<br />\n1\ufe0f\u20e3 The Indian Army has moved a proposal for an additional \u201c335 K9 Vajra-T Self-Propelled Howitzers.\u201d<br />\n<br />\n2\ufe0f\u20e3 The pricing figures quoted in the reports is way higher than the actual estimates.<br />\n<br />\nThere\u2019s more to this story. Keep an eye on this space as I am awaiting clearance to share further details.</p>\n<img src=\"https://nitter.net/pic/media%2FHKdMtkNbMAABrMS.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "\u2026.and they started messing up with ghost bat design.\n\nNew mods will give it \n\n\u2705 >25% larger wing\n\u2705 Increased fuel and payload capacity\n\u2705 Beyond Line of Sight capability\n\u2705 Internal weapons stations for greater mission configurability\n\nDown side \n\u274c lower endurance \n\u274c hot knife through butter viz a viz flying envelope",
+      "link": "https://nitter.net/alpha_defense/status/2064701166177378623#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-10T18:58:12+05:30",
+      "time": "10 Jun, 06:58 PM",
+      "type": "tweets",
+      "content": "<p>\u2026.and they started messing up with ghost bat design.<br />\n<br />\nNew mods will give it <br />\n<br />\n\u2705 &gt;25% larger wing<br />\n\u2705 Increased fuel and payload capacity<br />\n\u2705 Beyond Line of Sight capability<br />\n\u2705 Internal weapons stations for greater mission configurability<br />\n<br />\nDown side <br />\n\u274c lower endurance <br />\n\u274c hot knife through butter viz a viz flying envelope</p>\n<img src=\"https://nitter.net/pic/media%2FHKdKwwOaQAAAswf.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Rapidly evolving situation. Indian embassy in Oman confirms it is in touch with Oman over strike on a vessel in the region which had Indian nationals on board.",
+      "link": "https://nitter.net/sidhant/status/2064700241753063925#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-10T18:54:32+05:30",
+      "time": "10 Jun, 06:54 PM",
+      "type": "tweets",
+      "content": "<p>Rapidly evolving situation. Indian embassy in Oman confirms it is in touch with Oman over strike on a vessel in the region which had Indian nationals on board.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>BREAKING: Another Palau-flagged tanker tanker comes under strike off the coast of Oman; Indian crew onboard. Indian authorities in touch with Omani authorities; Initial reports suggest 2 missing. (nationality not known yet)</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2064685804870590512#m\">https://nitter.net/sidhant/status/2064685804870590512#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking\n\nIndian embassy in Oman\n\n\"We have learnt of an incident involving a vessel off the coast of Oman. We are closely monitoring the situation and in close touch with the local authorities. We shall update soon.\"",
+      "link": "https://nitter.net/sidhant/status/2064699988333248563#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-10T18:53:32+05:30",
+      "time": "10 Jun, 06:53 PM",
+      "type": "tweets",
+      "content": "<p>Breaking<br />\n<br />\nIndian embassy in Oman<br />\n<br />\n\"We have learnt of an incident involving a vessel off the coast of Oman. We are closely monitoring the situation and in close touch with the local authorities. We shall update soon.\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>BREAKING: Another Palau-flagged tanker tanker comes under strike off the coast of Oman; Indian crew onboard. Indian authorities in touch with Omani authorities; Initial reports suggest 2 missing. (nationality not known yet)</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2064685804870590512#m\">https://nitter.net/sidhant/status/2064685804870590512#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "From UK MTO:",
       "link": "https://nitter.net/sidhant/status/2064688190712320119#m",
@@ -1080,6 +1112,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "RT by @OsintTV: Constable Saifullah Qadri of J&K Police\u2019s Special Operations Group exemplified courage, dedication, and sacrifice in the fight against terrorism.\n\nOn 10 April 2022, acting on intelligence developed through his own efforts, he played a key role in an anti-terror operation that resulted in the elimination of two hardcore terrorists. Undeterred by danger, he continued to work relentlessly against terrorist networks.\n\nOn 24 May 2022, while pursuing terrorists based on fresh intelligence inputs, Constable Qadri covertly tracked their movements to ensure their neutralisation. During the operation, he came under terrorist fire and made the supreme sacrifice in the line of duty.\n\nHis commitment, exceptional bravery, and selfless service to the nation stand as an inspiration to every police officer and citizen. In recognition of his conspicuous gallantry and devotion to duty, Constable Saifullah Qadri was posthumously awarded the Shaurya Chakra.\n\nSalute to the braveheart. His sacrifice will never be forgotten.",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2064620308175491366#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-10T13:36:54+05:30",
+      "time": "10 Jun, 01:36 PM",
+      "type": "tweets",
+      "content": "<p>Constable Saifullah Qadri of J&amp;K Police\u2019s Special Operations Group exemplified courage, dedication, and sacrifice in the fight against terrorism.<br />\n<br />\nOn 10 April 2022, acting on intelligence developed through his own efforts, he played a key role in an anti-terror operation that resulted in the elimination of two hardcore terrorists. Undeterred by danger, he continued to work relentlessly against terrorist networks.<br />\n<br />\nOn 24 May 2022, while pursuing terrorists based on fresh intelligence inputs, Constable Qadri covertly tracked their movements to ensure their neutralisation. During the operation, he came under terrorist fire and made the supreme sacrifice in the line of duty.<br />\n<br />\nHis commitment, exceptional bravery, and selfless service to the nation stand as an inspiration to every police officer and citizen. In recognition of his conspicuous gallantry and devotion to duty, Constable Saifullah Qadri was posthumously awarded the Shaurya Chakra.<br />\n<br />\nSalute to the braveheart. His sacrifice will never be forgotten.</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2064620308175491366#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064620238684237824%2Fimg%2FShCvIJiYbgWiY85z.jpg\" />\n</a>",
+      "author": "@MikeLimaBravo12"
+    },
+    {
       "title": "India has effectively frozen final commercial approvals for Elon Musk's Starlink over national security concerns stemming from the alleged use of its satellite terminals in the ongoing Iran conflict. \n\nSecurity agencies under the Ministry of Home Affairs are assessing risks associated with a US-controlled provider before granting clearance to operate.",
       "link": "https://nitter.net/NetramDefence/status/2064616476904997051#m",
       "source": "Netram Defense",
@@ -1108,6 +1150,16 @@
       "type": "tweets",
       "content": "<p>Union Cabinet passes resolution hailing Narendra Modi as India's longest-serving elected Prime Minister for consecutive terms, with ministers giving him a standing ovation.</p>\n<img src=\"https://nitter.net/pic/media%2FHKb8Af-bEAAYeOZ.jpg\" />",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT by @OsintTV: This year\u2019s Passing Out Parade at the Indian Military Academy is set to create history. For the first time, women cadets will pass out together from the academy as commissioned officers. Be sure to watch this historic event on June 13. @indiatvnews @adgpi >@PRODefDehradun @artrac_ia \n#IndianArmy \n#IMA",
+      "link": "https://nitter.net/manishindiatv/status/2064578136571019370#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-10T10:49:20+05:30",
+      "time": "10 Jun, 10:49 AM",
+      "type": "tweets",
+      "content": "<p>This year\u2019s Passing Out Parade at the Indian Military Academy is set to create history. For the first time, women cadets will pass out together from the academy as commissioned officers. Be sure to watch this historic event on June 13. <a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a> <a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/PRODefDehradun\" title=\"PRO &amp; Spokesperson, MoD, Dehradun Region\">@PRODefDehradun</a> <a href=\"https://nitter.net/artrac_ia\" title=\"Army Training Command, Indian Army\">@artrac_ia</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IMA\">#IMA</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKba3mBasAA329g.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKba3mCa4AAkh9W.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKba3l-asAA_yV3.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKba3l4agAA-lpA.jpg\" />",
+      "author": "@manishindiatv"
     },
     {
       "title": "R to @NetramDefence: 15/ \n\nAs PM Modi enters this historic milestone, the defence sector stands as one of the more tangible examples of long-term structural change, imperfect and work-in-progress, but firmly set on the path toward making India a stronger, more self-reliant, and respected global power.",
@@ -1286,7 +1338,7 @@
       "sort_key": "2026-06-10T10:13:09+05:30",
       "time": "10 Jun, 10:13 AM",
       "type": "tweets",
-      "content": "<p>Afghan govt says Pakistan has conducted \"war crime\", killing civilians including children by attacking border provinces.</p>",
+      "content": "<p>Afghan govt says Pakistan has conducted \"war crime\", killing civilians including children by attacking border provinces.</p>\n<hr />\n<blockquote>\n<b>Hamdullah Fitrat\u062d\u0645\u062f\u0627\u0644\u0644\u0647 \u0641\u0637\u0631\u062a (@FitratHamd)</b>\n<p>\n<p>War Crime:<br />\nLast night, the Pakistani military once again violated Afghanistan's airspace and bombed civilian homes in the provinces of Kunar, Khost, and Paktika.<br />\nAs a result of these attacks, 11 children, one woman, and one elderly man were killed, while 14 other women <br />\nand children were injured.<br />\nWe strongly condemn this humanitarian crime and act of aggression.</p>\n<img src=\"https://nitter.net/pic/media%2FHKbHykMWAAAJ7zX.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKbHykDX0AET6FX.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKbHykSWkAAQ61S.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKbHykIWsAAFzVm.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/FitratHamd/status/2064557158675468606#m\">https://nitter.net/FitratHamd/status/2064557158675468606#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1328,26 +1380,6 @@
       "type": "tweets",
       "content": "<p>I extend my warm congratulations to Prime Minister <a href=\"https://nitter.net/narendramodi\" title=\"Narendra Modi\">@narendramodi</a> on becoming the longest-serving elected Prime Minister in the history of India. Sri Lanka values our close partnership and looks forward to further strengthening the enduring ties between our two nations.</p>",
       "author": "@anuradisanayake"
-    },
-    {
-      "title": "PM Modi and President Trump could meet next week on the sidelines of G7 Summit\n\nDetails:\nhttps://www.wionews.com/india-news/pm-modi-and-president-trump-could-meet-next-week-on-the-sidelines-of-g7-summit-1781037600662",
-      "link": "https://nitter.net/sidhant/status/2064546803316666820#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-10T08:44:49+05:30",
-      "time": "10 Jun, 08:44 AM",
-      "type": "tweets",
-      "content": "<p>PM Modi and President Trump could meet next week on the sidelines of G7 Summit<br />\n<br />\nDetails:<br />\n<a href=\"https://www.wionews.com/india-news/pm-modi-and-president-trump-could-meet-next-week-on-the-sidelines-of-g7-summit-1781037600662\">wionews.com/india-news/pm-mo\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2064530939301228544%2FTW3TvKHt%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\"Malaysia values its close and longstanding friendship with India,\", Malaysia PM Anwar extends congratulations to PM Modi for becoming the longest continuously serving PM of India.\n\nOvernight, several US Lawmakers have also extended congratulations.",
-      "link": "https://nitter.net/sidhant/status/2064533342784299449#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-10T07:51:20+05:30",
-      "time": "10 Jun, 07:51 AM",
-      "type": "tweets",
-      "content": "<p>\"Malaysia values its close and longstanding friendship with India,\", Malaysia PM Anwar extends congratulations to PM Modi for becoming the longest continuously serving PM of India.<br />\n<br />\nOvernight, several US Lawmakers have also extended congratulations.</p>\n<hr />\n<blockquote>\n<b>Anwar Ibrahim (@anwaribrahim)</b>\n<p>\n<p>Heartiest congratulations to PM Modi on this historic milestone of becoming India\u2019s longest-serving elected Prime Minister. This achievement stands as a testament to his years of dedicated public service and leadership in advancing India\u2019s development, prosperity and standing on the global stage.<br />\n<br />\nMalaysia values its close and longstanding friendship with India, and I look forward to continuing our cooperation in strengthening bilateral ties and expanding opportunities for our peoples. I wish PM Modi continued success and the people of India continued peace, progress and prosperity.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23MalaysiaMADANI\">#MalaysiaMADANI</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23MADANIbekerja\">#MADANIbekerja</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23YakinMADANI\">#YakinMADANI</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKajWyCaMAA36lQ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/anwaribrahim/status/2064517097817018715#m\">https://nitter.net/anwaribrahim/status/2064517097817018715#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @sidhant: President @anuradisanayake has conveyed warm congratulations to Prime Minister @narendramodi on becoming the longest-serving elected Prime Minister in India's history. The message reaffirms \ud83c\uddf1\ud83c\uddf0's commitment to further strengthening the close and enduring partnership between \ud83c\uddf1\ud83c\uddf0\ud83e\udd1d\ud83c\uddee\ud83c\uddf3",
@@ -1490,6 +1522,16 @@
       "author": "@MikeLimaBravo12"
     },
     {
+      "title": "RT @OsintTV: \ud83d\udea8 BLOOD ON THE STREETS: The Systematic Massacre in PoJK\n\n* A horrifying crackdown is unfolding in Pakistan-occupied Jammu & Ka\u2026",
+      "link": "https://nitter.net/OsintTV/status/2064388343312396673#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-09T22:15:10+05:30",
+      "time": "09 Jun, 10:15 PM",
+      "type": "tweets",
+      "content": "<p>RT <a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a>: \ud83d\udea8 BLOOD ON THE STREETS: The Systematic Massacre in PoJK<br />\n<br />\n* A horrifying crackdown is unfolding in Pakistan-occupied Jammu &amp; Ka\u2026</p>",
+      "author": "@OsintTV"
+    },
+    {
       "title": "Pakistan is desperately trying to cover up its human rights abuses in Pakistan-occupied Kashmir: MEA",
       "link": "https://nitter.net/Goreunit/status/2064381212630855829#m",
       "source": "War & Gore",
@@ -1578,6 +1620,16 @@
       "type": "tweets",
       "content": "<p>Kalapani \ud83c\uddee\ud83c\uddf3<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKYC2rOagAEVj2h.jpg\" />",
       "author": "@manishindiatv"
+    },
+    {
+      "title": "\ud83d\udea8 BLOOD ON THE STREETS: The Systematic Massacre in PoJK\n\n* A horrifying crackdown is unfolding in Pakistan-occupied Jammu & Kashmir PoJK as state forces unleash violence on their own citizens\n\n\ud83d\udccd The Human Toll: 15+ civilians killed (with reports of many children and women among the dead)\n\n * 70+ injured, 100+ arrested in a brutal military-style operation.\n\n\ud83d\udccd State Repression: ~14,000 security personnel imported from mainland Pakistan to crush peaceful civic protests.\n\n * An ongoing communications blackout imposed to conceal atrocities.\n\n * The Pakistan Army allegedly executed Sub-Inspector Sardar Inayat for refusing to fire on unarmed civilians.\n\n\ud83d\udccd A Historic Turning Point: In a massive shift, Kashmiri protesters in London moved their protest from the Indian Embassy to the Pakistan High Commission to hold absentee funeral prayers for the martyrs of this massacre.\n\n * Public anger is peaking, with protesters in Mang stripping and auctioning the uniforms of captured army personnel\n\n\ud83d\udea8Alert : Viewers Discretion Advised\nDetails : Open source",
+      "link": "https://nitter.net/OsintTV/status/2064330676594192425#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-09T18:26:01+05:30",
+      "time": "09 Jun, 06:26 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 BLOOD ON THE STREETS: The Systematic Massacre in PoJK<br />\n<br />\n* A horrifying crackdown is unfolding in Pakistan-occupied Jammu & Kashmir PoJK as state forces unleash violence on their own citizens<br />\n<br />\n\ud83d\udccd The Human Toll: 15+ civilians killed (with reports of many children and women among the dead)<br />\n<br />\n * 70+ injured, 100+ arrested in a brutal military-style operation.<br />\n<br />\n\ud83d\udccd State Repression: ~14,000 security personnel imported from mainland Pakistan to crush peaceful civic protests.<br />\n<br />\n * An ongoing communications blackout imposed to conceal atrocities.<br />\n<br />\n * The Pakistan Army allegedly executed Sub-Inspector Sardar Inayat for refusing to fire on unarmed civilians.<br />\n<br />\n\ud83d\udccd A Historic Turning Point: In a massive shift, Kashmiri protesters in London moved their protest from the Indian Embassy to the Pakistan High Commission to hold absentee funeral prayers for the martyrs of this massacre.<br />\n<br />\n * Public anger is peaking, with protesters in Mang stripping and auctioning the uniforms of captured army personnel<br />\n<br />\n\ud83d\udea8Alert : Viewers Discretion Advised<br />\nDetails : Open source</p>\n<a href=\"https://nitter.net/OsintTV/status/2064330676594192425#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064330486281859072%2Fimg%2FUK9aRimBFAF-MDio.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "RT by @Goreunit: BREAKING!!\nPakistani army has opened fire with AK47 on protesters in Pallandari too!!\nAt least six people are critically injured.\nAsim Munir has made pakistan a failed military totalitarian regime..",
@@ -1850,26 +1902,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Best part as a French I could lay down conditions like \n\n1. You can assemble engine and call it MahaShakti \n2. Buy more Rafale F4 and later we can upgrade it with tech from FCAS (essentially making Rafale F4 as Sukhoi of next decade where super Sukhoi remains on paper forever (F5).",
-      "link": "https://nitter.net/alpha_defense/status/2064059618532458732#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-09T00:28:56+05:30",
-      "time": "09 Jun, 12:28 AM",
-      "type": "tweets",
-      "content": "<p>Best part as a French I could lay down conditions like <br />\n<br />\n1. You can assemble engine and call it MahaShakti <br />\n2. Buy more Rafale F4 and later we can upgrade it with tech from FCAS (essentially making Rafale F4 as Sukhoi of next decade where super Sukhoi remains on paper forever (F5).</p>\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>If I were French, I\u2019d be asking a simple question: why let FCAS die?<br />\n<br />\nEven without giving India a German-sized workshare, France could bring India in as a funding partner and future customer.</p>\n<img src=\"https://nitter.net/pic/media%2FHKT_tW3bsAAsGrp.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2064055692361891989#m\">https://nitter.net/alpha_defense/status/2064055692361891989#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "If I were French, I\u2019d be asking a simple question: why let FCAS die?\n\nEven without giving India a German-sized workshare, France could bring India in as a funding partner and future customer.",
-      "link": "https://nitter.net/alpha_defense/status/2064055692361891989#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-09T00:13:20+05:30",
-      "time": "09 Jun, 12:13 AM",
-      "type": "tweets",
-      "content": "<p>If I were French, I\u2019d be asking a simple question: why let FCAS die?<br />\n<br />\nEven without giving India a German-sized workshare, France could bring India in as a funding partner and future customer.</p>\n<img src=\"https://nitter.net/pic/media%2FHKT_tW3bsAAsGrp.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @Goreunit: At least 11 people were killed as police clashed with supporters of an outlawed group in Pakistan-administered Kashmir ahead of a planned protest over political rights. \n\nhttps://aje.news/nn9od4",
       "link": "https://nitter.net/AJEnglish/status/2064037239240171629#m",
       "source": "War & Gore",
@@ -2023,6 +2055,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
