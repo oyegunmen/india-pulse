@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "22 military personnel, including 3 officers, killed in PoK helicopter crash: Report",
+      "link": "https://economictimes.indiatimes.com/news/defence/22-military-personnel-including-3-officers-killed-in-pok-helicopter-crash-report/articleshow/131664260.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-11T22:04:08+05:30",
+      "time": "11 Jun, 10:04 PM",
+      "type": "news",
+      "description": "A Pakistan Army Mi-17 helicopter crashed in Pakistan-occupied Kashmir. The incident occurred during take-off near Muzaffarabad. At least 22 military p..."
+    },
+    {
       "title": "Indian Navy recovers, disposes of unexploded missile warhead from oil tanker off Oman coast",
       "link": "https://economictimes.indiatimes.com/news/defence/indian-navy-recovers-disposes-of-unexploded-missile-warhead-from-oil-tanker-off-oman-coast/articleshow/131663954.cms",
       "source": "Economic Times",
@@ -197,6 +206,15 @@
       "time": "11 Jun, 06:14 PM",
       "type": "news",
       "description": "Asked about the status of Maoists in Telangana, Anand said there is virtually no Maoist activity in the state. He attributed this to the surrender of ..."
+    },
+    {
+      "title": "Op Sindoor effect: Army receives 106 jet-powered kamikaze drones from defence firm SMPP",
+      "link": "https://theprint.in/defence/op-sindoor-effect-army-receives-106-jet-powered-kamikaze-drones-from-defence-firm-smpp/2957259/",
+      "source": "The Print",
+      "sort_key": "2026-06-11T18:08:47+05:30",
+      "time": "11 Jun, 06:08 PM",
+      "type": "news",
+      "description": "The Peacekeeper drone is originally a Belarusian one manufactured by a company called KB Indela which has partnered with SMPP."
     },
     {
       "title": "Indian tech firm delivers 106 turbojet-powered drones with precision strike capability to Army",
@@ -800,27 +818,79 @@
       "time": "09 Jun, 11:43 PM",
       "type": "news",
       "description": "India has condemned severe police brutality in Pakistan-occupied Kashmir. Protests have led to deaths and injuries. India urges the international comm..."
-    },
-    {
-      "title": "Trump blames Iran for Apache helicopter attack, says US must respond \"of necessity\"",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-blames-iran-for-apache-helicopter-attack-says-us-must-respond-of-necessity/articleshow/131616050.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-09T22:29:01+05:30",
-      "time": "09 Jun, 10:29 PM",
-      "type": "news",
-      "description": "US President Donald Trump said Iran downed a sophisticated Apache helicopter. The incident occurred overnight while the aircraft patrolled the Strait ..."
-    },
-    {
-      "title": "How China built world\u2019s first wind-powered underwater data centre off Shanghai",
-      "link": "https://indianexpress.com/article/world/slug-china-shanghai-hicloud-underwater-data-center-wind-powered-lin-gang-24-megawatt-10731431/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-09T22:23:11+05:30",
-      "time": "09 Jun, 10:23 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "ISRO astronaut, Group Captain Shubhanshu Shukla with Russia's Deputy Chief of Mission (DCM) Roman Babushkin at Russia National Day in Delhi",
+      "link": "https://nitter.net/sidhant/status/2065129237179515379#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T23:19:13+05:30",
+      "time": "11 Jun, 11:19 PM",
+      "type": "tweets",
+      "content": "<p>ISRO astronaut, Group Captain Shubhanshu Shukla with Russia's Deputy Chief of Mission (DCM) Roman Babushkin at Russia National Day in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHKjQGM9agAAVVF5.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Amid the Hormuz crisis, Indian crew on shadow fleet vessels have raised concerns in Delhi. MEA says US strikes targeted sanctioned foreign-flagged ships.\n\nDetails:\nhttps://www.wionews.com/india-news/amid-hormuz-crisis-indian-nationals-on-shadow-fleet-raise-concerns-for-delhi-1781198804347",
+      "link": "https://nitter.net/sidhant/status/2065128539029139465#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T23:16:26+05:30",
+      "time": "11 Jun, 11:16 PM",
+      "type": "tweets",
+      "content": "<p>Amid the Hormuz crisis, Indian crew on shadow fleet vessels have raised concerns in Delhi. MEA says US strikes targeted sanctioned foreign-flagged ships.<br />\n<br />\nDetails:<br />\n<a href=\"https://www.wionews.com/india-news/amid-hormuz-crisis-indian-nationals-on-shadow-fleet-raise-concerns-for-delhi-1781198804347\">wionews.com/india-news/amid-\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2065128541839392768%2FX-IYp9r1%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Trump says have \"cancelled the scheduled strikes and bombings against Iran this evening\"",
+      "link": "https://nitter.net/sidhant/status/2065126988093026651#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T23:10:16+05:30",
+      "time": "11 Jun, 11:10 PM",
+      "type": "tweets",
+      "content": "<p>Trump says have \"cancelled the scheduled strikes and bombings against Iran this evening\"</p>\n<img src=\"https://nitter.net/pic/media%2FHKjODTyaMAAtGOQ.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India, Russia has a \"special bond\" & \"we value this relationship\", says India's foreign secretary Vikram Misri at Russia national day in Delhi this evening. Adds,\"India, Russia ties serve as anchor of stability\"",
+      "link": "https://nitter.net/sidhant/status/2065126027672863151#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T23:06:27+05:30",
+      "time": "11 Jun, 11:06 PM",
+      "type": "tweets",
+      "content": "<p>India, Russia has a \"special bond\" &amp; \"we value this relationship\", says India's foreign secretary Vikram Misri at Russia national day in Delhi this evening. Adds,\"India, Russia ties serve as anchor of stability\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>We look forward to welcome President Putin for BRICS summit in September says Foreign Secretary Vikram Misri at Russia National Day</p>\n<a href=\"https://nitter.net/sidhant/status/2065105450828505324#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065104786538790913%2Fpu%2Fimg%2FgOpIsaFcRHCQdNi5.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2065105450828505324#m\">https://nitter.net/sidhant/status/2065105450828505324#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @alpha_defense: Sorry wrong picture attached \ud83e\udee0",
+      "link": "https://nitter.net/alpha_defense/status/2065124085592703200#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-11T22:58:44+05:30",
+      "time": "11 Jun, 10:58 PM",
+      "type": "tweets",
+      "content": "<p>Sorry wrong picture attached \ud83e\udee0</p>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Multiple Pentagon floors on lockdown due to 'hazardous materials'",
+      "link": "https://nitter.net/alpha_defense/status/2065124005225677305#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-11T22:58:25+05:30",
+      "time": "11 Jun, 10:58 PM",
+      "type": "tweets",
+      "content": "<p>Multiple Pentagon floors on lockdown due to 'hazardous materials'</p>\n<img src=\"https://nitter.net/pic/media%2FHKjLVZoacAAS8GA.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Decades ago, I was listening to Atal Bihari Vajpayee on Aap Ki Adalat with @RajatSharmaLive \nVajpayee ji said:\n\n\u201cBorder ke us paar China nuclear bomb le ke baitha hai aur Diego Garcia mein America.\u201d\n\nMy nanu nudged me and said, \u201cSamjho\u2026\u201d\n\nAt that age, I couldn\u2019t. Today, I can.\n\nYou need leverage to stand up to the US.\n\nHowever, when companies like SMPP are white-labeling freaking Belarusian UAVs and presenting them as indigenous products, what exactly am I supposed to be hopeful about?",
+      "link": "https://nitter.net/alpha_defense/status/2065118436808896915#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-11T22:36:18+05:30",
+      "time": "11 Jun, 10:36 PM",
+      "type": "tweets",
+      "content": "<p>Decades ago, I was listening to Atal Bihari Vajpayee on Aap Ki Adalat with <a href=\"https://nitter.net/RajatSharmaLive\" title=\"Rajat Sharma\">@RajatSharmaLive</a> <br />\nVajpayee ji said:<br />\n<br />\n\u201cBorder ke us paar China nuclear bomb le ke baitha hai aur Diego Garcia mein America.\u201d<br />\n<br />\nMy nanu nudged me and said, \u201cSamjho\u2026\u201d<br />\n<br />\nAt that age, I couldn\u2019t. Today, I can.<br />\n<br />\nYou need leverage to stand up to the US.<br />\n<br />\nHowever, when companies like SMPP are white-labeling freaking Belarusian UAVs and presenting them as indigenous products, what exactly am I supposed to be hopeful about?</p>\n<img src=\"https://nitter.net/pic/media%2FHKjGRGPbcAAlmW_.jpg\" />",
+      "author": "@alpha_defense"
+    },
     {
       "title": "Daily US-Israel-Iran War Brief:\n11th Jun 2026:\n\n- We will be posting daily war updates on the ongoing war in Middle East\n- \u2060Follow us for daily Brief\n\n\u25cf Bahraini air defences intercepted Iranian drones over Hamad Town and Manama. Debris struck homes and vehicles, injuring an 11 year-old girl, according to the Interior Ministry.\n\n\u25cf Iran launched heavy waves of missiles and attack drones targeting Ali Al Salem and Ahmad Al-Jaber airbases in Kuwait, which host key US military detachments.\n\n\u25cf India confirmed that three Indian sailors were killed in yesterday\u2019s US strike on a tanker in the Gulf of Oman. The vessel had been accused of violating the naval blockade.\n\n\u25cf The Indian-crewed tanker MT Jalveer suffered damage near Oman. All 20 Indian nationals onboard are reported safe.\n\n\u25cf Iran\u2019s Persian Gulf Strait Authority (PGSA) announced the complete closure of the Strait of Hormuz. Holders of existing transit permits have been asked to wait until further notice.\n\n\u25cf As of today, CENTCOM has disabled 9 non-compliant vessels, redirected 135 ships that complied, and allowed 42 vessels supporting humanitarian aid to pass.\n\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2065109498323468372#m",
@@ -922,13 +992,13 @@
       "author": "@sidhant"
     },
     {
-      "title": "RT by @Goreunit: Meet priyanshu umaji ghajbhiye, living in maharashtra, nagpur, runs multiple, anti india, anti hindu groups in telegram, where he morphes photos & videos of hindu gods in the most heinious way possible. \n\nHis meme templates are also circulated all over social media to show hindus in bad light\n\nAnd not only, he commits blashemy,\nBut, he's also a repeat offender.\n\nHere's everything you need to know about him. \u0111\u0178\u00a7\u013e\n\n@NagpurPolice",
+      "title": "RT by @Goreunit: Meet priyanshu umaji ghajbhiye, living in maharashtra, nagpur, runs multiple, anti india, anti hindu groups in telegram, where he morphes photos & videos of hindu gods in the most heinious way possible. \n\nHis meme templates are also circulated all over social media to show hindus in bad light\n\nAnd not only, he commits blashemy,\nBut, he's also a repeat offender.\n\nHere's everything you need to know about him. \ud83e\uddf5\n\n@NagpurPolice",
       "link": "https://nitter.net/AgniVesa_07/status/2065092657555320901#m",
       "source": "War & Gore",
       "sort_key": "2026-06-11T20:53:51+05:30",
       "time": "11 Jun, 08:53 PM",
       "type": "tweets",
-      "content": "<p>Meet priyanshu umaji ghajbhiye, living in maharashtra, nagpur, runs multiple, anti india, anti hindu groups in telegram, where he morphes photos & videos of hindu gods in the most heinious way possible. <br />\n<br />\nHis meme templates are also circulated all over social media to show hindus in bad light<br />\n<br />\nAnd not only, he commits blashemy,<br />\nBut, he's also a repeat offender.<br />\n<br />\nHere's everything you need to know about him. \u0111\u0178\u00a7\u013e<br />\n<br />\n<a href=\"https://nitter.net/NagpurPolice\" title=\"Nagpur City Police\">@NagpurPolice</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKiuzPCaYAAfUsr.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKiuzvlawAAx_h2.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKiu0LoaAAA72zT.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKiu0ujbIAASyDv.jpg\" />",
+      "content": "<p>Meet priyanshu umaji ghajbhiye, living in maharashtra, nagpur, runs multiple, anti india, anti hindu groups in telegram, where he morphes photos & videos of hindu gods in the most heinious way possible. <br />\n<br />\nHis meme templates are also circulated all over social media to show hindus in bad light<br />\n<br />\nAnd not only, he commits blashemy,<br />\nBut, he's also a repeat offender.<br />\n<br />\nHere's everything you need to know about him. \ud83e\uddf5<br />\n<br />\n<a href=\"https://nitter.net/NagpurPolice\" title=\"Nagpur City Police\">@NagpurPolice</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKiuzPCaYAAfUsr.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKiuzvlawAAx_h2.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKiu0LoaAAA72zT.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKiu0ujbIAASyDv.jpg\" />",
       "author": "@AgniVesa_07"
     },
     {
@@ -1082,26 +1152,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "EAM Dr Jaishankar in Finland,   meets his counterpart",
-      "link": "https://nitter.net/sidhant/status/2065054206730670157#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T18:21:04+05:30",
-      "time": "11 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>EAM Dr Jaishankar in Finland,   meets his counterpart</p>\n<img src=\"https://nitter.net/pic/media%2FHKiL2P4awAENnxV.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We hope & expect US attacks will come to an end, says MEA Spox Randhir Jaiswal on US attacks on vessels off Oman coast",
-      "link": "https://nitter.net/sidhant/status/2065053630726861255#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T18:18:47+05:30",
-      "time": "11 Jun, 06:18 PM",
-      "type": "tweets",
-      "content": "<p>We hope &amp; expect US attacks will come to an end, says MEA Spox Randhir Jaiswal on US attacks on vessels off Oman coast</p>\n<a href=\"https://nitter.net/sidhant/status/2065053630726861255#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065053588095930368%2Fpu%2Fimg%2FJFnB4WJLjJBrCAab.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Indian or Belarusian ? Indian Army's new UAV \nhttps://alphadefense.in/index.php/2026/06/11/did-india-acquire-belarusian-loitering-munitions-the-evidence-the-questions-and-what-we-actually-know/",
       "link": "https://nitter.net/alpha_defense/status/2065046986802524638#m",
       "source": "Alpha Defense",
@@ -1122,16 +1172,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Deeply concerned about US attacks, hope they come to an end, says MEA Spox Randhir Jaiswal",
-      "link": "https://nitter.net/sidhant/status/2065044484388516013#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T17:42:26+05:30",
-      "time": "11 Jun, 05:42 PM",
-      "type": "tweets",
-      "content": "<p>Deeply concerned about US attacks, hope they come to an end, says MEA Spox Randhir Jaiswal</p>\n<a href=\"https://nitter.net/sidhant/status/2065044484388516013#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065044423646597120%2Fpu%2Fimg%2F4erMp4XljCslHtC-.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "SMPP has delivered 106 Peacekeeper (Agniveg) drones to @adgpi \nThe platform is being marketed as indigenous, but it is Belarusian Mirotvorets UAV.\n\nCc @SMPPDEFENSE : do correct us if the assessment is wrong.",
       "link": "https://nitter.net/alpha_defense/status/2065037873750110628#m",
       "source": "Alpha Defense",
@@ -1148,7 +1188,7 @@
       "sort_key": "2026-06-11T17:10:54+05:30",
       "time": "11 Jun, 05:10 PM",
       "type": "tweets",
-      "content": "<p>Pakistan army also fired on hospital in Kotli where injured protestors were taken care of...<br />\nAsim Munir is a Barbarian! <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/AJENews\" title=\"Al Jazeera Breaking News\">@AJENews</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2065036550644330704#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065036219193630721%2Fpu%2Fimg%2FehQZ9Ii8obW6-Iy8.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\u0111\u0178\u0161\u00a8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.<br />\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064765246385065984%2Fpu%2Fimg%2Fm2mdMyaqLgp54aNT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064766085245845504%2Fpu%2Fimg%2FOIasq4pQb9WpbxZv.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">https://nitter.net/Goreunit/status/2064766192657834061#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Pakistan army also fired on hospital in Kotli where injured protestors were taken care of...<br />\nAsim Munir is a Barbarian! <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/AJENews\" title=\"Al Jazeera Breaking News\">@AJENews</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2065036550644330704#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065036219193630721%2Fpu%2Fimg%2FehQZ9Ii8obW6-Iy8.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.<br />\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064765246385065984%2Fpu%2Fimg%2Fm2mdMyaqLgp54aNT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064766085245845504%2Fpu%2Fimg%2FOIasq4pQb9WpbxZv.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">https://nitter.net/Goreunit/status/2064766192657834061#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1160,16 +1200,6 @@
       "type": "tweets",
       "content": "<p>So I am being told that if you\u2019re onboard a ship or aircraft that isn\u2019t Indian-flagged, your death means nothing to us.<br />\n<br />\nAccha. Thanks for the reality check.</p>\n<img src=\"https://nitter.net/pic/media%2FHKh4MLxb0AAfjxv.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "RT by @sidhant: \u092a\u094d\u0930\u093f\u092f \u092d\u093e\u0930\u0924 \u0935\u093e\u0938\u093f\u092f\u094b\u0902 \n\n\u0939\u092e \u092d\u093e\u0930\u0924 \u0915\u0947 \u092a\u094d\u0930\u0927\u093e\u0928 \u092e\u0902\u0924\u094d\u0930\u0940 \u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940 \u091c\u0940 \u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0964\n\n\u092a\u094d\u0930\u0927\u093e\u0928 \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0940 \u0915\u0940 \u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e \u092f\u093e\u0924\u094d\u0930\u093e, \u092d\u093e\u0930\u0924 \u0914\u0930 \u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e \u0915\u0947 \u0938\u0902\u092c\u0902\u0927\u094b\u0902 \u092e\u0947\u0902 \u090f\u0915 \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u0905\u0935\u0938\u0930 \u0939\u0948\u0964\n\n\u0906\u0936\u093e \u0939\u0948 \u0915\u0947 \u0909\u0928\u0915\u0940 \u092f\u0947 \u092f\u093e\u0924\u094d\u0930\u093e, \u092d\u093e\u0930\u0924 \u0914\u0930 \u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e \u0915\u0947 \u0930\u093f\u0936\u094d\u0924\u094b\u0902 \u0915\u094b \u0914\u0930 \u092e\u091c\u092c\u0942\u0924 \u0915\u0930\u0947\u0917\u0940\u0964\n\n\u0928\u092e\u0938\u094d\u0915\u093e\u0930\n\n\u0927\u0928\u094d\u092f\u0935\u093e\u0926\n\n\u091c\u092f \u0939\u093f\u0902\u0926 \u0964\ud83c\uddf8\ud83c\uddf0\ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/RobertMaxian/status/2065025611740180744#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T16:27:26+05:30",
-      "time": "11 Jun, 04:27 PM",
-      "type": "tweets",
-      "content": "<p>\u092a\u094d\u0930\u093f\u092f \u092d\u093e\u0930\u0924 \u0935\u093e\u0938\u093f\u092f\u094b\u0902 <br />\n<br />\n\u0939\u092e \u092d\u093e\u0930\u0924 \u0915\u0947 \u092a\u094d\u0930\u0927\u093e\u0928 \u092e\u0902\u0924\u094d\u0930\u0940 \u0936\u094d\u0930\u0940 \u0928\u0930\u0947\u0902\u0926\u094d\u0930 \u092e\u094b\u0926\u0940 \u091c\u0940 \u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0964<br />\n<br />\n\u092a\u094d\u0930\u0927\u093e\u0928 \u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0940 \u0915\u0940 \u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e \u092f\u093e\u0924\u094d\u0930\u093e, \u092d\u093e\u0930\u0924 \u0914\u0930 \u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e \u0915\u0947 \u0938\u0902\u092c\u0902\u0927\u094b\u0902 \u092e\u0947\u0902 \u090f\u0915 \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u0905\u0935\u0938\u0930 \u0939\u0948\u0964<br />\n<br />\n\u0906\u0936\u093e \u0939\u0948 \u0915\u0947 \u0909\u0928\u0915\u0940 \u092f\u0947 \u092f\u093e\u0924\u094d\u0930\u093e, \u092d\u093e\u0930\u0924 \u0914\u0930 \u0938\u094d\u0932\u094b\u0935\u093e\u0915\u093f\u092f\u093e \u0915\u0947 \u0930\u093f\u0936\u094d\u0924\u094b\u0902 \u0915\u094b \u0914\u0930 \u092e\u091c\u092c\u0942\u0924 \u0915\u0930\u0947\u0917\u0940\u0964<br />\n<br />\n\u0928\u092e\u0938\u094d\u0915\u093e\u0930<br />\n<br />\n\u0927\u0928\u094d\u092f\u0935\u093e\u0926<br />\n<br />\n\u091c\u092f \u0939\u093f\u0902\u0926 \u0964\ud83c\uddf8\ud83c\uddf0\ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/RobertMaxian/status/2065025611740180744#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065025495641763840%2Fimg%2F9I2D0E3ezl82PC82.jpg\" />\n</a>",
-      "author": "@RobertMaxian"
     },
     {
       "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Group Captain Prasanth Balakrishnan Nair, Indian Air Force\n\nGroup Captain Prasanth Balakrishnan Nair, an accomplished fighter pilot, Experimental Test Pilot, and one of India's selected Gaganyatris, played a pivotal role in advancing India's human spaceflight ambitions through the Gaganyaan programme.\n\nAs Mission Commander-designate and a key member of India's astronaut corps, he underwent rigorous training, mission preparation, and operational readiness activities for some of the nation's most challenging aerospace missions. His professionalism, courage, and commitment helped strengthen India's human spaceflight capabilities.\n\nHe also served as the backup astronaut for India's participation in the Axiom-4 mission to the International Space Station, demonstrating exceptional dedication, resilience, and mission readiness under demanding conditions.\n\nA decorated Indian Air Force officer with extensive experience as a test pilot and flying instructor, Group Captain Nair's contributions have been instrumental in shaping India's journey toward independent human spaceflight.\n\nFor his extraordinary courage, conspicuous bravery, exceptional professional excellence, and selfless devotion to duty in support of India's human spaceflight programme, Group Captain Prasanth Balakrishnan Nair was awarded the Kirti Chakra, India's second-highest peacetime gallantry award. \n\n8/8",
@@ -1258,7 +1288,7 @@
       "sort_key": "2026-06-11T15:22:32+05:30",
       "time": "11 Jun, 03:22 PM",
       "type": "tweets",
-      "content": "<p>Pictures from Rawalakot PoJK. Civilians are being massacred by the Pakistan Army while international media sleeps!!<br />\n<a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKhi-lxbYAAai8d.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi_R5bkAEkh2d.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi-38a4AAUeuU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi_QVbwAA5iR1.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Civilians are being massacred in PoJK by the tyrant regime of Munir ...<br />\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.<br />\n<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> Stop being oblivious to such brazen violation of all human rights in PoJK!!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984628407177217%2Fpu%2Fimg%2F4JtKGD9jNBqjnJxI.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984617955033088%2Fpu%2Fimg%2FUWrMEgFp532xffw8.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">https://nitter.net/Goreunit/status/2064985034050928756#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Pictures from Rawalakot PoJK. Civilians are being massacred by the Pakistan Army while international media sleeps!!<br />\n<a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKhi-lxbYAAai8d.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi_R5bkAEkh2d.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi-38a4AAUeuU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi_QVbwAA5iR1.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Civilians are being massacred in PoJK by the tyrant regime of Munir ...<br />\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.<br />\n<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> Stop being oblivious to such brazen violation of all human rights in PoJK!!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984628407177217%2Fpu%2Fimg%2F4JtKGD9jNBqjnJxI.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984617955033088%2Fpu%2Fimg%2FUWrMEgFp532xffw8.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">https://nitter.net/Goreunit/status/2064985034050928756#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1328,7 +1358,7 @@
       "sort_key": "2026-06-11T13:46:12+05:30",
       "time": "11 Jun, 01:46 PM",
       "type": "tweets",
-      "content": "<p>Civilians are being massacred in PoJK by the tyrant regime of Munir ...<br />\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.<br />\n<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> Stop being oblivious to such brazen violation of all human rights in PoJK!!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984628407177217%2Fpu%2Fimg%2F4JtKGD9jNBqjnJxI.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984617955033088%2Fpu%2Fimg%2FUWrMEgFp532xffw8.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Pakistan occupied Kashmir protests:<br />\n<br />\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064894514578518016%2Fpu%2Fimg%2FCy12vBffrE049MU9.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">https://nitter.net/Goreunit/status/2064894554273444210#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Civilians are being massacred in PoJK by the tyrant regime of Munir ...<br />\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.<br />\n<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> Stop being oblivious to such brazen violation of all human rights in PoJK!!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984628407177217%2Fpu%2Fimg%2F4JtKGD9jNBqjnJxI.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984617955033088%2Fpu%2Fimg%2FUWrMEgFp532xffw8.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Pakistan occupied Kashmir protests:<br />\n<br />\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064894514578518016%2Fpu%2Fimg%2FCy12vBffrE049MU9.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">https://nitter.net/Goreunit/status/2064894554273444210#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1368,7 +1398,7 @@
       "sort_key": "2026-06-11T12:11:58+05:30",
       "time": "11 Jun, 12:11 PM",
       "type": "tweets",
-      "content": "<p>Situation is still out terrifying in Pakistan occupied Kashmir. Innocent civilians are being killed for asking basic rights.\u0000\u0000\u0000\u0000\u00e7\u017e\u0160\u0000\u0000\u0139\u0153\u0000\u00c7\u00b0\u0000\u00fd\u00a4\u02dc\u2013\u2022\u02c6\u00fc\u00a0\u2122\u015a\u017a\u00a0\u00fd\u013d\u0153\u015b\u2022\u2019\u00fd\u00a8\u02dc\u02c7\u2030\u0104\u00fc\u00a0\u02dc\u201c\u00b0\u00a0\u00fd\u015a\u2122\u2014\u2030\u00a8\u00fd\u017d\u2039\u02db\u02c6\u02dd\u00fd\u02db\u009d\u2021\u0104\u013d\u00fd\u0161\u0153\u015b\u0161\u017b\u00fd\u00ad\u2122\u2014\u2018\u0142\u00fd\u20ac\u008f\u02d8\u2030\u0142\u00fd\u00b4\u017e\u2020\u2022\u017d\u00fd\u0142\u203a\u015a\u02dd\u02db</p>\n<a href=\"https://nitter.net/Goreunit/status/2064961321901445143#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064867406414041088%2Fpu%2Fimg%2FlhZhgFRLZD-C12cj.jpg\" />\n</a>",
+      "content": "<p>Situation is still out terrifying in Pakistan occupied Kashmir. Innocent civilians are being killed for asking basic rights.\u0000\u0000\u0000\u0000\u76fa\u0000\u0000\u0000\u0000\u20ac\u0000World News an</p>\n<a href=\"https://nitter.net/Goreunit/status/2064961321901445143#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064867406414041088%2Fpu%2Fimg%2FlhZhgFRLZD-C12cj.jpg\" />\n</a>",
       "author": "@Goreunit"
     },
     {
@@ -1458,7 +1488,7 @@
       "sort_key": "2026-06-11T07:50:01+05:30",
       "time": "11 Jun, 07:50 AM",
       "type": "tweets",
-      "content": "<p>Muzaffarabad, Pakistan occupied Kashmir MI 17 crash - <br />\nFull list of casualties.<br />\n22 personnel<br />\n<br />\n21 Avn Sqn:<br />\nCol Amjad Latif<br />\nMaj Majid<br />\nSM Munir Masih<br />\nHav Amanat<br />\nHav Alamgir<br />\nHav Regan Masih<br />\n<br />\nSOW:<br />\nMaj Usman<br />\nSep Fahad<br />\nSep Shahid<br />\n<br />\n2 Wing Rangers:<br />\nLnk Asghar<br />\nSep Khurram Mumtaz<br />\nSep Faheem Akhtar<br />\nSep Shahbaz<br />\nSep Haris<br />\nSep Abdullah<br />\nSep Azhar<br />\nSep Gulraiz<br />\nSep Abdul Malik<br />\nSep Aqeel<br />\nSep Arsalan Ayub<br />\nSep Dilawar<br />\nSep Khalid</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>At least 21 NaPak army personnel have died in Muzaffarabad MI 17 crash. <br />\nAll the personnel were involved in surveillance against protestors. <br />\nWhat a Clownery \u0111\u0178\u00a4\u0104 earlier they were shooting innocent civilians, now they died.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064687640130257327#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064687610904424448%2Fpu%2Fimg%2FQIqYs2zo108IcwrJ.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064687640130257327#m\">https://nitter.net/Goreunit/status/2064687640130257327#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Muzaffarabad, Pakistan occupied Kashmir MI 17 crash - <br />\nFull list of casualties.<br />\n22 personnel<br />\n<br />\n21 Avn Sqn:<br />\nCol Amjad Latif<br />\nMaj Majid<br />\nSM Munir Masih<br />\nHav Amanat<br />\nHav Alamgir<br />\nHav Regan Masih<br />\n<br />\nSOW:<br />\nMaj Usman<br />\nSep Fahad<br />\nSep Shahid<br />\n<br />\n2 Wing Rangers:<br />\nLnk Asghar<br />\nSep Khurram Mumtaz<br />\nSep Faheem Akhtar<br />\nSep Shahbaz<br />\nSep Haris<br />\nSep Abdullah<br />\nSep Azhar<br />\nSep Gulraiz<br />\nSep Abdul Malik<br />\nSep Aqeel<br />\nSep Arsalan Ayub<br />\nSep Dilawar<br />\nSep Khalid</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>At least 21 NaPak army personnel have died in Muzaffarabad MI 17 crash. <br />\nAll the personnel were involved in surveillance against protestors. <br />\nWhat a Clownery \ud83e\udd21 earlier they were shooting innocent civilians, now they died.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064687640130257327#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064687610904424448%2Fpu%2Fimg%2FQIqYs2zo108IcwrJ.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064687640130257327#m\">https://nitter.net/Goreunit/status/2064687640130257327#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1468,7 +1498,7 @@
       "sort_key": "2026-06-11T07:46:40+05:30",
       "time": "11 Jun, 07:46 AM",
       "type": "tweets",
-      "content": "<p>Pakistan occupied Kashmir protests:<br />\n<br />\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064894514578518016%2Fpu%2Fimg%2FCy12vBffrE049MU9.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>You reap what you sow \u0111\u0178\u02dc\u0081 <a href=\"https://nitter.net/CMShehbaz\" title=\"Shehbaz Sharif\">@CMShehbaz</a> <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064774574932447232%2Fpu%2Fimg%2Fs1NXj-VOh6tD3CAf.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">https://nitter.net/Goreunit/status/2064774697032822787#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Pakistan occupied Kashmir protests:<br />\n<br />\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064894514578518016%2Fpu%2Fimg%2FCy12vBffrE049MU9.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>You reap what you sow \ud83d\ude01 <a href=\"https://nitter.net/CMShehbaz\" title=\"Shehbaz Sharif\">@CMShehbaz</a> <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064774574932447232%2Fpu%2Fimg%2Fs1NXj-VOh6tD3CAf.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">https://nitter.net/Goreunit/status/2064774697032822787#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1522,13 +1552,13 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "You reap what you sow \u0111\u0178\u02dc\u0081 @CMShehbaz @OfficialDGISPR",
+      "title": "You reap what you sow \ud83d\ude01 @CMShehbaz @OfficialDGISPR",
       "link": "https://nitter.net/Goreunit/status/2064774697032822787#m",
       "source": "War & Gore",
       "sort_key": "2026-06-10T23:50:24+05:30",
       "time": "10 Jun, 11:50 PM",
       "type": "tweets",
-      "content": "<p>You reap what you sow \u0111\u0178\u02dc\u0081 <a href=\"https://nitter.net/CMShehbaz\" title=\"Shehbaz Sharif\">@CMShehbaz</a> <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064774574932447232%2Fpu%2Fimg%2Fs1NXj-VOh6tD3CAf.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\u0111\u0178\u0161\u00a8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.<br />\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064765246385065984%2Fpu%2Fimg%2Fm2mdMyaqLgp54aNT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064766085245845504%2Fpu%2Fimg%2FOIasq4pQb9WpbxZv.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">https://nitter.net/Goreunit/status/2064766192657834061#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>You reap what you sow \ud83d\ude01 <a href=\"https://nitter.net/CMShehbaz\" title=\"Shehbaz Sharif\">@CMShehbaz</a> <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064774574932447232%2Fpu%2Fimg%2Fs1NXj-VOh6tD3CAf.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.<br />\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064765246385065984%2Fpu%2Fimg%2Fm2mdMyaqLgp54aNT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064766085245845504%2Fpu%2Fimg%2FOIasq4pQb9WpbxZv.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">https://nitter.net/Goreunit/status/2064766192657834061#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1562,13 +1592,13 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "\u0111\u0178\u0161\u00a8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..",
+      "title": "\ud83d\udea8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..",
       "link": "https://nitter.net/Goreunit/status/2064766192657834061#m",
       "source": "War & Gore",
       "sort_key": "2026-06-10T23:16:36+05:30",
       "time": "10 Jun, 11:16 PM",
       "type": "tweets",
-      "content": "<p>\u0111\u0178\u0161\u00a8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.<br />\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064765246385065984%2Fpu%2Fimg%2Fm2mdMyaqLgp54aNT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064766085245845504%2Fpu%2Fimg%2FOIasq4pQb9WpbxZv.jpg\" />\n</a>",
+      "content": "<p>\ud83d\udea8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.<br />\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064765246385065984%2Fpu%2Fimg%2Fm2mdMyaqLgp54aNT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064766085245845504%2Fpu%2Fimg%2FOIasq4pQb9WpbxZv.jpg\" />\n</a>",
       "author": "@Goreunit"
     },
     {
@@ -1580,16 +1610,6 @@
       "type": "tweets",
       "content": "<p>Negotiations between India and Russia for the acquisition and local production of the Su-57E fighter jet have reached an \"ADVANCED STAGE\" : Russian sources<br />\n<br />\nReport</p>\n<img src=\"https://nitter.net/pic/media%2FHKd6HSdX0AAR7Yg.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Fixed it ! further",
-      "link": "https://nitter.net/alpha_defense/status/2064752256554336505#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-10T22:21:13+05:30",
-      "time": "10 Jun, 10:21 PM",
-      "type": "tweets",
-      "content": "<p>Fixed it ! further</p>\n<img src=\"https://nitter.net/pic/media%2FHKd5GYyaQAEVN35.jpg\" />\n\n<hr />\n<blockquote>\n<b>vishal dayama (@VishalDayama)</b>\n<p>\n<p>fixed it</p>\n<img src=\"https://nitter.net/pic/media%2FHKdb37ia0AAjSD2.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/VishalDayama/status/2064719977740173370#m\">https://nitter.net/VishalDayama/status/2064719977740173370#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
     },
     {
       "title": "Singh sir standing like a proud father \ud83d\ude01",
@@ -1652,33 +1672,13 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Clarification on inaccurate reporting by @timesofindia and @IndiaToday \n\n1\ufe0f\u20e3 The Indian Army has moved a proposal for an additional \u201c335 K9 Vajra-T Self-Propelled Howitzers.\u201d\n\n2\ufe0f\u20e3 The pricing figures quoted in the reports is way higher than the actual estimates.\n\nThere\u2019s more to this story. Keep an eye on this space as I am awaiting clearance to share further details.",
-      "link": "https://nitter.net/alpha_defense/status/2064703306199613484#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-10T19:06:43+05:30",
-      "time": "10 Jun, 07:06 PM",
-      "type": "tweets",
-      "content": "<p>Clarification on inaccurate reporting by <a href=\"https://nitter.net/timesofindia\" title=\"The Times Of India\">@timesofindia</a> and <a href=\"https://nitter.net/IndiaToday\" title=\"IndiaToday\">@IndiaToday</a> <br />\n<br />\n1\ufe0f\u20e3 The Indian Army has moved a proposal for an additional \u201c335 K9 Vajra-T Self-Propelled Howitzers.\u201d<br />\n<br />\n2\ufe0f\u20e3 The pricing figures quoted in the reports is way higher than the actual estimates.<br />\n<br />\nThere\u2019s more to this story. Keep an eye on this space as I am awaiting clearance to share further details.</p>\n<img src=\"https://nitter.net/pic/media%2FHKdMtkNbMAABrMS.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "\u2026.and they started messing up with ghost bat design.\n\nNew mods will give it \n\n\u2705 >25% larger wing\n\u2705 Increased fuel and payload capacity\n\u2705 Beyond Line of Sight capability\n\u2705 Internal weapons stations for greater mission configurability\n\nDown side \n\u274c lower endurance \n\u274c hot knife through butter viz a viz flying envelope",
-      "link": "https://nitter.net/alpha_defense/status/2064701166177378623#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-10T18:58:12+05:30",
-      "time": "10 Jun, 06:58 PM",
-      "type": "tweets",
-      "content": "<p>\u2026.and they started messing up with ghost bat design.<br />\n<br />\nNew mods will give it <br />\n<br />\n\u2705 &gt;25% larger wing<br />\n\u2705 Increased fuel and payload capacity<br />\n\u2705 Beyond Line of Sight capability<br />\n\u2705 Internal weapons stations for greater mission configurability<br />\n<br />\nDown side <br />\n\u274c lower endurance <br />\n\u274c hot knife through butter viz a viz flying envelope</p>\n<img src=\"https://nitter.net/pic/media%2FHKdKwwOaQAAAswf.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "At least 21 NaPak army personnel have died in Muzaffarabad MI 17 crash. \nAll the personnel were involved in surveillance against protestors. \nWhat a Clownery \u0111\u0178\u00a4\u0104 earlier they were shooting innocent civilians, now they died.",
+      "title": "At least 21 NaPak army personnel have died in Muzaffarabad MI 17 crash. \nAll the personnel were involved in surveillance against protestors. \nWhat a Clownery \ud83e\udd21 earlier they were shooting innocent civilians, now they died.",
       "link": "https://nitter.net/Goreunit/status/2064687640130257327#m",
       "source": "War & Gore",
       "sort_key": "2026-06-10T18:04:28+05:30",
       "time": "10 Jun, 06:04 PM",
       "type": "tweets",
-      "content": "<p>At least 21 NaPak army personnel have died in Muzaffarabad MI 17 crash. <br />\nAll the personnel were involved in surveillance against protestors. <br />\nWhat a Clownery \u0111\u0178\u00a4\u0104 earlier they were shooting innocent civilians, now they died.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064687640130257327#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064687610904424448%2Fpu%2Fimg%2FQIqYs2zo108IcwrJ.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Pakistan occupied Kashmir <br />\n<br />\nAn Mi-17 helicopter of Pakistan Army Aviation crashed near Muzaffarabad today. They sent helis for surveillance purposes against protestors.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064685658837491918#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064685629527711744%2Fpu%2Fimg%2F0U9GWiXOOQ2wh0oi.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064685658837491918#m\">https://nitter.net/Goreunit/status/2064685658837491918#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>At least 21 NaPak army personnel have died in Muzaffarabad MI 17 crash. <br />\nAll the personnel were involved in surveillance against protestors. <br />\nWhat a Clownery \ud83e\udd21 earlier they were shooting innocent civilians, now they died.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064687640130257327#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064687610904424448%2Fpu%2Fimg%2FQIqYs2zo108IcwrJ.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Pakistan occupied Kashmir <br />\n<br />\nAn Mi-17 helicopter of Pakistan Army Aviation crashed near Muzaffarabad today. They sent helis for surveillance purposes against protestors.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064685658837491918#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064685629527711744%2Fpu%2Fimg%2F0U9GWiXOOQ2wh0oi.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064685658837491918#m\">https://nitter.net/Goreunit/status/2064685658837491918#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1698,7 +1698,7 @@
       "sort_key": "2026-06-10T17:56:35+05:30",
       "time": "10 Jun, 05:56 PM",
       "type": "tweets",
-      "content": "<p>Pakistan occupied Kashmir <br />\n<br />\nAn Mi-17 helicopter of Pakistan Army Aviation crashed near Muzaffarabad today. They sent helis for surveillance purposes against protestors.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064685658837491918#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064685629527711744%2Fpu%2Fimg%2F0U9GWiXOOQ2wh0oi.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Shah Nadir \u0111\u0178\u008f\u201d\u010f\u00b8\u008f\u0111\u0178\u008d\u0081 (@afsharidshah)</b>\n<p>\n<p>\u0111\u0178\u008f\u201d\u010f\u00b8\u008f\u0111\u0178\u008d\u0081\u0111\u0178\u2021\u013e\u0111\u0178\u2021\u00b0\u00e2\u0161\u0104\u010f\u00b8\u008f- Pakistani Army helicopters heading towards Rawalakot, Azad Kashmir right now<br />\n<br />\n\u016e\u2021\u016e\u0160\u016e\u2021\u0158\u00a7\u0158\u015e \u016e\u2026\u016e\u2020\u0158\u00a7 \u0158\u00a7\u016e\u201e\u0158\u00b0\u016e\u201e\u0158\u0160</p>\n<a href=\"https://nitter.net/afsharidshah/status/2064656945336754300#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064656847781408768%2Fimg%2FynB21NpRl7PjbwaX.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/afsharidshah/status/2064656945336754300#m\">https://nitter.net/afsharidshah/status/2064656945336754300#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Pakistan occupied Kashmir <br />\n<br />\nAn Mi-17 helicopter of Pakistan Army Aviation crashed near Muzaffarabad today. They sent helis for surveillance purposes against protestors.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064685658837491918#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064685629527711744%2Fpu%2Fimg%2F0U9GWiXOOQ2wh0oi.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Shah Nadir \ud83c\udfd4\ufe0f\ud83c\udf41 (@afsharidshah)</b>\n<p>\n<p>\ud83c\udfd4\ufe0f\ud83c\udf41\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f- Pakistani Army helicopters heading towards Rawalakot, Azad Kashmir right now<br />\n<br />\n\u0647\u064a\u0647\u0627\u062a \u0645\u0646\u0627 \u0627\u0644\u0630\u0644\u0629</p>\n<a href=\"https://nitter.net/afsharidshah/status/2064656945336754300#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064656847781408768%2Fimg%2FynB21NpRl7PjbwaX.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/afsharidshah/status/2064656945336754300#m\">https://nitter.net/afsharidshah/status/2064656945336754300#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1732,13 +1732,13 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "The pakjabi police is so rattled with unarmed protestors that they are literally massacring them. Meanwhile this police officer is claiming that they're shooting the civilians for the safety of the civilians \u0111\u0178\u02dc\u201a!",
+      "title": "The pakjabi police is so rattled with unarmed protestors that they are literally massacring them. Meanwhile this police officer is claiming that they're shooting the civilians for the safety of the civilians \ud83d\ude02!",
       "link": "https://nitter.net/Goreunit/status/2064643319175827893#m",
       "source": "War & Gore",
       "sort_key": "2026-06-10T15:08:21+05:30",
       "time": "10 Jun, 03:08 PM",
       "type": "tweets",
-      "content": "<p>The pakjabi police is so rattled with unarmed protestors that they are literally massacring them. Meanwhile this police officer is claiming that they're shooting the civilians for the safety of the civilians \u0111\u0178\u02dc\u201a!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064643319175827893#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064643243720228864%2Fpu%2Fimg%2FBqrsysz14qf7hq77.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\u0111\u0178\u0161\u00a8Just In: Atleast 7\u0102\u2014 civilians have been killed by Pakistani army in Kotli, PoJK.<br />\nPakistan army opened fire on protestors demanding basic rights.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064352423926484992%2Fpu%2Fimg%2FmE8-JZZ0a4n8mHL7.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKYNnD6a4AA9Gk5.jpg\" />\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">https://nitter.net/Goreunit/status/2064352578423710033#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>The pakjabi police is so rattled with unarmed protestors that they are literally massacring them. Meanwhile this police officer is claiming that they're shooting the civilians for the safety of the civilians \ud83d\ude02!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064643319175827893#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064643243720228864%2Fpu%2Fimg%2FBqrsysz14qf7hq77.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8Just In: Atleast 7\u00d7 civilians have been killed by Pakistani army in Kotli, PoJK.<br />\nPakistan army opened fire on protestors demanding basic rights.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064352423926484992%2Fpu%2Fimg%2FmE8-JZZ0a4n8mHL7.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKYNnD6a4AA9Gk5.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">https://nitter.net/Goreunit/status/2064352578423710033#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1798,7 +1798,7 @@
       "sort_key": "2026-06-10T10:47:21+05:30",
       "time": "10 Jun, 10:47 AM",
       "type": "tweets",
-      "content": "<p>Pakistan occupied Kashmir:<br />\n<br />\nPakistan govt is blaming Raaaa for internal disruption, Asim Munir is making a fool of his own civilian.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064577636634968118#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064577539503198208%2Fpu%2Fimg%2Fagi2NT5vn1DGedaD.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\u0111\u0178\u0161\u00a8Just In: Atleast 7\u0102\u2014 civilians have been killed by Pakistani army in Kotli, PoJK.<br />\nPakistan army opened fire on protestors demanding basic rights.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064352423926484992%2Fpu%2Fimg%2FmE8-JZZ0a4n8mHL7.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKYNnD6a4AA9Gk5.jpg\" />\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">https://nitter.net/Goreunit/status/2064352578423710033#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Pakistan occupied Kashmir:<br />\n<br />\nPakistan govt is blaming Raaaa for internal disruption, Asim Munir is making a fool of his own civilian.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064577636634968118#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064577539503198208%2Fpu%2Fimg%2Fagi2NT5vn1DGedaD.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8Just In: Atleast 7\u00d7 civilians have been killed by Pakistani army in Kotli, PoJK.<br />\nPakistan army opened fire on protestors demanding basic rights.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064352423926484992%2Fpu%2Fimg%2FmE8-JZZ0a4n8mHL7.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKYNnD6a4AA9Gk5.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">https://nitter.net/Goreunit/status/2064352578423710033#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -1840,39 +1840,18 @@
       "type": "tweets",
       "content": "<p>India Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.<br />\n<br />\nFrom:17/06/2026 , 10:00 IST<br />\nUntil:19/06/2026 , 16:30 IST<br />\nV-Limit:Surface-Unlimited</p>\n<img src=\"https://nitter.net/pic/media%2FHKZM4L8a4AAegUG.jpg\" />",
       "author": "@notam_in"
-    },
-    {
-      "title": "RT by @OsintTV: Lipulekh \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/manishindiatv/status/2064395130577269170#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-09T22:42:08+05:30",
-      "time": "09 Jun, 10:42 PM",
-      "type": "tweets",
-      "content": "<p>Lipulekh \ud83c\uddee\ud83c\uddf3</p>\n<img src=\"https://nitter.net/pic/media%2FHKY0bVWa0AAGyBn.jpg\" />",
-      "author": "@manishindiatv"
-    },
-    {
-      "title": "The Shehbaz Munir regime has escalated its tyrannical crackdown on the peaceful rights movement in PoK by placing a Rs 1 crore bounty on key leaders of the Joint Awami Action Committee (JAAC), including Shoukat Nawaz Mir.\nAfter shooting and killing civilians, Pakistani establishment is now hounding the political activists of the JAAC.",
-      "link": "https://nitter.net/Goreunit/status/2064392294082781363#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-09T22:30:52+05:30",
-      "time": "09 Jun, 10:30 PM",
-      "type": "tweets",
-      "content": "<p>The Shehbaz Munir regime has escalated its tyrannical crackdown on the peaceful rights movement in PoK by placing a Rs 1 crore bounty on key leaders of the Joint Awami Action Committee (JAAC), including Shoukat Nawaz Mir.<br />\nAfter shooting and killing civilians, Pakistani establishment is now hounding the political activists of the JAAC.</p>\n<img src=\"https://nitter.net/pic/media%2FHKYx19JbsAAAYEI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKYx2CabMAAkXLA.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKYx2cPaQAEekoA.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKYx2WVa0AAIiwR.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>BREAKING!!<br />\nPakistani army has opened fire with AK47 on protesters in Pallandari too!!<br />\nAt least six people are critically injured.<br />\nAsim Munir has made pakistan a failed military totalitarian regime..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064330405092995409#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064330284942995457%2Fpu%2Fimg%2FzROJeth0RZffnYlJ.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064330405092995409#m\">https://nitter.net/Goreunit/status/2064330405092995409#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "US didn't \"attacked\" the vessel, it \"disabled\" it ! \ud83e\udd2f",
-      "link": "https://nitter.net/elitepredatorss/status/2064391069568262166#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-09T22:26:00+05:30",
-      "time": "09 Jun, 10:26 PM",
-      "type": "tweets",
-      "content": "<p>US didn't \"attacked\" the vessel, it \"disabled\" it ! \ud83e\udd2f</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>MT Marivex, after US \"disabled\" it. The sanctioned vessel tried to bypass US blockade. 24 Indian nationals were rescued by Oman after the US strike.</p>\n<a href=\"https://nitter.net/sidhant/status/2064348083530748093#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064347955214344193%2Fpu%2Fimg%2FU-clQuTYVc20nCDG.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2064348083530748093#m\">https://nitter.net/sidhant/status/2064348083530748093#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
+    {
+      "title": "Defence Updates - AMCA Prototype Images, Agni-6 Missile Test Ready, Tejas Mk1A Fraud, India Gripen-E",
+      "link": "https://www.youtube.com/watch?v=zTh6bVJ_2mY",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-11T22:40:42+05:30",
+      "time": "11 Jun, 10:40 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/zTh6bVJ_2mY/mqdefault.jpg"
+    },
     {
       "title": "Why Tejas Mk1A Under Investigation?,India\u2019s New AWACS,Brahmos-NG delayed,MH-60R New Order",
       "link": "https://www.youtube.com/watch?v=sOFp915noPk",
@@ -1947,6 +1926,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
