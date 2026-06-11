@@ -1,13 +1,67 @@
 {
   "news": [
     {
+      "title": "India dispatches vaccines and medical supplies to Maldives as trusted First Responder",
+      "link": "https://newsonair.gov.in/india-dispatches-vaccines-and-medical-supplies-to-maldives-as-trusted-first-responder/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-11T17:16:44+05:30",
+      "time": "11 Jun, 05:16 PM",
+      "type": "news",
+      "description": "India has dispatched a consignment of 20 thousand doses of measles vaccines and approximately three tonnes of medical supplies to support the Governme..."
+    },
+    {
+      "title": "British defence minister John Healey quits over defence spending",
+      "link": "https://economictimes.indiatimes.com/news/defence/uk-british-defence-minister-healey-quits-over-defence-spending/articleshow/131657781.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-11T16:55:34+05:30",
+      "time": "11 Jun, 04:55 PM",
+      "type": "news",
+      "description": "British Defence Minister John Healey resigned, citing Prime Minister Keir Starmer's failure to commit necessary resources for national defense. Healey..."
+    },
+    {
+      "title": "Airbus signs a partnership with French counter-drone startup Alta Ares",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/airbus-signs-a-partnership-with-french-counter-drone-startup-alta-ares/131657244",
+      "source": "Economic Times",
+      "sort_key": "2026-06-11T16:33:30+05:30",
+      "time": "11 Jun, 04:33 PM",
+      "type": "news",
+      "description": "The company develops ammunition \u2060equipped with AI-based software to intercept and destroy \u200bdrones."
+    },
+    {
       "title": "ILA Berlin 2026 opens with focus on aerospace innovation, security and sustainability",
       "link": "https://www.indiastrategic.in/ila-berlin-2026-opens-with-focus-on-aerospace-innovation-security-and-sustainability/",
       "source": "India Strategic",
       "sort_key": "2026-06-11T16:21:58+05:30",
       "time": "11 Jun, 04:21 PM",
       "type": "news",
-      "description": "<p>Berlin, June 11. ILA Berlin 2026 opened on June 10 under the theme \u2018Pioneering Aerospace\u2019, bringing together the global aerospace community at Berl..."
+      "description": "<p>Report and pix by Uday Krishna Berlin, June 11. ILA Berlin 2026 opened on June 10 under the theme \u2018Pioneering Aerospace\u2019, bringing together the glo..."
+    },
+    {
+      "title": "Airbus signs a partnership with French counter-drone startup Alta Ares",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/airbus-signs-a-partnership-with-french-counter-drone-startup-alta-ares/131656666",
+      "source": "Economic Times",
+      "sort_key": "2026-06-11T16:11:11+05:30",
+      "time": "11 Jun, 04:11 PM",
+      "type": "news",
+      "description": "This collaboration will integrate Airbus&#039;s military command and defense management software with Alta Ares&#039; AI-equipped drone interceptors, ..."
+    },
+    {
+      "title": "Union Shipping Minister confirms death of three Indian sailors aboard\u00a0 Palau-flagged tanker MT Settebello",
+      "link": "https://newsonair.gov.in/indian-embassy-in-oman-monitoring-vessel-incident-near-shinas-port/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-11T16:10:00+05:30",
+      "time": "11 Jun, 04:10 PM",
+      "type": "news",
+      "description": "A maritime emergency is unfolding near the port of Shinas in northern Oman after a commercial tanker caught fire, in what is now the third incident in..."
+    },
+    {
+      "title": "UAE President wishes PM Modi on becoming India\u2019s longest-serving elected Prime Minister",
+      "link": "https://newsonair.gov.in/third-tanker-fire-in-three-days-off-oman-raises-alarm-for-indian-seafarers-three-killed-in-settebello-strike/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-11T15:40:05+05:30",
+      "time": "11 Jun, 03:40 PM",
+      "type": "news",
+      "description": "UAE President Mohamed bin Zayed Al Nahyan has congratulated Indian Prime Minister Narendra Modi on becoming India&#8217;s longest-serving continuously..."
     },
     {
       "title": "Fresh violence erupts in Manipur\u2019s Kamjong; Two villagers killed, houses torched",
@@ -64,33 +118,6 @@
       "description": "Prime Minister of Bhutan Tshering Tobgay today wrote an article in a national daily, congratulating Prime Minister Narendra Modi on becoming India\u2019s l..."
     },
     {
-      "title": "2026 FIFA World Cup kicks off at Estadio Azteca in Mexico City",
-      "link": "https://newsonair.gov.in/2026-fifa-world-cup-kicks-off-at-estadio-azteca-in-mexico-city/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-11T13:58:40+05:30",
-      "time": "11 Jun, 01:58 PM",
-      "type": "news",
-      "description": "Sports fans across the world are set for a month-long football spectacle as the 2026 FIFA World Cup kicks off tonight at the historic Estadio Azteca i..."
-    },
-    {
-      "title": "Indian Embassy in Oman monitoring vessel incident near Shinas port",
-      "link": "https://newsonair.gov.in/indian-embassy-in-oman-monitoring-vessel-incident-near-shinas-port/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-11T13:47:00+05:30",
-      "time": "11 Jun, 01:47 PM",
-      "type": "news",
-      "description": "The Indian Embassy in Oman said it has received information about another incident involving a vessel near Oman&#8217;s Shinas port earlier today. In ..."
-    },
-    {
-      "title": "Third tanker fire in three days off Oman raises alarm for Indian seafarers; three killed in Settebello strike",
-      "link": "https://newsonair.gov.in/third-tanker-fire-in-three-days-off-oman-raises-alarm-for-indian-seafarers-three-killed-in-settebello-strike/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-11T13:40:05+05:30",
-      "time": "11 Jun, 01:40 PM",
-      "type": "news",
-      "description": "A maritime emergency is unfolding near the port of Shinas in northern Oman after a commercial tanker caught fire, in what is now the third incident in..."
-    },
-    {
       "title": "CBI secures deportation of cyber fraud accused Ganesh Balaso Kale from Thailand",
       "link": "https://newsonair.gov.in/cbi-secures-deportation-of-cyber-fraud-accused-ganesh-balaso-kale-from-thailand/",
       "source": "All India Radio",
@@ -134,6 +161,15 @@
       "time": "11 Jun, 12:36 PM",
       "type": "news",
       "description": "As nearly 1.3 crore students across China sat for the Gaokao, the country\u2019s high-stakes university entrance examination, Beijing used the occasion to ..."
+    },
+    {
+      "title": "Three Indian sailors killed in US attack on cargo ship near Hormuz Strait off Oman coast",
+      "link": "https://www.indiatvnews.com/news/india/three-indian-sailors-killed-in-us-attack-on-cargo-ship-near-hormuz-strait-off-oman-coast-2026-06-11-1044444",
+      "source": "India TV",
+      "sort_key": "2026-06-11T12:08:08+05:30",
+      "time": "11 Jun, 12:08 PM",
+      "type": "news",
+      "description": "Three Indian sailors were killed after a commercial vessel came under attack from the US military near the Strait of Hormuz, Union Shipping Minister S..."
     },
     {
       "title": "Bentley, G-Wagon, sex parties: Inside Indian-American Mahender Makhijani\u2019s $100 million scam",
@@ -215,6 +251,15 @@
       "time": "11 Jun, 10:02 AM",
       "type": "news",
       "description": "The United States has carried out a second consecutive night of what it described as \u201cself-defence\u201d strikes against Iranian military infrastructure ne..."
+    },
+    {
+      "title": "Milestone for Make in India: Indigenous Airbus C-295 makes its first flight in Vadodara | WATCH",
+      "link": "https://www.indiatvnews.com/news/india/milestone-for-make-in-india-indigenous-airbus-c-295-makes-its-first-flight-in-vadodara-watch-2026-06-11-1044421",
+      "source": "India TV",
+      "sort_key": "2026-06-11T09:21:57+05:30",
+      "time": "11 Jun, 09:21 AM",
+      "type": "news",
+      "description": "India has reached a major milestone in its defence manufacturing journey as the first C295 military transport aircraft assembled in the country succes..."
     },
     {
       "title": "US Israel Iran War News Live Updates: All 20 Indians on board safe after attack on third vessel, says government",
@@ -701,36 +746,139 @@
       "time": "09 Jun, 05:22 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "India weighs action against HAL for delayed Tejas fighter deliveries",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/india-weighs-action-against-hal-for-delayed-tejas-fighter-deliveries/131610336",
-      "source": "Economic Times",
-      "sort_key": "2026-06-09T17:21:50+05:30",
-      "time": "09 Jun, 05:21 PM",
-      "type": "news",
-      "description": "In light of ongoing delays in the delivery of Tejas Mk1A fighter jets, the Defence Ministry is contemplating penalties for Hindustan Aeronautics Limit..."
-    },
-    {
-      "title": "Nepali security guard in UAE\u2019s Abu Dhabi wins Rs 78 crore lottery jackpot, plans house for family, Mahindra Thar",
-      "link": "https://indianexpress.com/article/world/uae-lottery-winner-nepalese-security-guard-bags-dh30-million-jackpot-10731198/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-09T16:43:06+05:30",
-      "time": "09 Jun, 04:43 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "India weighs action against HAL for delayed Tejas fighter deliveries",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-weighs-action-against-hal-for-delayed-tejas-fighter-deliveries/articleshow/131609170.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-09T16:41:55+05:30",
-      "time": "09 Jun, 04:41 PM",
-      "type": "news",
-      "description": "In light of ongoing delays in the delivery of Tejas Mk1A fighter jets, the Defence Ministry is contemplating penalties for Hindustan Aeronautics Limit..."
     }
   ],
   "tweets": [
+    {
+      "title": "Just in: US confirms it made strikes on MV Settebello.",
+      "link": "https://nitter.net/sidhant/status/2065039703477563889#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T17:23:26+05:30",
+      "time": "11 Jun, 05:23 PM",
+      "type": "tweets",
+      "content": "<p>Just in: US confirms it made strikes on MV Settebello.</p>\n<img src=\"https://nitter.net/pic/media%2FHKh-kw7a4AAz_CN.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKh-nweawAAP-j4.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "SMPP has delivered 106 Peacekeeper (Agniveg) drones to @adgpi \nThe platform is being marketed as indigenous, but it is Belarusian Mirotvorets UAV.\n\nCc @SMPPDEFENSE : do correct us if the assessment is wrong.",
+      "link": "https://nitter.net/alpha_defense/status/2065037873750110628#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-11T17:16:10+05:30",
+      "time": "11 Jun, 05:16 PM",
+      "type": "tweets",
+      "content": "<p>SMPP has delivered 106 Peacekeeper (Agniveg) drones to <a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\nThe platform is being marketed as indigenous, but it is Belarusian Mirotvorets UAV.<br />\n<br />\nCc <a href=\"https://nitter.net/SMPPDEFENSE\" title=\"SMPP Limited\">@SMPPDEFENSE</a> : do correct us if the assessment is wrong.</p>\n<img src=\"https://nitter.net/pic/media%2FHKh9ADkbsAA87g1.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Slovakia provided assistance during evacuation of Indians from Ukraine in 2022, say MEA officials",
+      "link": "https://nitter.net/sidhant/status/2065037329212006490#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T17:14:00+05:30",
+      "time": "11 Jun, 05:14 PM",
+      "type": "tweets",
+      "content": "<p>Slovakia provided assistance during evacuation of Indians from Ukraine in 2022, say MEA officials</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>MEA presser on PM Modi's France, Slovakia visit begins</p>\n<img src=\"https://nitter.net/pic/media%2FHKh5rBMaMAA4l11.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2065034223162147014#m\">https://nitter.net/sidhant/status/2065034223162147014#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Viva tech summit (India will have largest pavilion), Bharat innovates launch, bilat with Macron among key things on agenda during PM Modi\u2019s France visit, MEA officials say",
+      "link": "https://nitter.net/sidhant/status/2065036812255686927#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T17:11:57+05:30",
+      "time": "11 Jun, 05:11 PM",
+      "type": "tweets",
+      "content": "<p>Viva tech summit (India will have largest pavilion), Bharat innovates launch, bilat with Macron among key things on agenda during PM Modi\u2019s France visit, MEA officials say</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>MEA presser on PM Modi's France, Slovakia visit begins</p>\n<img src=\"https://nitter.net/pic/media%2FHKh5rBMaMAA4l11.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2065034223162147014#m\">https://nitter.net/sidhant/status/2065034223162147014#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Pakistan army also fired on hospital in Kotli where injured protestors were taken care of...\nAsim Munir is a Barbarian! @EURightsAgency @Reuters @UNHumanRights @AJENews @BBCWorld",
+      "link": "https://nitter.net/Goreunit/status/2065036550644330704#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T17:10:54+05:30",
+      "time": "11 Jun, 05:10 PM",
+      "type": "tweets",
+      "content": "<p>Pakistan army also fired on hospital in Kotli where injured protestors were taken care of...<br />\nAsim Munir is a Barbarian! <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/AJENews\" title=\"Al Jazeera Breaking News\">@AJENews</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2065036550644330704#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065036219193630721%2Fpu%2Fimg%2FehQZ9Ii8obW6-Iy8.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\u0111\u0178\u0161\u00a8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.<br />\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064765246385065984%2Fpu%2Fimg%2Fm2mdMyaqLgp54aNT.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064766085245845504%2Fpu%2Fimg%2FOIasq4pQb9WpbxZv.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064766192657834061#m\">https://nitter.net/Goreunit/status/2064766192657834061#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "MEA presser on PM Modi's France, Slovakia visit begins",
+      "link": "https://nitter.net/sidhant/status/2065034223162147014#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T17:01:39+05:30",
+      "time": "11 Jun, 05:01 PM",
+      "type": "tweets",
+      "content": "<p>MEA presser on PM Modi's France, Slovakia visit begins</p>\n<img src=\"https://nitter.net/pic/media%2FHKh5rBMaMAA4l11.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Shortly,  MEA presser on PM Modi's visit to France, Slovakia",
+      "link": "https://nitter.net/sidhant/status/2065033748757049586#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T16:59:46+05:30",
+      "time": "11 Jun, 04:59 PM",
+      "type": "tweets",
+      "content": "<p>Shortly,  MEA presser on PM Modi's visit to France, Slovakia</p>\n<img src=\"https://nitter.net/pic/media%2FHKh5PjsbsAAdLJI.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "MEA Spox Randhir Jaiswal says \"attacks are coming from US side\"; Points, \"2 of the vessels are sanctioned ship, one of them non compliant ships\"",
+      "link": "https://nitter.net/sidhant/status/2065032939499630628#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T16:56:33+05:30",
+      "time": "11 Jun, 04:56 PM",
+      "type": "tweets",
+      "content": "<p>MEA Spox Randhir Jaiswal says \"attacks are coming from US side\"; Points, \"2 of the vessels are sanctioned ship, one of them non compliant ships\"</p>\n<a href=\"https://nitter.net/sidhant/status/2065032939499630628#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065032896914784256%2Fpu%2Fimg%2FUPWqlWA1bznjSg8t.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "MEA Spox Randhir Jaiswal says all 3 Indian sailors who have died, have been identified",
+      "link": "https://nitter.net/sidhant/status/2065032894628991136#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T16:56:23+05:30",
+      "time": "11 Jun, 04:56 PM",
+      "type": "tweets",
+      "content": "<p>MEA Spox Randhir Jaiswal says all 3 Indian sailors who have died, have been identified</p>\n<a href=\"https://nitter.net/sidhant/status/2065032894628991136#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065032868259352576%2Fpu%2Fimg%2FhiR3wcuOzieUfqqS.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "So I am being told that if you\u2019re onboard a ship or aircraft that isn\u2019t Indian-flagged, your death means nothing to us.\n\nAccha. Thanks for the reality check.",
+      "link": "https://nitter.net/alpha_defense/status/2065032589451448342#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-11T16:55:10+05:30",
+      "time": "11 Jun, 04:55 PM",
+      "type": "tweets",
+      "content": "<p>So I am being told that if you\u2019re onboard a ship or aircraft that isn\u2019t Indian-flagged, your death means nothing to us.<br />\n<br />\nAccha. Thanks for the reality check.</p>\n<img src=\"https://nitter.net/pic/media%2FHKh4MLxb0AAfjxv.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @sidhant: Rajesh Sharma, father of killed Indian sailor speaks to WION's @sidhant, criticises US action\n\nHe says \"The US military has taken a stance, not a right way to control a commercial ship. They should follow marine law, and international law. Dropping a missile is not the option\"\n\n@Rhythmsharmax gets you this report",
+      "link": "https://nitter.net/WIONews/status/2065031570894037091#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T16:51:07+05:30",
+      "time": "11 Jun, 04:51 PM",
+      "type": "tweets",
+      "content": "<p>Rajesh Sharma, father of killed Indian sailor speaks to WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, criticises US action<br />\n<br />\nHe says \"The US military has taken a stance, not a right way to control a commercial ship. They should follow marine law, and international law. Dropping a missile is not the option\"<br />\n<br />\n<a href=\"https://nitter.net/Rhythmsharmax\" title=\"Rhythm Sharma\">@Rhythmsharmax</a> gets you this report</p>\n<a href=\"https://nitter.net/WIONews/status/2065031570894037091#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065030713230155776%2Fimg%2Fkd6AkQZjfyUYgGtw.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "India sends vaccines to Maldives:",
+      "link": "https://nitter.net/sidhant/status/2065029206371930460#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T16:41:43+05:30",
+      "time": "11 Jun, 04:41 PM",
+      "type": "tweets",
+      "content": "<p>India sends vaccines to Maldives:</p>\n<img src=\"https://nitter.net/pic/media%2FHKh1HLcbwAAEB7d.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"Action and inquiry against the captain, why risk the lives of the crew. I lost my son. Govt must take a tough stance\", says Rajesh Sharma, the father of 23-year-old sailor Aditya Sharma, who died after US attacked vessel off Oman coast.",
+      "link": "https://nitter.net/sidhant/status/2065029092458865078#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T16:41:16+05:30",
+      "time": "11 Jun, 04:41 PM",
+      "type": "tweets",
+      "content": "<p>\"Action and inquiry against the captain, why risk the lives of the crew. I lost my son. Govt must take a tough stance\", says Rajesh Sharma, the father of 23-year-old sailor Aditya Sharma, who died after US attacked vessel off Oman coast.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u7ac0\u0000\u0000\u009d\u0000</p>\n<a href=\"https://nitter.net/sidhant/status/2065029092458865078#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065017141921722368%2Fimg%2Fr7dBQmdgxbydVLvh.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "French diplomatic sources on inviting India for G7 summit say, \"India is a top priority for us, we have special relationship with us. India joined all the G7 tracks. They were invited to join all tracks\"",
       "link": "https://nitter.net/sidhant/status/2065022040210628930#m",
@@ -790,6 +938,16 @@
       "type": "tweets",
       "content": "<p>\"French govt is committed to Make in India in Defence\", say French diplomatic sources</p>",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: Rajesh Sharma, father of killed Indian sailor speaks to WION's @sidhant, criticises US action\n\nHe says \"The US military has taken a stance, not a right way to control a commercial ship. They should follow marine law, and international law. Dropping a missile is not the option\"\n\n@samikshaa3 has more details",
+      "link": "https://nitter.net/WIONews/status/2065019138914013656#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T16:01:43+05:30",
+      "time": "11 Jun, 04:01 PM",
+      "type": "tweets",
+      "content": "<p>Rajesh Sharma, father of killed Indian sailor speaks to WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, criticises US action<br />\n<br />\nHe says \"The US military has taken a stance, not a right way to control a commercial ship. They should follow marine law, and international law. Dropping a missile is not the option\"<br />\n<br />\n<a href=\"https://nitter.net/samikshaa3\" title=\"Samiksha Srivastava\">@samikshaa3</a> has more details</p>\n<a href=\"https://nitter.net/WIONews/status/2065019138914013656#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065017141921722368%2Fimg%2Fr7dBQmdgxbydVLvh.jpg\" />\n</a>",
+      "author": "@WIONews"
     },
     {
       "title": "French diplomatic sources says India, US leaders to be present along with leaders from Qatar, Saudi Arabia, UAE for West Asia specific meet at G7 summit next week. Sources say we \"emphasis on free navigation, we are not part of war, but it has impact on all of us\"",
@@ -902,6 +1060,16 @@
       "author": "@sidhant"
     },
     {
+      "title": "RT by @Goreunit: Pictures from Rawalakot PoJK. Civilians are being massacred by the Pakistan Army while international media sleeps!!\n@Reuters @BBCWorld @UNHumanRights @EURightsAgency",
+      "link": "https://nitter.net/Goreunit/status/2065009277924950490#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T15:22:32+05:30",
+      "time": "11 Jun, 03:22 PM",
+      "type": "tweets",
+      "content": "<p>Pictures from Rawalakot PoJK. Civilians are being massacred by the Pakistan Army while international media sleeps!!<br />\n<a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKhi-lxbYAAai8d.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi_R5bkAEkh2d.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi-38a4AAUeuU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi_QVbwAA5iR1.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Civilians are being massacred in PoJK by the tyrant regime of Munir ...<br />\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.<br />\n<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> Stop being oblivious to such brazen violation of all human rights in PoJK!!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984628407177217%2Fpu%2Fimg%2F4JtKGD9jNBqjnJxI.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984617955033088%2Fpu%2Fimg%2FUWrMEgFp532xffw8.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">https://nitter.net/Goreunit/status/2064985034050928756#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
       "title": "RT by @Goreunit: Exclusive: An angry PoJK resident blasted the PoJK Police helpline, accusing authorities of hiding the ground reality amid ongoing unrest.\n\n\u201cPoJK is burning, Pakistanis have killed our people, and you are spreading lies.\u201d\n\nIn the call accessed by us, the caller questioned @AJKP_Official claims of normalcy, challenged official social media messaging, and accused Pakistani forces of firing on civilians while concealing the true situation across PoJK.\n\n#PoJK #Rawalakot #Muzaffarabad #PakistanArmy #PakistanOccupiedKashmir #HumanRights #Protests #Pakistan #Kashmir #BreakingNews",
       "link": "https://nitter.net/shivank_8mishra/status/2065009068755030151#m",
       "source": "War & Gore",
@@ -910,36 +1078,6 @@
       "type": "tweets",
       "content": "<p>Exclusive: An angry PoJK resident blasted the PoJK Police helpline, accusing authorities of hiding the ground reality amid ongoing unrest.<br />\n<br />\n\u201cPoJK is burning, Pakistanis have killed our people, and you are spreading lies.\u201d<br />\n<br />\nIn the call accessed by us, the caller questioned <a href=\"https://nitter.net/AJKP_Official\" title=\"AJK Police Official\">@AJKP_Official</a> claims of normalcy, challenged official social media messaging, and accused Pakistani forces of firing on civilians while concealing the true situation across PoJK.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoJK\">#PoJK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rawalakot\">#Rawalakot</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Muzaffarabad\">#Muzaffarabad</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanArmy\">#PakistanArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanOccupiedKashmir\">#PakistanOccupiedKashmir</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23HumanRights\">#HumanRights</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Protests\">#Protests</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pakistan\">#Pakistan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kashmir\">#Kashmir</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BreakingNews\">#BreakingNews</a></p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2065009068755030151#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065008991063916544%2Fimg%2F_ejMIZn_7utEYuHF.jpg\" />\n</a>",
       "author": "@shivank_8mishra"
-    },
-    {
-      "title": "\"The captain continued to sail the ship, & was he under pressure?... Despite the blockade, the ship continued to vessel. Warning was given... The US military took a deadly action\", Rajesh Sharma, father of Indian sailor Aditya Sharma who died after US strike on vessel",
-      "link": "https://nitter.net/sidhant/status/2065007753916289377#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T15:16:29+05:30",
-      "time": "11 Jun, 03:16 PM",
-      "type": "tweets",
-      "content": "<p>\"The captain continued to sail the ship, &amp; was he under pressure?... Despite the blockade, the ship continued to vessel. Warning was given... The US military took a deadly action\", Rajesh Sharma, father of Indian sailor Aditya Sharma who died after US strike on vessel</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>US \"should have followed marine law, and international law. Dropping a missile is not the option\", Father of slain Indian sailor Aditya Sharma criticises US over strike on tanker off Oman; Calls for investigating the actions of captain.<br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/father-of-slain-indian-sailor-aditya-sharma-criticises-us-over-strike-on-tanker-off-oman-1781164979109\">wionews.com/india-news/fathe\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2065005851644182528%2FveO9g05-%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2065006030950638001#m\">https://nitter.net/sidhant/status/2065006030950638001#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "3rd incident reported, this time a vessel MT Jalveer off Oman coast. Indian embassy in Oman involved in rescue operation. Reporting:",
-      "link": "https://nitter.net/sidhant/status/2065006728933212593#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T15:12:24+05:30",
-      "time": "11 Jun, 03:12 PM",
-      "type": "tweets",
-      "content": "<p>3rd incident reported, this time a vessel MT Jalveer off Oman coast. Indian embassy in Oman involved in rescue operation. Reporting:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000</p>\n<a href=\"https://nitter.net/sidhant/status/2065006728933212593#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064985803001118720%2Fimg%2FpYeceU1c853dVmOt.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US \"should have followed marine law, and international law. Dropping a missile is not the option\", Father of slain Indian sailor Aditya Sharma criticises US over strike on tanker off Oman; Calls for investigating the actions of captain.\n\nInterview:\n\nhttps://www.wionews.com/india-news/father-of-slain-indian-sailor-aditya-sharma-criticises-us-over-strike-on-tanker-off-oman-1781164979109",
-      "link": "https://nitter.net/sidhant/status/2065006030950638001#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T15:09:38+05:30",
-      "time": "11 Jun, 03:09 PM",
-      "type": "tweets",
-      "content": "<p>US \"should have followed marine law, and international law. Dropping a missile is not the option\", Father of slain Indian sailor Aditya Sharma criticises US over strike on tanker off Oman; Calls for investigating the actions of captain.<br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/father-of-slain-indian-sailor-aditya-sharma-criticises-us-over-strike-on-tanker-off-oman-1781164979109\">wionews.com/india-news/fathe\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2065005851644182528%2FveO9g05-%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Missiles loaded in silos; attack anytime in retaliation to \n\n1. Chief Engineer Patnala Suresh\n2. Deck cadet Aditya Sharma\n3. Engine fitter Shivanand Chaurasiya\n\n3 Indian sailors killed in U.S. attack on ship off Oman coast.",
@@ -962,36 +1100,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Evacuation of crew from MT Jalveer to Shinas port is being coordinated with assistance from Royal Navy of Oman, and shall soon be completed: Indian embassy in Oman",
-      "link": "https://nitter.net/sidhant/status/2064999553770967166#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T14:43:54+05:30",
-      "time": "11 Jun, 02:43 PM",
-      "type": "tweets",
-      "content": "<p>Evacuation of crew from MT Jalveer to Shinas port is being coordinated with assistance from Royal Navy of Oman, and shall soon be completed: Indian embassy in Oman</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "It is particularly important that maritime trade is neither impeded nor endangered, says EAM Dr S Jaishankar in Bulgaria \n\nhttps://x.com/i/broadcasts/1DxLddQnBVzxm",
-      "link": "https://nitter.net/sidhant/status/2064996086977314903#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T14:30:07+05:30",
-      "time": "11 Jun, 02:30 PM",
-      "type": "tweets",
-      "content": "<p>It is particularly important that maritime trade is neither impeded nor endangered, says EAM Dr S Jaishankar in Bulgaria <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1DxLddQnBVzxm\">nitter.net/i/broadcasts/1DxLddQnB\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2065020831038869504%2FoW3q2UCD%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "UK MTO on incident off Oman coast:",
-      "link": "https://nitter.net/sidhant/status/2064994701619679404#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T14:24:37+05:30",
-      "time": "11 Jun, 02:24 PM",
-      "type": "tweets",
-      "content": "<p>UK MTO on incident off Oman coast:</p>\n<img src=\"https://nitter.net/pic/media%2FHKhVu0fbYAA0K0I.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Another vessel comes under attack off Oman coast, Indian mission says monitoring the situation. 3 Indians are confirmed dead in previous strike by US. <br />\n<br />\nDetails:\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000</p>\n<a href=\"https://nitter.net/sidhant/status/2064978855434367326#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064971839840161792%2Fimg%2FrFyN0cC3yclbQytj.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2064978855434367326#m\">https://nitter.net/sidhant/status/2064978855434367326#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Another vessel has come under attack off Oman coast : Vessel MT Jalveer",
       "link": "https://nitter.net/alpha_defense/status/2064990953010761937#m",
       "source": "Alpha Defense",
@@ -1012,54 +1120,14 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @sidhant: #BREAKING | Indian sailors killed after US attack\n\n3 tankers with Indian crew were attacked in 3 days\n\nIndia stresses freedom of navigation at UN\n\n@samikshaa3 and @sidhant have more",
-      "link": "https://nitter.net/WIONews/status/2064986381601169596#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T13:51:33+05:30",
-      "time": "11 Jun, 01:51 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BREAKING\">#BREAKING</a> | Indian sailors killed after US attack<br />\n<br />\n3 tankers with Indian crew were attacked in 3 days<br />\n<br />\nIndia stresses freedom of navigation at UN<br />\n<br />\n<a href=\"https://nitter.net/samikshaa3\" title=\"Samiksha Srivastava\">@samikshaa3</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2064986381601169596#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064985803001118720%2Fimg%2FpYeceU1c853dVmOt.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
-      "title": "Smoke coming out of MT Jalveer after an incident. More details awaited. Indian sailors on board the vessel off Oman coast. \n\nVisuals by Forward Seamen's Union of India",
-      "link": "https://nitter.net/sidhant/status/2064985031320486375#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T13:46:11+05:30",
+      "title": "Civilians are being massacred in PoJK by the tyrant regime of Munir ...\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.\n@EURightsAgency @UNHumanRights @Reuters @UN_HRC Stop being oblivious to such brazen violation of all human rights in PoJK!!",
+      "link": "https://nitter.net/Goreunit/status/2064985034050928756#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T13:46:12+05:30",
       "time": "11 Jun, 01:46 PM",
       "type": "tweets",
-      "content": "<p>Smoke coming out of MT Jalveer after an incident. More details awaited. Indian sailors on board the vessel off Oman coast. <br />\n<br />\nVisuals by Forward Seamen's Union of India</p>\n<a href=\"https://nitter.net/sidhant/status/2064985031320486375#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984999284379648%2Fpu%2Fimg%2FMCQr-XjNtuGFnrit.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Tanker MT Jalveer carrying Indian sailors attacked off Oman coast. 3rd such incident in days. <br />\n<br />\nReporting: <br />\n<br />\n<a href=\"https://www.wionews.com/india-news/tanker-mt-jalveer-carrying-indian-sailors-attacked-off-oman-coast-1781162858146\">wionews.com/india-news/tanke\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2064979312311521280%2Fgjms3TYl%3Fformat%3Djpg%26name%3D800x419\" />\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2064981523997303210#m\">https://nitter.net/sidhant/status/2064981523997303210#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Tanker MT Jalveer carrying Indian sailors attacked off Oman coast. 3rd such incident in days. \n\nReporting: \n\nhttps://www.wionews.com/india-news/tanker-mt-jalveer-carrying-indian-sailors-attacked-off-oman-coast-1781162858146",
-      "link": "https://nitter.net/sidhant/status/2064981523997303210#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T13:32:15+05:30",
-      "time": "11 Jun, 01:32 PM",
-      "type": "tweets",
-      "content": "<p>Tanker MT Jalveer carrying Indian sailors attacked off Oman coast. 3rd such incident in days. <br />\n<br />\nReporting: <br />\n<br />\n<a href=\"https://www.wionews.com/india-news/tanker-mt-jalveer-carrying-indian-sailors-attacked-off-oman-coast-1781162858146\">wionews.com/india-news/tanke\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2064979312311521280%2Fgjms3TYl%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Meanwhile, it is mounting anger in India due to death of 3 Indian nationals after US strike on commercial vessel Settebello. First such killing amid US blockade of the region.",
-      "link": "https://nitter.net/sidhant/status/2064980408299929914#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T13:27:49+05:30",
-      "time": "11 Jun, 01:27 PM",
-      "type": "tweets",
-      "content": "<p>Meanwhile, it is mounting anger in India due to death of 3 Indian nationals after US strike on commercial vessel Settebello. First such killing amid US blockade of the region.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Important to know, of the 3 vessels,  2 were sanctioned- black/ grey ships. Its also reported that these ships switched off Automatic Identification Systems, especially when it is known, that area is under blockade. Indian nationals becoming collateral of a regional crisis.",
-      "link": "https://nitter.net/sidhant/status/2064979561268605270#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T13:24:27+05:30",
-      "time": "11 Jun, 01:24 PM",
-      "type": "tweets",
-      "content": "<p>Important to know, of the 3 vessels,  2 were sanctioned- black/ grey ships. Its also reported that these ships switched off Automatic Identification Systems, especially when it is known, that area is under blockade. Indian nationals becoming collateral of a regional crisis.</p>",
-      "author": "@sidhant"
+      "content": "<p>Civilians are being massacred in PoJK by the tyrant regime of Munir ...<br />\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.<br />\n<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> Stop being oblivious to such brazen violation of all human rights in PoJK!!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984628407177217%2Fpu%2Fimg%2F4JtKGD9jNBqjnJxI.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984617955033088%2Fpu%2Fimg%2FUWrMEgFp532xffw8.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Pakistan occupied Kashmir protests:<br />\n<br />\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064894514578518016%2Fpu%2Fimg%2FCy12vBffrE049MU9.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">https://nitter.net/Goreunit/status/2064894554273444210#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
     },
     {
       "title": "BREAKING: GERMANY MOVES TO DEVELOP 6TH-GENERATION FIGHTER AFTER FCAS DEADLOCK\n\nGermany\u2019s defence industry is reportedly forming \u201cTeam Gen 6\u201d, an alliance led by Airbus Defence and Space and seven major defence firms to preserve a national pathway toward a 6th-generation combat aircraft after the breakdown of the Franco-German FCAS fighter program.\n\nThe project remains a concept and industrial framework for now, with any operational aircraft expected after 2040.",
@@ -1098,7 +1166,7 @@
       "sort_key": "2026-06-11T12:11:58+05:30",
       "time": "11 Jun, 12:11 PM",
       "type": "tweets",
-      "content": "<p>Situation is still out terrifying in Pakistan occupied Kashmir. Innocent civilians are being killed for asking basic rights.\u0000\u0000\u0000\u0000\u00e7\u00a0\u201e\u0000\u0000\u00c7\u017a\u0000\u00c7\u017a\u0000\u00fd\u00b4\u02dc\u2013\u2022\u015a\u00fd\u0142\u2122\u2014\u2030\u013e\u00fc\u013d\u2018\u0192\u0152\u013d\u00fd\u201a\u008d\u0142\u201d\u02db\u00fc\u02db\u008d\u201c\u02c6\u013d\u00fd\u013d\u009d\u02c7\u02c6\u02db\u00fd\u0160\u009d\u013d\u02dd\u02d8\u00fd\u0178\u203a\u015b\u2022\u00a4\u00fd\u013d\u0153\u015a\u008d\u0142\u00fd\u013d\u2014\u015b\u0161\u013d\u00fd\u0179\u02dc\u015a\u2026\u017d\u00fc\u02db\u2030\u2013\u2018\u013d\u00fc\u013d\u0152\u0141\u02c6\u013e</p>\n<a href=\"https://nitter.net/Goreunit/status/2064961321901445143#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064867406414041088%2Fpu%2Fimg%2FlhZhgFRLZD-C12cj.jpg\" />\n</a>",
+      "content": "<p>Situation is still out terrifying in Pakistan occupied Kashmir. Innocent civilians are being killed for asking basic rights.\u0000\u0000\u0000\u0000\u00e7\u201d\u013d\u0000\u0000\u00c7\u00b8\u0000\u00c7\u00b8\u0000\u00fd\u00b4\u02dc\u2013\u2022\u015a\u00fd\u0142\u2122\u2014\u2030\u013e\u00fc\u013d\u2018\u0192\u0152\u013d\u00fd\u201a\u008d\u0142\u201d\u02db\u00fc\u02db\u008d\u201c\u02c6\u013d\u00fd\u013d\u009d\u02c7\u02c6\u02db\u00fd\u0160\u009d\u013d\u02dd\u02d8\u00fd\u0178\u203a\u015b\u2022\u00a4\u00fd\u013d\u0153\u015a\u008d\u0142\u00fd\u013d\u2014\u015b\u0161\u013d\u00fd\u0179\u02dc\u015a\u2026\u017d\u00fc\u02db\u2030\u2013\u2018\u013d\u00fc\u013d\u0152\u0141\u02c6\u013e</p>\n<a href=\"https://nitter.net/Goreunit/status/2064961321901445143#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064867406414041088%2Fpu%2Fimg%2FlhZhgFRLZD-C12cj.jpg\" />\n</a>",
       "author": "@Goreunit"
     },
     {
@@ -1512,16 +1580,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "AMCA RCS Testing : Those coordinates are very close to DRDO\u2019s ORANGE (Open Range RCS Measurement Facility) at Dundigal",
-      "link": "https://nitter.net/alpha_defense/status/2064639918153077042#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-10T14:54:50+05:30",
-      "time": "10 Jun, 02:54 PM",
-      "type": "tweets",
-      "content": "<p>AMCA RCS Testing : Those coordinates are very close to DRDO\u2019s ORANGE (Open Range RCS Measurement Facility) at Dundigal</p>\n<img src=\"https://nitter.net/pic/media%2FHKcTD2XaEAA-d7P.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "BREAKING: Indian Army seeks to procure 300 K9 Vajra artillery guns at Rs 23,000 crore\n\nThe Indian Army is set to seek approval for the procurement of over 300 additional K9 Vajra-T 155mm/52-calibre self-propelled howitzers in a deal worth approximately \u20b923,000 crore.\n\nIf approved, India's total K9 Vajra fleet will exceed 500 guns, significantly boosting long-range firepower along both the western front and the Line of Actual Control (LAC) with China.\n\nThe K9 Vajra, manufactured in India by L&T under technology partnership with Hanwha Aerospace, offers high mobility, armoured protection, and \"shoot-and-scoot\" capability with ranges exceeding 40 km.",
       "link": "https://nitter.net/NetramDefence/status/2064621105093157058#m",
       "source": "Netram Defense",
@@ -1610,16 +1668,6 @@
       "type": "tweets",
       "content": "<p>Pakistan occupied Kashmir:<br />\n<br />\nPakistan govt is blaming Raaaa for internal disruption, Asim Munir is making a fool of his own civilian.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064577636634968118#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064577539503198208%2Fpu%2Fimg%2Fagi2NT5vn1DGedaD.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\u0111\u0178\u0161\u00a8Just In: Atleast 7\u0102\u2014 civilians have been killed by Pakistani army in Kotli, PoJK.<br />\nPakistan army opened fire on protestors demanding basic rights.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064352423926484992%2Fpu%2Fimg%2FmE8-JZZ0a4n8mHL7.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKYNnD6a4AA9Gk5.jpg\" />\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">https://nitter.net/Goreunit/status/2064352578423710033#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Reports claim the Indian Army is planning to procure 300 additional K9 Vajra-T SPHs from L&T, taking the fleet to 500+ guns.\n\nWould wait for more clarity on this. My understanding was that the long-term requirement stood at around 300 guns in total\n100 already in service, 100 on order, and another 100 likely later.",
-      "link": "https://nitter.net/alpha_defense/status/2064574378269192608#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-10T10:34:24+05:30",
-      "time": "10 Jun, 10:34 AM",
-      "type": "tweets",
-      "content": "<p>Reports claim the Indian Army is planning to procure 300 additional K9 Vajra-T SPHs from L&amp;T, taking the fleet to 500+ guns.<br />\n<br />\nWould wait for more clarity on this. My understanding was that the long-term requirement stood at around 300 guns in total<br />\n100 already in service, 100 on order, and another 100 likely later.</p>\n<img src=\"https://nitter.net/pic/media%2FHKbXc3SaUAAbgwg.jpg\" />",
-      "author": "@alpha_defense"
     },
     {
       "title": "Iran shot down US Apache helicopters over the Strait of Hormuz.",
@@ -1742,16 +1790,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "\u0111\u0178\u0161\u00a8\u0111\u0178\u0161\u00a8 Napak army opened fire at the protestors in khari sharif village, Mirpur, POJK!!\nCivilians are being butchered in broad daylight while international media and activists turn a blind eye to the tyranny of Munir regime...@EURightsAgency @Reuters @UNHumanRights",
-      "link": "https://nitter.net/Goreunit/status/2064346071418232972#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-09T19:27:11+05:30",
-      "time": "09 Jun, 07:27 PM",
-      "type": "tweets",
-      "content": "<p>\u0111\u0178\u0161\u00a8\u0111\u0178\u0161\u00a8 Napak army opened fire at the protestors in khari sharif village, Mirpur, POJK!!<br />\nCivilians are being butchered in broad daylight while international media and activists turn a blind eye to the tyranny of Munir regime...<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u00e2\u017e\u0104\u010f\u00b8\u008f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2064346071418232972#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064345857961660417%2Fpu%2Fimg%2FawzLraevhktMTvV2.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Big breaking \u0111\u0178\u0161\u00a8<br />\nHeavy Firing on the people of Bhimber during the protests in Pakistan occupied Kashmir, people were heading towards Mirpur.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064242870937387013#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064242794101919745%2Fpu%2Fimg%2FGFfpRaYoppm6BT3v.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064242870937387013#m\">https://nitter.net/Goreunit/status/2064242870937387013#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "\ud83d\udea8 Interesting days ahead: A pro TTP account a few days ago called Lashkar e Taiba the \u201cB team of Pakistani intelligence\u201d and described it as the biggest obstacle to TTP expansion in Gilgit Baltistan and nearby areas. It also stated that LeT was involved in the arrest and killing of many TTP members in the region.\n\nOsintTV earlier reported that some JeM members joined TTP and fought against Pakistan. These developments suggest growing tensions and shifting narratives around these groups and their reported links with ISI.\n\nCredit : @cozyduke_apt29",
       "link": "https://nitter.net/OsintTV/status/2064342737395089440#m",
       "source": "Osint TV",
@@ -1800,16 +1838,6 @@
       "type": "tweets",
       "content": "<p>BREAKING!!<br />\nPakistani army has opened fire with AK47 on protesters in Pallandari too!!<br />\nAt least six people are critically injured.<br />\nAsim Munir has made pakistan a failed military totalitarian regime..</p>\n<a href=\"https://nitter.net/Goreunit/status/2064330405092995409#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064330284942995457%2Fpu%2Fimg%2FzROJeth0RZffnYlJ.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Pallandhari, Pakistan occupied Jammu and Kashmir <br />\n<br />\nProtestors have snatched the shoes of police personnel who was shelling tear gases. \u0111\u0178\u02dc\u201a</p>\n<a href=\"https://nitter.net/Goreunit/status/2064247289603092564#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064247207663136768%2Fpu%2Fimg%2FZhadbdU1pOIJBWtd.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u00e2\u20ac\u201d <cite><a href=\"https://nitter.net/Goreunit/status/2064247289603092564#m\">https://nitter.net/Goreunit/status/2064247289603092564#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: The Pakistani military has gagged the media too, directing national TV channels to feature only ISPR-approved security commentators and analysts so civilian casualties can be downplayed while emphasising military losses, helping to build public support for Pakistani actions in PoJK and shape the narrative around ongoing state excesses.",
-      "link": "https://nitter.net/AsYouNotWish/status/2064304045498794101#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-09T16:40:12+05:30",
-      "time": "09 Jun, 04:40 PM",
-      "type": "tweets",
-      "content": "<p>The Pakistani military has gagged the media too, directing national TV channels to feature only ISPR-approved security commentators and analysts so civilian casualties can be downplayed while emphasising military losses, helping to build public support for Pakistani actions in PoJK and shape the narrative around ongoing state excesses.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>PoJK IG Malik Liaqat Ali, a retired Pakistan Army captain, openly admitted to the media that four Pakistani policemen lost their lives during the JAAC protests.<br />\n<br />\nBut not a word on how many PoJK residents have been killed so far and why they are protesting.<br />\n<br />\nFor Islamabad, uniformed lives count. Local lives don't even deserve a statistic.</p>\n<a href=\"https://nitter.net/OsintTV/status/2064236184163733602#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064236022578237440%2Fimg%2FgsndIgnTdg3XWgou.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2064236184163733602#m\">https://nitter.net/OsintTV/status/2064236184163733602#m</a>\n</footer>\n</blockquote>",
-      "author": "@AsYouNotWish"
     }
   ],
   "youtube": [
@@ -1905,6 +1933,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
