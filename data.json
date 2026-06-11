@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "In active talks with Indian government, received encouraging feedback: Starlink",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/in-active-talks-with-indian-government-received-encouraging-feedback-starlink/131647241",
+      "source": "Economic Times",
+      "sort_key": "2026-06-11T07:57:42+05:30",
+      "time": "11 Jun, 07:57 AM",
+      "type": "news",
+      "description": "Starlink has applied for a licence to start satellite communications services in India. The government has issued a letter of intent to the company an..."
+    },
+    {
+      "title": "PM Modi expresses gratitude to global leaders for congratulatory messages on historic milestone",
+      "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-global-leaders-for-congratulatory-messages-on-historic-milestone/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-11T07:38:36+05:30",
+      "time": "11 Jun, 07:38 AM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi has expressed gratitude to Italian Prime Minister Giorgia Meloni, Malaysian Prime Minister Anwar Ibrahim, German Federal ..."
+    },
+    {
       "title": "Canada introduces bill to restrict social media access for children under 16",
       "link": "https://newsonair.gov.in/canada-introduces-bill-to-restrict-social-media-access-for-children-under-16/",
       "source": "All India Radio",
@@ -71,15 +89,6 @@
       "time": "11 Jun, 12:05 AM",
       "type": "news",
       "description": "India's new light battle tank, Project Zorawar, faces a two-year induction delay. Developers are enhancing protection levels, a move that adds weight ..."
-    },
-    {
-      "title": "All about US Corsair unmanned boat that rescued Apache helicopter crew in Hormuz",
-      "link": "https://theprint.in/defence/all-about-us-corsair-unmanned-boat-that-rescued-apache-helicopter-crew-in-hormuz/2956295/",
-      "source": "The Print",
-      "sort_key": "2026-06-10T23:00:37+05:30",
-      "time": "10 Jun, 11:00 PM",
-      "type": "news",
-      "description": "The unmanned boat was able to locate, retrieve and transport the 2 AH-64 Apache helicopter crew members after the crash."
     },
     {
       "title": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash",
@@ -197,15 +206,6 @@
       "time": "10 Jun, 08:48 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Did Indian government halt Elon Musk\u2019s Starlink\u2019s commercial operations",
-      "link": "https://www.tribuneindia.com/news/business/did-indian-government-halt-elon-musks-starlinks-commercial-operations",
-      "source": "The Tribune",
-      "sort_key": "2026-06-10T20:04:38+05:30",
-      "time": "10 Jun, 08:04 PM",
-      "type": "news",
-      "description": "India has reportedly halted approvals for Elon Musk\u2019s space-based internet provider Starlink to commence its commercial operations amid concerns over ..."
     },
     {
       "title": "Pak army plane crashes in POJK; all on board killed",
@@ -431,15 +431,6 @@
       "time": "10 Jun, 02:12 PM",
       "type": "news",
       "description": "At least 13 people, mostly children, were killed in a Pakistani military airstrikes in Afghanistan\u2019s Kunar, Khost, and Paktika provinces. In a stateme..."
-    },
-    {
-      "title": "Sri Lankan President Anura Kumara Dissanayake congratulates PM Modi on historic milestone",
-      "link": "https://newsonair.gov.in/sri-lankan-president-anura-kumara-dissanayake-congratulates-pm-modi-on-historic-milestone/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-10T14:04:30+05:30",
-      "time": "10 Jun, 02:04 PM",
-      "type": "news",
-      "description": "Sri Lankan President Anura Kumara Dissanayake on Wednesday congratulated Prime Minister Narendra Modi on becoming the longest-serving elected Prime Mi..."
     },
     {
       "title": "Defence Minister Rajnath Singh to review CGP at Air Force Academy on June 13",
@@ -809,18 +800,39 @@
       "time": "09 Jun, 08:33 AM",
       "type": "news",
       "description": "Katz also rejected Iranian warnings issued amid the latest regional tensions"
-    },
-    {
-      "title": "Brazilian aerospace giant Embraer makes strong pitch to win tender for Indian military's transport aircraft",
-      "link": "https://economictimes.indiatimes.com/news/defence/brazilian-aerospace-giant-embraer-makes-strong-pitch-to-win-tender-for-indian-militarys-transport-aircraft/articleshow/131600064.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-09T08:19:48+05:30",
-      "time": "09 Jun, 08:19 AM",
-      "type": "news",
-      "description": "Brazilian aerospace firm Embraer is actively seeking to win a major Indian military transport aircraft tender. Their C-390 Millennium is the contender..."
     }
   ],
   "tweets": [
+    {
+      "title": "Muzaffarabad, Pakistan occupied Kashmir MI 17 crash - \nFull list of casualties.\n22 personnel\n\n21 Avn Sqn:\nCol Amjad Latif\nMaj Majid\nSM Munir Masih\nHav Amanat\nHav Alamgir\nHav Regan Masih\n\nSOW:\nMaj Usman\nSep Fahad\nSep Shahid\n\n2 Wing Rangers:\nLnk Asghar\nSep Khurram Mumtaz\nSep Faheem Akhtar\nSep Shahbaz\nSep Haris\nSep Abdullah\nSep Azhar\nSep Gulraiz\nSep Abdul Malik\nSep Aqeel\nSep Arsalan Ayub\nSep Dilawar\nSep Khalid",
+      "link": "https://nitter.net/Goreunit/status/2064895397450207325#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T07:50:01+05:30",
+      "time": "11 Jun, 07:50 AM",
+      "type": "tweets",
+      "content": "<p>Muzaffarabad, Pakistan occupied Kashmir MI 17 crash - <br />\nFull list of casualties.<br />\n22 personnel<br />\n<br />\n21 Avn Sqn:<br />\nCol Amjad Latif<br />\nMaj Majid<br />\nSM Munir Masih<br />\nHav Amanat<br />\nHav Alamgir<br />\nHav Regan Masih<br />\n<br />\nSOW:<br />\nMaj Usman<br />\nSep Fahad<br />\nSep Shahid<br />\n<br />\n2 Wing Rangers:<br />\nLnk Asghar<br />\nSep Khurram Mumtaz<br />\nSep Faheem Akhtar<br />\nSep Shahbaz<br />\nSep Haris<br />\nSep Abdullah<br />\nSep Azhar<br />\nSep Gulraiz<br />\nSep Abdul Malik<br />\nSep Aqeel<br />\nSep Arsalan Ayub<br />\nSep Dilawar<br />\nSep Khalid</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>At least 21 NaPak army personnel have died in Muzaffarabad MI 17 crash. <br />\nAll the personnel were involved in surveillance against protestors. <br />\nWhat a Clownery \ud83e\udd21 earlier they were shooting innocent civilians, now they died.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064687640130257327#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064687610904424448%2Fpu%2Fimg%2FQIqYs2zo108IcwrJ.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064687640130257327#m\">https://nitter.net/Goreunit/status/2064687640130257327#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Pakistan occupied Kashmir protests:\n\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.",
+      "link": "https://nitter.net/Goreunit/status/2064894554273444210#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T07:46:40+05:30",
+      "time": "11 Jun, 07:46 AM",
+      "type": "tweets",
+      "content": "<p>Pakistan occupied Kashmir protests:<br />\n<br />\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064894514578518016%2Fpu%2Fimg%2FCy12vBffrE049MU9.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>You reap what you sow \ud83d\ude01 <a href=\"https://nitter.net/CMShehbaz\" title=\"Shehbaz Sharif\">@CMShehbaz</a> <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064774574932447232%2Fpu%2Fimg%2Fs1NXj-VOh6tD3CAf.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">https://nitter.net/Goreunit/status/2064774697032822787#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "India is firmly opposed to attacks on merchant shipping as many of our nationals are prominent in its global workforce: Indian envoy to UN @IndiaUNNewYork @AmbHarishP on West Asia war",
+      "link": "https://nitter.net/sidhant/status/2064890966151176220#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T07:32:24+05:30",
+      "time": "11 Jun, 07:32 AM",
+      "type": "tweets",
+      "content": "<p>India is firmly opposed to attacks on merchant shipping as many of our nationals are prominent in its global workforce: Indian envoy to UN <a href=\"https://nitter.net/IndiaUNNewYork\" title=\"India at UN, NY\">@IndiaUNNewYork</a> <a href=\"https://nitter.net/AmbHarishP\" title=\"Parvathaneni Harish\">@AmbHarishP</a> on West Asia war</p>\n<a href=\"https://nitter.net/sidhant/status/2064890966151176220#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064890845678215168%2Fpu%2Fimg%2F98GPan0arVt4egzz.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "\"We've made at least a 180 turn\" in ties, says an upbeat Canada High Commissioner to India @CanadainIndia Cooter. \n\nOn India's Khalistan extremists concern, says, \"we're coming closer to a convergence, and how we see that problem\"\n\nInterview:\n\nhttps://www.wionews.com/world/canada-envoy-cooter-says-ties-with-india-at-best-moment-ever-energy-defence-cooperation-to-accelerate-1781118622735",
       "link": "https://nitter.net/sidhant/status/2064791863190819012#m",
@@ -938,7 +950,7 @@
       "sort_key": "2026-06-10T23:53:45+05:30",
       "time": "10 Jun, 11:53 PM",
       "type": "tweets",
-      "content": "<p>\"No\", US Energy Secretary Wright when asked if US Navy had escorted an oil tanker through the Strait of Hormuz.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00fc\u0090\u008f\u00b0\u0161\u00a0\u00e7\u2020\u0081\u0000\u0000\u00c7\u02dd\u0000\u00c7\u02dd\u0000</p>\n<a href=\"https://nitter.net/sidhant/status/2064775541635649893#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064766406483197953%2Fimg%2FN_KBxP9DfRThRQFm.jpg\" />\n</a>",
+      "content": "<p>\"No\", US Energy Secretary Wright when asked if US Navy had escorted an oil tanker through the Strait of Hormuz.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u00fd\u201c\u0081\u015e\u2039\u20ac\u013a\u2122\u0104\u00c7\u0105\u0000\u00c7\u0105</p>\n<a href=\"https://nitter.net/sidhant/status/2064775541635649893#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064766406483197953%2Fimg%2FN_KBxP9DfRThRQFm.jpg\" />\n</a>",
       "author": "@sidhant"
     },
     {
@@ -1150,16 +1162,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 FLASH NEWS : <br />\n<br />\nINDIA SUMMONS U.S. CHARG\u00c9 D'AFFAIRES JASON MEEKS OVER THE STRIKE ON THE MT MARIVEX VESSEL OFF THE COAST OF OMAN, FROM WHICH 24 INDIAN NATIONALS WERE RESCUED BY OMANI AUTHORITIES.</p>\n<a href=\"https://nitter.net/OsintTV/status/2064750906277527781#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064749674641133568%2Fimg%2F3IDjntmyZZWQ4vui.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "US Ambassador Sergio Gor is in Kazakhstan",
-      "link": "https://nitter.net/sidhant/status/2064750026769977835#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-10T22:12:22+05:30",
-      "time": "10 Jun, 10:12 PM",
-      "type": "tweets",
-      "content": "<p>US Ambassador Sergio Gor is in Kazakhstan</p>\n<hr />\n<blockquote>\n<b>Ambassador Sergio Gor (@USAmbIndia)</b>\n<p>\n<p>It was a pleasure to meet with President Tokayev of Kazakhstan. We had a productive discussion on strengthening commercial ties, particularly in the critical minerals, energy sectors and aviation. We also exchanged views on advancing the Board of Peace, the forthcoming G20 meeting, and new areas of bilateral collaboration.</p>\n<img src=\"https://nitter.net/pic/media%2FHKdmWxSXQAATiYZ.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/USAmbIndia/status/2064731524201693331#m\">https://nitter.net/USAmbIndia/status/2064731524201693331#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "A landmark moment for India's aerospace industry \ud83c\uddee\ud83c\uddf3\u2708\ufe0f\n\nThe first Made-in-India Airbus #C295 has successfully completed its maiden test flight from the Final Assembly Line in Vadodara.\n>First of 40 aircraft to be mfgd in India \n>Entering the post-production test phase",
@@ -1862,26 +1864,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Captain Lalrinawma Sailo of 4 PARA (Special Forces) conferred with the Kirti Chakra by President Droupadi Murmu.",
-      "link": "https://nitter.net/Goreunit/status/2064241906796916948#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-09T12:33:16+05:30",
-      "time": "09 Jun, 12:33 PM",
-      "type": "tweets",
-      "content": "<p>Captain Lalrinawma Sailo of 4 PARA (Special Forces) conferred with the Kirti Chakra by President Droupadi Murmu.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064241906796916948#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064241858260385793%2Fpu%2Fimg%2FRIhAh3RvaVaYtoNS.jpg\" />\n</a>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "POJK PROTESTS:\n\nKashmiris from Bhimber are heading towards Rawalakot to protest against the Pakistani occupation Regime.",
-      "link": "https://nitter.net/Goreunit/status/2064232405247172626#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-09T11:55:31+05:30",
-      "time": "09 Jun, 11:55 AM",
-      "type": "tweets",
-      "content": "<p>POJK PROTESTS:<br />\n<br />\nKashmiris from Bhimber are heading towards Rawalakot to protest against the Pakistani occupation Regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064232405247172626#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064232270588973057%2Fpu%2Fimg%2F5xf_zX-ZrN0ROpB0.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Kashmiri diaspora in London confronts Pakistani High Commission officials <br />\n<br />\n\u201cYou will accept the demands &amp; your father will accept aswell.\u201d</p>\n<a href=\"https://nitter.net/Goreunit/status/2064172670271508820#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064172627405758464%2Fpu%2Fimg%2FwbDqMbpB5l_S_5VR.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064172670271508820#m\">https://nitter.net/Goreunit/status/2064172670271508820#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "A Pakistan Army Aviation Corps Bell 412 helicopter was reportedly shot down by Baloch rebels near Nall, Khuzdar district, Balochistan, on June 8, 2026.",
       "link": "https://nitter.net/elitepredatorss/status/2064188647713517835#m",
       "source": "Elite Predators",
@@ -1892,90 +1874,8 @@
       "author": "@elitepredatorss"
     }
   ],
-  "youtube": [
-    {
-      "title": "Defence Updates - PoK Big Clash, India Twin Seat Su57E, Army 300 K9 Vajra, PAK Airstrike",
-      "link": "https://www.youtube.com/watch?v=oiWnBbNxHfk",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-10T23:11:01+05:30",
-      "time": "10 Jun, 11:11 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/oiWnBbNxHfk/mqdefault.jpg"
-    },
-    {
-      "title": "AMCA Secret Testing Started? , Astra Mk2 240KM SHOCK , Europe\u2019s 6th Gen Fighter COLLAPSED",
-      "link": "https://www.youtube.com/watch?v=xTwFQoyswZA",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-10T23:00:32+05:30",
-      "time": "10 Jun, 11:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/xTwFQoyswZA/mqdefault.jpg"
-    },
-    {
-      "title": "AMCA Spotted in Satellite Image",
-      "link": "https://www.youtube.com/watch?v=3eVhhJ35VvI",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-06-10T18:01:34+05:30",
-      "time": "10 Jun, 06:01 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/3eVhhJ35VvI/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : AMCA Spotted,300 K9 Vajra Order,Su-57 Meet,F35 Tracked,240Km Astra MK2 Test",
-      "link": "https://www.youtube.com/watch?v=dfBQzq8A1_g",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-06-10T17:37:09+05:30",
-      "time": "10 Jun, 05:37 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/dfBQzq8A1_g/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - PoK Action Begins, US AMCA Engine, 6th Gen Jet Cancel, SIPRI On Kirana Hills NUKE",
-      "link": "https://www.youtube.com/watch?v=naJCbHu6FjQ",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-09T22:19:51+05:30",
-      "time": "09 Jun, 10:19 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/naJCbHu6FjQ/mqdefault.jpg"
-    },
-    {
-      "title": "Su-57 Ka Asli Engine FAIL?,Zen Vrishab UGV ,Wave Raptor Naval Drone ,BrahMos Export Confirm!",
-      "link": "https://www.youtube.com/watch?v=FStKr4JLxEQ",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-09T22:00:31+05:30",
-      "time": "09 Jun, 10:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/FStKr4JLxEQ/mqdefault.jpg"
-    },
-    {
-      "title": "India Deployed New Nuclear Warheads",
-      "link": "https://www.youtube.com/watch?v=g84RAd1X27M",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-06-09T17:30:25+05:30",
-      "time": "09 Jun, 05:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/g84RAd1X27M/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates: FCAS 6th Gen Scrapped, 12 Nukes Deployed, \u20b9208 Cr Ammo Export, MoD Warns HAL",
-      "link": "https://www.youtube.com/watch?v=DskjQ6Hjy0c",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-06-09T17:25:09+05:30",
-      "time": "09 Jun, 05:25 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/DskjQ6Hjy0c/mqdefault.jpg"
-    },
-    {
-      "title": "FCAS Dead : AMCA\u2019s Engine Now?",
-      "link": "https://www.youtube.com/watch?v=8k5Af4H7Nq8",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-06-09T11:43:15+05:30",
-      "time": "09 Jun, 11:43 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/8k5Af4H7Nq8/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
