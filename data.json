@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Iran criticises US attacks on vessels with Indian crew",
+      "link": "https://www.tribuneindia.com/news/india/iran-criticises-us-attacks-on-vessels-with-indian-crew",
+      "source": "The Tribune",
+      "sort_key": "2026-06-12T18:38:38+05:30",
+      "time": "12 Jun, 06:38 PM",
+      "type": "news",
+      "description": "Iran on Friday criticised the US attacks on merchant ships that killed three Indian nationals, saying such actions \u201cthreaten global peace and security..."
+    },
+    {
+      "title": "Project Kusha will be a game-changer for India's security scenario: Rajnath Singh hails Indian air defence systems",
+      "link": "https://economictimes.indiatimes.com/news/defence/project-kusha-will-be-a-game-changer-for-indias-security-scenario-rajnath-singh-hails-indian-air-defence-systems/articleshow/131685737.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-12T18:37:09+05:30",
+      "time": "12 Jun, 06:37 PM",
+      "type": "news",
+      "description": "Defence Minister Rajnath Singh praised Project Kusha, India's new air defence system. He called it a game-changer for national security. The system wi..."
+    },
+    {
       "title": "Airbus and SkyFall form strategic alliance to advance European and Ukrainian defence innovation",
       "link": "https://www.indiastrategic.in/airbus-and-skyfall-form-strategic-alliance-to-advance-european-and-ukrainian-defence-innovation/",
       "source": "India Strategic",
@@ -17,6 +35,15 @@
       "time": "12 Jun, 05:40 PM",
       "type": "news",
       "description": ""
+    },
+    {
+      "title": "Axiscades to divest aerospace engineering services business to Akkodis",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/axiscades-to-divest-aerospace-engineering-services-business-to-akkodis/131684346",
+      "source": "Economic Times",
+      "sort_key": "2026-06-12T17:39:25+05:30",
+      "time": "12 Jun, 05:39 PM",
+      "type": "news",
+      "description": "The divestment is part of the company&#039;s strategy to transform into a manufacturing and products-focused platform spanning aerospace, defence, spa..."
     },
     {
       "title": "Dealing with an unpredictable US: How India is fighting to shield its seafarers from missile strikes",
@@ -107,15 +134,6 @@
       "time": "12 Jun, 03:05 PM",
       "type": "news",
       "description": "A draft agreement between Iran and the United States has been published by Mehr news agency. This proposal outlines a permanent end to hostilities on ..."
-    },
-    {
-      "title": "Lt Gen Rajiv Ghai appointed as new Military Advisor to NSCS",
-      "link": "https://www.newindianexpress.com/india/2026/Jun/12/lt-gen-rajiv-ghai-appointed-as-new-military-advisor-to-nscs",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-12T14:37:28+05:30",
-      "time": "12 Jun, 02:37 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Union Minister Shobha Karandlaje leads Indian delegation at International Labour Conference in Geneva",
@@ -559,6 +577,15 @@
       "description": "US-Iran war: Senior security officials from the United Arab Emirates and Iran met face-to-face for the first time since the US-Israeli war began. This..."
     },
     {
+      "title": "How an Indian company tried to take HAL for a ride on Tejas Mk1A project",
+      "link": "https://theprint.in/defence/how-an-indian-company-tried-to-take-hal-for-a-ride-on-tejas-mk1a-project/2957331/",
+      "source": "The Print",
+      "sort_key": "2026-06-11T18:56:52+05:30",
+      "time": "11 Jun, 06:56 PM",
+      "type": "news",
+      "description": "HAL has lodged an FIR. The private company had also previously supplied bigger components for other aerospace projects, including the Sukhoi fighter f..."
+    },
+    {
       "title": "Over 11,000 people evacuated ahead of missile test in Odisha's Candipur",
       "link": "https://economictimes.indiatimes.com/news/defence/over-11000-people-evacuated-ahead-of-missile-test-in-odishas-candipur/articleshow/131660849.cms",
       "source": "Economic Times",
@@ -881,18 +908,39 @@
       "time": "10 Jun, 08:48 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Why are Pakistan, Afghanistan fighting again? What triggered the airstrikes that killed 11 children",
-      "link": "https://indianexpress.com/article/world/pakistan-afghanistan-conflict-airstrikes-11-children-explained-10732895/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-10T18:50:31+05:30",
-      "time": "10 Jun, 06:50 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Pranay Verma concurrently accredited as the next Ambassador of India to the Grand Duchy of Luxembourg",
+      "link": "https://nitter.net/sidhant/status/2065429697417355593#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-12T19:13:08+05:30",
+      "time": "12 Jun, 07:13 PM",
+      "type": "tweets",
+      "content": "<p>Pranay Verma concurrently accredited as the next Ambassador of India to the Grand Duchy of Luxembourg</p>\n<img src=\"https://nitter.net/pic/media%2FHKnhXT6bYAANGyQ.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India sends 20,000 measles-rubella vaccine doses and three tonnes of medical supplies to Maldives to help combat a measles outbreak.",
+      "link": "https://nitter.net/sidhant/status/2065427235902026085#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-12T19:03:21+05:30",
+      "time": "12 Jun, 07:03 PM",
+      "type": "tweets",
+      "content": "<p>India sends 20,000 measles-rubella vaccine doses and three tonnes of medical supplies to Maldives to help combat a measles outbreak.</p>\n<img src=\"https://nitter.net/pic/media%2FHKnfICwbwAAwU0O.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: #WIONDispatch | India summons U.S. envoy over vessel attack\n\nThree tankers with Indian crew attacked in 3 days\n\n@ShreyaOpines and @sidhant have more details",
+      "link": "https://nitter.net/WIONews/status/2065425238549282934#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-12T18:55:25+05:30",
+      "time": "12 Jun, 06:55 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONDispatch\">#WIONDispatch</a> | India summons U.S. envoy over vessel attack<br />\n<br />\nThree tankers with Indian crew attacked in 3 days<br />\n<br />\n<a href=\"https://nitter.net/ShreyaOpines\" title=\"Shreya Upadhyaya\">@ShreyaOpines</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more details</p>\n<a href=\"https://nitter.net/WIONews/status/2065425238549282934#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065422927189676033%2Fimg%2FjgX7MAOIdBjWlDvc.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
     {
       "title": "\ud83d\udea8 Clashes erupt between Pakistani government employees and police near Parliament in Islamabad.\n\nThousands of employees from across the country have launched protests against the 2026-27 federal budget, demanding salary hikes in line with inflation and implementation of commitments made under the March 10, 2025 agreement.\n\nThe All Pakistan Government Employees Grand Alliance has vowed to continue the agitation until their demands are met.\n\nLocal sources",
       "link": "https://nitter.net/OsintTV/status/2065407728986558806#m",
@@ -1151,36 +1199,6 @@
       "time": "12 Jun, 02:40 PM",
       "type": "tweets",
       "content": "<p>US CdA was handed over a demarche as well, a protest note over ystdy's incident when vessel Jalveer was attacked. Indian nationals onboard it were recused after the attack.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: India summon US CdA Jason Meeks over attacks impacting Indians in the west asian region; 2nd summoning in days.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2065358103277940749#m\">https://nitter.net/sidhant/status/2065358103277940749#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US Diplomat Jason Meeks was summoned at the HQ of India's foreign ministry at 2 pm; MEA Additional Secretary (Americas) Nagaraj Naidu summoned him.",
-      "link": "https://nitter.net/sidhant/status/2065360682669990112#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-12T14:38:53+05:30",
-      "time": "12 Jun, 02:38 PM",
-      "type": "tweets",
-      "content": "<p>US Diplomat Jason Meeks was summoned at the HQ of India's foreign ministry at 2 pm; MEA Additional Secretary (Americas) Nagaraj Naidu summoned him.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: India summon US CdA Jason Meeks over attacks impacting Indians in the west asian region; 2nd summoning in days.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2065358103277940749#m\">https://nitter.net/sidhant/status/2065358103277940749#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US attacks vessels; India summons\nJune 8: Vessel Marivex attacked by US; 24 Indian crew rescued\nJune 9: MT Settebello attacked; 3 Indians dead, 21 rescued\nJune 10: US CdA Meeks Summoned\nJune 11: Strike on MT Jalveer; 20 Indian crew rescued\nJune 12: US CdA Meeks Summoned",
-      "link": "https://nitter.net/sidhant/status/2065360230301770107#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-12T14:37:06+05:30",
-      "time": "12 Jun, 02:37 PM",
-      "type": "tweets",
-      "content": "<p>US attacks vessels; India summons<br />\nJune 8: Vessel Marivex attacked by US; 24 Indian crew rescued<br />\nJune 9: MT Settebello attacked; 3 Indians dead, 21 rescued<br />\nJune 10: US CdA Meeks Summoned<br />\nJune 11: Strike on MT Jalveer; 20 Indian crew rescued<br />\nJune 12: US CdA Meeks Summoned</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "A day after vessel Jalveer came under attack, on which Indian nationals were present, India summons US CdA Meeks.",
-      "link": "https://nitter.net/sidhant/status/2065358982727061883#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-12T14:32:08+05:30",
-      "time": "12 Jun, 02:32 PM",
-      "type": "tweets",
-      "content": "<p>A day after vessel Jalveer came under attack, on which Indian nationals were present, India summons US CdA Meeks.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: India summon US CdA Jason Meeks over attacks impacting Indians in the west asian region; 2nd summoning in days.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2065358103277940749#m\">https://nitter.net/sidhant/status/2065358103277940749#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1908,6 +1926,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
