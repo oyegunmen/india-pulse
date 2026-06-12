@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "China's Ministry of State Security warns 'spy turtles' are fishing for sea secrets",
+      "link": "https://economictimes.indiatimes.com/news/defence/chinas-ministry-of-state-security-warns-spy-turtles-are-fishing-for-sea-secrets/articleshow/131674953.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-12T10:49:25+05:30",
+      "time": "12 Jun, 10:49 AM",
+      "type": "news",
+      "description": "Foreign spies are fitting turtles and fish with sensors to create underwater maps of China's coastline, Beijing warned Friday in apparent reference to..."
+    },
+    {
+      "title": "\u201cPM Modi\u2019s presence at Bharat Innovates is symbol of depth of bilateral relationship\u201d: MEA on PM Modi\u2019s visit to France",
+      "link": "https://www.indiastrategic.in/pm-modis-presence-at-bharat-innovates-is-symbol-of-depth-of-bilateral-relationship-mea-on-pm-modis-visit-to-france/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-12T10:44:44+05:30",
+      "time": "12 Jun, 10:44 AM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar At the invitation of the President of France, Emmanuel Macron and Prime Minister of the Slovak Republic, Robert Fico, Prime Ministe..."
+    },
+    {
+      "title": "UN chief Guterres condemns attack on tanker that killed three Indian seafarers",
+      "link": "https://newsonair.gov.in/un-chief-guterres-condemns-attack-on-tanker-that-killed-three-indian-seafarers/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-12T10:40:56+05:30",
+      "time": "12 Jun, 10:40 AM",
+      "type": "news",
+      "description": "United Nations Secretary-General Ant\u00f3nio Guterres and Secretary-General of the International Maritime Organization (IMO) Arsenio Dominguez have condem..."
+    },
+    {
+      "title": "Jitendra Singh urges greater industry investment to propel India\u2019s space ambitions",
+      "link": "https://www.indiastrategic.in/jitendra-singh-urges-greater-industry-investment-to-propel-indias-space-ambitions/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-12T10:37:30+05:30",
+      "time": "12 Jun, 10:37 AM",
+      "type": "news",
+      "description": "<p>New Delhi, June 11. Union Minister of State for Space Dr. Jitendra Singh has called on established industries to significantly increase investments..."
+    },
+    {
+      "title": "India, Bangladesh discuss illegal border crossings and security issues during DG-level talks",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/12/india-bangladesh-discuss-illegal-border-crossings-and-security-issues-during-dg-level-talks",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-12T10:32:55+05:30",
+      "time": "12 Jun, 10:32 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Chandrayaan-2 radar data reveals strong evidence of subsurface ice in lunar south pole craters",
+      "link": "https://www.indiastrategic.in/chandrayaan-2-radar-data-reveals-strong-evidence-of-subsurface-ice-in-lunar-south-pole-craters/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-12T10:26:59+05:30",
+      "time": "12 Jun, 10:26 AM",
+      "type": "news",
+      "description": "<p>Bengaluru, June 11. Scientists from the Physical Research Laboratory (PRL), Ahmedabad, have identified strong indications of subsurface water ice b..."
+    },
+    {
       "title": "First India-built C-295 transport aircraft completes maiden flight",
       "link": "https://www.indiastrategic.in/first-india-built-c-295-transport-aircraft-completes-maiden-flight/",
       "source": "India Strategic",
@@ -17,6 +71,15 @@
       "time": "12 Jun, 10:14 AM",
       "type": "news",
       "description": ""
+    },
+    {
+      "title": "Pak's first Hangor-class submarine arrives at Karachi Port",
+      "link": "https://economictimes.indiatimes.com/news/defence/pakistans-first-advanced-hangor-class-submarine-arrives-at-karachi-port-boosting-naval-power/articleshow/131673913.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-12T10:10:20+05:30",
+      "time": "12 Jun, 10:10 AM",
+      "type": "news",
+      "description": "Pakistan's Navy has received its first Hangor-class submarine from China. This marks a significant step in the Navy's modernization efforts. The subma..."
     },
     {
       "title": "Netanyahu says Trump assured him final Iran deal will mandate removal of enriched uranium",
@@ -352,15 +415,6 @@
       "description": "<p>Berlin, June 11. A recent US Air Force decision to ease the classification status of its Collaborative Combat Aircraft (CCA) programme is expected ..."
     },
     {
-      "title": "\u2018Good night. Take care of children\u2019 was last message Indian marine engineer killed in US attack sent to wife",
-      "link": "https://www.tribuneindia.com/news/india/good-night-take-care-of-children-was-last-message-indian-marine-engineer-killed-in-us-attack-sent-to-wife",
-      "source": "The Tribune",
-      "sort_key": "2026-06-11T19:47:20+05:30",
-      "time": "11 Jun, 07:47 PM",
-      "type": "news",
-      "description": "For the widow of Suresh, a 44-year-old marine engineer from here who was among the three Indian crew members killed in a US military strike on a comme..."
-    },
-    {
       "title": "UK Defence Secretary John Healey resigns in wake of short of resources to safeguard country",
       "link": "https://newsonair.gov.in/uk-defence-secretary-john-healey-resigns-in-wake-of-short-of-resources-to-safeguard-country/",
       "source": "All India Radio",
@@ -415,15 +469,6 @@
       "description": "<p>Berlin, June 11. General Atomics Aeronautical Systems Inc. (GA-ASI) is proposing its MQ-9B SeaGuardian as both a near-term and long-term solution t..."
     },
     {
-      "title": "Airbus needs to \u2018digest\u2019 rapid expansion as production challenges persist, says CEO",
-      "link": "https://www.indiastrategic.in/airbus-needs-to-digest-rapid-expansion-as-production-challenges-persist-says-ceo/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-11T18:18:22+05:30",
-      "time": "11 Jun, 06:18 PM",
-      "type": "news",
-      "description": "<p>Berlin, June 11. Airbus will need to consolidate and absorb the rapid growth it has experienced in recent years, as the difficulties encountered in..."
-    },
-    {
       "title": "Former Maoist Strongholds Will Turn Tourist Destinations: DGP",
       "link": "https://www.deccanchronicle.com/southern-states/telangana/former-maoist-strongholds-will-turn-tourist-destinations-dgp-1962901",
       "source": "Deccan Chronicle",
@@ -431,6 +476,15 @@
       "time": "11 Jun, 06:14 PM",
       "type": "news",
       "description": "Asked about the status of Maoists in Telangana, Anand said there is virtually no Maoist activity in the state. He attributed this to the surrender of ..."
+    },
+    {
+      "title": "Op Sindoor effect: Army receives 106 jet-powered kamikaze drones from defence firm SMPP",
+      "link": "https://theprint.in/defence/op-sindoor-effect-army-receives-106-jet-powered-kamikaze-drones-from-defence-firm-smpp/2957259/",
+      "source": "The Print",
+      "sort_key": "2026-06-11T18:08:47+05:30",
+      "time": "11 Jun, 06:08 PM",
+      "type": "news",
+      "description": "The Peacekeeper drone is originally a Belarusian one manufactured by a company called KB Indela which has partnered with SMPP."
     },
     {
       "title": "Indian tech firm delivers 106 turbojet-powered drones with precision strike capability to Army",
@@ -478,15 +532,6 @@
       "description": "France views India as a top priority partner. Ahead of Prime Minister Narendra Modi's visit, French sources emphasized a special relationship and deep..."
     },
     {
-      "title": "India dispatches vaccines and medical supplies to Maldives as trusted First Responder",
-      "link": "https://newsonair.gov.in/india-dispatches-vaccines-and-medical-supplies-to-maldives-as-trusted-first-responder/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-11T17:16:44+05:30",
-      "time": "11 Jun, 05:16 PM",
-      "type": "news",
-      "description": "India has dispatched a consignment of 20 thousand doses of measles vaccines and approximately three tonnes of medical supplies to support the Governme..."
-    },
-    {
       "title": "British defence minister John Healey quits over defence spending",
       "link": "https://economictimes.indiatimes.com/news/defence/uk-british-defence-minister-healey-quits-over-defence-spending/articleshow/131657781.cms",
       "source": "Economic Times",
@@ -505,15 +550,6 @@
       "description": "The company develops ammunition \u2060equipped with AI-based software to intercept and destroy \u200bdrones."
     },
     {
-      "title": "ILA Berlin 2026 opens with focus on aerospace innovation, security and sustainability",
-      "link": "https://www.indiastrategic.in/ila-berlin-2026-opens-with-focus-on-aerospace-innovation-security-and-sustainability/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-11T16:21:58+05:30",
-      "time": "11 Jun, 04:21 PM",
-      "type": "news",
-      "description": "<p>Report and pix by Uday Krishna Berlin, June 11. ILA Berlin 2026 opened on June 10 under the theme \u2018Pioneering Aerospace\u2019, bringing together the glo..."
-    },
-    {
       "title": "Airbus signs a partnership with French counter-drone startup Alta Ares",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/airbus-signs-a-partnership-with-french-counter-drone-startup-alta-ares/131656666",
       "source": "Economic Times",
@@ -530,15 +566,6 @@
       "time": "11 Jun, 03:19 PM",
       "type": "news",
       "description": "<p>Two villagers were reportedly killed, and several houses were set ablaze in an attack carried out by unidentified armed assailants in Manipur&#8217..."
-    },
-    {
-      "title": "Airbus and Alta Ares sign partnership to develop Europe\u2019s air defence solutions",
-      "link": "https://www.indiastrategic.in/airbus-and-alta-ares-sign-partnership-to-develop-europes-air-defence-solutions/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-11T15:06:50+05:30",
-      "time": "11 Jun, 03:06 PM",
-      "type": "news",
-      "description": "<p>Berlin, June 11, 2026. Airbus Defence and Space and Alta Ares, a European defence technology company specialised in counter-drone systems and on-bo..."
     },
     {
       "title": "Arms, Ammunition Recovered from Maoist Dump in Odisha's Kandhamal",
@@ -683,6 +710,15 @@
       "time": "11 Jun, 12:05 AM",
       "type": "news",
       "description": "India's new light battle tank, Project Zorawar, faces a two-year induction delay. Developers are enhancing protection levels, a move that adds weight ..."
+    },
+    {
+      "title": "All about US Corsair unmanned boat that rescued Apache helicopter crew in Hormuz",
+      "link": "https://theprint.in/defence/all-about-us-corsair-unmanned-boat-that-rescued-apache-helicopter-crew-in-hormuz/2956295/",
+      "source": "The Print",
+      "sort_key": "2026-06-10T23:00:37+05:30",
+      "time": "10 Jun, 11:00 PM",
+      "type": "news",
+      "description": "The unmanned boat was able to locate, retrieve and transport the 2 AH-64 Apache helicopter crew members after the crash."
     },
     {
       "title": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash",
@@ -899,27 +935,39 @@
       "time": "10 Jun, 12:12 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Indian Army Eyes Biggest Artillery Boost In Decades With Rs 23,000 Crore Deal For 300 More K9 Vajra-T Guns",
-      "link": "https://www.republicworld.com/defence/indian-army-eyes-biggest-artillery-boost-in-decades-with-rs-23000-crore-deal-for-300-more-k9-vajra-t-guns-2026-06-10-127625",
-      "source": "Republic World",
-      "sort_key": "2026-06-10T11:01:38+05:30",
-      "time": "10 Jun, 11:01 AM",
-      "type": "news",
-      "description": "The Indian Army plans to procure over 300 K9 Vajra-T self-propelled howitzers, estimated at Rs 23,000 crore, to boost artillery capabilities amid secu..."
-    },
-    {
-      "title": "Iran says Gulf nations have 'responsibility' to halt US, Israeli strikes",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-says-gulf-nations-have-responsibility-to-halt-us-israeli-strikes/articleshow/131625535.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-10T10:34:24+05:30",
-      "time": "10 Jun, 10:34 AM",
-      "type": "news",
-      "description": "Iran's foreign ministry warned Wednesday that its neighbours in the Gulf had a \"legal and moral responsibility\" to prevent American and Israeli strike..."
     }
   ],
   "tweets": [
+    {
+      "title": "Visuals from the funeral of 21 Pakistani security personnel killed in the helicopter crash in Muzaffarabad, PoJK.\n\nIronically, just before the crash, many Pakistani accounts were busy circulating a fake video and falsely claiming that an IAF fighter jet had crashed in Srinagar.\n\nReality had other plans....",
+      "link": "https://nitter.net/OsintTV/status/2065308801721340004#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-12T11:12:44+05:30",
+      "time": "12 Jun, 11:12 AM",
+      "type": "tweets",
+      "content": "<p>Visuals from the funeral of 21 Pakistani security personnel killed in the helicopter crash in Muzaffarabad, PoJK.<br />\n<br />\nIronically, just before the crash, many Pakistani accounts were busy circulating a fake video and falsely claiming that an IAF fighter jet had crashed in Srinagar.<br />\n<br />\nReality had other plans....</p>\n<a href=\"https://nitter.net/OsintTV/status/2065308801721340004#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065308656992694272%2Fimg%2F7IWZnZmsPhpstoGA.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "57th Director General Level Border Coordination Conference between the Border Security Force & Border Guard Bangladesh concludes",
+      "link": "https://nitter.net/sidhant/status/2065308050014228636#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-12T11:09:45+05:30",
+      "time": "12 Jun, 11:09 AM",
+      "type": "tweets",
+      "content": "<p>57th Director General Level Border Coordination Conference between the Border Security Force &amp; Border Guard Bangladesh concludes</p>\n<img src=\"https://nitter.net/pic/media%2FHKlyuekaIAAB-eu.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKlyufLaAAASrbV.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKlyufGb0AAof0a.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKlyugmb0AEZWNp.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BREAKING: France Wants India in Hormuz Security Initiative\n\nFrance is reportedly planning to invite India to join a multinational maritime security initiative in the Strait of Hormuz, amid growing tensions in West Asia.\n\nThe proposal is expected to be discussed when PM Narendra Modi meets President Emmanuel Macron at the G7 Summit.\n\nThe initiative aims to ensure freedom of navigation through one of the world's most critical energy chokepoints, through which nearly 20% of global oil supplies transit.",
+      "link": "https://nitter.net/NetramDefence/status/2065298206477672515#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-12T10:30:38+05:30",
+      "time": "12 Jun, 10:30 AM",
+      "type": "tweets",
+      "content": "<p>BREAKING: France Wants India in Hormuz Security Initiative<br />\n<br />\nFrance is reportedly planning to invite India to join a multinational maritime security initiative in the Strait of Hormuz, amid growing tensions in West Asia.<br />\n<br />\nThe proposal is expected to be discussed when PM Narendra Modi meets President Emmanuel Macron at the G7 Summit.<br />\n<br />\nThe initiative aims to ensure freedom of navigation through one of the world's most critical energy chokepoints, through which nearly 20% of global oil supplies transit.</p>\n<img src=\"https://nitter.net/pic/media%2FHKlpu_HbMAAvYq8.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "Whoever is trying to WhatsAppise this must know - 3 Indians are dead and as @ShivAroor pointed out this blood is on American hands",
       "link": "https://nitter.net/alpha_defense/status/2065292992592900150#m",
@@ -971,14 +1019,14 @@
       "author": "@sidhant"
     },
     {
-      "title": "RT by @OsintTV: The people of the Republic of Balochistan are hammering occupational forces of foreign terrorist intruder Pakistan.",
-      "link": "https://nitter.net/miryar_baloch/status/2065151803843613064#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-12T00:48:53+05:30",
-      "time": "12 Jun, 12:48 AM",
+      "title": "RT by @sidhant: Exercise Yudh Abhyas 2026: Indian and US Armies to Train Near LAC in Uttarakhand and Rajasthan Desert https://newsable.asianetnews.com/india/exercise-yudh-abhyas-2026-apache-helicopters-to-join-india-us-yudh-abhyas-exercise-in-uttarakhand-rajasthan-articleshow-v02q4g9",
+      "link": "https://nitter.net/anishsingh21/status/2065165384383365213#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-12T01:42:51+05:30",
+      "time": "12 Jun, 01:42 AM",
       "type": "tweets",
-      "content": "<p>The people of the Republic of Balochistan are hammering occupational forces of foreign terrorist intruder Pakistan.</p>\n<a href=\"https://nitter.net/miryar_baloch/status/2065151803843613064#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065150687273746432%2Fpu%2Fimg%2FOTsLXOSXeu9w0qhS.jpg\" />\n</a>",
-      "author": "@miryar_baloch"
+      "content": "<p>Exercise Yudh Abhyas 2026: Indian and US Armies to Train Near LAC in Uttarakhand and Rajasthan Desert <a href=\"https://newsable.asianetnews.com/india/exercise-yudh-abhyas-2026-apache-helicopters-to-join-india-us-yudh-abhyas-exercise-in-uttarakhand-rajasthan-articleshow-v02q4g9\">newsable.asianetnews.com/ind\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2065165372916113408%2F52CWgYRG%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@anishsingh21"
     },
     {
       "title": "India's Directorate General of Shipping advises all Indian seafarers serving onboard Indian and foreign-flagged vessels transiting \"through conflict-affected waters to exercise the highest degree of caution and vigilance\"",
@@ -1191,26 +1239,6 @@
       "author": "@AngryRumi7"
     },
     {
-      "title": "India, Russia partnership is based on \"trust, mutual respect\", says Russian Ambassador @RusEmbIndia Denis Alipov @AmbRus_India; Talks about Brahmos milestone.",
-      "link": "https://nitter.net/sidhant/status/2065099881887543550#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T21:22:34+05:30",
-      "time": "11 Jun, 09:22 PM",
-      "type": "tweets",
-      "content": "<p>India, Russia partnership is based on \"trust, mutual respect\", says Russian Ambassador <a href=\"https://nitter.net/RusEmbIndia\" title=\"Russia in India \ud83c\uddf7\ud83c\uddfa\">@RusEmbIndia</a> Denis Alipov <a href=\"https://nitter.net/AmbRus_India\" title=\"Denis Alipov \ud83c\uddf7\ud83c\uddfa\">@AmbRus_India</a>; Talks about Brahmos milestone.</p>\n<a href=\"https://nitter.net/sidhant/status/2065099881887543550#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065099291346210816%2Fpu%2Fimg%2Fs4Vfcp6bFKWtpjy3.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\"The global majority is no longer willing to accept western hegemony,\" says Russian Ambassador @RusEmbIndia Denis Alipov @AmbRus_India at Russia National Day in Delhi; Adds, \"world is going through most significant structural transformation\"",
-      "link": "https://nitter.net/sidhant/status/2065098577014292624#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-11T21:17:23+05:30",
-      "time": "11 Jun, 09:17 PM",
-      "type": "tweets",
-      "content": "<p>\"The global majority is no longer willing to accept western hegemony,\" says Russian Ambassador <a href=\"https://nitter.net/RusEmbIndia\" title=\"Russia in India \ud83c\uddf7\ud83c\uddfa\">@RusEmbIndia</a> Denis Alipov <a href=\"https://nitter.net/AmbRus_India\" title=\"Denis Alipov \ud83c\uddf7\ud83c\uddfa\">@AmbRus_India</a> at Russia National Day in Delhi; Adds, \"world is going through most significant structural transformation\"</p>\n<a href=\"https://nitter.net/sidhant/status/2065098577014292624#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065094829101760513%2Fpu%2Fimg%2FSQDrM6x9n8vKvWHo.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @Goreunit: Meet priyanshu umaji ghajbhiye, living in maharashtra, nagpur, runs multiple, anti india, anti hindu groups in telegram, where he morphes photos & videos of hindu gods in the most heinious way possible. \n\nHis meme templates are also circulated all over social media to show hindus in bad light\n\nAnd not only, he commits blashemy,\nBut, he's also a repeat offender.\n\nHere's everything you need to know about him. \ud83e\uddf5\n\n@NagpurPolice",
       "link": "https://nitter.net/AgniVesa_07/status/2065092657555320901#m",
       "source": "War & Gore",
@@ -1261,7 +1289,7 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "RT by @OsintTV: Paijaan is dreaming of destroying Indian dams in 60 seconds\n\nThere is a saying, \"Khane ko aata nahi aur ammi chali halwa banane.\"\n\nCalling this overconfidence would be generous. It's outright delusion\n\nAao kabhi haveli pe... \n\nCourtesy: so-called journalist Muneeb Hamid and Pakistani media.",
+      "title": "Paijaan is dreaming of destroying Indian dams in 60 seconds\n\nThere is a saying, \"Khane ko aata nahi aur ammi chali halwa banane.\"\n\nCalling this overconfidence would be generous. It's outright delusion\n\nAao kabhi haveli pe... \n\nCourtesy: so-called journalist Muneeb Hamid and Pakistani media.",
       "link": "https://nitter.net/OsintTV/status/2065064974863544747#m",
       "source": "Osint TV",
       "sort_key": "2026-06-11T19:03:51+05:30",
@@ -1279,6 +1307,16 @@
       "type": "tweets",
       "content": "<p>BREAKING: Trump says U.S. will seize Iran's Kharg Island and other 'oil infrastructure points'</p>\n<img src=\"https://nitter.net/pic/media%2FHKiP_sybEAAtVhw.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "We hope & expect US attacks will come to an end, says MEA Spox Randhir Jaiswal on US attacks on vessels off Oman coast",
+      "link": "https://nitter.net/sidhant/status/2065053630726861255#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-11T18:18:47+05:30",
+      "time": "11 Jun, 06:18 PM",
+      "type": "tweets",
+      "content": "<p>We hope &amp; expect US attacks will come to an end, says MEA Spox Randhir Jaiswal on US attacks on vessels off Oman coast</p>\n<a href=\"https://nitter.net/sidhant/status/2065053630726861255#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065053588095930368%2Fpu%2Fimg%2FJFnB4WJLjJBrCAab.jpg\" />\n</a>",
+      "author": "@sidhant"
     },
     {
       "title": "Indian or Belarusian ? Indian Army's new UAV \nhttps://alphadefense.in/index.php/2026/06/11/did-india-acquire-belarusian-loitering-munitions-the-evidence-the-questions-and-what-we-actually-know/",
@@ -1879,66 +1917,9 @@
       "type": "tweets",
       "content": "<p>Constable Saifullah Qadri of J&amp;K Police\u2019s Special Operations Group exemplified courage, dedication, and sacrifice in the fight against terrorism.<br />\n<br />\nOn 10 April 2022, acting on intelligence developed through his own efforts, he played a key role in an anti-terror operation that resulted in the elimination of two hardcore terrorists. Undeterred by danger, he continued to work relentlessly against terrorist networks.<br />\n<br />\nOn 24 May 2022, while pursuing terrorists based on fresh intelligence inputs, Constable Qadri covertly tracked their movements to ensure their neutralisation. During the operation, he came under terrorist fire and made the supreme sacrifice in the line of duty.<br />\n<br />\nHis commitment, exceptional bravery, and selfless service to the nation stand as an inspiration to every police officer and citizen. In recognition of his conspicuous gallantry and devotion to duty, Constable Saifullah Qadri was posthumously awarded the Shaurya Chakra.<br />\n<br />\nSalute to the braveheart. His sacrifice will never be forgotten.</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2064620308175491366#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064620238684237824%2Fimg%2FShCvIJiYbgWiY85z.jpg\" />\n</a>",
       "author": "@MikeLimaBravo12"
-    },
-    {
-      "title": "India has effectively frozen final commercial approvals for Elon Musk's Starlink over national security concerns stemming from the alleged use of its satellite terminals in the ongoing Iran conflict. \n\nSecurity agencies under the Ministry of Home Affairs are assessing risks associated with a US-controlled provider before granting clearance to operate.",
-      "link": "https://nitter.net/NetramDefence/status/2064616476904997051#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-10T13:21:41+05:30",
-      "time": "10 Jun, 01:21 PM",
-      "type": "tweets",
-      "content": "<p>India has effectively frozen final commercial approvals for Elon Musk's Starlink over national security concerns stemming from the alleged use of its satellite terminals in the ongoing Iran conflict. <br />\n<br />\nSecurity agencies under the Ministry of Home Affairs are assessing risks associated with a US-controlled provider before granting clearance to operate.</p>\n<img src=\"https://nitter.net/pic/media%2FHKb9sKTbgAE_Mo1.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "RT by @OsintTV: This year\u2019s Passing Out Parade at the Indian Military Academy is set to create history. For the first time, women cadets will pass out together from the academy as commissioned officers. Be sure to watch this historic event on June 13. @indiatvnews @adgpi >@PRODefDehradun @artrac_ia \n#IndianArmy \n#IMA",
-      "link": "https://nitter.net/manishindiatv/status/2064578136571019370#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-10T10:49:20+05:30",
-      "time": "10 Jun, 10:49 AM",
-      "type": "tweets",
-      "content": "<p>This year\u2019s Passing Out Parade at the Indian Military Academy is set to create history. For the first time, women cadets will pass out together from the academy as commissioned officers. Be sure to watch this historic event on June 13. <a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a> <a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/PRODefDehradun\" title=\"PRO &amp; Spokesperson, MoD, Dehradun Region\">@PRODefDehradun</a> <a href=\"https://nitter.net/artrac_ia\" title=\"Army Training Command, Indian Army\">@artrac_ia</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IMA\">#IMA</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKba3mBasAA329g.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKba3mCa4AAkh9W.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKba3l-asAA_yV3.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKba3l4agAA-lpA.jpg\" />",
-      "author": "@manishindiatv"
-    },
-    {
-      "title": "Pakistan occupied Kashmir:\n\nPakistan govt is blaming Raaaa for internal disruption, Asim Munir is making a fool of his own civilian.",
-      "link": "https://nitter.net/Goreunit/status/2064577636634968118#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-10T10:47:21+05:30",
-      "time": "10 Jun, 10:47 AM",
-      "type": "tweets",
-      "content": "<p>Pakistan occupied Kashmir:<br />\n<br />\nPakistan govt is blaming Raaaa for internal disruption, Asim Munir is making a fool of his own civilian.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064577636634968118#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064577539503198208%2Fpu%2Fimg%2Fagi2NT5vn1DGedaD.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8Just In: Atleast 7\u00d7 civilians have been killed by Pakistani army in Kotli, PoJK.<br />\nPakistan army opened fire on protestors demanding basic rights.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064352423926484992%2Fpu%2Fimg%2FmE8-JZZ0a4n8mHL7.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHKYNnD6a4AA9Gk5.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064352578423710033#m\">https://nitter.net/Goreunit/status/2064352578423710033#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
-    {
-      "title": "Defence Updates - AMCA Prototype Images, Agni-6 Missile Test Ready, Tejas Mk1A Fraud, India Gripen-E",
-      "link": "https://www.youtube.com/watch?v=zTh6bVJ_2mY",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-11T22:40:42+05:30",
-      "time": "11 Jun, 10:40 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/zTh6bVJ_2mY/mqdefault.jpg"
-    },
-    {
-      "title": "Why Tejas Mk1A Under Investigation?,India\u2019s New AWACS,Brahmos-NG delayed,MH-60R New Order",
-      "link": "https://www.youtube.com/watch?v=sOFp915noPk",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-11T22:00:22+05:30",
-      "time": "11 Jun, 10:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/sOFp915noPk/mqdefault.jpg"
-    },
-    {
-      "title": "Big Missile: 11K People Displaced",
-      "link": "https://www.youtube.com/watch?v=647wAGD1ueI",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-06-11T21:43:09+05:30",
-      "time": "11 Jun, 09:43 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/647wAGD1ueI/mqdefault.jpg"
-    },
     {
       "title": "Indian Defence Updates : AGNI-6 Test,Su-57 Final Stage,Tejas Fraud,Zorawar Delayed,BrahMos-NG Flight",
       "link": "https://www.youtube.com/watch?v=sg37H6zt6GM",
@@ -1947,42 +1928,6 @@
       "time": "11 Jun, 03:53 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/sg37H6zt6GM/mqdefault.jpg"
-    },
-    {
-      "title": "POJK Protest is actually funny !",
-      "link": "https://www.youtube.com/shorts/rbKjWMV9Hqg",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-11T10:28:16+05:30",
-      "time": "11 Jun, 10:28 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - PoK Big Clash, India Twin Seat Su57E, Army 300 K9 Vajra, PAK Airstrike",
-      "link": "https://www.youtube.com/watch?v=oiWnBbNxHfk",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-10T23:11:01+05:30",
-      "time": "10 Jun, 11:11 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/oiWnBbNxHfk/mqdefault.jpg"
-    },
-    {
-      "title": "AMCA Secret Testing Started? , Astra Mk2 240KM SHOCK , Europe\u2019s 6th Gen Fighter COLLAPSED",
-      "link": "https://www.youtube.com/watch?v=xTwFQoyswZA",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-10T23:00:32+05:30",
-      "time": "10 Jun, 11:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/xTwFQoyswZA/mqdefault.jpg"
-    },
-    {
-      "title": "AMCA Spotted in Satellite Image",
-      "link": "https://www.youtube.com/watch?v=3eVhhJ35VvI",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-06-10T18:01:34+05:30",
-      "time": "10 Jun, 06:01 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/3eVhhJ35VvI/mqdefault.jpg"
     },
     {
       "title": "Indian Defence Updates : AMCA Spotted,300 K9 Vajra Order,Su-57 Meet,F35 Tracked,240Km Astra MK2 Test",
@@ -1995,6 +1940,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
