@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "India summons US Charge d'affaires again over attack on merchant ships with Indian crew",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-summons-us-charge-daffaires-again-over-attack-on-merchant-ships-with-indian-crew/articleshow/131692305.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-13T00:34:02+05:30",
+      "time": "13 Jun, 12:34 AM",
+      "type": "news",
+      "description": "India has strongly protested US military strikes near Oman. The US charge d'affaires was summoned twice this week. Three Indian sailors have died in t..."
+    },
+    {
+      "title": "BSF &amp; BGB committed to maintaining peace along Indo-Bangladesh border",
+      "link": "https://economictimes.indiatimes.com/news/defence/bsf-bgb-committed-to-maintaining-peace-along-indo-bangladesh-border/articleshow/131692303.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-13T00:24:31+05:30",
+      "time": "13 Jun, 12:24 AM",
+      "type": "news",
+      "description": "India's Border Security Force and Border Guard Bangladesh concluded their annual meeting. Both forces committed to peace and stability along the share..."
+    },
+    {
       "title": "Rajnath Singh Declares BJP the Most Trusted Party",
       "link": "https://www.deccanchronicle.com/southern-states/telangana/rajnath-singh-declares-bjp-the-most-trusted-party-1963198",
       "source": "Deccan Chronicle",
@@ -334,15 +352,6 @@
       "description": "The Egyptian Foreign Ministry has voiced optimism regarding a potential diplomatic breakthrough, urging both Washington and Tehran to capitalise on th..."
     },
     {
-      "title": "Lt Gen Rajiv Ghai is new Military Adviser to NSCS, first serving officer to be appointed to post",
-      "link": "https://theprint.in/defence/lt-gen-rajiv-ghai-is-new-military-adviser-to-nscs-first-serving-officer-to-be-appointed-to-post/2957944/",
-      "source": "The Print",
-      "sort_key": "2026-06-12T12:47:25+05:30",
-      "time": "12 Jun, 12:47 PM",
-      "type": "news",
-      "description": "Lt Gen Ghai, ex-DGMO during Op Sindoor, commanded infantry battalion in western sector, independent brigade in central &#38; Infantry Division in Arun..."
-    },
-    {
       "title": "Thales receives an order for 60 GO12 short-range battlefield radars for the German Armed Forces",
       "link": "https://www.indiastrategic.in/thales-receives-an-order-for-60-go12-short-range-battlefield-radars-for-the-german-armed-forces/",
       "source": "India Strategic",
@@ -485,15 +494,6 @@
       "time": "12 Jun, 10:02 AM",
       "type": "news",
       "description": "President Trump assured Prime Minister Netanyahu that a deal with Iran would ensure Tehran surrenders its nuclear stockpile. This understanding would ..."
-    },
-    {
-      "title": "Pushback of illegal B\u2019deshis dominates BSF-BGB talks",
-      "link": "https://www.tribuneindia.com/news/india/bsf-bgb-border-talks-pushback-of-illegal-bangladesh-nationals-figures-prominently",
-      "source": "The Tribune",
-      "sort_key": "2026-06-12T09:31:36+05:30",
-      "time": "12 Jun, 09:31 AM",
-      "type": "news",
-      "description": "The issue of pushback of Bangladesh nationals allegedly living illegally in India figured prominently during the 57th Director General-level border co..."
     },
     {
       "title": "\u2018Death of Indian sailors very, very unfortunate\u2019: US Republican lawmaker on deadly US attack",
@@ -908,18 +908,59 @@
       "time": "11 Jun, 06:03 AM",
       "type": "news",
       "description": "The US launched a new round of overnight strikes on multiple targets in Iran, with President Donald Trump warning of further attacks unless Tehran qui..."
-    },
-    {
-      "title": "Defence Ministry Signs Rs 449-cr Navy Jammer Deal",
-      "link": "https://www.deccanchronicle.com/nation/defence-ministry-signs-rs-449-cr-navy-jammer-deal-1962769",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-11T00:50:06+05:30",
-      "time": "11 Jun, 12:50 AM",
-      "type": "news",
-      "description": "The contract, awarded under the Buy (Indian\u2013Indigenously Designed, Developed and Manufactured) category with a minimum 75 per cent indigenous content,..."
     }
   ],
   "tweets": [
+    {
+      "title": "Hours after US CdA Jason Meeks in Delhi was summoned for the 2nd time in week over strikes off Oman coast that impacted Indian sailors, India's EAM Jaishankar speaks to Secretary Rubio, lodges protest.",
+      "link": "https://nitter.net/sidhant/status/2065521256590709018#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-13T01:16:57+05:30",
+      "time": "13 Jun, 01:16 AM",
+      "type": "tweets",
+      "content": "<p>Hours after US CdA Jason Meeks in Delhi was summoned for the 2nd time in week over strikes off Oman coast that impacted Indian sailors, India's EAM Jaishankar speaks to Secretary Rubio, lodges protest.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking:\n\nEAM Jaishankar speaks to US Secretary of State Marco over US actions on vessels that killed 3 Indian Sailors.\n\n\"Such lethal actions against commercial shipping are not justified\"",
+      "link": "https://nitter.net/sidhant/status/2065518854416281725#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-13T01:07:25+05:30",
+      "time": "13 Jun, 01:07 AM",
+      "type": "tweets",
+      "content": "<p>Breaking:<br />\n<br />\nEAM Jaishankar speaks to US Secretary of State Marco over US actions on vessels that killed 3 Indian Sailors.<br />\n<br />\n\"Such lethal actions against commercial shipping are not justified\"</p>\n<hr />\n<blockquote>\n<b>Dr. S. Jaishankar (@DrSJaishankar)</b>\n<p>\n<p>Spoke to US Secretary of State Marco Rubio this evening. I reiterated India\u2019s strong protest at the attacks by the US Navy in the Gulf that killed three Indian mariners. Such lethal actions against commercial shipping are not justified.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DrSJaishankar/status/2065518118802461072#m\">https://nitter.net/DrSJaishankar/status/2065518118802461072#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iran Agriculture Minister at BRICS Agriculture meet in Indore, India",
+      "link": "https://nitter.net/sidhant/status/2065516153154232469#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-13T00:56:41+05:30",
+      "time": "13 Jun, 12:56 AM",
+      "type": "tweets",
+      "content": "<p>Iran Agriculture Minister at BRICS Agriculture meet in Indore, India</p>\n<img src=\"https://nitter.net/pic/media%2FHKov_E7aoAApSr4.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iran dismisses Trump claims that drones were used on Indian vessels in Hormuz. Terms it \"baseless\"",
+      "link": "https://nitter.net/sidhant/status/2065513985492103606#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-13T00:48:04+05:30",
+      "time": "13 Jun, 12:48 AM",
+      "type": "tweets",
+      "content": "<p>Iran dismisses Trump claims that drones were used on Indian vessels in Hormuz. Terms it \"baseless\"</p>\n<hr />\n<blockquote>\n<b>Iran in India (@Iran_in_India)</b>\n<p>\n<p>The U.S. president's accusation against Iran regarding an Indian vessel in the Strait of Hormuz is simply baseless. It is an attempt to divert public attention from the brutal fact that the U.S. has attacked 3 Indian vessels in less than a week and killed 3 innocent Indian sailors. That's pathetic!</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Iran_in_India/status/2065509494159991234#m\">https://nitter.net/Iran_in_India/status/2065509494159991234#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "PM Modi's France & Slovakia Visit begins tomm\n\nJune 13-14\nFrance, Nice\n-Bharat Innovates 2026\n-PM Modi, Prez Macron meet\n\nJune 14-16\nSlovakia, Bratislava\n-State visit of PM Modi\n\nJune 16-17\nFrance, \u00c9vian-les-Bains \n-G7 Summit \n\nJune 17-18\nFrance, Paris\n-Diaspora\n-VivaTech",
+      "link": "https://nitter.net/sidhant/status/2065513491088429092#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-13T00:46:06+05:30",
+      "time": "13 Jun, 12:46 AM",
+      "type": "tweets",
+      "content": "<p>PM Modi's France &amp; Slovakia Visit begins tomm<br />\n<br />\nJune 13-14<br />\nFrance, Nice<br />\n-Bharat Innovates 2026<br />\n-PM Modi, Prez Macron meet<br />\n<br />\nJune 14-16<br />\nSlovakia, Bratislava<br />\n-State visit of PM Modi<br />\n<br />\nJune 16-17<br />\nFrance, \u00c9vian-les-Bains <br />\n-G7 Summit <br />\n<br />\nJune 17-18<br />\nFrance, Paris<br />\n-Diaspora<br />\n-VivaTech</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "\"Nobody proceeding for help\", new audio shows situation after MT Settebello came under attack. 3 Indian sailors died in the attack by US military.\n\nhttps://t.co/FXa6EdGnGJ",
       "link": "https://nitter.net/sidhant/status/2065506215829164228#m",
@@ -948,16 +989,6 @@
       "time": "13 Jun, 12:01 AM",
       "type": "tweets",
       "content": "<p>US Congressman Thanedar on Anti Indian attacks in Texas:</p>\n<img src=\"https://nitter.net/pic/media%2FHKojaLsbAAAq8dK.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi's France & Slovakia Visit begins tomm\n\nJune 13-14\nFrance, Nice\n-Bharat Innovates 2026\n-PM Modi, Prez Macron meet\n\nJune 14-16\nSlovakia, Bratislava\n-State visit of PM Modi\n\nJune 16-17\nFrance, \u00c9vian-les-Bains \n-G7 Summit \n\nJune 18-19\nFrance, Paris\n-Diaspora\n-VivaTech",
-      "link": "https://nitter.net/sidhant/status/2065496242764099972#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-12T23:37:33+05:30",
-      "time": "12 Jun, 11:37 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi's France &amp; Slovakia Visit begins tomm<br />\n<br />\nJune 13-14<br />\nFrance, Nice<br />\n-Bharat Innovates 2026<br />\n-PM Modi, Prez Macron meet<br />\n<br />\nJune 14-16<br />\nSlovakia, Bratislava<br />\n-State visit of PM Modi<br />\n<br />\nJune 16-17<br />\nFrance, \u00c9vian-les-Bains <br />\n-G7 Summit <br />\n<br />\nJune 18-19<br />\nFrance, Paris<br />\n-Diaspora<br />\n-VivaTech</p>",
       "author": "@sidhant"
     },
     {
@@ -1331,36 +1362,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "A strong protest was lodged with US CdA regarding the continuing attacks by U.S. naval forces on commercial vessels carrying Indian mariners in the Gulf of Oman: India Statement",
-      "link": "https://nitter.net/sidhant/status/2065380277741076933#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-12T15:56:45+05:30",
-      "time": "12 Jun, 03:56 PM",
-      "type": "tweets",
-      "content": "<p>A strong protest was lodged with US CdA regarding the continuing attacks by U.S. naval forces on commercial vessels carrying Indian mariners in the Gulf of Oman: India Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHKm0arlbgAAcMzw.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India summons US diplomat for the 2nd time in a week after US attacked vessel on which Indian nationals were present. \n\nhttps://t.co/hMBJ9AyRdW",
-      "link": "https://nitter.net/sidhant/status/2065373366983475237#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-12T15:29:18+05:30",
-      "time": "12 Jun, 03:29 PM",
-      "type": "tweets",
-      "content": "<p>India summons US diplomat for the 2nd time in a week after US attacked vessel on which Indian nationals were present. <br />\n<br />\nhttps://nitter.net/t.co/hMBJ9AyRdW</p>\n<a href=\"https://nitter.net/sidhant/status/2065373366983475237#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065371380154343424%2Fimg%2FyUO2WEhmBwAnrSpu.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Iran's Mehr News Publishes the draft of US Iran agreement, that is yet to be given approval. It calls for lifting of the maritime blockade within 30 days, withdrawal of U.S. forces from areas adjacent to Iran etc",
-      "link": "https://nitter.net/sidhant/status/2065373074686697936#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-12T15:28:08+05:30",
-      "time": "12 Jun, 03:28 PM",
-      "type": "tweets",
-      "content": "<p>Iran's Mehr News Publishes the draft of US Iran agreement, that is yet to be given approval. It calls for lifting of the maritime blockade within 30 days, withdrawal of U.S. forces from areas adjacent to Iran etc</p>\n<img src=\"https://nitter.net/pic/media%2FHKmt3a0a8AEu3Jl.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: In the ongoing PoJK protest, around 50 people were reportedly killed, in that 16 who are said to be associated with JKLF and other anti-India terrorist organisations.\n\nYou cannot keep snakes in your backyard and expect them to bite only your neighbours.\n\nOpen source",
       "link": "https://nitter.net/OsintTV/status/2065373033129292042#m",
       "source": "Osint TV",
@@ -1369,16 +1370,6 @@
       "type": "tweets",
       "content": "<p>In the ongoing PoJK protest, around 50 people were reportedly killed, in that 16 who are said to be associated with JKLF and other anti-India terrorist organisations.<br />\n<br />\nYou cannot keep snakes in your backyard and expect them to bite only your neighbours.<br />\n<br />\nOpen source</p>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @sidhant: #BREAKING | MEA summons US Charg\u00e9 d\u2019Affaires Jason Meeks to lodge a protest against attacks on commercial vessels off the coast of Oman\n\nThis is the 2nd time US envoy has been summoned in 3 days\n\n@sidhant, @AadhyaJunejaa and @rajnikalra6 have more",
-      "link": "https://nitter.net/WIONews/status/2065371980342411366#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-12T15:23:47+05:30",
-      "time": "12 Jun, 03:23 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BREAKING\">#BREAKING</a> | MEA summons US Charg\u00e9 d\u2019Affaires Jason Meeks to lodge a protest against attacks on commercial vessels off the coast of Oman<br />\n<br />\nThis is the 2nd time US envoy has been summoned in 3 days<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, <a href=\"https://nitter.net/AadhyaJunejaa\" title=\"Aadhya Juneja\">@AadhyaJunejaa</a> and <a href=\"https://nitter.net/rajnikalra6\" title=\"Rajni Kalra\">@rajnikalra6</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2065371980342411366#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065371380154343424%2Fimg%2FyUO2WEhmBwAnrSpu.jpg\" />\n</a>",
-      "author": "@WIONews"
     },
     {
       "title": "India has summoned the US Charg\u00e9 d\u2019Affaires (CdA), Jason Meeks, in New Delhi twice within a few days to register a \"strong protest\" over US Navy strikes in West Asia that resulted in the deaths and endangerment of Indian seafarers",
@@ -1691,14 +1682,14 @@
       "author": "@Goreunit"
     },
     {
-      "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Lance Naik Meenatchi Sundaram A, Regiment of Artillery / 34 Rashtriya Rifles\n\nOn 19 December 2024, during a counter-terrorism operation in Kulgam, Jammu & Kashmir, Lance Naik Meenatchi Sundaram A and his team established contact with armed terrorists based on specific intelligence inputs.\n\nAs the operation intensified into a close-quarter firefight, he came under heavy enemy fire and sustained severe gunshot wounds to his face and shoulder. Despite his critical injuries, he refused to withdraw from the battle.\n\nDisplaying exceptional courage and determination, Lance Naik Meenatchi Sundaram A continued engaging the terrorists, maintaining pressure on the enemy and protecting his fellow soldiers from the escalating threat.\n\nIn an extraordinary display of grit and battlefield resolve, he successfully neutralized a hardcore terrorist, contributing significantly to the success of the operation despite being seriously wounded.\n\nHis actions reflected the highest traditions of the Indian Army, placing mission accomplishment and the safety of his comrades above his own well-being.\n\nFor displaying conspicuous bravery, indomitable spirit, and exceptional devotion to duty in the face of grave danger, Lance Naik Meenatchi Sundaram A was awarded the Kirti Chakra, India's second-highest peacetime gallantry award.\n\n7/8",
-      "link": "https://nitter.net/NetramDefence/status/2065017148947481078#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-11T15:53:49+05:30",
-      "time": "11 Jun, 03:53 PM",
+      "title": "RT >@Goreunit: Pictures from Rawalakot PoJK. Civilians are being massacred by the Pakistan Army while international media sleeps!!\n@Reuters\u2026",
+      "link": "https://nitter.net/Goreunit/status/2065033751143616877#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T16:59:47+05:30",
+      "time": "11 Jun, 04:59 PM",
       "type": "tweets",
-      "content": "<p>\ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Lance Naik Meenatchi Sundaram A, Regiment of Artillery / 34 Rashtriya Rifles<br />\n<br />\nOn 19 December 2024, during a counter-terrorism operation in Kulgam, Jammu & Kashmir, Lance Naik Meenatchi Sundaram A and his team established contact with armed terrorists based on specific intelligence inputs.<br />\n<br />\nAs the operation intensified into a close-quarter firefight, he came under heavy enemy fire and sustained severe gunshot wounds to his face and shoulder. Despite his critical injuries, he refused to withdraw from the battle.<br />\n<br />\nDisplaying exceptional courage and determination, Lance Naik Meenatchi Sundaram A continued engaging the terrorists, maintaining pressure on the enemy and protecting his fellow soldiers from the escalating threat.<br />\n<br />\nIn an extraordinary display of grit and battlefield resolve, he successfully neutralized a hardcore terrorist, contributing significantly to the success of the operation despite being seriously wounded.<br />\n<br />\nHis actions reflected the highest traditions of the Indian Army, placing mission accomplishment and the safety of his comrades above his own well-being.<br />\n<br />\nFor displaying conspicuous bravery, indomitable spirit, and exceptional devotion to duty in the face of grave danger, Lance Naik Meenatchi Sundaram A was awarded the Kirti Chakra, India's second-highest peacetime gallantry award.<br />\n<br />\n7/8</p>\n<a href=\"https://nitter.net/NetramDefence/status/2065017148947481078#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065015344851509248%2Fimg%2F-TKG0FG8PXkAJKFp.jpg\" />\n</a>",
-      "author": "@NetramDefence"
+      "content": "<p>RT <a href=\"https://nitter.net/Goreunit\" title=\"War &amp; Gore\">@Goreunit</a>: Pictures from Rawalakot PoJK. Civilians are being massacred by the Pakistan Army while international media sleeps!!<br />\n<a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a>\u2026</p>",
+      "author": "@Goreunit"
     },
     {
       "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Group Captain Prasanth Balakrishnan Nair, Indian Air Force\n\nGroup Captain Prasanth Balakrishnan Nair, an accomplished fighter pilot, Experimental Test Pilot, and one of India's selected Gaganyatris, played a pivotal role in advancing India's human spaceflight ambitions through the Gaganyaan programme.\n\nAs Mission Commander-designate and a key member of India's astronaut corps, he underwent rigorous training, mission preparation, and operational readiness activities for some of the nation's most challenging aerospace missions. His professionalism, courage, and commitment helped strengthen India's human spaceflight capabilities.\n\nHe also served as the backup astronaut for India's participation in the Axiom-4 mission to the International Space Station, demonstrating exceptional dedication, resilience, and mission readiness under demanding conditions.\n\nA decorated Indian Air Force officer with extensive experience as a test pilot and flying instructor, Group Captain Nair's contributions have been instrumental in shaping India's journey toward independent human spaceflight.\n\nFor his extraordinary courage, conspicuous bravery, exceptional professional excellence, and selfless devotion to duty in support of India's human spaceflight programme, Group Captain Prasanth Balakrishnan Nair was awarded the Kirti Chakra, India's second-highest peacetime gallantry award. \n\n8/8",
@@ -1711,6 +1702,66 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Lance Naik Meenatchi Sundaram A, Regiment of Artillery / 34 Rashtriya Rifles\n\nOn 19 December 2024, during a counter-terrorism operation in Kulgam, Jammu & Kashmir, Lance Naik Meenatchi Sundaram A and his team established contact with armed terrorists based on specific intelligence inputs.\n\nAs the operation intensified into a close-quarter firefight, he came under heavy enemy fire and sustained severe gunshot wounds to his face and shoulder. Despite his critical injuries, he refused to withdraw from the battle.\n\nDisplaying exceptional courage and determination, Lance Naik Meenatchi Sundaram A continued engaging the terrorists, maintaining pressure on the enemy and protecting his fellow soldiers from the escalating threat.\n\nIn an extraordinary display of grit and battlefield resolve, he successfully neutralized a hardcore terrorist, contributing significantly to the success of the operation despite being seriously wounded.\n\nHis actions reflected the highest traditions of the Indian Army, placing mission accomplishment and the safety of his comrades above his own well-being.\n\nFor displaying conspicuous bravery, indomitable spirit, and exceptional devotion to duty in the face of grave danger, Lance Naik Meenatchi Sundaram A was awarded the Kirti Chakra, India's second-highest peacetime gallantry award.\n\n7/8",
+      "link": "https://nitter.net/NetramDefence/status/2065017148947481078#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-11T15:53:49+05:30",
+      "time": "11 Jun, 03:53 PM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Lance Naik Meenatchi Sundaram A, Regiment of Artillery / 34 Rashtriya Rifles<br />\n<br />\nOn 19 December 2024, during a counter-terrorism operation in Kulgam, Jammu & Kashmir, Lance Naik Meenatchi Sundaram A and his team established contact with armed terrorists based on specific intelligence inputs.<br />\n<br />\nAs the operation intensified into a close-quarter firefight, he came under heavy enemy fire and sustained severe gunshot wounds to his face and shoulder. Despite his critical injuries, he refused to withdraw from the battle.<br />\n<br />\nDisplaying exceptional courage and determination, Lance Naik Meenatchi Sundaram A continued engaging the terrorists, maintaining pressure on the enemy and protecting his fellow soldiers from the escalating threat.<br />\n<br />\nIn an extraordinary display of grit and battlefield resolve, he successfully neutralized a hardcore terrorist, contributing significantly to the success of the operation despite being seriously wounded.<br />\n<br />\nHis actions reflected the highest traditions of the Indian Army, placing mission accomplishment and the safety of his comrades above his own well-being.<br />\n<br />\nFor displaying conspicuous bravery, indomitable spirit, and exceptional devotion to duty in the face of grave danger, Lance Naik Meenatchi Sundaram A was awarded the Kirti Chakra, India's second-highest peacetime gallantry award.<br />\n<br />\n7/8</p>\n<a href=\"https://nitter.net/NetramDefence/status/2065017148947481078#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065015344851509248%2Fimg%2F-TKG0FG8PXkAJKFp.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Major Arshdeep Singh, 1 Assam Rifles\n\nIn May 2025, Major Arshdeep Singh was leading a special patrol along the Indo-Myanmar border to provide security for personnel engaged in border-fencing work in a highly insurgency-prone area. The mission was critical to maintaining security and connectivity along the frontier.\n\nDuring the operation, his patrol came under sudden and intense fire from insurgents positioned on dominating high ground. Outnumbered and under heavy attack, Major Arshdeep Singh displayed exceptional courage and presence of mind, immediately launching a counter-ambush against the hostile group.\n\nBraving relentless enemy fire, he led his troops through dense jungle terrain, closed in on the insurgents' position, and personally spearheaded the assault. His aggressive action neutralized multiple insurgents, including one armed with a rocket-propelled grenade launcher, turning the tide of the engagement.\n\nHis fearless leadership and tactical brilliance ensured the success of the mission and, most importantly, prevented any casualties among his troops despite the grave danger they faced.\n\nA first-generation Army officer commissioned in 2016, Major Arshdeep Singh exemplified the highest traditions of military leadership\u2014leading from the front when it mattered most.\n\nFor displaying conspicuous bravery, exceptional leadership, and unwavering devotion to duty in the face of grave danger, Major Arshdeep Singh was awarded the Kirti Chakra, India's second-highest peacetime gallantry award.\n\n6/8",
+      "link": "https://nitter.net/NetramDefence/status/2065017145562652675#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-11T15:53:48+05:30",
+      "time": "11 Jun, 03:53 PM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Major Arshdeep Singh, 1 Assam Rifles<br />\n<br />\nIn May 2025, Major Arshdeep Singh was leading a special patrol along the Indo-Myanmar border to provide security for personnel engaged in border-fencing work in a highly insurgency-prone area. The mission was critical to maintaining security and connectivity along the frontier.<br />\n<br />\nDuring the operation, his patrol came under sudden and intense fire from insurgents positioned on dominating high ground. Outnumbered and under heavy attack, Major Arshdeep Singh displayed exceptional courage and presence of mind, immediately launching a counter-ambush against the hostile group.<br />\n<br />\nBraving relentless enemy fire, he led his troops through dense jungle terrain, closed in on the insurgents' position, and personally spearheaded the assault. His aggressive action neutralized multiple insurgents, including one armed with a rocket-propelled grenade launcher, turning the tide of the engagement.<br />\n<br />\nHis fearless leadership and tactical brilliance ensured the success of the mission and, most importantly, prevented any casualties among his troops despite the grave danger they faced.<br />\n<br />\nA first-generation Army officer commissioned in 2016, Major Arshdeep Singh exemplified the highest traditions of military leadership\u2014leading from the front when it mattered most.<br />\n<br />\nFor displaying conspicuous bravery, exceptional leadership, and unwavering devotion to duty in the face of grave danger, Major Arshdeep Singh was awarded the Kirti Chakra, India's second-highest peacetime gallantry award.<br />\n<br />\n6/8</p>\n<a href=\"https://nitter.net/NetramDefence/status/2065017145562652675#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065013763569586176%2Fimg%2FBDdQah2DFbIGt8Wm.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Naib Subedar Doleshwar Subba, 2 PARA (SF)\n\nOn 11 April 2025, Naib Subedar Doleshwar Subba of the elite 2 PARA (Special Forces) led a counter-terror operation in the dense forests of Kishtwar, Jammu & Kashmir. Facing a heavily armed terrorist group in difficult terrain, he pressed the assault despite coming under intense enemy fire.\n\nDisplaying exceptional courage and battlefield leadership, he engaged the terrorists at close quarters and eliminated two militants during the operation, significantly contributing to the mission's success.\n\nHis fearless actions under fire, unwavering determination, and commitment to the mission reflected the finest traditions of the Indian Army and the Special Forces fraternity.\n\nFor displaying extraordinary courage, conspicuous bravery, and selfless devotion to duty in the face of grave danger, Naib Subedar Doleshwar Subba was awarded the Kirti Chakra, India's second-highest peacetime gallantry award. \n\n5/8",
+      "link": "https://nitter.net/NetramDefence/status/2065017142110797947#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-11T15:53:47+05:30",
+      "time": "11 Jun, 03:53 PM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Naib Subedar Doleshwar Subba, 2 PARA (SF)<br />\n<br />\nOn 11 April 2025, Naib Subedar Doleshwar Subba of the elite 2 PARA (Special Forces) led a counter-terror operation in the dense forests of Kishtwar, Jammu & Kashmir. Facing a heavily armed terrorist group in difficult terrain, he pressed the assault despite coming under intense enemy fire.<br />\n<br />\nDisplaying exceptional courage and battlefield leadership, he engaged the terrorists at close quarters and eliminated two militants during the operation, significantly contributing to the mission's success.<br />\n<br />\nHis fearless actions under fire, unwavering determination, and commitment to the mission reflected the finest traditions of the Indian Army and the Special Forces fraternity.<br />\n<br />\nFor displaying extraordinary courage, conspicuous bravery, and selfless devotion to duty in the face of grave danger, Naib Subedar Doleshwar Subba was awarded the Kirti Chakra, India's second-highest peacetime gallantry award. <br />\n<br />\n5/8</p>\n<a href=\"https://nitter.net/NetramDefence/status/2065017142110797947#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065012524232413184%2Fimg%2FvMBgPdq7F3XvokbY.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Capt. Lalrinawma Sailo, 4 PARA (SF)\n\nCapt. Lalrinawma Sailo of the elite 4 PARA (Special Forces) displayed exceptional courage during a counter-terror operation in Srinagar, Jammu & Kashmir.\n\nDuring the operation, he positively identified a high-value terrorist target and led the assault with remarkable precision. Demonstrating outstanding battlefield awareness and fearless leadership, he closed in on the terrorists and neutralized them at close range.\n\nDespite the extreme risk involved, Capt. Sailo continued the operation with unwavering determination, ensuring the complete success of the mission and eliminating the remaining terrorists. His actions reflected the highest standards of professionalism, courage, and devotion to duty.\n\nA native of Aizawl, Mizoram, and an officer of 4 PARA (SF), Capt. Sailo became the first Mizo commissioned officer to be awarded the Kirti Chakra.\n\nFor displaying exceptional bravery, leadership under fire, and embodying the finest traditions of the Indian Army Special Forces, Capt. Lalrinawma Sailo was awarded the Kirti Chakra, India's second-highest peacetime gallantry award. \n\n4/8",
+      "link": "https://nitter.net/NetramDefence/status/2065017138705015183#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-11T15:53:46+05:30",
+      "time": "11 Jun, 03:53 PM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3 Kirti Chakra \u2013 Capt. Lalrinawma Sailo, 4 PARA (SF)<br />\n<br />\nCapt. Lalrinawma Sailo of the elite 4 PARA (Special Forces) displayed exceptional courage during a counter-terror operation in Srinagar, Jammu & Kashmir.<br />\n<br />\nDuring the operation, he positively identified a high-value terrorist target and led the assault with remarkable precision. Demonstrating outstanding battlefield awareness and fearless leadership, he closed in on the terrorists and neutralized them at close range.<br />\n<br />\nDespite the extreme risk involved, Capt. Sailo continued the operation with unwavering determination, ensuring the complete success of the mission and eliminating the remaining terrorists. His actions reflected the highest standards of professionalism, courage, and devotion to duty.<br />\n<br />\nA native of Aizawl, Mizoram, and an officer of 4 PARA (SF), Capt. Sailo became the first Mizo commissioned officer to be awarded the Kirti Chakra.<br />\n<br />\nFor displaying exceptional bravery, leadership under fire, and embodying the finest traditions of the Indian Army Special Forces, Capt. Lalrinawma Sailo was awarded the Kirti Chakra, India's second-highest peacetime gallantry award. <br />\n<br />\n4/8</p>\n<a href=\"https://nitter.net/NetramDefence/status/2065017138705015183#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065011271444148224%2Fimg%2FGU1InVVC3EUqvwFj.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra (Posthumous) Sepoy Janjal Pravin Prabhakar (Mahar Regiment)\n\nSepoy Janjal Pravin Prabhakar of the Mahar Regiment, attached to 1 Rashtriya Rifles, was deployed in Jammu & Kashmir for counter-terrorism operations.\n\nOn 6 July 2024, during a fierce encounter in Kulgam, his team engaged heavily armed terrorists hiding in the area. Displaying exceptional courage under fire, Sepoy Prabhakar closed in on the terrorists and eliminated two militants during the operation.\n\nDespite sustaining fatal injuries, he continued fighting until his last breath, contributing significantly to the successful neutralization of the terrorist threat. The operation resulted in the elimination of four terrorists, but Sepoy Prabhakar made the supreme sacrifice in the line of duty.\n\nA native of Morgaon Bhakre village in Maharashtra's Akola district, he was only 25 years old. His unwavering determination, fearless action, and devotion to the nation reflected the highest traditions of the Indian Army.\n\nFor conspicuous bravery, indomitable courage, and supreme sacrifice in the fight against terrorism, Sepoy Janjal Pravin Prabhakar was posthumously awarded the Kirti Chakra, India's second-highest peacetime gallantry award. \n\n3/8",
+      "link": "https://nitter.net/NetramDefence/status/2065017135328592201#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-11T15:53:45+05:30",
+      "time": "11 Jun, 03:53 PM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3 Kirti Chakra (Posthumous) Sepoy Janjal Pravin Prabhakar (Mahar Regiment)<br />\n<br />\nSepoy Janjal Pravin Prabhakar of the Mahar Regiment, attached to 1 Rashtriya Rifles, was deployed in Jammu & Kashmir for counter-terrorism operations.<br />\n<br />\nOn 6 July 2024, during a fierce encounter in Kulgam, his team engaged heavily armed terrorists hiding in the area. Displaying exceptional courage under fire, Sepoy Prabhakar closed in on the terrorists and eliminated two militants during the operation.<br />\n<br />\nDespite sustaining fatal injuries, he continued fighting until his last breath, contributing significantly to the successful neutralization of the terrorist threat. The operation resulted in the elimination of four terrorists, but Sepoy Prabhakar made the supreme sacrifice in the line of duty.<br />\n<br />\nA native of Morgaon Bhakre village in Maharashtra's Akola district, he was only 25 years old. His unwavering determination, fearless action, and devotion to the nation reflected the highest traditions of the Indian Army.<br />\n<br />\nFor conspicuous bravery, indomitable courage, and supreme sacrifice in the fight against terrorism, Sepoy Janjal Pravin Prabhakar was posthumously awarded the Kirti Chakra, India's second-highest peacetime gallantry award. <br />\n<br />\n3/8</p>\n<a href=\"https://nitter.net/NetramDefence/status/2065017135328592201#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065009431029669888%2Fimg%2FPKPKeQojUROjONdS.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: \ud83c\uddee\ud83c\uddf3 Kirti Chakra (Posthumous) Lieutenant Shashank Tiwari (1 Sikkim Scouts)\n\nIn 2025, Lt. Shashank Tiwari of 1 Sikkim Scouts was deployed in North Sikkim along the Indo-China border, where extreme weather, snowbound routes, and treacherous terrain made every mission a challenge.\n\nOn 22 May 2025, while leading a Route Opening Patrol and snow-clearance operation from Bichhu to Chu Junction, tragedy struck when Agniveer Stephan Subba slipped from a makeshift log bridge and was swept away by a raging mountain stream.\n\nWithout hesitation, Lt. Tiwari jumped into the freezing torrent to save his soldier. Alongside Naik Pukar Katel, he fought the powerful current and successfully rescued Agniveer Subba.\n\nIn the process, Lt. Tiwari himself was swept away. Despite immediate rescue efforts, he made the supreme sacrifice in the line of duty. His body was later recovered 800 meters downstream.\n\nJust 23 years old and commissioned only six months earlier, Lt. Shashank Tiwari embodied the Indian Army ethos of \"Service Before Self.\"\n\nFor displaying exceptional courage, leadership, and selfless devotion to duty, he was posthumously awarded the Kirti Chakra, India's second-highest peacetime gallantry award.\n\n2/8",
+      "link": "https://nitter.net/NetramDefence/status/2065017131763458527#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-11T15:53:45+05:30",
+      "time": "11 Jun, 03:53 PM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3 Kirti Chakra (Posthumous) Lieutenant Shashank Tiwari (1 Sikkim Scouts)<br />\n<br />\nIn 2025, Lt. Shashank Tiwari of 1 Sikkim Scouts was deployed in North Sikkim along the Indo-China border, where extreme weather, snowbound routes, and treacherous terrain made every mission a challenge.<br />\n<br />\nOn 22 May 2025, while leading a Route Opening Patrol and snow-clearance operation from Bichhu to Chu Junction, tragedy struck when Agniveer Stephan Subba slipped from a makeshift log bridge and was swept away by a raging mountain stream.<br />\n<br />\nWithout hesitation, Lt. Tiwari jumped into the freezing torrent to save his soldier. Alongside Naik Pukar Katel, he fought the powerful current and successfully rescued Agniveer Subba.<br />\n<br />\nIn the process, Lt. Tiwari himself was swept away. Despite immediate rescue efforts, he made the supreme sacrifice in the line of duty. His body was later recovered 800 meters downstream.<br />\n<br />\nJust 23 years old and commissioned only six months earlier, Lt. Shashank Tiwari embodied the Indian Army ethos of \"Service Before Self.\"<br />\n<br />\nFor displaying exceptional courage, leadership, and selfless devotion to duty, he was posthumously awarded the Kirti Chakra, India's second-highest peacetime gallantry award.<br />\n<br />\n2/8</p>\n<a href=\"https://nitter.net/NetramDefence/status/2065017131763458527#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065005941167452160%2Fimg%2FXYbOBcp6v58zpgK1.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
+    {
       "title": "THREAD: \nIndia\u2019s 7 Kirti Chakra Warriors | Defence Investiture 2026 \n\nOn June 8, 2026, President Smt. Droupadi Murmu presented Gallantry Awards during Phase-I of the Defence Investiture Ceremony 2026. The ceremony was a testament to the iron-willed defenders of India who put the nation before self.  Here is their story \ud83d\udc47\n\n@adgpi @IAF_MCC @indiannavy @official_dgar  @HQ_IDS_India @SpokespersonMoD @DefenceMinIndia @rajnathsingh  @rashtrapatibhvn \n1/8",
       "link": "https://nitter.net/NetramDefence/status/2065017127413965242#m",
       "source": "Netram Defense",
@@ -1719,6 +1770,16 @@
       "type": "tweets",
       "content": "<p>THREAD: <br />\nIndia\u2019s 7 Kirti Chakra Warriors | Defence Investiture 2026 <br />\n<br />\nOn June 8, 2026, President Smt. Droupadi Murmu presented Gallantry Awards during Phase-I of the Defence Investiture Ceremony 2026. The ceremony was a testament to the iron-willed defenders of India who put the nation before self.  Here is their story \ud83d\udc47<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a>  <a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a>  <a href=\"https://nitter.net/rashtrapatibhvn\" title=\"President of India\">@rashtrapatibhvn</a> <br />\n1/8</p>\n<img src=\"https://nitter.net/pic/media%2FHKhdBjuagAAZqQ_.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "Pictures from Rawalakot PoJK. Civilians are being massacred by the Pakistan Army while international media sleeps!!\n@Reuters @BBCWorld @UNHumanRights @EURightsAgency",
+      "link": "https://nitter.net/Goreunit/status/2065009277924950490#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T15:22:32+05:30",
+      "time": "11 Jun, 03:22 PM",
+      "type": "tweets",
+      "content": "<p>Pictures from Rawalakot PoJK. Civilians are being massacred by the Pakistan Army while international media sleeps!!<br />\n<a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a></p>\n<img src=\"https://nitter.net/pic/media%2FHKhi-lxbYAAai8d.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi_R5bkAEkh2d.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi-38a4AAUeuU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKhi_QVbwAA5iR1.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Civilians are being massacred in PoJK by the tyrant regime of Munir ...<br />\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.<br />\n<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> Stop being oblivious to such brazen violation of all human rights in PoJK!!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984628407177217%2Fpu%2Fimg%2F4JtKGD9jNBqjnJxI.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984617955033088%2Fpu%2Fimg%2FUWrMEgFp532xffw8.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">https://nitter.net/Goreunit/status/2064985034050928756#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
     },
     {
       "title": "RT by @Goreunit: Exclusive: An angry PoJK resident blasted the PoJK Police helpline, accusing authorities of hiding the ground reality amid ongoing unrest.\n\n\u201cPoJK is burning, Pakistanis have killed our people, and you are spreading lies.\u201d\n\nIn the call accessed by us, the caller questioned @AJKP_Official claims of normalcy, challenged official social media messaging, and accused Pakistani forces of firing on civilians while concealing the true situation across PoJK.\n\n#PoJK #Rawalakot #Muzaffarabad #PakistanArmy #PakistanOccupiedKashmir #HumanRights #Protests #Pakistan #Kashmir #BreakingNews",
@@ -1741,6 +1802,16 @@
       "author": "@shivank_8mishra"
     },
     {
+      "title": "Civilians are being massacred in PoJK by the tyrant regime of Munir ...\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.\n@EURightsAgency @UNHumanRights @Reuters @UN_HRC Stop being oblivious to such brazen violation of all human rights in PoJK!!",
+      "link": "https://nitter.net/Goreunit/status/2064985034050928756#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T13:46:12+05:30",
+      "time": "11 Jun, 01:46 PM",
+      "type": "tweets",
+      "content": "<p>Civilians are being massacred in PoJK by the tyrant regime of Munir ...<br />\nMany casualties feared in Rawalakot as Pakistan Army opened fire on civilians.<br />\n<a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> Stop being oblivious to such brazen violation of all human rights in PoJK!!</p>\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984628407177217%2Fpu%2Fimg%2F4JtKGD9jNBqjnJxI.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2064985034050928756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064984617955033088%2Fpu%2Fimg%2FUWrMEgFp532xffw8.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Pakistan occupied Kashmir protests:<br />\n<br />\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064894514578518016%2Fpu%2Fimg%2FCy12vBffrE049MU9.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">https://nitter.net/Goreunit/status/2064894554273444210#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
       "title": "Hate is an understatement and not even close to defining the kind of things I want them to suffer.\n\nI am being extremely modest here, sir.\n\nThe line you said is good for sundowner parties, where I keep my mouth usually shut. Because I am just happy that relevant people understand my sentiments.",
       "link": "https://nitter.net/elitepredatorss/status/2064966258303615391#m",
       "source": "Elite Predators",
@@ -1749,6 +1820,16 @@
       "type": "tweets",
       "content": "<p>Hate is an understatement and not even close to defining the kind of things I want them to suffer.<br />\n<br />\nI am being extremely modest here, sir.<br />\n<br />\nThe line you said is good for sundowner parties, where I keep my mouth usually shut. Because I am just happy that relevant people understand my sentiments.</p>\n<hr />\n<blockquote>\n<b>Col Sanjay Pande (@ColSanjayPande)</b>\n<p>\n<p>This is how hatred looks like. Respect a soldier. Hate him later.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ColSanjayPande/status/2064719018154733802#m\">https://nitter.net/ColSanjayPande/status/2064719018154733802#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "Situation is still out terrifying in Pakistan occupied Kashmir. Innocent civilians are being killed for asking basic rights.\n https://t.co/1G9s2KGKQ0",
+      "link": "https://nitter.net/Goreunit/status/2064961321901445143#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-11T12:11:58+05:30",
+      "time": "11 Jun, 12:11 PM",
+      "type": "tweets",
+      "content": "<p>Situation is still out terrifying in Pakistan occupied Kashmir. Innocent civilians are being killed for asking basic rights.<br />\n https://nitter.net/t.co/1G9s2KGKQ0</p>\n<a href=\"https://nitter.net/Goreunit/status/2064961321901445143#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064867406414041088%2Fpu%2Fimg%2FlhZhgFRLZD-C12cj.jpg\" />\n</a>",
+      "author": "@Goreunit"
     },
     {
       "title": "The reason for the POJK protest is actually funny!",
@@ -1799,16 +1880,6 @@
       "type": "tweets",
       "content": "<p>Pakistan occupied Kashmir protests:<br />\n<br />\nCivilians of POK are suffering due to atrocities committed by Asim Munir regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2064894554273444210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064894514578518016%2Fpu%2Fimg%2FCy12vBffrE049MU9.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>You reap what you sow \ud83d\ude01 <a href=\"https://nitter.net/CMShehbaz\" title=\"Shehbaz Sharif\">@CMShehbaz</a> <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2064774574932447232%2Fpu%2Fimg%2Fs1NXj-VOh6tD3CAf.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2064774697032822787#m\">https://nitter.net/Goreunit/status/2064774697032822787#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @notam_in: DRDO successfully conducted a missile test from Launch Pad-3 at the Chandipur range in Balasore on 10 June 2026 at around 3: 50 PM. Any guesses which missile was tested?\n@notam_in\n@alpha_defense\nhttps://youtu.be/65oIHPivwnw?si=3cvWxmYDRvoMa_YE",
-      "link": "https://nitter.net/Ahsan999544/status/2064790516739490158#m",
-      "source": "Notam India",
-      "sort_key": "2026-06-11T00:53:15+05:30",
-      "time": "11 Jun, 12:53 AM",
-      "type": "tweets",
-      "content": "<p>DRDO successfully conducted a missile test from Launch Pad-3 at the Chandipur range in Balasore on 10 June 2026 at around 3: 50 PM. Any guesses which missile was tested?<br />\n<a href=\"https://nitter.net/notam_in\" title=\"NOTAM INDIA \ud83c\uddee\ud83c\uddf3\">@notam_in</a><br />\n<a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a><br />\n<a href=\"https://piped.video/65oIHPivwnw?si=3cvWxmYDRvoMa_YE\">piped.video/65oIHPivwnw?si=3cvW\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2064785618056704000%2F7s0CgfAh%3Fformat%3Djpg%26name%3D800x320_1\" />",
-      "author": "@Ahsan999544"
     }
   ],
   "youtube": [
@@ -1913,6 +1984,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "12:24 AM IST"
+    "last_updated": "01:24 AM IST"
   }
 }
