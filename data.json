@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "First India-built C-295 transport aircraft completes maiden flight",
+      "link": "https://www.indiastrategic.in/first-india-built-c-295-transport-aircraft-completes-maiden-flight/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-12T10:17:44+05:30",
+      "time": "12 Jun, 10:17 AM",
+      "type": "news",
+      "description": "<p>New Delhi, June 11. The first C-295 military transport aircraft manufactured in India successfully completed its maiden flight, marking a major mil..."
+    },
+    {
+      "title": "Pakistan reacts with \u2018act of war\u2019 remark after CR Patil\u2019s \u2018not a single drop\u2019 comment",
+      "link": "https://indianexpress.com/article/world/pakistan-indus-water-treaty-act-of-war-cr-patil-india-10735747/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-12T10:14:51+05:30",
+      "time": "12 Jun, 10:14 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Netanyahu says Trump assured him final Iran deal will mandate removal of enriched uranium",
+      "link": "https://economictimes.indiatimes.com/news/defence/netanyahu-says-trump-assured-him-final-iran-deal-will-mandate-removal-of-enriched-uranium/articleshow/131673861.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-12T10:02:31+05:30",
+      "time": "12 Jun, 10:02 AM",
+      "type": "news",
+      "description": "President Trump assured Prime Minister Netanyahu that a deal with Iran would ensure Tehran surrenders its nuclear stockpile. This understanding would ..."
+    },
+    {
+      "title": "BSF-BGB border talks: Pushback of illegal Bangladesh nationals figures prominently",
+      "link": "https://www.tribuneindia.com/news/india/bsf-bgb-border-talks-pushback-of-illegal-bangladesh-nationals-figures-prominently",
+      "source": "The Tribune",
+      "sort_key": "2026-06-12T09:31:36+05:30",
+      "time": "12 Jun, 09:31 AM",
+      "type": "news",
+      "description": "The issue of pushback of Bangladesh nationals allegedly living illegally in India figured prominently during the 57th Director General-level border co..."
+    },
+    {
+      "title": "\u2018Death of Indian sailors very, very unfortunate\u2019: US Republican lawmaker on deadly US attack",
+      "link": "https://indianexpress.com/article/world/indian-sailors-death-us-republican-lawmaker-us-attack-10735734/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-12T09:29:23+05:30",
+      "time": "12 Jun, 09:29 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "UK Armed Forces Minister Al Carns resigns over defence funding dispute",
       "link": "https://newsonair.gov.in/uk-armed-forces-minister-al-carns-resigns-over-defence-funding-dispute/",
       "source": "All India Radio",
@@ -388,15 +433,6 @@
       "description": "Asked about the status of Maoists in Telangana, Anand said there is virtually no Maoist activity in the state. He attributed this to the surrender of ..."
     },
     {
-      "title": "Op Sindoor effect: Army receives 106 jet-powered kamikaze drones from defence firm SMPP",
-      "link": "https://theprint.in/defence/op-sindoor-effect-army-receives-106-jet-powered-kamikaze-drones-from-defence-firm-smpp/2957259/",
-      "source": "The Print",
-      "sort_key": "2026-06-11T18:08:47+05:30",
-      "time": "11 Jun, 06:08 PM",
-      "type": "news",
-      "description": "The Peacekeeper drone is originally a Belarusian one manufactured by a company called KB Indela which has partnered with SMPP."
-    },
-    {
       "title": "Indian tech firm delivers 106 turbojet-powered drones with precision strike capability to Army",
       "link": "https://economictimes.indiatimes.com/news/defence/indian-tech-firm-delivers-106-turbojet-powered-drones-with-precision-strike-capability-to-army/articleshow/131659548.cms",
       "source": "Economic Times",
@@ -512,15 +548,6 @@
       "time": "11 Jun, 03:02 PM",
       "type": "news",
       "description": "A similar Maoist dump was unearthed by security forces along the Odisha-Andhra Pradesh border two days ago, and several arms and ammunition were seize..."
-    },
-    {
-      "title": "Xi, Kim vows for greater ties between China and North Korea",
-      "link": "https://www.indiastrategic.in/xi-kim-vows-for-greater-ties-between-china-and-north-korea/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-11T14:42:19+05:30",
-      "time": "11 Jun, 02:42 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Chinese President Xi Jinping recently wrapped up a high-profile two-day state visit to North Korea, marking his first trip to Pyong..."
     },
     {
       "title": "First made-in-India C-295 military transport Aircraft completes maiden test-flight",
@@ -656,15 +683,6 @@
       "time": "11 Jun, 12:05 AM",
       "type": "news",
       "description": "India's new light battle tank, Project Zorawar, faces a two-year induction delay. Developers are enhancing protection levels, a move that adds weight ..."
-    },
-    {
-      "title": "All about US Corsair unmanned boat that rescued Apache helicopter crew in Hormuz",
-      "link": "https://theprint.in/defence/all-about-us-corsair-unmanned-boat-that-rescued-apache-helicopter-crew-in-hormuz/2956295/",
-      "source": "The Print",
-      "sort_key": "2026-06-10T23:00:37+05:30",
-      "time": "10 Jun, 11:00 PM",
-      "type": "news",
-      "description": "The unmanned boat was able to locate, retrieve and transport the 2 AH-64 Apache helicopter crew members after the crash."
     },
     {
       "title": "Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash",
@@ -899,27 +917,19 @@
       "time": "10 Jun, 10:34 AM",
       "type": "news",
       "description": "Iran's foreign ministry warned Wednesday that its neighbours in the Gulf had a \"legal and moral responsibility\" to prevent American and Israeli strike..."
-    },
-    {
-      "title": "Jordanian military intercepts 5 Iranian missiles amid sharp US-Tehran escalation in Gulf",
-      "link": "https://economictimes.indiatimes.com/news/defence/jordanian-military-intercepts-iranian-missiles-amid-rising-us-iran-tensions-in-gulf-region/articleshow/131624999.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-10T10:20:09+05:30",
-      "time": "10 Jun, 10:20 AM",
-      "type": "news",
-      "description": "Jordan's air defence systems intercepted multiple projectiles launched from Iran. Iran claimed to have destroyed hangars housing F-35 jets and targete..."
-    },
-    {
-      "title": "11 children killed in Pakistani attack in 3 Afghan provinces, alleges Taliban",
-      "link": "https://indianexpress.com/article/world/pakistan-airstrikes-afghanistan-children-killed-taliban-10732385/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-10T09:59:11+05:30",
-      "time": "10 Jun, 09:59 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Whoever is trying to WhatsAppise this must know - 3 Indians are dead and as @ShivAroor pointed out this blood is on American hands",
+      "link": "https://nitter.net/alpha_defense/status/2065292992592900150#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-12T10:09:55+05:30",
+      "time": "12 Jun, 10:09 AM",
+      "type": "tweets",
+      "content": "<p>Whoever is trying to WhatsAppise this must know - 3 Indians are dead and as <a href=\"https://nitter.net/ShivAroor\" title=\"Shiv Aroor\">@ShivAroor</a> pointed out this blood is on American hands</p>\n<hr />\n<blockquote>\n<b>Christopher Clary (@clary_co)</b>\n<p>\n<p>Interesting to me that two Indian defense reporters felt compelled to make such similar points in their social media today.</p>\n<img src=\"https://nitter.net/pic/media%2FHKkM65PXgAAC9-U.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKkM64wXQAAOXTn.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/clary_co/status/2065196117680091502#m\">https://nitter.net/clary_co/status/2065196117680091502#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
     {
       "title": "Trump claims US Iran deal signing in Europe",
       "link": "https://nitter.net/sidhant/status/2065279027536150667#m",
@@ -1701,16 +1711,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "This is a good addition btw \nwe should now look to provide refueling capabilities to coast guard and Navy using this..",
-      "link": "https://nitter.net/alpha_defense/status/2064766271611445705#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-10T23:16:55+05:30",
-      "time": "10 Jun, 11:16 PM",
-      "type": "tweets",
-      "content": "<p>This is a good addition btw <br />\nwe should now look to provide refueling capabilities to coast guard and Navy using this..</p>\n<img src=\"https://nitter.net/pic/media%2FHKeF-byakAE0Je9.jpg\" />\n\n<hr />\n<blockquote>\n<b>ANI (@ANI)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WATCH\">#WATCH</a> | The first 'Made in India' Airbus C295 military transport aircraft has conducted its first test flight from the Final Assembly Line in Vadodara, marking a milestone for Indian aviation and defence. This maiden test flight is a crucial step in the aircraft's post-production first of 40 aircraft to be built in India; the test flight advances the programme's objective of delivering the first 'Made in India' C295 aircraft this year to the Indian Air Force. A game changer in the Government of India's 'Make in India' vision, the C295 India programme is the first instance of a military aircraft being manufactured in India by the private sector. The programme's progress reflects the steady and dedicated work of Airbus, Tata Advanced Systems Limited and several Indian MSMEs, which are manufacturing parts for the aircraft across India.  We thank the Indian Air Force, Ministry of Defence and Government of India, for their unwavering trust in us.  We are building the future of Indian aerospace.<br />\n<br />\n(Source: Airbus Defence)</p>\n<a href=\"https://nitter.net/ANI/status/2064747359221997586#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2064747235624284160%2Fimg%2FdLBocZT48p90vfAI.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ANI/status/2064747359221997586#m\">https://nitter.net/ANI/status/2064747359221997586#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "\ud83d\udea8Massive!!Around 80,000 people from Mirpur, Sudhnoti, Bagh, and other areas of Pakistan-occupied Kashmir have gathered in Rawalakot.\nMarch from Rawalakot towards Muzaffarabad tomorrow to protest against the Shehbaz Munir..",
       "link": "https://nitter.net/Goreunit/status/2064766192657834061#m",
       "source": "War & Gore",
@@ -1995,6 +1995,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "10:24 AM IST"
   }
 }
