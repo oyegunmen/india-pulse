@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "26-year-old Indian-origin man stabbed to death in London",
+      "link": "https://indianexpress.com/article/world/indian-killed-london-knife-attack-southall-10738509/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-14T08:27:00+05:30",
+      "time": "14 Jun, 08:27 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Earthquake of magnitude 3.8 strikes Myanmar",
+      "link": "https://newsonair.gov.in/earthquake-of-magnitude-3-8-strikes-myanmar/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-14T08:23:25+05:30",
+      "time": "14 Jun, 08:23 AM",
+      "type": "news",
+      "description": "An earthquake of magnitude 3.8 struck Myanmar last night. The National Centre of Seismology (NCS), said the quake occurred at 11:31 pm Indian Standard..."
+    },
+    {
       "title": "PM Modi to hold talks with French President Emmanuel Macron and jointly inaugurate \u2018Bharat Innovates\u2019 event in Nice today",
       "link": "https://newsonair.gov.in/pm-narendra-modi-arrives-in-nice-france-on-first-leg-of-two-nation-visit/",
       "source": "All India Radio",
@@ -161,15 +179,6 @@
       "time": "13 Jun, 10:22 PM",
       "type": "news",
       "description": "Slovak President Peter Pelligrini today said that Prime Minister Narendra Modi\u2019s historic visit will open new opportunities for Slovakia-India coopera..."
-    },
-    {
-      "title": "US President Trump to meet PM Modi and other world leaders during next week\u2019s G7 Summit in France",
-      "link": "https://newsonair.gov.in/us-president-trump-to-meet-pm-modi-and-other-world-leaders-during-next-weeks-g7-summit-in-france/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-13T22:01:38+05:30",
-      "time": "13 Jun, 10:01 PM",
-      "type": "news",
-      "description": "The White House today said that US President Donald Trump will meet Prime Minister Narendra Modi and other world leaders during next week&#8217;s G7 S..."
     },
     {
       "title": "7 alumni of Mohali preparatory institute become Army, Air Force officers",
@@ -899,36 +908,39 @@
       "time": "12 Jun, 09:29 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Iranian forces prevent tanker from entering Strait of Hormuz without coordination: Report",
-      "link": "https://economictimes.indiatimes.com/news/defence/iranian-forces-prevent-tanker-from-entering-strait-of-hormuz-without-coordination-report/articleshow/131672927.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-12T08:58:30+05:30",
-      "time": "12 Jun, 08:58 AM",
-      "type": "news",
-      "description": "Iranian forces stopped a tanker from passing through the Strait of Hormuz. Reports of explosions near Bandar Abbas and Sirik were linked to military a..."
-    },
-    {
-      "title": "Indian Navy recovers unexploded missile warhead from tanker off Kochi",
-      "link": "https://economictimes.indiatimes.com/news/defence/indian-navy-recovers-unexploded-missile-warhead-from-tanker-off-kochi/articleshow/131672604.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-12T08:40:06+05:30",
-      "time": "12 Jun, 08:40 AM",
-      "type": "news",
-      "description": "The Indian Navy executed a high-risk operation to retrieve an unexploded missile warhead from a crude oil tanker. The vessel, MT Olympic Life, experie..."
-    },
-    {
-      "title": "Govt focusing on 'automation' of explosives units for safer operations: Official",
-      "link": "https://economictimes.indiatimes.com/news/defence/govt-focusing-on-automation-of-explosive-units-for-safer-operations-official/articleshow/131672518.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-12T08:27:22+05:30",
-      "time": "12 Jun, 08:27 AM",
-      "type": "news",
-      "description": "The Department of Promotion of Industry and Internal Trade is prioritizing automation in explosives manufacturing. This move aims to significantly imp..."
     }
   ],
   "tweets": [
+    {
+      "title": "Chief of Integrated Defence Staff Air Marshal Ashutosh Dixit with LCA and LCA with dual pylon rake for ASRAAM.",
+      "link": "https://nitter.net/alpha_defense/status/2066003512518177002#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-14T09:13:16+05:30",
+      "time": "14 Jun, 09:13 AM",
+      "type": "tweets",
+      "content": "<p>Chief of Integrated Defence Staff Air Marshal Ashutosh Dixit with LCA and LCA with dual pylon rake for ASRAAM.</p>\n<img src=\"https://nitter.net/pic/media%2FHKvrPi0bsAAHxfZ.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @sidhant: Prime Minister Narendra Modi arrives in France; received by several French and Indian dignitaries   \n\nIndian diaspora welcomes PM Narendra Modi\n\n@JyotsnaKumar13 brings you this report by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2066001179222655043#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-14T09:04:00+05:30",
+      "time": "14 Jun, 09:04 AM",
+      "type": "tweets",
+      "content": "<p>Prime Minister Narendra Modi arrives in France; received by several French and Indian dignitaries   <br />\n<br />\nIndian diaspora welcomes PM Narendra Modi<br />\n<br />\n<a href=\"https://nitter.net/JyotsnaKumar13\" title=\"Jyotsna Kumar\">@JyotsnaKumar13</a> brings you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2066001179222655043#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065993749436805120%2Fimg%2FpjwM8V06J21vHs95.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "As Army Chief General Upendra Dwivedi's tenure comes to a close, the Indian Army looks fundamentally different, with 50,000+ drones, new combat formations, indigenous supply chains, multi-domain doctrine. Legacy will be \"drone general\" who worked on building uturistic army",
+      "link": "https://nitter.net/sidhant/status/2065993442333725097#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-14T08:33:15+05:30",
+      "time": "14 Jun, 08:33 AM",
+      "type": "tweets",
+      "content": "<p>As Army Chief General Upendra Dwivedi's tenure comes to a close, the Indian Army looks fundamentally different, with 50,000+ drones, new combat formations, indigenous supply chains, multi-domain doctrine. Legacy will be \"drone general\" who worked on building uturistic army</p>\n<a href=\"https://nitter.net/sidhant/status/2065993442333725097#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065993344447070208%2Fpu%2Fimg%2FrJivWgkVJCexA5jE.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Indian PM Modi begins key France visit to boost 'Special Global Strategic Partnership\n\nReporting \n\nhttps://www.wionews.com/world/indian-pm-modi-begins-key-france-visit-to-boost-special-global-strategic-partnership-1781379632252",
       "link": "https://nitter.net/sidhant/status/2065987928610758739#m",
@@ -1190,16 +1202,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "RT by @sidhant: Indian PM Narendra Modi departs for official visits to France and Slovakia\n\nFrench President Emmanuel Macron to hold bilateral talks with PM Modi\n\n@eriknjoka and @sidhant have more",
-      "link": "https://nitter.net/WIONews/status/2065803471438467218#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-13T19:58:23+05:30",
-      "time": "13 Jun, 07:58 PM",
-      "type": "tweets",
-      "content": "<p>Indian PM Narendra Modi departs for official visits to France and Slovakia<br />\n<br />\nFrench President Emmanuel Macron to hold bilateral talks with PM Modi<br />\n<br />\n<a href=\"https://nitter.net/eriknjoka\" title=\"Eric Njoka \ud83c\uddf0\ud83c\uddea\">@eriknjoka</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2065803471438467218#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065803066063122432%2Fimg%2FXpoDCLuXUJ0TET8H.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
       "title": "This is the pistol used in this incident !\n\nMade in Pakistan.",
       "link": "https://nitter.net/elitepredatorss/status/2065799750088335651#m",
       "source": "Elite Predators",
@@ -1208,16 +1210,6 @@
       "type": "tweets",
       "content": "<p>This is the pistol used in this incident !<br />\n<br />\nMade in Pakistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHKsx3tnbEAEA6We.jpg\" />\n\n<a href=\"https://nitter.net/elitepredatorss/status/2065799750088335651#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065799687312207872%2Fpu%2Fimg%2FiUCNQkiw4FQTTZCF.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Gagandeep Singh (@Gagan4344)</b>\n<p>\n<p>Chandigarh: A chemist was critically injured after two masked assailants opened fire outside Shri Kumar Medicos in Sector 11 on Saturday afternoon. The victim was rushed to PGI for treatment.</p>\n<a href=\"https://nitter.net/Gagan4344/status/2065748012325044637#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2065747797727731712%2Fimg%2FykFtF9bzBGDCk3-J.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Gagan4344/status/2065748012325044637#m\">https://nitter.net/Gagan4344/status/2065748012325044637#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "UKMTO reports an incident of last night off Oman coast; Crew safe",
-      "link": "https://nitter.net/sidhant/status/2065799419547545884#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-13T19:42:16+05:30",
-      "time": "13 Jun, 07:42 PM",
-      "type": "tweets",
-      "content": "<p>UKMTO reports an incident of last night off Oman coast; Crew safe</p>\n<img src=\"https://nitter.net/pic/media%2FHKsxoAGX0AA1E1f.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Incident involving a vessel reported in Gulf of Oman. Sailors impacted by incident tell me they in touch with DG shipping. More details awaited.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2065534819967397901#m\">https://nitter.net/sidhant/status/2065534819967397901#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @OsintTV: Another inhumane act by the Pakistani Army and Rangers, they vandalized and looted a bakery belonging to an Awami Action Committee activist in Rawlakot , Pakistan-occupied Jammu Kashmir.\n\nThe bakery was closed, but because it displayed the Awami Action Committee logo so troops damaged property inside and outside the shop and looted bakery items before leaving.\n\nAs protests enter their fifth consecutive day, people from across PoJK continue to arrive at Eidgah Ground in Rawalakot. Women and children remain at the forefront of the movement despite the ongoing massacre.\n\n#PoJK #Rawalakot #PakistanArmy #AwamiActionCommittee",
@@ -1590,16 +1582,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "The @DRDO_India has successfully demonstrated multiple crucial technologies bolstering nations defence capabilities against different types of enemy threats. \n\nThree consecutive flight-tests were successfully conducted to demonstrate multi-layered defence against long range Ballistic Missiles and Anti-ship capability at medium range.\n\nMulti-layered BMD capability was successfully demonstrated. The interceptors successfully engaged their respective targets. The systems are designed and developed with latest technologies to address the emerging missile threats.\n\nThese tests have put India in elite group of nations having Ballistics Missile Defence Capabilities to engage Ballistic Missiles up to ICBMs. Anti-ship defence at medium range was demonstrated during the maiden flight test of Naval Anti-Ship Missile-Medium Range. Congratulations to DRDO on successfully demonstrating these crucial technologies.",
-      "link": "https://nitter.net/alpha_defense/status/2065619027373044046#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-13T07:45:28+05:30",
-      "time": "13 Jun, 07:45 AM",
-      "type": "tweets",
-      "content": "<p>The <a href=\"https://nitter.net/DRDO_India\" title=\"DRDO\">@DRDO_India</a> has successfully demonstrated multiple crucial technologies bolstering nations defence capabilities against different types of enemy threats. <br />\n<br />\nThree consecutive flight-tests were successfully conducted to demonstrate multi-layered defence against long range Ballistic Missiles and Anti-ship capability at medium range.<br />\n<br />\nMulti-layered BMD capability was successfully demonstrated. The interceptors successfully engaged their respective targets. The systems are designed and developed with latest technologies to address the emerging missile threats.<br />\n<br />\nThese tests have put India in elite group of nations having Ballistics Missile Defence Capabilities to engage Ballistic Missiles up to ICBMs. Anti-ship defence at medium range was demonstrated during the maiden flight test of Naval Anti-Ship Missile-Medium Range. Congratulations to DRDO on successfully demonstrating these crucial technologies.</p>\n<img src=\"https://nitter.net/pic/media%2FHKqNjugaQAAeDjF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKqNjwUa4AAIvfO.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKqNjxTa8AAw1Ae.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @notam_in: The @DRDO_India has successfully demonstrated multiple crucial technologies bolstering nations defence capabilities against different types of enemy threats. \n\nThree consecutive flight-tests were successfully conducted to demonstrate multi-layered defence against long range Ballistic Missiles and Anti-ship capability at medium range.\n\nMulti-layered BMD capability was successfully demonstrated. The interceptors successfully engaged their respective targets. The systems are designed and developed with latest technologies to address the emerging missile threats.\n\nThese tests have put India in elite group of nations having Ballistics Missile Defence Capabilities to engage Ballistic Missiles up to ICBMs. Anti-ship defence at medium range was demonstrated during the maiden flight test of Naval Anti-Ship Missile-Medium Range. Congratulations to DRDO on successfully demonstrating these crucial technologies.",
       "link": "https://nitter.net/rajnathsingh/status/2065599386848223427#m",
       "source": "Notam India",
@@ -1848,16 +1830,6 @@
       "type": "tweets",
       "content": "<p>BREAKING: France Wants India in Hormuz Security Initiative<br />\n<br />\nFrance is reportedly planning to invite India to join a multinational maritime security initiative in the Strait of Hormuz, amid growing tensions in West Asia.<br />\n<br />\nThe proposal is expected to be discussed when PM Narendra Modi meets President Emmanuel Macron at the G7 Summit.<br />\n<br />\nThe initiative aims to ensure freedom of navigation through one of the world's most critical energy chokepoints, through which nearly 20% of global oil supplies transit.</p>\n<img src=\"https://nitter.net/pic/media%2FHKlpu_HbMAAvYq8.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "J&K Statehood Demand Raised with PM Modi\n\nJammu & Kashmir Chief Minister Omar Abdullah met Narendra Modi in New Delhi and urged the early restoration of Statehood for Jammu & Kashmir.\n\nThe meeting also covered the economy, development, tourism, connectivity, employment, and infrastructure in the Union Territory.\n\nMeanwhile, the ruling Jammu and Kashmir National Conference has announced plans to protest in Delhi during the upcoming Parliament session, pressing for the return of Statehood.",
-      "link": "https://nitter.net/NetramDefence/status/2065276468826124302#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-12T09:04:15+05:30",
-      "time": "12 Jun, 09:04 AM",
-      "type": "tweets",
-      "content": "<p>J&amp;K Statehood Demand Raised with PM Modi<br />\n<br />\nJammu & Kashmir Chief Minister Omar Abdullah met Narendra Modi in New Delhi and urged the early restoration of Statehood for Jammu & Kashmir.<br />\n<br />\nThe meeting also covered the economy, development, tourism, connectivity, employment, and infrastructure in the Union Territory.<br />\n<br />\nMeanwhile, the ruling Jammu and Kashmir National Conference has announced plans to protest in Delhi during the upcoming Parliament session, pressing for the return of Statehood.</p>\n<img src=\"https://nitter.net/pic/media%2FHKlV_fBasAEd247.jpg\" />",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
@@ -1962,6 +1934,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
