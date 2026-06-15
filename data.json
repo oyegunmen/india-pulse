@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Pakistani military aircraft crashes during training flight, killing 2 pilots",
+      "link": "https://economictimes.indiatimes.com/news/defence/pakistani-military-aircraft-crashes-during-training-flight-killing-2-pilots/articleshow/131737246.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-15T13:04:39+05:30",
+      "time": "15 Jun, 01:04 PM",
+      "type": "news",
+      "description": "A Pakistan Air Force aircraft crashed during a routine training mission near Mardan, resulting in the deaths of both pilots. The military has launched..."
+    },
+    {
+      "title": "Israel Will Not Withdraw From Seized Lebanese Territory: Defence Minister",
+      "link": "https://www.deccanchronicle.com/world/israel-will-not-withdraw-from-seized-lebanese-territory-defence-minister-1963687",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-15T13:04:33+05:30",
+      "time": "15 Jun, 01:04 PM",
+      "type": "news",
+      "description": "Defence Minister Israel Katz says troops will remain indefinitely in Lebanon, Syria and Gaza despite ongoing diplomatic efforts involving Iran and the..."
+    },
+    {
+      "title": "US, Iran to hold preparatory meetings in Doha before signing deal",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-to-hold-preparatory-meetings-in-doha-before-signing-deal/articleshow/131736986.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-15T12:51:19+05:30",
+      "time": "15 Jun, 12:51 PM",
+      "type": "news",
+      "description": "The United States and Iran will hold indirect meetings in Doha this week, facilitated by Qatari mediators, to prepare for the formal signing of a deal..."
+    },
+    {
+      "title": "Embraer to set up India military aircraft unit if it wins order",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/embraer-to-set-up-india-military-aircraft-unit-if-it-wins-order/131735958",
+      "source": "Economic Times",
+      "sort_key": "2026-06-15T12:17:24+05:30",
+      "time": "15 Jun, 12:17 PM",
+      "type": "news",
+      "description": "Similarly, Embraer will set up an entire ecosystem here to make their trademark civilian passenger jets."
+    },
+    {
       "title": "DG Shipping directs firms to restrict deployment of Indian seafarers in Gulf zone",
       "link": "https://defencemonitor.in/dg-shipping-directs-firms-to-restrict-deployment-of-indian-seafarers-in-gulf-zone/",
       "source": "Defense Monitor",
@@ -629,27 +665,29 @@
       "time": "13 Jun, 01:31 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Op Sindoor showed capability of India&#039;s indigenous defence manufacturing: Jitendra Singh",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-defence-manufacturing-gains-global-attention-after-op-sindoor-success/131699970",
-      "source": "Economic Times",
-      "sort_key": "2026-06-13T13:19:11+05:30",
-      "time": "13 Jun, 01:19 PM",
-      "type": "news",
-      "description": "India&#039;s defence manufacturing has seen a significant jump. International interest in Indian defence systems is growing. The space economy is also..."
-    },
-    {
-      "title": "412 Agniveervayu trainees complete training; Air Vice Marshal Golani reviews Passing Out Parade at AFS Avadi",
-      "link": "https://economictimes.indiatimes.com/news/defence/412-agniveervayu-trainees-complete-training-air-vice-marshal-golani-reviews-passing-out-parade-at-afs-avadi/articleshow/131699856.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-13T13:10:04+05:30",
-      "time": "13 Jun, 01:10 PM",
-      "type": "news",
-      "description": "Agniveervayu trainees completed their Indian Air Force training in Chennai. The Indian Military Academy in Dehradun saw 515 cadets commissioned, inclu..."
     }
   ],
   "tweets": [
+    {
+      "title": "Trump reaches \u00c9vian-les-Bains for G7 summit at 5 PM local time",
+      "link": "https://nitter.net/sidhant/status/2066424297074180413#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-15T13:05:19+05:30",
+      "time": "15 Jun, 01:05 PM",
+      "type": "tweets",
+      "content": "<p>Trump reaches \u00c9vian-les-Bains for G7 summit at 5 PM local time</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India welcomes the understanding between US, Iran.\n\nIndian PM Modi:",
+      "link": "https://nitter.net/sidhant/status/2066422699329466489#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-15T12:58:58+05:30",
+      "time": "15 Jun, 12:58 PM",
+      "type": "tweets",
+      "content": "<p>India welcomes the understanding between US, Iran.<br />\n<br />\nIndian PM Modi:</p>\n<hr />\n<blockquote>\n<b>Narendra Modi (@narendramodi)</b>\n<p>\n<p>I welcome the understanding reached between the United States and Iran on ending the conflict in West Asia, which has caused serious economic disruption across the world and led to loss of life in many countries. <br />\n<br />\nIndia hopes that the implementation of this understanding will help restore peace and stability in the region and ensure the freedom of navigation and commerce. <br />\n<br />\nWe look forward to deliberations on the remaining issues reaching a sustainable final agreement.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/narendramodi/status/2066420565821530220#m\">https://nitter.net/narendramodi/status/2066420565821530220#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "\ud83d\udea8\ud83c\uddf5\ud83c\uddf0 Two pilots of the Pakistani Air Force were killed after a PAF aircraft crashed in the Sawaldher area of Katlang, Mardan, Pakistan. Civilians are injured in the crash too.",
       "link": "https://nitter.net/Goreunit/status/2066412897581060240#m",
@@ -888,26 +926,6 @@
       "time": "15 Jun, 03:47 AM",
       "type": "tweets",
       "content": "<p>The deal with Iran is now complete: Trump</p>\n<img src=\"https://nitter.net/pic/media%2FHKzqS-IXkAALMTX.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>US, Iran to sign peace deal in Switzerland on Friday,  says Pakistan</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2066279624439447665#m\">https://nitter.net/sidhant/status/2066279624439447665#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Paksitan PM:",
-      "link": "https://nitter.net/sidhant/status/2066282333695615259#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T03:41:12+05:30",
-      "time": "15 Jun, 03:41 AM",
-      "type": "tweets",
-      "content": "<p>Paksitan PM:</p>\n<img src=\"https://nitter.net/pic/media%2FHKzo0-gW4AEUy5X.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi in Slovakia, welcomed by diaspora. First ever visit by an Indian Prime Minister since Slovakia\u2019s independence.",
-      "link": "https://nitter.net/sidhant/status/2066282159208382811#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T03:40:31+05:30",
-      "time": "15 Jun, 03:40 AM",
-      "type": "tweets",
-      "content": "<p>PM Modi in Slovakia, welcomed by diaspora. First ever visit by an Indian Prime Minister since Slovakia\u2019s independence.</p>\n<img src=\"https://nitter.net/pic/media%2FHKzoqxZXMAEmTWS.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1513,6 +1531,33 @@
   ],
   "youtube": [
     {
+      "title": "Defence Updates - PoK Back Soon, India France Nuclear Submarine, New YETI UAV",
+      "link": "https://www.youtube.com/watch?v=xkI1YA7cjGQ",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-14T22:11:41+05:30",
+      "time": "14 Jun, 10:11 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/xkI1YA7cjGQ/mqdefault.jpg"
+    },
+    {
+      "title": "Wake up India : Non American Engine for Future",
+      "link": "https://www.youtube.com/watch?v=0MkTV6bafEs",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-14T17:42:38+05:30",
+      "time": "14 Jun, 05:42 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/0MkTV6bafEs/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : 6th Gen Fighter Pact,Hypersonic Waverider Missile,1500 Km LRLACM Test",
+      "link": "https://www.youtube.com/watch?v=4-7t8ZZ8FB4",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-14T16:34:29+05:30",
+      "time": "14 Jun, 04:34 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/4-7t8ZZ8FB4/mqdefault.jpg"
+    },
+    {
       "title": "BrahMos Ke Bad Bharat Bana Raha Hai Aur Bhi Dangerous Missile?,Tanks Banenge Missile Proof?",
       "link": "https://www.youtube.com/watch?v=-yhzaVcl7co",
       "source": "Indian Defense News",
@@ -1520,9 +1565,45 @@
       "time": "14 Jun, 07:30 AM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/-yhzaVcl7co/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - India Test Ballistic Missile Defense, IAF AN-32 Crashed, L&T DRDO Combat Drone",
+      "link": "https://www.youtube.com/watch?v=N8MX5ZDLG1U",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-13T21:47:41+05:30",
+      "time": "13 Jun, 09:47 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/N8MX5ZDLG1U/mqdefault.jpg"
+    },
+    {
+      "title": "New Missile and New Engine: Success",
+      "link": "https://www.youtube.com/watch?v=NXZf61vXAso",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-13T20:30:05+05:30",
+      "time": "13 Jun, 08:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/NXZf61vXAso/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : BMD Phase-2 Test,NASM-MR Fired,L&T UCAV,Su-57 Export Hub,5000 Verba Order",
+      "link": "https://www.youtube.com/watch?v=sK9FmqLnNeo",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-13T16:53:15+05:30",
+      "time": "13 Jun, 04:53 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/sK9FmqLnNeo/mqdefault.jpg"
+    },
+    {
+      "title": "BMD Phase 2 Successful : Phase3 Now",
+      "link": "https://www.youtube.com/watch?v=_fEJO6rLcGU",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-13T16:08:51+05:30",
+      "time": "13 Jun, 04:08 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/_fEJO6rLcGU/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
