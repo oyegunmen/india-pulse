@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Who won the Iran-US war: Trump, Tehran or Pakistan? And who lost?",
+      "link": "https://indianexpress.com/article/world/who-won-iran-war-trump-tehran-pakistan-munir-netanyahu-100-days-analysis-10738761/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-15T05:57:18+05:30",
+      "time": "15 Jun, 05:57 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US and Iran reach deal to end war, Trump says Strait of Hormuz to open on Friday",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-reach-deal-to-end-war-signing-set-for-friday-hormuz-now-open/articleshow/131730676.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-15T05:23:43+05:30",
+      "time": "15 Jun, 05:23 AM",
+      "type": "news",
+      "description": "The United States and Iran have agreed on a peace framework aimed at ending the conflict, lifting the U.S. blockade of Iran and reopening the Strait o..."
+    },
+    {
       "title": "US warned tanker nearly 60 times before strike killed 3 Indian sailors off Oman coast: Report",
       "link": "https://indianexpress.com/article/world/mt-settebello-gulf-of-oman-us-military-blockade-indian-sailors-killed-10739479/",
       "source": "The Indian Express",
@@ -323,6 +341,15 @@
       "time": "14 Jun, 09:59 AM",
       "type": "news",
       "description": "<p>New Delhi, June 13. A total of 3,011 trainees, including 116 women Agniveers, graduated from INS Chilka on June 12 after successfully completing 16..."
+    },
+    {
+      "title": "US-Israel-Iran War News Live Updates: Trump declares Iran deal \u2018complete\u2019, Tehran confirms ceasefire as Pakistan sets June 19 signing",
+      "link": "https://indianexpress.com/article/world/us-israel-iran-war-live-donald-trump-tehran-ceasefire-peace-deal-strait-of-hormuz-today-updates-10738498/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-14T09:53:19+05:30",
+      "time": "14 Jun, 09:53 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "Who was Gurbhej Singh? 26-year-old Indian-origin man stabbed to death in London",
@@ -737,15 +764,6 @@
       "time": "13 Jun, 06:38 AM",
       "type": "news",
       "description": "The United States and Iran are reportedly close to an agreement to end their war, with both sides agreeing on a text for an initial deal. The proposed..."
-    },
-    {
-      "title": "Iranian attack drones targeting Strait of Hormuz traffic shot down by US forces: Report",
-      "link": "https://economictimes.indiatimes.com/news/defence/iranian-attack-drones-targeting-strait-of-hormuz-traffic-shot-down-by-us-forces-report/articleshow/131695980.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-13T06:09:52+05:30",
-      "time": "13 Jun, 06:09 AM",
-      "type": "news",
-      "description": "American forces intercepted several Iranian one-way attack drones. These drones were heading towards the Strait of Hormuz. The incident occurred as Wa..."
     }
   ],
   "tweets": [
@@ -1764,6 +1782,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
