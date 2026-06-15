@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Army, Airtel join hands for mobile connectivity in Arunachal Pradesh district",
+      "link": "https://economictimes.indiatimes.com/news/defence/army-airtel-join-hands-for-mobile-connectivity-in-arunachal-pradesh-district/articleshow/131738799.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-15T14:10:24+05:30",
+      "time": "15 Jun, 02:10 PM",
+      "type": "news",
+      "description": "The Indian Army and Bharti Airtel have joined forces to improve mobile network coverage in remote West Kameng district of Arunachal Pradesh. This part..."
+    },
+    {
+      "title": "Pakistan Air Force training aircraft crashes in Khyber Pakhtunkhwa; both pilots killed",
+      "link": "https://www.newindianexpress.com/world/2026/Jun/15/pakistan-air-force-training-aircraft-crashes-in-khyber-pakhtunkhwa-both-pilots-killed",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-15T13:38:29+05:30",
+      "time": "15 Jun, 01:38 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Indian army selects Meprolight's Mepro X6 as dedicated daytime sight for in-service NEGEV machine guns",
+      "link": "https://economictimes.indiatimes.com/news/defence/indian-army-selects-meprolights-mepro-x6-as-dedicated-daytime-sight-for-in-service-negev-machine-guns/articleshow/131738011.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-15T13:30:24+05:30",
+      "time": "15 Jun, 01:30 PM",
+      "type": "news",
+      "description": "The Indian Army has chosen the Meprolight MEPRO X6 telescopic sight for its NEGEV machine guns. This advanced optic will improve target identification..."
+    },
+    {
+      "title": "Rafale programme talks with France have advanced; focus on local manufacturing: Foreign Secy Misri",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/rafale-programme-talks-with-france-have-advanced-focus-on-local-manufacturing-foreign-secy-misri/131737661",
+      "source": "Economic Times",
+      "sort_key": "2026-06-15T13:25:26+05:30",
+      "time": "15 Jun, 01:25 PM",
+      "type": "news",
+      "description": "Discussions between Prime Minister Modi and President Macron covered a broad spectrum of bilateral ties, but a core focus was on advancing the &#039;M..."
+    },
+    {
+      "title": "Security forces seize 15.35 kg suspected opium from fake Army vehicle in Manipur",
+      "link": "https://nenews.in/manipur/security-forces-seize-15-35-kg-suspected-opium-from-fake-army-vehicle-in-manipur/54175/",
+      "source": "NE News",
+      "sort_key": "2026-06-15T13:23:23+05:30",
+      "time": "15 Jun, 01:23 PM",
+      "type": "news",
+      "description": "<p>Imphal: Security forces in Manipur\u2019s Senapati district on Sunday intercepted a vehicle allegedly being used for drug trafficking and recovered 15.3..."
+    },
+    {
+      "title": "Police mistakenly shoot, kill Australian child in Pakistan",
+      "link": "https://www.newindianexpress.com/world/2026/Jun/15/police-mistakenly-shoot-kill-australian-child-in-pakistan",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-15T13:22:18+05:30",
+      "time": "15 Jun, 01:22 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Pakistani military aircraft crashes during training flight, killing 2 pilots",
       "link": "https://economictimes.indiatimes.com/news/defence/pakistani-military-aircraft-crashes-during-training-flight-killing-2-pilots/articleshow/131737246.cms",
       "source": "Economic Times",
@@ -10,7 +64,7 @@
       "description": "A Pakistan Air Force aircraft crashed during a routine training mission near Mardan, resulting in the deaths of both pilots. The military has launched..."
     },
     {
-      "title": "Israel Will Not Withdraw From Seized Lebanese Territory: Defence Minister",
+      "title": "Will Not Withdraw From South Lebanon, Says Israel Defence Minister",
       "link": "https://www.deccanchronicle.com/world/israel-will-not-withdraw-from-seized-lebanese-territory-defence-minister-1963687",
       "source": "Deccan Chronicle",
       "sort_key": "2026-06-15T13:04:33+05:30",
@@ -71,15 +125,6 @@
       "time": "15 Jun, 12:03 PM",
       "type": "news",
       "description": "<p>United Nations, June 15 (IANS) UN Secretary-General Antonio Guterres strongly condemned Israeli strikes earlier on Sunday on Beirut, Lebanon&#8217;..."
-    },
-    {
-      "title": "US-Iran peace deal announced with \u2018permanent\u2019 end to military action; Hormuz Strait to open June 19",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/15/us-iran-peace-deal-announced-with-permanent-end-to-military-action-hormuz-strait-to-open-june-19",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-15T08:17:07+05:30",
-      "time": "15 Jun, 08:17 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "World leaders welcome peace deal announced between US & Iran",
@@ -179,15 +224,6 @@
       "time": "14 Jun, 11:45 PM",
       "type": "news",
       "description": "A US Navy helicopter has rescued fourteen Indian mariners in the Northern Arabian Sea. The rescue followed a distress call from the stranded sailors. ..."
-    },
-    {
-      "title": "US says it helped rescue 14 Indian mariners in Northern Arabian Sea",
-      "link": "https://www.tribuneindia.com/news/india/us-says-it-helped-rescue-14-indian-mariners-in-northern-arabian-sea",
-      "source": "The Tribune",
-      "sort_key": "2026-06-14T23:45:11+05:30",
-      "time": "14 Jun, 11:45 PM",
-      "type": "news",
-      "description": "The US Central Command (CENTCOM), which oversees military operations in West Asia, on Sunday said a US Navy search-and-rescue team assisted in rescuin..."
     },
     {
       "title": "Seyyed Abbas Araghchi says war with US shows \"regional security cannot be based on eliminating or ignoring Iran\"",
@@ -638,36 +674,89 @@
       "time": "13 Jun, 02:54 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Five IAF personnel killed after an AN-32 aircraft crashes at Jorhat airbase in Assam",
-      "link": "https://economictimes.indiatimes.com/news/defence/five-iaf-personnel-killed-after-an-an-32-aircraft-crashes-at-jorhat-airbase-in-assam/articleshow/131700601.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-13T14:08:26+05:30",
-      "time": "13 Jun, 02:08 PM",
-      "type": "news",
-      "description": "Five Indian Air Force personnel died when an AN-32 transport aircraft crashed while landing at Jorhat airbase in Assam. The co-pilot survived and is r..."
-    },
-    {
-      "title": "India successfully demonstrates BMD capability to take down hostile ballistic missiles",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-successfully-demonstrates-bmd-capability-to-take-down-hostile-ballistic-missiles/articleshow/131700489.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-13T14:01:36+05:30",
-      "time": "13 Jun, 02:01 PM",
-      "type": "news",
-      "description": "India has successfully demonstrated its advanced multi-layered Ballistic Missile Defence system (BMD). Recent flight-tests confirmed the capability to..."
-    },
-    {
-      "title": "\u2018Simply baseless\u2019: Iran hits back after Trump blames Tehran for Indian ships attack",
-      "link": "https://indianexpress.com/article/world/trump-iran-indian-ships-strait-of-hormuz-drone-attack-row-10737638/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-13T13:31:34+05:30",
-      "time": "13 Jun, 01:31 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "PM Modi, with Slovakia PM Robert Fico in Bratislava",
+      "link": "https://nitter.net/sidhant/status/2066441702244560948#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-15T14:14:29+05:30",
+      "time": "15 Jun, 02:14 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi, with Slovakia PM Robert Fico in Bratislava</p>\n<img src=\"https://nitter.net/pic/media%2FHK15xstXoAAYUmh.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "UK annouces says no social media for under 16s https://t.co/zxlRdnUcHN",
+      "link": "https://nitter.net/sidhant/status/2066440094215524809#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-15T14:08:05+05:30",
+      "time": "15 Jun, 02:08 PM",
+      "type": "tweets",
+      "content": "<p>UK annouces says no social media for under 16s https://nitter.net/t.co/zxlRdnUcHN</p>\n<a href=\"https://nitter.net/sidhant/status/2066440094215524809#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/media%2FHK1mEJvWAAA4jJX.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Picturesque French town of \u00c9vian-les-Bains rolls out red carpet for G7, invited guest. Helicopters patrol the skies, & hundreds of officers secure every approach. \n\nReporting from France: \n\nhttps://www.wionews.com/world/countdown-to-g7-picturesque-french-town-of-vian-les-bains-rolls-out-the-red-carpet-for-global-leaders-1781510964500",
+      "link": "https://nitter.net/sidhant/status/2066438527986827515#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-15T14:01:52+05:30",
+      "time": "15 Jun, 02:01 PM",
+      "type": "tweets",
+      "content": "<p>Picturesque French town of \u00c9vian-les-Bains rolls out red carpet for G7, invited guest. Helicopters patrol the skies, &amp; hundreds of officers secure every approach. <br />\n<br />\nReporting from France: <br />\n<br />\n<a href=\"https://www.wionews.com/world/countdown-to-g7-picturesque-french-town-of-vian-les-bains-rolls-out-the-red-carpet-for-global-leaders-1781510964500\">wionews.com/world/countdown-\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2066437434087473152%2FmBOpJaJ1%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: Countdown to G7: Picturesque French town of \u00c9vian-les-Bains rolls out the red carpet for global leaders\n\nWrites @sidhant \n\nREAD: https://www.wionews.com/world/countdown-to-g7-picturesque-french-town-of-vian-les-bains-rolls-out-the-red-carpet-for-global-leaders-1781510964500\n\nhttps://www.wionews.com/world/countdown-to-g7-picturesque-french-town-of-vian-les-bains-rolls-out-the-red-carpet-for-global-leaders-1781510964500",
+      "link": "https://nitter.net/WIONews/status/2066437452018106686#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-15T13:57:35+05:30",
+      "time": "15 Jun, 01:57 PM",
+      "type": "tweets",
+      "content": "<p>Countdown to G7: Picturesque French town of \u00c9vian-les-Bains rolls out the red carpet for global leaders<br />\n<br />\nWrites <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> <br />\n<br />\nREAD: <a href=\"https://www.wionews.com/world/countdown-to-g7-picturesque-french-town-of-vian-les-bains-rolls-out-the-red-carpet-for-global-leaders-1781510964500\">wionews.com/world/countdown-\u2026</a><br />\n<br />\n<a href=\"https://www.wionews.com/world/countdown-to-g7-picturesque-french-town-of-vian-les-bains-rolls-out-the-red-carpet-for-global-leaders-1781510964500\">wionews.com/world/countdown-\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2066437434087473152%2FmBOpJaJ1%3Fformat%3Djpg%26name%3D800x419\" />",
+      "author": "@WIONews"
+    },
+    {
+      "title": "The US and Iran have agreed to a framework for a deal to end their conflict, with US President Donald Trump saying the crucial Strait of Hormuz oil shipping channel would also reopen.",
+      "link": "https://nitter.net/NetramDefence/status/2066437107405697402#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-15T13:56:13+05:30",
+      "time": "15 Jun, 01:56 PM",
+      "type": "tweets",
+      "content": "<p>The US and Iran have agreed to a framework for a deal to end their conflict, with US President Donald Trump saying the crucial Strait of Hormuz oil shipping channel would also reopen.</p>\n<video loop=\"loop\" poster=\"https://nitter.net/pic/tweet_video_thumb%2FHK11kudaEAAt8rN.jpg\">\n  <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHK11kudaEAAt8rN.mp4\" type=\"video/mp4\" /></video>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Pakistan Air Force training aircraft crashes near Mardan; two pilots 72'd\n\nPakistan Air Force pilot Lieutenant Muhammad Qasim Abdullah and Pakistan Navy Lieutenant Taha Abbasi were 72'd in the crash.\n\nA board constituted by Air Headquarter has initiated an investigation into the incident.",
+      "link": "https://nitter.net/elitepredatorss/status/2066433701303742768#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-15T13:42:41+05:30",
+      "time": "15 Jun, 01:42 PM",
+      "type": "tweets",
+      "content": "<p>Pakistan Air Force training aircraft crashes near Mardan; two pilots 72'd<br />\n<br />\nPakistan Air Force pilot Lieutenant Muhammad Qasim Abdullah and Pakistan Navy Lieutenant Taha Abbasi were 72'd in the crash.<br />\n<br />\nA board constituted by Air Headquarter has initiated an investigation into the incident.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2066433701303742768#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2066433533116346368%2Fimg%2FkYCWvqq9CDhWJskn.jpg\" />\n</a>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Views of the sailors of vessel Jalveer, which was attacked by US. The all Indian crew was rescued after the attack.\n\nhttps://t.co/OLRXXVRrbf",
+      "link": "https://nitter.net/sidhant/status/2066432727511969917#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-15T13:38:49+05:30",
+      "time": "15 Jun, 01:38 PM",
+      "type": "tweets",
+      "content": "<p>Views of the sailors of vessel Jalveer, which was attacked by US. The all Indian crew was rescued after the attack.<br />\n<br />\nhttps://nitter.net/t.co/OLRXXVRrbf</p>\n<a href=\"https://nitter.net/sidhant/status/2066432727511969917#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2066425314448982016%2Fpu%2Fimg%2F7ABJiv5aEoAWqITW.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Hussain Hashim, the son of Lashkar-e-Taiba (UN designated terrorist organisation) terrorist and PMML Punjab President Chaudhry Muhammad Sarwar, has reportedly killed in a serious road accident.\nHis funeral prayers to be held after Zuhr prayers at Qadisiyah Mosque in Chauburji.",
+      "link": "https://nitter.net/Goreunit/status/2066431577085870466#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-15T13:34:15+05:30",
+      "time": "15 Jun, 01:34 PM",
+      "type": "tweets",
+      "content": "<p>Hussain Hashim, the son of Lashkar-e-Taiba (UN designated terrorist organisation) terrorist and PMML Punjab President Chaudhry Muhammad Sarwar, has reportedly killed in a serious road accident.<br />\nHis funeral prayers to be held after Zuhr prayers at Qadisiyah Mosque in Chauburji.</p>\n<img src=\"https://nitter.net/pic/media%2FHK1wkXkaQAACnB2.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK1wkQ-asAAQdUS.jpg\" />",
+      "author": "@Goreunit"
+    },
     {
       "title": "Trump reaches \u00c9vian-les-Bains for G7 summit at 5 PM local time",
       "link": "https://nitter.net/sidhant/status/2066424297074180413#m",
@@ -879,56 +968,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Trump on Iran peace deal:",
-      "link": "https://nitter.net/sidhant/status/2066291793868554523#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T04:18:48+05:30",
-      "time": "15 Jun, 04:18 AM",
-      "type": "tweets",
-      "content": "<p>Trump on Iran peace deal:</p>\n<img src=\"https://nitter.net/pic/media%2FHKzxbroWkAA1YWF.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Historic week unfolds, Iran US peace deal to be signed 2 days after G7 & G7+ summit. G7 will host west Asian leaders, and a special session on West Asia which will see in attendance of PM Modi.",
-      "link": "https://nitter.net/sidhant/status/2066290408343081420#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T04:13:17+05:30",
-      "time": "15 Jun, 04:13 AM",
-      "type": "tweets",
-      "content": "<p>Historic week unfolds, Iran US peace deal to be signed 2 days after G7 &amp; G7+ summit. G7 will host west Asian leaders, and a special session on West Asia which will see in attendance of PM Modi.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Qatar welcomes the development:",
-      "link": "https://nitter.net/sidhant/status/2066289282206093812#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T04:08:49+05:30",
-      "time": "15 Jun, 04:08 AM",
-      "type": "tweets",
-      "content": "<p>Qatar welcomes the development:</p>\n<img src=\"https://nitter.net/pic/media%2FHKzvJhxWwAAZg-9.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>The deal with Iran is now complete: Trump</p>\n<img src=\"https://nitter.net/pic/media%2FHKzqS-IXkAALMTX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2066283947185574266#m\">https://nitter.net/sidhant/status/2066283947185574266#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Just past 12.30 am at my location , one hour drive to Geneva, Switzerland, which is the location of the Iran peace deal signing this Friday. JD Vance is expected to attend the peace deal signing.",
-      "link": "https://nitter.net/sidhant/status/2066287633689423878#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T04:02:16+05:30",
-      "time": "15 Jun, 04:02 AM",
-      "type": "tweets",
-      "content": "<p>Just past 12.30 am at my location , one hour drive to Geneva, Switzerland, which is the location of the Iran peace deal signing this Friday. JD Vance is expected to attend the peace deal signing.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>The deal with Iran is now complete: Trump</p>\n<img src=\"https://nitter.net/pic/media%2FHKzqS-IXkAALMTX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2066283947185574266#m\">https://nitter.net/sidhant/status/2066283947185574266#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "The deal with Iran is now complete: Trump",
-      "link": "https://nitter.net/sidhant/status/2066283947185574266#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T03:47:37+05:30",
-      "time": "15 Jun, 03:47 AM",
-      "type": "tweets",
-      "content": "<p>The deal with Iran is now complete: Trump</p>\n<img src=\"https://nitter.net/pic/media%2FHKzqS-IXkAALMTX.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>US, Iran to sign peace deal in Switzerland on Friday,  says Pakistan</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2066279624439447665#m\">https://nitter.net/sidhant/status/2066279624439447665#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "No amount of image management can hide actions that the world has already witnessed....\n\nQuestions remain over the U.S. role in the deaths of three innocent people.",
       "link": "https://nitter.net/OsintTV/status/2066233678594723977#m",
       "source": "Osint TV",
@@ -1087,16 +1126,6 @@
       "type": "tweets",
       "content": "<p>The Indian Army's Army Uniforms-2026 manual overhauls military dress codes by shedding colonial-era vestiges and adopting indigenous elements. Key updates include introducing formal bandi jackets, making parade swords optional, creating unified winter and combat uniform categories, and strictly regulating grooming standards.</p>\n<img src=\"https://nitter.net/pic/media%2FHKyK05cbYAA06R8.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "RT by @OsintTV: I hope the Indian Police Forces also make necessary modifications of their colonial practices in their uniforms and customs/traditions. Hon'ble HM @AmitShah ji for information.",
-      "link": "https://nitter.net/spvaid/status/2066177781432828055#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-14T20:45:45+05:30",
-      "time": "14 Jun, 08:45 PM",
-      "type": "tweets",
-      "content": "<p>I hope the Indian Police Forces also make necessary modifications of their colonial practices in their uniforms and customs/traditions. Hon'ble HM <a href=\"https://nitter.net/AmitShah\" title=\"Amit Shah\">@AmitShah</a> ji for information.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83c\uddee\ud83c\uddf3 Breaking from Colonial Legacy, Indian Army Embraces Indian Identity.<br />\n<br />\n\ud83d\udccdThe Indian Army has unveiled a new dress policy aimed at phasing out several colonial era traditions and symbols.<br />\n<br />\n\ud83d\udccdSenior officers will wear Indian-style bandi jackets at official functions, replacing the traditional lounge suit.<br />\n<br />\n\ud83d\udccdReviewing Officers will no longer carry ceremonial swords during parades and inspections.<br />\n<br />\n\ud83d\udccdThe ceremonial sword presentation tradition at commissioning ceremonies is being discontinued.<br />\n<br />\n\ud83d\udccdThe \"Royal\" designation and other British-era references are being gradually removed from military traditions and institutions.<br />\n<br />\n\ud83d\udccdOfficers have been instructed to avoid unnecessary display of medals, badges and ceremonial accessories during routine functions.<br />\n<br />\n\ud83d\udccdUniformity in dress standards has been introduced across commands to promote a modern and professional appearance.<br />\n<br />\n\ud83d\udccdVisible tattoos and body piercings have been restricted in line with the new policy.<br />\n<br />\n\ud83d\udccdThe Army has prescribed guidelines for hairstyles, grooming and appearance to maintain uniform standards.<br />\n<br />\n\ud83d\udccdColonial customs associated with dress and ceremonial practices are being phased out.<br />\n<br />\n\ud83d\udccdThe reforms are part of the Army's broader effort to decolonise military traditions and strengthen a distinctly Indian identity.<br />\n<br />\nFrom bandi jackets to the end of ceremonial swords and royal tags, the Indian Army is turning the page on its colonial past and embracing its own traditions.</p>\n<img src=\"https://nitter.net/pic/media%2FHKxxOMqXMAAREFO.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2066150841057210792#m\">https://nitter.net/OsintTV/status/2066150841057210792#m</a>\n</footer>\n</blockquote>",
-      "author": "@spvaid"
     },
     {
       "title": "RT by @OsintTV: Balakote sector",
@@ -1415,7 +1444,7 @@
       "sort_key": "2026-06-13T16:51:23+05:30",
       "time": "13 Jun, 04:51 PM",
       "type": "tweets",
-      "content": "<p>BMD of India in nutshell <br />\n<a href=\"https://alphadefense.in/index.php/2026/06/13/indias-ballistic-missile-shield-from-pakistan-focused-defense-to-countering-chinese-missile-threats/\">alphadefense.in/index.php/20\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2065756140202561537%2FbFmnVqM8%3Fformat%3Djpg%26name%3D800x419\" />",
+      "content": "<p>BMD of India in nutshell <br />\n<a href=\"https://alphadefense.in/index.php/2026/06/13/indias-ballistic-missile-shield-from-pakistan-focused-defense-to-countering-chinese-missile-threats/\">alphadefense.in/index.php/20\u2026</a></p>",
       "author": "@alpha_defense"
     },
     {
@@ -1487,46 +1516,6 @@
       "type": "tweets",
       "content": "<p>:) Few more but too soon.</p>\n<hr />\n<blockquote>\n<b>Kaliputra (@KaliputraX)</b>\n<p>\n<p>ATGG for the win....</p>\n<img src=\"https://nitter.net/pic/media%2FHHewOStaIAAs0W3.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/KaliputraX/status/2051301917071212958#m\">https://nitter.net/KaliputraX/status/2051301917071212958#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "ISRO Chairman V. Narayanan says India will need 200+ satellites in the next three years, up from the current fleet of 56 satellites.\n\nHe emphasized that ISRO alone cannot meet this demand, calling for greater participation from private industry, startups, and academia.",
-      "link": "https://nitter.net/NetramDefence/status/2065717162661343377#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-13T14:15:25+05:30",
-      "time": "13 Jun, 02:15 PM",
-      "type": "tweets",
-      "content": "<p>ISRO Chairman V. Narayanan says India will need 200+ satellites in the next three years, up from the current fleet of 56 satellites.<br />\n<br />\nHe emphasized that ISRO alone cannot meet this demand, calling for greater participation from private industry, startups, and academia.</p>\n<img src=\"https://nitter.net/pic/media%2FHKrmzk8bAAAII_1.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Two things India should closely pay attention to with a clear understanding of what needs to be taught throughout the national security apparatus of this nation.\n\nFirst : \nAn intelligence report prompted the Indian government to put Starlink on hold as SpaceX deployed Starlink terminals in the war in West Asia.\n\nAn interesting thing is that Starlink doesn't have an operational license in Iran to provide satellite service.\n\nLater, we saw the US banning Fable and Mythos from being utilised by any \"non-US national\" because they have jurisdiction over US nationals, and they can put them into misery if they try to do naughty stuff that those models are capable of.\n\nCONCLUSION: Any American company, or as a matter of fact, any country's business that is rising superfast, especially in global markets, has the absolute backing of the American war machinery. \n\nAnd they follow no rules if it comes to their interest, and rightly so.\n\nTheir rise is fast for a reason, kindly plan your policy accordingly.",
-      "link": "https://nitter.net/elitepredatorss/status/2065712731676963256#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-13T13:57:48+05:30",
-      "time": "13 Jun, 01:57 PM",
-      "type": "tweets",
-      "content": "<p>Two things India should closely pay attention to with a clear understanding of what needs to be taught throughout the national security apparatus of this nation.<br />\n<br />\nFirst : <br />\nAn intelligence report prompted the Indian government to put Starlink on hold as SpaceX deployed Starlink terminals in the war in West Asia.<br />\n<br />\nAn interesting thing is that Starlink doesn't have an operational license in Iran to provide satellite service.<br />\n<br />\nLater, we saw the US banning Fable and Mythos from being utilised by any \"non-US national\" because they have jurisdiction over US nationals, and they can put them into misery if they try to do naughty stuff that those models are capable of.<br />\n<br />\nCONCLUSION: Any American company, or as a matter of fact, any country's business that is rising superfast, especially in global markets, has the absolute backing of the American war machinery. <br />\n<br />\nAnd they follow no rules if it comes to their interest, and rightly so.<br />\n<br />\nTheir rise is fast for a reason, kindly plan your policy accordingly.</p>\n<img src=\"https://nitter.net/pic/media%2FHKriXAEa4AAvAQK.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKrifP_aIAABiQR.png\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @OsintTV: India allowed a Pakistani flight to enter its airspace because we care about human lives. The same cannot be said about your country, whose generals and politicians are demons who seem to love dead bodies.\n\nThis happened last year when an IndiGo flight requested permission from your ATC to enter Pakistani airspace, but Pakistan\u2019s ATC denied the request. For Pakistan, human lives appear to have no value.",
-      "link": "https://nitter.net/shivank_8mishra/status/2065711111845146643#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-13T13:51:22+05:30",
-      "time": "13 Jun, 01:51 PM",
-      "type": "tweets",
-      "content": "<p>India allowed a Pakistani flight to enter its airspace because we care about human lives. The same cannot be said about your country, whose generals and politicians are demons who seem to love dead bodies.<br />\n<br />\nThis happened last year when an IndiGo flight requested permission from your ATC to enter Pakistani airspace, but Pakistan\u2019s ATC denied the request. For Pakistan, human lives appear to have no value.</p>\n<img src=\"https://nitter.net/pic/media%2FHKrhTVqbUAABWJT.jpg\" />\n\n<hr />\n<blockquote>\n<b>Muhammad Ahmad (@Ahmadhoter)</b>\n<p>\n<p>Today, a Pakistani commercial flight Fly Jinah entered Indian territory due to a terrible storm.</p>\n<img src=\"https://nitter.net/pic/media%2FHKp0wRSaYAAruQl.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Ahmadhoter/status/2065591754431377913#m\">https://nitter.net/Ahmadhoter/status/2065591754431377913#m</a>\n</footer>\n</blockquote>",
-      "author": "@shivank_8mishra"
-    },
-    {
-      "title": "Not gonna lie, bro had an almost clean setup for civilians.",
-      "link": "https://nitter.net/elitepredatorss/status/2065704697219174617#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-13T13:25:53+05:30",
-      "time": "13 Jun, 01:25 PM",
-      "type": "tweets",
-      "content": "<p>Not gonna lie, bro had an almost clean setup for civilians.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2065704697219174617#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2065704585738829824%2Fpu%2Fimg%2FxpMgbAz1Xy7L6gCy.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -1604,6 +1593,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
