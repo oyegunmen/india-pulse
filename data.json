@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Military-grade\u2019 NEET retest security to add pressure on students: Annamalai",
+      "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Jun/16/military-grade-neet-retest-security-to-add-pressure-on-students-annamalai",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-16T12:54:07+05:30",
+      "time": "16 Jun, 12:54 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "China's Xi promises to safeguard Myanmar's sovereignty and territorial integrity",
+      "link": "https://www.newindianexpress.com/world/2026/Jun/16/chinas-xi-promises-to-safeguard-myanmars-sovereignty-and-territorial-integrity",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-16T12:43:39+05:30",
+      "time": "16 Jun, 12:43 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Moscow oil refinery damaged in Ukrainian drone attack: Moscow Mayor Sergei Sobyanin",
+      "link": "https://economictimes.indiatimes.com/news/defence/moscow-oil-refinery-damaged-in-ukrainian-drone-attack-moscow-mayor-sergei-sobyanin/articleshow/131762044.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-16T12:18:01+05:30",
+      "time": "16 Jun, 12:18 PM",
+      "type": "news",
+      "description": "A Ukrainian drone struck a Gazpromneft oil refinery near Moscow. The facility sustained damage. No casualties were reported. Emergency services respon..."
+    },
+    {
       "title": "US-Iran peace talks: Senior officials link sanctions relief to nuclear compliance guarantees",
       "link": "https://economictimes.indiatimes.com/news/defence/us-iran-peace-talks-senior-officials-link-sanctions-relief-to-nuclear-compliance-guarantees/articleshow/131761552.cms",
       "source": "Economic Times",
@@ -8,15 +35,6 @@
       "time": "16 Jun, 11:40 AM",
       "type": "news",
       "description": "Senior Trump administration officials revealed a new understanding with Iran, linking sanctions relief and economic reintegration to strict nuclear ov..."
-    },
-    {
-      "title": "Centre blocks Telegram until June 22 amid NEET UG security concerns",
-      "link": "https://www.newindianexpress.com/india/2026/Jun/16/centre-blocks-telegram-until-june-22-amid-neet-ug-security-concerns",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-16T11:33:22+05:30",
-      "time": "16 Jun, 11:33 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "China retail sales drop for first time in 3 years but exports surge",
@@ -125,15 +143,6 @@
       "time": "16 Jun, 07:03 AM",
       "type": "news",
       "description": "A B-52 bomber crashed shortly after takeoff at a US Air Force base in Southern California&#8217;s Mojave Desert, killing all eight people aboard last ..."
-    },
-    {
-      "title": "Eight dead in US B-52 bomber crash at Air Force base in California: military",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/16/eight-dead-in-us-b-52-bomber-crash-at-air-force-base-in-california-military",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-16T06:39:11+05:30",
-      "time": "16 Jun, 06:39 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "US Air Force B-52 bomber crashes in California, killing all 8 crew aboard",
@@ -737,18 +746,79 @@
       "time": "14 Jun, 05:21 PM",
       "type": "news",
       "description": "Israel's military struck Hezbollah targets in Beirut's southern suburbs on Sunday. This action followed Hezbollah launching projectiles into northern ..."
-    },
-    {
-      "title": "West Asia War: Two drones from Lebanon strike northern Israel, says military",
-      "link": "https://economictimes.indiatimes.com/news/defence/west-asia-war-two-drones-from-lebanon-strike-northern-israel-says-military/articleshow/131717179.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-14T12:56:01+05:30",
-      "time": "14 Jun, 12:56 PM",
-      "type": "news",
-      "description": "Two drones suspected to be from Hezbollah hit northern Israel on Sunday. No injuries were reported. Following the incident, two Israeli ministers dema..."
     }
   ],
   "tweets": [
+    {
+      "title": "The air-launched #LRLACM is expected to weigh 900\u20131,000 kg as it does not require the heavy launch booster used by ground and naval variants.\n\nThis could allow an IAF Su-30MKI to carry between 2-4 missiles, depending on the final integration and mission configuration.",
+      "link": "https://nitter.net/DefenceDecode/status/2066789512144122336#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-06-16T13:16:33+05:30",
+      "time": "16 Jun, 01:16 PM",
+      "type": "tweets",
+      "content": "<p>The air-launched <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LRLACM\">#LRLACM</a> is expected to weigh 900\u20131,000 kg as it does not require the heavy launch booster used by ground and naval variants.<br />\n<br />\nThis could allow an IAF Su-30MKI to carry between 2-4 missiles, depending on the final integration and mission configuration.</p>\n<img src=\"https://nitter.net/pic/media%2FHK61zd5bMAABzyY.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "BREAKING: Telegram access in India will be temporarily restricted ahead of NEET Re-Exam\n\nThe National Testing Agency (NTA) says Telegram access in India will be temporarily restricted until 22 June 2026, while the platform's message-editing feature will reportedly remain disabled until 30 June 2026.\n\nAccording to NTA, the measures are aimed at curbing exam-related fraud, fake paper leak claims, and misinformation ahead of the NEET (UG) 2026 re-examination on 21 June.\n\nAuthorities say multiple Telegram channels, groups, and bots linked to alleged exam scams have already been taken down.",
+      "link": "https://nitter.net/NetramDefence/status/2066787639093612799#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-16T13:09:06+05:30",
+      "time": "16 Jun, 01:09 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING: Telegram access in India will be temporarily restricted ahead of NEET Re-Exam<br />\n<br />\nThe National Testing Agency (NTA) says Telegram access in India will be temporarily restricted until 22 June 2026, while the platform's message-editing feature will reportedly remain disabled until 30 June 2026.<br />\n<br />\nAccording to NTA, the measures are aimed at curbing exam-related fraud, fake paper leak claims, and misinformation ahead of the NEET (UG) 2026 re-examination on 21 June.<br />\n<br />\nAuthorities say multiple Telegram channels, groups, and bots linked to alleged exam scams have already been taken down.</p>\n<img src=\"https://nitter.net/pic/media%2FHK60V5RbQAAy9qT.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK60VyCaEAA5kq3.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK60VyDasAABdv5.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "G7 leaders gather for summit in \u00c9vian",
+      "link": "https://nitter.net/sidhant/status/2066786364952031480#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-16T13:04:03+05:30",
+      "time": "16 Jun, 01:04 PM",
+      "type": "tweets",
+      "content": "<p>G7 leaders gather for summit in \u00c9vian</p>\n<img src=\"https://nitter.net/pic/media%2FHK6zPqHXIAA1bAo.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK6zPukXgAA7Q-L.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK6zPtVWQAAzcKJ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK6zPtoXkAAx_WD.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "G7 begins",
+      "link": "https://nitter.net/sidhant/status/2066784357335896415#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-16T12:56:04+05:30",
+      "time": "16 Jun, 12:56 PM",
+      "type": "tweets",
+      "content": "<p>G7 begins</p>\n<img src=\"https://nitter.net/pic/media%2FHK6xa5dXkAAMvow.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We seems to have missed it ! UK's armed forces minister (Colonel Alistair Scott Carns) has followed Defence Secretary John Healey in quitting the government in a dispute with Prime Minister Keir Starmer over funding for the military.",
+      "link": "https://nitter.net/alpha_defense/status/2066780781230629207#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-16T12:41:51+05:30",
+      "time": "16 Jun, 12:41 PM",
+      "type": "tweets",
+      "content": "<p>We seems to have missed it ! UK's armed forces minister (Colonel Alistair Scott Carns) has followed Defence Secretary John Healey in quitting the government in a dispute with Prime Minister Keir Starmer over funding for the military.</p>\n<img src=\"https://nitter.net/pic/media%2FHK6t0YhbwAA61Zo.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "India\u2019s port handling capacity has nearly doubled, rising from 1,400 MMTPA in 2014 to 2,819 MMTPA in 2026, significantly strengthening the backbone of the nation\u2019s trade and logistics ecosystem.",
+      "link": "https://nitter.net/Goreunit/status/2066780095751262595#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-16T12:39:08+05:30",
+      "time": "16 Jun, 12:39 PM",
+      "type": "tweets",
+      "content": "<p>India\u2019s port handling capacity has nearly doubled, rising from 1,400 MMTPA in 2014 to 2,819 MMTPA in 2026, significantly strengthening the backbone of the nation\u2019s trade and logistics ecosystem.</p>\n<img src=\"https://nitter.net/pic/media%2FHK6tizbawAA_Dlv.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "\ud83d\udea8Telegram will be blocked in India till Re-NEET exam concludes i.e 22 June 2026\n\nAlso editing message feature to be disabled till 30 june.",
+      "link": "https://nitter.net/Goreunit/status/2066777738099433705#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-16T12:29:46+05:30",
+      "time": "16 Jun, 12:29 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8Telegram will be blocked in India till Re-NEET exam concludes i.e 22 June 2026<br />\n<br />\nAlso editing message feature to be disabled till 30 june.</p>\n<img src=\"https://nitter.net/pic/media%2FHK6rZO0bMAAeWwI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK6rZRJakAAhX1a.jpg\" />",
+      "author": "@Goreunit"
+    },
     {
       "title": "RT by @sidhant: The G7 Summit in France brings global leaders together amid conflicts, trade disputes and energy concerns\n\nA key highlight is the bilateral meeting between Prime Minister Narendra Modi and US President Donald Trump\n\n@JyotsnaKumar13 and @sidhant have more",
       "link": "https://nitter.net/WIONews/status/2066771750210437459#m",
@@ -1070,16 +1140,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Slovakia confers its highest honour, The Order of the White Double Cross (1st Class) on PM Modi- 33rd global honour for Indian PM",
-      "link": "https://nitter.net/sidhant/status/2066570352495296629#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T22:45:41+05:30",
-      "time": "15 Jun, 10:45 PM",
-      "type": "tweets",
-      "content": "<p>Slovakia confers its highest honour, The Order of the White Double Cross (1st Class) on PM Modi- 33rd global honour for Indian PM</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Neelum bridge POJK \n\nLumber one security personnel running away from the crowd.",
       "link": "https://nitter.net/Goreunit/status/2066564466502930702#m",
       "source": "War & Gore",
@@ -1128,16 +1188,6 @@
       "type": "tweets",
       "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BREAKING\">#BREAKING</a> | The Indian Army Air Defence has issued an RFI for an Indigenous Intermediate Target System (Rocket) to support realistic training against evolving aerial threats, including drones, cruise missiles, and advanced aircraft.<br />\n<br />\n\ud83d\udcf8 For Representation</p>\n<img src=\"https://nitter.net/pic/media%2FHK3n7FkbQAABfXM.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "RT by @sidhant: Strait of Hormuz will be completely open by Friday, reports @sidhant from France quoting US Prez Trump.",
-      "link": "https://nitter.net/RishabhMPratap/status/2066557776172851470#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-15T21:55:43+05:30",
-      "time": "15 Jun, 09:55 PM",
-      "type": "tweets",
-      "content": "<p>Strait of Hormuz will be completely open by Friday, reports <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> from France quoting US Prez Trump.</p>",
-      "author": "@RishabhMPratap"
     },
     {
       "title": "RT by @sidhant: Indian Air Force has launched a pilot project to build an indigenous kamikaze drone ecosystem at one of their southern bases.\n\nAn Indian company is being finalized for the project.\n\nAim is to create an in-house strike drone capability with Indian industry support.",
@@ -1273,6 +1323,16 @@
       "title": "RT by @Goreunit: \u201cHindustan behtar hai hamare liye in kafiron (Pakistani Army) se.\u201d (\u201cIndia is better for us than these people.\u201d)\n\n\u201cAt 4:30 a.m. Rangers started indiscriminate firing. People had come from Dadyal, Nakyal, Bhimber and Kotli. They were shooting in a manner they would not even use against an enemy.\u201d These are the painful words of 78-year-old Shaukat from Rawalakot, who was one of the protester shot by Pakistani Rangers yesterday, while he was performing Wuzu before Fajr prayers.\n\n\u201cI had just extended my hand after Wuzu when the bullet struck it.\u201d\n\nFor years, the Pakistan Army has projected itself as the self-proclaimed defender of Muslims. Now, the mask has come off.\n\nProtesters in PoJK are asking a simple question: if worshippers gathering for Fajr prayers are met with bullets, how can this be called an army of Muslims?\n\nAn army that fires on civilians offering Namaz cannot claim the moral high ground. The people of PoJK are exposing the gap between Pakistan\u2019s rhetoric and reality.\n\n#PoJK #Rawalakot #PakistanArmy #India #HumanRights #Kashmir",
       "link": "https://nitter.net/shivank_8mishra/status/2066468375841452539#m",
       "source": "War & Gore",
+      "sort_key": "2026-06-15T16:00:28+05:30",
+      "time": "15 Jun, 04:00 PM",
+      "type": "tweets",
+      "content": "<p>\u201cHindustan behtar hai hamare liye in kafiron (Pakistani Army) se.\u201d (\u201cIndia is better for us than these people.\u201d)<br />\n<br />\n\u201cAt 4:30 a.m. Rangers started indiscriminate firing. People had come from Dadyal, Nakyal, Bhimber and Kotli. They were shooting in a manner they would not even use against an enemy.\u201d These are the painful words of 78-year-old Shaukat from Rawalakot, who was one of the protester shot by Pakistani Rangers yesterday, while he was performing Wuzu before Fajr prayers.<br />\n<br />\n\u201cI had just extended my hand after Wuzu when the bullet struck it.\u201d<br />\n<br />\nFor years, the Pakistan Army has projected itself as the self-proclaimed defender of Muslims. Now, the mask has come off.<br />\n<br />\nProtesters in PoJK are asking a simple question: if worshippers gathering for Fajr prayers are met with bullets, how can this be called an army of Muslims?<br />\n<br />\nAn army that fires on civilians offering Namaz cannot claim the moral high ground. The people of PoJK are exposing the gap between Pakistan\u2019s rhetoric and reality.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoJK\">#PoJK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rawalakot\">#Rawalakot</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanArmy\">#PakistanArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23India\">#India</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23HumanRights\">#HumanRights</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kashmir\">#Kashmir</a></p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2066468375841452539#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2066467968926834688%2Fimg%2FG5fkzecYsGxgXyTm.jpg\" />\n</a>",
+      "author": "@shivank_8mishra"
+    },
+    {
+      "title": "RT by @OsintTV: \u201cHindustan behtar hai hamare liye in kafiron (Pakistani Army) se.\u201d (\u201cIndia is better for us than these people.\u201d)\n\n\u201cAt 4:30 a.m. Rangers started indiscriminate firing. People had come from Dadyal, Nakyal, Bhimber and Kotli. They were shooting in a manner they would not even use against an enemy.\u201d These are the painful words of 78-year-old Shaukat from Rawalakot, who was one of the protester shot by Pakistani Rangers yesterday, while he was performing Wuzu before Fajr prayers.\n\n\u201cI had just extended my hand after Wuzu when the bullet struck it.\u201d\n\nFor years, the Pakistan Army has projected itself as the self-proclaimed defender of Muslims. Now, the mask has come off.\n\nProtesters in PoJK are asking a simple question: if worshippers gathering for Fajr prayers are met with bullets, how can this be called an army of Muslims?\n\nAn army that fires on civilians offering Namaz cannot claim the moral high ground. The people of PoJK are exposing the gap between Pakistan\u2019s rhetoric and reality.\n\n#PoJK #Rawalakot #PakistanArmy #India #HumanRights #Kashmir",
+      "link": "https://nitter.net/shivank_8mishra/status/2066468375841452539#m",
+      "source": "Osint TV",
       "sort_key": "2026-06-15T16:00:28+05:30",
       "time": "15 Jun, 04:00 PM",
       "type": "tweets",
@@ -1678,16 +1738,6 @@
       "type": "tweets",
       "content": "<p>The obsession of bringing caste in every goddamn thing sometimes piss me off big time.</p>\n<img src=\"https://nitter.net/pic/media%2FHKwrxyyaIAABiqd.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @alpha_defense: Everytime a discussion on India\u2019s journey in frontier tech comes, the opinion is always divided on which way India should go. The American way(state largesse funded SOTA basic research in academia and industry picking up the baton and then running the next 1000 miles with its cash flows) or China way(state funded, state directed largesse and state controlled but pvt sector executed). \n\nIndia has structural problems in pursuing either of the way that we are not ready to discuss head on but beat around with either \u201clook at SpaceX Google, Indian pvt sector should pick up\u201d or \u201clook at China, all are govt funded efforts under writing the risk\u201d. In the end we come up with a lame ass namesake answer of frugal engineering that never really solves for the mission at hand but just make does with the status quo and tries to produce whatever we can. \n\nBecause the constraint here is about solving for talent, resources and capital with the latter taking care of the former two of enough of it is thrown at the problems. Who should solve for the capital problem in India\u2019s case today if India\u2019s stated ambition today is sovereignty and strategic autonomy? \n\nIndia needs a new compact and that needs to look at India from first principles, Indian state, public and the industry shedding certain aspects and pursuing newer mechanisms. \n\nState banks giving zero interest loans? Govt establishing sovereign fund with full risk appetite? Govt directing CSR funds for fundamental research? Tax holidays? India\u2019s equivalent of thousand talents program? India\u2019s equivalent of annually multi billion $$ NSF? Special Research Zones along lines of GIFT city? \n\nMore deeper stuff like allowing freer capital flows, getting rid of reservation and permanent cadre in key STEM research orgs and bringing hire and fire with lateral entries, pay structure changes, a stated goal to  achieve a 3X GOI spending on R&D from current levels in a PPP mode so that GOI \u20b9\u20b9 acts as catalyst for pvt sector to put in their share and above this bringing restrictions on foreign tech use at strategic orgs. \n\nPpl who try to dampen this with demanding expectations commensurate with India\u2019s PCI, cost of sovereignty doesn\u2019t track PCI. It costs whatever it takes to have strategic autonomy. Those expecting sovereign capabilities at frugal costs and without structural reforms are essentially demanding free lunch for an unserious player.",
-      "link": "https://nitter.net/cvkrishnan/status/2066063080015237488#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-14T13:09:58+05:30",
-      "time": "14 Jun, 01:09 PM",
-      "type": "tweets",
-      "content": "<p>Everytime a discussion on India\u2019s journey in frontier tech comes, the opinion is always divided on which way India should go. The American way(state largesse funded SOTA basic research in academia and industry picking up the baton and then running the next 1000 miles with its cash flows) or China way(state funded, state directed largesse and state controlled but pvt sector executed). <br />\n<br />\nIndia has structural problems in pursuing either of the way that we are not ready to discuss head on but beat around with either \u201clook at SpaceX Google, Indian pvt sector should pick up\u201d or \u201clook at China, all are govt funded efforts under writing the risk\u201d. In the end we come up with a lame ass namesake answer of frugal engineering that never really solves for the mission at hand but just make does with the status quo and tries to produce whatever we can. <br />\n<br />\nBecause the constraint here is about solving for talent, resources and capital with the latter taking care of the former two of enough of it is thrown at the problems. Who should solve for the capital problem in India\u2019s case today if India\u2019s stated ambition today is sovereignty and strategic autonomy? <br />\n<br />\nIndia needs a new compact and that needs to look at India from first principles, Indian state, public and the industry shedding certain aspects and pursuing newer mechanisms. <br />\n<br />\nState banks giving zero interest loans? Govt establishing sovereign fund with full risk appetite? Govt directing CSR funds for fundamental research? Tax holidays? India\u2019s equivalent of thousand talents program? India\u2019s equivalent of annually multi billion $$ NSF? Special Research Zones along lines of GIFT city? <br />\n<br />\nMore deeper stuff like allowing freer capital flows, getting rid of reservation and permanent cadre in key STEM research orgs and bringing hire and fire with lateral entries, pay structure changes, a stated goal to  achieve a 3X GOI spending on R&amp;D from current levels in a PPP mode so that GOI \u20b9\u20b9 acts as catalyst for pvt sector to put in their share and above this bringing restrictions on foreign tech use at strategic orgs. <br />\n<br />\nPpl who try to dampen this with demanding expectations commensurate with India\u2019s PCI, cost of sovereignty doesn\u2019t track PCI. It costs whatever it takes to have strategic autonomy. Those expecting sovereign capabilities at frugal costs and without structural reforms are essentially demanding free lunch for an unserious player.</p>",
-      "author": "@cvkrishnan"
     }
   ],
   "youtube": [
@@ -1710,6 +1760,24 @@
       "thumbnail": "https://img.youtube.com/vi/_ErSYK8Bah4/mqdefault.jpg"
     },
     {
+      "title": "Another Missile & Engine Successful",
+      "link": "https://www.youtube.com/watch?v=h9S98kZAkJ0",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-15T20:54:36+05:30",
+      "time": "15 Jun, 08:54 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/h9S98kZAkJ0/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Rafale API Access Granted,Super Kalvari Offer,New 400 Km HyperStrike MBRL",
+      "link": "https://www.youtube.com/watch?v=KNBoSDfZMXI",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-15T17:12:40+05:30",
+      "time": "15 Jun, 05:12 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/KNBoSDfZMXI/mqdefault.jpg"
+    },
+    {
       "title": "Defence Updates - PoK Back Soon, India France Nuclear Submarine, New YETI UAV",
       "link": "https://www.youtube.com/watch?v=xkI1YA7cjGQ",
       "source": "Defense Squad",
@@ -1717,9 +1785,27 @@
       "time": "14 Jun, 10:11 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/xkI1YA7cjGQ/mqdefault.jpg"
+    },
+    {
+      "title": "Wake up India : Non American Engine for Future",
+      "link": "https://www.youtube.com/watch?v=0MkTV6bafEs",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-14T17:42:38+05:30",
+      "time": "14 Jun, 05:42 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/0MkTV6bafEs/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : 6th Gen Fighter Pact,Hypersonic Waverider Missile,1500 Km LRLACM Test",
+      "link": "https://www.youtube.com/watch?v=4-7t8ZZ8FB4",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-14T16:34:29+05:30",
+      "time": "14 Jun, 04:34 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/4-7t8ZZ8FB4/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
