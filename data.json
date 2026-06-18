@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "South Korea to apply zero tariffs on LNG, LPG to tackle inflation",
+      "link": "https://newsonair.gov.in/south-korea-to-apply-zero-tariffs-on-lng-lpg-to-tackle-inflation/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T11:54:12+05:30",
+      "time": "18 Jun, 11:54 AM",
+      "type": "news",
+      "description": "South Korea has announced plans to remove tariffs on liquefied natural gas (LNG) and liquefied petroleum gas (LPG) imports in the second half of this ..."
+    },
+    {
+      "title": "AISATS Launches Cargo Operations at India\u2019s First Integrated Multi Modal Cargo Hub",
+      "link": "https://www.indiastrategic.in/aisats-launches-cargo-operations-at-indias-first-integrated-multi-modal-cargo-hub/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-18T11:53:22+05:30",
+      "time": "18 Jun, 11:53 AM",
+      "type": "news",
+      "description": "<p>Bengaluru, June 17, 2026. The AISATS Multi Modal Cargo Hub (MMCH) at Noida International Airport today, June 17, marked a significant milestone wit..."
+    },
+    {
+      "title": "Ukraine hits Moscow in 'large-scale' attack, sparking fires and evacuations",
+      "link": "https://economictimes.indiatimes.com/news/defence/ukraine-hits-moscow-in-large-scale-attack-sparking-fires-and-evacuations/articleshow/131820070.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T11:48:14+05:30",
+      "time": "18 Jun, 11:48 AM",
+      "type": "news",
+      "description": "Ukraine launched a massive drone assault on Moscow, causing fires and evacuations. The attack targeted the capital and its surrounding regions. Russia..."
+    },
+    {
       "title": "How air forces are integrating autonomous wingmen into existing fleets",
       "link": "https://www.indiastrategic.in/how-air-forces-are-integrating-autonomous-wingmen-into-existing-fleets/",
       "source": "India Strategic",
@@ -17,6 +44,15 @@
       "time": "18 Jun, 10:57 AM",
       "type": "news",
       "description": "<p>Eurosatory, June 17, 2026. NATO last year launched its Rapid Adoption Action Plan (RAAP) as part of its push towards the integration of new technol..."
+    },
+    {
+      "title": "Security forces seize arms, destroy bunkers during search operations in Manipur's Kangpokpi",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/18/security-forces-seize-arms-destroy-bunkers-during-search-operations-in-manipurs-kangpokpi",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-18T10:55:36+05:30",
+      "time": "18 Jun, 10:55 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "French SCORPION programme rolls on and shows export potential",
@@ -116,15 +152,6 @@
       "time": "18 Jun, 07:47 AM",
       "type": "news",
       "description": "US President Donald Trump and Iranian President Masoud Pezeshkian have virtually signed a 14-point memorandum of understanding (MoU) aimed at ending h..."
-    },
-    {
-      "title": "Initial US-Iran deal takes immediate effect after both sides sign, says Pakistan PM; nuclear talks to continue",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/18/initial-us-iran-deal-takes-immediate-effect-after-both-sides-sign-says-pakistan-pm-nuclear-talks-to-continue",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-18T07:39:53+05:30",
-      "time": "18 Jun, 07:39 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "What's in Trump's deal for Tehran? The 14-point US-Iran pact as read by American official",
@@ -296,15 +323,6 @@
       "time": "17 Jun, 08:22 PM",
       "type": "news",
       "description": "<p>By Aroonim Bhuyan New Delhi/Evian (France), June 17. Prime Minister Narendra Modi on June 17 held bilateral talks with European Council President A..."
-    },
-    {
-      "title": "INS Tarkash departs Seychelles after outreach, engagements",
-      "link": "https://www.indiastrategic.in/ins-tarkash-departs-seychelles-after-outreach-engagements/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-17T20:15:03+05:30",
-      "time": "17 Jun, 08:15 PM",
-      "type": "news",
-      "description": "<p>New Delhi, June 17. Indian Navy\u2019s stealth frigate INS Tarkash departed Port Victoria, Seychelles, on June 15 after completing a port call marked by..."
     },
     {
       "title": "Trump backs India-US defence ties; says \u2018if they\u2019re attacked, we\u2019ll help them\u2019",
@@ -503,15 +521,6 @@
       "time": "17 Jun, 01:14 PM",
       "type": "news",
       "description": "In Texas, one person was killed after a business jet carrying six people crashed and caught fire on a highway in Laredo last night, said authorities. ..."
-    },
-    {
-      "title": "PM Modi to arrive in Paris this evening during official visit to France",
-      "link": "https://newsonair.gov.in/pm-modi-to-arrive-in-paris-this-evening-during-official-visit-to-france/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-17T13:12:25+05:30",
-      "time": "17 Jun, 01:12 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi will arrive in Paris this evening as part of his visit to France. Members of the Indian diaspora are eagerly awaiting his..."
     },
     {
       "title": "US Drops 'Indo' From Indo-Pacific Command, Sparks Row Over India Map",
@@ -935,27 +944,49 @@
       "time": "16 Jun, 12:29 PM",
       "type": "news",
       "description": "Showcasing its easily deployable &#038; highly manoeuvrable 155 mm MArG system mounted on a 4x4 vehicle at Eurosatory 2026, firm seeks wider footprint..."
-    },
-    {
-      "title": "Moscow oil refinery damaged in Ukrainian drone attack: Moscow Mayor Sergei Sobyanin",
-      "link": "https://economictimes.indiatimes.com/news/defence/moscow-oil-refinery-damaged-in-ukrainian-drone-attack-moscow-mayor-sergei-sobyanin/articleshow/131762044.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-16T12:18:01+05:30",
-      "time": "16 Jun, 12:18 PM",
-      "type": "news",
-      "description": "A Ukrainian drone struck a Gazpromneft oil refinery near Moscow. The facility sustained damage. No casualties were reported. Emergency services respon..."
-    },
-    {
-      "title": "US-Iran peace talks: Senior officials link sanctions relief to nuclear compliance guarantees",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-peace-talks-senior-officials-link-sanctions-relief-to-nuclear-compliance-guarantees/articleshow/131761552.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-16T11:40:56+05:30",
-      "time": "16 Jun, 11:40 AM",
-      "type": "news",
-      "description": "Senior Trump administration officials revealed a new understanding with Iran, linking sanctions relief and economic reintegration to strict nuclear ov..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @NetramDefence: This MoU serves as a preliminary roadmap. Upcoming critical talks in Switzerland will focus on the exact sequencing of these actions. Because a final treaty has not yet been locked in, either party can still walk away during the 60-day window.\n\n4/4",
+      "link": "https://nitter.net/NetramDefence/status/2067498784444342279#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-18T12:14:57+05:30",
+      "time": "18 Jun, 12:14 PM",
+      "type": "tweets",
+      "content": "<p>This MoU serves as a preliminary roadmap. Upcoming critical talks in Switzerland will focus on the exact sequencing of these actions. Because a final treaty has not yet been locked in, either party can still walk away during the 60-day window.<br />\n<br />\n4/4</p>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: What the United States Gains ?\n\nNuclear Commitments: Iran reaffirms it will not develop nuclear weapons and agrees to down-blend its stockpiled enriched material on-site under IAEA supervision.\n\nReopening the Strait of Hormuz: Iran commits to facilitating the safe, charge-free passage of commercial vessels through the strait for an initial 60 days, with demining completed within 30 days.\n\nDiplomatic Framework: The creation of an executive monitoring mechanism to verify compliance, providing an alternative to active military conflict.\n\n3/4",
+      "link": "https://nitter.net/NetramDefence/status/2067498780514254983#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-18T12:14:56+05:30",
+      "time": "18 Jun, 12:14 PM",
+      "type": "tweets",
+      "content": "<p>What the United States Gains ?<br />\n<br />\nNuclear Commitments: Iran reaffirms it will not develop nuclear weapons and agrees to down-blend its stockpiled enriched material on-site under IAEA supervision.<br />\n<br />\nReopening the Strait of Hormuz: Iran commits to facilitating the safe, charge-free passage of commercial vessels through the strait for an initial 60 days, with demining completed within 30 days.<br />\n<br />\nDiplomatic Framework: The creation of an executive monitoring mechanism to verify compliance, providing an alternative to active military conflict.<br />\n<br />\n3/4</p>\n<img src=\"https://nitter.net/pic/media%2FHLE7DesakAA6AOg.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: What Iran Gains ?\n\nSanctions Relief: The US commits to a schedule for terminating unilateral, UN Security Council, and IAEA sanctions, including issuing waivers to resume Iranian crude oil exports and associated banking services.\n\nAccess to Frozen Assets: Restricted Iranian funds will be released for use by Iran's central bank upon implementation.\n\n$300 Billion Reconstruction Plan: The US and regional partners plan to develop a minimum $300 billion economic development package for Iran, to be finalized within 60 days.\n\nRemoval of Naval Blockade: The US will lift its naval blockade within 30 days, restoring pre-war shipping traffic, and withdraw military forces from Iran's proximity within 30 days of a final deal.\n\n2/4",
+      "link": "https://nitter.net/NetramDefence/status/2067498777578233967#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-18T12:14:55+05:30",
+      "time": "18 Jun, 12:14 PM",
+      "type": "tweets",
+      "content": "<p>What Iran Gains ?<br />\n<br />\nSanctions Relief: The US commits to a schedule for terminating unilateral, UN Security Council, and IAEA sanctions, including issuing waivers to resume Iranian crude oil exports and associated banking services.<br />\n<br />\nAccess to Frozen Assets: Restricted Iranian funds will be released for use by Iran's central bank upon implementation.<br />\n<br />\n$300 Billion Reconstruction Plan: The US and regional partners plan to develop a minimum $300 billion economic development package for Iran, to be finalized within 60 days.<br />\n<br />\nRemoval of Naval Blockade: The US will lift its naval blockade within 30 days, restoring pre-war shipping traffic, and withdraw military forces from Iran's proximity within 30 days of a final deal.<br />\n<br />\n2/4</p>\n<img src=\"https://nitter.net/pic/media%2FHLE6tbJaMAAbsTu.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "THREAD \ud83e\uddf5 \nSummary of the US-Iran Peace MoU\n\nThe preliminary 14-point memorandum of understanding (MoU) signed virtually by US President Donald Trump and Iranian President Masoud Pezeshkian establishes a temporary framework to halt military hostilities and outline terms for a final agreement within 60 days.\n\nThe primary concessions and strategic gains for both nations include:\n\n1/4",
+      "link": "https://nitter.net/NetramDefence/status/2067498774319018039#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-18T12:14:54+05:30",
+      "time": "18 Jun, 12:14 PM",
+      "type": "tweets",
+      "content": "<p>THREAD \ud83e\uddf5 <br />\nSummary of the US-Iran Peace MoU<br />\n<br />\nThe preliminary 14-point memorandum of understanding (MoU) signed virtually by US President Donald Trump and Iranian President Masoud Pezeshkian establishes a temporary framework to halt military hostilities and outline terms for a final agreement within 60 days.<br />\n<br />\nThe primary concessions and strategic gains for both nations include:<br />\n<br />\n1/4</p>\n<img src=\"https://nitter.net/pic/media%2FHLE6ViTagAA9h0n.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "India is considering a proposal to require refiners to maintain significantly larger crude oil inventories, taking cues from China\u2019s stockpiling model.\n\nThe move comes after disruptions in the Strait of Hormuz exposed vulnerabilities in India's energy supply chain.\n\nCurrent strategic reserves: ~21 million barrels\nChina: ~1.4 billion barrels\n\nIf implemented, refiners may be asked to hold enough crude to cover up to 30 days of national consumption, potentially requiring investments worth tens of thousands of crores in oil purchases and storage infrastructure.",
       "link": "https://nitter.net/NetramDefence/status/2067468948766097817#m",
@@ -1845,49 +1876,10 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8Telegram will be blocked in India till Re-NEET exam concludes i.e 22 June 2026<br />\n<br />\nAlso editing message feature to be disabled till 30 june.</p>\n<img src=\"https://nitter.net/pic/media%2FHK6rZO0bMAAeWwI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK6rZRJakAAhX1a.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "INDIA PUSHES BACK ON UNSC REFORM DRAFT\n\nIndia has sharply criticized the latest UN Security Council reform document, calling it \"subjective\" and inaccurate in reflecting member states' positions.\n\nIndia's UN envoy Harish Parvathaneni demanded a shift to formal text-based negotiations with clear timelines, arguing that a majority of UN members support expanding permanent membership.\n\nNew Delhi also rejected proposals it says would dilute genuine permanent representation and further delay long-pending UNSC reforms.",
-      "link": "https://nitter.net/NetramDefence/status/2066770756135215107#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-16T12:02:01+05:30",
-      "time": "16 Jun, 12:02 PM",
-      "type": "tweets",
-      "content": "<p>INDIA PUSHES BACK ON UNSC REFORM DRAFT<br />\n<br />\nIndia has sharply criticized the latest UN Security Council reform document, calling it \"subjective\" and inaccurate in reflecting member states' positions.<br />\n<br />\nIndia's UN envoy Harish Parvathaneni demanded a shift to formal text-based negotiations with clear timelines, arguing that a majority of UN members support expanding permanent membership.<br />\n<br />\nNew Delhi also rejected proposals it says would dilute genuine permanent representation and further delay long-pending UNSC reforms.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2066770756135215107#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2066770412521115648%2Fimg%2FaolmG0OGoJozUcoW.jpg\" />\n</a>",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "India Blocks Telegram Till June 22 Ahead Of NEET Re-Examination, NTA Says 'Inconvenience Regretted'\n\nThe govt has also directed Telegram to disable its message-editing feature in India until June 30.\n\nMedia Report",
-      "link": "https://nitter.net/OsintTV/status/2066762717990408315#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-16T11:30:05+05:30",
-      "time": "16 Jun, 11:30 AM",
-      "type": "tweets",
-      "content": "<p>India Blocks Telegram Till June 22 Ahead Of NEET Re-Examination, NTA Says 'Inconvenience Regretted'<br />\n<br />\nThe govt has also directed Telegram to disable its message-editing feature in India until June 30.<br />\n<br />\nMedia Report</p>\n<img src=\"https://nitter.net/pic/media%2FHK6duW7XMAAdIWI.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK6duW9XAAAflOd.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK6duW-WMAAdJpc.png\" />",
-      "author": "@OsintTV"
     }
   ],
-  "youtube": [
-    {
-      "title": "US Ne INDIA Ko Ignore Karna Shuru Kar Diya?,Tejas Mk2 Stealth NE Rafale Ko Challenge Kar Diya?",
-      "link": "https://www.youtube.com/watch?v=tnTy-WV2HyY",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-17T22:30:04+05:30",
-      "time": "17 Jun, 10:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/tnTy-WV2HyY/mqdefault.jpg"
-    },
-    {
-      "title": "Suryastra Test Fail?,India\u2019s New Tank Shocked Everyone,Jaguar Deal Confirmed?,Avenger AVG-30HD",
-      "link": "https://www.youtube.com/watch?v=lm-OVLcFlDk",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-16T22:30:24+05:30",
-      "time": "16 Jun, 10:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/lm-OVLcFlDk/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
