@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Security agency owner, driver abducted at knifepoint in Bengaluru, robbed of Rs 1.09 crore",
+      "link": "https://www.newindianexpress.com/cities/bengaluru/2026/Jun/18/security-agency-owner-driver-abducted-at-knifepoint-in-bengaluru-robbed-of-rs-109-crore",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-18T08:38:26+05:30",
+      "time": "18 Jun, 08:38 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Iran deal calls for diluting uranium at minimum, waiving sanctions &amp; opening strait, US officials say",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-deal-calls-for-diluting-uranium-at-minimum-waiving-sanctions-opening-strait-us-officials-say/articleshow/131815607.cms",
       "source": "Economic Times",
@@ -953,27 +962,19 @@
       "time": "16 Jun, 11:18 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "DRDO conducts successful flight-test of India&#039;s &#039;Tomahawk&#039; cruise missile",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/drdo-conducts-successful-flight-test-of-long-range-land-attack-cruise-missile/131758192",
-      "source": "Economic Times",
-      "sort_key": "2026-06-16T08:37:03+05:30",
-      "time": "16 Jun, 08:37 AM",
-      "type": "news",
-      "description": "The Long Range Land Attack Cruise Missile has been developed indigenously, with its subsystems designed by various DRDO laboratories and Indian indust..."
-    },
-    {
-      "title": "Lt Gen Dhiraj Seth will be the 7th COAS from Armoured Corps. Who are the others",
-      "link": "https://theprint.in/defence/lt-gen-dhiraj-seth-will-be-the-7th-coas-from-armoured-corps-who-are-the-others/2960697/",
-      "source": "The Print",
-      "sort_key": "2026-06-16T08:30:55+05:30",
-      "time": "16 Jun, 08:30 AM",
-      "type": "news",
-      "description": "Of the 30 COAS till now, there have been six from the Armoured Corps, five from the Corps of Artillery and one from the Engineers. The rest have all c..."
     }
   ],
   "tweets": [
+    {
+      "title": "BREAKING: The U.S. and Iran have signed a memorandum of understanding aimed at ending the West Asia war.\n\nUnder the deal, Iran will dilute its enriched uranium stockpiles under international supervision, while the U.S. will provide sanctions relief and support a reconstruction framework.\n\nA two-month negotiation period now begins, with the reopening of the Strait of Hormuz expected as an early confidence-building measure.",
+      "link": "https://nitter.net/NetramDefence/status/2067444364503384508#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-18T08:38:42+05:30",
+      "time": "18 Jun, 08:38 AM",
+      "type": "tweets",
+      "content": "<p>BREAKING: The U.S. and Iran have signed a memorandum of understanding aimed at ending the West Asia war.<br />\n<br />\nUnder the deal, Iran will dilute its enriched uranium stockpiles under international supervision, while the U.S. will provide sanctions relief and support a reconstruction framework.<br />\n<br />\nA two-month negotiation period now begins, with the reopening of the Strait of Hormuz expected as an early confidence-building measure.</p>\n<img src=\"https://nitter.net/pic/media%2FHLEJrxEbwAE_a68.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "RT by @sidhant: Trump-Modi bonhomie steals G7 spotlight\n\nModi-Trump chemistry returns at G7 Summit\n\nTrump backs India-U.S. defence ties: From friction to friendship, the Trump-Modi equation explained\n\n@AadhyaJunejaa gets you more on the same with our correspondent @sidhant on the ground",
       "link": "https://nitter.net/WIONews/status/2067424134544732643#m",
@@ -1917,6 +1918,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
