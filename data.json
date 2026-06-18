@@ -1,7 +1,97 @@
 {
   "news": [
     {
-      "title": "Rajya Sabha Election Results LIVE: Voting ends, counting of votes to begin shortly for Jharkhand's two seats",
+      "title": "PM Modi meets Saint-Gobain Chairman and CEO Benoit Bazin in Paris",
+      "link": "https://newsonair.gov.in/pm-modi-meets-saint-gobain-chairman-and-ceo-benoit-bazin-in-paris/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T17:17:59+05:30",
+      "time": "18 Jun, 05:17 PM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi met Chairman and CEO of Saint Gobain, Benoit Bazin in Paris today. The discussions focused on opportunities in the materi..."
+    },
+    {
+      "title": "IIT Delhi remains India\u2019s highest-ranked institution in QS World University Rankings 2027",
+      "link": "https://newsonair.gov.in/iit-delhi-remains-indias-highest-ranked-institution-in-qs-world-university-rankings-2027/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T16:56:22+05:30",
+      "time": "18 Jun, 04:56 PM",
+      "type": "news",
+      "description": "Education Ministry today said that 52 Indian institutions have featured in the QS World University Rankings 2027. IIT Delhi remains India&#8217;s high..."
+    },
+    {
+      "title": "SMPP Partners with KNDS to Manufacture Advanced Loitering Munitions in India",
+      "link": "https://www.indiastrategic.in/smpp-partners-with-knds-to-manufacture-advanced-loitering-munitions-in-india/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-18T16:54:35+05:30",
+      "time": "18 Jun, 04:54 PM",
+      "type": "news",
+      "description": "<p>New Delhi / Eurosatory, Paris, France, June 18, 2026. SMPP, one of India\u2019s leading defence and aerospace companies, has entered into a teaming agre..."
+    },
+    {
+      "title": "PM Modi meets Mistral AI CEO Arthur Mensch in Paris",
+      "link": "https://newsonair.gov.in/pm-modi-meets-mistral-ai-ceo-arthur-mensch-in-paris/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T16:54:19+05:30",
+      "time": "18 Jun, 04:54 PM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi today met co-founder and CEO of Mistral AI, Arthur Mensch in Paris. In a social media post, the Prime Minister highlighte..."
+    },
+    {
+      "title": "PM Modi meets Alstom CEO Martin Sion in Paris",
+      "link": "https://newsonair.gov.in/pm-modi-meets-alstom-ceo-martin-sion-in-paris/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T16:52:30+05:30",
+      "time": "18 Jun, 04:52 PM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi today met CEO of Alstom, Martin Sion in Paris, France. In a social media post, the Ministry of External Affairs said that..."
+    },
+    {
+      "title": "Maharashtra Police provide Y-Plus security to 6 rebel Sena (UBT) MPs",
+      "link": "https://www.tribuneindia.com/news/india/maharashtra-police-provide-y-plus-security-to-6-rebel-sena-ubt-mps",
+      "source": "The Tribune",
+      "sort_key": "2026-06-18T16:45:33+05:30",
+      "time": "18 Jun, 04:45 PM",
+      "type": "news",
+      "description": "The Maharashtra Police has accorded &#8216;Y-Plus&#8217; security cover to six &#8216;rebel&#8217; MPs of the Shiv Sena (UBT). A letter signed by Shir..."
+    },
+    {
+      "title": "Bihar madrasa teacher held in terror probe was 'tasked with arranging' passports for youths",
+      "link": "https://www.newindianexpress.com/states/bihar/2026/Jun/18/bihar-madrasa-teacher-held-in-terror-probe-was-tasked-with-arranging-passports-for-youths",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-18T16:44:20+05:30",
+      "time": "18 Jun, 04:44 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "SMPP, KNDS forge India partnership for next-generation loitering munitions",
+      "link": "https://economictimes.indiatimes.com/news/defence/smpp-knds-forge-india-partnership-for-next-generation-loitering-munitions/articleshow/131826841.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T16:30:43+05:30",
+      "time": "18 Jun, 04:30 PM",
+      "type": "news",
+      "description": "Indian defence firm SMPP and European giant KNDS have teamed up to manufacture advanced loitering munitions in India. This collaboration aims to boost..."
+    },
+    {
+      "title": "U.S. will restart military action, reimpose blockade if Iran does not fulfill commitments, Defence Secretary Pete Hegseth says",
+      "link": "https://economictimes.indiatimes.com/news/defence/u-s-will-restart-military-action-reimpose-blockade-if-iran-does-not-fulfill-commitments-defence-secretary-pete-hegseth-says/articleshow/131827117.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T16:12:33+05:30",
+      "time": "18 Jun, 04:12 PM",
+      "type": "news",
+      "description": "The United States is prepared to resume military action and reinstate a blockade against Iran. This action will be taken if Iran does not fulfill its ..."
+    },
+    {
+      "title": "First desi BrahMos warhead delivered by private facility in Nagpur",
+      "link": "https://economictimes.indiatimes.com/news/defence/first-desi-brahmos-warhead-delivered-by-private-facility-in-nagpur/articleshow/131826970.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T16:12:26+05:30",
+      "time": "18 Jun, 04:12 PM",
+      "type": "news",
+      "description": "India is set to deliver its first indigenous BrahMos missile warhead from Nagpur, a major stride in defence self-reliance. This development, a result ..."
+    },
+    {
+      "title": "Rajya Sabha Election Results LIVE: Counting of votes begins for Jharkhand's two seats; 3 candidates in fray",
       "link": "https://www.indiatvnews.com/news/india/rajya-sabha-election-results-in-jharkhand-live-updates-counting-of-votes-on-3-seats-parimal-nathwani-vs-baidyanath-ram-vs-pranav-jha-jmm-bjp-winner-2026-06-18-1045322",
       "source": "India TV",
       "sort_key": "2026-06-18T16:01:32+05:30",
@@ -118,15 +208,6 @@
       "description": "The United States-Iran memorandum of understanding that ended nearly four months of direct military conflict has the potential to reshape the strategi..."
     },
     {
-      "title": "MoU between United States & Iran comes into effect; Opens window for peace negotiations",
-      "link": "https://newsonair.gov.in/us-president-donald-trump-signs-14-point-peace-deal-with-iran-to-end-west-asia-conflict/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-18T13:26:01+05:30",
-      "time": "18 Jun, 01:26 PM",
-      "type": "news",
-      "description": "A landmark memorandum of understanding between the United States and Iran has come into effect, bringing an immediate halt to nearly four months of di..."
-    },
-    {
       "title": "Hegseth urges Europe to lead continent's defence, calls for 'NATO 3.0'",
       "link": "https://economictimes.indiatimes.com/news/defence/hegseth-urges-europe-to-lead-continents-defence-calls-for-nato-3-0/articleshow/131822307.cms",
       "source": "Economic Times",
@@ -170,15 +251,6 @@
       "time": "18 Jun, 12:46 PM",
       "type": "news",
       "description": "US-Iran Peace MoU: The US and Iran have signed a preliminary 14-point memorandum of understanding, outlining plans for sanctions relief, economic coop..."
-    },
-    {
-      "title": "South Korea to apply zero tariffs on LNG, LPG to tackle inflation",
-      "link": "https://newsonair.gov.in/south-korea-to-apply-zero-tariffs-on-lng-lpg-to-tackle-inflation/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-18T11:54:12+05:30",
-      "time": "18 Jun, 11:54 AM",
-      "type": "news",
-      "description": "South Korea has announced plans to remove tariffs on liquefied natural gas (LNG) and liquefied petroleum gas (LPG) imports in the second half of this ..."
     },
     {
       "title": "AISATS Launches Cargo Operations at India\u2019s First Integrated Multi Modal Cargo Hub",
@@ -280,15 +352,6 @@
       "description": "<p>By R Anil Kumar Prime Minister Narendra Modi and US President Donald Trump held a highly anticipated bilateral meeting on June 17, 2026 on the side..."
     },
     {
-      "title": "UN food agencies warn acute hunger will worsen in 13 hot spots as famine risks rise",
-      "link": "https://newsonair.gov.in/un-food-agencies-warn-acute-hunger-will-worsen-in-13-hot-spots-as-famine-risks-rise/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-18T09:55:35+05:30",
-      "time": "18 Jun, 09:55 AM",
-      "type": "news",
-      "description": "United Nations&#8217; food agencies have warned that acute hunger is expected to worsen across 13 global hotspots in the coming months due to conflict..."
-    },
-    {
       "title": "Iran deal calls for diluting uranium at minimum, waiving sanctions &amp; opening strait, US officials say",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-deal-calls-for-diluting-uranium-at-minimum-waiving-sanctions-opening-strait-us-officials-say/articleshow/131815607.cms",
       "source": "Economic Times",
@@ -343,15 +406,6 @@
       "description": "The U.S. and Iran have released an interim agreement to end their war, with President Trump threatening renewed attacks if commitments are not met. Th..."
     },
     {
-      "title": "India-UK trade deal to come into effect from July 15",
-      "link": "https://www.tribuneindia.com/news/top-headlines/india-uk-trade-deal-to-come-into-effect-from-july-15",
-      "source": "The Tribune",
-      "sort_key": "2026-06-18T01:45:40+05:30",
-      "time": "18 Jun, 01:45 AM",
-      "type": "news",
-      "description": "India and the UK on Wednesday announced that the Comprehensive Economic and Trade Agreement (CETA) would come into force on July 15, ushering in a new..."
-    },
-    {
       "title": "US drops \u2018Indo\u2019 from Pacific Command; Quad cooperation unaffected",
       "link": "https://www.tribuneindia.com/news/india/us-drops-indo-from-pacific-command-quad-cooperation-unaffected",
       "source": "The Tribune",
@@ -397,15 +451,6 @@
       "description": "A military name change signals a broader strategic and diplomatic shift."
     },
     {
-      "title": "Taiwanese President Lai Ching-te welcomes G7 leaders statement",
-      "link": "https://newsonair.gov.in/taiwanese-president-lai-ching-te-welcomes-g7-leaders-statement/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-17T22:31:09+05:30",
-      "time": "17 Jun, 10:31 PM",
-      "type": "news",
-      "description": "Taiwanese President Lai Ching-te today welcomed G7 leaders statement reaffirming their opposition to any unilateral attempts to change the status quo ..."
-    },
-    {
       "title": "How India is Re-Engineering a WWII Japanese Tactic with \u2018Agniveg\u2019 to Face the New Era of Iranian-Style Drone Warfare",
       "link": "https://www.republicworld.com/defence/how-india-is-re-engineering-a-wwii-japanese-tactic-with-agniveg-to-face-the-new-era-of-iranian-style-drone-warfare-2026-06-17-128803",
       "source": "Republic World",
@@ -431,15 +476,6 @@
       "time": "17 Jun, 09:12 PM",
       "type": "news",
       "description": "\u201cThe USTR is an example of how effective conservation measures can do wonders to a wildlife sanctuary\u201d: Varun Kumar Jain, deputy director of the USTR"
-    },
-    {
-      "title": "Solestra Group and Jeh Aerospace Sign Multi-Year Agreement, Inaugurate Dedicated Global Manufacturing Center in India",
-      "link": "https://www.indiastrategic.in/solestra-group-and-jeh-aerospace-sign-multi-year-agreement-inaugurate-dedicated-global-manufacturing-center-in-india/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-17T20:40:03+05:30",
-      "time": "17 Jun, 08:40 PM",
-      "type": "news",
-      "description": "<p>Built on a manufacturing model Jeh pioneered in India, the Global Manufacturing Center runs as a true extension of Solestra\u2019s own shops \u2014 expanding..."
     },
     {
       "title": "Trump backs India-US defence ties; says \u2018if they\u2019re attacked, we\u2019ll help them\u2019",
@@ -881,36 +917,99 @@
       "time": "16 Jun, 05:51 PM",
       "type": "news",
       "description": "The partnership will deploy a Drone-as-a-Service model, combining Garuda\u2019s technology with Extensee\u2019s expertise for global civil, industrial, commerci..."
-    },
-    {
-      "title": "8 feared dead after US Air Force B-52 bomber crashes shortly after takeoff from California base",
-      "link": "https://defencemonitor.in/8-feared-dead-after-us-air-force-b-52-bomber-crashes-shortly-after-takeoff-from-california-base/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-16T17:15:07+05:30",
-      "time": "16 Jun, 05:15 PM",
-      "type": "news",
-      "description": "<p>Los Angeles, June 16 (IANS) A US Air Force B-52 Stratofortress crashed shortly after takeoff from Edwards Air Force Base in California&#8217;s Moja..."
-    },
-    {
-      "title": "Baloch armed groups claim responsibility for attacks targeting Pakistani forces, energy infrastructure",
-      "link": "https://defencemonitor.in/baloch-armed-groups-claim-responsibility-for-attacks-targeting-pakistani-forces-energy-infrastructure/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-16T17:14:02+05:30",
-      "time": "16 Jun, 05:14 PM",
-      "type": "news",
-      "description": "<p>Quetta, June 16 (IANS) Two Baloch armed groups have claimed responsibility for several attacks targeting Pakistani forces, police posts and energy ..."
-    },
-    {
-      "title": "IAF to develop indigenous Kamikaze one-way attack drones",
-      "link": "https://defencemonitor.in/iaf-to-develop-indigenous-kamikaze-one-way-attack-drones/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-16T17:07:38+05:30",
-      "time": "16 Jun, 05:07 PM",
-      "type": "news",
-      "description": "<p>New Delhi, June 16 (IANS) The Indian Air Force (IAF) has launched a project to develop indigenous long-range Kamikaze drones with Indian industry, ..."
     }
   ],
   "tweets": [
+    {
+      "title": "1st indigenously constructed Air Cushion Vehicle (ACV), H-561, was inducted into service on 18 June 2026 at Chowgule & Company Private Limited, Goa.",
+      "link": "https://nitter.net/DefenceDecode/status/2067575639117647955#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-06-18T17:20:20+05:30",
+      "time": "18 Jun, 05:20 PM",
+      "type": "tweets",
+      "content": "<p>1st indigenously constructed Air Cushion Vehicle (ACV), H-561, was inducted into service on 18 June 2026 at Chowgule &amp; Company Private Limited, Goa.</p>\n<a href=\"https://nitter.net/DefenceDecode/status/2067575639117647955#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067575523673595904%2Fimg%2FfwaXdpuO71JkYGCB.jpg\" />\n</a>",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "R to @sidhant: Signed at the historic Palace of Versailles. History repeats, 1919, 2026.",
+      "link": "https://nitter.net/sidhant/status/2067570392584069529#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T16:59:29+05:30",
+      "time": "18 Jun, 04:59 PM",
+      "type": "tweets",
+      "content": "<p>Signed at the historic Palace of Versailles. History repeats, 1919, 2026.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "PM Modi meets business leaders in Paris",
+      "link": "https://nitter.net/sidhant/status/2067568953350602919#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T16:53:46+05:30",
+      "time": "18 Jun, 04:53 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi meets business leaders in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLF6_-KXYAAkOpH.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF6__mW0AAyYGH.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF7AC2WcAAj6XD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF7ACDWwAATcKn.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iran US peace deal: Impact for India\n\nEnergy: India could buy Iran Oil with sanctions removed\n\nInfra: Post War reconstruction process\n\nConnectivity: Chabahar re-engagement\n\nShipping: Hormuz situation eases",
+      "link": "https://nitter.net/sidhant/status/2067567766849065199#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T16:49:03+05:30",
+      "time": "18 Jun, 04:49 PM",
+      "type": "tweets",
+      "content": "<p>Iran US peace deal: Impact for India<br />\n<br />\nEnergy: India could buy Iran Oil with sanctions removed<br />\n<br />\nInfra: Post War reconstruction process<br />\n<br />\nConnectivity: Chabahar re-engagement<br />\n<br />\nShipping: Hormuz situation eases</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Iranian side releases the Iran, US MoU. Sanctions on Iran oil to be removed.</p>\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs9WkAAZGTz.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs2WUAADGSD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1FwLXwAA78eT.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067562457959104841#m\">https://nitter.net/sidhant/status/2067562457959104841#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The Iran, US MoU is a net advantage for India, with sanctions removal on Iranian energy. A possible role in post war reconstruction efforts, Chabahar port could see re-engagement.\n\nSectors that will see high growth potential: Energy, Infra, Shipping, Connectivity.",
+      "link": "https://nitter.net/sidhant/status/2067565303421112701#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T16:39:16+05:30",
+      "time": "18 Jun, 04:39 PM",
+      "type": "tweets",
+      "content": "<p>The Iran, US MoU is a net advantage for India, with sanctions removal on Iranian energy. A possible role in post war reconstruction efforts, Chabahar port could see re-engagement.<br />\n<br />\nSectors that will see high growth potential: Energy, Infra, Shipping, Connectivity.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Iranian side releases the Iran, US MoU. Sanctions on Iran oil to be removed.</p>\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs9WkAAZGTz.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs2WUAADGSD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1FwLXwAA78eT.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067562457959104841#m\">https://nitter.net/sidhant/status/2067562457959104841#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "INDIA\u2013VIETNAM BRAHMOS DEAL NEARS COMPLETION\n\nThe proposed export of the BrahMos supersonic cruise missile to Vietnam is in its final stages, with only a few clearances remaining, according to BrahMos Aerospace CEO Jaiteerth Joshi.\n\nKey developments:\n\ud83d\udd39 Negotiations nearing conclusion\n\ud83d\udd39 100th indigenous BrahMos booster delivered\n\ud83d\udd39 Indigenous warheads also under development\n\ud83d\udd39 Work underway on BrahMos-NG and extended-range variants\n\nIf finalized, Vietnam would become one of the largest overseas operators of India's flagship missile system.",
+      "link": "https://nitter.net/NetramDefence/status/2067564610090410289#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-18T16:36:31+05:30",
+      "time": "18 Jun, 04:36 PM",
+      "type": "tweets",
+      "content": "<p>INDIA\u2013VIETNAM BRAHMOS DEAL NEARS COMPLETION<br />\n<br />\nThe proposed export of the BrahMos supersonic cruise missile to Vietnam is in its final stages, with only a few clearances remaining, according to BrahMos Aerospace CEO Jaiteerth Joshi.<br />\n<br />\nKey developments:<br />\n\ud83d\udd39 Negotiations nearing conclusion<br />\n\ud83d\udd39 100th indigenous BrahMos booster delivered<br />\n\ud83d\udd39 Indigenous warheads also under development<br />\n\ud83d\udd39 Work underway on BrahMos-NG and extended-range variants<br />\n<br />\nIf finalized, Vietnam would become one of the largest overseas operators of India's flagship missile system.</p>\n<img src=\"https://nitter.net/pic/media%2FHLF3CLwbMAAEX2W.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Chinese Foreign Minister Wang Yi will visit India on June 22\u201323 at the invitation of NSA Ajit Doval to attend the 16th BRICS National Security Advisors and High Representatives Meeting.\n\nThe visit comes amid a gradual improvement in India-China relations following recent high-level engagements between PM Narendra Modi and President Xi Jinping, as both sides seek to maintain dialogue on border stability, regional security, and broader bilateral ties.",
+      "link": "https://nitter.net/NetramDefence/status/2067563555642327096#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-18T16:32:19+05:30",
+      "time": "18 Jun, 04:32 PM",
+      "type": "tweets",
+      "content": "<p>Chinese Foreign Minister Wang Yi will visit India on June 22\u201323 at the invitation of NSA Ajit Doval to attend the 16th BRICS National Security Advisors and High Representatives Meeting.<br />\n<br />\nThe visit comes amid a gradual improvement in India-China relations following recent high-level engagements between PM Narendra Modi and President Xi Jinping, as both sides seek to maintain dialogue on border stability, regional security, and broader bilateral ties.</p>\n<img src=\"https://nitter.net/pic/media%2FHLF2BAxaUAEpGji.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Iranian side releases the Iran, US MoU. Sanctions on Iran oil to be removed.",
+      "link": "https://nitter.net/sidhant/status/2067562457959104841#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T16:27:58+05:30",
+      "time": "18 Jun, 04:27 PM",
+      "type": "tweets",
+      "content": "<p>Iranian side releases the Iran, US MoU. Sanctions on Iran oil to be removed.</p>\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs9WkAAZGTz.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs2WUAADGSD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1FwLXwAA78eT.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: Business Ties building on the foundation of Millennia Long Exchanges \ud83d\ude85\ud83c\udf05\ud83d\ude80\ud83e\udeb7  \n\nConsul General was honoured to be invited to represent Consular Corps in Shanghai for the Invest Forum in Jing\u2019An District: JING\u2019AN district is home to the famous JING\u2019An Monastery, home to the age old Buddhist civilizational links between India and Shanghai, the fast growing Chinese metropolis. Consul General paid his best wishes to Deputy Mayor HE Mr. Hu Yong and Director of Shanghai Investment promotion leadership office Mr. Tang Wen Kan.\n\n\u27a1\ufe0f In his conversations with global entrepreneurs and MNCs present, Consul General highlighted the fast growing business opportunities in #MakeinIndia and #InvestinIndia with #IncredibleIndia firmly embedded at the center of Global Supply Chains.\n\n\u27a1\ufe0f As a testament to fast growing positive momentum, Consul General was also happy to welcome growth opportunities in #PharmaSector with Chinese MNC Fosun and wish their GM Mr. Zhou Yong all the best for his forthcoming visit to #Hyderabad.  \n\nAs India leads the #BRICS2026 agenda, such engagements reinforce our commitment to resilient supply chains and shared prosperity across the #GlobalSouth. \ud83d\udcc8\ud83c\udf10\n\nCG @PratikMathur1 \n@indiandiplomacy @indiandiplomats",
+      "link": "https://nitter.net/IndiaInShanghai/status/2067560226166014210#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T16:19:05+05:30",
+      "time": "18 Jun, 04:19 PM",
+      "type": "tweets",
+      "content": "<p>Business Ties building on the foundation of Millennia Long Exchanges \ud83d\ude85\ud83c\udf05\ud83d\ude80\ud83e\udeb7  <br />\n<br />\nConsul General was honoured to be invited to represent Consular Corps in Shanghai for the Invest Forum in Jing\u2019An District: JING\u2019AN district is home to the famous JING\u2019An Monastery, home to the age old Buddhist civilizational links between India and Shanghai, the fast growing Chinese metropolis. Consul General paid his best wishes to Deputy Mayor HE Mr. Hu Yong and Director of Shanghai Investment promotion leadership office Mr. Tang Wen Kan.<br />\n<br />\n\u27a1\ufe0f In his conversations with global entrepreneurs and MNCs present, Consul General highlighted the fast growing business opportunities in <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MakeinIndia\">#MakeinIndia</a> and <a href=\"https://nitter.net/search?f=tweets&amp;q=%23InvestinIndia\">#InvestinIndia</a> with <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IncredibleIndia\">#IncredibleIndia</a> firmly embedded at the center of Global Supply Chains.<br />\n<br />\n\u27a1\ufe0f As a testament to fast growing positive momentum, Consul General was also happy to welcome growth opportunities in <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PharmaSector\">#PharmaSector</a> with Chinese MNC Fosun and wish their GM Mr. Zhou Yong all the best for his forthcoming visit to <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Hyderabad\">#Hyderabad</a>.  <br />\n<br />\nAs India leads the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BRICS2026\">#BRICS2026</a> agenda, such engagements reinforce our commitment to resilient supply chains and shared prosperity across the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GlobalSouth\">#GlobalSouth</a>. \ud83d\udcc8\ud83c\udf10<br />\n<br />\nCG <a href=\"https://nitter.net/PratikMathur1\" title=\"Pratik Mathur\">@PratikMathur1</a> <br />\n<a href=\"https://nitter.net/indiandiplomacy\" title=\"Indian Diplomacy\">@indiandiplomacy</a> <a href=\"https://nitter.net/indiandiplomats\" title=\"Indian Foreign Service Association\">@indiandiplomats</a></p>\n<a href=\"https://nitter.net/IndiaInShanghai/status/2067560226166014210#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067560111795773440%2Fpu%2Fimg%2F2WojV4AIoQYkmMe6.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHLFy-WQbAAAyEfN.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLFy-ULb0AAVGjS.jpg\" />",
+      "author": "@IndiaInShanghai"
+    },
     {
       "title": "This is embarrassing for Russia, and precisely why I keep saying: study it carefully.\n\nIf a relatively low-cost approach can impose such challenges on a major military power, India should be analysing the concept, developing countermeasures, and examining whether a similar doctrine could contribute to deterrence against China.\n\nThe lesson is not just about the platform used, but the modus operandi behind it.",
       "link": "https://nitter.net/alpha_defense/status/2067557598300426254#m",
@@ -1242,26 +1341,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "PM Modi's interventions at G7",
-      "link": "https://nitter.net/sidhant/status/2067350690876268755#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T02:26:28+05:30",
-      "time": "18 Jun, 02:26 AM",
-      "type": "tweets",
-      "content": "<p>PM Modi's interventions at G7</p>\n<img src=\"https://nitter.net/pic/media%2FHLC0e9wW4AAs4dY.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLC0e_LWQAATAYU.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India readout of PM,  US President Donald Trump talks:",
-      "link": "https://nitter.net/sidhant/status/2067350373858255070#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T02:25:13+05:30",
-      "time": "18 Jun, 02:25 AM",
-      "type": "tweets",
-      "content": "<p>India readout of PM,  US President Donald Trump talks:</p>\n<img src=\"https://nitter.net/pic/media%2FHLC0NKuWUAAwza3.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "We don't need anyone to protect us\ud83c\uddee\ud83c\uddf3!\nIndian Armed Forces can and will protect the motherland from every enemy..!",
       "link": "https://nitter.net/Goreunit/status/2067340311282778411#m",
       "source": "War & Gore",
@@ -1280,16 +1359,6 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief:<br />\n17th Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n <br />\n\u25cf The IDF eliminated Muhammad Sa\u2019id Ahmad Nimrouti, a Hamas platoon commander.<br />\n<br />\n\u25cf Iran fired several drones toward commercial ships in the Strait of Hormuz shortly after the US-Iran MoU signing.<br />\n<br />\n\u25cf Vice President JD Vance said that Qatari and Pakistani negotiators requested delaying the release of the full text of the US-Iran agreement for a short period.<br />\n<br />\n\u25cf Three merchant vessels \u2014 KAIA, THALASSINI, and CICCIO \u2014 are currently crossing the Strait of Hormuz via IRGC-approved routes. The US-sanctioned oil tanker ASTRID 1 is also departing the Persian Gulf.<br />\n<br />\n\u25cf VP Vance stated that the full text of the US-Iran deal will be released by Friday at the latest, with the White House pushing for an earlier release.<br />\n<br />\n\u25cf The UAE is reportedly developing a long-term plan to reduce its dependence on the Strait of Hormuz for energy exports.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHLCqjgHaMAANpY8.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n16th Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n <br />\n\u25cf The signing of the MoU between the US and Iran is scheduled for Friday, 19 June, at the B\u00fcrgenstock resort in central Switzerland.<br />\n<br />\n\u25cf The maritime blockade has begun to be lifted operationally. Iranian officials reported that three oil tankers and two vessels carrying essential goods have successfully crossed through previously restricted waters in the Strait of Hormuz.<br />\n<br />\n\u25cf Qatar announced plans to rapidly increase LNG production once the Strait of Hormuz fully reopens, aiming to restore most of its export capacity within two months.<br />\n<br />\n\u25cf President Trump said the Iran deal \u201cwas done\u201d and would now move into a second stage.<br />\n<br />\n\u25cf Israel requested access to the full text of the US-Iran MoU but was denied.<br />\n<br />\n\u25cf Iranian Parliament Speaker Mohammad Bagher Ghalibaf told his Lebanese counterpart Nabih Berri that Israel must withdraw from all occupied areas in Lebanon.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHK9Lm3dagAADvDP.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2066953952458166393#m\">https://nitter.net/NetramDefence/status/2066953952458166393#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "PM Modi will be in Paris on Thursday, and attend Viva tech, address diaspora",
-      "link": "https://nitter.net/sidhant/status/2067325381200212433#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T00:45:54+05:30",
-      "time": "18 Jun, 12:45 AM",
-      "type": "tweets",
-      "content": "<p>PM Modi will be in Paris on Thursday, and attend Viva tech, address diaspora</p>",
-      "author": "@sidhant"
     },
     {
       "title": "\ud83c\uddfa\ud83c\udde6 A Ukrainian Air Force Su-24M (White 04) of the 7th Tactical Aviation Brigade crashed in Khmelnytskyi Oblast during an operational mission, killing both crew members.",
@@ -1322,16 +1391,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "PM Modi, President Zelenskyy meet at G7 summit",
-      "link": "https://nitter.net/sidhant/status/2067302151097835897#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-17T23:13:36+05:30",
-      "time": "17 Jun, 11:13 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi, President Zelenskyy meet at G7 summit</p>\n<img src=\"https://nitter.net/pic/media%2FHLCIUQlWsAAG_W4.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Just in: PM Modi, Ukraine President Zelensky hold bilateral meeting on the sidelines of G7 summit</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067258525101724063#m\">https://nitter.net/sidhant/status/2067258525101724063#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "The Power Development Department (PDD) of Jammu and Kashmir has terminated the services of a senior employee, Mohd Shafi Malik, for his involvement in terror-related activities.",
       "link": "https://nitter.net/Goreunit/status/2067299697673597098#m",
       "source": "War & Gore",
@@ -1342,16 +1401,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "PM Modi, Ukraine President Zelenskyy hold bilateral on the sidelines of G7 \u00c9vian Summit",
-      "link": "https://nitter.net/sidhant/status/2067294531729477699#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-17T22:43:19+05:30",
-      "time": "17 Jun, 10:43 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi, Ukraine President Zelenskyy hold bilateral on the sidelines of G7 \u00c9vian Summit</p>\n<a href=\"https://nitter.net/sidhant/status/2067294531729477699#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067288889765564416%2Fimg%2FbMbUwxkw_EDo0a4z.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "\"Yesterday Modi congratulated Trump, but  doesn't have the heart to even mention Pakistan in that.\": Khawaja Asif\n\nDear Khawaja Asif world had already figured out Pakistan's role when Shehbaz Sharif ended up tweeting \"Draft - Pakistan's PM Message on X.\"",
       "link": "https://nitter.net/OsintTV/status/2067291039937732622#m",
       "source": "Osint TV",
@@ -1360,16 +1409,6 @@
       "type": "tweets",
       "content": "<p>\"Yesterday Modi congratulated Trump, but  doesn't have the heart to even mention Pakistan in that.\": Khawaja Asif<br />\n<br />\nDear Khawaja Asif world had already figured out Pakistan's role when Shehbaz Sharif ended up tweeting \"Draft - Pakistan's PM Message on X.\"</p>\n<a href=\"https://nitter.net/OsintTV/status/2067291039937732622#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067290749633245184%2Fimg%2FBtSZqlAg6Ofn2qe7.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @sidhant: #WIONFineprint | Responding to the question from WION's @sidhant, Trump has recalled his India visit, saying, \"We had a great visit... I don't know if those records have been broken, but I had a great time in India.\"\n\n@eriknjoka tells you more on this",
-      "link": "https://nitter.net/WIONews/status/2067284124768043354#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-17T22:01:58+05:30",
-      "time": "17 Jun, 10:01 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONFineprint\">#WIONFineprint</a> | Responding to the question from WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, Trump has recalled his India visit, saying, \"We had a great visit... I don't know if those records have been broken, but I had a great time in India.\"<br />\n<br />\n<a href=\"https://nitter.net/eriknjoka\" title=\"Eric Njoka \ud83c\uddf0\ud83c\uddea\">@eriknjoka</a> tells you more on this</p>\n<a href=\"https://nitter.net/WIONews/status/2067284124768043354#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067277219266023426%2Fimg%2FNcuwUKZXiIguFglV.jpg\" />\n</a>",
-      "author": "@WIONews"
     },
     {
       "title": "According to Pak Defence Minister Khawaja Asif, 4,317 jawans have been killed in the war against terrorism from 2022 to the present.",
@@ -1790,26 +1829,6 @@
       "type": "tweets",
       "content": "<p>The <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SeaKing\">#SeaKing</a> Mk 42B fleet of INAS 330 \"Harpoons\" has officially retired.<br />\nWhile the Mk 42B variant exits service, Sea King Mk 42C helicopters operated by INAS 350 \"Saaras\" will continue supporting search-and-rescue and special operations missions.</p>\n<img src=\"https://nitter.net/pic/media%2FHK7qINca8AACCmh.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "BREAKING: Four soldiers injured in accidental landmine blast in J&K's Rajouri\n\nThe blast was caused by accidental activation of a landmine during area domination patrol by Army personnel in forward Kalal area of Nowshera sector.",
-      "link": "https://nitter.net/NetramDefence/status/2066851045301743725#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-16T17:21:04+05:30",
-      "time": "16 Jun, 05:21 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Four soldiers injured in accidental landmine blast in J&amp;K's Rajouri<br />\n<br />\nThe blast was caused by accidental activation of a landmine during area domination patrol by Army personnel in forward Kalal area of Nowshera sector.</p>",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "One Junior Commissioned Officer and three jawans were injured in an accidental blast during patrolling near LoC in Nowshera area of Rajouri district on Tuesday. The injured personnel were immediately evacuated and shifted to a medical facility for treatment. \nFurther details awaited.",
-      "link": "https://nitter.net/Goreunit/status/2066841765286654151#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-16T16:44:11+05:30",
-      "time": "16 Jun, 04:44 PM",
-      "type": "tweets",
-      "content": "<p>One Junior Commissioned Officer and three jawans were injured in an accidental blast during patrolling near LoC in Nowshera area of Rajouri district on Tuesday. The injured personnel were immediately evacuated and shifted to a medical facility for treatment. <br />\nFurther details awaited.</p>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1875,18 +1894,9 @@
       "time": "16 Jun, 10:09 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/jvsOo9oElBY/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : LRLACM Test Success,AMCA Test Pilots,Suryastra MBRL Fails,KC-390 To India",
-      "link": "https://www.youtube.com/watch?v=CIoAjfqzh3U",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-06-16T16:45:34+05:30",
-      "time": "16 Jun, 04:45 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/CIoAjfqzh3U/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
