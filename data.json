@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "UAE bans social media for children under 15: What it means for 3.5 million Indians in the country",
+      "link": "https://indianexpress.com/article/world/uae-social-media-ban-children-under-15-rules-indian-expats-impact-10746217/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-18T19:13:13+05:30",
+      "time": "18 Jun, 07:13 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "ICG inducts indigenously constructed hovercraft, bolsters maritime capabilities",
+      "link": "https://economictimes.indiatimes.com/news/defence/icg-inducts-indigenously-constructed-hovercraft-bolsters-maritime-capabilities/articleshow/131831577.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T18:39:54+05:30",
+      "time": "18 Jun, 06:39 PM",
+      "type": "news",
+      "description": "India's Coast Guard has inducted its first indigenous hovercraft, H-561. This air cushion vehicle enhances maritime duties and response capabilities. ..."
+    },
+    {
+      "title": "Russia Keen to Induct BrahMos Missiles, Talks Underway to Boost Production: BrahMos Aerospace Chief",
+      "link": "https://www.republicworld.com/defence/russia-keen-to-induct-brahmos-missiles-talks-underway-to-boost-production-brahmos-chief-2026-06-18-128943",
+      "source": "Republic World",
+      "sort_key": "2026-06-18T18:39:14+05:30",
+      "time": "18 Jun, 06:39 PM",
+      "type": "news",
+      "description": "BrahMos Chief Jaiteerth Joshi reveals Russia is keen to induct the supersonic cruise missile, with plans to augment production through Indian industry..."
+    },
+    {
+      "title": "Ukraine strikes Moscow oil refinery for second time within a week",
+      "link": "https://newsonair.gov.in/ukraine-strikes-moscow-oil-refinery-for-second-time-within-a-week/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T18:30:52+05:30",
+      "time": "18 Jun, 06:30 PM",
+      "type": "news",
+      "description": "Ukraine struck a Moscow oil refinery overnight for the second time within a week, while additional targets were hit in Russia&#8217;s Rostov region. M..."
+    },
+    {
       "title": "Security Forces Intensify Search Operation in Manipur: DGP Lauded For Personally Supervising Ops",
       "link": "https://www.deccanchronicle.com/news/current-affairs/security-forces-intensify-search-operation-in-manipur-dgp-lauded-for-personally-supervising-ops-1964490",
       "source": "Deccan Chronicle",
@@ -199,15 +235,6 @@
       "description": ""
     },
     {
-      "title": "MSME Ministry to host First BRICS MSME Forum in Agra tomorrow",
-      "link": "https://newsonair.gov.in/msme-ministry-to-host-first-brics-msme-forum-in-agra-tomorrow/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-18T15:24:23+05:30",
-      "time": "18 Jun, 03:24 PM",
-      "type": "news",
-      "description": "The Ministry of Micro, Small and Medium Enterprises (MSME) will host the First BRICS MSME Forum and the Third SME Working Group Meeting in Agra tomorr..."
-    },
-    {
       "title": "Airbus and Armenia sign for six H145 helicopters",
       "link": "https://www.indiastrategic.in/airbus-and-armenia-sign-for-six-h145-helicopters/",
       "source": "India Strategic",
@@ -215,15 +242,6 @@
       "time": "18 Jun, 03:18 PM",
       "type": "news",
       "description": "<p>Donauw\u00f6rth, Germany, June 18, 2026. Airbus Helicopters and the Republic of Armenia have signed a contract for the acquisition of six H145 helicopte..."
-    },
-    {
-      "title": "Unidentified gunmen kill police constable in Pakistan's KPK",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/18/unidentified-gunmen-kill-police-constable-in-pakistans-kpk",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-18T15:00:14+05:30",
-      "time": "18 Jun, 03:00 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Defence production up 15%; private sector share climbs to 24%",
@@ -260,15 +278,6 @@
       "time": "18 Jun, 01:14 PM",
       "type": "news",
       "description": "America's Defense Secretary Pete Hegseth is calling for a stronger NATO. He wants European nations to take charge of their continent's defense. This s..."
-    },
-    {
-      "title": "India secures five-year social security exemption for UK professionals in FTA",
-      "link": "https://www.newindianexpress.com/business/2026/Jun/18/india-secures-five-year-social-security-exemption-for-uk-professionals-in-fta",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-18T13:01:02+05:30",
-      "time": "18 Jun, 01:01 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Bharat Forge arm, Paramount unveil Shima 4x4 armoured vehicle at Eurosatory exhibition in Paris",
@@ -431,15 +440,6 @@
       "time": "18 Jun, 06:12 AM",
       "type": "news",
       "description": "The U.S. and Iran have released an interim agreement to end their war, with President Trump threatening renewed attacks if commitments are not met. Th..."
-    },
-    {
-      "title": "US drops \u2018Indo\u2019 from Pacific Command; Quad cooperation unaffected",
-      "link": "https://www.tribuneindia.com/news/india/us-drops-indo-from-pacific-command-quad-cooperation-unaffected",
-      "source": "The Tribune",
-      "sort_key": "2026-06-18T01:05:08+05:30",
-      "time": "18 Jun, 01:05 AM",
-      "type": "news",
-      "description": "The US Department of War has announced that its largest military command will revert to its original name, dropping the reference to the Indian Ocean...."
     },
     {
       "title": "Govt mulls roping in private security for airports, energy infra",
@@ -926,18 +926,79 @@
       "time": "16 Jun, 07:33 PM",
       "type": "news",
       "description": "The platform brings together more than 200 verified space and defence companies across nearly 20 domains and over 120 sub-domains."
-    },
-    {
-      "title": "AN-32 crash: A look into the accidents involving IAF\u2019s transportation workhorse",
-      "link": "https://theprint.in/defence/an-32-crash-a-look-into-the-accidents-involving-iafs-transportation-workhorse/2961359/",
-      "source": "The Print",
-      "sort_key": "2026-06-16T19:10:13+05:30",
-      "time": "16 Jun, 07:10 PM",
-      "type": "news",
-      "description": "13 June crash of an IAF AN-32 at Jorhat airport, in which five personnel lost their lives, has brought renewed attention\u00a0to the\u00a0service history of thi..."
     }
   ],
   "tweets": [
+    {
+      "title": "\ud83d\udea8BLA eliminates DSP of Counter terrorist Department in Noshki, Balochistan!!\nOne more day, One more porki afsaraan getting mauled \ud83d\udd25",
+      "link": "https://nitter.net/Goreunit/status/2067603074043224242#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-18T19:09:21+05:30",
+      "time": "18 Jun, 07:09 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8BLA eliminates DSP of Counter terrorist Department in Noshki, Balochistan!!<br />\nOne more day, One more porki afsaraan getting mauled \ud83d\udd25</p>\n<img src=\"https://nitter.net/pic/media%2FHLGaCeiaUAAtXtN.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Russia is keen to induct the BrahMos supersonic cruise missile, and discussions are under way on increasing production to meet future requirements: BrahMos Aerospace Chief\nhttps://aninews.in/news/national/general-news/russia-keen-to-induct-brahmos-missile-india-to-supply-systems-brahmos-aerospace-chief20260618150135/",
+      "link": "https://nitter.net/DefenceDecode/status/2067598092816593012#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-06-18T18:49:34+05:30",
+      "time": "18 Jun, 06:49 PM",
+      "type": "tweets",
+      "content": "<p>Russia is keen to induct the BrahMos supersonic cruise missile, and discussions are under way on increasing production to meet future requirements: BrahMos Aerospace Chief<br />\n<a href=\"https://aninews.in/news/national/general-news/russia-keen-to-induct-brahmos-missile-india-to-supply-systems-brahmos-aerospace-chief20260618150135/\">aninews.in/news/national/gen\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLGVgKta8AEDotx.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "DRDO says no French engine on NASM MR. Someone just wrote it without verification.",
+      "link": "https://nitter.net/alpha_defense/status/2067595868203806773#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-18T18:40:43+05:30",
+      "time": "18 Jun, 06:40 PM",
+      "type": "tweets",
+      "content": "<p>DRDO says no French engine on NASM MR. Someone just wrote it without verification.</p>\n<img src=\"https://nitter.net/pic/media%2FHLGTexpakAAifVb.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "\ud83d\udea8In Belgium, Kashmiri community held a protest demonstration outside the European Parliament,  against Pakistani forces and their violation of human rights in PoJK @EURightsAgency @UN_HRC !",
+      "link": "https://nitter.net/Goreunit/status/2067594948636192943#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-18T18:37:04+05:30",
+      "time": "18 Jun, 06:37 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8In Belgium, Kashmiri community held a protest demonstration outside the European Parliament,  against Pakistani forces and their violation of human rights in PoJK <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> !</p>\n<a href=\"https://nitter.net/Goreunit/status/2067594948636192943#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067593767302164480%2Fpu%2Fimg%2F4ry6hQXe7wDy5g6c.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>BIG!!!<br />\n\"Hand over all our resources and get out of PoJK\": People of PoJK to pak\ud83c\uddf5\ud83c\uddf0 army regime!<br />\nPeople of PoJK are openly chanting azadi slogans and demanding freedom from the tyranny of Pakistan.</p>\n<a href=\"https://nitter.net/Goreunit/status/2067310627010519287#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067310546970640384%2Fpu%2Fimg%2FiHFvDdaty7ARZNf4.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2067310627010519287#m\">https://nitter.net/Goreunit/status/2067310627010519287#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "AI must improve life, sustain healthy planet says PM Modi",
+      "link": "https://nitter.net/sidhant/status/2067590975631802434#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T18:21:17+05:30",
+      "time": "18 Jun, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>AI must improve life, sustain healthy planet says PM Modi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi addresses VivaTech summit in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLGM_8NXsAAFYnX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067588740864778737#m\">https://nitter.net/sidhant/status/2067588740864778737#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India has the world's largest talent pool, supporting private enterprise, our govt will enable industry that innovates: PM Modi at VivaTech, France",
+      "link": "https://nitter.net/sidhant/status/2067590751949602969#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T18:20:23+05:30",
+      "time": "18 Jun, 06:20 PM",
+      "type": "tweets",
+      "content": "<p>India has the world's largest talent pool, supporting private enterprise, our govt will enable industry that innovates: PM Modi at VivaTech, France</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi addresses VivaTech summit in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLGM_8NXsAAFYnX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067588740864778737#m\">https://nitter.net/sidhant/status/2067588740864778737#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "PM Modi addresses VivaTech summit in Paris",
+      "link": "https://nitter.net/sidhant/status/2067588740864778737#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T18:12:24+05:30",
+      "time": "18 Jun, 06:12 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi addresses VivaTech summit in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLGM_8NXsAAFYnX.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "RT by @NetramDefence: Manipur Chief Minister Yumnam Khemchand Singh said that a few people continue to oppose peace in the state because they benefit from the conflict.",
       "link": "https://nitter.net/KangleipakDaily/status/2067587788514713718#m",
@@ -1259,26 +1320,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "Chinese Foreign minister Wang Yi to visit Delhi for BRICS NSA meet next week: Statement",
-      "link": "https://nitter.net/sidhant/status/2067518329288376814#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T13:32:36+05:30",
-      "time": "18 Jun, 01:32 PM",
-      "type": "tweets",
-      "content": "<p>Chinese Foreign minister Wang Yi to visit Delhi for BRICS NSA meet next week: Statement</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "BRICA NSA meet to take place in Delhi from 22-23rd July",
-      "link": "https://nitter.net/sidhant/status/2067518205770236003#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T13:32:07+05:30",
-      "time": "18 Jun, 01:32 PM",
-      "type": "tweets",
-      "content": "<p>BRICA NSA meet to take place in Delhi from 22-23rd July</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Behind every advanced fighter jet, missile and MLV lies a robust materials ecosystem.\n\nIndia is set to gain a strategic capability with a 10,000-ton Aluminium Extrusion Press, enabling domestic production of critical aerospace-grade components.\nhttps://www.pib.gov.in/PressReleasePage.aspx?PRID=2274397&reg=48&lang=1",
       "link": "https://nitter.net/DefenceDecode/status/2067515319841857815#m",
       "source": "Defense Decode",
@@ -1347,16 +1388,6 @@
       "type": "tweets",
       "content": "<p>India is considering a proposal to require refiners to maintain significantly larger crude oil inventories, taking cues from China\u2019s stockpiling model.<br />\n<br />\nThe move comes after disruptions in the Strait of Hormuz exposed vulnerabilities in India's energy supply chain.<br />\n<br />\nCurrent strategic reserves: ~21 million barrels<br />\nChina: ~1.4 billion barrels<br />\n<br />\nIf implemented, refiners may be asked to hold enough crude to cover up to 30 days of national consumption, potentially requiring investments worth tens of thousands of crores in oil purchases and storage infrastructure.</p>\n<img src=\"https://nitter.net/pic/media%2FHLEgBmnaEAA6kSl.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "US President Donald Trump signs US, Iran ceasefire MoU electronically in France.",
-      "link": "https://nitter.net/sidhant/status/2067465034221965558#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T10:00:50+05:30",
-      "time": "18 Jun, 10:00 AM",
-      "type": "tweets",
-      "content": "<p>US President Donald Trump signs US, Iran ceasefire MoU electronically in France.</p>\n<a href=\"https://nitter.net/sidhant/status/2067465034221965558#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067425686651056128%2Fimg%2FsMak8OoX3fxLdcdm.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "\ud83e\udd23",
@@ -1789,16 +1820,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "This is our MALE UAV moment - 10 Bid (Hope GOI picks only IDDM UAVs and ScrewDrivered ones are strictly kept out.\nhttps://alphadefense.in/index.php/2026/06/16/indias-30000-crore-male-uav-10-defence-firms-in-race/",
-      "link": "https://nitter.net/alpha_defense/status/2066933360786915613#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-16T22:48:09+05:30",
-      "time": "16 Jun, 10:48 PM",
-      "type": "tweets",
-      "content": "<p>This is our MALE UAV moment - 10 Bid (Hope GOI picks only IDDM UAVs and ScrewDrivered ones are strictly kept out.<br />\n<a href=\"https://alphadefense.in/index.php/2026/06/16/indias-30000-crore-male-uav-10-defence-firms-in-race/\">alphadefense.in/index.php/20\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2066933132562194432%2FJAoV17Gw%3Fformat%3Djpg%26name%3D800x419\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "The MoD has received around 10 bids from Indian public and private sector firms for the \u20b930,000+ cr programme to procure 87 MALE UAVs for the IAF.\n\nOne of India's largest indigenous unmanned aviation projects is now moving into the next phase.\nhttps://aninews.in/news/national/general-news/10-bids-submitted-by-indian-defence-firms-in-race-for-iafs-rs-30000-crore-uav-deal20260616210846/ via @ANI",
       "link": "https://nitter.net/DefenceDecode/status/2066925095302680643#m",
       "source": "Defense Decode",
@@ -1840,6 +1861,15 @@
     }
   ],
   "youtube": [
+    {
+      "title": "Burning Moscow :Message for India",
+      "link": "https://www.youtube.com/watch?v=rqV8I8i53Es",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-18T19:03:54+05:30",
+      "time": "18 Jun, 07:03 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/rqV8I8i53Es/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Hypersonic Brahmos,Tejas Kaveri Flight,Rafale Pitch Black,5 More S400 Deal",
       "link": "https://www.youtube.com/watch?v=CCGoyMs6UNY",
@@ -1914,6 +1944,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
