@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Trump signs Iran ceasefire deal, warns of renewed bombing if Tehran violates pact",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-signs-iran-ceasefire-deal-warns-of-renewed-bombing-if-tehran-violates-pact/articleshow/131815003.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T06:12:53+05:30",
+      "time": "18 Jun, 06:12 AM",
+      "type": "news",
+      "description": "The U.S. and Iran have released an interim agreement to end their war, with President Trump threatening renewed attacks if commitments are not met. Th..."
+    },
+    {
       "title": "India-UK trade deal to come into effect from July 15",
       "link": "https://www.tribuneindia.com/news/top-headlines/india-uk-trade-deal-to-come-into-effect-from-july-15",
       "source": "The Tribune",
@@ -926,24 +935,6 @@
       "time": "16 Jun, 07:36 AM",
       "type": "news",
       "description": "As part of PM Modi's visit, India and Slovakia signed several Memoranda of Understanding covering labour migration, higher education and research, and..."
-    },
-    {
-      "title": "US Air Force B-52 bomber crashes in California, killing all 8 crew aboard",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-air-force-b-52-bomber-crashes-in-california-killing-all-8-crew-aboard/articleshow/131756912.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-16T06:07:25+05:30",
-      "time": "16 Jun, 06:07 AM",
-      "type": "news",
-      "description": "A B-52 Stratofortress bomber crashed during a routine training mission at Edwards Air Force Base. All eight crew members aboard perished in the incide..."
-    },
-    {
-      "title": "'Iran agrees to never have nuclear weapons,' says Trump after signing MoU with Tehran",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-agrees-to-never-have-nuclear-weapons-says-trump-after-signing-mou-with-tehran/articleshow/131756898.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-16T06:04:05+05:30",
-      "time": "16 Jun, 06:04 AM",
-      "type": "news",
-      "description": "President Trump announced Iran has agreed to never possess nuclear weapons, dismissing reports of a $300 million US payment as fake news. The new agre..."
     }
   ],
   "tweets": [
@@ -1937,7 +1928,7 @@
       "thumbnail": "https://img.youtube.com/vi/KmhiF4nem-w/mqdefault.jpg"
     },
     {
-      "title": "Indian Defence Updates : Rafale M88 60% Offer, 30000Cr MALE Drone, Simha 4x4, NIBE Defends Suryastra",
+      "title": "Indian Defence Updates : Rafale M-88 60% Offer,30000 Cr MALE Drones Order,Kalyani New Simha 4x4",
       "link": "https://www.youtube.com/watch?v=QHbLujJy2wQ",
       "source": "Indian Defence Updates",
       "sort_key": "2026-06-17T17:29:26+05:30",
@@ -1992,6 +1983,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
