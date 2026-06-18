@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "JD Vance tells Israel it cannot kill its way to security, backs Iran deal",
+      "link": "https://indianexpress.com/article/world/jd-vance-rebukes-israel-criticism-us-iran-peace-deal-kill-your-way-out-explained-10746946/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-19T05:19:18+05:30",
+      "time": "19 Jun, 05:19 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Shah, Sergio talk anti-drug coop, counter-terrorism",
       "link": "https://www.tribuneindia.com/news/india/shah-sergio-talk-anti-drug-coop-counter-terrorism",
       "source": "The Tribune",
@@ -467,15 +476,6 @@
       "time": "18 Jun, 10:14 AM",
       "type": "news",
       "description": "Taiwan's President Lai Ching-te asserts that defending the island's security and freedom from Chinese Communist Party rule is not provocative. He seek..."
-    },
-    {
-      "title": "US-Iran Peace Deal News Live Updates: US military lifts blockade on Iranian ports",
-      "link": "https://indianexpress.com/article/world/us-iran-peace-deal-live-updates-trump-agreement-signed-hormuz-reopening-10745366/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-18T09:30:36+05:30",
-      "time": "18 Jun, 09:30 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Iran deal calls for diluting uranium at minimum, waiving sanctions &amp; opening strait, US officials say",
@@ -1955,6 +1955,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 AM IST"
+    "last_updated": "05:24 AM IST"
   }
 }
