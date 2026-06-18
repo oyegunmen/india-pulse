@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "India secures five-year social security exemption for UK professionals in FTA",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/18/india-secures-five-year-social-security-exemption-for-uk-professionals-in-fta",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-18T13:01:02+05:30",
+      "time": "18 Jun, 01:01 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Bharat Forge arm, Paramount unveil Shima 4x4 armoured vehicle at Eurosatory exhibition in Paris",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/bharat-forge-arm-paramount-unveil-shima-4x4-armoured-vehicle-at-eurosatory-exhibition-in-paris/131822035",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T12:59:59+05:30",
+      "time": "18 Jun, 12:59 PM",
+      "type": "news",
+      "description": "The vehicle is designed for military applications including reconnaissance, internal security, border protection and troop transport."
+    },
+    {
+      "title": "\u2018Calculated move\u2019: TMC alleges removal of Mamata Banerjee\u2019s security personnel",
+      "link": "https://www.newindianexpress.com/states/west-bengal/2026/Jun/18/calculated-move-tmc-alleges-removal-of-mamata-banerjees-security-personnel",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-18T12:59:00+05:30",
+      "time": "18 Jun, 12:59 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "$300 billion, sanctions relief, Hormuz reopening: Who gets what in the US-Iran peace deal?",
+      "link": "https://economictimes.indiatimes.com/news/defence/300-billion-sanctions-relief-hormuz-reopening-who-gets-what-in-the-us-iran-peace-deal/articleshow/131821489.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T12:46:33+05:30",
+      "time": "18 Jun, 12:46 PM",
+      "type": "news",
+      "description": "US-Iran Peace MoU: The US and Iran have signed a preliminary 14-point memorandum of understanding, outlining plans for sanctions relief, economic coop..."
+    },
+    {
       "title": "South Korea to apply zero tariffs on LNG, LPG to tackle inflation",
       "link": "https://newsonair.gov.in/south-korea-to-apply-zero-tariffs-on-lng-lpg-to-tackle-inflation/",
       "source": "All India Radio",
@@ -125,15 +161,6 @@
       "time": "18 Jun, 09:55 AM",
       "type": "news",
       "description": "United Nations&#8217; food agencies have warned that acute hunger is expected to worsen across 13 global hotspots in the coming months due to conflict..."
-    },
-    {
-      "title": "Security agency owner, driver abducted at knifepoint in Bengaluru, robbed of Rs 1.09 crore",
-      "link": "https://www.newindianexpress.com/cities/bengaluru/2026/Jun/18/security-agency-owner-driver-abducted-at-knifepoint-in-bengaluru-robbed-of-rs-109-crore",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-18T08:38:26+05:30",
-      "time": "18 Jun, 08:38 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Iran deal calls for diluting uranium at minimum, waiving sanctions &amp; opening strait, US officials say",
@@ -494,15 +521,6 @@
       "time": "17 Jun, 01:40 PM",
       "type": "news",
       "description": "With this deployment, Airtel has become the first and only service provider to deliver reliable mobile connectivity in the mountainous, high-altitude,..."
-    },
-    {
-      "title": "Defence production touches all-time high of Rs 1.78 lakh crore",
-      "link": "https://www.tribuneindia.com/news/defence/indias-domestic-defence-manufacturing-touches-record-rs-1-78-lakh-crore",
-      "source": "The Tribune",
-      "sort_key": "2026-06-17T13:39:27+05:30",
-      "time": "17 Jun, 01:39 PM",
-      "type": "news",
-      "description": "India\u2019s domestic defence production touched a record Rs 1.78 lakh crore (about $20 billion) in FY 2025-26, reflecting a sharp increase in the indigeno..."
     },
     {
       "title": "IAF to indigenously produce Kamikaze drones with domestic partners",
@@ -926,27 +944,29 @@
       "time": "16 Jun, 01:47 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "As Europe rearms, &#039;wingman&#039; aircraft take centre stage",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/as-europe-rearms-wingman-aircraft-take-centre-stage/131762739",
-      "source": "Economic Times",
-      "sort_key": "2026-06-16T12:32:14+05:30",
-      "time": "16 Jun, 12:32 PM",
-      "type": "news",
-      "description": "Europe is developing advanced AI drones to fly alongside fighter jets. These unmanned aircraft will carry extra sensors and weapons. Companies like Ai..."
-    },
-    {
-      "title": "Indian firepower on global stage as Bharat Forge arm Kalyani unveils new artillery gun series in Paris",
-      "link": "https://theprint.in/defence/indian-firepower-on-global-stage-as-bharat-forge-arm-kalyani-unveils-new-artillery-gun-series-in-paris/2961030/",
-      "source": "The Print",
-      "sort_key": "2026-06-16T12:29:48+05:30",
-      "time": "16 Jun, 12:29 PM",
-      "type": "news",
-      "description": "Showcasing its easily deployable &#038; highly manoeuvrable 155 mm MArG system mounted on a 4x4 vehicle at Eurosatory 2026, firm seeks wider footprint..."
     }
   ],
   "tweets": [
+    {
+      "title": "Behind every advanced fighter jet, missile and MLV lies a robust materials ecosystem.\n\nIndia is set to gain a strategic capability with a 10,000-ton Aluminium Extrusion Press, enabling domestic production of critical aerospace-grade components.\nhttps://www.pib.gov.in/PressReleasePage.aspx?PRID=2274397&reg=48&lang=1",
+      "link": "https://nitter.net/DefenceDecode/status/2067515319841857815#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-06-18T13:20:39+05:30",
+      "time": "18 Jun, 01:20 PM",
+      "type": "tweets",
+      "content": "<p>Behind every advanced fighter jet, missile and MLV lies a robust materials ecosystem.<br />\n<br />\nIndia is set to gain a strategic capability with a 10,000-ton Aluminium Extrusion Press, enabling domestic production of critical aerospace-grade components.<br />\n<a href=\"https://www.pib.gov.in/PressReleasePage.aspx?PRID=2274397&amp;reg=48&amp;lang=1\">pib.gov.in/PressReleasePage.\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLFKMn_boAA3q1k.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "\ud83d\udea8\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa BREAKING: Ukraine launches a major drone swarm attack on Moscow, with reports indicating direct hits on the Moscow Oil Refinery.",
+      "link": "https://nitter.net/Goreunit/status/2067511169435476141#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-18T13:04:09+05:30",
+      "time": "18 Jun, 01:04 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa BREAKING: Ukraine launches a major drone swarm attack on Moscow, with reports indicating direct hits on the Moscow Oil Refinery.</p>\n<a href=\"https://nitter.net/Goreunit/status/2067511169435476141#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067511147616665600%2Fpu%2Fimg%2FlbwVWHshUdj6cNYk.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
     {
       "title": "R to @NetramDefence: This MoU serves as a preliminary roadmap. Upcoming critical talks in Switzerland will focus on the exact sequencing of these actions. Because a final treaty has not yet been locked in, either party can still walk away during the 60-day window.\n\n4/4",
       "link": "https://nitter.net/NetramDefence/status/2067498784444342279#m",
@@ -1826,60 +1846,83 @@
       "type": "tweets",
       "content": "<p>LCA Mk2 \u2013 At the prototyping phase, with the first prototype coupled and lead by HAL.<br />\n<br />\nAMCA \u2013 Will be developed by a consortium (non-HAL).<br />\n<br />\nHow does scrapping one positively impact the other (timelines, etc.)? My brain isn\u2019t braining.<br />\n<br />\nIf someone called you that it was not a good thing, they should just call you a bad student of defence aviation.</p>\n<hr />\n<blockquote>\n<b>Yusuf Unjhawala \ud83c\uddee\ud83c\uddf3 (@YusufDFI)</b>\n<p>\n<p>I was called a Dalal for foreign firms when in 2019 I said we must scrap LCA Mk2 and pursue AMCA with all our resources. Instead, over the years we\u2019ve had more projects added.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/YusufDFI/status/2066753389527232847#m\">https://nitter.net/YusufDFI/status/2066753389527232847#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "The air-launched #LRLACM is expected to weigh 900\u20131,000 kg as it does not require the heavy launch booster used by ground and naval variants.\n\nThis could allow an IAF Su-30MKI to carry between 2-4 missiles, depending on the final integration and mission configuration.",
-      "link": "https://nitter.net/DefenceDecode/status/2066789512144122336#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-16T13:16:33+05:30",
-      "time": "16 Jun, 01:16 PM",
-      "type": "tweets",
-      "content": "<p>The air-launched <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LRLACM\">#LRLACM</a> is expected to weigh 900\u20131,000 kg as it does not require the heavy launch booster used by ground and naval variants.<br />\n<br />\nThis could allow an IAF Su-30MKI to carry between 2-4 missiles, depending on the final integration and mission configuration.</p>\n<img src=\"https://nitter.net/pic/media%2FHK61zd5bMAABzyY.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "BREAKING: Telegram access in India will be temporarily restricted ahead of NEET Re-Exam\n\nThe National Testing Agency (NTA) says Telegram access in India will be temporarily restricted until 22 June 2026, while the platform's message-editing feature will reportedly remain disabled until 30 June 2026.\n\nAccording to NTA, the measures are aimed at curbing exam-related fraud, fake paper leak claims, and misinformation ahead of the NEET (UG) 2026 re-examination on 21 June.\n\nAuthorities say multiple Telegram channels, groups, and bots linked to alleged exam scams have already been taken down.",
-      "link": "https://nitter.net/NetramDefence/status/2066787639093612799#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-16T13:09:06+05:30",
-      "time": "16 Jun, 01:09 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Telegram access in India will be temporarily restricted ahead of NEET Re-Exam<br />\n<br />\nThe National Testing Agency (NTA) says Telegram access in India will be temporarily restricted until 22 June 2026, while the platform's message-editing feature will reportedly remain disabled until 30 June 2026.<br />\n<br />\nAccording to NTA, the measures are aimed at curbing exam-related fraud, fake paper leak claims, and misinformation ahead of the NEET (UG) 2026 re-examination on 21 June.<br />\n<br />\nAuthorities say multiple Telegram channels, groups, and bots linked to alleged exam scams have already been taken down.</p>\n<img src=\"https://nitter.net/pic/media%2FHK60V5RbQAAy9qT.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK60VyCaEAA5kq3.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK60VyDasAABdv5.png\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "We seems to have missed it ! UK's armed forces minister (Colonel Alistair Scott Carns) has followed Defence Secretary John Healey in quitting the government in a dispute with Prime Minister Keir Starmer over funding for the military.",
-      "link": "https://nitter.net/alpha_defense/status/2066780781230629207#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-16T12:41:51+05:30",
-      "time": "16 Jun, 12:41 PM",
-      "type": "tweets",
-      "content": "<p>We seems to have missed it ! UK's armed forces minister (Colonel Alistair Scott Carns) has followed Defence Secretary John Healey in quitting the government in a dispute with Prime Minister Keir Starmer over funding for the military.</p>\n<img src=\"https://nitter.net/pic/media%2FHK6t0YhbwAA61Zo.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "India\u2019s port handling capacity has nearly doubled, rising from 1,400 MMTPA in 2014 to 2,819 MMTPA in 2026, significantly strengthening the backbone of the nation\u2019s trade and logistics ecosystem.",
-      "link": "https://nitter.net/Goreunit/status/2066780095751262595#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-16T12:39:08+05:30",
-      "time": "16 Jun, 12:39 PM",
-      "type": "tweets",
-      "content": "<p>India\u2019s port handling capacity has nearly doubled, rising from 1,400 MMTPA in 2014 to 2,819 MMTPA in 2026, significantly strengthening the backbone of the nation\u2019s trade and logistics ecosystem.</p>\n<img src=\"https://nitter.net/pic/media%2FHK6tizbawAA_Dlv.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83d\udea8Telegram will be blocked in India till Re-NEET exam concludes i.e 22 June 2026\n\nAlso editing message feature to be disabled till 30 june.",
-      "link": "https://nitter.net/Goreunit/status/2066777738099433705#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-16T12:29:46+05:30",
-      "time": "16 Jun, 12:29 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Telegram will be blocked in India till Re-NEET exam concludes i.e 22 June 2026<br />\n<br />\nAlso editing message feature to be disabled till 30 june.</p>\n<img src=\"https://nitter.net/pic/media%2FHK6rZO0bMAAeWwI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHK6rZRJakAAhX1a.jpg\" />",
-      "author": "@Goreunit"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Defence Updates - Indian Radar Detect F35, India Rs. 30000 Crore UAV Deal, Garudastra Mortar Test",
+      "link": "https://www.youtube.com/watch?v=9iXkonoDFVY",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-17T22:38:31+05:30",
+      "time": "17 Jun, 10:38 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/9iXkonoDFVY/mqdefault.jpg"
+    },
+    {
+      "title": "US Ne INDIA Ko Ignore Karna Shuru Kar Diya?,Tejas Mk2 Stealth NE Rafale Ko Challenge Kar Diya?",
+      "link": "https://www.youtube.com/watch?v=tnTy-WV2HyY",
+      "source": "Indian Defense News",
+      "sort_key": "2026-06-17T22:30:04+05:30",
+      "time": "17 Jun, 10:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/tnTy-WV2HyY/mqdefault.jpg"
+    },
+    {
+      "title": "Another American Engine Trap for India",
+      "link": "https://www.youtube.com/watch?v=KmhiF4nem-w",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-17T20:17:16+05:30",
+      "time": "17 Jun, 08:17 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/KmhiF4nem-w/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Rafale M-88 60% Offer,30000 Cr MALE Drones Order,Kalyani New Simha 4x4",
+      "link": "https://www.youtube.com/watch?v=QHbLujJy2wQ",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-17T17:29:26+05:30",
+      "time": "17 Jun, 05:29 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/QHbLujJy2wQ/mqdefault.jpg"
+    },
+    {
+      "title": "What If Indian Air Force Gets Saab Gripen?",
+      "link": "https://www.youtube.com/watch?v=DVvAwJeVRoE",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-17T13:15:06+05:30",
+      "time": "17 Jun, 01:15 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/DVvAwJeVRoE/mqdefault.jpg"
+    },
+    {
+      "title": "Suryastra Test Fail?,India\u2019s New Tank Shocked Everyone,Jaguar Deal Confirmed?,Avenger AVG-30HD",
+      "link": "https://www.youtube.com/watch?v=lm-OVLcFlDk",
+      "source": "Indian Defense News",
+      "sort_key": "2026-06-16T22:30:24+05:30",
+      "time": "16 Jun, 10:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/lm-OVLcFlDk/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - Suryastra Rocket Failed, US B-52 Crashed, US F/A18 Crash, New MArG Artillery",
+      "link": "https://www.youtube.com/watch?v=jvsOo9oElBY",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-16T22:09:01+05:30",
+      "time": "16 Jun, 10:09 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/jvsOo9oElBY/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : LRLACM Test Success,AMCA Test Pilots,Suryastra MBRL Fails,KC-390 To India",
+      "link": "https://www.youtube.com/watch?v=CIoAjfqzh3U",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-16T16:45:34+05:30",
+      "time": "16 Jun, 04:45 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/CIoAjfqzh3U/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
