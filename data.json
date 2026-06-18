@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "\u2018Our concerns well known to US\u2019: India says Pakistan terror, Quad didn\u2019t figure in Modi-Trump G7 meet",
+      "link": "https://www.tribuneindia.com/news/india/our-concerns-well-known-to-us-india-says-pakistan-terror-quad-didnt-figure-in-modi-trump-g7-meet",
+      "source": "The Tribune",
+      "sort_key": "2026-06-18T22:05:15+05:30",
+      "time": "18 Jun, 10:05 PM",
+      "type": "news",
+      "description": "India on Thursday said its concerns on multiple issues, including cross-border terrorism emanating from Pakistan, were well known to the US, even thou..."
+    },
+    {
+      "title": "Pakistan hints at cutting fuel prices after US-Iran deal, eases Middle East tensions",
+      "link": "https://indianexpress.com/article/world/pakistan-fuel-price-cut-us-iran-deal-oil-prices-fall-10746054/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-18T22:00:38+05:30",
+      "time": "18 Jun, 10:00 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Bharat Forge defence arm partners with US-based AM General for artillery guns",
+      "link": "https://economictimes.indiatimes.com/news/defence/bharat-forge-defence-arm-partners-with-us-based-am-general-for-artillery-guns/articleshow/131836570.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-18T21:59:19+05:30",
+      "time": "18 Jun, 09:59 PM",
+      "type": "news",
+      "description": "Kalyani Strategic Systems and AM General have formed a strategic partnership. They will develop mounted artillery gun systems for the global market. T..."
+    },
+    {
+      "title": "Pakistan court directs meeting arrangement for Imran Khan and Bushra Bibi in Al-Qadir Trust case",
+      "link": "https://newsonair.gov.in/pakistan-court-directs-meeting-arrangement-for-imran-khan-and-bushra-bibi-in-al-qadir-trust-case/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T21:56:18+05:30",
+      "time": "18 Jun, 09:56 PM",
+      "type": "news",
+      "description": "A court in Pakistan today directed authorities to arrange a meeting between former prime minister Imran Khan, his spouse Bushra Bibi and their legal c..."
+    },
+    {
+      "title": "PM Modi meets French industry leaders; focus on manufacturing, AI and sustainability",
+      "link": "https://newsonair.gov.in/pm-modi-meets-french-industry-leaders-focus-on-manufacturing-ai-and-sustainability/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T21:54:26+05:30",
+      "time": "18 Jun, 09:54 PM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi today met leading French industry leaders in Paris, with discussions focusing on manufacturing, artificial intelligence, ..."
+    },
+    {
+      "title": "Bangladesh measles outbreak worsens; death toll rises to 666: DGHS",
+      "link": "https://newsonair.gov.in/bangladesh-measles-outbreak-worsens-death-toll-rises-to-666-dghs/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T21:46:54+05:30",
+      "time": "18 Jun, 09:46 PM",
+      "type": "news",
+      "description": "Bangladesh&#8217;s measles outbreak continues to worsen, with five more children dying from measles and measles-like symptoms in the 24 hours leading ..."
+    },
+    {
+      "title": "NCB, Chandigarh Police bust Pak-linked ice drug syndicate; advocate among 2 held",
+      "link": "https://www.tribuneindia.com/news/chandigarh/ncb-chandigarh-police-bust-pak-linked-ice-drug-syndicate-advocate-among-2-held",
+      "source": "The Tribune",
+      "sort_key": "2026-06-18T21:43:09+05:30",
+      "time": "18 Jun, 09:43 PM",
+      "type": "news",
+      "description": "In a significant breakthrough against synthetic drug trafficking in the region, the Narcotics Control Bureau (NCB), Chandigarh Zonal Unit, in coordina..."
+    },
+    {
+      "title": "Modi showcases India\u2019s tech transformation, calls for global partnerships at VivaTech 2026",
+      "link": "https://www.indiastrategic.in/modi-showcases-indias-tech-transformation-calls-for-global-partnerships-at-vivatech-2026/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-18T21:31:11+05:30",
+      "time": "18 Jun, 09:31 PM",
+      "type": "news",
+      "description": "<p>By Aroonim Bhuyan New Delhi/Paris, June 18. Prime Minister Narendra Modi on June 18 highlighted India\u2019s rapid technological transformation and call..."
+    },
+    {
+      "title": "Petrol bombs hurled on RSS office: Terror links of accused surface after encounter, probe intensifies",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/18/petrol-bombs-hurled-on-rss-office-terror-links-of-accused-surface-after-encounter-probe-intensifies",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-18T21:29:42+05:30",
+      "time": "18 Jun, 09:29 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "MEA highlights key outcomes of PM Modi\u2019s visit to France, says focus on trade, technology and security",
+      "link": "https://newsonair.gov.in/mea-highlights-key-outcomes-of-pm-modis-visit-to-france-says-focus-on-trade-technology-and-security/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-18T21:29:10+05:30",
+      "time": "18 Jun, 09:29 PM",
+      "type": "news",
+      "description": "The Ministry of External Affairs today highlighted the key outcomes of Prime Minister Narendra Modi\u2019s visit to France. Briefing the media in Paris, Fo..."
+    },
+    {
       "title": "'Sharks' in Bay of Bengal: Pakistan tries to reopen a dormant front",
       "link": "https://economictimes.indiatimes.com/news/defence/sharks-in-bay-of-bengal-pakistan-tries-to-reopen-a-dormant-front/articleshow/131835228.cms",
       "source": "Economic Times",
@@ -172,24 +262,6 @@
       "description": "Global crude oil prices declined today. Brent crude slipped 1.1 per cent to 78 US dollars and 67 cents per barrel, while West Texas Intermediate (WTI)..."
     },
     {
-      "title": "UAE approves new rules barring children under 15 from using social media",
-      "link": "https://newsonair.gov.in/uae-approves-new-rules-barring-children-under-15-from-using-social-media/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-18T18:07:15+05:30",
-      "time": "18 Jun, 06:07 PM",
-      "type": "news",
-      "description": "The UAE has approved a major new regulation setting the minimum age for social media use at 15 years, a sweeping move aimed at strengthening child pro..."
-    },
-    {
-      "title": "Indian Army contingent leaves for Mongolia to participate in Exercise KHAAN QUEST 2026",
-      "link": "https://newsonair.gov.in/indian-army-contingent-leaves-for-mongolia-to-participate-in-exercise-khaan-quest-2026/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-18T17:59:45+05:30",
-      "time": "18 Jun, 05:59 PM",
-      "type": "news",
-      "description": "An Indian Army contingent will leave today for Mongolia to participate in the multinational joint military exercise, Exercise KHAAN QUEST 2026, schedu..."
-    },
-    {
       "title": "Israel issues new Lebanon occupation map, in talks with US over deployment",
       "link": "https://economictimes.indiatimes.com/news/defence/israel-issues-new-lebanon-occupation-map-in-talks-with-us-over-deployment/articleshow/131830898.cms",
       "source": "Economic Times",
@@ -233,24 +305,6 @@
       "time": "18 Jun, 05:24 PM",
       "type": "news",
       "description": "SIPRI data shows Netherlands is Pakistan\u2019s second-largest arms supplier after China, and that Islamabad is second-largest importer of Swedish weapons,..."
-    },
-    {
-      "title": "PM Modi meets Saint-Gobain Chairman and CEO Benoit Bazin in Paris",
-      "link": "https://newsonair.gov.in/pm-modi-meets-saint-gobain-chairman-and-ceo-benoit-bazin-in-paris/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-18T17:17:59+05:30",
-      "time": "18 Jun, 05:17 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi met Chairman and CEO of Saint Gobain, Benoit Bazin in Paris today. The discussions focused on opportunities in the materi..."
-    },
-    {
-      "title": "IIT Delhi remains India\u2019s highest-ranked institution in QS World University Rankings 2027",
-      "link": "https://newsonair.gov.in/iit-delhi-remains-indias-highest-ranked-institution-in-qs-world-university-rankings-2027/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-18T16:56:22+05:30",
-      "time": "18 Jun, 04:56 PM",
-      "type": "news",
-      "description": "Education Ministry today said that 52 Indian institutions have featured in the QS World University Rankings 2027. IIT Delhi remains India&#8217;s high..."
     },
     {
       "title": "SMPP Partners with KNDS to Manufacture Advanced Loitering Munitions in India",
@@ -406,15 +460,6 @@
       "description": "<p>Eurosatory, June 17, 2026. NATO last year launched its Rapid Adoption Action Plan (RAAP) as part of its push towards the integration of new technol..."
     },
     {
-      "title": "French SCORPION programme rolls on and shows export potential",
-      "link": "https://www.indiastrategic.in/french-scorpion-programme-rolls-on-and-shows-export-potential/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-18T10:51:36+05:30",
-      "time": "18 Jun, 10:51 AM",
-      "type": "news",
-      "description": "<p>Eurosatory, June 17, 2026. France\u2019s SCORPION (Synergie du COntact Renforc\u00e9e par la Polyvalence et l\u2019InfovalorisatiON) is a broad effort to introduc..."
-    },
-    {
       "title": "Taiwan's Lai says defending democracy is not a provocation against China",
       "link": "https://economictimes.indiatimes.com/news/defence/taiwans-lai-says-defending-democracy-is-not-a-provocation-against-china/articleshow/131817561.cms",
       "source": "Economic Times",
@@ -422,15 +467,6 @@
       "time": "18 Jun, 10:14 AM",
       "type": "news",
       "description": "Taiwan's President Lai Ching-te asserts that defending the island's security and freedom from Chinese Communist Party rule is not provocative. He seek..."
-    },
-    {
-      "title": "US-Iran Peace Deal News Live Updates: Hegseth\u2019s restart military action warning to Tehran",
-      "link": "https://indianexpress.com/article/world/us-iran-peace-deal-live-updates-trump-agreement-signed-hormuz-reopening-10745366/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-18T09:30:36+05:30",
-      "time": "18 Jun, 09:30 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Iran deal calls for diluting uranium at minimum, waiving sanctions &amp; opening strait, US officials say",
@@ -908,18 +944,169 @@
       "time": "16 Jun, 10:46 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Renault teams up with Thales to boost France's drone production",
-      "link": "https://economictimes.indiatimes.com/news/defence/renault-teams-up-with-thales-to-boost-frances-drone-production/articleshow/131777152.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-16T22:15:01+05:30",
-      "time": "16 Jun, 10:15 PM",
-      "type": "news",
-      "description": "Renault will manufacture military drones for Thales. Production of 1,000 units monthly is set to begin next year. This partnership aims to boost Franc..."
     }
   ],
   "tweets": [
+    {
+      "title": "Technically, they are right. However, if Telegram receives a permanent ban, all terror activities will shift to Meta and Signal. Therefore, if the government believes banning a social media platform will prevent this, they need to reevaluate their decision.\n\nInstead of a permanent ban, we need strict laws that allow us to take down such content upon one notice from authorities. This is the right approach.",
+      "link": "https://nitter.net/elitepredatorss/status/2067649337585446938#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-18T22:13:11+05:30",
+      "time": "18 Jun, 10:13 PM",
+      "type": "tweets",
+      "content": "<p>Technically, they are right. However, if Telegram receives a permanent ban, all terror activities will shift to Meta and Signal. Therefore, if the government believes banning a social media platform will prevent this, they need to reevaluate their decision.<br />\n<br />\nInstead of a permanent ban, we need strict laws that allow us to take down such content upon one notice from authorities. This is the right approach.</p>\n<hr />\n<blockquote>\n<b>DesiEsco\ud83c\uddee\ud83c\uddf3 (@DesiEsco7)</b>\n<p>\n<p>Telegram is the new Dark web, more convenient for terror activities- GOI.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DesiEsco7/status/2067575172568347051#m\">https://nitter.net/DesiEsco7/status/2067575172568347051#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "PM Modi addresses members of Indian Diapsora in Paris",
+      "link": "https://nitter.net/sidhant/status/2067647530045718632#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T22:06:00+05:30",
+      "time": "18 Jun, 10:06 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi addresses members of Indian Diapsora in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLHCeLVWgAAbjZ1.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We have been present on the global stage for 7000 years, says foreign secretary Vikram Misri",
+      "link": "https://nitter.net/sidhant/status/2067647442372211059#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T22:05:39+05:30",
+      "time": "18 Jun, 10:05 PM",
+      "type": "tweets",
+      "content": "<p>We have been present on the global stage for 7000 years, says foreign secretary Vikram Misri</p>\n<a href=\"https://nitter.net/sidhant/status/2067647442372211059#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067647407119052800%2Fpu%2Fimg%2FYmGcS4wxtvYOxXiV.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: UK has earlier released visuals of seized Russian tanker seized in English Channel. Its captain is an Indian national",
+      "link": "https://nitter.net/sidhant/status/2067646143295537522#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T22:00:30+05:30",
+      "time": "18 Jun, 10:00 PM",
+      "type": "tweets",
+      "content": "<p>UK has earlier released visuals of seized Russian tanker seized in English Channel. Its captain is an Indian national</p>\n<a href=\"https://nitter.net/sidhant/status/2067646143295537522#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067646102401073152%2Fpu%2Fimg%2FA8lTf56kHex17sXF.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri  says India expects US, Iran deal will lead to \"sustain peace\"",
+      "link": "https://nitter.net/sidhant/status/2067645902215348309#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:59:32+05:30",
+      "time": "18 Jun, 09:59 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri  says India expects US, Iran deal will lead to \"sustain peace\"</p>\n<a href=\"https://nitter.net/sidhant/status/2067645902215348309#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067645809575833600%2Fpu%2Fimg%2FaSqVqkA7kEVO6_3F.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri says India, UK FTA \"opens doors\"",
+      "link": "https://nitter.net/sidhant/status/2067645873689911778#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:59:25+05:30",
+      "time": "18 Jun, 09:59 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri says India, UK FTA \"opens doors\"</p>\n<a href=\"https://nitter.net/sidhant/status/2067645873689911778#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067645822401921024%2Fpu%2Fimg%2FZ2yGYHywb3RCyBHV.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking: On UK intercepting a Russian vessel & taking Indian captain Ajay Pant in custody, Foreign secretary Vikram Misri  says \"Indian mission in UK in touch with UK authorities\"",
+      "link": "https://nitter.net/sidhant/status/2067644590547435678#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:54:20+05:30",
+      "time": "18 Jun, 09:54 PM",
+      "type": "tweets",
+      "content": "<p>Breaking: On UK intercepting a Russian vessel &amp; taking Indian captain Ajay Pant in custody, Foreign secretary Vikram Misri  says \"Indian mission in UK in touch with UK authorities\"</p>\n<a href=\"https://nitter.net/sidhant/status/2067644590547435678#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067644537128824832%2Fpu%2Fimg%2Fu0GuZ3WkHhov5-1v.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri says talks on defence deals with France still underway",
+      "link": "https://nitter.net/sidhant/status/2067644548696641837#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:54:10+05:30",
+      "time": "18 Jun, 09:54 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri says talks on defence deals with France still underway</p>\n<a href=\"https://nitter.net/sidhant/status/2067644548696641837#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067644510658527232%2Fpu%2Fimg%2FvN-9xj-NcpE9dFcz.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Our plan is to go to Switzerland, I dont know when, says JD Vance",
+      "link": "https://nitter.net/sidhant/status/2067643321900572993#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:49:17+05:30",
+      "time": "18 Jun, 09:49 PM",
+      "type": "tweets",
+      "content": "<p>Our plan is to go to Switzerland, I dont know when, says JD Vance</p>\n<a href=\"https://nitter.net/sidhant/status/2067643321900572993#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067643267844329472%2Fpu%2Fimg%2FQxL7UQ72SUlOU0l8.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Flash: Nezamipour, Deputy Secretary of the Supreme National Security Council of Iran to travel to India next week for BRICS NSA meet",
+      "link": "https://nitter.net/sidhant/status/2067640117448098300#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:36:33+05:30",
+      "time": "18 Jun, 09:36 PM",
+      "type": "tweets",
+      "content": "<p>Flash: Nezamipour, Deputy Secretary of the Supreme National Security Council of Iran to travel to India next week for BRICS NSA meet</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri says India in touch with French side on IMEC & \"develop consensus on its role out\"",
+      "link": "https://nitter.net/sidhant/status/2067639967199723916#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:35:57+05:30",
+      "time": "18 Jun, 09:35 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri says India in touch with French side on IMEC &amp; \"develop consensus on its role out\"</p>\n<a href=\"https://nitter.net/sidhant/status/2067639967199723916#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067639809279987712%2Fpu%2Fimg%2F8FjF53ZpyptA_FON.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri says India, France relationship is \"our strongest bilateral relationship at global scale\" with collaboration in Defence, Space, Civil Nuclear; Calls France a \"resident power\" in Indo Pacific",
+      "link": "https://nitter.net/sidhant/status/2067639958161027556#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:35:55+05:30",
+      "time": "18 Jun, 09:35 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri says India, France relationship is \"our strongest bilateral relationship at global scale\" with collaboration in Defence, Space, Civil Nuclear; Calls France a \"resident power\" in Indo Pacific</p>\n<a href=\"https://nitter.net/sidhant/status/2067639958161027556#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067639750320652289%2Fpu%2Fimg%2F7-h3mEj833fvfK1X.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign secretary Vikram Misri  points to India's engagement with Iran, Israel amid the conflict.",
+      "link": "https://nitter.net/sidhant/status/2067639945074749809#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:35:52+05:30",
+      "time": "18 Jun, 09:35 PM",
+      "type": "tweets",
+      "content": "<p>Foreign secretary Vikram Misri  points to India's engagement with Iran, Israel amid the conflict.</p>\n<a href=\"https://nitter.net/sidhant/status/2067639945074749809#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067639775880695809%2Fpu%2Fimg%2Fb-GBTydCN_p329z7.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Speaking in Hindi, French President Macron, thanks PM Modi for friendship, & fruitful visit.",
+      "link": "https://nitter.net/sidhant/status/2067639721233166587#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:34:59+05:30",
+      "time": "18 Jun, 09:34 PM",
+      "type": "tweets",
+      "content": "<p>Speaking in Hindi, French President Macron, thanks PM Modi for friendship, &amp; fruitful visit.</p>\n<a href=\"https://nitter.net/sidhant/status/2067639721233166587#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067639644880003072%2Fpu%2Fimg%2FXuO099JoOJEh2wJU.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian, French President take a walk at Indian pavilion of Viva Tech",
+      "link": "https://nitter.net/sidhant/status/2067637598424600847#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:26:32+05:30",
+      "time": "18 Jun, 09:26 PM",
+      "type": "tweets",
+      "content": "<p>Indian, French President take a walk at Indian pavilion of Viva Tech</p>\n<img src=\"https://nitter.net/pic/media%2FHLG5bb8WYAA-AID.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: PM Modi in Paris\n\nPM Modi Attends Europe's Largest Technology and Startup Event \n\n@kripatistic and @sidhant have more",
+      "link": "https://nitter.net/WIONews/status/2067636245015269752#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-18T21:21:10+05:30",
+      "time": "18 Jun, 09:21 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi in Paris<br />\n<br />\nPM Modi Attends Europe's Largest Technology and Startup Event <br />\n<br />\n<a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2067636245015269752#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067636120591196160%2Fimg%2FtHdSkou_w59EuDLW.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
     {
       "title": "#RedFortBlast Probe: Investigators say the accused allegedly planned to build a nationwide terror network larger than the banned Indian Mujahideen.\n\nThe probe also found that rocket-based IEDs were allegedly developed and tested in Qazigund forests of Anantnag, J&K. \u26a0\ufe0f",
       "link": "https://nitter.net/Goreunit/status/2067634299126603878#m",
@@ -981,16 +1168,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Foreign secretary Vikram Misri briefs media on PM Modi's France visit",
-      "link": "https://nitter.net/sidhant/status/2067614872922165262#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T19:56:14+05:30",
-      "time": "18 Jun, 07:56 PM",
-      "type": "tweets",
-      "content": "<p>Foreign secretary Vikram Misri briefs media on PM Modi's France visit</p>\n<img src=\"https://nitter.net/pic/media%2FHLGkw4DXgAAsKqJ.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "The whole India wants you to try it buddy \ud83e\udd23",
       "link": "https://nitter.net/elitepredatorss/status/2067611405013147896#m",
       "source": "Elite Predators",
@@ -999,26 +1176,6 @@
       "type": "tweets",
       "content": "<p>The whole India wants you to try it buddy \ud83e\udd23</p>\n<hr />\n<blockquote>\n<b>PKDefence (@hasanfuf5)</b>\n<p>\n<p>Fatah-2\u2019s UNIQUE FLIGHT PATH which makes it difficult to intercept and makes it a quasi ballastic missile</p>\n<img src=\"https://nitter.net/pic/media%2FHLAmgakbkAAYjod.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/hasanfuf5/status/2067194574150476148#m\">https://nitter.net/hasanfuf5/status/2067194574150476148#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "PM Modi, Prez Macron at Viva Tech, Europe\u2019s largest tech event in Paris",
-      "link": "https://nitter.net/sidhant/status/2067605676755497070#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T19:19:42+05:30",
-      "time": "18 Jun, 07:19 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi, Prez Macron at Viva Tech, Europe\u2019s largest tech event in Paris</p>\n<a href=\"https://nitter.net/sidhant/status/2067605676755497070#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2067605618270056448%2Fpu%2Fimg%2FVlwxQEWFQvZfeIL9.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi, French President Macron at VivaTech",
-      "link": "https://nitter.net/sidhant/status/2067605468382470296#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T19:18:52+05:30",
-      "time": "18 Jun, 07:18 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi, French President Macron at VivaTech</p>\n<img src=\"https://nitter.net/pic/media%2FHLGcNCYW8AAfT3Z.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "\ud83d\udea8BLA eliminates DSP of Counter terrorist Department in Noshki, Balochistan!!\nOne more day, One more porki afsaraan getting mauled \ud83d\udd25",
@@ -1071,36 +1228,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "AI must improve life, sustain healthy planet says PM Modi",
-      "link": "https://nitter.net/sidhant/status/2067590975631802434#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T18:21:17+05:30",
-      "time": "18 Jun, 06:21 PM",
-      "type": "tweets",
-      "content": "<p>AI must improve life, sustain healthy planet says PM Modi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi addresses VivaTech summit in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLGM_8NXsAAFYnX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067588740864778737#m\">https://nitter.net/sidhant/status/2067588740864778737#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India has the world's largest talent pool, supporting private enterprise, our govt will enable industry that innovates: PM Modi at VivaTech, France",
-      "link": "https://nitter.net/sidhant/status/2067590751949602969#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T18:20:23+05:30",
-      "time": "18 Jun, 06:20 PM",
-      "type": "tweets",
-      "content": "<p>India has the world's largest talent pool, supporting private enterprise, our govt will enable industry that innovates: PM Modi at VivaTech, France</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi addresses VivaTech summit in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLGM_8NXsAAFYnX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067588740864778737#m\">https://nitter.net/sidhant/status/2067588740864778737#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi addresses VivaTech summit in Paris",
-      "link": "https://nitter.net/sidhant/status/2067588740864778737#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T18:12:24+05:30",
-      "time": "18 Jun, 06:12 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi addresses VivaTech summit in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLGM_8NXsAAFYnX.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @NetramDefence: Manipur Chief Minister Yumnam Khemchand Singh said that a few people continue to oppose peace in the state because they benefit from the conflict.",
       "link": "https://nitter.net/KangleipakDaily/status/2067587788514713718#m",
       "source": "Netram Defense",
@@ -1121,46 +1248,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "On truth social, US President Donald Trump reposts US Ambassador Sergio Gor's post major Indian investments in US.",
-      "link": "https://nitter.net/sidhant/status/2067585948460679515#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T18:01:18+05:30",
-      "time": "18 Jun, 06:01 PM",
-      "type": "tweets",
-      "content": "<p>On truth social, US President Donald Trump reposts US Ambassador Sergio Gor's post major Indian investments in US.</p>\n<img src=\"https://nitter.net/pic/media%2FHLGKdd4WQAAqmsK.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EU Amb @EU_in_India Herv\u00e9 Delphin meets Shashi Tharoor, Chairperson of the Parliamentary Standing Committee on External affairs.",
-      "link": "https://nitter.net/sidhant/status/2067579578663436741#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T17:35:59+05:30",
-      "time": "18 Jun, 05:35 PM",
-      "type": "tweets",
-      "content": "<p>EU Amb <a href=\"https://nitter.net/EU_in_India\" title=\"EU in India\">@EU_in_India</a> Herv\u00e9 Delphin meets Shashi Tharoor, Chairperson of the Parliamentary Standing Committee on External affairs.</p>\n<img src=\"https://nitter.net/pic/media%2FHLGCtpCaYAAke_J.jpg\" />\n\n<a href=\"https://nitter.net/sidhant/status/2067579578663436741#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067577424767029248%2Fimg%2Fk6Rnl3sQFcHhWbPd.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHLGCtpnaUAAlZcd.jpg\" />\n\n<a href=\"https://nitter.net/sidhant/status/2067579578663436741#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067577424855130113%2Fimg%2FjWIfuX59n4hNkdXk.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: Prime Minister Modi is scheduled to attend VivaTech 2026 alongside French President Emmanuel Macron and interact with the Indian community. \n\nThis marks the final leg of Modi\u2019s two-nation tour to France and Slovakia \n\n@ShreyaOpines and @sidhant have more",
-      "link": "https://nitter.net/WIONews/status/2067579344982286495#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T17:35:04+05:30",
-      "time": "18 Jun, 05:35 PM",
-      "type": "tweets",
-      "content": "<p>Prime Minister Modi is scheduled to attend VivaTech 2026 alongside French President Emmanuel Macron and interact with the Indian community. <br />\n<br />\nThis marks the final leg of Modi\u2019s two-nation tour to France and Slovakia <br />\n<br />\n<a href=\"https://nitter.net/ShreyaOpines\" title=\"Shreya Upadhyaya\">@ShreyaOpines</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2067579344982286495#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067570262246346752%2Fimg%2Fyy9vT-TRiPQSOR8l.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
-      "title": "Indian Army contingent departs for multilateral peacekeeping Exercise Khaan Quest in Mongolia",
-      "link": "https://nitter.net/sidhant/status/2067578019347042783#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T17:29:48+05:30",
-      "time": "18 Jun, 05:29 PM",
-      "type": "tweets",
-      "content": "<p>Indian Army contingent departs for multilateral peacekeeping Exercise Khaan Quest in Mongolia</p>\n<img src=\"https://nitter.net/pic/media%2FHLGDP1FXMAE3EtM.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "1st indigenously constructed Air Cushion Vehicle (ACV), H-561, was inducted into service on 18 June 2026 at Chowgule & Company Private Limited, Goa.",
       "link": "https://nitter.net/DefenceDecode/status/2067575639117647955#m",
       "source": "Defense Decode",
@@ -1169,56 +1256,6 @@
       "type": "tweets",
       "content": "<p>1st indigenously constructed Air Cushion Vehicle (ACV), H-561, was inducted into service on 18 June 2026 at Chowgule &amp; Company Private Limited, Goa.</p>\n<a href=\"https://nitter.net/DefenceDecode/status/2067575639117647955#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067575523673595904%2Fimg%2FfwaXdpuO71JkYGCB.jpg\" />\n</a>",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "First Indian vessel LNG carrier Disha that transited Hormuz since announcement of Iran, US peace deal will reach an Indian port tomm",
-      "link": "https://nitter.net/sidhant/status/2067574587676561747#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T17:16:10+05:30",
-      "time": "18 Jun, 05:16 PM",
-      "type": "tweets",
-      "content": "<p>First Indian vessel LNG carrier Disha that transited Hormuz since announcement of Iran, US peace deal will reach an Indian port tomm</p>\n<img src=\"https://nitter.net/pic/media%2FHLGAH_9WYAAEFDF.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Signed at the historic Palace of Versailles. History repeats, 1919, 2026.",
-      "link": "https://nitter.net/sidhant/status/2067570392584069529#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T16:59:29+05:30",
-      "time": "18 Jun, 04:59 PM",
-      "type": "tweets",
-      "content": "<p>Signed at the historic Palace of Versailles. History repeats, 1919, 2026.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi meets business leaders in Paris",
-      "link": "https://nitter.net/sidhant/status/2067568953350602919#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T16:53:46+05:30",
-      "time": "18 Jun, 04:53 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi meets business leaders in Paris</p>\n<img src=\"https://nitter.net/pic/media%2FHLF6_-KXYAAkOpH.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF6__mW0AAyYGH.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF7AC2WcAAj6XD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF7ACDWwAATcKn.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Iran US peace deal: Impact for India\n\nEnergy: India could buy Iran Oil with sanctions removed\n\nInfra: Post War reconstruction process\n\nConnectivity: Chabahar re-engagement\n\nShipping: Hormuz situation eases",
-      "link": "https://nitter.net/sidhant/status/2067567766849065199#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T16:49:03+05:30",
-      "time": "18 Jun, 04:49 PM",
-      "type": "tweets",
-      "content": "<p>Iran US peace deal: Impact for India<br />\n<br />\nEnergy: India could buy Iran Oil with sanctions removed<br />\n<br />\nInfra: Post War reconstruction process<br />\n<br />\nConnectivity: Chabahar re-engagement<br />\n<br />\nShipping: Hormuz situation eases</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Iranian side releases the Iran, US MoU. Sanctions on Iran oil to be removed.</p>\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs9WkAAZGTz.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs2WUAADGSD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1FwLXwAA78eT.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067562457959104841#m\">https://nitter.net/sidhant/status/2067562457959104841#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "The Iran, US MoU is a net advantage for India, with sanctions removal on Iranian energy. A possible role in post war reconstruction efforts, Chabahar port could see re-engagement.\n\nSectors that will see high growth potential: Energy, Infra, Shipping, Connectivity.",
-      "link": "https://nitter.net/sidhant/status/2067565303421112701#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-18T16:39:16+05:30",
-      "time": "18 Jun, 04:39 PM",
-      "type": "tweets",
-      "content": "<p>The Iran, US MoU is a net advantage for India, with sanctions removal on Iranian energy. A possible role in post war reconstruction efforts, Chabahar port could see re-engagement.<br />\n<br />\nSectors that will see high growth potential: Energy, Infra, Shipping, Connectivity.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Iranian side releases the Iran, US MoU. Sanctions on Iran oil to be removed.</p>\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs9WkAAZGTz.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1Fs2WUAADGSD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLF1FwLXwAA78eT.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067562457959104841#m\">https://nitter.net/sidhant/status/2067562457959104841#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "INDIA\u2013VIETNAM BRAHMOS DEAL NEARS COMPLETION\n\nThe proposed export of the BrahMos supersonic cruise missile to Vietnam is in its final stages, with only a few clearances remaining, according to BrahMos Aerospace CEO Jaiteerth Joshi.\n\nKey developments:\n\ud83d\udd39 Negotiations nearing conclusion\n\ud83d\udd39 100th indigenous BrahMos booster delivered\n\ud83d\udd39 Indigenous warheads also under development\n\ud83d\udd39 Work underway on BrahMos-NG and extended-range variants\n\nIf finalized, Vietnam would become one of the largest overseas operators of India's flagship missile system.",
@@ -1839,19 +1876,27 @@
       "type": "tweets",
       "content": "<p>Solar Vijayastra is a single engine twin boom (their in house super lite composite) based system. <br />\n<br />\nThe best part is fully IDDM</p>\n<img src=\"https://nitter.net/pic/media%2FHK88suybsAAZR_q.jpg\" />\n\n<hr />\n<blockquote>\n<b>Ajit Kumar Dubey (@ajitkdubey)</b>\n<p>\n<p>Vijayastra by Solar Defence and Aerospace Limited,</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ajitkdubey/status/2066924992059850798#m\">https://nitter.net/ajitkdubey/status/2066924992059850798#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "The MoD has received around 10 bids from Indian public and private sector firms for the \u20b930,000+ cr programme to procure 87 MALE UAVs for the IAF.\n\nOne of India's largest indigenous unmanned aviation projects is now moving into the next phase.\nhttps://aninews.in/news/national/general-news/10-bids-submitted-by-indian-defence-firms-in-race-for-iafs-rs-30000-crore-uav-deal20260616210846/ via @ANI",
-      "link": "https://nitter.net/DefenceDecode/status/2066925095302680643#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-16T22:15:18+05:30",
-      "time": "16 Jun, 10:15 PM",
-      "type": "tweets",
-      "content": "<p>The MoD has received around 10 bids from Indian public and private sector firms for the \u20b930,000+ cr programme to procure 87 MALE UAVs for the IAF.<br />\n<br />\nOne of India's largest indigenous unmanned aviation projects is now moving into the next phase.<br />\n<a href=\"https://aninews.in/news/national/general-news/10-bids-submitted-by-indian-defence-firms-in-race-for-iafs-rs-30000-crore-uav-deal20260616210846/\">aninews.in/news/national/gen\u2026</a> via <a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a></p>\n<img src=\"https://nitter.net/pic/media%2FHK8xYyrbAAAdEh4.jpg\" />",
-      "author": "@DefenceDecode"
     }
   ],
   "youtube": [
+    {
+      "title": "Defence Updates - BrahMos 1st Indian Warhead, DRDO New Jet Engine Tech, Indian Artillery For US Army",
+      "link": "https://www.youtube.com/watch?v=Y0bhYMru7rk",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-18T22:18:41+05:30",
+      "time": "18 Jun, 10:18 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/Y0bhYMru7rk/mqdefault.jpg"
+    },
+    {
+      "title": "Kaveri Se Bada Plan! Bharat Bana Raha Hia Apna Military Engine Empire,10 S-400,TARA Cruise Missile",
+      "link": "https://www.youtube.com/watch?v=f8WuwnhmaA8",
+      "source": "Indian Defense News",
+      "sort_key": "2026-06-18T22:00:04+05:30",
+      "time": "18 Jun, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/f8WuwnhmaA8/mqdefault.jpg"
+    },
     {
       "title": "Burning Moscow :Message for India",
       "link": "https://www.youtube.com/watch?v=rqV8I8i53Es",
@@ -1923,18 +1968,9 @@
       "time": "16 Jun, 10:30 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/lm-OVLcFlDk/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Suryastra Rocket Failed, US B-52 Crashed, US F/A18 Crash, New MArG Artillery",
-      "link": "https://www.youtube.com/watch?v=jvsOo9oElBY",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-16T22:09:01+05:30",
-      "time": "16 Jun, 10:09 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/jvsOo9oElBY/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
