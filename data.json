@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Afghan Taliban claims air strikes on \u2018ISIS hideouts\u2019 in Pakistan\u2019s Balochistan and Khyber Pakhtunkhwa; Islamabad calls claim \u2018baseless\u2019",
+      "link": "https://indianexpress.com/article/world/afghan-taliban-air-strikes-pakistan-balochistan-khyber-pakhtunkhwa-isis-hideouts-baseless-india-10747804/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-19T22:58:54+05:30",
+      "time": "19 Jun, 10:58 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "HYDERABAD: Scientists Get New Insight Into Plant\u2019s Defence System",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-scientists-get-new-insight-into-plants-defence-system-1964826",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-19T22:53:59+05:30",
+      "time": "19 Jun, 10:53 PM",
+      "type": "news",
+      "description": "The other two studies focused on Phytophthora infestans, the pathogen responsible for potato late blight, the disease linked to the Irish Potato Famin..."
+    },
+    {
+      "title": "Lebanon says 47 killed in strikes, Israel reports deaths of 4 soldiers",
+      "link": "https://economictimes.indiatimes.com/news/defence/lebanon-says-47-killed-in-strikes-israel-reports-deaths-of-4-soldiers/articleshow/131863414.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-19T22:27:18+05:30",
+      "time": "19 Jun, 10:27 PM",
+      "type": "news",
+      "description": "Fighting flared anew in Lebanon on Friday, with authorities reporting 47 killed in Israeli airstrikes and Israel announcing the deaths of four of its ..."
+    },
+    {
       "title": "India and Uzbekistan agree to deepen trade and work towards doubling bilateral trade in next three years",
       "link": "https://newsonair.gov.in/india-and-uzbekistan-agree-to-deepen-trade-and-work-towards-doubling-bilateral-trade-in-next-three-years/",
       "source": "All India Radio",
@@ -226,6 +253,15 @@
       "description": "<p>New Delhi, June 19. Defence Minister Rajnath Singh on June 19 laid the foundation stone for a state-of-the-art 10,000-tonne Aluminium Extrusion Pre..."
     },
     {
+      "title": "Centre Okays Gandhi Sarovar Project In Defence Lands",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/revanth-reddy-thanks-rajnath-singh-for-clearing-path-for-gandhi-sarovar-project-1964695",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-19T14:40:57+05:30",
+      "time": "19 Jun, 02:40 PM",
+      "type": "news",
+      "description": "The approval marks an important milestone in the Government of Telangana\u2019s vision for the comprehensive rejuvenation of the Musi River: CM"
+    },
+    {
       "title": "India and France to launch Trishna satellite in 2027: PM Modi",
       "link": "https://www.indiastrategic.in/india-and-france-to-launch-trishna-satellite-in-2027-pm-modi/",
       "source": "India Strategic",
@@ -314,42 +350,6 @@
       "time": "19 Jun, 11:55 AM",
       "type": "news",
       "description": "Israeli airstrikes and shelling in southern Lebanon resulted in at least 15 fatalities on Friday. Israel reported targeting Hezbollah sites, citing re..."
-    },
-    {
-      "title": "Iran\u2019s top security body issues order to swiftly handle requests for crossing Hormuz Strait",
-      "link": "https://defencemonitor.in/irans-top-security-body-issues-order-to-swiftly-handle-requests-for-crossing-hormuz-strait/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-19T11:38:54+05:30",
-      "time": "19 Jun, 11:38 AM",
-      "type": "news",
-      "description": "<p>Tehran, June 19 (IANS) Iran&#8217;s top security body announced that it has issued the order for the swift handling of requests by vessels for pass..."
-    },
-    {
-      "title": "US military lifts blockade against Iranian ports: Central Command",
-      "link": "https://defencemonitor.in/us-military-lifts-blockade-against-iranian-ports-central-command/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-19T11:38:16+05:30",
-      "time": "19 Jun, 11:38 AM",
-      "type": "news",
-      "description": "<p>Washington, June 19 (IANS) The US forces lifted the blockade on all maritime traffic entering and exiting Iranian ports and coastal areas, the US C..."
-    },
-    {
-      "title": "After three-month wait, LNG tanker \u2018Disha\u2019 crosses Strait of Hormuz, docks in Gujarat",
-      "link": "https://defencemonitor.in/after-three-month-wait-lng-tanker-disha-crosses-strait-of-hormuz-docks-in-gujarat/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-19T11:35:37+05:30",
-      "time": "19 Jun, 11:35 AM",
-      "type": "news",
-      "description": "<p>New Delhi, June 19 (IANS) The LNG tanker &#8216;Disha&#8217; has successfully arrived at Dahej Port in Gujarat after crossing the strategically imp..."
-    },
-    {
-      "title": "EUROSATORY 2026 \u2013 Milanion Group and RPAL/Republikorp Strengthen Indonesian Navy Maritime Capabilities Through USV Programme, with New Agreement",
-      "link": "https://defencemonitor.in/eurosatory-2026-milanion-group-and-rpal-republikorp-strengthen-indonesian-navy-maritime-capabilities-through-usv-programme-with-new-agreement/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-19T11:32:58+05:30",
-      "time": "19 Jun, 11:32 AM",
-      "type": "news",
-      "description": "<p>Paris, France &#8211; 17th June 2026 &#8211; Milanion Group and PT Republik Palindo Internasional (RPAL), a subsidiary of Republikorp, today announ..."
     },
     {
       "title": "India tests it heaviest 120mm mortar system 'Garudastra', check range, firing rate, drone integration and key features",
@@ -476,15 +476,6 @@
       "time": "19 Jun, 12:01 AM",
       "type": "news",
       "description": "India is close to exporting BrahMos missiles to Vietnam. Negotiations are in their final stages. Domestic production of critical missile parts is also..."
-    },
-    {
-      "title": "India\u2019s drone procurement strategy aligns with PM Modi\u2019s \u2018Atmanirbhar Bharat\u2019 vision: Report",
-      "link": "https://defencemonitor.in/indias-drone-procurement-strategy-aligns-with-pm-modis-atmanirbhar-bharat-vision-report/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-18T23:41:00+05:30",
-      "time": "18 Jun, 11:41 PM",
-      "type": "news",
-      "description": "<p>Athens, June 18 (IANS) India&#8217;s drone programme extends beyond defence procurement, reflecting a strategic effort aimed at modernising the arm..."
     },
     {
       "title": "Pakistan hints at cutting fuel prices after US-Iran deal, eases Middle East tensions",
@@ -803,6 +794,26 @@
     }
   ],
   "tweets": [
+    {
+      "title": "Indian senior official Vivek Aggarwal has been elected Vice President of the Financial Action Task Force (FATF)",
+      "link": "https://nitter.net/sidhant/status/2068023639597879648#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-19T23:00:32+05:30",
+      "time": "19 Jun, 11:00 PM",
+      "type": "tweets",
+      "content": "<p>Indian senior official Vivek Aggarwal has been elected Vice President of the Financial Action Task Force (FATF)</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Helpless local looks on as Pakistani soldiers steal his fuel on a dusty roadside.",
+      "link": "https://nitter.net/elitepredatorss/status/2068016950580842657#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-19T22:33:57+05:30",
+      "time": "19 Jun, 10:33 PM",
+      "type": "tweets",
+      "content": "<p>Helpless local looks on as Pakistani soldiers steal his fuel on a dusty roadside.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2068016950580842657#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2068016570476240896%2Fimg%2FoZEsi-PoR_SP8ZXR.jpg\" />\n</a>",
+      "author": "@elitepredatorss"
+    },
     {
       "title": "Lashkar terrorist Abu Dhirar Akasha Farooq, one of the terrorists involved in the failed Sundarbani infiltration bid in Rajouri on 19 February 2026, has reportedly 72'd from injuries sustained during the operation.\n\nThe Indian Army had earlier reported heavy blood trails and recovered an AK-47, ammunition, rucksacks and other war-like stores from the area.",
       "link": "https://nitter.net/elitepredatorss/status/2068012139219177735#m",
@@ -1191,16 +1202,6 @@
       "time": "19 Jun, 02:34 PM",
       "type": "tweets",
       "content": "<p>PM Modi gifted a traditional Brass Dokra Antelope Set, crafted by tribal artisans using the ancient lost-wax technique, to Slovak President Peter Pellegrini during his visit to Slovakia.</p>\n<img src=\"https://nitter.net/pic/media%2FHLKk02IWsAARXXc.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi gifted a traditional hand-knotted Kashmiri silk carpet to Slovak counterpart Robert Fico during his visit to Bratislava.",
-      "link": "https://nitter.net/sidhant/status/2067896132978528662#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-19T14:33:52+05:30",
-      "time": "19 Jun, 02:33 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi gifted a traditional hand-knotted Kashmiri silk carpet to Slovak counterpart Robert Fico during his visit to Bratislava.</p>\n<img src=\"https://nitter.net/pic/media%2FHLKkkzvXwAApzOE.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1782,26 +1783,6 @@
       "type": "tweets",
       "content": "<p>Bhai bas engine aane de rest we will take care</p>\n<hr />\n<blockquote>\n<b>Aditya Raj Kaul (@AdityaRajKaul)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BREAKING\">#BREAKING</a>: Trump says United States will defend India if India is ever attacked.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AdityaRajKaul/status/2067251550528176394#m\">https://nitter.net/AdityaRajKaul/status/2067251550528176394#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "The Power Development Department (PDD) of Jammu and Kashmir has terminated the services of a senior employee, Mohd Shafi Malik, for his involvement in terror-related activities.",
-      "link": "https://nitter.net/Goreunit/status/2067299697673597098#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-17T23:03:51+05:30",
-      "time": "17 Jun, 11:03 PM",
-      "type": "tweets",
-      "content": "<p>The Power Development Department (PDD) of Jammu and Kashmir has terminated the services of a senior employee, Mohd Shafi Malik, for his involvement in terror-related activities.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "\"Yesterday Modi congratulated Trump, but  doesn't have the heart to even mention Pakistan in that.\": Khawaja Asif\n\nDear Khawaja Asif world had already figured out Pakistan's role when Shehbaz Sharif ended up tweeting \"Draft - Pakistan's PM Message on X.\"",
-      "link": "https://nitter.net/OsintTV/status/2067291039937732622#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-17T22:29:26+05:30",
-      "time": "17 Jun, 10:29 PM",
-      "type": "tweets",
-      "content": "<p>\"Yesterday Modi congratulated Trump, but  doesn't have the heart to even mention Pakistan in that.\": Khawaja Asif<br />\n<br />\nDear Khawaja Asif world had already figured out Pakistan's role when Shehbaz Sharif ended up tweeting \"Draft - Pakistan's PM Message on X.\"</p>\n<a href=\"https://nitter.net/OsintTV/status/2067291039937732622#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067290749633245184%2Fimg%2FBtSZqlAg6Ofn2qe7.jpg\" />\n</a>",
-      "author": "@OsintTV"
     }
   ],
   "youtube": [
@@ -1867,27 +1848,9 @@
       "time": "18 Jun, 05:40 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/CCGoyMs6UNY/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Indian Radar Detect F35, India Rs. 30000 Crore UAV Deal, Garudastra Mortar Test",
-      "link": "https://www.youtube.com/watch?v=9iXkonoDFVY",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-17T22:38:31+05:30",
-      "time": "17 Jun, 10:38 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/9iXkonoDFVY/mqdefault.jpg"
-    },
-    {
-      "title": "US Ne INDIA Ko Ignore Karna Shuru Kar Diya?,Tejas Mk2 Stealth NE Rafale Ko Challenge Kar Diya?",
-      "link": "https://www.youtube.com/watch?v=tnTy-WV2HyY",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-17T22:30:04+05:30",
-      "time": "17 Jun, 10:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/tnTy-WV2HyY/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
