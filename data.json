@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Who Is Vivek Aggarwal,1st Indian appointed as Vice-President of FATF",
+      "link": "https://www.deccanchronicle.com/nation/india-secures-seat-at-fatf-indian-ias-officer-vivek-aggarwal-becomes-vice-president-1964945",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-20T14:20:30+05:30",
+      "time": "20 Jun, 02:20 PM",
+      "type": "news",
+      "description": "Spokesperson of the Ministry of External Affairs (MEA) Randhir Jaiswal, termed the appointment a \u201cmajor win\u201d for India and said that the position woul..."
+    },
+    {
+      "title": "India, South Korea reaffirm commitment to strengthen cooperation in public administration",
+      "link": "https://newsonair.gov.in/india-south-korea-reaffirm-commitment-to-strengthen-cooperation-in-public-administration/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-20T14:18:19+05:30",
+      "time": "20 Jun, 02:18 PM",
+      "type": "news",
+      "description": "India and South Korea have reaffirmed their commitment to deepening cooperation in public administration and digital governance. Personnel, Public Gri..."
+    },
+    {
+      "title": "India to host BRICS National Security Advisers meeting beginning on June 22",
+      "link": "https://newsonair.gov.in/india-to-host-brics-national-security-advisers-meeting-beginning-on-june-22/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-20T14:13:47+05:30",
+      "time": "20 Jun, 02:13 PM",
+      "type": "news",
+      "description": "India will host a two-day BRICS National Security Advisers Meeting beginning on Monday. The meeting will be chaired by National Security Adviser Ajit ..."
+    },
+    {
+      "title": "Slovakia to host International Day of Yoga programmes across multiple locations",
+      "link": "https://newsonair.gov.in/slovakia-to-host-international-day-of-yoga-programmes-across-multiple-locations/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-20T14:06:22+05:30",
+      "time": "20 Jun, 02:06 PM",
+      "type": "news",
+      "description": "Various programmes will be organised on the International Day of Yoga in Slovakia. The Indian Ambassador to the Slovak Republic, Apoorva Srivastava, t..."
+    },
+    {
       "title": "Twin roadside blasts kill at least seven in Pakistan\u2019s Bannu district",
       "link": "https://www.newindianexpress.com/world/2026/Jun/20/twin-roadside-blasts-kill-at-least-seven-in-pakistans-bannu-district",
       "source": "New Indian Express",
@@ -118,20 +154,11 @@
       "description": "India&#8217;s senior bureaucrat Vivek Aggarwal has been selected as the next Vice-President of the Financial Action Task Force (FATF) for the 2026-27 ..."
     },
     {
-      "title": "Why Indian Embassy in UAE is suspending appointments for 5 days",
+      "title": "Why Indian Embassy and consulate in UAE are suspending appointments from June 26",
       "link": "https://indianexpress.com/article/world/indian-embassy-uae-suspends-consular-appointments-5-days-alhind-10748619/",
       "source": "The Indian Express",
       "sort_key": "2026-06-20T09:51:21+05:30",
       "time": "20 Jun, 09:51 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "\u2018I Love Pakistan\u2019 on vessel at Cochin shipyard: Central agencies begin probe",
-      "link": "https://www.newindianexpress.com/cities/kochi/2026/Jun/20/i-love-pakistan-on-vessel-at-cochin-shipyard-central-agencies-begin-probe",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-20T09:39:42+05:30",
-      "time": "20 Jun, 09:39 AM",
       "type": "news",
       "description": ""
     },
@@ -262,33 +289,6 @@
       "description": "Fighting flared anew in Lebanon on Friday, with authorities reporting 47 killed in Israeli airstrikes and Israel announcing the deaths of four of its ..."
     },
     {
-      "title": "India and Uzbekistan agree to deepen trade and work towards doubling bilateral trade in next three years",
-      "link": "https://newsonair.gov.in/india-and-uzbekistan-agree-to-deepen-trade-and-work-towards-doubling-bilateral-trade-in-next-three-years/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-19T21:47:18+05:30",
-      "time": "19 Jun, 09:47 PM",
-      "type": "news",
-      "description": "Commerce Secretary Rajesh Agrawal today virtually co-chaired the 14th Session of the India-Uzbekistan Inter-governmental Commission in Tashkent with D..."
-    },
-    {
-      "title": "India and ASEAN strongly condemn terrorism in all its forms and manifestations",
-      "link": "https://newsonair.gov.in/india-and-asean-strongly-condemn-terrorism-in-all-its-forms-and-manifestations/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-19T21:44:24+05:30",
-      "time": "19 Jun, 09:44 PM",
-      "type": "news",
-      "description": "India and ASEAN have strongly condemned terrorism in all its forms and manifestations, including cross-border terrorism. The 13th ASEAN-India Senior O..."
-    },
-    {
-      "title": "UAE announces final 30-day grace period for individuals exempted from overstay fines",
-      "link": "https://newsonair.gov.in/uae-announces-final-30-day-grace-period-for-individuals-exempted-from-overstay-fines/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-19T21:32:21+05:30",
-      "time": "19 Jun, 09:32 PM",
-      "type": "news",
-      "description": "The United Arab Emirates\u2019 Federal Authority for Identity, Citizenship, Customs and Ports Security, ICP, has announced a final 30-day grace period for ..."
-    },
-    {
       "title": "Rajnath Singh lays foundation stone for 10,000-tonne aluminium extrusion press at YIL&#039;s Nagpur unit",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/rajnath-singh-lays-foundation-stone-for-10000-tonne-aluminium-extrusion-press-at-yils-nagpur-unit/131861652",
       "source": "Economic Times",
@@ -386,6 +386,15 @@
       "time": "19 Jun, 05:05 PM",
       "type": "news",
       "description": "These next-generation missiles will significantly boost India&#039;s strike capabilities, offering enhanced precision, reduced costs, and integration ..."
+    },
+    {
+      "title": "Sikh &#8216;Jatha&#8217; to visit Pakistan to observe death anniversary of Maharaja Ranjit Singh",
+      "link": "https://www.tribuneindia.com/news/amritsar/sikh-jatha-to-visit-pakistan-to-observe-death-anniversary-of-maharaja-ranjit-singh",
+      "source": "The Tribune",
+      "sort_key": "2026-06-19T16:52:35+05:30",
+      "time": "19 Jun, 04:52 PM",
+      "type": "news",
+      "description": "The Shiromani Gurdwara Parbandhak Committee (SGPC) has received visas for 290 Sikh pilgrims who will travel to Pakistan to participate in the observan..."
     },
     {
       "title": "KSSL, AM General forge partnership for next-generation mobile artillery systems",
@@ -584,6 +593,15 @@
       "time": "19 Jun, 10:25 AM",
       "type": "news",
       "description": "Security forces have apprehended eight militants from two factions of a banned outfit in Manipur. These individuals are accused of extortion and suppl..."
+    },
+    {
+      "title": "US-Iran Peace Deal Live Updates: Pakistan minister to meet Iran\u2019s Araghchi in Tehran as Israel resumes attacks in Lebanon",
+      "link": "https://indianexpress.com/article/world/us-iran-war-news-live-updates-peace-deal-talks-donald-trump-jd-vance-mojtaba-khamenei-israel-lebanaon-strikes-strait-of-hormuz-10747026/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-19T09:54:59+05:30",
+      "time": "19 Jun, 09:54 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "Pentagon tells US lawmakers it needs $80 billion for Iran war and other bills, WSJ reports",
@@ -845,18 +863,29 @@
       "time": "18 Jun, 02:31 PM",
       "type": "news",
       "description": "US Defense Secretary Pete Hegseth announced a six-month Pentagon review of American forces in Europe, contingent on allies taking greater responsibili..."
-    },
-    {
-      "title": "Can Luigi Mangione Use Mental Health Defence in CEO Murder Trial?",
-      "link": "https://www.deccanchronicle.com/world/americas/mangione-accused-insurance-ceo-killer-could-face-hurdles-with-mental-breakdown-defense-1964441",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-18T14:14:34+05:30",
-      "time": "18 Jun, 02:14 PM",
-      "type": "news",
-      "description": "Mangione is accused of fatally shooting UnitedHealthcare CEO Brian Thompson outside a hotel in Midtown in December 2024"
     }
   ],
   "tweets": [
+    {
+      "title": "'Brigadier Faiq ko kutta kehna, kutte ki tauheen hai\" \ud83d\ude01",
+      "link": "https://nitter.net/Goreunit/status/2068246659667226904#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-20T13:46:44+05:30",
+      "time": "20 Jun, 01:46 PM",
+      "type": "tweets",
+      "content": "<p>'Brigadier Faiq ko kutta kehna, kutte ki tauheen hai\" \ud83d\ude01</p>\n<a href=\"https://nitter.net/Goreunit/status/2068246659667226904#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2063454005435797504%2Fpu%2Fimg%2FyOmnl0BRCB-7NBhn.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>\ud83d\udea8 EXPOSED FROM THE STAGE IN RAWALAKOT, PoJK<br />\n<br />\nKhawaja Mehran, one of the key organisers of the ongoing PoJK uprising, has directly exposed the Pakistan Army and ISI of firing on Kashmiris at the behest of \u201cdrug mafias.\u201d<br />\n<br />\nSpeaking before thousands of protesters, Mehran declared that he is prepared to prove that the massacre underway since June 5 is being directed by drug mafia networks. He further stated that he possesses evidence linking PoJK drug mafias with Brigadier (Faiq Ayub) and Colonel (Zaheer).<br />\n<br />\nAs the siege of PoJK continues, protesters are now openly challenging the Pakistan Army\u2019s role and exposing the nexus between the ISI and drug mafias.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoJK\">#PoJK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rawalakot\">#Rawalakot</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoJKUprising\">#PoJKUprising</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanArmy\">#PakistanArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanExposed\">#PakistanExposed</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ISI\">#ISI</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DrugMafia\">#DrugMafia</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23KashmirProtests\">#KashmirProtests</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23FreePoJK\">#FreePoJK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RawalakotProtests\">#RawalakotProtests</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BreakingNews\">#BreakingNews</a></p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2068245371709804600#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2068245288100466688%2Fimg%2F3sLnwcoOP0sMb79g.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2068245371709804600#m\">https://nitter.net/shivank_8mishra/status/2068245371709804600#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Vishvas Vidu Sapkal appointed as the next Ambassador of India to the Slovak Republic",
+      "link": "https://nitter.net/sidhant/status/2068241330405343693#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-20T13:25:33+05:30",
+      "time": "20 Jun, 01:25 PM",
+      "type": "tweets",
+      "content": "<p>Vishvas Vidu Sapkal appointed as the next Ambassador of India to the Slovak Republic</p>\n<img src=\"https://nitter.net/pic/media%2FHLPehoFWwAAhiKd.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "An investigative report by the prominent Bengali newspaper Anandabazar Patrika has revealed that local human trafficking agents and \"coyotes\" in West Bengal claim personnel from the Border Guard Bangladesh (BGB) actively facilitate illegal border crossings into India in exchange for money.\n\nAccording to details shared by syndicate insiders and media reports published in June 2026, the illegal cross-border migration network, locally known as Dhur Parapar, operated as a highly organized, \u20b9900 crore annual racket.",
       "link": "https://nitter.net/NetramDefence/status/2068237538314400086#m",
@@ -1028,7 +1057,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "\ud83d\udea8 \ud835\udde2\ud835\udde6\ud835\udddc\ud835\udde1\ud835\udde7 \ud835\udde8\ud835\udde3\ud835\uddd7\ud835\uddd4\ud835\udde7\ud835\uddd8:\n\nDuring an infiltration attempt at Nathua Tibba, Sundarbani on 19 February 2026, the Indian Army engaged Lashkar-e-Taiba (LeT) terrorists. Reportedly, Abu Zarrar Okasha Farooq sustained serious injuries and later succumbed while retreating across the LoC. Follow-up searches led to the recovery of war-like stores from the encounter site.\n\nAnother senior LeT commander Abu Muaz Zaheer was critically wounded during the exchange of fire and later succumbed to his injuries while retreating across the LoC.\n\nBoth terrorists were reportedly natives of Pakistan's Punjab province. Abu Muaz Zaheer had reportedly left behind his months old infant in Pakistan before embarking on the infiltration mission into Jammu and Kashmir.\n\nThese incidents expose the persistent efforts of Pakistan-based terror groups to push infiltrators across the LoC.\n\nOpen Source \nFYR @Whiteknight_IA",
+      "title": "RT by @OsintTV: \ud83d\udea8 \ud835\udde2\ud835\udde6\ud835\udddc\ud835\udde1\ud835\udde7 \ud835\udde8\ud835\udde3\ud835\uddd7\ud835\uddd4\ud835\udde7\ud835\uddd8:\n\nDuring an infiltration attempt at Nathua Tibba, Sundarbani on 19 February 2026, the Indian Army engaged Lashkar-e-Taiba (LeT) terrorists. Reportedly, Abu Zarrar Okasha Farooq sustained serious injuries and later succumbed while retreating across the LoC. Follow-up searches led to the recovery of war-like stores from the encounter site.\n\nAnother senior LeT commander Abu Muaz Zaheer was critically wounded during the exchange of fire and later succumbed to his injuries while retreating across the LoC.\n\nBoth terrorists were reportedly natives of Pakistan's Punjab province. Abu Muaz Zaheer had reportedly left behind his months old infant in Pakistan before embarking on the infiltration mission into Jammu and Kashmir.\n\nThese incidents expose the persistent efforts of Pakistan-based terror groups to push infiltrators across the LoC.\n\nOpen Source \nFYR @Whiteknight_IA",
       "link": "https://nitter.net/OsintTV/status/2068195853336998219#m",
       "source": "Osint TV",
       "sort_key": "2026-06-20T10:24:51+05:30",
@@ -1406,16 +1435,6 @@
       "type": "tweets",
       "content": "<p>Security forces achieved a major breakthrough in Churachandpur, dismantling insurgent hideouts and recovering arms &amp; ammunition during a counter-insurgency operation. One UKNA cadre was neutralised after security personnel came under fire.</p>\n<img src=\"https://nitter.net/pic/media%2FHLLdB-kbYAAaYXF.jpg\" />",
       "author": "@KangleipakDaily"
-    },
-    {
-      "title": "Just in: Italian Foreign Minister Antonio Tajani cancels US visit after Trump claimed that Italian PM Meloni \"begged for photo\". PM Meloni has dismissed US President's claim.",
-      "link": "https://nitter.net/sidhant/status/2067957140975714801#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-19T18:36:17+05:30",
-      "time": "19 Jun, 06:36 PM",
-      "type": "tweets",
-      "content": "<p>Just in: Italian Foreign Minister Antonio Tajani cancels US visit after Trump claimed that Italian PM Meloni \"begged for photo\". PM Meloni has dismissed US President's claim.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Italian PM Meloni denies Trump's claim that she 'begged' for photo at G7. Says, \"completely made up\" by US President.</p>\n<a href=\"https://nitter.net/sidhant/status/2067956465751437345#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067917186140659712%2Fimg%2FKmgddSR4F32dINNH.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2067956465751437345#m\">https://nitter.net/sidhant/status/2067956465751437345#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "#MoD has signed a \u20b9425cr contract with Bharat Forge for the supply of 12 indigenous Marine Gas Turbine Generators (#MGTG) for the Indian Navy.\n\nBeyond the equipment itself, the programme will help establish a domestic ecosystem for mfg, M&S of strategic naval power-gen systems.",
@@ -1906,36 +1925,6 @@
       "type": "tweets",
       "content": "<p>Ek Mod aaya mai truck uthee chod aaya.. <br />\nnew protection system of PAF \u201cTruck shield\u201d</p>\n<hr />\n<blockquote>\n<b>Damien Symon (@detresfa_)</b>\n<p>\n<p>A new aircraft protection measure observed at some airbases in Pakistan likely seeks to shield aircraft on the ground, trucks are being positioned around airframes to form a barrier likely to deter reconnaissance, small-arms fire, &amp; potential terrorist threats</p>\n<img src=\"https://nitter.net/pic/media%2FHLCh5HkXcAAFsIq.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/detresfa_/status/2067464824427028651#m\">https://nitter.net/detresfa_/status/2067464824427028651#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Russian Oil Waiver Expires\n\nThe Trump administration has allowed the U.S. sanctions waiver for Russian seaborne crude to lapse, raising questions about future Indian imports.\n\nFor India, the impact may be limited if:\n\u2022 Strait of Hormuz traffic normalizes\n\u2022 Middle Eastern oil flows resume\n\u2022 Iranian crude re-enters global markets\n\u2022 Import diversification continues\n\nRussia is expected to remain an important supplier, though sanctioned entities could face renewed restrictions.\n\n#India #Russia #OilMarkets #EnergySecurity",
-      "link": "https://nitter.net/NetramDefence/status/2067528502753272078#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-18T14:13:02+05:30",
-      "time": "18 Jun, 02:13 PM",
-      "type": "tweets",
-      "content": "<p>Russian Oil Waiver Expires<br />\n<br />\nThe Trump administration has allowed the U.S. sanctions waiver for Russian seaborne crude to lapse, raising questions about future Indian imports.<br />\n<br />\nFor India, the impact may be limited if:<br />\n\u2022 Strait of Hormuz traffic normalizes<br />\n\u2022 Middle Eastern oil flows resume<br />\n\u2022 Iranian crude re-enters global markets<br />\n\u2022 Import diversification continues<br />\n<br />\nRussia is expected to remain an important supplier, though sanctioned entities could face renewed restrictions.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23India\">#India</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Russia\">#Russia</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OilMarkets\">#OilMarkets</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23EnergySecurity\">#EnergySecurity</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLFWNPWbAAAwjJN.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "US Ambassador Sergio Gor met Home minster Amit Shah in Delhi.",
-      "link": "https://nitter.net/Goreunit/status/2067522813725151658#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-18T13:50:26+05:30",
-      "time": "18 Jun, 01:50 PM",
-      "type": "tweets",
-      "content": "<p>US Ambassador Sergio Gor met Home minster Amit Shah in Delhi.</p>\n<img src=\"https://nitter.net/pic/media%2FHLFRCqbaUAA9c0b.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "The 100th indigenous BrahMos booster has been flagged off in Nagpur by #BrahMos Aerospace and Solar Industries \ud83c\uddee\ud83c\uddf3\n\nA significant achievement that reflects the steady expansion of India's domestic missile manufacturing capabilities and supply chain.",
-      "link": "https://nitter.net/DefenceDecode/status/2067518777684836414#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-18T13:34:23+05:30",
-      "time": "18 Jun, 01:34 PM",
-      "type": "tweets",
-      "content": "<p>The 100th indigenous BrahMos booster has been flagged off in Nagpur by <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BrahMos\">#BrahMos</a> Aerospace and Solar Industries \ud83c\uddee\ud83c\uddf3<br />\n<br />\nA significant achievement that reflects the steady expansion of India's domestic missile manufacturing capabilities and supply chain.</p>\n<img src=\"https://nitter.net/pic/media%2FHLFNQJgb0AAfxMk.jpg\" />",
-      "author": "@DefenceDecode"
     }
   ],
   "youtube": [
@@ -2013,6 +2002,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
