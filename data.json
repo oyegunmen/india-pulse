@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Norway bans use of generative AI tools in elementary school to prevent \u200cnegative impact on learning",
+      "link": "https://newsonair.gov.in/norway-bans-use-of-generative-ai-tools-in-elementary-school-to-prevent-negative-impact-on-learning/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-21T12:39:13+05:30",
+      "time": "21 Jun, 12:39 PM",
+      "type": "news",
+      "description": "Norway is imposing a near ban on the use of generative AI tools by elementary school pupils while also restricting their \u200buse in the education of olde..."
+    },
+    {
+      "title": "Yoga enhances physical, mental, emotional resilience of armed forces personnel: Army Chief",
+      "link": "https://economictimes.indiatimes.com/news/defence/yoga-enhances-physical-mental-emotional-resilience-of-armed-forces-personnel-army-chief/articleshow/131887224.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-21T12:33:23+05:30",
+      "time": "21 Jun, 12:33 PM",
+      "type": "news",
+      "description": "Army Chief General Upendra Dwivedi emphasized yoga's role in enhancing soldiers' physical, mental, and emotional resilience, calling it a way of life...."
+    },
+    {
       "title": "'India aspires to be Nirmata, become Nirnayak': PM Modi launches 3 indigenous warships in Kolkata",
       "link": "https://economictimes.indiatimes.com/news/defence/india-aspires-to-be-nirmata-become-nirnayak-pm-modi-launches-3-indigenous-warships-in-kolkata/videoshow/131886964.cms",
       "source": "Economic Times",
@@ -10,7 +28,7 @@
       "description": ""
     },
     {
-      "title": "INS Dunagiri, INS Sanshodhak and INS Agray join the Navy. Here&#039;s what homegrown warships can do",
+      "title": "INS Dunagiri, INS Sanshodhak and INS Agray join the Navy: Here&#039;s what homegrown warships can do",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/ins-dunagiri-ins-sanshodhak-and-ins-agray-join-the-navy-heres-what-homegrown-warships-can-do/131886706",
       "source": "Economic Times",
       "sort_key": "2026-06-21T11:35:00+05:30",
@@ -89,15 +107,6 @@
       "time": "21 Jun, 09:48 AM",
       "type": "news",
       "description": "<p>Shillong, June 20. Defence Minister Rajnath Singh on June 20 stressed the need for technological agility, strategic foresight and institutional inn..."
-    },
-    {
-      "title": "Chief Secretary G Sai Prasad orders tight security for NEET re-exam",
-      "link": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jun/21/chief-secretary-g-sai-prasad-orders-tight-security-for-neet-re-exam",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-21T09:10:09+05:30",
-      "time": "21 Jun, 09:10 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "US, Iran negotiators add 'emergency session' on Israel-Hezbollah conflict in Switzerland meet",
@@ -262,15 +271,6 @@
       "description": "With less than 24 hours to go for the International Day of Yoga 2026, anticipation is building across the United Arab Emirates, as diplomatic missions..."
     },
     {
-      "title": "NEET UG 2026 re-exam: From CCTV surveillance to police escorts, security tightened for over 22 lakh candidates",
-      "link": "https://www.indiatvnews.com/news/india/neet-ug-2026-re-exam-from-cctv-surveillance-to-police-escorts-security-tightened-for-over-22-lakh-candidates-2026-06-20-1045565",
-      "source": "India TV",
-      "sort_key": "2026-06-20T20:16:17+05:30",
-      "time": "20 Jun, 08:16 PM",
-      "type": "news",
-      "description": "With the NEET UG 2026 re-examination scheduled for June 21, authorities across the country have stepped up security and logistical arrangements to ens..."
-    },
-    {
       "title": "NTA to conduct NEET-UG 2026 re-examination across UAE tomorrow",
       "link": "https://newsonair.gov.in/nta-to-conduct-neet-ug-2026-re-examination-across-uae-tomorrow/",
       "source": "All India Radio",
@@ -377,15 +377,6 @@
       "time": "20 Jun, 05:29 PM",
       "type": "news",
       "description": "Intense Israeli airstrikes in southern Lebanon killed at least 16, including children, despite reports of a ceasefire. This escalation jeopardizes a c..."
-    },
-    {
-      "title": "Earthquake measuring 5.8 magnitude strikes Greece",
-      "link": "https://newsonair.gov.in/earthquake-measuring-5-8-magnitude-strikes-greece/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-20T17:25:26+05:30",
-      "time": "20 Jun, 05:25 PM",
-      "type": "news",
-      "description": "In Greece, an earthquake measuring 5.8 on the Richter scale struck the country today. According to the European-Mediterranean Seismological Centre, th..."
     },
     {
       "title": "Warship-maker GRSE conferred 'Navratna' status; defining moment for company, says CMD",
@@ -683,47 +674,81 @@
       "time": "19 Jun, 01:26 PM",
       "type": "news",
       "description": "This includes producing critical parts like boosters and warheads within India. Production capacity is set to increase with private partners. New vari..."
-    },
-    {
-      "title": "Trump takes final ride on old Air Force One plane, jet gifted by Qatar to join fleet",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-takes-final-ride-on-old-air-force-one-plane-jet-gifted-by-qatar-to-join-fleet/articleshow/131850714.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-19T12:57:24+05:30",
-      "time": "19 Jun, 12:57 PM",
-      "type": "news",
-      "description": "President Donald Trump has taken his last flight aboard the iconic Boeing 747-200B Air Force One. This aircraft served US presidents for 35 years. A n..."
-    },
-    {
-      "title": "Israeli military says four soldiers have been killed in southern Lebanon as fighting intensifies",
-      "link": "https://economictimes.indiatimes.com/news/defence/israeli-military-says-four-soldiers-have-been-killed-in-southern-lebanon-as-fighting-intensifies/articleshow/131850265.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-19T12:47:48+05:30",
-      "time": "19 Jun, 12:47 PM",
-      "type": "news",
-      "description": "Heavy clashes in southern Lebanon have claimed the lives of four Israeli soldiers and at least sixteen Lebanese civilians. This escalation has disrupt..."
-    },
-    {
-      "title": "Europe unveils a new tank to neutralise drones: Check how US, Russia, China and India are arming heavy armour for future warfare",
-      "link": "https://economictimes.indiatimes.com/news/defence/europe-unveils-a-new-tank-to-neutralise-drones-check-how-us-russia-china-and-india-are-arming-heavy-armour-for-future-warfare/articleshow/131850011.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-19T12:38:11+05:30",
-      "time": "19 Jun, 12:38 PM",
-      "type": "news",
-      "description": "European defence firm KNDS has unveiled the Capint next-generation tank at Eurosatory 2026, combining a Leopard 2 hull with a French unmanned turret. ..."
-    },
-    {
-      "title": "2 Khalistani operatives involved in targeting rail corridor in Punjab deported from Malaysia, arrested",
-      "link": "https://economictimes.indiatimes.com/news/defence/2-khalistani-operatives-involved-in-targeting-rail-corridor-in-punjab-deported-from-malaysia/articleshow/131848775.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-19T12:28:26+05:30",
-      "time": "19 Jun, 12:28 PM",
-      "type": "news",
-      "description": "Punjab Police have arrested two wanted operatives of the banned Khalistan Zindabad Force. The duo was deported from Malaysia and apprehended at Delhi ..."
     }
   ],
   "tweets": [
     {
-      "title": "Russia has reportedly begun operational deployment of the Volna Kupol Garant electronic warfare system, designed to disrupt Starlink satellite communications used for drone control, reconnaissance, and battlefield coordination.\n\nAccording to reports, the system jams signals in the 14\u201314.5 GHz band by transmitting powerful interference toward Starlink satellites. One system is said to cover an area of roughly 20 sq km and is intended to protect high-value assets such as military bases, bridges, and energy infrastructure.\n\nRussian authorities have not officially commented on the reported deployment.",
+      "title": "R to @sidhant: Russia",
+      "link": "https://nitter.net/sidhant/status/2068597824837861396#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-21T13:02:08+05:30",
+      "time": "21 Jun, 01:02 PM",
+      "type": "tweets",
+      "content": "<p>Russia</p>\n<hr />\n<blockquote>\n<b>Russia in India \ud83c\uddf7\ud83c\uddfa (@RusEmbIndia)</b>\n<p>\n<p>\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf3 On June 20, the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Russia\">#Russia</a>\u2019n Embassy in <a href=\"https://nitter.net/search?f=tweets&amp;q=%23India\">#India</a> jointly with the Lifeyoga Studio hosted a yoga practice session, dedicated to the upcoming 12th <a href=\"https://nitter.net/search?f=tweets&amp;q=%23InternationalDayOfYoga\">#InternationalDayOfYoga</a>.<br />\n<br />\nThe participants included representatives of the diplomatic corps &amp; the Indian public.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23RussiaIndia\">#RussiaIndia</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IDY2026\">#IDY2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLPeHIQXoAAix-C.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLPeHISXcAAT4wy.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLPeHL7WcAAAJYy.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLPeHIhWUAErj_1.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/RusEmbIndia/status/2068240880062922808#m\">https://nitter.net/RusEmbIndia/status/2068240880062922808#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Singapore",
+      "link": "https://nitter.net/sidhant/status/2068597740964401237#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-21T13:01:48+05:30",
+      "time": "21 Jun, 01:01 PM",
+      "type": "tweets",
+      "content": "<p>Singapore</p>\n<hr />\n<blockquote>\n<b>Singapore in India (@SGinIndia)</b>\n<p>\n<p>Wishing everyone a happy and healthy <a href=\"https://nitter.net/search?f=tweets&amp;q=%23InternationalDayofYoga\">#InternationalDayofYoga</a>! HC Wong<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23InternationalDayofYoga2023\">#InternationalDayofYoga2023</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23InternationalYogaDay\">#InternationalYogaDay</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23InternationalYogaDay2023\">#InternationalYogaDay2023</a><br />\n(\ud83d\udcf7#3:<a href=\"https://nitter.net/connected2india\" title=\"ConnectedtoIndia\">@connected2india</a>)</p>\n<img src=\"https://nitter.net/pic/media%2FFzHc-weXoAEJF6I.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FFzHc--mXgAAFdny.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FFzHc_cZWIAIGe5C.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FFzHc_1TXsAE-FIS.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/SGinIndia/status/1671359929050071046#m\">https://nitter.net/SGinIndia/status/1671359929050071046#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Ukraine",
+      "link": "https://nitter.net/sidhant/status/2068597556607901944#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-21T13:01:04+05:30",
+      "time": "21 Jun, 01:01 PM",
+      "type": "tweets",
+      "content": "<p>Ukraine</p>\n<hr />\n<blockquote>\n<b>Ukraine in India (@UkrembInd)</b>\n<p>\n<p>Happy International Day of Yoga 2026!<br />\n<br />\nUkrainians are deeply grateful to India for sharing the ancient wisdom of yoga.<br />\n<br />\nMay more people around the globe discover this beautiful practice of balance, strength and resilience \ud83d\ude4f<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23InternationalDayOfYoga\">#InternationalDayOfYoga</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IDY2026\">#IDY2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLUfDImawAA3TGW.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLUfDIqbkAASDeT.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLUfDISacAAOw20.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLUfDITbsAA-6FI.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/UkrembInd/status/2068593753066291312#m\">https://nitter.net/UkrembInd/status/2068593753066291312#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "B\u00fcrgenstock talks today\nIran: Speaker Ghalibaf, FM Araghchi, Central Bank Gov, Deputy FMs\nUS: VP JD Vance, Spl envoy Steve Witkoff, Jared Kushner.\nPakistan: PM Shehbaz Sharif, Military Chief Munir\nQatar: FM Al Thani \nIntl Atomic Energy Agency Chief Rafael Grossi",
+      "link": "https://nitter.net/sidhant/status/2068597189136523574#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-21T12:59:37+05:30",
+      "time": "21 Jun, 12:59 PM",
+      "type": "tweets",
+      "content": "<p>B\u00fcrgenstock talks today<br />\nIran: Speaker Ghalibaf, FM Araghchi, Central Bank Gov, Deputy FMs<br />\nUS: VP JD Vance, Spl envoy Steve Witkoff, Jared Kushner.<br />\nPakistan: PM Shehbaz Sharif, Military Chief Munir<br />\nQatar: FM Al Thani <br />\nIntl Atomic Energy Agency Chief Rafael Grossi</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Bomb threat letters discovered on Akasa Air flight QP-1121 (Mumbai-Srinagar) after landing on 21 June 2026; extensive searches found no explosives, no threat found, & aircraft cleared for departure. Akasa Air lodges a police complaint for further investigation.",
+      "link": "https://nitter.net/sidhant/status/2068594059929948389#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-21T12:47:11+05:30",
+      "time": "21 Jun, 12:47 PM",
+      "type": "tweets",
+      "content": "<p>Bomb threat letters discovered on Akasa Air flight QP-1121 (Mumbai-Srinagar) after landing on 21 June 2026; extensive searches found no explosives, no threat found, &amp; aircraft cleared for departure. Akasa Air lodges a police complaint for further investigation.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: France",
+      "link": "https://nitter.net/sidhant/status/2068591050839761041#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-21T12:35:13+05:30",
+      "time": "21 Jun, 12:35 PM",
+      "type": "tweets",
+      "content": "<p>France</p>\n<a href=\"https://nitter.net/sidhant/status/2068591050839761041#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2068499787448803328%2Fimg%2FDnV8gpFyc6VHtQ05.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Foreign missions in Delhi celebrate Yoga day\n\nAustralia",
+      "link": "https://nitter.net/sidhant/status/2068590919889403959#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-21T12:34:42+05:30",
+      "time": "21 Jun, 12:34 PM",
+      "type": "tweets",
+      "content": "<p>Foreign missions in Delhi celebrate Yoga day<br />\n<br />\nAustralia</p>\n<a href=\"https://nitter.net/sidhant/status/2068590919889403959#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2068538846128861184%2Fimg%2FYEhOmIoKE1m6C2J6.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Russia has reportedly begun operational deployment of the Volna Kupol Garant electronic warfare system, designed to disrupt Starlink satellite communications used for drone control, reconnaissance, and battlefield coordination. According to reports, the system jams signals in the 14\u201314.5 GHz band by transmitting powerful interference toward Starlink satellites. One system is said to cover an area of roughly 20 sq km and is intended to protect high-value assets such as military bases, bridges, and energy infrastructure. Russian authorities have not officially commented on the reported deployment.",
       "link": "https://nitter.net/NetramDefence/status/2068587628753256886#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-21T12:21:37+05:30",
@@ -783,7 +808,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "INDIAN ARMY JOINS EXERCISE KHAAN QUEST 2026 IN MONGOLIA\n\nThe Indian Army contingent took part in the opening ceremony of Exercise Khaan Quest 2026 at the Five Hills Training Area, Ulaanbaatar, Mongolia.\n\nThe multinational exercise will run from 20 June to 3 July 2026, bringing together over 1,000 troops from 18 nations to enhance interoperability and peacekeeping capabilities.",
+      "title": "INDIAN ARMY JOINS EXERCISE KHAAN QUEST 2026 IN MONGOLIA The Indian Army contingent took part in the opening ceremony of Exercise Khaan Quest 2026 at the Five Hills Training Area, Ulaanbaatar, Mongolia. The multinational exercise will run from 20 June to 3 July 2026, bringing together over 1,000 troops from 18 nations to enhance interoperability and peacekeeping capabilities.",
       "link": "https://nitter.net/NetramDefence/status/2068553544853328152#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-21T10:06:11+05:30",
@@ -883,66 +908,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Trump threatens tolls on Hormuz if talks fail:",
-      "link": "https://nitter.net/sidhant/status/2068419555677151277#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T01:13:46+05:30",
-      "time": "21 Jun, 01:13 AM",
-      "type": "tweets",
-      "content": "<p>Trump threatens tolls on Hormuz if talks fail:</p>\n<img src=\"https://nitter.net/pic/media%2FHLSAnSubQAA5miW.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Yoga day celebrated by Indian embassy in Saudi Arabia",
-      "link": "https://nitter.net/sidhant/status/2068415486191415787#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T00:57:35+05:30",
-      "time": "21 Jun, 12:57 AM",
-      "type": "tweets",
-      "content": "<p>Yoga day celebrated by Indian embassy in Saudi Arabia</p>\n<a href=\"https://nitter.net/sidhant/status/2068415486191415787#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2068415311079256064%2Fpu%2Fimg%2Fkcsixldb0KtM-BFB.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Ebola concerns: \nAnnouncements in intl flights to fill the form as mandated by immigration authorities",
-      "link": "https://nitter.net/sidhant/status/2068407653584560389#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T00:26:28+05:30",
-      "time": "21 Jun, 12:26 AM",
-      "type": "tweets",
-      "content": "<p>Ebola concerns: <br />\nAnnouncements in intl flights to fill the form as mandated by immigration authorities</p>\n<a href=\"https://nitter.net/sidhant/status/2068407653584560389#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2068407432444006400%2Fpu%2Fimg%2Fpc-iQ14LEOxIxOpo.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>With Ebola concerns, India introduces health self declaration form for all incoming international traveller. To be filled by all Indian, foreign nationals</p>\n<img src=\"https://nitter.net/pic/media%2FHLR1LxYaEAAZ1RM.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2068406989219307658#m\">https://nitter.net/sidhant/status/2068406989219307658#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "With Ebola concerns, India introduces health self declaration form for all incoming international traveller. To be filled by all Indian, foreign nationals",
-      "link": "https://nitter.net/sidhant/status/2068406989219307658#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T00:23:50+05:30",
-      "time": "21 Jun, 12:23 AM",
-      "type": "tweets",
-      "content": "<p>With Ebola concerns, India introduces health self declaration form for all incoming international traveller. To be filled by all Indian, foreign nationals</p>\n<img src=\"https://nitter.net/pic/media%2FHLR1LxYaEAAZ1RM.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Main day of BRICS NSA talks on 23rd June in Delhi",
-      "link": "https://nitter.net/sidhant/status/2068406451048157666#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T00:21:41+05:30",
-      "time": "21 Jun, 12:21 AM",
-      "type": "tweets",
-      "content": "<p>Main day of BRICS NSA talks on 23rd June in Delhi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Next week:<br />\n<br />\n-India hosts BRICS NSA meet<br />\n<br />\n-USTR Jamieson Greer to travel to India for trade talks</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2068179796534698031#m\">https://nitter.net/sidhant/status/2068179796534698031#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US, Iran technical talks, along with mediators Pakistan, Qatar in Switzerland today. Iran delegation includes speaker Ghalibaf, FM Araghchi, Central Bank Governor Hemmati, and top officials from the NSC and Oil Ministry.",
-      "link": "https://nitter.net/sidhant/status/2068405303214014883#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T00:17:08+05:30",
-      "time": "21 Jun, 12:17 AM",
-      "type": "tweets",
-      "content": "<p>US, Iran technical talks, along with mediators Pakistan, Qatar in Switzerland today. Iran delegation includes speaker Ghalibaf, FM Araghchi, Central Bank Governor Hemmati, and top officials from the NSC and Oil Ministry.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "CDS General NS Raja Subramani today visited the Airbus-TASL C-295 assembly facility in Vadodara, assessing progress in indigenous defence manufacturing and India's growing aerospace capabilities under the #AtmanirbharBharat initiative.",
       "link": "https://nitter.net/DefenceDecode/status/2068383634885906613#m",
       "source": "Defense Decode",
@@ -951,16 +916,6 @@
       "type": "tweets",
       "content": "<p>CDS General NS Raja Subramani today visited the Airbus-TASL C-295 assembly facility in Vadodara, assessing progress in indigenous defence manufacturing and India's growing aerospace capabilities under the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AtmanirbharBharat\">#AtmanirbharBharat</a> initiative.</p>\n<img src=\"https://nitter.net/pic/media%2FHLRf7C5a4AAPeq1.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "RT by @sidhant: Consulate General of India, Toronto marked the 12th International Day of Yoga with an enthusiastic gathering of government representatives, diplomatic corps, yoga practitioners, wellness organizations, community leaders, and friends of India against the historic backdrop of the Legislative Assembly of Ontario.\n\nAddressing the vibrant gathering, Consul General @MahavirSinghvii emphasized Yoga\u2019s unique power to transcend cultural, linguistic, and national boundaries, bringing people together in a shared pursuit of well-being and reaffirming its timeless relevance as a universal path to health, harmony, and inner balance. Celebrating this year\u2019s theme \u2014 'Yoga for Healthy Ageing', a beautifully synchronized yoga session served as a powerful celebration of community, connection, and collective well-being. \n\nSpecial thanks to the yoga and wellness organizations and our valued partners whose dedication, collaboration, and outreach helped bring the message of Yoga to people across regions, generations, and walks of life.\n\n#InternationalDayOfYoga #IDY2026 #YogaDay #YogaForHealthyAgeing #IndiaCanada #IndiaInCanada #Yoga #Mindfulness #\u0938\u094d\u0935\u0938\u094d\u0925_\u0906\u092f\u0941_\u0915\u0947_\u0932\u093f\u090f_\u092f\u094b\u0917 \n\n@HCI_Ottawa @MEAIndia @IndianDiplomacy @narendramodi @PMOIndia @DrSJaishankar @moayush @cgivancouver @iccr_hq @diaspora_india @SBICanadaBank @ICICIBank @chcconline @ishafoundation @ArtofLiving @BrahmaKumaris @HeartfulnessTO @SRMDharampur @mygovindia @PIB_India @DDNewslive @airnewsalerts",
-      "link": "https://nitter.net/IndiainToronto/status/2068382900018450645#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-20T22:48:06+05:30",
-      "time": "20 Jun, 10:48 PM",
-      "type": "tweets",
-      "content": "<p>Consulate General of India, Toronto marked the 12th International Day of Yoga with an enthusiastic gathering of government representatives, diplomatic corps, yoga practitioners, wellness organizations, community leaders, and friends of India against the historic backdrop of the Legislative Assembly of Ontario.<br />\n<br />\nAddressing the vibrant gathering, Consul General <a href=\"https://nitter.net/MahavirSinghvii\" title=\"Mahaveer Singhvi\">@MahavirSinghvii</a> emphasized Yoga\u2019s unique power to transcend cultural, linguistic, and national boundaries, bringing people together in a shared pursuit of well-being and reaffirming its timeless relevance as a universal path to health, harmony, and inner balance. Celebrating this year\u2019s theme \u2014 'Yoga for Healthy Ageing', a beautifully synchronized yoga session served as a powerful celebration of community, connection, and collective well-being. <br />\n<br />\nSpecial thanks to the yoga and wellness organizations and our valued partners whose dedication, collaboration, and outreach helped bring the message of Yoga to people across regions, generations, and walks of life.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23InternationalDayOfYoga\">#InternationalDayOfYoga</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IDY2026\">#IDY2026</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23YogaDay\">#YogaDay</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23YogaForHealthyAgeing\">#YogaForHealthyAgeing</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaCanada\">#IndiaCanada</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaInCanada\">#IndiaInCanada</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Yoga\">#Yoga</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Mindfulness\">#Mindfulness</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23\u0938\u094d\u0935\u0938\u094d\u0925_\u0906\u092f\u0941_\u0915\u0947_\u0932\u093f\u090f_\u092f\u094b\u0917\">#\u0938\u094d\u0935\u0938\u094d\u0925_\u0906\u092f\u0941_\u0915\u0947_\u0932\u093f\u090f_\u092f\u094b\u0917</a> <br />\n<br />\n<a href=\"https://nitter.net/HCI_Ottawa\" title=\"India in Canada\">@HCI_Ottawa</a> <a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a> <a href=\"https://nitter.net/IndianDiplomacy\" title=\"Indian Diplomacy\">@IndianDiplomacy</a> <a href=\"https://nitter.net/narendramodi\" title=\"Narendra Modi\">@narendramodi</a> <a href=\"https://nitter.net/PMOIndia\" title=\"PMO India\">@PMOIndia</a> <a href=\"https://nitter.net/DrSJaishankar\" title=\"Dr. S. Jaishankar\">@DrSJaishankar</a> <a href=\"https://nitter.net/moayush\" title=\"Ministry of Ayush\">@moayush</a> <a href=\"https://nitter.net/cgivancouver\" title=\"India in Vancouver\">@cgivancouver</a> <a href=\"https://nitter.net/iccr_hq\" title=\"ICCR\">@iccr_hq</a> <a href=\"https://nitter.net/diaspora_india\" title=\"Diaspora India Connect\">@diaspora_india</a> <a href=\"https://nitter.net/SBICanadaBank\" title=\"SBI Canada Bank\">@SBICanadaBank</a> <a href=\"https://nitter.net/ICICIBank\" title=\"ICICI Bank\">@ICICIBank</a> <a href=\"https://nitter.net/chcconline\" title=\"Canadian Hindu Chamber of Commerce\">@chcconline</a> <a href=\"https://nitter.net/ishafoundation\" title=\"Isha Foundation\">@ishafoundation</a> <a href=\"https://nitter.net/ArtofLiving\" title=\"The Art of Living\">@ArtofLiving</a> <a href=\"https://nitter.net/BrahmaKumaris\" title=\"Brahma Kumaris\">@BrahmaKumaris</a> <a href=\"https://nitter.net/HeartfulnessTO\" title=\"HeartfulnessCanada\">@HeartfulnessTO</a> <a href=\"https://nitter.net/SRMDharampur\" title=\"Shrimad Rajchandra Mission Dharampur\">@SRMDharampur</a> <a href=\"https://nitter.net/mygovindia\" title=\"MyGovIndia\">@mygovindia</a> <a href=\"https://nitter.net/PIB_India\" title=\"PIB India\">@PIB_India</a> <a href=\"https://nitter.net/DDNewslive\" title=\"DD News\">@DDNewslive</a> <a href=\"https://nitter.net/airnewsalerts\" title=\"All India Radio News\">@airnewsalerts</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLRfPFmWAAAHKft.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLRfPFpWkAAxb9P.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLRfPFoXIAEmRIY.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLRfPFmWEAAdiRl.jpg\" />",
-      "author": "@IndiainToronto"
     },
     {
       "title": "This is how Su30 fleet was created over the years : \n\n\ud83d\udcc5 30 Nov 1996 \u2013 40 aircraft (Russia)\n\ud83d\udcc5 18 Dec 1998 \u2013 10 aircraft (Russia)\n\ud83d\udcc5 28 Dec 2000 \u2013 140 aircraft (HAL)\n\ud83d\udcc5 10 Oct 2007 \u2013 40 aircraft (HAL)\n\ud83d\udcc5 24 Dec 2012 \u2013 42 aircraft (HAL)\n\nAfter that, there was a gap of over a decade.\n\n\ud83d\udcc5 15 Sep 2023 \u2013 AoN for 12 replacement aircraft\n\ud83d\udcc5 12 Dec 2024 \u2013 \u20b913,500 crore contract signed with HAL for 12 Su-30MKIs\n\nA textbook example of how not to manage a procurement. OEM that forgot about upgrades, users who weren\u2019t looking for updates (no one was bothered about upgrade) because Su57 was coming as FGFA.",
@@ -973,7 +928,7 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "RT @manishindiatv: Submariners of @indiannavy celebrating #InternationalYogaDa. \n\ud83c\uddee\ud83c\uddf3",
+      "title": "RT @manishindiatv: Submariners of @indiannavy celebrating #InternationalYogaDa. \ud83c\uddee\ud83c\uddf3",
       "link": "https://nitter.net/OsintTV/status/2068357009305481360#m",
       "source": "Osint TV",
       "sort_key": "2026-06-20T21:05:13+05:30",
@@ -983,7 +938,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "R to @NetramDefence: 22/22\n\nIndia\u2019s military modernisation is no longer a plan on paper, it is a transformation in motion. From indigenous defence production to AI-driven warfare, from joint operations to strategic self-reliance, the Indian Army is evolving for the battles of tomorrow. This is not just modernisation, it is the rise of a force that thinks faster, strikes smarter, and stands stronger. A new era has begun. And India is not preparing for it anymore, it is leading it.",
+      "title": "R to @NetramDefence: 22/22 India\u2019s military modernisation is no longer a plan on paper, it is a transformation in motion. From indigenous defence production to AI-driven warfare, from joint operations to strategic self-reliance, the Indian Army is evolving for the battles of tomorrow. This is not just modernisation, it is the rise of a force that thinks faster, strikes smarter, and stands stronger. A new era has begun. And India is not preparing for it anymore, it is leading it.",
       "link": "https://nitter.net/NetramDefence/status/2068340433030468063#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:21+05:30",
@@ -993,7 +948,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 21/22\n\nGreat Nicobar Project \n\nA strategic infrastructure initiative on Great Nicobar Island aimed at strengthening India\u2019s presence in the eastern Indian Ocean. \n\u2022 Enhances the Andaman & Nicobar Command as a tri-service base \n\u2022 Upgrades ports and airfields for faster troop and equipment movement \n\u2022 Improves maritime surveillance along key shipping routes near the Malacca Strait \n\u2022 Supports India\u2019s forward defence posture in the Indo-Pacific Better connectivity, rapid deployment capability, and stronger maritime security for India.",
+      "title": "R to @NetramDefence: 21/22 Great Nicobar Project A strategic infrastructure initiative on Great Nicobar Island aimed at strengthening India\u2019s presence in the eastern Indian Ocean. \u2022 Enhances the Andaman & Nicobar Command as a tri-service base \u2022 Upgrades ports and airfields for faster troop and equipment movement \u2022 Improves maritime surveillance along key shipping routes near the Malacca Strait \u2022 Supports India\u2019s forward defence posture in the Indo-Pacific Better connectivity, rapid deployment capability, and stronger maritime security for India.",
       "link": "https://nitter.net/NetramDefence/status/2068340429314298122#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:20+05:30",
@@ -1003,7 +958,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 20/22\n\nTheatre Command Integration. \n\nTri-service integration for unified operational warfare. \n\u27a1 Army, Navy, Air Force joint command structure \n\u27a1 Unified strategic planning and execution \n\u27a1 Integrated multi-domain operational control. Improves coordination, reduces response time, and increases combat efficiency. \n\nStrengthens India\u2019s ability to fight coordinated multi-domain regional conflicts.",
+      "title": "R to @NetramDefence: 20/22 Theatre Command Integration. Tri-service integration for unified operational warfare. \u27a1 Army, Navy, Air Force joint command structure \u27a1 Unified strategic planning and execution \u27a1 Integrated multi-domain operational control. Improves coordination, reduces response time, and increases combat efficiency. Strengthens India\u2019s ability to fight coordinated multi-domain regional conflicts.",
       "link": "https://nitter.net/NetramDefence/status/2068340425304526859#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:19+05:30",
@@ -1013,7 +968,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 19/22\n\nRelos Agreement \u2013 Enabler of Modern Military Mobility Modernisation is not just about systems, but also seamless people movement. \n\nThe Relocation (Relos) Agreement ensures smooth transfer of personnel across units and commands. \n\nIt supports: \n\u2022 Faster deployment to critical roles \n\u2022 Reduced administrative delays\n\u2022 Financial & logistical relocation support \n\u2022 Stronger jointness and operational flexibility In modern warfare, speed of manpower movement is as crucial as speed of machines.",
+      "title": "R to @NetramDefence: 19/22 Relos Agreement \u2013 Enabler of Modern Military Mobility Modernisation is not just about systems, but also seamless people movement. The Relocation (Relos) Agreement ensures smooth transfer of personnel across units and commands. It supports: \u2022 Faster deployment to critical roles \u2022 Reduced administrative delays \u2022 Financial & logistical relocation support \u2022 Stronger jointness and operational flexibility In modern warfare, speed of manpower movement is as crucial as speed of machines.",
       "link": "https://nitter.net/NetramDefence/status/2068340421290561583#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:18+05:30",
@@ -1023,7 +978,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 18/22\n\nMilitary Doctrine Evolution Structural transformation and mordenisation of Indian Army operational philosophy. \n\u27a1 Integrated Battle Groups (IBGs) \n\u27a1 Capability-based force structuring \n\u27a1 Multi-domain warfare readiness (land, air, cyber, space). \n\nEnables faster mobilisation and flexible response to dynamic threats.Aligns India with modern network-centric warfare doctrines globally.",
+      "title": "R to @NetramDefence: 18/22 Military Doctrine Evolution Structural transformation and mordenisation of Indian Army operational philosophy. \u27a1 Integrated Battle Groups (IBGs) \u27a1 Capability-based force structuring \u27a1 Multi-domain warfare readiness (land, air, cyber, space). Enables faster mobilisation and flexible response to dynamic threats.Aligns India with modern network-centric warfare doctrines globally.",
       "link": "https://nitter.net/NetramDefence/status/2068340417524101611#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:18+05:30",
@@ -1033,7 +988,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 17/22\n\nKautilya AI System AI-powered battlefield command and decision support system. \n\u27a1 Multi-source data fusion (satellite, drones, sensors) \n\u27a1 Predictive battlefield analytics \n\u27a1 Accelerated OODA loop decision cycle. Enhances command efficiency and reduces decision-making delays in combat.\n\nRepresents shift toward AI-driven warfare dominance in future conflicts.",
+      "title": "R to @NetramDefence: 17/22 Kautilya AI System AI-powered battlefield command and decision support system. \u27a1 Multi-source data fusion (satellite, drones, sensors) \u27a1 Predictive battlefield analytics \u27a1 Accelerated OODA loop decision cycle. Enhances command efficiency and reduces decision-making delays in combat. Represents shift toward AI-driven warfare dominance in future conflicts.",
       "link": "https://nitter.net/NetramDefence/status/2068340413602115915#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:17+05:30",
@@ -1043,7 +998,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 16/22\n\nQ-FORCE Logistics System Digital transformation of battlefield logistics and supply chains. \n\u27a1 Real-time tracking of supplies and equipment \n\u27a1 Automated depot-to-field coordination \n\u27a1 Integrated logistics command platforms \n\u27a1 Reduced manual dependency in operations Ensures uninterrupted supply flow and faster operational sustainment in combat zones. \n\nImproves India\u2019s ability to sustain prolonged operations along sensitive borders",
+      "title": "R to @NetramDefence: 16/22 Q-FORCE Logistics System Digital transformation of battlefield logistics and supply chains. \u27a1 Real-time tracking of supplies and equipment \u27a1 Automated depot-to-field coordination \u27a1 Integrated logistics command platforms \u27a1 Reduced manual dependency in operations Ensures uninterrupted supply flow and faster operational sustainment in combat zones. Improves India\u2019s ability to sustain prolonged operations along sensitive borders",
       "link": "https://nitter.net/NetramDefence/status/2068340409676505113#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:16+05:30",
@@ -1053,7 +1008,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 15/22\n\nCyber & AI Warfare Expansion Integration of digital warfare into core military operations.\n\u27a1 Joint Cyberspace Doctrine implementation \n\u27a1 AI-enabled battlefield analytics systems \n\u27a1 Dedicated information warfare units \n\u27a1 Secure encrypted communication networks Enables faster decision cycles and stronger cyber resilience against attacks. \n\nEssential for hybrid warfare dominance in Indo-Pacific security competition.",
+      "title": "R to @NetramDefence: 15/22 Cyber & AI Warfare Expansion Integration of digital warfare into core military operations. \u27a1 Joint Cyberspace Doctrine implementation \u27a1 AI-enabled battlefield analytics systems \u27a1 Dedicated information warfare units \u27a1 Secure encrypted communication networks Enables faster decision cycles and stronger cyber resilience against attacks. Essential for hybrid warfare dominance in Indo-Pacific security competition.",
       "link": "https://nitter.net/NetramDefence/status/2068340405448425725#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:15+05:30",
@@ -1063,7 +1018,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 14/22\n\nDefence Industrial Ecosystem Shift (Make in India 2.0) Large DAC approvals worth \u20b92.38\u20133.6 lakh crore scale programs ,Shift from import dependency to co-production and private defence ecosystem.\n\nDefence startups, PSUs and foreign partnerships merging boosts indigenous production, improves capability building and strengthens defence supply chains. Reduces foreign dependence and enhances India\u2019s strategic autonomy by positioning it as a global defence manufacturing hub.",
+      "title": "R to @NetramDefence: 14/22 Defence Industrial Ecosystem Shift (Make in India 2.0) Large DAC approvals worth \u20b92.38\u20133.6 lakh crore scale programs ,Shift from import dependency to co-production and private defence ecosystem. Defence startups, PSUs and foreign partnerships merging boosts indigenous production, improves capability building and strengthens defence supply chains. Reduces foreign dependence and enhances India\u2019s strategic autonomy by positioning it as a global defence manufacturing hub.",
       "link": "https://nitter.net/NetramDefence/status/2068340401476653065#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:14+05:30",
@@ -1073,7 +1028,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 13/22\n\nDAC Procurement Approvals Large-scale tri-service capability enhancement programme. \n\u27a1 Air defence systems modernization \n\u27a1 Dhanush artillery induction \n\u27a1 Armoured piercing ammunition upgrades \n\u27a1 Advanced surveillance systems. Enhances battlefield lethality, survivability, and real-time intelligence gathering. \n\nStrengthens preparedness for two-front operational scenarios.",
+      "title": "R to @NetramDefence: 13/22 DAC Procurement Approvals Large-scale tri-service capability enhancement programme. \u27a1 Air defence systems modernization \u27a1 Dhanush artillery induction \u27a1 Armoured piercing ammunition upgrades \u27a1 Advanced surveillance systems. Enhances battlefield lethality, survivability, and real-time intelligence gathering. Strengthens preparedness for two-front operational scenarios.",
       "link": "https://nitter.net/NetramDefence/status/2068340397823393981#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:13+05:30",
@@ -1083,7 +1038,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 12/22\n\nAMCA Development Ecosystem Infrastructure for India\u2019s fifth-generation stealth fighter programme. \n\u27a1 \u20b915,803 crore development ecosystem \n\u27a1 Advanced integration and flight testing facilities \n\u27a1 Prototype expected by 2028 timeline Builds long-term air superiority capability through indigenous stealth aircraft development. \n\nReduces dependency on foreign fighter jets and strengthens strategic autonomy.",
+      "title": "R to @NetramDefence: 12/22 AMCA Development Ecosystem Infrastructure for India\u2019s fifth-generation stealth fighter programme. \u27a1 \u20b915,803 crore development ecosystem \u27a1 Advanced integration and flight testing facilities \u27a1 Prototype expected by 2028 timeline Builds long-term air superiority capability through indigenous stealth aircraft development. Reduces dependency on foreign fighter jets and strengthens strategic autonomy.",
       "link": "https://nitter.net/NetramDefence/status/2068340394098835772#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:12+05:30",
@@ -1093,7 +1048,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 11/22\n\nBEL Electronic Warfare Systems Enhanced electromagnetic spectrum dominance capability. \n\u27a1 72% indigenous content systems \n\u27a1 Signal interception and jamming capability \n\u27a1 Mobile battlefield deployment platforms Improves situational awareness and disrupts enemy command and communication systems. \n\nCritical for electronic warfare parity in high-tech modern conflicts.",
+      "title": "R to @NetramDefence: 11/22 BEL Electronic Warfare Systems Enhanced electromagnetic spectrum dominance capability. \u27a1 72% indigenous content systems \u27a1 Signal interception and jamming capability \u27a1 Mobile battlefield deployment platforms Improves situational awareness and disrupts enemy command and communication systems. Critical for electronic warfare parity in high-tech modern conflicts.",
       "link": "https://nitter.net/NetramDefence/status/2068340390361755999#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:11+05:30",
@@ -1103,7 +1058,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 10/22\n\nC-295 Aircraft Programme Indigenous military aviation manufacturing ecosystem development. \n\u27a1 Tata-Airbus collaboration for production in India \n\u27a1 Full assembly line established in Vadodara \n\u27a1 Transfer of technology and supply chain localisation Improves tactical airlift capability and reduces reliance on imported platforms. \n\nStrengthens India\u2019s defence industrial autonomy and aerospace sovereignty.",
+      "title": "R to @NetramDefence: 10/22 C-295 Aircraft Programme Indigenous military aviation manufacturing ecosystem development. \u27a1 Tata-Airbus collaboration for production in India \u27a1 Full assembly line established in Vadodara \u27a1 Transfer of technology and supply chain localisation Improves tactical airlift capability and reduces reliance on imported platforms. Strengthens India\u2019s defence industrial autonomy and aerospace sovereignty.",
       "link": "https://nitter.net/NetramDefence/status/2068340386930843810#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:10+05:30",
@@ -1113,7 +1068,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 9/22\n\nHypersonic Scramjet Breakthrough Major milestone in next-generation propulsion technology development. \n\u27a1 1200-second sustained scramjet test \n\u27a1 Air-breathing hypersonic engine technology \n\u27a1 Validated extreme thermal endurance and stability Builds foundation for future hypersonic cruise missiles with high-speed penetration capability. \n\nPositions India among elite nations advancing hypersonic weapons, reshaping strategic deterrence equations.",
+      "title": "R to @NetramDefence: 9/22 Hypersonic Scramjet Breakthrough Major milestone in next-generation propulsion technology development. \u27a1 1200-second sustained scramjet test \u27a1 Air-breathing hypersonic engine technology \u27a1 Validated extreme thermal endurance and stability Builds foundation for future hypersonic cruise missiles with high-speed penetration capability. Positions India among elite nations advancing hypersonic weapons, reshaping strategic deterrence equations.",
       "link": "https://nitter.net/NetramDefence/status/2068340383344726183#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:09+05:30",
@@ -1123,7 +1078,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 8/22\n\nVayu Astra-1 Loitering Munition High-altitude autonomous strike capability validated under extreme terrain conditions. \n\u27a1 Range: ~100 km \n\u27a1 Accuracy: <1 metre CEP \n\u27a1 Endurance: 90+ minutes loitering time \n\u27a1 Night strike capability with IR guidance \n\u27a1 Operable in high-altitude environments. Enhances precision targeting in mountainous terrain and enables persistent battlefield surveillance-strike capability. \n\nHighly relevant for Himalayan frontier security and fast-reaction border scenarios.",
+      "title": "R to @NetramDefence: 8/22 Vayu Astra-1 Loitering Munition High-altitude autonomous strike capability validated under extreme terrain conditions. \u27a1 Range: ~100 km \u27a1 Accuracy: <1 metre CEP \u27a1 Endurance: 90+ minutes loitering time \u27a1 Night strike capability with IR guidance \u27a1 Operable in high-altitude environments. Enhances precision targeting in mountainous terrain and enables persistent battlefield surveillance-strike capability. Highly relevant for Himalayan frontier security and fast-reaction border scenarios.",
       "link": "https://nitter.net/NetramDefence/status/2068340379691409754#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:09+05:30",
@@ -1133,7 +1088,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 7/22\n\nIndigenous Drone Ecosystem Push \n\nIndia is building a full domestic UAV ecosystem. Collaboration with startups + DRDO + private industry , Indigenous UAV platforms for strike & surveillance and have integration of AI-based targeting systems ,Which will help in reduction of foreign drone component dependency \n\nStrengthens self-reliance in drone warfare technology under Aatmanirbhar Bharat.",
+      "title": "R to @NetramDefence: 7/22 Indigenous Drone Ecosystem Push India is building a full domestic UAV ecosystem. Collaboration with startups + DRDO + private industry , Indigenous UAV platforms for strike & surveillance and have integration of AI-based targeting systems ,Which will help in reduction of foreign drone component dependency Strengthens self-reliance in drone warfare technology under Aatmanirbhar Bharat.",
       "link": "https://nitter.net/NetramDefence/status/2068340375484293550#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:08+05:30",
@@ -1143,7 +1098,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 6/22\n\nExpansion of Loitering Munition Fleet Indian Army is rapidly inducting multiple drone strike systems.\n\nIncreased procurement of kamikaze drones Focus on swarm drone capability.\nIntegration with artillery and infantry units and emphasis on low-cost precision warfare,\nShows shift from traditional artillery to drone-driven battlefield dominance.",
+      "title": "R to @NetramDefence: 6/22 Expansion of Loitering Munition Fleet Indian Army is rapidly inducting multiple drone strike systems. Increased procurement of kamikaze drones Focus on swarm drone capability. Integration with artillery and infantry units and emphasis on low-cost precision warfare, Shows shift from traditional artillery to drone-driven battlefield dominance.",
       "link": "https://nitter.net/NetramDefence/status/2068340371961352306#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:07+05:30",
@@ -1153,7 +1108,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 5/22\n\nULPGM-V3 Drone Missile Indigenous UAV-launched precision strike system designed for modern drone-centric warfare. \n\u27a1 Air-to-ground and air-to-air capability \n\u27a1 Fire-and-forget guidance with advanced seeker \n\u27a1 Real-time target correction via data link \n\u27a1 Designed for armour, bunkers, and aerial targets Reduces dependency on manned platforms and enables precise stand-off engagement in contested zones.\n\nBrings India closer to global leaders in drone-enabled precision warfare such as US, Israel, and China.",
+      "title": "R to @NetramDefence: 5/22 ULPGM-V3 Drone Missile Indigenous UAV-launched precision strike system designed for modern drone-centric warfare. \u27a1 Air-to-ground and air-to-air capability \u27a1 Fire-and-forget guidance with advanced seeker \u27a1 Real-time target correction via data link \u27a1 Designed for armour, bunkers, and aerial targets Reduces dependency on manned platforms and enables precise stand-off engagement in contested zones. Brings India closer to global leaders in drone-enabled precision warfare such as US, Israel, and China.",
       "link": "https://nitter.net/NetramDefence/status/2068340358841532761#m",
       "source": "Netram Defense",
       "sort_key": "2026-06-20T19:59:04+05:30",
@@ -1163,7 +1118,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @OsintTV: Big khela with Pakistan \ud83e\udd23\n\nIndia gets Vice-Presidency position at Financial Action Task Force (FATF) for the first time\n\nWait for blacklisting of Pakistan now \ud83d\ude0e",
+      "title": "RT by @OsintTV: Big khela with Pakistan \ud83e\udd23 India gets Vice-Presidency position at Financial Action Task Force (FATF) for the first time Wait for blacklisting of Pakistan now \ud83d\ude0e",
       "link": "https://nitter.net/FrontalForce/status/2068306351399616592#m",
       "source": "Osint TV",
       "sort_key": "2026-06-20T17:43:56+05:30",
@@ -1173,7 +1128,7 @@
       "author": "@FrontalForce"
     },
     {
-      "title": "RT by @OsintTV: \"The Language of BHARAT?\" Khawaja Asif\u2019s Blistering Attack on PoJK Protesters\n\n\"Interesting shift in narrative: Khawaja Asif dismisses the current unrest in PoJK, claiming the voices being raised there are not those of Kashmiris or Pakistanis, but rather the \u2018LANGUAGE OF BHARAT\u2019, and accuses protestors of acting as Indian proxies. \n\nA desperate attempt to deflect or a reality check on the ground?",
+      "title": "RT by @OsintTV: \"The Language of BHARAT?\" Khawaja Asif\u2019s Blistering Attack on PoJK Protesters \"Interesting shift in narrative: Khawaja Asif dismisses the current unrest in PoJK, claiming the voices being raised there are not those of Kashmiris or Pakistanis, but rather the \u2018LANGUAGE OF BHARAT\u2019, and accuses protestors of acting as Indian proxies. A desperate attempt to deflect or a reality check on the ground?",
       "link": "https://nitter.net/OsintTV/status/2068304743617757498#m",
       "source": "Osint TV",
       "sort_key": "2026-06-20T17:37:32+05:30",
@@ -1183,7 +1138,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @OsintTV: \ud83d\udccd190 Reasons to Stay Mad\n\nThe SIPRI report says India has 190 warheads and  Paijaans are losing their minds. Honestly, the way they obsess over our defense updates while crying 'dar ka mahol' is pure comedy. \n\nIndia is just doing what a global power does. Try not to choke on the envy",
+      "title": "RT by @OsintTV: \ud83d\udccd190 Reasons to Stay Mad The SIPRI report says India has 190 warheads and Paijaans are losing their minds. Honestly, the way they obsess over our defense updates while crying 'dar ka mahol' is pure comedy. India is just doing what a global power does. Try not to choke on the envy",
       "link": "https://nitter.net/OsintTV/status/2068283139504419095#m",
       "source": "Osint TV",
       "sort_key": "2026-06-20T16:11:41+05:30",
@@ -1223,7 +1178,7 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Local Maulvi from Gujjar Khullas Apprehended with Pakistan Links \n\nJammu: Kurshed Ahmed, son of Abdul Kareem and local Maulvi at a mosque in Gujjar Khullas, was apprehended by security forces. His mobile phone reportedly contained multiple Pakistan-linked contacts. Investigation ongoing.",
+      "title": "Local Maulvi from Gujjar Khullas Apprehended with Pakistan Links Jammu: Kurshed Ahmed, son of Abdul Kareem and local Maulvi at a mosque in Gujjar Khullas, was apprehended by security forces. His mobile phone reportedly contained multiple Pakistan-linked contacts. Investigation ongoing.",
       "link": "https://nitter.net/elitepredatorss/status/2068237414389199272#m",
       "source": "Elite Predators",
       "sort_key": "2026-06-20T13:10:00+05:30",
@@ -1243,7 +1198,7 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "So we can't add multiple media in a single WhatsApp Channel post?\n\nCome on, @Meta It's 2026.",
+      "title": "So we can't add multiple media in a single WhatsApp Channel post? Come on, @Meta It's 2026.",
       "link": "https://nitter.net/elitepredatorss/status/2068227342548513204#m",
       "source": "Elite Predators",
       "sort_key": "2026-06-20T12:29:58+05:30",
@@ -1273,7 +1228,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "R to @elitepredatorss: Core Reasons for the Emergency: \n\nEconomic Paralysis: Continuous road blockades have choked off major transport routes, stopping the flow of food, fuel, and medical supplies.\n\nSubsidy Cuts: The initial spark came when President Paz abruptly cut fuel subsidies to shrink the national deficit amid a critical US dollar shortage.\n\nEscalating Demands: Protests organized by labor unions, miners, and agricultural groups some allied with former President Evo Morales have escalated into demands for wage increases and President Paz\u2019s immediate resignation",
+      "title": "R to @elitepredatorss: Core Reasons for the Emergency: Economic Paralysis: Continuous road blockades have choked off major transport routes, stopping the flow of food, fuel, and medical supplies. Subsidy Cuts: The initial spark came when President Paz abruptly cut fuel subsidies to shrink the national deficit amid a critical US dollar shortage. Escalating Demands: Protests organized by labor unions, miners, and agricultural groups some allied with former President Evo Morales have escalated into demands for wage increases and President Paz\u2019s immediate resignation",
       "link": "https://nitter.net/elitepredatorss/status/2068222809713905782#m",
       "source": "Elite Predators",
       "sort_key": "2026-06-20T12:11:58+05:30",
@@ -1293,7 +1248,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Pakistan: At least seven people were killed and five others injured in an explosion in the Domel tehsil of Bannu district, Khyber Pakhtunkhwa.\n\nAccording to police, a Datsun vehicle was targeted in the Ping Musakhel area. A vehicle belonging to the Tehsildar of the subdivision was also caught in the blast.",
+      "title": "Pakistan: At least seven people were killed and five others injured in an explosion in the Domel tehsil of Bannu district, Khyber Pakhtunkhwa. According to police, a Datsun vehicle was targeted in the Ping Musakhel area. A vehicle belonging to the Tehsildar of the subdivision was also caught in the blast.",
       "link": "https://nitter.net/elitepredatorss/status/2068217234376556610#m",
       "source": "Elite Predators",
       "sort_key": "2026-06-20T11:49:48+05:30",
@@ -1303,7 +1258,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "\ud83d\udea8 Op Jwala OSINT !\n>According to sources, Abu Zafar wanted to join the Pakistan Army, however the officers in the Pak Army didn't recruit him and instead rehabilitated him in LeT.\n>He was radicalised in Markaz Qadsia Lahore in 2022 and received training in Kahuta in 2025. \n> He was killed while infiltrating in February 2026 by the Indian Army\ud83c\uddee\ud83c\uddf3\n>ISI\ud83c\uddf5\ud83c\uddf0 and Pak Army has been using LeT as their proxy militia against India and such brainwashed p!gs are used as expendables...",
+      "title": "\ud83d\udea8 Op Jwala OSINT ! >According to sources, Abu Zafar wanted to join the Pakistan Army, however the officers in the Pak Army didn't recruit him and instead rehabilitated him in LeT. >He was radicalised in Markaz Qadsia Lahore in 2022 and received training in Kahuta in 2025. > He was killed while infiltrating in February 2026 by the Indian Army\ud83c\uddee\ud83c\uddf3 >ISI\ud83c\uddf5\ud83c\uddf0 and Pak Army has been using LeT as their proxy militia against India and such brainwashed p!gs are used as expendables...",
       "link": "https://nitter.net/Goreunit/status/2068212421152670118#m",
       "source": "War & Gore",
       "sort_key": "2026-06-20T11:30:41+05:30",
@@ -1313,7 +1268,7 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @OsintTV: \ud83d\udea8 Op Jwala OSINT !\n>According to sources, Abu Zafar wanted to join the Pakistan Army, however the officers in the Pak Army didn't recruit him and instead rehabilitated him in LeT.\n>He was radicalised in Markaz Qadsia Lahore in 2022 and received training in Kahuta in 2025. \n> He was killed while infiltrating in February 2026 by the Indian Army\ud83c\uddee\ud83c\uddf3\n>ISI\ud83c\uddf5\ud83c\uddf0 and Pak Army has been using LeT as their proxy militia against India and such brainwashed p!gs are used as expendables...",
+      "title": "RT by @OsintTV: \ud83d\udea8 Op Jwala OSINT ! >According to sources, Abu Zafar wanted to join the Pakistan Army, however the officers in the Pak Army didn't recruit him and instead rehabilitated him in LeT. >He was radicalised in Markaz Qadsia Lahore in 2022 and received training in Kahuta in 2025. > He was killed while infiltrating in February 2026 by the Indian Army\ud83c\uddee\ud83c\uddf3 >ISI\ud83c\uddf5\ud83c\uddf0 and Pak Army has been using LeT as their proxy militia against India and such brainwashed p!gs are used as expendables...",
       "link": "https://nitter.net/Goreunit/status/2068212421152670118#m",
       "source": "Osint TV",
       "sort_key": "2026-06-20T11:30:41+05:30",
@@ -1333,7 +1288,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "\ud83d\udea8 \ud835\udde2\ud835\udde6\ud835\udddc\ud835\udde1\ud835\udde7 \ud835\udde8\ud835\udde3\ud835\uddd7\ud835\uddd4\ud835\udde7\ud835\uddd8:\n\nDuring an infiltration attempt at Nathua Tibba, Sundarbani on 19 February 2026, the Indian Army engaged Lashkar-e-Taiba (LeT) terrorists. Reportedly, Abu Zarrar Okasha Farooq sustained serious injuries and later succumbed while retreating across the LoC. Follow-up searches led to the recovery of war-like stores from the encounter site.\n\nAnother senior LeT commander Abu Muaz Zaheer was critically wounded during the exchange of fire and later succumbed to his injuries while retreating across the LoC.\n\nBoth terrorists were reportedly natives of Pakistan's Punjab province. Abu Muaz Zaheer had reportedly left behind his months old infant in Pakistan before embarking on the infiltration mission into Jammu and Kashmir.\n\nThese incidents expose the persistent efforts of Pakistan-based terror groups to push infiltrators across the LoC.\n\nOpen Source \nFYR @Whiteknight_IA",
+      "title": "\ud83d\udea8 \ud835\udde2\ud835\udde6\ud835\udddc\ud835\udde1\ud835\udde7 \ud835\udde8\ud835\udde3\ud835\uddd7\ud835\uddd4\ud835\udde7\ud835\uddd8: During an infiltration attempt at Nathua Tibba, Sundarbani on 19 February 2026, the Indian Army engaged Lashkar-e-Taiba (LeT) terrorists. Reportedly, Abu Zarrar Okasha Farooq sustained serious injuries and later succumbed while retreating across the LoC. Follow-up searches led to the recovery of war-like stores from the encounter site. Another senior LeT commander Abu Muaz Zaheer was critically wounded during the exchange of fire and later succumbed to his injuries while retreating across the LoC. Both terrorists were reportedly natives of Pakistan's Punjab province. Abu Muaz Zaheer had reportedly left behind his months old infant in Pakistan before embarking on the infiltration mission into Jammu and Kashmir. These incidents expose the persistent efforts of Pakistan-based terror groups to push infiltrators across the LoC. Open Source FYR @Whiteknight_IA",
       "link": "https://nitter.net/OsintTV/status/2068195853336998219#m",
       "source": "Osint TV",
       "sort_key": "2026-06-20T10:24:51+05:30",
@@ -1343,7 +1298,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Btw, KMGT has already proven its \n\u2714\ufe0fCore engine design\n\u2714\ufe0fFree power turbine design\n\u2714\ufe0fMarine gas turbine integration\nWith advances in materials and GT engine tech(with KDE), India should develop a nxt-gen compact KMGT for corvettes,OPVs and future electric warships.\ud83c\uddee\ud83c\uddf3\u2693\n#GTRE",
+      "title": "Btw, KMGT has already proven its \u2714\ufe0fCore engine design \u2714\ufe0fFree power turbine design \u2714\ufe0fMarine gas turbine integration With advances in materials and GT engine tech(with KDE), India should develop a nxt-gen compact KMGT for corvettes,OPVs and future electric warships.\ud83c\uddee\ud83c\uddf3\u2693 #GTRE",
       "link": "https://nitter.net/DefenceDecode/status/2068195708751245432#m",
       "source": "Defense Decode",
       "sort_key": "2026-06-20T10:24:16+05:30",
@@ -1353,7 +1308,7 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "12 x 1.25 MW GTGs are for Kolkata-class destroyers.\n\n\u2714\ufe0fwill Replace the W\u00e4rtsil\u00e4 WCM1000-Alternator combination\n\u2714\ufe0fFor 3 Kolkata-class destroyers, likely implying 4 generators per ship: 4 \u00d7 1.25 MW \u2248 5MW additional generating capacity per ship",
+      "title": "12 x 1.25 MW GTGs are for Kolkata-class destroyers. \u2714\ufe0fwill Replace the W\u00e4rtsil\u00e4 WCM1000-Alternator combination \u2714\ufe0fFor 3 Kolkata-class destroyers, likely implying 4 generators per ship: 4 \u00d7 1.25 MW \u2248 5MW additional generating capacity per ship",
       "link": "https://nitter.net/DefenceDecode/status/2068186901618774184#m",
       "source": "Defense Decode",
       "sort_key": "2026-06-20T09:49:17+05:30",
@@ -1393,7 +1348,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Lashkar terrorist Abu Dhirar Akasha Farooq, one of the terrorists involved in the failed Sundarbani infiltration bid in Rajouri on 19 February 2026, has reportedly 72'd from injuries sustained during the operation.\n\nThe Indian Army had earlier reported heavy blood trails and recovered an AK-47, ammunition, rucksacks and other war-like stores from the area.",
+      "title": "Lashkar terrorist Abu Dhirar Akasha Farooq, one of the terrorists involved in the failed Sundarbani infiltration bid in Rajouri on 19 February 2026, has reportedly 72'd from injuries sustained during the operation. The Indian Army had earlier reported heavy blood trails and recovered an AK-47, ammunition, rucksacks and other war-like stores from the area.",
       "link": "https://nitter.net/elitepredatorss/status/2068012139219177735#m",
       "source": "Elite Predators",
       "sort_key": "2026-06-19T22:14:50+05:30",
@@ -1403,7 +1358,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @AngryRumi7: Update :\n\nAccording to new cross-border accounts, the heavily blood-stained terrorist involved in #OpJwala died on the very same night.\n\nHe has been identified as Akashah Farooq alias Abu Zarar, a resident of Lahore. He studied at LeT\u2019s Markaz Al-Qadsia, Lahore in 2022 thenafter underwent terror training at Forward Kahuta in 2025, and was sent for infiltration in February 2026. \n\nHowever, Akashah Farooq alias Abu Zarar was dispatched to hell by @Whiteknight_IA.\n\nThree days ago, his family members were informed by CTD Lahore that their son/brother/family member had been dispatched to hell by @adgpi",
+      "title": "RT by @AngryRumi7: Update : According to new cross-border accounts, the heavily blood-stained terrorist involved in #OpJwala died on the very same night. He has been identified as Akashah Farooq alias Abu Zarar, a resident of Lahore. He studied at LeT\u2019s Markaz Al-Qadsia, Lahore in 2022 thenafter underwent terror training at Forward Kahuta in 2025, and was sent for infiltration in February 2026. However, Akashah Farooq alias Abu Zarar was dispatched to hell by @Whiteknight_IA. Three days ago, his family members were informed by CTD Lahore that their son/brother/family member had been dispatched to hell by @adgpi",
       "link": "https://nitter.net/shivank_8mishra/status/2067997025027620940#m",
       "source": "Angry Rumi",
       "sort_key": "2026-06-19T21:14:46+05:30",
@@ -1443,7 +1398,7 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "\ud83d\udea8BIG!!\nPakistani Rangers have opened fire and massacred protestors in Battal, near LoC. 2 people have died and 8 are seriously injured. @EURightsAgency @Reuters @UN_HRC wake up!!",
+      "title": "\ud83d\udea8BIG!! Pakistani Rangers have opened fire and massacred protestors in Battal, near LoC. 2 people have died and 8 are seriously injured. @EURightsAgency @Reuters @UN_HRC wake up!!",
       "link": "https://nitter.net/Goreunit/status/2067977484059185460#m",
       "source": "War & Gore",
       "sort_key": "2026-06-19T19:57:08+05:30",
@@ -1473,7 +1428,7 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @Goreunit: Exclusive: Pakistani Army and Rangers opened fire on protesters in Battal village near the LoC in PoJK today, killing 2 people and injuring several others.\n\nVideos from the ground show live firing, tear-gas shelling and protesters fleeing towards nearby hills. Over 50 rounds were reportedly fired. The deceased have been identified as Anja and Ghulam Sarwar.\n\nWith today\u2019s killings, the protest death toll has risen to 58.\n\n#PoJK #Battal #Rawalakot #PakistanOccupiedKashmir #Kashmir #HumanRights",
+      "title": "RT by @Goreunit: Exclusive: Pakistani Army and Rangers opened fire on protesters in Battal village near the LoC in PoJK today, killing 2 people and injuring several others. Videos from the ground show live firing, tear-gas shelling and protesters fleeing towards nearby hills. Over 50 rounds were reportedly fired. The deceased have been identified as Anja and Ghulam Sarwar. With today\u2019s killings, the protest death toll has risen to 58. #PoJK #Battal #Rawalakot #PakistanOccupiedKashmir #Kashmir #HumanRights",
       "link": "https://nitter.net/shivank_8mishra/status/2067967663574482985#m",
       "source": "War & Gore",
       "sort_key": "2026-06-19T19:18:06+05:30",
@@ -1483,7 +1438,7 @@
       "author": "@shivank_8mishra"
     },
     {
-      "title": "RT by @OsintTV: Exclusive: Pakistani Army and Rangers opened fire on protesters in Battal village near the LoC in PoJK today, killing 2 people and injuring several others.\n\nVideos from the ground show live firing, tear-gas shelling and protesters fleeing towards nearby hills. Over 50 rounds were reportedly fired. The deceased have been identified as Anja and Ghulam Sarwar.\n\nWith today\u2019s killings, the protest death toll has risen to 58.\n\n#PoJK #Battal #Rawalakot #PakistanOccupiedKashmir #Kashmir #HumanRights",
+      "title": "RT by @OsintTV: Exclusive: Pakistani Army and Rangers opened fire on protesters in Battal village near the LoC in PoJK today, killing 2 people and injuring several others. Videos from the ground show live firing, tear-gas shelling and protesters fleeing towards nearby hills. Over 50 rounds were reportedly fired. The deceased have been identified as Anja and Ghulam Sarwar. With today\u2019s killings, the protest death toll has risen to 58. #PoJK #Battal #Rawalakot #PakistanOccupiedKashmir #Kashmir #HumanRights",
       "link": "https://nitter.net/shivank_8mishra/status/2067967663574482985#m",
       "source": "Osint TV",
       "sort_key": "2026-06-19T19:18:06+05:30",
@@ -1493,7 +1448,7 @@
       "author": "@shivank_8mishra"
     },
     {
-      "title": "RT by @OsintTV: BIG\n\nMajor boost to India's defence manufacturing! Nagpur-based Solar Defence is set to begin indigenous production of warheads for the formidable BrahMos supersonic cruise missile, strengthening the nation's self-reliance in strategic defence capabilities \ud83d\udd25",
+      "title": "RT by @OsintTV: BIG Major boost to India's defence manufacturing! Nagpur-based Solar Defence is set to begin indigenous production of warheads for the formidable BrahMos supersonic cruise missile, strengthening the nation's self-reliance in strategic defence capabilities \ud83d\udd25",
       "link": "https://nitter.net/FrontalForce/status/2067965323266195501#m",
       "source": "Osint TV",
       "sort_key": "2026-06-19T19:08:48+05:30",
@@ -1513,7 +1468,7 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "#MoD has signed a \u20b9425cr contract with Bharat Forge for the supply of 12 indigenous Marine Gas Turbine Generators (#MGTG) for the Indian Navy.\n\nBeyond the equipment itself, the programme will help establish a domestic ecosystem for mfg, M&S of strategic naval power-gen systems.",
+      "title": "#MoD has signed a \u20b9425cr contract with Bharat Forge for the supply of 12 indigenous Marine Gas Turbine Generators (#MGTG) for the Indian Navy. Beyond the equipment itself, the programme will help establish a domestic ecosystem for mfg, M&S of strategic naval power-gen systems.",
       "link": "https://nitter.net/DefenceDecode/status/2067953701873193198#m",
       "source": "Defense Decode",
       "sort_key": "2026-06-19T18:22:37+05:30",
@@ -1523,7 +1478,7 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "The Indian Navy is scheduled to commission three indigenously built frontline platforms \u2013 Dunagiri, Sanshodhak, and Agray \u2013 in Kolkata on 21 Jun 2026.\nhttps://www.pib.gov.in/PressReleasePage.aspx?PRID=2275247&reg=48&lang=1",
+      "title": "The Indian Navy is scheduled to commission three indigenously built frontline platforms \u2013 Dunagiri, Sanshodhak, and Agray \u2013 in Kolkata on 21 Jun 2026. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275247&reg=48&lang=1",
       "link": "https://nitter.net/DefenceDecode/status/2067938076886962634#m",
       "source": "Defense Decode",
       "sort_key": "2026-06-19T17:20:32+05:30",
@@ -1533,7 +1488,7 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "Once again, i reiterate that India could consider placing wheat flour(Atta) at the border and offering 200 to 300 units of subsidised electricity to the native people of PoJK/GB.\n\nGuarantee: Without firing a single bullet, PoJK and GB could reintegrate with India.\n\nWho knows with such an offer, even other parts of Pakistan may consider the choice....\ud83d\ude01",
+      "title": "Once again, i reiterate that India could consider placing wheat flour(Atta) at the border and offering 200 to 300 units of subsidised electricity to the native people of PoJK/GB. Guarantee: Without firing a single bullet, PoJK and GB could reintegrate with India. Who knows with such an offer, even other parts of Pakistan may consider the choice....\ud83d\ude01",
       "link": "https://nitter.net/OsintTV/status/2067925016411283928#m",
       "source": "Osint TV",
       "sort_key": "2026-06-19T16:28:38+05:30",
@@ -1543,7 +1498,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "\ud83d\udea8 Explosive scenes from the ongoing PoJK protests...\ud83d\udd25\n\n\u201cThey (\ud83c\uddf5\ud83c\uddf0) say they won\u2019t let rations and food enter PoJK. There are other(\ud83c\uddee\ud83c\uddf3) trade routes too. We will open all of them. We throw your subsidies back in your face. Get out our land. It is a matter between us and India, not Pakistan.\u201d\n\n\u201cHum jaane, Hindustan jaane...\ud83d\udca5\u201d\n\nVideo: >@Goreunit",
+      "title": "\ud83d\udea8 Explosive scenes from the ongoing PoJK protests...\ud83d\udd25 \u201cThey (\ud83c\uddf5\ud83c\uddf0) say they won\u2019t let rations and food enter PoJK. There are other(\ud83c\uddee\ud83c\uddf3) trade routes too. We will open all of them. We throw your subsidies back in your face. Get out our land. It is a matter between us and India, not Pakistan.\u201d \u201cHum jaane, Hindustan jaane...\ud83d\udca5\u201d Video: >@Goreunit",
       "link": "https://nitter.net/OsintTV/status/2067911989280612627#m",
       "source": "Osint TV",
       "sort_key": "2026-06-19T15:36:52+05:30",
@@ -1553,7 +1508,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "BREAKING: \ud83c\udde6\ud83c\uddeb\nThe Islamic Emirate of Afghanistan claims its Air Force carried out a series of overnight airstrikes on alleged ISIS hideouts inside Pakistan's Balochistan and Khyber Pakhtunkhwa provinces.\nAccording to the statement, the targeted locations were being used to organize and support attacks against Afghanistan.",
+      "title": "BREAKING: \ud83c\udde6\ud83c\uddeb The Islamic Emirate of Afghanistan claims its Air Force carried out a series of overnight airstrikes on alleged ISIS hideouts inside Pakistan's Balochistan and Khyber Pakhtunkhwa provinces. According to the statement, the targeted locations were being used to organize and support attacks against Afghanistan.",
       "link": "https://nitter.net/Goreunit/status/2067910764304945615#m",
       "source": "War & Gore",
       "sort_key": "2026-06-19T15:32:00+05:30",
@@ -1563,7 +1518,7 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Is Russia still militarily reliable for India? \nMoscow yesterday \ud83d\udccd",
+      "title": "Is Russia still militarily reliable for India? Moscow yesterday \ud83d\udccd",
       "link": "https://nitter.net/Goreunit/status/2067895182335619532#m",
       "source": "War & Gore",
       "sort_key": "2026-06-19T14:30:05+05:30",
@@ -1573,13 +1528,13 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @OsintTV: \ud83d\udea8 Mudassir Hussain is carrying reward of 10 lakh along with Riyaz and Jehangeer Saroori for their involvement in several terror crimes in the region. Arrested Tariq is Government employee in forest department.\u00a0\n\nhttps://www.republicworld.com/india/father-of-a-category-terrorist-mudassir-arrested-with-arms-and-ammunition-by-kishtwar-police-2026-06-19-129019",
+      "title": "RT by @OsintTV: \ud83d\udea8 Mudassir Hussain is carrying reward of 10 lakh along with Riyaz and Jehangeer Saroori for their involvement in several terror crimes in the region. Arrested Tariq is Government employee in forest department.\u00a0 https://www.republicworld.com/india/father-of-a-category-terrorist-mudassir-arrested-with-arms-and-ammunition-by-kishtwar-police-2026-06-19-129019",
       "link": "https://nitter.net/FromGursimran/status/2067888498175361330#m",
       "source": "Osint TV",
       "sort_key": "2026-06-19T14:03:32+05:30",
       "time": "19 Jun, 02:03 PM",
       "type": "tweets",
-      "content": "<p>\ud83d\udea8 Mudassir Hussain is carrying reward of 10 lakh along with Riyaz and Jehangeer Saroori for their involvement in several terror crimes in the region. Arrested Tariq is Government employee in forest department.\u00a0<br />\n<br />\n<a href=\"https://www.republicworld.com/india/father-of-a-category-terrorist-mudassir-arrested-with-arms-and-ammunition-by-kishtwar-police-2026-06-19-129019\">republicworld.com/india/fath\u2026</a></p>\n<img src=\"https://nitter.net/pic/card_img%2F2067888477182832641%2FRq941RIg%3Fformat%3Djpg%26name%3D800x419\" />",
+      "content": "<p>\ud83d\udea8 Mudassir Hussain is carrying reward of 10 lakh along with Riyaz and Jehangeer Saroori for their involvement in several terror crimes in the region. Arrested Tariq is Government employee in forest department.\u00a0<br />\n<br />\n<a href=\"https://www.republicworld.com/india/father-of-a-category-terrorist-mudassir-arrested-with-arms-and-ammunition-by-kishtwar-police-2026-06-19-129019\">republicworld.com/india/fath\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.republicworld.com/india/father-of-a-category-terrorist-mudassir-arrested-with-arms-and-ammunition-by-kishtwar-police-2026-06-19-129019\">\n<img src=\"https://nitter.net/pic/card_img%2F2067888477182832641%2FRq941RIg%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Father Of A+ Category Terrorist Mudassir Arrested With Arms And Ammunition By Kishtwar Police</b>\n</a>\n<p>In a major anti-terror operation, the Jammu and Kashmir Police (SOG Kishtwar) arrested Tariq Ahmed Ginoo - a government forest department employee and the father of wanted Hizbul Mujahideen terrorist...</p>\n<small><a href=\"https://www.republicworld.com/india/father-of-a-category-terrorist-mudassir-arrested-with-arms-and-ammunition-by-kishtwar-police-2026-06-19-129019\">republicworld.com</a></small>",
       "author": "@FromGursimran"
     },
     {
@@ -1593,7 +1548,7 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Another successful anti-piracy response by the Indian Navy \ud83c\uddee\ud83c\uddf3\u2693\n\nFollowing a distress call from MV Fareeda 5 on a suspected piracy attempt in the Western IOR,INS Trikand rapidly responded to the incident,investigated the threat and ensured the safe passage of the merchant vessel.",
+      "title": "Another successful anti-piracy response by the Indian Navy \ud83c\uddee\ud83c\uddf3\u2693 Following a distress call from MV Fareeda 5 on a suspected piracy attempt in the Western IOR,INS Trikand rapidly responded to the incident,investigated the threat and ensured the safe passage of the merchant vessel.",
       "link": "https://nitter.net/DefenceDecode/status/2067879235587621213#m",
       "source": "Defense Decode",
       "sort_key": "2026-06-19T13:26:43+05:30",
@@ -1601,26 +1556,6 @@
       "type": "tweets",
       "content": "<p>Another successful anti-piracy response by the Indian Navy \ud83c\uddee\ud83c\uddf3\u2693<br />\n<br />\nFollowing a distress call from MV Fareeda 5 on a suspected piracy attempt in the Western IOR,INS Trikand rapidly responded to the incident,investigated the threat and ensured the safe passage of the merchant vessel.</p>\n<img src=\"https://nitter.net/pic/media%2FHLKVB-eaMAATeZD.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "RT by @Goreunit: Misinfo Alert\ud83d\udea8\n\nISPR bots using vintage videos of police personnel confronting stone peltors and violent protestors to run false narratives as the std SOP of paki army it is!\n\nMeanwhile the actual atrocities are human rights violations being done by the pakistani army in the occupied Jammu & Kashmir.\u2705\n\nAttached images tell a heartbreaking story which is a normal for the residents of POJK. Both the images show the brutal crackdown by the paki army and open looting of civilian shops.\u2705\n\nCC: Independent Media\n\n#PakArmyAtrocities\n#PakistanOccupiedJammuKashmir",
-      "link": "https://nitter.net/ThatArticleGuy/status/2067875761919324239#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-19T13:12:55+05:30",
-      "time": "19 Jun, 01:12 PM",
-      "type": "tweets",
-      "content": "<p>Misinfo Alert\ud83d\udea8<br />\n<br />\nISPR bots using vintage videos of police personnel confronting stone peltors and violent protestors to run false narratives as the std SOP of paki army it is!<br />\n<br />\nMeanwhile the actual atrocities are human rights violations being done by the pakistani army in the occupied Jammu & Kashmir.\u2705<br />\n<br />\nAttached images tell a heartbreaking story which is a normal for the residents of POJK. Both the images show the brutal crackdown by the paki army and open looting of civilian shops.\u2705<br />\n<br />\nCC: Independent Media<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakArmyAtrocities\">#PakArmyAtrocities</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanOccupiedJammuKashmir\">#PakistanOccupiedJammuKashmir</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLKOE0bWoAAGOFo.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLKOFNxW8AAzKVp.jpg\" />\n\n<hr />\n<blockquote>\n<b>Zardan Sangzi (@ZardanSi)</b>\n<p>\n<p>Indian Army atrocities against innocent people in Indian-occupied Kashmir.<br />\n<br />\nJAAC Kan Katra committee goons tell us to take the example of the Indian Army and say the Indian Army is good with Kashmiri people.</p>\n<a href=\"https://nitter.net/ZardanSi/status/2067633370507743478#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2067633269592449024%2Fimg%2FNjfORZRHEMpMzoVY.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ZardanSi/status/2067633370507743478#m\">https://nitter.net/ZardanSi/status/2067633370507743478#m</a>\n</footer>\n</blockquote>",
-      "author": "@ThatArticleGuy"
-    },
-    {
-      "title": "Peaceful protestors are being declared terrorists in Pakistan...",
-      "link": "https://nitter.net/Goreunit/status/2067864127683608855#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-19T12:26:41+05:30",
-      "time": "19 Jun, 12:26 PM",
-      "type": "tweets",
-      "content": "<p>Peaceful protestors are being declared terrorists in Pakistan...</p>\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>New: In Pakistan-occupied Jammu and Kashmir (PoJK), which has been witnessing uprising for the past 11 days, the Pakistani authorities have devised a new tactic to suppress the movement. The individuals leading and participating in the protests around 150 people in total have been collectively declared terrorists.<br />\n<br />\nThe puppet government of PoJK has issued a notification placing 150 individuals under Schedule IV, effectively branding them as terrorists.<br />\n<br />\nEarlier, even before the protests began, the Awami Action Committee was already declared a terrorist organization in an attempt to crush the movement. Now, 150 more individuals have been designated under the same category. Those included are key protest organizers such as Shaukat Nawaz Mir, Umar Nazir, Khawaja Mehran, and Aman Khan.</p>\n<img src=\"https://nitter.net/pic/media%2FHLJrJJrbUAAdePC.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLJrJJqasAAEUYQ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLJrJJ1aQAEb5Wc.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLJrJJrbsAARmHo.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2067833004391825747#m\">https://nitter.net/shivank_8mishra/status/2067833004391825747#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1707,6 +1642,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
