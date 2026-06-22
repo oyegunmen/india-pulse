@@ -1,13 +1,31 @@
 {
   "news": [
     {
+      "title": "On sidelines of BRICS NSA's meeting: India and China take note of 'normalisation' in ties",
+      "link": "https://economictimes.indiatimes.com/news/defence/on-sidelines-of-brics-nsas-meeting-india-and-china-take-note-of-normalisation-in-ties/articleshow/131918366.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-22T23:58:49+05:30",
+      "time": "22 Jun, 11:58 PM",
+      "type": "news",
+      "description": "India and China reviewed their bilateral ties during a meeting between National Security Adviser Ajit Doval and Chinese Foreign Minister Wang Yi in Ne..."
+    },
+    {
+      "title": "CISF gears up for cyber, drone threats as security risks evolve",
+      "link": "https://economictimes.indiatimes.com/news/defence/cisf-gears-up-for-cyber-drone-threats-as-security-risks-evolve/articleshow/131917428.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-22T23:36:29+05:30",
+      "time": "22 Jun, 11:36 PM",
+      "type": "news",
+      "description": "CISF Director General Praveer Ranjan emphasized the force's readiness for modern security threats, including cyber attacks and drone technology. He an..."
+    },
+    {
       "title": "India set to seal $230 million M777 howitzer support deal with US: Sergio Gor",
       "link": "https://economictimes.indiatimes.com/news/defence/india-set-to-seal-230-million-m777-howitzer-support-deal-with-us-sergio-gor/articleshow/131916749.cms",
       "source": "Economic Times",
       "sort_key": "2026-06-22T23:10:34+05:30",
       "time": "22 Jun, 11:10 PM",
       "type": "news",
-      "description": "India's defence partnership with the US is strengthening with a USD 230 million deal for M777A2 howitzer sustainment nearing conclusion. This move bol..."
+      "description": "India is set to receive a significant boost to its defence capabilities with a proposed $230 million US sustainment package for its M777 ultra-light h..."
     },
     {
       "title": "Aakar Patel | From \u2018Indo-Pacific\u2019 To Pacific: India To Pay Price For Bid To Play Off US, China",
@@ -123,24 +141,6 @@
       "source": "The Indian Express",
       "sort_key": "2026-06-22T20:04:17+05:30",
       "time": "22 Jun, 08:04 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "CISF announces plan to set up data fusion centre in Delhi to boost aviation security",
-      "link": "https://www.newindianexpress.com/india/2026/Jun/22/cisf-announces-plan-to-set-up-data-fusion-centre-in-delhi-to-boost-aviation-security",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-22T19:40:33+05:30",
-      "time": "22 Jun, 07:40 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Hoax bomb threat email triggers security alert at Udupi District Court",
-      "link": "https://www.newindianexpress.com/states/karnataka/2026/Jun/22/hoax-bomb-threat-email-triggers-security-alert-at-udupi-district-court",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-22T19:20:13+05:30",
-      "time": "22 Jun, 07:20 PM",
       "type": "news",
       "description": ""
     },
@@ -352,15 +352,6 @@
       "description": "<p>June 17, 2026. Northrop Grumman\u2019s Pegasus rocket enables a rapid, flexible mission to boost NASA&#8217;s Neil Gehrels Swift Observatory, showcasing..."
     },
     {
-      "title": "US notifies sale of support services for India&#8217;s Apache helicopters, M777A2 howitzers",
-      "link": "https://www.tribuneindia.com/news/defence/us-notifies-sale-of-support-services-for-indias-apache-helicopters-m777a2-howitzers",
-      "source": "The Tribune",
-      "sort_key": "2026-06-22T10:24:34+05:30",
-      "time": "22 Jun, 10:24 AM",
-      "type": "news",
-      "description": "The US has formally notified the proposed sale of sustainment support services and related equipment for India&#8217;s Apache helicopters and M777A2 U..."
-    },
-    {
       "title": "National Testing Agency refutes fake NEET video, initiates action",
       "link": "https://www.tribuneindia.com/news/india/nta-refutes-fake-neet-ug-2026-video-initiates-action-against-misinformation-spreaders",
       "source": "The Tribune",
@@ -514,15 +505,6 @@
       "description": "<p>A senior member of the banned People\u2019s Liberation Army (PLA), who had been evading arrest for nearly two decades in connection with a UAPA case in ..."
     },
     {
-      "title": "PM Modi commissions 3 indigenous navy ships in Kolkata",
-      "link": "https://theprint.in/defence/pm-modi-commissions-3-indigenous-navy-ships-in-kolkata/2965991/",
-      "source": "The Print",
-      "sort_key": "2026-06-21T14:49:48+05:30",
-      "time": "21 Jun, 02:49 PM",
-      "type": "news",
-      "description": "He said that over 40 warships and submarines had been commissioned in the last few years, and 45 large naval platforms were being constructed"
-    },
-    {
       "title": "Taiwan to stage five days of combat readiness drills",
       "link": "https://economictimes.indiatimes.com/news/defence/taiwan-to-stage-five-days-of-combat-readiness-drills/articleshow/131888285.cms",
       "source": "Economic Times",
@@ -656,18 +638,109 @@
       "time": "21 Jun, 12:27 AM",
       "type": "news",
       "description": "Manipur is bolstering its security with two additional elite CoBRA units from the CRPF, supplementing an already deployed battalion. This move aims to..."
-    },
-    {
-      "title": "Israel army confirms killing of journalist in Gaza, says he was 'Hamas terrorist'",
-      "link": "https://economictimes.indiatimes.com/news/defence/israel-army-confirms-killing-of-journalist-in-gaza-says-he-was-hamas-terrorist/articleshow/131882184.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-21T00:08:25+05:30",
-      "time": "21 Jun, 12:08 AM",
-      "type": "news",
-      "description": "The Israeli military announced Saturday it killed Al Jazeera journalist Ahmed Wishah in Gaza, labeling him a \"Hamas terrorist.\" A military spokesperso..."
     }
   ],
   "tweets": [
+    {
+      "title": "China and India are partners rather than competitors, China FM Wang Yi tells NSA Ajit Doval at Delhi meet China readout",
+      "link": "https://nitter.net/sidhant/status/2069129757720203644#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T00:15:51+05:30",
+      "time": "23 Jun, 12:15 AM",
+      "type": "tweets",
+      "content": "<p>China and India are partners rather than competitors, China FM Wang Yi tells NSA Ajit Doval at Delhi meet<br />\n<br />\nChina readout</p>\n<img src=\"https://nitter.net/pic/media%2FHLcGjLKbMAA73Ur.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "NSA Doval to FM Wang Yi: Stable ties key to India-China understanding Details: https://www.wionews.com/world/nsa-doval-to-fm-wang-yi-stable-ties-key-to-india-china-understanding-1782152508463",
+      "link": "https://nitter.net/sidhant/status/2069128815025258982#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T00:12:06+05:30",
+      "time": "23 Jun, 12:12 AM",
+      "type": "tweets",
+      "content": "<p>NSA Doval to FM Wang Yi: Stable ties key to India-China understanding<br />\n<br />\nDetails: <br />\n<br />\n<a href=\"https://www.wionews.com/world/nsa-doval-to-fm-wang-yi-stable-ties-key-to-india-china-understanding-1782152508463\">wionews.com/world/nsa-doval-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/nsa-doval-to-fm-wang-yi-stable-ties-key-to-india-china-understanding-1782152508463\">\n<img src=\"https://nitter.net/pic/card_img%2F2069128800143843328%2Fy3Qpb9qg%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>NSA Doval to FM Wang Yi : Stable ties key to India-China understanding</b>\n</a>\n<p>Chinese FM Wang Yii, who is also a member of the Communist Party of China\u2019s Political Bureau and Beijing\u2019s special representative on the India-China border, is attending the meet at the invitation of...</p>\n<small><a href=\"https://www.wionews.com/world/nsa-doval-to-fm-wang-yi-stable-ties-key-to-india-china-understanding-1782152508463\">wionews.com</a></small>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "NSA Ajit Doval with Chinese FM Wang Yi in Delhi on Monday",
+      "link": "https://nitter.net/sidhant/status/2069127751337165001#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T00:07:53+05:30",
+      "time": "23 Jun, 12:07 AM",
+      "type": "tweets",
+      "content": "<p>NSA Ajit Doval with Chinese FM Wang Yi in Delhi on Monday</p>\n<img src=\"https://nitter.net/pic/media%2FHLcEqJSaMAAi8ls.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India's National Security Advisor Ajit Doval meets his South African counterpart, Khumbudzo Ntshavheni on the sidelines of the BRICS National Security Advisors meeting",
+      "link": "https://nitter.net/sidhant/status/2069126739587203195#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T00:03:51+05:30",
+      "time": "23 Jun, 12:03 AM",
+      "type": "tweets",
+      "content": "<p>India's National Security Advisor Ajit Doval meets his South African counterpart, Khumbudzo Ntshavheni on the sidelines of the BRICS National Security Advisors meeting</p>\n<img src=\"https://nitter.net/pic/media%2FHLcDuwZagAA78iW.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India set to host BRICS NSA meet today. NSA Ajit Doval meets his Chinese counterpart. Reporting from Delhi:",
+      "link": "https://nitter.net/sidhant/status/2069125891024974282#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T00:00:29+05:30",
+      "time": "23 Jun, 12:00 AM",
+      "type": "tweets",
+      "content": "<p>India set to host BRICS NSA meet today. NSA Ajit Doval meets his Chinese counterpart. <br />\n<br />\nReporting from Delhi:</p>\n<a href=\"https://nitter.net/sidhant/status/2069125891024974282#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069085433750003712%2Fimg%2Fw8YsQJ9EHIL0t-0O.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The discussions were constructive and forward-looking: Indian readout of NSA Ajit Doval, FM Wang Yi meet in Delhi",
+      "link": "https://nitter.net/sidhant/status/2069118849098871008#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T23:32:30+05:30",
+      "time": "22 Jun, 11:32 PM",
+      "type": "tweets",
+      "content": "<p>The discussions were constructive and forward-looking: Indian readout of NSA Ajit Doval,  FM Wang Yi meet in Delhi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Chinese Foreign minister Wang Yi meets Indian NSA Ajit Doval for a bilateral. Wang Yi is Delhi for BRICS NSAs meet</p>\n<a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069061177976737792%2Fpu%2Fimg%2FzYs6H3FTZ33mD86w.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">https://nitter.net/sidhant/status/2069061194019979264#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "NSA Ajit Doval underlined that \"stable, predictable and constructive bilateral relations contribute to building of trust and better understanding between the two sides\", says Indian readout of Doval-Wang Yi talks",
+      "link": "https://nitter.net/sidhant/status/2069118754429276542#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T23:32:08+05:30",
+      "time": "22 Jun, 11:32 PM",
+      "type": "tweets",
+      "content": "<p>NSA Ajit Doval underlined that \"stable, predictable and constructive bilateral relations contribute to building of trust and better understanding between the two sides\", says Indian readout of Doval-Wang Yi talks</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Chinese Foreign minister Wang Yi meets Indian NSA Ajit Doval for a bilateral. Wang Yi is Delhi for BRICS NSAs meet</p>\n<a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069061177976737792%2Fpu%2Fimg%2FzYs6H3FTZ33mD86w.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">https://nitter.net/sidhant/status/2069061194019979264#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The two sides reviewed recent developments in bilateral relations and noted progress towards gradual normalisation: Indian side on NSA Ajit Doval, China FM Wang Yi meet",
+      "link": "https://nitter.net/sidhant/status/2069118566402793592#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T23:31:23+05:30",
+      "time": "22 Jun, 11:31 PM",
+      "type": "tweets",
+      "content": "<p>The two sides reviewed recent developments in bilateral relations and noted progress towards gradual normalisation: Indian side on NSA Ajit Doval, China FM Wang Yi meet</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Chinese Foreign minister Wang Yi meets Indian NSA Ajit Doval for a bilateral. Wang Yi is Delhi for BRICS NSAs meet</p>\n<a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069061177976737792%2Fpu%2Fimg%2FzYs6H3FTZ33mD86w.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">https://nitter.net/sidhant/status/2069061194019979264#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Indian Embassy in Qatar Qatari authorities have confirmed that 12 Indian nationals have unfortunately passed away in the Ras Laffan incident yesterday night. We extend our deepest condolences to the bereaved families and prayers for the departed souls. Qatari authorities have also confirmed that all those who got injured in the incident are in stable condition and are receiving appropriate medical treatment. Our Embassy is working in close contact with the Qatari authorities to extend all possible help to the Indian nationals and their families affected by this incident, including ensuring that mortal remains of the deceased are sent to India at the earliest.",
+      "link": "https://nitter.net/sidhant/status/2069117037306359908#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T23:25:18+05:30",
+      "time": "22 Jun, 11:25 PM",
+      "type": "tweets",
+      "content": "<p>Indian Embassy in Qatar<br />\n<br />\nQatari authorities have confirmed that 12 Indian nationals have unfortunately passed away in the Ras Laffan incident yesterday night. We extend our deepest condolences to the bereaved families and prayers for the departed souls. <br />\n<br />\nQatari authorities have also confirmed that all those who got injured in the incident are in stable condition and are receiving appropriate medical treatment. <br />\n<br />\nOur Embassy is working in  close contact with the Qatari authorities to extend all possible help to the Indian nationals and their families affected by this incident, including ensuring that mortal remains of the deceased are sent to India at the earliest.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking: Qatar authorities have confirmed that 12 Indian nationals have unfortunately passed away in the Ras Laffan incident yesterday night, says Indian Embassy in Doha",
+      "link": "https://nitter.net/sidhant/status/2069116889885032465#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T23:24:43+05:30",
+      "time": "22 Jun, 11:24 PM",
+      "type": "tweets",
+      "content": "<p>Breaking: Qatar authorities have confirmed that 12 Indian nationals have unfortunately passed away in the Ras Laffan incident yesterday night, says Indian Embassy in Doha</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Qatar confirms Indians, Pakistanis among the 13 who have died at the gas plant explosion at Ras Laffan</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069052396207268119#m\">https://nitter.net/sidhant/status/2069052396207268119#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "Daily US-Israel-Iran War Brief: 22nd Jun 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf The IDF eliminated 3 armed terrorists from Hamas\u2019 military wing who were attempting to carry out attacks against IDF troops. \u25cf Iranian Foreign Ministry spokesman Baqaei stated that a threatening US statement during the four-party session prompted Iran to declare it would not continue the talks for now. \u25cf The US Treasury Department issued a 60-day general license, effective until 21 August 2026, authorizing the production, delivery, and sale of Iranian-origin petroleum. \u25cf Iran\u2019s Foreign Ministry spokesman announced that Tehran\u2019s interaction with the IAEA will be subject to approval by Iran\u2019s Parliament and the Supreme National Security Council. \u25cf The French and Qatari-owned gas carriers WADI AL SAIL and MEKAINES were allowed to transit the Strait of Hormuz this morning, both en route to Ras Laffan LNG terminal. END OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2069110159478268213#m",
@@ -765,7 +838,7 @@
       "sort_key": "2026-06-22T21:03:30+05:30",
       "time": "22 Jun, 09:03 PM",
       "type": "tweets",
-      "content": "<p>India, Mongolia are spiritual siblings says EAM Dr S Jaishankar in Ulaanbaatar <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1oKMvvkqOYpGQ?t=50s\">nitter.net/i/broadcasts/1oKMvvkqO\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1oKMvvkqOYpGQ?t=50s\">\n<img src=\"https://nitter.net/pic/card_img%2F2069113910196662272%2Fb45pUYQq%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>My statement to the press after my meeting with FM Mongolia @BattsetsegBatm2 in Ulaanbaatar. \ud83c\uddee\ud83c\uddf3 \ud83c\uddf2\ud83c\uddf3</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1oKMvvkqOYpGQ?t=50s\">https://nitter.net/i/broadcasts/1oKMvvkqOYpGQ?t=50s</a></small>",
+      "content": "<p>India, Mongolia are spiritual siblings says EAM Dr S Jaishankar in Ulaanbaatar <br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1oKMvvkqOYpGQ?t=50s\">nitter.net/i/broadcasts/1oKMvvkqO\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1oKMvvkqOYpGQ?t=50s\">\n<img src=\"https://nitter.net/pic/card_img%2F2069128631948095488%2F5ofNXvFv%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>My statement to the press after my meeting with FM Mongolia @BattsetsegBatm2 in Ulaanbaatar. \ud83c\uddee\ud83c\uddf3 \ud83c\uddf2\ud83c\uddf3</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1oKMvvkqOYpGQ?t=50s\">https://nitter.net/i/broadcasts/1oKMvvkqOYpGQ?t=50s</a></small>",
       "author": "@sidhant"
     },
     {
@@ -819,96 +892,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "R to @sidhant: Pakistan govt annouces:",
-      "link": "https://nitter.net/sidhant/status/2069063070673207544#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:50:52+05:30",
-      "time": "22 Jun, 07:50 PM",
-      "type": "tweets",
-      "content": "<p>Pakistan govt annouces:</p>\n<img src=\"https://nitter.net/pic/media%2FHLbJ5fXbYAAOCHJ.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Chinese Delegation FM Wang Yi, China Ambassador @China_Amb_India",
-      "link": "https://nitter.net/sidhant/status/2069062255468314629#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:47:37+05:30",
-      "time": "22 Jun, 07:47 PM",
-      "type": "tweets",
-      "content": "<p>Chinese Delegation <br />\n<br />\nFM Wang Yi, China Ambassador <a href=\"https://nitter.net/China_Amb_India\" title=\"Xu Feihong\">@China_Amb_India</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLbJJ8racAA9KgZ.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "NSA Ajit Doval, foreign secretary Vikram Misri, Indian Amb @VDoraiswami, Deputy NSA Pavan Kapoor at the bilateral with China FM Wang Yi in Delhi",
-      "link": "https://nitter.net/sidhant/status/2069061891297784125#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:46:10+05:30",
-      "time": "22 Jun, 07:46 PM",
-      "type": "tweets",
-      "content": "<p>NSA Ajit Doval, foreign secretary Vikram Misri,  Indian Amb <a href=\"https://nitter.net/VDoraiswami\" title=\"Vikram Doraiswami\">@VDoraiswami</a>, Deputy NSA Pavan Kapoor at the bilateral with China FM Wang Yi in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHLbI0s_bYAAsxqc.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "China FM Wang Yi, NSA Ajit Doval meet in Delhi. Indian Ambassador @VDoraiswami also present at the meet",
-      "link": "https://nitter.net/sidhant/status/2069061559138263299#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:44:51+05:30",
-      "time": "22 Jun, 07:44 PM",
-      "type": "tweets",
-      "content": "<p>China FM Wang Yi, NSA Ajit Doval meet in Delhi. Indian Ambassador <a href=\"https://nitter.net/VDoraiswami\" title=\"Vikram Doraiswami\">@VDoraiswami</a> also present at the meet</p>\n<img src=\"https://nitter.net/pic/media%2FHLbIhapbYAA2eum.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Breaking: Wang Yi-Ajit Doval hold delegation level bilateral meet in Delhi.",
-      "link": "https://nitter.net/sidhant/status/2069061429567926585#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:44:20+05:30",
-      "time": "22 Jun, 07:44 PM",
-      "type": "tweets",
-      "content": "<p>Breaking: Wang Yi-Ajit Doval hold delegation level bilateral meet in Delhi.</p>\n<a href=\"https://nitter.net/sidhant/status/2069061429567926585#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069061387033464832%2Fpu%2Fimg%2Fp-RYQOA6_GOlJsCf.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Breaking: Chinese Foreign minister Wang Yi meets Indian NSA Ajit Doval for a bilateral. Wang Yi is Delhi for BRICS NSAs meet",
-      "link": "https://nitter.net/sidhant/status/2069061194019979264#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:43:24+05:30",
-      "time": "22 Jun, 07:43 PM",
-      "type": "tweets",
-      "content": "<p>Breaking: Chinese Foreign minister Wang Yi meets Indian NSA Ajit Doval for a bilateral. Wang Yi is Delhi for BRICS NSAs meet</p>\n<a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069061177976737792%2Fpu%2Fimg%2FzYs6H3FTZ33mD86w.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Among the dead and injured in Qatar gas plant explosion include Indians, Qatari Authorities say",
-      "link": "https://nitter.net/sidhant/status/2069058775173222570#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:33:47+05:30",
-      "time": "22 Jun, 07:33 PM",
-      "type": "tweets",
-      "content": "<p>Among the dead and injured in Qatar gas plant explosion include Indians, Qatari Authorities say</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Qatar confirms Indians, Pakistanis among the 13 who have died at the gas plant explosion at Ras Laffan</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069052396207268119#m\">https://nitter.net/sidhant/status/2069052396207268119#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Just in: Iran President Masoud Pezeshkian to travel to Pakistan tomm in his first foreign visit since the outbreak of conflict, & ceasefire announcement.",
-      "link": "https://nitter.net/sidhant/status/2069057278934987242#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:27:51+05:30",
-      "time": "22 Jun, 07:27 PM",
-      "type": "tweets",
-      "content": "<p>Just in: Iran President Masoud Pezeshkian to travel to Pakistan tomm in his first foreign visit since the outbreak of conflict, &amp; ceasefire announcement.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Breaking: US Treasury eases sanctions on Iran by authorising the production, sale, delivery and offloading of Iranian crude until 21 August 2026.",
-      "link": "https://nitter.net/sidhant/status/2069056915364327722#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:26:24+05:30",
-      "time": "22 Jun, 07:26 PM",
-      "type": "tweets",
-      "content": "<p>Breaking: US Treasury eases sanctions on Iran by authorising the production, sale, delivery and offloading of Iranian crude until 21 August 2026.</p>\n<img src=\"https://nitter.net/pic/media%2FHLbETK2aQAAbCW_.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLbETLBbIAAJIbK.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "Qatar confirms Indians, Pakistanis among the 13 who have died at the gas plant explosion at Ras Laffan. Om Shanti \ud83d\ude4f",
       "link": "https://nitter.net/Goreunit/status/2069054330448318628#m",
       "source": "War & Gore",
@@ -917,16 +900,6 @@
       "type": "tweets",
       "content": "<p>Qatar confirms Indians, Pakistanis among the 13 who have died at the gas plant explosion at Ras Laffan.<br />\nOm Shanti \ud83d\ude4f</p>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "I find myself today having to do something I have always hoped will never happen, and that is to announce, the tragic loss of 13 lives of our people who hold Indian and Pakistani nationalities: Qatar's energy minister Saad al-Kaabi",
-      "link": "https://nitter.net/sidhant/status/2069052622225772772#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T19:09:20+05:30",
-      "time": "22 Jun, 07:09 PM",
-      "type": "tweets",
-      "content": "<p>I find myself today having to do something I have always hoped will never happen, and that is to announce, the tragic loss of 13 lives of our people who hold Indian and Pakistani nationalities: Qatar's energy minister Saad al-Kaabi</p>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @OsintTV: A proud moment for Kashmir and for India. Kashmir\u2019s Atiqa Mir has become the first Indian and Asian female racer to be selected for the F1 Academy Development Programme, making history on the global motorsport stage. More than 1.4 billion Indians are cheering for her as she carries the hopes and dreams of a nation onto the international circuit. The entire country is proud of you, Atiqa. Keep making India proud. \ud83c\uddee\ud83c\uddf3\ud83c\udfce\ufe0f",
@@ -1445,6 +1418,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "11:24 PM IST"
+    "last_updated": "12:24 AM IST"
   }
 }
