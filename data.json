@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "EAM Dr S Jaishankar to visit Mongolia and South Korea from today",
+      "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-to-visit-mongolia-and-south-korea-from-today/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-22T10:53:46+05:30",
+      "time": "22 Jun, 10:53 AM",
+      "type": "news",
+      "description": "External Affairs Minister Dr S Jaishankar will undertake an official visit to Mongolia and South Korea beginning today. External Affairs Ministry said..."
+    },
+    {
+      "title": "China sanctions 10 US firms over Pentagon blacklist",
+      "link": "https://www.newindianexpress.com/world/2026/Jun/22/china-sanctions-10-us-firms-over-pentagon-blacklist",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-22T10:48:14+05:30",
+      "time": "22 Jun, 10:48 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US notifies sale of support services for India&#8217;s Apache helicopters, M777A2 howitzers",
+      "link": "https://www.tribuneindia.com/news/defence/us-notifies-sale-of-support-services-for-indias-apache-helicopters-m777a2-howitzers",
+      "source": "The Tribune",
+      "sort_key": "2026-06-22T10:24:34+05:30",
+      "time": "22 Jun, 10:24 AM",
+      "type": "news",
+      "description": "The US has formally notified the proposed sale of sustainment support services and related equipment for India&#8217;s Apache helicopters and M777A2 U..."
+    },
+    {
+      "title": "National Testing Agency refutes fake NEET video, initiates action",
+      "link": "https://www.tribuneindia.com/news/india/nta-refutes-fake-neet-ug-2026-video-initiates-action-against-misinformation-spreaders",
+      "source": "The Tribune",
+      "sort_key": "2026-06-22T10:23:49+05:30",
+      "time": "22 Jun, 10:23 AM",
+      "type": "news",
+      "description": "The National Testing Agency (NTA) has strongly refuted claims made in a video circulating on social media regarding the conduct of NEET (UG) 2026, cal..."
+    },
+    {
+      "title": "We will go to war: Pakistan Defence Minister\u2019s warning to India over Indus waters",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/22/we-will-go-to-war-pakistan-defence-ministers-warning-to-india-over-indus-waters",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-22T10:14:29+05:30",
+      "time": "22 Jun, 10:14 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "US notifies sale of support services for India's Apache helicopters, M777A2 howitzers",
       "link": "https://economictimes.indiatimes.com/news/defence/us-notifies-sale-of-support-services-for-indias-apache-helicopters-m777a2-howitzers/articleshow/131901215.cms",
       "source": "Economic Times",
@@ -208,15 +253,6 @@
       "description": "British Prime Minister Keir Starmer is facing increasing pressure to step down as leader of the Labour Party, with some critics calling for Andy Burnh..."
     },
     {
-      "title": "NEET-UG 2026 retest concludes: Candidates say Physics paper was tougher, lengthier than May 3",
-      "link": "https://www.tribuneindia.com/news/india/neet-ug-re-test-under-way-across-india-abroad-travel-woes-hit-aspirants",
-      "source": "The Tribune",
-      "sort_key": "2026-06-21T16:49:38+05:30",
-      "time": "21 Jun, 04:49 PM",
-      "type": "news",
-      "description": "Amid enhanced security measures, over 20 lakh medical aspirants appeared for the re-NEET (UG) examination across 5,440 centres in India and 14 centres..."
-    },
-    {
       "title": "US-Iran Talks Set to Begin in Switzerland Today",
       "link": "https://newsonair.gov.in/us-iran-talks-set-to-begin-in-switzerland-today/",
       "source": "All India Radio",
@@ -260,15 +296,6 @@
       "time": "21 Jun, 03:06 PM",
       "type": "news",
       "description": "<p>A senior member of the banned People\u2019s Liberation Army (PLA), who had been evading arrest for nearly two decades in connection with a UAPA case in ..."
-    },
-    {
-      "title": "PM Modi commissions 3 indigenous navy ships in Kolkata",
-      "link": "https://theprint.in/defence/pm-modi-commissions-3-indigenous-navy-ships-in-kolkata/2965991/",
-      "source": "The Print",
-      "sort_key": "2026-06-21T14:49:48+05:30",
-      "time": "21 Jun, 02:49 PM",
-      "type": "news",
-      "description": "He said that over 40 warships and submarines had been commissioned in the last few years, and 45 large naval platforms were being constructed"
     },
     {
       "title": "Taiwan to stage five days of combat readiness drills",
@@ -359,15 +386,6 @@
       "time": "21 Jun, 10:35 AM",
       "type": "news",
       "description": "PM Modi commissioned three indigenously designed naval ships: INS Dunagiri (stealth frigate), INS Sanshodhak (survey vessel), and INS Agray (anti-subm..."
-    },
-    {
-      "title": "Bangladesh Celebrates 12th International Day of Yoga with Enthusiastic Participation",
-      "link": "https://newsonair.gov.in/bangladesh-celebrates-12th-international-day-of-yoga-with-enthusiastic-participation/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-21T10:32:04+05:30",
-      "time": "21 Jun, 10:32 AM",
-      "type": "news",
-      "description": "Bangladesh marked the 12th International Day of Yoga with a grand celebration in Dhaka, organised by the Indira Gandhi Cultural Centre (IGCC) under th..."
     },
     {
       "title": "Modi Commissions Three Indigenous Naval Warships in Kolkata",
@@ -611,27 +629,89 @@
       "time": "20 Jun, 11:26 AM",
       "type": "news",
       "description": "Israeli strikes in southern Lebanon and the Bekaa Valley killed at least 10 people on Saturday, hours after a ceasefire with Hezbollah was meant to ta..."
-    },
-    {
-      "title": "India&#039;s submarine hunters: Why the Navy is pushing for more helicopters and P-8I aircraft",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-submarine-hunters-why-the-navy-is-pushing-for-more-helicopters-and-p-8i-aircraft/131871054",
-      "source": "Economic Times",
-      "sort_key": "2026-06-20T11:06:23+05:30",
-      "time": "20 Jun, 11:06 AM",
-      "type": "news",
-      "description": "Naval helicopters, like the MH-60R Seahawk, are crucial for detecting and engaging underwater threats, complementing the P-8I aircraft."
-    },
-    {
-      "title": "India's submarine hunters: Why the Navy is pushing for more helicopters and P-8I aircraft",
-      "link": "https://economictimes.indiatimes.com/news/defence/indias-submarine-hunters-why-the-navy-is-pushing-for-more-helicopters-and-p-8i-aircraft/articleshow/131870681.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-20T10:44:11+05:30",
-      "time": "20 Jun, 10:44 AM",
-      "type": "news",
-      "description": "India is urgently bolstering its anti-submarine warfare capabilities amidst growing Chinese and Pakistani submarine presence. Naval helicopters, like ..."
     }
   ],
   "tweets": [
+    {
+      "title": "#EPExclusive Some exclusive footage from POJK right there !",
+      "link": "https://nitter.net/elitepredatorss/status/2068933893789737018#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-22T11:17:33+05:30",
+      "time": "22 Jun, 11:17 AM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23EPExclusive\">#EPExclusive</a>  Some exclusive footage from POJK right there !</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2068933893789737018#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2068933400577351680%2Fimg%2FmqCN-kvsYda08zz3.jpg\" />\n</a>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "EAM Dr Jaishankar in Mongolia",
+      "link": "https://nitter.net/sidhant/status/2068927374838976732#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T10:51:39+05:30",
+      "time": "22 Jun, 10:51 AM",
+      "type": "tweets",
+      "content": "<p>EAM Dr Jaishankar in Mongolia</p>\n<img src=\"https://nitter.net/pic/media%2FHLZOe6xaMAAVgti.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Malaysia \u200bPrime Minister Anwar Ibrahim welcomes Bangladesh Prime Minister Tarique Rahman. Malaysia is the first foreign destination of new Bangladesh PM after taking charge.",
+      "link": "https://nitter.net/sidhant/status/2068926323616260124#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T10:47:28+05:30",
+      "time": "22 Jun, 10:47 AM",
+      "type": "tweets",
+      "content": "<p>Malaysia \u200bPrime Minister Anwar Ibrahim welcomes Bangladesh Prime Minister Tarique Rahman. Malaysia is the first foreign destination of new Bangladesh PM after taking charge.</p>\n<img src=\"https://nitter.net/pic/media%2FHLZNhwCaUAEUrPi.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iran's Deputy National Security Council chief Ghadir Nezami in New Delhi for the BRICS National Security Advisers' meeting",
+      "link": "https://nitter.net/sidhant/status/2068923826097033623#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T10:37:33+05:30",
+      "time": "22 Jun, 10:37 AM",
+      "type": "tweets",
+      "content": "<p>Iran's Deputy National Security Council chief Ghadir Nezami in New Delhi for the BRICS National Security Advisers' meeting</p>\n<img src=\"https://nitter.net/pic/media%2FHLZLQY0bsAAUCMS.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "From Lucerne, Qatar's FM Al Thani looks on as VP Vance types & Trump\u2019s son in Law kushner carefully watches the draft.",
+      "link": "https://nitter.net/sidhant/status/2068923460924158133#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T10:36:06+05:30",
+      "time": "22 Jun, 10:36 AM",
+      "type": "tweets",
+      "content": "<p>From Lucerne, Qatar's FM Al Thani looks on as VP Vance types &amp; Trump\u2019s son in Law kushner carefully watches the draft.</p>\n<img src=\"https://nitter.net/pic/media%2FHLZK7HHaUAAJdjh.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "When was the last time US was humiliated like this? That was extremely embarassing but well deserved.",
+      "link": "https://nitter.net/elitepredatorss/status/2068922986665849039#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-22T10:34:13+05:30",
+      "time": "22 Jun, 10:34 AM",
+      "type": "tweets",
+      "content": "<p>When was the last time US was humiliated like this?<br />\n<br />\nThat was extremely embarassing but well deserved.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "First batch of Kailash Mansarovar Yatris do Yoga in intl Yoga day in Lhatse. The Yatra started last year after a gap of 5 years as India, China agreed to increase people ties.",
+      "link": "https://nitter.net/sidhant/status/2068921230682673595#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T10:27:14+05:30",
+      "time": "22 Jun, 10:27 AM",
+      "type": "tweets",
+      "content": "<p>First batch of Kailash Mansarovar Yatris do Yoga in intl Yoga day in Lhatse. <br />\n<br />\nThe Yatra started last year after a gap of 5 years as India, China agreed to increase people ties.</p>\n<a href=\"https://nitter.net/sidhant/status/2068921230682673595#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2068838172583493632%2Fpu%2Fimg%2FJoWlFVLbzOIE2Mm-.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian Markets in positive as geopolitical tensions ease",
+      "link": "https://nitter.net/sidhant/status/2068920476806926472#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-22T10:24:15+05:30",
+      "time": "22 Jun, 10:24 AM",
+      "type": "tweets",
+      "content": "<p>Indian Markets in positive as geopolitical tensions ease</p>\n<img src=\"https://nitter.net/pic/media%2FHLZH131bEAAXZlz.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "The \u20ac100-billion Future Combat Air System (FCAS/SCAF) program has collapsed following the decision by Germany and France to abandon the joint development of the core New Generation Fighter. Irreconcilable industrial disputes between Dassault Aviation and Airbus, combined with diverging military requirements for the aircraft, led to the project's failure.",
       "link": "https://nitter.net/NetramDefence/status/2068912789746589903#m",
@@ -723,6 +803,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "If you look at the bigger picture, a successful outcome from the Iran\u2013US talks and the reopening of Hormuz would be a net positive for India. I understand why some are focused on Pakistan\u2019s attempts to market itself as a \u201cpeace broker.\u201d The reality, however, is that Pakistan will still have to go knocking on the doors of the IMF, the Gulf states, the US, or China for economic support. If the global environment becomes conducive to business again, it benefits not just India, but also China, Europe, and ASEAN economies over the longer term. & for that if you have to give this guy Nobel give it.",
+      "link": "https://nitter.net/alpha_defense/status/2068766911232725401#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-22T00:14:02+05:30",
+      "time": "22 Jun, 12:14 AM",
+      "type": "tweets",
+      "content": "<p>If you look at the bigger picture, a successful outcome from the Iran\u2013US talks and the reopening of Hormuz would be a net positive for India.<br />\n<br />\nI understand why some are focused on Pakistan\u2019s attempts to market itself as a \u201cpeace broker.\u201d The reality, however, is that Pakistan will still have to go knocking on the doors of the IMF, the Gulf states, the US, or China for economic support.<br />\n<br />\nIf the global environment becomes conducive to business again, it benefits not just India, but also China, Europe, and ASEAN economies over the longer term.<br />\n<br />\n& for that if you have to give this guy Nobel give it.</p>\n<img src=\"https://nitter.net/pic/media%2FHLW8iiBbwAAdXR_.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Geopolitical theatre Iranians refuse joint photo op ahead of Lucerne Summit. Americans, Pakistanis in the room. View from different angle: Vdo from: Amjad Taha",
       "link": "https://nitter.net/sidhant/status/2068761774959346112#m",
       "source": "Sidhant Sibal",
@@ -783,6 +873,16 @@
       "author": "@sidhant"
     },
     {
+      "title": "God, how salty can someone get after being proven wrong on Rafale? Someone highly respected within a certain group (see Picture 2 and the tagged accounts) was claiming India would receive Rafales before 2028, and then eventually had to admit that the India-Specific Enhancements were missing. \ud83d\ude02 @HALHQBLR, either start paying the people who defend \u201cHindustan\u201d in your name, or take action against those who keep claiming that you pay people for defending \u201cHindustan\u201d on your behalf. And to the gentleman who is the flag-bearer of that lost and daily-trolled French hardware lobby: the Chinese have shown us what could have been achieved with the Flanker platform. I would have responded to him directly but courageous debater has blocked me and still cannot over me (wish you all had a girlfriend like that) \ud83d\ude02",
+      "link": "https://nitter.net/alpha_defense/status/2068727547228213589#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-21T21:37:37+05:30",
+      "time": "21 Jun, 09:37 PM",
+      "type": "tweets",
+      "content": "<p>God, how salty can someone get after being proven wrong on Rafale?<br />\n<br />\nSomeone highly respected within a certain group (see Picture 2 and the tagged accounts) was claiming India would receive Rafales before 2028, and then eventually had to admit that the India-Specific Enhancements were missing. \ud83d\ude02<br />\n<br />\n<a href=\"https://nitter.net/HALHQBLR\" title=\"HAL\">@HALHQBLR</a>, either start paying the people who defend \u201cHindustan\u201d in your name, or take action against those who keep claiming that you pay people for defending \u201cHindustan\u201d on your behalf.<br />\n<br />\nAnd to the gentleman who is the flag-bearer of that lost and daily-trolled French hardware lobby: the Chinese have shown us what could have been achieved with the Flanker platform.<br />\n<br />\nI would have responded to him directly but courageous debater has blocked me and still cannot over me (wish you all had a girlfriend like that) \ud83d\ude02</p>\n<img src=\"https://nitter.net/pic/media%2FHLWYu77a0AAvPrU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLWYu73bgAAvyGw.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Just in: Indian Amb to China @EOIBeijing @VDoraiswami undertakes holy Parikrama around Holy Kailash mountain. Details the measured taken for Indian pilgrims. Adds, \"its a journey of lifetime\" China, India agreed to start Kailash Manasarovar Yatra last year after gap of 5 years.",
       "link": "https://nitter.net/sidhant/status/2068725623607247315#m",
       "source": "Sidhant Sibal",
@@ -791,6 +891,26 @@
       "type": "tweets",
       "content": "<p>Just in: Indian Amb to China <a href=\"https://nitter.net/EOIBeijing\" title=\"India in China\">@EOIBeijing</a> <a href=\"https://nitter.net/VDoraiswami\" title=\"Vikram Doraiswami\">@VDoraiswami</a> undertakes holy Parikrama around Holy Kailash mountain. Details the measured taken for Indian pilgrims. Adds, \"its a journey of lifetime\"<br />\n<br />\nChina, India agreed to start Kailash Manasarovar Yatra last year after gap of 5 years.</p>\n<a href=\"https://nitter.net/sidhant/status/2068725623607247315#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2068725319067123712%2Fpu%2Fimg%2FIs0pYKMujV1dQ2qd.jpg\" />\n</a>",
       "author": "@sidhant"
+    },
+    {
+      "title": "Indian media is conflating two separate stories. India\u2019s interest has been in Rafale F4-class capability and near-term force expansion, not waiting for Rafale F5. Meanwhile, the Rafale F5 story is fundamentally about France finding funding, industrial partners and launch customers after the UAE reportedly stepped back over technology-transfer disagreements. Until Paris and Abu Dhabi reach a new understanding, the much-discussed \u201cSuper Rafale\u201d remains more of a roadmap than a fielded reality.",
+      "link": "https://nitter.net/alpha_defense/status/2068721836012323074#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-21T21:14:55+05:30",
+      "time": "21 Jun, 09:14 PM",
+      "type": "tweets",
+      "content": "<p>Indian media is conflating two separate stories. India\u2019s interest has been in Rafale F4-class capability and near-term force expansion, not waiting for Rafale F5. <br />\n<br />\nMeanwhile, the Rafale F5 story is fundamentally about France finding funding, industrial partners and launch customers after the UAE reportedly stepped back over technology-transfer disagreements. Until Paris and Abu Dhabi reach a new understanding, the much-discussed \u201cSuper Rafale\u201d remains more of a roadmap than a fielded reality.</p>\n<img src=\"https://nitter.net/pic/media%2FHLWTiyqasAAiw9J.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Siachen Sniffers",
+      "link": "https://nitter.net/alpha_defense/status/2068717198898839975#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-21T20:56:29+05:30",
+      "time": "21 Jun, 08:56 PM",
+      "type": "tweets",
+      "content": "<p>Siachen Sniffers</p>\n<img src=\"https://nitter.net/pic/media%2FHLWPUy3bcAAglxU.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "INS Tarkash called at Port Louis, \ud83c\uddf2\ud83c\uddfaduring its operational deployment in the South Western Indian Ocean, reaffirming India's commitment to maritime security and regional cooperation.",
@@ -833,16 +953,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "US Vice Prez JD Vance \"I have joked that I have two very very important people in my life, an Indian\ud83c\uddee\ud83c\uddf3 & a Pakistani\ud83c\uddf5\ud83c\uddf0. The Indian is my wife and the Pakistani is Field Marshal Munir. I've probably talked to Munir more than I've talked to anybody else over the last 3 months\"",
-      "link": "https://nitter.net/sidhant/status/2068692278487797947#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T19:17:28+05:30",
-      "time": "21 Jun, 07:17 PM",
-      "type": "tweets",
-      "content": "<p>US Vice Prez JD Vance<br />\n<br />\n\"I have joked that I have two very very important people in my life, an Indian\ud83c\uddee\ud83c\uddf3 &amp; a Pakistani\ud83c\uddf5\ud83c\uddf0. The Indian is my wife and the Pakistani is Field Marshal Munir. I've probably talked to Munir more than I've talked to anybody else over the last 3 months\"</p>\n<a href=\"https://nitter.net/sidhant/status/2068692278487797947#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2068692214478422016%2Fpu%2Fimg%2Fsdhw60JKBT4gZdxW.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @notam_in: Fighter Jet Caste System in \ud83c\udde8\ud83c\uddf3",
       "link": "https://nitter.net/flanker_felon/status/2068691260265959496#m",
       "source": "Notam India",
@@ -853,54 +963,14 @@
       "author": "@flanker_felon"
     },
     {
-      "title": "R to @sidhant: Thousands join International Day of Yoga celebrations in New York\u2019s Times Square:",
-      "link": "https://nitter.net/sidhant/status/2068691128053051760#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T19:12:54+05:30",
-      "time": "21 Jun, 07:12 PM",
+      "title": "Whether exiting the MTA program was a mistake cannot be judged in isolation. One first needs to understand why a significant portion of the IAF\u2019s IL-76 fleet is parked, with nearly 17 aircraft are partially deteriorating (nor all). If sustainment, availability, and lifecycle costs of the existing heavy-lift fleet influenced the IAF\u2019s thinking, then the decision to walk away from MTA may have appeared more rational at the time than it does in hindsight. However walking out and not restarting other program right away was a mistake indeed.",
+      "link": "https://nitter.net/alpha_defense/status/2068682678363455557#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-21T18:39:19+05:30",
+      "time": "21 Jun, 06:39 PM",
       "type": "tweets",
-      "content": "<p>Thousands join International Day of Yoga celebrations in New York\u2019s Times Square:</p>\n<img src=\"https://nitter.net/pic/media%2FHLV3ni1asAAmCQV.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Someone's hand infront of camera destroyed the opportunity - Iranians, Americans in same frame (tho they were in same room). Kushner, Vance hidden behind unknown hand, while Iran's Araghchi can be seen. Iranian did not joined opening remarks of summit.",
-      "link": "https://nitter.net/sidhant/status/2068687104507564317#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T18:56:54+05:30",
-      "time": "21 Jun, 06:56 PM",
-      "type": "tweets",
-      "content": "<p>Someone's hand infront of camera destroyed the opportunity - Iranians, Americans in same frame (tho they were in same room).<br />\n<br />\nKushner, Vance hidden behind unknown hand, while Iran's Araghchi can be seen. <br />\n<br />\nIranian did not joined opening remarks of summit.</p>\n<img src=\"https://nitter.net/pic/media%2FHLVz9W8boAA0ZVe.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Watch: Ahead of lake Lucerne summit, Iran FM Araghchi arrives in room where US Vice President JD Vance is present but leaves.</p>\n<a href=\"https://nitter.net/sidhant/status/2068682975735345599#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2068682861860020225%2Fpu%2Fimg%2Fy-gmBcKrg9L3uUTS.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2068682975735345599#m\">https://nitter.net/sidhant/status/2068682975735345599#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: White house has now edited (removed) that part from its you tube, after live covering that diplomatic tense moment.",
-      "link": "https://nitter.net/sidhant/status/2068685948825882759#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T18:52:19+05:30",
-      "time": "21 Jun, 06:52 PM",
-      "type": "tweets",
-      "content": "<p>White house has now edited (removed) that part from its you tube, after live covering that diplomatic tense moment.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Iranians give a miss to opening remarks & opening photo op at Lake Lucerne summit. Iran FM Araghchi briefly came into the room, but left.",
-      "link": "https://nitter.net/sidhant/status/2068683402761617848#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T18:42:12+05:30",
-      "time": "21 Jun, 06:42 PM",
-      "type": "tweets",
-      "content": "<p>Iranians give a miss to opening remarks &amp; opening photo op at Lake Lucerne summit. Iran FM Araghchi briefly came into the room, but left.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>From Switzerland:</p>\n<img src=\"https://nitter.net/pic/media%2FHLVrYqLa0AAF-uE.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2068677677574492608#m\">https://nitter.net/sidhant/status/2068677677574492608#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Watch: Ahead of lake Lucerne summit, Iran FM Araghchi arrives in room where US Vice President JD Vance is present but leaves.",
-      "link": "https://nitter.net/sidhant/status/2068682975735345599#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-21T18:40:30+05:30",
-      "time": "21 Jun, 06:40 PM",
-      "type": "tweets",
-      "content": "<p>Watch: Ahead of lake Lucerne summit, Iran FM Araghchi arrives in room where US Vice President JD Vance is present but leaves.</p>\n<a href=\"https://nitter.net/sidhant/status/2068682975735345599#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2068682861860020225%2Fpu%2Fimg%2Fy-gmBcKrg9L3uUTS.jpg\" />\n</a>",
-      "author": "@sidhant"
+      "content": "<p>Whether exiting the MTA program was a mistake cannot be judged in isolation. <br />\n<br />\nOne first needs to understand why a significant portion of the IAF\u2019s IL-76 fleet is parked, with nearly 17 aircraft are partially deteriorating (nor all). If sustainment, availability, and lifecycle costs of the existing heavy-lift fleet influenced the IAF\u2019s thinking, then the decision to walk away from MTA may have appeared more rational at the time than it does in hindsight.<br />\n<br />\nHowever walking out and not restarting other program right away was a mistake indeed.</p>\n<img src=\"https://nitter.net/pic/media%2FHLVv7e6aMAA9FHC.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "The Indian Army is set to receive indigenously manufactured loitering munitions under a partnership between Indian defence firm SMPP and European defence group KNDS. The agreement was signed at the Eurosatory Exhibition in Paris on 18 June. \ud83d\udd39 The systems include the VELOCE and RODEUR loitering munitions, along with the ISTAR drone family. \ud83d\udd39 Designed for \"search-and-destroy\" missions, they can locate, track, and engage high-value targets with precision. \ud83d\udd39 The munitions feature hybrid GNSS-INS guidance and fire-and-forget capability, enhancing effectiveness in complex battlefield environments. \ud83d\udd39 The programme aligns with the Make in India and Aatmanirbhar Bharat initiatives, with a focus on domestic production.",
@@ -921,6 +991,16 @@
       "type": "tweets",
       "content": "<p>How did INS Dunagiri get its name? Hear the fascinating story behind the ship\u2019s name from its Commanding Officer, Captain Divya Alok, as he shares the legacy, heritage, and significance of INS Dunagiri.<a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2068638263028699440#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2068637962414469120%2Fimg%2FdWvnUV8RQrZC74Qv.jpg\" />\n</a>",
       "author": "@manishindiatv"
+    },
+    {
+      "title": "Funny how the F-35 community solved the \u201cmissile doesn\u2019t fit in the internal bay\u201d problem by modifying missiles, launchers, and integration software. Meteor got clipped fins, SPEAR 3 was designed around the bay, and new carriage solutions keep appearing. But apparently AMCA is \u201cdead on arrival\u201d because a current Rudram variant may not fit its internal bay. Engineering is impossible only when Indian media does it. \ud83d\ude0f",
+      "link": "https://nitter.net/alpha_defense/status/2068630502836441212#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-21T15:11:59+05:30",
+      "time": "21 Jun, 03:11 PM",
+      "type": "tweets",
+      "content": "<p>Funny how the F-35 community solved the \u201cmissile doesn\u2019t fit in the internal bay\u201d problem by modifying missiles, launchers, and integration software. Meteor got clipped fins, SPEAR 3 was designed around the bay, and new carriage solutions keep appearing. But apparently AMCA is \u201cdead on arrival\u201d because a current Rudram variant may not fit its internal bay. Engineering is impossible only when Indian media does it. \ud83d\ude0f</p>\n<img src=\"https://nitter.net/pic/media%2FHLVAefIawAAtZyt.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "3 new warships join the IndianNavy \ud83c\uddee\ud83c\uddf3\u2693 PM @narendramodi commissioned INS Dunagiri, INS Sanshodhak and INS Agray in Kolkata on 21 June. The induction highlights \ud83c\uddee\ud83c\uddf3's expanding indigenous shipbuilding capability n reinforces the IN's transition towrds a largely home-built fleet.",
@@ -993,6 +1073,16 @@
       "author": "@DefenceDecode"
     },
     {
+      "title": "This is how Su30 fleet was created over the years : \ud83d\udcc5 30 Nov 1996 \u2013 40 aircraft (Russia) \ud83d\udcc5 18 Dec 1998 \u2013 10 aircraft (Russia) \ud83d\udcc5 28 Dec 2000 \u2013 140 aircraft (HAL) \ud83d\udcc5 10 Oct 2007 \u2013 40 aircraft (HAL) \ud83d\udcc5 24 Dec 2012 \u2013 42 aircraft (HAL) After that, there was a gap of over a decade. \ud83d\udcc5 15 Sep 2023 \u2013 AoN for 12 replacement aircraft \ud83d\udcc5 12 Dec 2024 \u2013 \u20b913,500 crore contract signed with HAL for 12 Su-30MKIs A textbook example of how not to manage a procurement. OEM that forgot about upgrades, users who weren\u2019t looking for updates (no one was bothered about upgrade) because Su57 was coming as FGFA.",
+      "link": "https://nitter.net/alpha_defense/status/2068357872778711371#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-20T21:08:39+05:30",
+      "time": "20 Jun, 09:08 PM",
+      "type": "tweets",
+      "content": "<p>This is how Su30 fleet was created over the years : <br />\n<br />\n\ud83d\udcc5 30 Nov 1996 \u2013 40 aircraft (Russia)<br />\n\ud83d\udcc5 18 Dec 1998 \u2013 10 aircraft (Russia)<br />\n\ud83d\udcc5 28 Dec 2000 \u2013 140 aircraft (HAL)<br />\n\ud83d\udcc5 10 Oct 2007 \u2013 40 aircraft (HAL)<br />\n\ud83d\udcc5 24 Dec 2012 \u2013 42 aircraft (HAL)<br />\n<br />\nAfter that, there was a gap of over a decade.<br />\n<br />\n\ud83d\udcc5 15 Sep 2023 \u2013 AoN for 12 replacement aircraft<br />\n\ud83d\udcc5 12 Dec 2024 \u2013 \u20b913,500 crore contract signed with HAL for 12 Su-30MKIs<br />\n<br />\nA textbook example of how not to manage a procurement. OEM that forgot about upgrades, users who weren\u2019t looking for updates (no one was bothered about upgrade) because Su57 was coming as FGFA.</p>\n<img src=\"https://nitter.net/pic/media%2FHLRIhVObcAIjzo_.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "RT @manishindiatv: Submariners of @indiannavy celebrating #InternationalYogaDa. \ud83c\uddee\ud83c\uddf3",
       "link": "https://nitter.net/OsintTV/status/2068357009305481360#m",
       "source": "Osint TV",
@@ -1023,133 +1113,13 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 20/22 Theatre Command Integration. Tri-service integration for unified operational warfare. \u27a1 Army, Navy, Air Force joint command structure \u27a1 Unified strategic planning and execution \u27a1 Integrated multi-domain operational control. Improves coordination, reduces response time, and increases combat efficiency. Strengthens India\u2019s ability to fight coordinated multi-domain regional conflicts.",
-      "link": "https://nitter.net/NetramDefence/status/2068340425304526859#m",
+      "title": "THREAD \ud83e\uddf5 Modernisation of the Indian Army. Indian Army modernisation is the shift from a traditional force to a technology-driven, network-centric, multi-domain military. It focuses on advanced weapons, AI, cyber warfare, and precision capabilities. It is driven by the need to adapt to modern warfare across land, cyber, space, and information domains. Overall, it strengthens India\u2019s readiness, deterrence, and self-reliance for future security challenges. From doctrine to drones, here are the changes transforming the Indian Army. \ud83d\udc47 1/22 @adgpi @IAF_MCC @indiannavy @official_dgar @HQ_IDS_India @SpokespersonMoD @DefenceMinIndia @rajnathsingh @rashtrapatibhvn",
+      "link": "https://nitter.net/NetramDefence/status/2068340300050055308#m",
       "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:19+05:30",
-      "time": "20 Jun, 07:59 PM",
+      "sort_key": "2026-06-20T19:58:50+05:30",
+      "time": "20 Jun, 07:58 PM",
       "type": "tweets",
-      "content": "<p>20/22<br />\n<br />\nTheatre Command Integration. <br />\n<br />\nTri-service integration for unified operational warfare. <br />\n\u27a1 Army, Navy, Air Force joint command structure <br />\n\u27a1 Unified strategic planning and execution <br />\n\u27a1 Integrated multi-domain operational control. Improves coordination, reduces response time, and increases combat efficiency. <br />\n<br />\nStrengthens India\u2019s ability to fight coordinated multi-domain regional conflicts.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ2cndbgAAHh40.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 19/22 Relos Agreement \u2013 Enabler of Modern Military Mobility Modernisation is not just about systems, but also seamless people movement. The Relocation (Relos) Agreement ensures smooth transfer of personnel across units and commands. It supports: \u2022 Faster deployment to critical roles \u2022 Reduced administrative delays \u2022 Financial & logistical relocation support \u2022 Stronger jointness and operational flexibility In modern warfare, speed of manpower movement is as crucial as speed of machines.",
-      "link": "https://nitter.net/NetramDefence/status/2068340421290561583#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:18+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>19/22<br />\n<br />\nRelos Agreement \u2013 Enabler of Modern Military Mobility Modernisation is not just about systems, but also seamless people movement. <br />\n<br />\nThe Relocation (Relos) Agreement ensures smooth transfer of personnel across units and commands. <br />\n<br />\nIt supports: <br />\n\u2022 Faster deployment to critical roles <br />\n\u2022 Reduced administrative delays<br />\n\u2022 Financial & logistical relocation support <br />\n\u2022 Stronger jointness and operational flexibility In modern warfare, speed of manpower movement is as crucial as speed of machines.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ2LTxbMAAV_TI.png\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 18/22 Military Doctrine Evolution Structural transformation and mordenisation of Indian Army operational philosophy. \u27a1 Integrated Battle Groups (IBGs) \u27a1 Capability-based force structuring \u27a1 Multi-domain warfare readiness (land, air, cyber, space). Enables faster mobilisation and flexible response to dynamic threats.Aligns India with modern network-centric warfare doctrines globally.",
-      "link": "https://nitter.net/NetramDefence/status/2068340417524101611#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:18+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>18/22<br />\n<br />\nMilitary Doctrine Evolution Structural transformation and mordenisation of Indian Army operational philosophy. <br />\n\u27a1 Integrated Battle Groups (IBGs) <br />\n\u27a1 Capability-based force structuring <br />\n\u27a1 Multi-domain warfare readiness (land, air, cyber, space). <br />\n<br />\nEnables faster mobilisation and flexible response to dynamic threats.Aligns India with modern network-centric warfare doctrines globally.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ140qaMAA3eCr.png\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 17/22 Kautilya AI System AI-powered battlefield command and decision support system. \u27a1 Multi-source data fusion (satellite, drones, sensors) \u27a1 Predictive battlefield analytics \u27a1 Accelerated OODA loop decision cycle. Enhances command efficiency and reduces decision-making delays in combat. Represents shift toward AI-driven warfare dominance in future conflicts.",
-      "link": "https://nitter.net/NetramDefence/status/2068340413602115915#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:17+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>17/22<br />\n<br />\nKautilya AI System AI-powered battlefield command and decision support system. <br />\n\u27a1 Multi-source data fusion (satellite, drones, sensors) <br />\n\u27a1 Predictive battlefield analytics <br />\n\u27a1 Accelerated OODA loop decision cycle. Enhances command efficiency and reduces decision-making delays in combat.<br />\n<br />\nRepresents shift toward AI-driven warfare dominance in future conflicts.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ1qh1bUAAA6w5.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 16/22 Q-FORCE Logistics System Digital transformation of battlefield logistics and supply chains. \u27a1 Real-time tracking of supplies and equipment \u27a1 Automated depot-to-field coordination \u27a1 Integrated logistics command platforms \u27a1 Reduced manual dependency in operations Ensures uninterrupted supply flow and faster operational sustainment in combat zones. Improves India\u2019s ability to sustain prolonged operations along sensitive borders",
-      "link": "https://nitter.net/NetramDefence/status/2068340409676505113#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:16+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>16/22<br />\n<br />\nQ-FORCE Logistics System Digital transformation of battlefield logistics and supply chains. <br />\n\u27a1 Real-time tracking of supplies and equipment <br />\n\u27a1 Automated depot-to-field coordination <br />\n\u27a1 Integrated logistics command platforms <br />\n\u27a1 Reduced manual dependency in operations Ensures uninterrupted supply flow and faster operational sustainment in combat zones. <br />\n<br />\nImproves India\u2019s ability to sustain prolonged operations along sensitive borders</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ1Yt3aUAAmNA-.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 15/22 Cyber & AI Warfare Expansion Integration of digital warfare into core military operations. \u27a1 Joint Cyberspace Doctrine implementation \u27a1 AI-enabled battlefield analytics systems \u27a1 Dedicated information warfare units \u27a1 Secure encrypted communication networks Enables faster decision cycles and stronger cyber resilience against attacks. Essential for hybrid warfare dominance in Indo-Pacific security competition.",
-      "link": "https://nitter.net/NetramDefence/status/2068340405448425725#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:15+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>15/22<br />\n<br />\nCyber & AI Warfare Expansion Integration of digital warfare into core military operations.<br />\n\u27a1 Joint Cyberspace Doctrine implementation <br />\n\u27a1 AI-enabled battlefield analytics systems <br />\n\u27a1 Dedicated information warfare units <br />\n\u27a1 Secure encrypted communication networks Enables faster decision cycles and stronger cyber resilience against attacks. <br />\n<br />\nEssential for hybrid warfare dominance in Indo-Pacific security competition.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ1Jt4bcAAyaj5.png\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 14/22 Defence Industrial Ecosystem Shift (Make in India 2.0) Large DAC approvals worth \u20b92.38\u20133.6 lakh crore scale programs ,Shift from import dependency to co-production and private defence ecosystem. Defence startups, PSUs and foreign partnerships merging boosts indigenous production, improves capability building and strengthens defence supply chains. Reduces foreign dependence and enhances India\u2019s strategic autonomy by positioning it as a global defence manufacturing hub.",
-      "link": "https://nitter.net/NetramDefence/status/2068340401476653065#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:14+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>14/22<br />\n<br />\nDefence Industrial Ecosystem Shift (Make in India 2.0) Large DAC approvals worth \u20b92.38\u20133.6 lakh crore scale programs ,Shift from import dependency to co-production and private defence ecosystem.<br />\n<br />\nDefence startups, PSUs and foreign partnerships merging boosts indigenous production, improves capability building and strengthens defence supply chains. Reduces foreign dependence and enhances India\u2019s strategic autonomy by positioning it as a global defence manufacturing hub.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ05ycawAAtZjk.png\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 13/22 DAC Procurement Approvals Large-scale tri-service capability enhancement programme. \u27a1 Air defence systems modernization \u27a1 Dhanush artillery induction \u27a1 Armoured piercing ammunition upgrades \u27a1 Advanced surveillance systems. Enhances battlefield lethality, survivability, and real-time intelligence gathering. Strengthens preparedness for two-front operational scenarios.",
-      "link": "https://nitter.net/NetramDefence/status/2068340397823393981#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:13+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>13/22<br />\n<br />\nDAC Procurement Approvals Large-scale tri-service capability enhancement programme. <br />\n\u27a1 Air defence systems modernization <br />\n\u27a1 Dhanush artillery induction <br />\n\u27a1 Armoured piercing ammunition upgrades <br />\n\u27a1 Advanced surveillance systems. Enhances battlefield lethality, survivability, and real-time intelligence gathering. <br />\n<br />\nStrengthens preparedness for two-front operational scenarios.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ0jLBaUAALXLw.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 12/22 AMCA Development Ecosystem Infrastructure for India\u2019s fifth-generation stealth fighter programme. \u27a1 \u20b915,803 crore development ecosystem \u27a1 Advanced integration and flight testing facilities \u27a1 Prototype expected by 2028 timeline Builds long-term air superiority capability through indigenous stealth aircraft development. Reduces dependency on foreign fighter jets and strengthens strategic autonomy.",
-      "link": "https://nitter.net/NetramDefence/status/2068340394098835772#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:12+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>12/22<br />\n<br />\nAMCA Development Ecosystem Infrastructure for India\u2019s fifth-generation stealth fighter programme. <br />\n\u27a1 \u20b915,803 crore development ecosystem <br />\n\u27a1 Advanced integration and flight testing facilities <br />\n\u27a1 Prototype expected by 2028 timeline Builds long-term air superiority capability through indigenous stealth aircraft development. <br />\n<br />\nReduces dependency on foreign fighter jets and strengthens strategic autonomy.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ0VmSaoAAX3QJ.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 11/22 BEL Electronic Warfare Systems Enhanced electromagnetic spectrum dominance capability. \u27a1 72% indigenous content systems \u27a1 Signal interception and jamming capability \u27a1 Mobile battlefield deployment platforms Improves situational awareness and disrupts enemy command and communication systems. Critical for electronic warfare parity in high-tech modern conflicts.",
-      "link": "https://nitter.net/NetramDefence/status/2068340390361755999#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:11+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>11/22<br />\n<br />\nBEL Electronic Warfare Systems Enhanced electromagnetic spectrum dominance capability. <br />\n\u27a1 72% indigenous content systems <br />\n\u27a1 Signal interception and jamming capability <br />\n\u27a1 Mobile battlefield deployment platforms Improves situational awareness and disrupts enemy command and communication systems. <br />\n<br />\nCritical for electronic warfare parity in high-tech modern conflicts.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQ0F3bbwAEPoYj.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 10/22 C-295 Aircraft Programme Indigenous military aviation manufacturing ecosystem development. \u27a1 Tata-Airbus collaboration for production in India \u27a1 Full assembly line established in Vadodara \u27a1 Transfer of technology and supply chain localisation Improves tactical airlift capability and reduces reliance on imported platforms. Strengthens India\u2019s defence industrial autonomy and aerospace sovereignty.",
-      "link": "https://nitter.net/NetramDefence/status/2068340386930843810#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:10+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>10/22<br />\n<br />\nC-295 Aircraft Programme Indigenous military aviation manufacturing ecosystem development. <br />\n\u27a1 Tata-Airbus collaboration for production in India <br />\n\u27a1 Full assembly line established in Vadodara <br />\n\u27a1 Transfer of technology and supply chain localisation Improves tactical airlift capability and reduces reliance on imported platforms. <br />\n<br />\nStrengthens India\u2019s defence industrial autonomy and aerospace sovereignty.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQz2WVaIAAlzCe.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 9/22 Hypersonic Scramjet Breakthrough Major milestone in next-generation propulsion technology development. \u27a1 1200-second sustained scramjet test \u27a1 Air-breathing hypersonic engine technology \u27a1 Validated extreme thermal endurance and stability Builds foundation for future hypersonic cruise missiles with high-speed penetration capability. Positions India among elite nations advancing hypersonic weapons, reshaping strategic deterrence equations.",
-      "link": "https://nitter.net/NetramDefence/status/2068340383344726183#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:09+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>9/22<br />\n<br />\nHypersonic Scramjet Breakthrough Major milestone in next-generation propulsion technology development. <br />\n\u27a1 1200-second sustained scramjet test <br />\n\u27a1 Air-breathing hypersonic engine technology <br />\n\u27a1 Validated extreme thermal endurance and stability Builds foundation for future hypersonic cruise missiles with high-speed penetration capability. <br />\n<br />\nPositions India among elite nations advancing hypersonic weapons, reshaping strategic deterrence equations.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQzkiNaUAAmT9e.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 8/22 Vayu Astra-1 Loitering Munition High-altitude autonomous strike capability validated under extreme terrain conditions. \u27a1 Range: ~100 km \u27a1 Accuracy: <1 metre CEP \u27a1 Endurance: 90+ minutes loitering time \u27a1 Night strike capability with IR guidance \u27a1 Operable in high-altitude environments. Enhances precision targeting in mountainous terrain and enables persistent battlefield surveillance-strike capability. Highly relevant for Himalayan frontier security and fast-reaction border scenarios.",
-      "link": "https://nitter.net/NetramDefence/status/2068340379691409754#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-20T19:59:09+05:30",
-      "time": "20 Jun, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>8/22<br />\n<br />\nVayu Astra-1 Loitering Munition High-altitude autonomous strike capability validated under extreme terrain conditions. <br />\n\u27a1 Range: ~100 km <br />\n\u27a1 Accuracy: &lt;1 metre CEP <br />\n\u27a1 Endurance: 90+ minutes loitering time <br />\n\u27a1 Night strike capability with IR guidance <br />\n\u27a1 Operable in high-altitude environments. Enhances precision targeting in mountainous terrain and enables persistent battlefield surveillance-strike capability. <br />\n<br />\nHighly relevant for Himalayan frontier security and fast-reaction border scenarios.</p>\n<img src=\"https://nitter.net/pic/media%2FHLQzUlxbUAACzeu.jpg\" />",
+      "content": "<p>THREAD \ud83e\uddf5<br />\n<br />\nModernisation of the Indian Army. <br />\n<br />\nIndian Army modernisation is the shift from a traditional force to a technology-driven, network-centric, multi-domain military. It focuses on advanced weapons, AI, cyber warfare, and precision capabilities. <br />\n<br />\nIt is driven by the need to adapt to modern warfare across land, cyber, space, and information domains. Overall, it strengthens India\u2019s readiness, deterrence, and self-reliance for future security challenges. From doctrine to drones, here are the changes transforming the Indian Army. \ud83d\udc47<br />\n<br />\n1/22<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a> <a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a> <a href=\"https://nitter.net/rashtrapatibhvn\" title=\"President of India\">@rashtrapatibhvn</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLQ3e3raIAAkktN.jpg\" />",
       "author": "@NetramDefence"
     },
     {
@@ -1193,6 +1163,16 @@
       "author": "@manishindiatv"
     },
     {
+      "title": "Allowing the Su-30MKI production line to go dormant was a strategic blunder. Fighter aircraft production is not a tap that can be turned on and off at will. Once orders dry up, suppliers move on, skilled workers are reassigned, and the industrial ecosystem begins to unravel.",
+      "link": "https://nitter.net/alpha_defense/status/2068258734233817535#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-20T14:34:43+05:30",
+      "time": "20 Jun, 02:34 PM",
+      "type": "tweets",
+      "content": "<p>Allowing the Su-30MKI production line to go dormant was a strategic blunder. Fighter aircraft production is not a tap that can be turned on and off at will. Once orders dry up, suppliers move on, skilled workers are reassigned, and the industrial ecosystem begins to unravel.</p>\n<img src=\"https://nitter.net/pic/media%2FHLPuWk0aoAAmQkq.png\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "'Brigadier Faiq ko kutta kehna, kutte ki tauheen hai\" \ud83d\ude01",
       "link": "https://nitter.net/Goreunit/status/2068246659667226904#m",
       "source": "War & Gore",
@@ -1213,6 +1193,16 @@
       "author": "@elitepredatorss"
     },
     {
+      "title": "We may not like the cost and effort involved in keeping the Jaguar fleet flying, but these old warhorses can still launch some very potent weapons. As long as they can deliver these bad boys effectively, they remain relevant and useful.",
+      "link": "https://nitter.net/alpha_defense/status/2068230264271274036#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-20T12:41:35+05:30",
+      "time": "20 Jun, 12:41 PM",
+      "type": "tweets",
+      "content": "<p>We may not like the cost and effort involved in keeping the Jaguar fleet flying, but these old warhorses can still launch some very potent weapons. As long as they can deliver these bad boys effectively, they remain relevant and useful.</p>\n<img src=\"https://nitter.net/pic/media%2FHLPUdnCbMAAC9qW.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLPUdmsbcAAbceh.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "So we can't add multiple media in a single WhatsApp Channel post? Come on, @Meta It's 2026.",
       "link": "https://nitter.net/elitepredatorss/status/2068227342548513204#m",
       "source": "Elite Predators",
@@ -1221,6 +1211,16 @@
       "type": "tweets",
       "content": "<p>So we can't add multiple media in a single WhatsApp Channel post?<br />\n<br />\nCome on, <a href=\"https://nitter.net/Meta\" title=\"Meta\">@Meta</a> It's 2026.</p>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "After being exposed Pakistani ashamed of his identity hasn\u2019t come back. Sometimes cheap VPN dosent work.",
+      "link": "https://nitter.net/alpha_defense/status/2068227155528704088#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-20T12:29:14+05:30",
+      "time": "20 Jun, 12:29 PM",
+      "type": "tweets",
+      "content": "<p>After being exposed Pakistani ashamed of his identity hasn\u2019t come back. Sometimes cheap VPN dosent work.</p>\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>You forgot to update your VPN settings</p>\n<img src=\"https://nitter.net/pic/media%2FHLMwJaJbAAAXh8J.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2068049599181541594#m\">https://nitter.net/alpha_defense/status/2068049599181541594#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
     },
     {
       "title": "Chinese State Media using Indian Air Force Tejas footage and presenting it as a J-10C test.",
@@ -1291,26 +1291,6 @@
       "type": "tweets",
       "content": "<p>Good day for DO228 !</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "\ud83d\udea8 \ud835\udde2\ud835\udde6\ud835\udddc\ud835\udde1\ud835\udde7 \ud835\udde8\ud835\udde3\ud835\uddd7\ud835\uddd4\ud835\udde7\ud835\uddd8: During an infiltration attempt at Nathua Tibba, Sundarbani on 19 February 2026, the Indian Army engaged Lashkar-e-Taiba (LeT) terrorists. Reportedly, Abu Zarrar Okasha Farooq sustained serious injuries and later succumbed while retreating across the LoC. Follow-up searches led to the recovery of war-like stores from the encounter site. Another senior LeT commander Abu Muaz Zaheer was critically wounded during the exchange of fire and later succumbed to his injuries while retreating across the LoC. Both terrorists were reportedly natives of Pakistan's Punjab province. Abu Muaz Zaheer had reportedly left behind his months old infant in Pakistan before embarking on the infiltration mission into Jammu and Kashmir. These incidents expose the persistent efforts of Pakistan-based terror groups to push infiltrators across the LoC. Open Source FYR @Whiteknight_IA",
-      "link": "https://nitter.net/OsintTV/status/2068195853336998219#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-20T10:24:51+05:30",
-      "time": "20 Jun, 10:24 AM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 \ud835\udde2\ud835\udde6\ud835\udddc\ud835\udde1\ud835\udde7 \ud835\udde8\ud835\udde3\ud835\uddd7\ud835\uddd4\ud835\udde7\ud835\uddd8:<br />\n<br />\nDuring an infiltration attempt at Nathua Tibba, Sundarbani on 19 February 2026, the Indian Army engaged Lashkar-e-Taiba (LeT) terrorists. Reportedly, Abu Zarrar Okasha Farooq sustained serious injuries and later succumbed while retreating across the LoC. Follow-up searches led to the recovery of war-like stores from the encounter site.<br />\n<br />\nAnother senior LeT commander Abu Muaz Zaheer was critically wounded during the exchange of fire and later succumbed to his injuries while retreating across the LoC.<br />\n<br />\nBoth terrorists were reportedly natives of Pakistan's Punjab province. Abu Muaz Zaheer had reportedly left behind his months old infant in Pakistan before embarking on the infiltration mission into Jammu and Kashmir.<br />\n<br />\nThese incidents expose the persistent efforts of Pakistan-based terror groups to push infiltrators across the LoC.<br />\n<br />\nOpen Source <br />\nFYR <a href=\"https://nitter.net/Whiteknight_IA\" title=\"White Knight Corps\">@Whiteknight_IA</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLO05jyXEAAlmUP.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Btw, KMGT has already proven its \u2714\ufe0fCore engine design \u2714\ufe0fFree power turbine design \u2714\ufe0fMarine gas turbine integration With advances in materials and GT engine tech(with KDE), India should develop a nxt-gen compact KMGT for corvettes,OPVs and future electric warships.\ud83c\uddee\ud83c\uddf3\u2693 #GTRE",
-      "link": "https://nitter.net/DefenceDecode/status/2068195708751245432#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-20T10:24:16+05:30",
-      "time": "20 Jun, 10:24 AM",
-      "type": "tweets",
-      "content": "<p>Btw, KMGT has already proven its <br />\n\u2714\ufe0fCore engine design<br />\n\u2714\ufe0fFree power turbine design<br />\n\u2714\ufe0fMarine gas turbine integration<br />\nWith advances in materials and GT engine tech(with KDE), India should develop a nxt-gen compact KMGT for corvettes,OPVs and future electric warships.\ud83c\uddee\ud83c\uddf3\u2693<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23GTRE\">#GTRE</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLO06B4bsAASG4K.jpg\" />\n\n<hr />\n<blockquote>\n<b>Defence Decode\u00ae (@DefenceDecode)</b>\n<p>\n<p>12MW Marine Gas Turbine engine by DRDO's <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GTRE\">#GTRE</a></p>\n<img src=\"https://nitter.net/pic/media%2FFM0jvZbaIAUo4jI.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceDecode/status/1498893855428849667#m\">https://nitter.net/DefenceDecode/status/1498893855428849667#m</a>\n</footer>\n</blockquote>",
-      "author": "@DefenceDecode"
     }
   ],
   "youtube": [
@@ -1331,15 +1311,6 @@
       "time": "21 Jun, 05:16 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/e3imd5ToCGE/mqdefault.jpg"
-    },
-    {
-      "title": "PAK J-35 vs S-400 \ud83d\ude31 ,Tejas Engine Change Impossible?,Indian Navy\u2019s SECRET Stealth Drone!",
-      "link": "https://www.youtube.com/watch?v=WA4jt-yrL40",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-21T07:00:34+05:30",
-      "time": "21 Jun, 07:00 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/WA4jt-yrL40/mqdefault.jpg"
     },
     {
       "title": "Solution: More Su30 MKI for IAF",
@@ -1379,6 +1350,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
