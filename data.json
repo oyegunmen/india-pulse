@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "India welcomes US-Iran peace deal, NSA Doval says pact brings 'cautious optimism'",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-welcomes-us-iran-peace-deal-nsa-doval-says-pact-brings-cautious-optimism/articleshow/131926351.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-23T10:52:10+05:30",
+      "time": "23 Jun, 10:52 AM",
+      "type": "news",
+      "description": "India's National Security Advisor Ajit Doval expressed cautious optimism regarding the US-Iran MOU, anticipating it will bolster energy security and e..."
+    },
+    {
+      "title": "Confirmed Ebola cases in Congo rise to over 1,000; Death toll reaches 267",
+      "link": "https://newsonair.gov.in/confirmed-ebola-cases-in-congo-rise-to-over-1000-death-toll-reaches-267/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-23T10:45:07+05:30",
+      "time": "23 Jun, 10:45 AM",
+      "type": "news",
+      "description": "The number of confirmed Ebola cases in the Democratic Republic of the Congo has risen to over 1,000. Country&#8217;s health authority has confirmed th..."
+    },
+    {
       "title": "Iran denies US Vice-President JD Vance\u2019s claim on allowing nuclear inspectors back into country",
       "link": "https://newsonair.gov.in/iran-denies-us-vice-president-jd-vances-claim-on-allowing-nuclear-inspectors-back-into-country/",
       "source": "All India Radio",
@@ -217,15 +235,6 @@
       "description": "<p>The Committee on Tribal Unity (CoTU), a Kuki-Zo organization in Manipur, has called off its indefinite blockade on two key national highways on Mon..."
     },
     {
-      "title": "NSA Doval, Chinese Foreign Minister Wang Yi review ties, note progress towards \u2018gradual normalisation\u2019",
-      "link": "https://www.tribuneindia.com/news/india/nsa-doval-chinese-foreign-minister-wang-yi-review-ties-note-progress-towards-gradual-normalisation",
-      "source": "The Tribune",
-      "sort_key": "2026-06-22T21:05:51+05:30",
-      "time": "22 Jun, 09:05 PM",
-      "type": "news",
-      "description": "National Security Adviser Ajit Doval and Chinese Foreign Minister Wang Yi on Monday reviewed recent developments in bilateral relations and noted prog..."
-    },
-    {
       "title": "Four cargo ships carrying fertilisers clears Strait of Hormuz : MoCF",
       "link": "https://newsonair.gov.in/four-cargo-ships-carrying-fertilisers-clears-strait-of-hormuz-mocf/",
       "source": "All India Radio",
@@ -251,15 +260,6 @@
       "time": "22 Jun, 07:14 PM",
       "type": "news",
       "description": "<p>By Air Marshal Anil Chopra (Retd) New Delhi/ Paris. Prime Minister Naremdra Modi has just been in France for a multi-city State visit focused on te..."
-    },
-    {
-      "title": "CBSE frames new policy for students affected by Gulf exam cancellations",
-      "link": "https://newsonair.gov.in/cbse-frames-new-policy-for-students-affected-by-gulf-exam-cancellations/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-22T19:12:50+05:30",
-      "time": "22 Jun, 07:12 PM",
-      "type": "news",
-      "description": "The Centre today informed the Supreme Court that the CBSE has come up with a new policy for the evaluation of private students, who were affected by t..."
     },
     {
       "title": "NSA Ajit Doval meets senior Iranian security official",
@@ -550,15 +550,6 @@
       "description": "<p>A senior member of the banned People\u2019s Liberation Army (PLA), who had been evading arrest for nearly two decades in connection with a UAPA case in ..."
     },
     {
-      "title": "PM Modi commissions 3 indigenous navy ships in Kolkata",
-      "link": "https://theprint.in/defence/pm-modi-commissions-3-indigenous-navy-ships-in-kolkata/2965991/",
-      "source": "The Print",
-      "sort_key": "2026-06-21T14:49:48+05:30",
-      "time": "21 Jun, 02:49 PM",
-      "type": "news",
-      "description": "He said that over 40 warships and submarines had been commissioned in the last few years, and 45 large naval platforms were being constructed"
-    },
-    {
       "title": "Taiwan to stage five days of combat readiness drills",
       "link": "https://economictimes.indiatimes.com/news/defence/taiwan-to-stage-five-days-of-combat-readiness-drills/articleshow/131888285.cms",
       "source": "Economic Times",
@@ -602,36 +593,169 @@
       "time": "21 Jun, 11:28 AM",
       "type": "news",
       "description": "Prime Minister Narendra Modi highlighted India's growing defense manufacturing prowess, now at Rs 40,000 crore, emphasizing self-reliance over being a..."
-    },
-    {
-      "title": "General Atomics, Rheinmetall Explore Transatlantic Co-Production of Vektrex\u2122 for Allied Artillery Modernization",
-      "link": "https://www.indiastrategic.in/general-atomics-rheinmetall-explore-transatlantic-co-production-of-vektrex-for-allied-artillery-modernization/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-21T10:56:01+05:30",
-      "time": "21 Jun, 10:56 AM",
-      "type": "news",
-      "description": "<p>SAN DIEGO, June 18, 2026. General Atomics Electromagnetic Systems (GA-EMS) and Rheinmetall announced today the signing of a Memorandum of Understan..."
-    },
-    {
-      "title": "Historic Tri-Commissioning: PM Modi Commissions Three Indigenous Naval Platforms In Kolkata",
-      "link": "https://www.republicworld.com/defence/historic-tri-commissioning-pm-modi-commissions-three-indigenous-naval-platforms-in-kolkata-2026-06-21-129264",
-      "source": "Republic World",
-      "sort_key": "2026-06-21T10:35:32+05:30",
-      "time": "21 Jun, 10:35 AM",
-      "type": "news",
-      "description": "PM Modi commissioned three indigenously designed naval ships: INS Dunagiri (stealth frigate), INS Sanshodhak (survey vessel), and INS Agray (anti-subm..."
-    },
-    {
-      "title": "Modi Commissions Three Indigenous Naval Warships in Kolkata",
-      "link": "https://www.deccanchronicle.com/nation/modi-commissions-three-indigenous-naval-warships-in-kolkata-1965129",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-21T10:32:02+05:30",
-      "time": "21 Jun, 10:32 AM",
-      "type": "news",
-      "description": "Stealth frigate Dunagiri, survey vessel Sanshodhak and anti-submarine craft Agray join the Indian Navy, showcasing India's growing self-reliance in de..."
     }
   ],
   "tweets": [
+    {
+      "title": "Flash: Secretary MeitY S. Krishnan, AS [AMS], MEA Nagaraj Naidu to represent India at the Pax Silica Summit in US next week.",
+      "link": "https://nitter.net/sidhant/status/2069295562089021695#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T11:14:42+05:30",
+      "time": "23 Jun, 11:14 AM",
+      "type": "tweets",
+      "content": "<p>Flash: Secretary MeitY S. Krishnan, AS [AMS], MEA Nagaraj Naidu to represent India at the Pax Silica Summit in US next week.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "US to host Pax Silica Summit on June 25, 26th. India is a member of Pax Silica.",
+      "link": "https://nitter.net/sidhant/status/2069294708162203989#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T11:11:18+05:30",
+      "time": "23 Jun, 11:11 AM",
+      "type": "tweets",
+      "content": "<p>US to host Pax Silica Summit on June 25, 26th. India is a member of Pax Silica.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "US Ambassador Sergio Gor at Indian commerce ministry this morning",
+      "link": "https://nitter.net/sidhant/status/2069287935183372650#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:44:23+05:30",
+      "time": "23 Jun, 10:44 AM",
+      "type": "tweets",
+      "content": "<p>US Ambassador Sergio Gor at Indian commerce ministry this morning</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Closed door session begins",
+      "link": "https://nitter.net/sidhant/status/2069287476238406049#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:42:34+05:30",
+      "time": "23 Jun, 10:42 AM",
+      "type": "tweets",
+      "content": "<p>Closed door session begins</p>\n<img src=\"https://nitter.net/pic/media%2FHLeV_mxbIAAooy9.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Afghan Govt statement The Ministry of Foreign Affairs of the Islamic Emirate of Afghanistan expresses its profound sorrow and condolences over the recent incident in the industrial city of Ras Laffan in the brotherly State of Qatar, which resulted in numerous casualties. The Ministry extends its sympathies to the Government and people of Qatar, as well as to the families of the bereaved. IEA-MoFA wishes the injured a swift and full recovery, prays for Allah\u2019s mercy and forgiveness upon those who lost their lives, and asks that their families be granted patience and strength during this difficult time.",
+      "link": "https://nitter.net/sidhant/status/2069287318041825654#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:41:56+05:30",
+      "time": "23 Jun, 10:41 AM",
+      "type": "tweets",
+      "content": "<p>Afghan Govt statement <br />\n<br />\nThe Ministry of Foreign Affairs of the Islamic Emirate of Afghanistan expresses its profound sorrow and condolences over the recent incident in the industrial city of Ras Laffan in the brotherly State of Qatar, which resulted in numerous casualties. The Ministry extends its sympathies to the Government and people of Qatar, as well as to the families of the bereaved.<br />\n<br />\nIEA-MoFA wishes the injured a swift and full recovery, prays for Allah\u2019s mercy and forgiveness upon those who lost their lives, and asks that their families be granted patience and strength during this difficult time.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian, Israeli auditors sign MoU",
+      "link": "https://nitter.net/sidhant/status/2069287087145455952#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:41:01+05:30",
+      "time": "23 Jun, 10:41 AM",
+      "type": "tweets",
+      "content": "<p>Indian, Israeli auditors sign MoU</p>\n<hr />\n<blockquote>\n<b>Israel in India (@IsraelinIndia)</b>\n<p>\n<p>The Embassy of Israel welcomes the signing of an MoU between the Office of the State Comptroller and Ombudsman of Israel and the Office of the Comptroller and Auditor General of India.<br />\n<br />\nDuring his visit to New Delhi, Mr. Matanyahu Englman, State Comptroller and Ombudsman of Israel and President of EUROSAI, met with Mr. K. Sanjay Murthy, Comptroller and Auditor General of India, to advance cooperation in public sector auditing, capacity building, tech, and institutional learning and collaboration.<br />\n<br />\nThis important milestone reflects the growing partnership between Israel and India. \ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf3<br />\n<a href=\"https://nitter.net/ReuvenAzar\" title=\"\ud83c\uddee\ud83c\uddf1 Reuven Azar\">@ReuvenAzar</a> <a href=\"https://nitter.net/IndiaCAG\" title=\"CAG of India\">@IndiaCAG</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/IsraelinIndia/status/2069280180858950118#m\">https://nitter.net/IsraelinIndia/status/2069280180858950118#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We need to be cognizant of new security threats, challenges, says NSA Ajit Doval at BRICS NSAs meet in Delhi",
+      "link": "https://nitter.net/sidhant/status/2069286964046835748#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:40:32+05:30",
+      "time": "23 Jun, 10:40 AM",
+      "type": "tweets",
+      "content": "<p>We need to be cognizant of new security threats,  challenges, says NSA Ajit Doval at BRICS NSAs meet in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2069286964046835748#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069286861839945728%2Fpu%2Fimg%2FW5ivUdu8KmNmVHrF.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Breaking: Indian NSA Ajit Doval welcomes US Iran MoU at BRICS NSA Meet in Delhi. Says \"we hope that it will work\" & help energy security, movement through Hormuz.",
+      "link": "https://nitter.net/sidhant/status/2069286927338287292#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:40:23+05:30",
+      "time": "23 Jun, 10:40 AM",
+      "type": "tweets",
+      "content": "<p>Breaking: Indian NSA Ajit Doval welcomes US Iran MoU at BRICS NSA Meet in Delhi. Says \"we hope that it will work\" &amp; help energy security, movement through Hormuz.</p>\n<a href=\"https://nitter.net/sidhant/status/2069286927338287292#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069286889065222144%2Fpu%2Fimg%2F4bDeY-_BGi4Vc6fb.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Interesting detail from the IAF\u2019s June 2026 Rafale sustainment RFP. While ISPR claimed that 3 Rafales were shot down, Air Headquarters is seeking bridge support for a fleet of 36 Rafale aircraft, the same number India originally procured. To make it more interesting, we\u2019ve already seen at least two Rafale tail numbers that Pakistani accounts had claimed were \u201cshot down\u201d flying afterward.",
+      "link": "https://nitter.net/alpha_defense/status/2069285951826981004#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-23T10:36:31+05:30",
+      "time": "23 Jun, 10:36 AM",
+      "type": "tweets",
+      "content": "<p>Interesting detail from the IAF\u2019s June 2026 Rafale sustainment RFP.<br />\n<br />\nWhile ISPR claimed that 3 Rafales were shot down, Air Headquarters is seeking bridge support for a fleet of 36 Rafale aircraft, the same number India originally procured.<br />\n<br />\nTo make it more interesting, we\u2019ve already seen at least two Rafale tail numbers that Pakistani accounts had claimed were \u201cshot down\u201d flying afterward.</p>\n<img src=\"https://nitter.net/pic/media%2FHLeUmrMa4AAkBHa.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Warning of \"geopolitical uncertainty\", NSA Ajit Doval pitches BRICS as \"voice of global south\". From BRICS NSAs meet in Delhi:",
+      "link": "https://nitter.net/sidhant/status/2069285342591738340#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:34:05+05:30",
+      "time": "23 Jun, 10:34 AM",
+      "type": "tweets",
+      "content": "<p>Warning of \"geopolitical uncertainty\", NSA Ajit Doval pitches BRICS as \"voice of global south\".<br />\n<br />\nFrom BRICS NSAs meet in Delhi:</p>\n<a href=\"https://nitter.net/sidhant/status/2069285342591738340#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069285220298420224%2Fpu%2Fimg%2FH2vqguVpDcZNey6k.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "NSA Ajit Doval to make opening remarks at BRICS NSAs meet",
+      "link": "https://nitter.net/sidhant/status/2069283220089450741#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:25:39+05:30",
+      "time": "23 Jun, 10:25 AM",
+      "type": "tweets",
+      "content": "<p>NSA Ajit Doval to make opening remarks at BRICS NSAs meet</p>\n<img src=\"https://nitter.net/pic/media%2FHLeSHo6aEAEo8ds.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BRICS NSAs meet to shortly begin at Bharat Mandapam",
+      "link": "https://nitter.net/sidhant/status/2069283068863742425#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:25:03+05:30",
+      "time": "23 Jun, 10:25 AM",
+      "type": "tweets",
+      "content": "<p>BRICS NSAs meet to shortly begin at Bharat Mandapam</p>\n<img src=\"https://nitter.net/pic/media%2FHLeR-01aAAE2YGQ.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Watch: BRICS NSAs pose for a family photo this morning in Delhi",
+      "link": "https://nitter.net/sidhant/status/2069282887032320094#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:24:20+05:30",
+      "time": "23 Jun, 10:24 AM",
+      "type": "tweets",
+      "content": "<p>Watch: BRICS NSAs pose for a family photo this morning in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2069282887032320094#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069282840274182144%2Fpu%2Fimg%2Fo9BQsNZq07e4jC4B.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BRICS NSAs meet in Delhi Family Photo",
+      "link": "https://nitter.net/sidhant/status/2069282689073696942#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:23:33+05:30",
+      "time": "23 Jun, 10:23 AM",
+      "type": "tweets",
+      "content": "<p>BRICS NSAs meet in Delhi<br />\n<br />\nFamily Photo</p>\n<img src=\"https://nitter.net/pic/media%2FHLeRotxbMAAXY9S.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "NSA Ajit Doval welcomes Secretary of the Security Council of Russia Sergey Shoigu in Delhi at BRICS NSA meet",
+      "link": "https://nitter.net/sidhant/status/2069282124981842236#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:21:18+05:30",
+      "time": "23 Jun, 10:21 AM",
+      "type": "tweets",
+      "content": "<p>NSA Ajit Doval welcomes Secretary of the Security Council of Russia Sergey Shoigu in Delhi at BRICS NSA meet</p>\n<a href=\"https://nitter.net/sidhant/status/2069282124981842236#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069282100495482880%2Fpu%2Fimg%2FmFuEPKoDSND_84CC.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "China's Wang Yi, India's Doval at BRICS NSA meet in Delhi this morning",
+      "link": "https://nitter.net/sidhant/status/2069281746114539948#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-23T10:19:48+05:30",
+      "time": "23 Jun, 10:19 AM",
+      "type": "tweets",
+      "content": "<p>China's Wang Yi, India's Doval at BRICS NSA meet in Delhi this morning</p>\n<img src=\"https://nitter.net/pic/media%2FHLeQyEbaoAAPnSw.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "NSA Ajit Doval welcomes Chinese FM & his SR counterpart Wang Yi at BRICS FMs meet",
       "link": "https://nitter.net/sidhant/status/2069281316248649730#m",
@@ -683,16 +807,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "BRICS NSA meet to begin at 10 am IST; NSA Ajit Doval to make opening remarks",
-      "link": "https://nitter.net/sidhant/status/2069272400534089987#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-23T09:42:40+05:30",
-      "time": "23 Jun, 09:42 AM",
-      "type": "tweets",
-      "content": "<p>BRICS NSA meet to begin at 10 am IST; NSA Ajit Doval to make opening remarks</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "\u2018Won't return to pre-war conditions\u2019: Iran says Hormuz will be administered by them Iran's chief negotiator and parliamentary speaker Mohammad Bagher Ghalibaf on Tuesday said the Strait of Hormuz would remain under Tehran's administration and would not return to its pre-war status. Ghalibaf stated that \"the Strait of Hormuz will never return to its pre-war conditions and will be administered by the Islamic Republic of Iran,\u201d AFP reported.",
       "link": "https://nitter.net/NetramDefence/status/2069263696170491922#m",
       "source": "Netram Defense",
@@ -713,126 +827,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Secretary of the Security Council of Russia Sergey Shoigu in Delhi",
-      "link": "https://nitter.net/sidhant/status/2069251273220899289#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-23T08:18:43+05:30",
-      "time": "23 Jun, 08:18 AM",
-      "type": "tweets",
-      "content": "<p>Secretary of the Security Council of Russia Sergey Shoigu in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2069251273220899289#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069165000959156224%2Fimg%2F19xXKvSt-ebv_Nrj.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: #WIONDispatch | India hosts BRICS security meet, China's Wang Yi, Russia's Shoigu to attend key security talks NSA Doval meets Iran's Deputy Defence Secretary @kripatistic gets you this report by @sidhant",
-      "link": "https://nitter.net/WIONews/status/2069233608976720290#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-23T07:08:31+05:30",
-      "time": "23 Jun, 07:08 AM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONDispatch\">#WIONDispatch</a> | India hosts BRICS security meet, China's Wang Yi, Russia's Shoigu to attend key security talks<br />\n<br />\nNSA Doval meets Iran's Deputy Defence Secretary<br />\n<br />\n<a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> gets you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2069233608976720290#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069233463828615168%2Fimg%2FFo4TSrLE69DwBdEQ.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
-      "title": "China and India are partners rather than competitors, China FM Wang Yi tells NSA Ajit Doval at Delhi meet China readout",
-      "link": "https://nitter.net/sidhant/status/2069129757720203644#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-23T00:15:51+05:30",
-      "time": "23 Jun, 12:15 AM",
-      "type": "tweets",
-      "content": "<p>China and India are partners rather than competitors, China FM Wang Yi tells NSA Ajit Doval at Delhi meet<br />\n<br />\nChina readout</p>\n<img src=\"https://nitter.net/pic/media%2FHLcGjLKbMAA73Ur.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "NSA Doval to FM Wang Yi: Stable ties key to India-China understanding Details: https://www.wionews.com/world/nsa-doval-to-fm-wang-yi-stable-ties-key-to-india-china-understanding-1782152508463",
-      "link": "https://nitter.net/sidhant/status/2069128815025258982#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-23T00:12:06+05:30",
-      "time": "23 Jun, 12:12 AM",
-      "type": "tweets",
-      "content": "<p>NSA Doval to FM Wang Yi: Stable ties key to India-China understanding<br />\n<br />\nDetails: <br />\n<br />\n<a href=\"https://www.wionews.com/world/nsa-doval-to-fm-wang-yi-stable-ties-key-to-india-china-understanding-1782152508463\">wionews.com/world/nsa-doval-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/nsa-doval-to-fm-wang-yi-stable-ties-key-to-india-china-understanding-1782152508463\">\n<img src=\"https://nitter.net/pic/card_img%2F2069128800143843328%2Fy3Qpb9qg%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>NSA Doval to FM Wang Yi : Stable ties key to India-China understanding</b>\n</a>\n<p>Chinese FM Wang Yii, who is also a member of the Communist Party of China\u2019s Political Bureau and Beijing\u2019s special representative on the India-China border, is attending the meet at the invitation of...</p>\n<small><a href=\"https://www.wionews.com/world/nsa-doval-to-fm-wang-yi-stable-ties-key-to-india-china-understanding-1782152508463\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "NSA Ajit Doval with Chinese FM Wang Yi in Delhi on Monday",
-      "link": "https://nitter.net/sidhant/status/2069127751337165001#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-23T00:07:53+05:30",
-      "time": "23 Jun, 12:07 AM",
-      "type": "tweets",
-      "content": "<p>NSA Ajit Doval with Chinese FM Wang Yi in Delhi on Monday</p>\n<img src=\"https://nitter.net/pic/media%2FHLcEqJSaMAAi8ls.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India's National Security Advisor Ajit Doval meets his South African counterpart, Khumbudzo Ntshavheni on the sidelines of the BRICS National Security Advisors meeting",
-      "link": "https://nitter.net/sidhant/status/2069126739587203195#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-23T00:03:51+05:30",
-      "time": "23 Jun, 12:03 AM",
-      "type": "tweets",
-      "content": "<p>India's National Security Advisor Ajit Doval meets his South African counterpart, Khumbudzo Ntshavheni on the sidelines of the BRICS National Security Advisors meeting</p>\n<img src=\"https://nitter.net/pic/media%2FHLcDuwZagAA78iW.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India set to host BRICS NSA meet today. NSA Ajit Doval meets his Chinese counterpart. Reporting from Delhi: https://x.com/WIONews/status/2069085636972499340/video/1",
-      "link": "https://nitter.net/sidhant/status/2069125891024974282#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-23T00:00:29+05:30",
-      "time": "23 Jun, 12:00 AM",
-      "type": "tweets",
-      "content": "<p>India set to host BRICS NSA meet today. NSA Ajit Doval meets his Chinese counterpart. <br />\n<br />\nReporting from Delhi: <br />\n<br />\n<a href=\"https://nitter.net/WIONews/status/2069085636972499340/video/1\">nitter.net/WIONews/status/2069085\u2026</a></p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "The discussions were constructive and forward-looking: Indian readout of NSA Ajit Doval, FM Wang Yi meet in Delhi",
-      "link": "https://nitter.net/sidhant/status/2069118849098871008#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T23:32:30+05:30",
-      "time": "22 Jun, 11:32 PM",
-      "type": "tweets",
-      "content": "<p>The discussions were constructive and forward-looking: Indian readout of NSA Ajit Doval,  FM Wang Yi meet in Delhi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Chinese Foreign minister Wang Yi meets Indian NSA Ajit Doval for a bilateral. Wang Yi is Delhi for BRICS NSAs meet</p>\n<a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069061177976737792%2Fpu%2Fimg%2FzYs6H3FTZ33mD86w.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">https://nitter.net/sidhant/status/2069061194019979264#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "NSA Ajit Doval underlined that \"stable, predictable and constructive bilateral relations contribute to building of trust and better understanding between the two sides\", says Indian readout of Doval-Wang Yi talks",
-      "link": "https://nitter.net/sidhant/status/2069118754429276542#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T23:32:08+05:30",
-      "time": "22 Jun, 11:32 PM",
-      "type": "tweets",
-      "content": "<p>NSA Ajit Doval underlined that \"stable, predictable and constructive bilateral relations contribute to building of trust and better understanding between the two sides\", says Indian readout of Doval-Wang Yi talks</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Chinese Foreign minister Wang Yi meets Indian NSA Ajit Doval for a bilateral. Wang Yi is Delhi for BRICS NSAs meet</p>\n<a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069061177976737792%2Fpu%2Fimg%2FzYs6H3FTZ33mD86w.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">https://nitter.net/sidhant/status/2069061194019979264#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "The two sides reviewed recent developments in bilateral relations and noted progress towards gradual normalisation: Indian side on NSA Ajit Doval, China FM Wang Yi meet",
-      "link": "https://nitter.net/sidhant/status/2069118566402793592#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T23:31:23+05:30",
-      "time": "22 Jun, 11:31 PM",
-      "type": "tweets",
-      "content": "<p>The two sides reviewed recent developments in bilateral relations and noted progress towards gradual normalisation: Indian side on NSA Ajit Doval, China FM Wang Yi meet</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Chinese Foreign minister Wang Yi meets Indian NSA Ajit Doval for a bilateral. Wang Yi is Delhi for BRICS NSAs meet</p>\n<a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069061177976737792%2Fpu%2Fimg%2FzYs6H3FTZ33mD86w.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069061194019979264#m\">https://nitter.net/sidhant/status/2069061194019979264#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Indian Embassy in Qatar Qatari authorities have confirmed that 12 Indian nationals have unfortunately passed away in the Ras Laffan incident yesterday night. We extend our deepest condolences to the bereaved families and prayers for the departed souls. Qatari authorities have also confirmed that all those who got injured in the incident are in stable condition and are receiving appropriate medical treatment. Our Embassy is working in close contact with the Qatari authorities to extend all possible help to the Indian nationals and their families affected by this incident, including ensuring that mortal remains of the deceased are sent to India at the earliest.",
-      "link": "https://nitter.net/sidhant/status/2069117037306359908#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T23:25:18+05:30",
-      "time": "22 Jun, 11:25 PM",
-      "type": "tweets",
-      "content": "<p>Indian Embassy in Qatar<br />\n<br />\nQatari authorities have confirmed that 12 Indian nationals have unfortunately passed away in the Ras Laffan incident yesterday night. We extend our deepest condolences to the bereaved families and prayers for the departed souls. <br />\n<br />\nQatari authorities have also confirmed that all those who got injured in the incident are in stable condition and are receiving appropriate medical treatment. <br />\n<br />\nOur Embassy is working in  close contact with the Qatari authorities to extend all possible help to the Indian nationals and their families affected by this incident, including ensuring that mortal remains of the deceased are sent to India at the earliest.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Breaking: Qatar authorities have confirmed that 12 Indian nationals have unfortunately passed away in the Ras Laffan incident yesterday night, says Indian Embassy in Doha",
-      "link": "https://nitter.net/sidhant/status/2069116889885032465#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T23:24:43+05:30",
-      "time": "22 Jun, 11:24 PM",
-      "type": "tweets",
-      "content": "<p>Breaking: Qatar authorities have confirmed that 12 Indian nationals have unfortunately passed away in the Ras Laffan incident yesterday night, says Indian Embassy in Doha</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Qatar confirms Indians, Pakistanis among the 13 who have died at the gas plant explosion at Ras Laffan</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069052396207268119#m\">https://nitter.net/sidhant/status/2069052396207268119#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: 22nd Jun 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf The IDF eliminated 3 armed terrorists from Hamas\u2019 military wing who were attempting to carry out attacks against IDF troops. \u25cf Iranian Foreign Ministry spokesman Baqaei stated that a threatening US statement during the four-party session prompted Iran to declare it would not continue the talks for now. \u25cf The US Treasury Department issued a 60-day general license, effective until 21 August 2026, authorizing the production, delivery, and sale of Iranian-origin petroleum. \u25cf Iran\u2019s Foreign Ministry spokesman announced that Tehran\u2019s interaction with the IAEA will be subject to approval by Iran\u2019s Parliament and the Supreme National Security Council. \u25cf The French and Qatari-owned gas carriers WADI AL SAIL and MEKAINES were allowed to transit the Strait of Hormuz this morning, both en route to Ras Laffan LNG terminal. END OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2069110159478268213#m",
       "source": "Netram Defense",
@@ -843,16 +837,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "2nd Meeting of the India-Morocco Joint Working Group on Counter Terrorism. Morocco condmns Red fort, Pahalgam terror attack: https://www.mea.gov.in/press-releases?dtl/41345/2nd_Meeting_of_the_IndiaMorocco_Joint_Working_Group_on_Counter_Terrorism",
-      "link": "https://nitter.net/sidhant/status/2069107855471575114#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T22:48:49+05:30",
-      "time": "22 Jun, 10:48 PM",
-      "type": "tweets",
-      "content": "<p>2nd Meeting of the India-Morocco Joint Working Group on Counter Terrorism. Morocco condmns Red fort, Pahalgam terror attack:<br />\n<br />\n<a href=\"https://www.mea.gov.in/press-releases?dtl/41345/2nd_Meeting_of_the_IndiaMorocco_Joint_Working_Group_on_Counter_Terrorism\">mea.gov.in/press-releases?dt\u2026</a></p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "For more than a week, I\u2019ve been sitting on this because the same people have spent years branding anyone who asks questions for a better IAF as \u201canti-Rafale\u201d and, at times, even \u201canti-Air Force.\u201d Yes, the Rafale engine PBL has expired. A bridge arrangement is being signed while a larger contract is negotiated and the entire PBL framework is renegotiated. But now that this document is all over the place, there\u2019s no point pretending otherwise.",
       "link": "https://nitter.net/alpha_defense/status/2069107619068068172#m",
       "source": "Alpha Defense",
@@ -861,16 +845,6 @@
       "type": "tweets",
       "content": "<p>For more than a week, I\u2019ve been sitting on this because the same people have spent years branding anyone who asks questions for a better IAF as \u201canti-Rafale\u201d and, at times, even \u201canti-Air Force.\u201d<br />\n<br />\nYes, the Rafale engine PBL has expired. A bridge arrangement is being signed while a larger contract is negotiated and the entire PBL framework is renegotiated.<br />\n<br />\nBut now that this document is all over the place, there\u2019s no point pretending otherwise.</p>\n<img src=\"https://nitter.net/pic/media%2FHLbyaBnaYAAFG8X.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Austria \ud83c\udde6\ud83c\uddf9 ambassador Robert Zischg, deputy ambassador Dr. Gisela Kristoferitsch, with Delhi's diplomatic community watch Austria \ud83c\udde6\ud83c\uddf9 vs Argentina \ud83c\udde6\ud83c\uddf7 \u26bd at the Embassy",
-      "link": "https://nitter.net/sidhant/status/2069103627265077432#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-22T22:32:01+05:30",
-      "time": "22 Jun, 10:32 PM",
-      "type": "tweets",
-      "content": "<p>Austria \ud83c\udde6\ud83c\uddf9 ambassador Robert Zischg, deputy ambassador Dr. Gisela Kristoferitsch, with Delhi's diplomatic community watch Austria \ud83c\udde6\ud83c\uddf9 vs Argentina \ud83c\udde6\ud83c\uddf7 \u26bd at the Embassy</p>\n<img src=\"https://nitter.net/pic/media%2FHLbuxOzbQAAF5dd.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Just past 10 pm ist, Austrian embassy buzzing with activity ahead of Argentina VS Austria \u26bd</p>\n<img src=\"https://nitter.net/pic/media%2FHLbqEJDa8AMOH5R.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069098450323697755#m\">https://nitter.net/sidhant/status/2069098450323697755#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "India Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region. From:22/06/2026 , 10:00 IST Until:26/06/2026 , 16:30 IST V-Limit:Surface-Unlimited **Sorry for late update\ud83d\ude4f",
@@ -1345,6 +1319,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
