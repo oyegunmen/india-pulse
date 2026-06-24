@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "US Secretary of State Marco Rubio says lasting peace in West Asia depends on ending proxy attacks",
+      "link": "https://newsonair.gov.in/us-secretary-of-state-marco-rubio-says-lasting-peace-in-west-asia-depends-on-ending-proxy-attacks/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-24T06:02:23+05:30",
+      "time": "24 Jun, 06:02 AM",
+      "type": "news",
+      "description": "US Secretary of State Marco Rubio said lasting peace and stability in West Asia cannot be achieved as long as Iranian-backed proxy groups continue lau..."
+    },
+    {
       "title": "BRICS NSAs call for joint action against terrorism, cyber threats",
       "link": "https://www.tribuneindia.com/news/top-headlines/brics-nsas-call-for-joint-action-against-terrorism-cyber-threats",
       "source": "The Tribune",
@@ -368,15 +377,6 @@
       "time": "23 Jun, 11:26 AM",
       "type": "news",
       "description": "North Korean leader Kim Jong Un vowed to accelerate the country's military buildup at a party meeting, state media reported Tuesday, citing military m..."
-    },
-    {
-      "title": "FIFA World Cup: Algeria beat Jordan 2-1; Norway, Argentina and France secure Round of 32",
-      "link": "https://newsonair.gov.in/fifa-world-cup-algeria-beat-jordan-2-1-norway-argentina-and-france-secure-round-of-32/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-23T11:22:55+05:30",
-      "time": "23 Jun, 11:22 AM",
-      "type": "news",
-      "description": "In the FIFA World Cup, Algeria thrashed debutants Jordan by 2-1 in a Group J encounter in Santa Clara, USA today. In another match, Norway defeated Se..."
     },
     {
       "title": "India welcomes US-Iran peace deal, NSA Doval says pact brings 'cautious optimism'",
@@ -1581,6 +1581,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
