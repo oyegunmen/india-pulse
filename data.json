@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "BRICS nations call for stronger cooperation to address widening range of global security challenges, including terrorism and cyber threats",
+      "link": "https://newsonair.gov.in/brics-nations-call-for-stronger-cooperation-to-tackle-terrorism-and-cyber-threats/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-24T08:15:34+05:30",
+      "time": "24 Jun, 08:15 AM",
+      "type": "news",
+      "description": "National Security Advisers (NSAs) and senior security officials from BRICS nations called for stronger cooperation to address a widening range of glob..."
+    },
+    {
+      "title": "PM Modi gets condolence call from Qatar\u2019s Amir, after 12 Indian killed in Ras Laffan gas plant blast",
+      "link": "https://newsonair.gov.in/pm-modi-receives-telephone-call-from-qatar-amir-sheikh-tamim-bin-hamad-al-thani/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-24T08:13:37+05:30",
+      "time": "24 Jun, 08:13 AM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi received a telephone call from the Amir of the State of Qatar, Sheikh Tamim Bin Hamad Al-Thani. The Qatar Amir expressed ..."
+    },
+    {
+      "title": "IMO announces evacuation plan for over 11,000 stranded seafarers in Strait of Hormuz",
+      "link": "https://newsonair.gov.in/imo-announces-evacuation-plan-for-over-11000-stranded-seafarers-in-strait-of-hormuz/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-24T08:04:10+05:30",
+      "time": "24 Jun, 08:04 AM",
+      "type": "news",
+      "description": "The International Maritime Organisation (IMO) announced an evacuation plan for more than 11 thousand seafarers still stranded in the Strait of Hormuz...."
+    },
+    {
+      "title": "India strongly criticizes Pakistan\u2019s remarks over situation in POK; Says Islamabad deflects attention away from its human rights abuses",
+      "link": "https://newsonair.gov.in/india-slams-pakistani-defence-minister-khawaja-asifs-remarks-on-pok/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-24T08:01:25+05:30",
+      "time": "24 Jun, 08:01 AM",
+      "type": "news",
+      "description": "India has strongly criticized Pakistani Defence Minister Khawaja Asif&#8217;s remarks over the situation in Pakistan-occupied Kashmir, saying these re..."
+    },
+    {
+      "title": "Iran's Missile Programme Not Part of Deal with US: Prez Pezeshkian",
+      "link": "https://www.deccanchronicle.com/west-asia/irans-missile-programme-not-part-of-deal-with-us-president-pezeshkian-1965846",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-24T07:50:38+05:30",
+      "time": "24 Jun, 07:50 AM",
+      "type": "news",
+      "description": "He also defended Iran's missile programme, describing it as a crucial component of the country's defence strategy"
+    },
+    {
+      "title": "India-US open high-level trade talks in New Delhi to recalibrate proposed bilateral trade agreement",
+      "link": "https://newsonair.gov.in/india-us-open-high-level-trade-talks-to-recalibrate-proposed-bilateral-trade-agreement/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-24T07:49:33+05:30",
+      "time": "24 Jun, 07:49 AM",
+      "type": "news",
+      "description": "India and the United States opened high-level trade talks to salvage and recalibrate a proposed bilateral trade agreement after changes in US tariff p..."
+    },
+    {
+      "title": "MEA rebuffs Pakistani minister\u2019s war remarks over Indus Waters Treaty suspension",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/24/mea-rebuffs-pakistani-ministers-war-remarks-over-indus-waters-treaty-suspension",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-24T07:39:47+05:30",
+      "time": "24 Jun, 07:39 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "NSA Ajit Doval, Sergei Shoigu discuss BRICS cooperation and bilateral ties in New Delhi",
       "link": "https://newsonair.gov.in/nsa-ajit-doval-sergei-shoigu-discuss-brics-cooperation-and-bilateral-ties-in-new-delhi/",
       "source": "All India Radio",
@@ -17,24 +80,6 @@
       "time": "24 Jun, 07:04 AM",
       "type": "news",
       "description": "At a time when geopolitical tensions, technological disruptions and evolving security threats are testing global stability, India on Tuesday projected..."
-    },
-    {
-      "title": "BRICS nations call for stronger cooperation to tackle terrorism and cyber threats",
-      "link": "https://newsonair.gov.in/brics-nations-call-for-stronger-cooperation-to-tackle-terrorism-and-cyber-threats/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-24T06:55:34+05:30",
-      "time": "24 Jun, 06:55 AM",
-      "type": "news",
-      "description": "National Security Advisers (NSAs) and senior security officials from BRICS nations called for stronger cooperation to address a widening range of glob..."
-    },
-    {
-      "title": "India slams Pakistani Defence Minister Khawaja Asif\u2019s remarks on PoK",
-      "link": "https://newsonair.gov.in/india-slams-pakistani-defence-minister-khawaja-asifs-remarks-on-pok/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-24T06:30:25+05:30",
-      "time": "24 Jun, 06:30 AM",
-      "type": "news",
-      "description": "India has strongly criticized Pakistani Defence Minister Khawaja Asif&#8217;s remarks over the situation in Pakistan-occupied Kashmir, saying these re..."
     },
     {
       "title": "US Secretary of State Marco Rubio says lasting peace in West Asia depends on ending proxy attacks",
@@ -244,15 +289,6 @@
       "description": "<p>\u092d\u093e\u0930\u0924 \u0928\u0947 \u0917\u0924 8 \u092e\u0908 \u0915\u094b \u0913\u0921\u093f\u0936\u093e \u0915\u0947 \u0921\u0949 \u090f\u092a\u0940\u091c\u0947 \u0905\u092c\u094d\u0926\u0941\u0932 \u0915\u0932\u093e\u092e \u0926\u094d\u0935\u0940\u092a \u0938\u0947 \u092e\u0932\u094d\u091f\u0940\u092a\u0932 \u0907\u0902\u0921\u093f\u092a\u0947\u0902\u0921\u0947\u0902\u091f\u0932\u0940 \u091f\u093e\u0930\u094d\u0917\u0947\u091f\u0947\u0921 \u0930\u0940-\u090f\u0902\u091f\u094d\u0930\u0940 \u0935\u0947\u0939\u093f\u0915\u0932 (\u090f\u092e\u0906\u0908\u0906\u0930\u0935\u0940) \u092a\u094d\u0930\u0923\u093e\u0932\u0940 \u0938\u0947 \u0932\u0948\u0938 \u0909\u0928\u094d\u0928\u0924 \u0905\u0917\u094d\u0928\u093f \u092e\u093f..."
     },
     {
-      "title": "UN Secretary-General Antonio Guterres calls on AI companies to disclose environmental impact",
-      "link": "https://newsonair.gov.in/un-secretary-general-antonio-guterres-calls-on-ai-companies-to-disclose-environmental-impact/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-23T16:49:37+05:30",
-      "time": "23 Jun, 04:49 PM",
-      "type": "news",
-      "description": "United Nations Secretary-General Antonio Guterres today called on artificial intelligence companies to release information about the carbon pollution ..."
-    },
-    {
       "title": "India, UK hold 15th ESG talks to deepen defence cooperation",
       "link": "https://defencemonitor.in/india-uk-hold-15th-esg-talks-to-deepen-defence-cooperation/",
       "source": "Defense Monitor",
@@ -325,15 +361,6 @@
       "description": "According to Pawan Goenka, Chairman of IN-SPACe, only companies that are majority-owned and controlled by Indian entities will be eligible to particip..."
     },
     {
-      "title": "CIAA files corruption case against 16 individuals at special court in Kathmandu",
-      "link": "https://newsonair.gov.in/ciaa-files-corruption-case-against-16-individuals-at-special-court-in-kathmandu/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-23T15:17:04+05:30",
-      "time": "23 Jun, 03:17 PM",
-      "type": "news",
-      "description": "The Commission for the Investigation of Abuse of Authority (CIAA) has filed a case of corruption against 16 individuals, including the Director Genera..."
-    },
-    {
       "title": "'Imperative' for India and China to respect each other's core interests: Wang",
       "link": "https://economictimes.indiatimes.com/news/defence/imperative-for-india-and-china-to-respect-each-others-core-interests-wang/articleshow/131931002.cms",
       "source": "Economic Times",
@@ -359,15 +386,6 @@
       "time": "23 Jun, 01:09 PM",
       "type": "news",
       "description": "<p>By Simran Sodhi In May of this year, the foreign ministers of the Quad (Quadrilateral Security Dialogue alliance) met in Delhi. The meeting was clo..."
-    },
-    {
-      "title": "US temporarily lifts major sanctions on Iran, allows sale of crude oil and petrochemical products",
-      "link": "https://newsonair.gov.in/us-temporarily-lifts-major-sanctions-on-iran-allows-sale-of-crude-oil-and-petrochemical-products/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-23T13:02:24+05:30",
-      "time": "23 Jun, 01:02 PM",
-      "type": "news",
-      "description": "The United States has temporarily lifted major sanctions on Iran, authorizing the production, delivery and sale of Iranian-origin crude oil, petroleum..."
     },
     {
       "title": "Brahmos gets another customer: One of Middle East's biggest arms importers and top US weapons buyer eyes Indian weapons",
@@ -1590,6 +1608,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
