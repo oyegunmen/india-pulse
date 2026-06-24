@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Israeli defence minister says 'no US demand' to withdraw from Lebanon",
+      "link": "https://economictimes.indiatimes.com/news/defence/israeli-defence-minister-says-no-us-demand-to-withdraw-from-lebanon/articleshow/131973420.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-24T22:28:31+05:30",
+      "time": "24 Jun, 10:28 PM",
+      "type": "news",
+      "description": "Israel's Defence Minister Israel Katz stated that the US has not demanded a troop withdrawal from southern Lebanon, a key Lebanese condition in ceasef..."
+    },
+    {
+      "title": "Post-Naxal Bastar: DRG Force to Be Diverted for Forest, Wildlife Conservation",
+      "link": "https://www.deccanchronicle.com/nation/chhattisgarh-post-naxalism-bastar-move-underway-for-diversion-of-drg-tribal-counterinsurgency-force-for-wildlife-forest-conservation-1965994",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-24T22:25:57+05:30",
+      "time": "24 Jun, 10:25 PM",
+      "type": "news",
+      "description": "The move comes amid growing vulnerability of the wildlife and the forests in Bastar due to inadequate forest staff after the 40,000 sq km-region becam..."
+    },
+    {
       "title": "Air India Delhi-Amritsar flight briefly enters Pakistani airspace",
       "link": "https://newsonair.gov.in/air-india-delhi-amritsar-flight-briefly-enters-pakistani-airspace/",
       "source": "All India Radio",
@@ -161,15 +179,6 @@
       "time": "24 Jun, 07:21 PM",
       "type": "news",
       "description": "US Secretary of State Marco Rubio met UAE President Mohamed bin Zayed in Abu Dhabi, reaffirming America\u2019s commitment to the Gulf nation\u2019s security. Th..."
-    },
-    {
-      "title": "After a go-around manoeuvre, Air India Delhi-Amritsar flight enters Pakistan airspace; returns following alerts",
-      "link": "https://www.newindianexpress.com/india/2026/Jun/24/after-a-go-around-manoeuvre-air-india-delhi-amritsar-flight-enters-pakistan-airspace-returns-following-alerts",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-24T18:01:50+05:30",
-      "time": "24 Jun, 06:01 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Bharat Dynamics bags Rs 1,348 crore order from HAL",
@@ -755,45 +764,89 @@
       "time": "22 Jun, 11:36 PM",
       "type": "news",
       "description": "CISF Director General Praveer Ranjan emphasized the force's readiness for modern security threats, including cyber attacks and drone technology. He an..."
-    },
-    {
-      "title": "India set to seal $230 million M777 howitzer support deal with US: Sergio Gor",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-set-to-seal-230-million-m777-howitzer-support-deal-with-us-sergio-gor/articleshow/131916749.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-22T23:10:34+05:30",
-      "time": "22 Jun, 11:10 PM",
-      "type": "news",
-      "description": "India is set to receive a significant boost to its defence capabilities with a proposed $230 million US sustainment package for its M777 ultra-light h..."
-    },
-    {
-      "title": "Aakar Patel | From \u2018Indo-Pacific\u2019 To Pacific: India To Pay Price For Bid To Play Off US, China",
-      "link": "https://www.deccanchronicle.com/opinion/columnists/aakar-patel-from-indo-pacific-to-pacific-india-to-pay-price-for-bid-to-play-off-us-china-1965517",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-22T23:10:13+05:30",
-      "time": "22 Jun, 11:10 PM",
-      "type": "news",
-      "description": "Over a couple of pages, the US lays out the plan of how it will make India a \u201cMajor Defence Partner\u201d and how \u201ca strong Indian military (would) effecti..."
-    },
-    {
-      "title": "Israeli defence officials' India visit to deepen strategic ties: IMOD",
-      "link": "https://economictimes.indiatimes.com/news/defence/israeli-defence-officials-india-visit-to-deepen-strategic-ties-imod/articleshow/131916198.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-22T22:41:49+05:30",
-      "time": "22 Jun, 10:41 PM",
-      "type": "news",
-      "description": "A high-level Israeli defence delegation's visit to India is set to significantly strengthen the strategic partnership between the two nations. Discuss..."
-    },
-    {
-      "title": "Plea in SC Seeks Independent Probe Into Bihar Encounter Killing",
-      "link": "https://www.deccanchronicle.com/nation/plea-in-sc-seeks-independent-probe-into-bihar-encounter-killing-1965496",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-22T22:30:04+05:30",
-      "time": "22 Jun, 10:30 PM",
-      "type": "news",
-      "description": "Plea demands CBI inquiry and expert panel to examine alleged extra-judicial killing."
     }
   ],
   "tweets": [
+    {
+      "title": "Reality of PoJK: The anger can no longer be hidden.",
+      "link": "https://nitter.net/OsintTV/status/2069840790369575083#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-24T23:21:14+05:30",
+      "time": "24 Jun, 11:21 PM",
+      "type": "tweets",
+      "content": "<p>Reality of PoJK: The anger can no longer be hidden.</p>\n<a href=\"https://nitter.net/OsintTV/status/2069840790369575083#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069840704965128192%2Fimg%2FcWfad3WJZ_nKnUEN.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Daily US-Israel-Iran War Brief: 24th Jun 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf Iranian President Pezeshkian stated that Iran\u2019s missile programme was not included in the 14-point MoU with the US and will not be part of any future agreement. \u25cf Iran refused a meeting with IAEA Director General Rafael Grossi in Switzerland and stated it will not discuss access to bombed nuclear sites until a final agreement and full sanctions removal. \u25cf The IDF struck two armed Hezbollah terrorists in the Ali al-Taher Ridge near the security zone and eliminated Akram Muhammad Mahmoud Abu Mazi, a terrorist in Hamas\u2019 military wing. \u25cf Oman stated that the Strait of Hormuz remains open with no tolls and designated two temporary routes (north and south of the main shipping lane) for safe departure of vessels. \u25cf At least 3 commercial ships transited the Strait of Hormuz in the past 12 hours under a UN-led escort scheme, with over 35 more vessels preparing to pass through. \u25cf Military talks in Washington between Israel and Lebanon stalled after the Lebanese Army delegation rejected proposed \u201cpilot zones\u201d for Israeli withdrawal. END OF THE BRIEF",
+      "link": "https://nitter.net/NetramDefence/status/2069840023588114443#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-24T23:18:12+05:30",
+      "time": "24 Jun, 11:18 PM",
+      "type": "tweets",
+      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n24th Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n <br />\n\u25cf Iranian President Pezeshkian stated that Iran\u2019s missile programme was not included in the 14-point MoU with the US and will not be part of any future agreement.<br />\n<br />\n\u25cf Iran refused a meeting with IAEA Director General Rafael Grossi in Switzerland and stated it will not discuss access to bombed nuclear sites until a final agreement and full sanctions removal.<br />\n<br />\n\u25cf The IDF struck two armed Hezbollah terrorists in the Ali al-Taher Ridge near the security zone and eliminated Akram Muhammad Mahmoud Abu Mazi, a terrorist in Hamas\u2019 military wing.<br />\n<br />\n\u25cf Oman stated that the Strait of Hormuz remains open with no tolls and designated two <br />\ntemporary routes (north and south of the main shipping lane) for safe departure of vessels.<br />\n<br />\n\u25cf At least 3 commercial ships transited the Strait of Hormuz in the past 12 hours under a UN-led <br />\nescort scheme, with over 35 more vessels preparing to pass through.<br />\n<br />\n\u25cf Military talks in Washington between Israel and Lebanon stalled after the Lebanese Army <br />\ndelegation rejected proposed \u201cpilot zones\u201d for Israeli withdrawal.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHLmMhEua8AAdOyI.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n23rd Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n <br />\n\u25cf The Iranian ambassador to the UN in Geneva warned that the red line in negotiations with Washington is that Israel must cease attacks on Lebanon.<br />\n<br />\n\u25cf The US president claimed that Iran has completely agreed to nuclear inspections long into the future, though Iranian authorities stated that the UN's nuclear watchdog will not be able to inspect key nuclear sites bombed by the US and Israel last year.<br />\n<br />\n\u25cf Israel and Lebanon began a fifth round of talks in Washington, with Lebanese officials insisting that face-to-face negotiations with Israel are the only way to secure an end to the conflict.<br />\n<br />\n\u25cf The Israeli military reported that its forces opened fire at Hezbollah fighters in southern Lebanon who approached soldiers while posing as civilians.<br />\n<br />\n\u25cf Technical talks between Iran and the United States in Switzerland have concluded, with both sides agreeing to establish negotiating groups focused on nuclear issues and sanctions.<br />\n<br />\n\u25cfIran's chief negotiator stated that Tehran will administer the Strait of Hormuz following talks aimed at ending the war.<br />\n<br />\n\u25cfIran's judiciary announced that over 3,000 individuals have been arrested in recent months, including hundreds accused of carrying out operational actions for Israel.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHLgqZx1bgAACv4I.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2069450662304493638#m\">https://nitter.net/NetramDefence/status/2069450662304493638#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "RT by @OsintTV: You shouldn\u2019t have caused them to flare up in the first place.",
+      "link": "https://nitter.net/AsYouNotWish/status/2069835386575311013#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-24T22:59:46+05:30",
+      "time": "24 Jun, 10:59 PM",
+      "type": "tweets",
+      "content": "<p>You shouldn\u2019t have caused them to flare up in the first place.</p>\n<hr />\n<blockquote>\n<b>The White House (@WhiteHouse)</b>\n<p>\n<p>OIL PRICES TUMBLING.</p>\n<img src=\"https://nitter.net/pic/media%2FHLl-ty0WAAAGkQX.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/WhiteHouse/status/2069828496344359236#m\">https://nitter.net/WhiteHouse/status/2069828496344359236#m</a>\n</footer>\n</blockquote>",
+      "author": "@AsYouNotWish"
+    },
+    {
+      "title": "Khawaja Asif is finally learning that losing five wars doesn't earn respect. What's more embarrassing is that the criticism isn't coming from India. It's coming from PoJK Kashmiris themselves, who are openly mocking the governance imposed on them. When your own people are calling you out, playing the victim won't help.",
+      "link": "https://nitter.net/OsintTV/status/2069832686596755788#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-24T22:49:02+05:30",
+      "time": "24 Jun, 10:49 PM",
+      "type": "tweets",
+      "content": "<p>Khawaja Asif is finally learning that losing five wars doesn't earn respect.<br />\n<br />\nWhat's more embarrassing is that the criticism isn't coming from India. It's coming from PoJK Kashmiris themselves, who are openly mocking the governance imposed on them.<br />\n<br />\nWhen your own people are calling you out, playing the victim won't help.</p>\n<a href=\"https://nitter.net/OsintTV/status/2069832686596755788#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069832573694435328%2Fimg%2FKGvS8tzg7smdghFq.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "India to host BRICS Energy meet from 25-26 June. Statement:",
+      "link": "https://nitter.net/sidhant/status/2069826763300233677#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-24T22:25:30+05:30",
+      "time": "24 Jun, 10:25 PM",
+      "type": "tweets",
+      "content": "<p>India to host BRICS Energy meet from 25-26 June. <br />\n<br />\nStatement:</p>\n<img src=\"https://nitter.net/pic/media%2FHLmAZhNXoAAQ4q_.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Citing sanctions wavier by US, Iran's Petroleum Minister Mohsen Paknejad in Delhi says, \"ready for all relations in economic fields with India\"",
+      "link": "https://nitter.net/sidhant/status/2069826414963253415#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-24T22:24:07+05:30",
+      "time": "24 Jun, 10:24 PM",
+      "type": "tweets",
+      "content": "<p>Citing sanctions wavier by US, Iran's Petroleum Minister Mohsen Paknejad in Delhi says, \"ready for all relations in economic fields with India\"</p>\n<a href=\"https://nitter.net/sidhant/status/2069826414963253415#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069785132714594304%2Fpu%2Fimg%2F8pCZsamxAsNVK6o-.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iran's petroleum minister Mohsen Paknejad in India for BRICS Energy ministers meet",
+      "link": "https://nitter.net/sidhant/status/2069825702070034573#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-24T22:21:17+05:30",
+      "time": "24 Jun, 10:21 PM",
+      "type": "tweets",
+      "content": "<p>Iran's petroleum minister Mohsen Paknejad in India for BRICS Energy ministers meet</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "US Trade Representative Ambassador Jamieson says we expect India, US relations to \"continue developing\"",
+      "link": "https://nitter.net/sidhant/status/2069824947204268449#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-24T22:18:17+05:30",
+      "time": "24 Jun, 10:18 PM",
+      "type": "tweets",
+      "content": "<p>US Trade Representative Ambassador Jamieson says we expect India, US relations to \"continue developing\"</p>\n<a href=\"https://nitter.net/sidhant/status/2069824947204268449#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069770171514814465%2Fimg%2FVlFi5126_I6veLEA.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "So essentially, nothing has changed since yesterday, and the whole DefTwitter was in a rage throughout the day because of engines. \ud83d\ude05 Guys who drink, go get yourself a beer. And my kind of guys, take a cold shower and say, \u201cAll IZZ Well.\u201d Have a green tea\ud83d\ude02",
       "link": "https://nitter.net/alpha_defense/status/2069820213248544928#m",
@@ -1055,16 +1108,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "In South Korea, EAM Jaishankar meets Director of National Security Wi Sung-lac. Pic: India on RoK",
-      "link": "https://nitter.net/sidhant/status/2069742454824423883#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-24T16:50:29+05:30",
-      "time": "24 Jun, 04:50 PM",
-      "type": "tweets",
-      "content": "<p>In South Korea, EAM Jaishankar meets Director of National Security Wi Sung-lac. <br />\n<br />\nPic: India on RoK</p>\n<img src=\"https://nitter.net/pic/media%2FHLkzygkaQAA39wJ.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "India is exploring joint engine development with France's Safran and the UK's Rolls-Royce for the AMCA fighter project. This shift comes after commercial talks with US-based General Electric (GE) hit a major roadblock over surging cost demands (nearly 300% higher than early estimates) and restrictive technology transfer terms.",
       "link": "https://nitter.net/NetramDefence/status/2069742155367862381#m",
       "source": "Netram Defense",
@@ -1085,16 +1128,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "MEA to organise Human Resource Mobility Forum next week to bring togther industry, foreign employers. Germany, Italy, Japan, Russia, Denmark are the focus countries. It will happen on 30th June.",
-      "link": "https://nitter.net/sidhant/status/2069736276912439335#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-24T16:25:56+05:30",
-      "time": "24 Jun, 04:25 PM",
-      "type": "tweets",
-      "content": "<p>MEA to organise Human Resource Mobility Forum next week to bring togther industry, foreign employers. Germany, Italy, Japan, Russia, Denmark are the focus countries. It will happen on 30th June.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "HAL has successfully handed over the 1000th Repaired and Overhauled (ROH) AL-31FP engine to the Indian Air Force (IAF) on 23rd June 2026.",
       "link": "https://nitter.net/alpha_defense/status/2069734239797690395#m",
       "source": "Alpha Defense",
@@ -1103,26 +1136,6 @@
       "type": "tweets",
       "content": "<p>HAL has successfully handed over the 1000th Repaired and Overhauled (ROH) AL-31FP engine to the Indian Air Force (IAF) on 23rd June 2026.</p>\n<img src=\"https://nitter.net/pic/media%2FHLksT7cXIAEPauf.png\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "For Indians: 27 countries: Visa free entry 47 countries: Visa on arrival 66 countries: Electronic e-visa",
-      "link": "https://nitter.net/sidhant/status/2069733748850204884#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-24T16:15:54+05:30",
-      "time": "24 Jun, 04:15 PM",
-      "type": "tweets",
-      "content": "<p>For Indians:<br />\n<br />\n27 countries: Visa free entry<br />\n47 countries: Visa on arrival<br />\n66 countries: Electronic e-visa</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Passport is a travel document, not document of citizenship, say MEA officials",
-      "link": "https://nitter.net/sidhant/status/2069732653893587256#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-24T16:11:33+05:30",
-      "time": "24 Jun, 04:11 PM",
-      "type": "tweets",
-      "content": "<p>Passport is a travel document, not document of citizenship, say MEA officials</p>",
-      "author": "@sidhant"
     },
     {
       "title": "HAL has successfully handed over the 1000th Repaired & Overhauled(#ROH) AL-31FP engine to the Indian Air Force. Powering the Su-30MKI fleet, the milestone highlights HAL Koraput's growing MRO capabilities, with annual overhaul capacity now exceeding 100 engines.",
@@ -1603,29 +1616,27 @@
       "type": "tweets",
       "content": "<p>Interesting detail from the IAF\u2019s June 2026 Rafale sustainment RFP.<br />\n<br />\nWhile ISPR claimed that 3 Rafales were shot down, Air Headquarters is seeking bridge support for a fleet of 36 Rafale aircraft, the same number India originally procured.<br />\n<br />\nTo make it more interesting, we\u2019ve already seen at least two Rafale tail numbers that Pakistani accounts had claimed were \u201cshot down\u201d flying afterward.</p>\n<img src=\"https://nitter.net/pic/media%2FHLeUmrMa4AAkBHa.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "\u2018Won't return to pre-war conditions\u2019: Iran says Hormuz will be administered by them Iran's chief negotiator and parliamentary speaker Mohammad Bagher Ghalibaf on Tuesday said the Strait of Hormuz would remain under Tehran's administration and would not return to its pre-war status. Ghalibaf stated that \"the Strait of Hormuz will never return to its pre-war conditions and will be administered by the Islamic Republic of Iran,\u201d AFP reported.",
-      "link": "https://nitter.net/NetramDefence/status/2069263696170491922#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-23T09:08:04+05:30",
-      "time": "23 Jun, 09:08 AM",
-      "type": "tweets",
-      "content": "<p>\u2018Won't return to pre-war conditions\u2019: Iran says Hormuz will be administered by them<br />\n<br />\nIran's chief negotiator and parliamentary speaker Mohammad Bagher Ghalibaf on Tuesday said the Strait of Hormuz would remain under Tehran's administration and would not return to its pre-war status.<br />\n<br />\nGhalibaf stated that \"the Strait of Hormuz will never return to its pre-war conditions and will be administered by the Islamic Republic of Iran,\u201d AFP reported.</p>\n<img src=\"https://nitter.net/pic/media%2FHLeAWw5aUAAmkKX.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "For more than a week, I\u2019ve been sitting on this because the same people have spent years branding anyone who asks questions for a better IAF as \u201canti-Rafale\u201d and, at times, even \u201canti-Air Force.\u201d Yes, the Rafale engine PBL has expired. A bridge arrangement is being signed while a larger contract is negotiated and the entire PBL framework is renegotiated. But now that this document is all over the place, there\u2019s no point pretending otherwise.",
-      "link": "https://nitter.net/alpha_defense/status/2069107619068068172#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-22T22:47:53+05:30",
-      "time": "22 Jun, 10:47 PM",
-      "type": "tweets",
-      "content": "<p>For more than a week, I\u2019ve been sitting on this because the same people have spent years branding anyone who asks questions for a better IAF as \u201canti-Rafale\u201d and, at times, even \u201canti-Air Force.\u201d<br />\n<br />\nYes, the Rafale engine PBL has expired. A bridge arrangement is being signed while a larger contract is negotiated and the entire PBL framework is renegotiated.<br />\n<br />\nBut now that this document is all over the place, there\u2019s no point pretending otherwise.</p>\n<img src=\"https://nitter.net/pic/media%2FHLbyaBnaYAAFG8X.jpg\" />",
-      "author": "@alpha_defense"
     }
   ],
   "youtube": [
+    {
+      "title": "AMCA Engine BREAKTHROUGH! , Astra Mk-3 Will Shock China , FUFA Fighter Drone Revealed",
+      "link": "https://www.youtube.com/watch?v=jfzQ3mRYo84",
+      "source": "Indian Defense News",
+      "sort_key": "2026-06-24T23:07:46+05:30",
+      "time": "24 Jun, 11:07 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/jfzQ3mRYo84/mqdefault.jpg"
+    },
+    {
+      "title": "Dark Cloud on AMCA Manufacturing",
+      "link": "https://www.youtube.com/watch?v=HbbEHKfP07s",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-24T22:32:03+05:30",
+      "time": "24 Jun, 10:32 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/HbbEHKfP07s/mqdefault.jpg"
+    },
     {
       "title": "Defence Updates - India New AI-Pilot Aircraft, US 3x Increase Engine Price, SSS Defence Combat Rifle",
       "link": "https://www.youtube.com/watch?v=t__YqPoW6IE",
@@ -1697,18 +1708,9 @@
       "time": "23 Jun, 05:37 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/o42NXUk2sSA/mqdefault.jpg"
-    },
-    {
-      "title": "BIG PLAN EXPOSED \ud83d\ude31 T-72 Robot Tank , BrahMos Export To UAE , A-100 AWACS for IAF,IAf 6th gen Ready",
-      "link": "https://www.youtube.com/watch?v=lkRxyGMAbwg",
-      "source": "Indian Defense News",
-      "sort_key": "2026-06-22T22:35:59+05:30",
-      "time": "22 Jun, 10:35 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/lkRxyGMAbwg/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
