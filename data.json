@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Enhanced aircraft and engine health monitoring debuts on Bombardier\u2019s Global 5500 and 6500 business aircraft",
+      "link": "https://www.indiastrategic.in/enhanced-aircraft-and-engine-health-monitoring-debuts-on-bombardiers-global-5500-and-6500-business-aircraft/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-25T20:07:54+05:30",
+      "time": "25 Jun, 08:07 PM",
+      "type": "news",
+      "description": "<p>Rolls-Royce on June 25, 2026 announces the launch of an advanced aircraft and engine health monitoring programme for Bombardier Global 5500 and Glo..."
+    },
+    {
+      "title": "Venezuela\u2019s acting President Delcy Rodr\u00edguez acknowledges India\u2019s solidarity after earthquakes",
+      "link": "https://newsonair.gov.in/venezuelas-acting-president-delcy-rodriguez-acknowledges-indias-solidarity-after-earthquakes/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-25T19:34:21+05:30",
+      "time": "25 Jun, 07:34 PM",
+      "type": "news",
+      "description": "Acting President of Venezuela, Delcy Rodriguez, has acknowledged the solidarity expressed by India in the aftermath of the earthquakes, saying it is i..."
+    },
+    {
+      "title": "Ukrainian President Zelenskyy says Russia is moving its air defences to protect prime targets",
+      "link": "https://newsonair.gov.in/ukrainian-president-zelenskyy-says-russia-is-moving-its-air-defences-to-protect-prime-targets/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-25T19:30:12+05:30",
+      "time": "25 Jun, 07:30 PM",
+      "type": "news",
+      "description": "Ukrainian President Volodymyr Zelenskyy says Russia is moving a significant part of its air defences to protect a handful of prime targets, including ..."
+    },
+    {
+      "title": "India's future security to be shaped by AI, quantum tech: Jitendra Singh",
+      "link": "https://www.newindianexpress.com/india/2026/Jun/25/indias-future-security-to-be-shaped-by-ai-quantum-tech-jitendra-singh",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-25T19:27:48+05:30",
+      "time": "25 Jun, 07:27 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "DRDO hands over Final Operational Clearance for indigenous Netra AEW&C system to IAF",
       "link": "https://www.indiastrategic.in/drdo-hands-over-final-operational-clearance-for-indigenous-netra-aewc-system-to-iaf/",
       "source": "India Strategic",
@@ -244,15 +280,6 @@
       "description": "In the United Kingdom, Keir Starmer will continue his term as Labour Party member of Parliament for Holborn and St Pancras in London. A Downing Street..."
     },
     {
-      "title": "Vice President, PM Modi express sorrow over devastation caused by Venezuela earthquakes",
-      "link": "https://newsonair.gov.in/pm-modi-expresses-sorrow-over-devastation-caused-by-earthquakes-in-venezuela/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-25T11:29:32+05:30",
-      "time": "25 Jun, 11:29 AM",
-      "type": "news",
-      "description": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have expressed sorrow over the devastation caused by the severe earthquakes in Venez..."
-    },
-    {
       "title": "US defence firm Anduril in talks for Nissan plant to build drones in Japan, sources say",
       "link": "https://economictimes.indiatimes.com/news/defence/us-defence-firm-anduril-in-talks-for-nissan-plant-to-build-drones-in-japan-sources-say/articleshow/131983663.cms",
       "source": "Economic Times",
@@ -334,15 +361,6 @@
       "description": ""
     },
     {
-      "title": "Venezuela declares state of emergency after back-to-back earthquakes of 7.2 and 7.5 magnitude",
-      "link": "https://newsonair.gov.in/venezuela-declares-state-of-emergency-after-back-to-back-earthquakes-of-7-2-and-7-5-magnitude/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-25T09:53:23+05:30",
-      "time": "25 Jun, 09:53 AM",
-      "type": "news",
-      "description": "Venezuelan President Delcy Rodr\u00edguez has declared a state of emergency in the country following back-to-back earthquakes of magnitudes 7.2 and 7.5, wh..."
-    },
-    {
       "title": "US to move forward with Turkey jet engine sales ahead of NATO summit, sources say",
       "link": "https://economictimes.indiatimes.com/news/defence/us-to-move-forward-with-turkey-jet-engine-sales-ahead-of-nato-summit-sources-say/articleshow/131982029.cms",
       "source": "Economic Times",
@@ -415,15 +433,6 @@
       "description": ""
     },
     {
-      "title": "Flying Wedge Defence Unveils India\u2019s First AI-Piloted Fighter Jet Concept; Introduces Mobbing Doctrine for Future Air Combat",
-      "link": "https://www.indiastrategic.in/flying-wedge-defence-unveils-indias-first-ai-piloted-fighter-jet-concept-introduces-mobbing-doctrine-for-future-air-combat/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-24T21:01:03+05:30",
-      "time": "24 Jun, 09:01 PM",
-      "type": "news",
-      "description": "<p>India enters the global AI fighter race, joins top 3 nations, including the United States, Turkey, and Germany FWDA targets the maiden flight of it..."
-    },
-    {
       "title": "Top army officers brief parliamentary panel on country's defence",
       "link": "https://economictimes.indiatimes.com/news/defence/top-army-officers-brief-parliamentary-panel-on-countrys-defence/articleshow/131971312.cms",
       "source": "Economic Times",
@@ -431,6 +440,24 @@
       "time": "24 Jun, 08:58 PM",
       "type": "news",
       "description": "Top Army brass, led by Chief of Defence Staff General N S Raja Subramani, assured a parliamentary panel of robust defense strategies. Forces are adequ..."
+    },
+    {
+      "title": "Bharat Dynamics bags Rs 1,348 crore order from HAL",
+      "link": "https://defencemonitor.in/bharat-dynamics-bags-rs-1348-crore-order-from-hal/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-24T17:19:54+05:30",
+      "time": "24 Jun, 05:19 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 24 (IANS) Bharat Dynamics has won an order worth Rs 1,347.71 crore from Hindustan Aeronautics Limited (HAL) for the manufacture of ..."
+    },
+    {
+      "title": "SAIL supplied 5,700 tonnes of special steel for three newly commissioned Indian Navy ships",
+      "link": "https://defencemonitor.in/sail-supplied-5700-tonnes-of-special-steel-for-three-newly-commissioned-indian-navy-ships/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-24T17:18:53+05:30",
+      "time": "24 Jun, 05:18 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 24 (IANS) State-run Maharatna steel giant SAIL on Wednesday said it supplied 5,700 tonnes of special steel for three recently commi..."
     },
     {
       "title": "Indian-origin CEOs leading global companies in 2026: Kunal Shah, Sundar Pichai, Satya Nadella, Neal Mohan and more",
@@ -620,18 +647,49 @@
       "time": "23 Jun, 09:10 PM",
       "type": "news",
       "description": "Karnataka is spearheading efforts to bolster India's defence manufacturing capabilities with a proposed long-term policy, a dedicated single-window fa..."
-    },
-    {
-      "title": "After BrahMos, India may have found its next military bestseller",
-      "link": "https://economictimes.indiatimes.com/news/defence/after-brahmos-india-may-have-found-its-next-military-bestseller/articleshow/131940204.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-23T19:31:33+05:30",
-      "time": "23 Jun, 07:31 PM",
-      "type": "news",
-      "description": "India\u2019s defence export story, long centred on the BrahMos supersonic missile, may be expanding to include a new system gaining global attention. Repor..."
     }
   ],
   "tweets": [
+    {
+      "title": "India\u2019s newly appointed High Commissioner to Bangladesh, Dinesh Trivedi at India Visa Application Center India has announced re start of tourists visa facilities in the country, that came to a halt during Yunus term due to attack on Indian missions. Pic: India in Bangladesh",
+      "link": "https://nitter.net/sidhant/status/2070155323495870787#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-25T20:11:05+05:30",
+      "time": "25 Jun, 08:11 PM",
+      "type": "tweets",
+      "content": "<p>India\u2019s newly appointed High Commissioner to Bangladesh, Dinesh Trivedi at India Visa Application Center<br />\n<br />\nIndia has announced re start of tourists visa facilities in the country, that came to a halt during Yunus term due to attack on Indian missions. <br />\n<br />\nPic: India in Bangladesh</p>\n<img src=\"https://nitter.net/pic/media%2FHLqrGKTagAAVsBv.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "",
+      "link": "https://nitter.net/notam_in/status/2070155252868042860#m",
+      "source": "Notam India",
+      "sort_key": "2026-06-25T20:10:48+05:30",
+      "time": "25 Jun, 08:10 PM",
+      "type": "tweets",
+      "content": "<hr />\n<blockquote>\n<b>NOTAM INDIA \ud83c\uddee\ud83c\uddf3 (@notam_in)</b>\n<p>\n<p>**Date Extended**<br />\nIndia Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.    From:27/06/2026 , 10:00 IST  <br />\nUntil:05/07/2026 , 16:30 IST  <br />\nV-Limit:Surface-Unlimited</p>\n<img src=\"https://nitter.net/pic/media%2FHLqq6UpbMAAUWO1.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/notam_in/status/2070155183901020594#m\">https://nitter.net/notam_in/status/2070155183901020594#m</a>\n</footer>\n</blockquote>",
+      "author": "@notam_in"
+    },
+    {
+      "title": "**Date Extended** India Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region. From:27/06/2026 , 10:00 IST Until:05/07/2026 , 16:30 IST V-Limit:Surface-Unlimited",
+      "link": "https://nitter.net/notam_in/status/2070155183901020594#m",
+      "source": "Notam India",
+      "sort_key": "2026-06-25T20:10:32+05:30",
+      "time": "25 Jun, 08:10 PM",
+      "type": "tweets",
+      "content": "<p>**Date Extended**<br />\nIndia Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.    From:27/06/2026 , 10:00 IST  <br />\nUntil:05/07/2026 , 16:30 IST  <br />\nV-Limit:Surface-Unlimited</p>\n<img src=\"https://nitter.net/pic/media%2FHLqq6UpbMAAUWO1.jpg\" />\n\n<hr />\n<blockquote>\n<b>NOTAM INDIA \ud83c\uddee\ud83c\uddf3 (@notam_in)</b>\n<p>\n<p>India Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.  <br />\n<br />\nFrom:22/06/2026 , 10:00 IST <br />\nUntil:26/06/2026 , 16:30 IST <br />\nV-Limit:Surface-Unlimited<br />\n<br />\n**Sorry for late update\ud83d\ude4f</p>\n<img src=\"https://nitter.net/pic/media%2FHLbnYPhbIAAZoEF.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/notam_in/status/2069095860580053484#m\">https://nitter.net/notam_in/status/2069095860580053484#m</a>\n</footer>\n</blockquote>",
+      "author": "@notam_in"
+    },
+    {
+      "title": "Watch: India's New High Commissioner Dinesh Trivedi @DinTri announces\u00a0the start of issuance of Indian tourists visas in Bangladesh from 28th June. Says, \"hope\u00a0that this will further strengthen the people-to-people ties\". First act after presenting credentials.",
+      "link": "https://nitter.net/sidhant/status/2070142062595612913#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-25T19:18:23+05:30",
+      "time": "25 Jun, 07:18 PM",
+      "type": "tweets",
+      "content": "<p>Watch: India's New High Commissioner Dinesh Trivedi <a href=\"https://nitter.net/DinTri\" title=\"Dinesh Trivedi\">@DinTri</a> announces\u00a0the start of issuance of Indian tourists visas in Bangladesh from 28th June.<br />\n<br />\nSays, \"hope\u00a0that this will further strengthen the people-to-people ties\". <br />\n<br />\nFirst act after presenting credentials.</p>\n<a href=\"https://nitter.net/sidhant/status/2070142062595612913#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070141598109929472%2Fpu%2Fimg%2Fnncp_CNL4iAT5Ry1.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India's new high commissioner designate to Bangladesh <a href=\"https://nitter.net/DinTri\" title=\"Dinesh Trivedi\">@DinTri</a> Dinesh Trivedi will present his credentials on Thursday in Dhaka</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2069433092163645580#m\">https://nitter.net/sidhant/status/2069433092163645580#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "R to @DefenceDecode: ceremony*",
       "link": "https://nitter.net/DefenceDecode/status/2070139881721118932#m",
@@ -661,16 +719,6 @@
       "type": "tweets",
       "content": "<p>From IOC in 2017 to formal FOC in 2026 - the indigenous <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Netra\">#Netra</a> AEW&amp;C has reached full operational maturity. A proud achievement for DRDO, IAF and Indian industry, enhancing the nation\u2019s airborne surveillance, battle management and situational awareness capabilities.</p>\n<img src=\"https://nitter.net/pic/media%2FHLqap6_boAALMHp.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "Kishtwar Incident: Absolutely no reason to believe that an institution like Army may have exercised overreach.Seen both institutions closely . Such incidents should not happen often.Synergy between Civil administration and military is essential in sensitive sectors like Kishtwar.",
-      "link": "https://nitter.net/AngryRumi7/status/2070136531571097726#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-06-25T18:56:25+05:30",
-      "time": "25 Jun, 06:56 PM",
-      "type": "tweets",
-      "content": "<p>Kishtwar Incident: Absolutely no reason to believe that an institution like Army may have exercised overreach.Seen both institutions closely . Such incidents should not happen often.Synergy between Civil administration and military is essential in sensitive sectors like Kishtwar.</p>",
-      "author": "@AngryRumi7"
     },
     {
       "title": "India govt restores non-domestic and commercial LPG supplies to pre-West Asia crisis levels; lifts all sectoral restrictions and partially easing bulk LPG curbs.",
@@ -1003,16 +1051,6 @@
       "author": "@KangleipakDaily"
     },
     {
-      "title": "Venezuela acting President Delcy Rodriguez thanks PM Modi for words of support, assistance offer post massive earthquake.",
-      "link": "https://nitter.net/sidhant/status/2070033849686634805#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T12:08:23+05:30",
-      "time": "25 Jun, 12:08 PM",
-      "type": "tweets",
-      "content": "<p>Venezuela acting President Delcy Rodriguez thanks PM Modi for words of support, assistance offer post massive earthquake.</p>\n<img src=\"https://nitter.net/pic/media%2FHLo80QmbgAAykaD.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "India should launch four parallel jet engine programs: 85\u201390 kN class engine in the F404 size category for future light fighters and trainers.(Re Engine of LCA Mk1A) 100\u2013110 kN class engine in the F414 size category for Tejas Mk2 and related platforms. 110\u2013120 kN class engine for AMCA Mk2 and future medium-weight combat aircraft. 150 kN class engine for the Su-30MKI upgrade program and future heavy combat aircraft. Each program could collaborate with an international engine manufacturer at the project level.",
       "link": "https://nitter.net/alpha_defense/status/2070031179819131137#m",
       "source": "Alpha Defense",
@@ -1021,16 +1059,6 @@
       "type": "tweets",
       "content": "<p>India should launch four parallel jet engine programs:<br />\n<br />\n85\u201390 kN class engine in the F404 size category for future light fighters and trainers.(Re Engine of LCA Mk1A)<br />\n<br />\n100\u2013110 kN class engine in the F414 size category for Tejas Mk2 and related platforms.<br />\n<br />\n110\u2013120 kN class engine for AMCA Mk2 and future medium-weight combat aircraft.<br />\n<br />\n150 kN class engine for the Su-30MKI upgrade program and future heavy combat aircraft.<br />\n<br />\nEach program could collaborate with an international engine manufacturer at the project level.</p>\n<img src=\"https://nitter.net/pic/media%2FHLo6X-fbcAAFRHk.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Iran's petroleum minister Mohsen Paknejad addresses BRICS Energy meet in India.",
-      "link": "https://nitter.net/sidhant/status/2070028003577602347#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T11:45:09+05:30",
-      "time": "25 Jun, 11:45 AM",
-      "type": "tweets",
-      "content": "<p>Iran's petroleum minister Mohsen Paknejad addresses BRICS Energy meet in India.</p>\n<img src=\"https://nitter.net/pic/media%2FHLoujXtbQAAWKwt.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLoujXlaIAAyMIT.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLoujYpbAAAdHpc.jpg\" />\n\n<a href=\"https://nitter.net/sidhant/status/2070028003577602347#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070018168811397120%2Fpu%2Fimg%2FoHciKLiJDLGWZdYe.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "Oil tanker rates surge as Hormuz reopens Shipping costs are hitting record highs as producers rush to export crude after a ceasefire. One supertanker was booked for nearly nine times the usual rate to move oil from the Persian Gulf to India.",
@@ -1521,19 +1549,18 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 Official IAF Records Sink Pakistan's Rafale Claims<br />\n<br />\n\ud83d\udccd Pakistan's claims of multiple Rafale losses during Operation Sindoor have been contradicted by official Indian Air Force records.<br />\n<br />\n\ud83d\udccd An Air Headquarters Request for Proposal (RFP), accessed through a \"Reply to Request for Information under the RTI Act, 2005\", confirms that all 36 Rafale fighter jets inducted by the IAF remain operational.<br />\n<br />\n\ud83d\udccd The fleet strength was recorded at 36 aircraft as of June 18, 2026.<br />\n<br />\n\ud83d\udccd The disclosure effectively dismantles months of claims and propaganda surrounding alleged Rafale losses.<br />\n<br />\n\ud83d\udccd India inducted all 36 Rafales between 2020 and 2022.<br />\n<br />\n\ud83d\udccd The aircraft are currently operated by No. 17 Squadron \"Golden Arrows\" at Ambala and No. 101 Squadron \"Falcons\" at Hasimara.</p>\n<img src=\"https://nitter.net/pic/media%2FHLghvBta8AEBNRY.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @OsintTV: Shadows in the sky. One mission. The goddamn Indian Air Force soaring above the skies of Kashmir , vigilant, resolute, and always ready. The guardians of our airspace, the protectors of the nation from above. Proud of the IAF. \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2069427827385229707#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-23T20:00:16+05:30",
-      "time": "23 Jun, 08:00 PM",
-      "type": "tweets",
-      "content": "<p>Shadows in the sky. One mission.<br />\n<br />\nThe goddamn Indian Air Force soaring above the skies of Kashmir , vigilant, resolute, and always ready. The guardians of our airspace, the protectors of the nation from above.<br />\n<br />\nProud of the IAF. \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2069427827385229707#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069427755801100290%2Fimg%2FRegwwS7OO6O7kWQc.jpg\" />\n</a>",
-      "author": "@MikeLimaBravo12"
     }
   ],
   "youtube": [
+    {
+      "title": "Tejas Mk2 : PV1 Details & Update",
+      "link": "https://www.youtube.com/watch?v=FWIjbUHo3To",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-25T19:28:31+05:30",
+      "time": "25 Jun, 07:28 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/FWIjbUHo3To/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : US F-414 Deadlock,800 Km Golden Horizon Deal,RR 140 kN Engine Big Offer",
       "link": "https://www.youtube.com/watch?v=mjP5ZF4uNWc",
@@ -1617,6 +1644,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 PM IST"
+    "last_updated": "08:24 PM IST"
   }
 }
