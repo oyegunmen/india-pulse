@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon",
+      "link": "https://economictimes.indiatimes.com/news/defence/israel-lebanon-deny-that-israel-has-withdrawn-from-part-of-southern-lebanon/articleshow/131989394.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-25T15:00:53+05:30",
+      "time": "25 Jun, 03:00 PM",
+      "type": "news",
+      "description": "Senior Israeli and Lebanese officials have refuted claims of an Israeli troop withdrawal from southern Lebanon, contradicting a U.S. official's statem..."
+    },
+    {
+      "title": "GE engine costs complicate India\u2019s AMCA prototype development plans",
+      "link": "https://www.indiastrategic.in/ge-engine-costs-complicate-indias-amca-prototype-development-plans/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-25T14:44:48+05:30",
+      "time": "25 Jun, 02:44 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 25. India\u2019s plans to develop its indigenous fifth-generation Advanced Medium Combat Aircraft (AMCA) have run into a challenge after..."
+    },
+    {
+      "title": "UAE\u2019s first passenger train ticket sold out ahead of launch: How Indian tourists can travel from Abu Dhabi to Fujairah",
+      "link": "https://indianexpress.com/article/world/uae-first-passenger-train-ticket-sold-out-abu-dhabi-fujairah-travel-guide-indian-tourists-10756665/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-25T14:23:58+05:30",
+      "time": "25 Jun, 02:23 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "US Senators question Qatar, Pakistan role in Iran ceasefire talks, allege support for terrorism",
       "link": "https://newsonair.gov.in/us-senators-question-qatar-pakistan-role-in-iran-ceasefire-talks-allege-support-for-terrorism/",
       "source": "All India Radio",
@@ -8,6 +35,15 @@
       "time": "25 Jun, 02:02 PM",
       "type": "news",
       "description": "Two US Senators, both from the Republican Party, have raised questions over the involvement of Qatar and Pakistan as intermediaries in the ceasefire n..."
+    },
+    {
+      "title": "IAF\u2019s 40 Sukhoi fighters now armed with BrahMos missiles: Aerospace co-director",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/iafs-40-sukhoi-fighters-now-armed-with-brahmos-missiles-aerospace-co-director/131988236",
+      "source": "Economic Times",
+      "sort_key": "2026-06-25T14:00:15+05:30",
+      "time": "25 Jun, 02:00 PM",
+      "type": "news",
+      "description": "The Russian-Indian BrahMos project was launched in 1998, with serial deliveries commencing in 2024."
     },
     {
       "title": "EAM Dr S Jaishankar calls for stronger collaboration amid global challenges at Jeju Forum in South Korea",
@@ -262,22 +298,13 @@
       "description": "In Venezuela, a powerful earthquake of magnitude 7.5 hit Yumare town in the state of Yaracuy this morning. According to the US Geological Survey, this..."
     },
     {
-      "title": "Lockheed Martin gets $35 billion US deal to boost THAAD production",
+      "title": "Lockheed Martin gets $35 billion Thaad deal as Trump looks to stockpile weapons",
       "link": "https://economictimes.indiatimes.com/news/defence/lockheed-martin-gets-35-billion-us-deal-to-boost-thaad-production-donald-trump-boeing/articleshow/131980427.cms",
       "source": "Economic Times",
       "sort_key": "2026-06-25T07:44:44+05:30",
       "time": "25 Jun, 07:44 AM",
       "type": "news",
       "description": "President Trump is convening with top defense executives to accelerate weapons production, addressing depleted U.S. stockpiles after extensive militar..."
-    },
-    {
-      "title": "Air India Delhi-Amritsar flight strays into Pakistan airspace",
-      "link": "https://www.tribuneindia.com/news/top-headlines/air-india-delhi-amritsar-flight-strays-into-pakistan-airspace",
-      "source": "The Tribune",
-      "sort_key": "2026-06-25T01:14:47+05:30",
-      "time": "25 Jun, 01:14 AM",
-      "type": "news",
-      "description": "An Air India Delhi-Amritsar flight briefly entered Pakistan\u2019s airspace during its approach to the border city on Monday night, prompting the Directora..."
     },
     {
       "title": "Draft National Food Security (Amendment) Bill mulls 7 kg grain per person, caps family quota at 35 kg",
@@ -370,33 +397,6 @@
       "description": "<p>New Delhi, June 24. Indian Naval Ships Udaygiri and Kavaratti on June 24 departed Ho Chi Minh City after completing a port call in Vietnam as part ..."
     },
     {
-      "title": "Air India Delhi-Amritsar flight briefly enters Pakistani airspace during go-around, probe on",
-      "link": "https://www.indiatvnews.com/news/india/air-india-delhi-amritsar-flight-briefly-enters-pakistani-airspace-during-go-around-probe-on-latest-updates-2026-06-24-1046003",
-      "source": "India TV",
-      "sort_key": "2026-06-24T19:22:42+05:30",
-      "time": "24 Jun, 07:22 PM",
-      "type": "news",
-      "description": "An Air India flight from Delhi to Amritsar briefly entered Pakistani airspace while performing a go-around manoeuvre at Sri Guru Ram Dass Jee Internat..."
-    },
-    {
-      "title": "Bharat Dynamics bags Rs 1,348 crore order from HAL",
-      "link": "https://defencemonitor.in/bharat-dynamics-bags-rs-1348-crore-order-from-hal/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-24T17:19:54+05:30",
-      "time": "24 Jun, 05:19 PM",
-      "type": "news",
-      "description": "<p>New Delhi, June 24 (IANS) Bharat Dynamics has won an order worth Rs 1,347.71 crore from Hindustan Aeronautics Limited (HAL) for the manufacture of ..."
-    },
-    {
-      "title": "SAIL supplied 5,700 tonnes of special steel for three newly commissioned Indian Navy ships",
-      "link": "https://defencemonitor.in/sail-supplied-5700-tonnes-of-special-steel-for-three-newly-commissioned-indian-navy-ships/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-24T17:18:53+05:30",
-      "time": "24 Jun, 05:18 PM",
-      "type": "news",
-      "description": "<p>New Delhi, June 24 (IANS) State-run Maharatna steel giant SAIL on Wednesday said it supplied 5,700 tonnes of special steel for three recently commi..."
-    },
-    {
       "title": "Indian-origin CEOs leading global companies in 2026: Kunal Shah, Sundar Pichai, Satya Nadella, Neal Mohan and more",
       "link": "https://indianexpress.com/article/world/kunal-shah-whatsapp-ceo-meta-cred-investment-indian-origin-global-ceos-satya-nadella-microsoft-sundar-pichai-alphabet-neal-mohan-youtube-raj-subramaniam-fedex-arvind-krishna-ibm-nikesh-arora-p-1075471-10754711/",
       "source": "The Indian Express",
@@ -467,15 +467,6 @@
       "time": "24 Jun, 03:38 PM",
       "type": "news",
       "description": "As an alternative, it aims \u200cto buy 8 MEKO \u200bfrigates, \u200bprimarily for \u2060anti-submarine warfare, the ministry said in \u200ba statement."
-    },
-    {
-      "title": "Belgium takes delivery of first Airbus H145M helicopter",
-      "link": "https://www.indiastrategic.in/belgium-takes-delivery-of-first-airbus-h145m-helicopter/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-24T15:36:42+05:30",
-      "time": "24 Jun, 03:36 PM",
-      "type": "news",
-      "description": "<p>Donauw\u00f6rth, Germany, June 24, 2026. Airbus Helicopters has delivered the first H145M helicopter to the Kingdom of Belgium, marking a major mileston..."
     },
     {
       "title": "Bharat Dynamics bags \u20b91,347 crore orders from HAL",
@@ -685,42 +676,6 @@
       "description": "US President Donald Trump announced that Iran has agreed to the highest level of nuclear inspections indefinitely, ensuring \"nuclear honesty.\" He stat..."
     },
     {
-      "title": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e-\u0908\u0930\u093e\u0928 \u2018\u0905\u0928\u093f\u0930\u094d\u0923\u0940\u0924\u2019 \u092f\u0941\u0926\u094d\u0927",
-      "link": "https://defencemonitor.in/us-iran-inconclusive-war/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-23T16:51:53+05:30",
-      "time": "23 Jun, 04:51 PM",
-      "type": "news",
-      "description": "<p>\u092a\u0936\u094d\u091a\u093f\u092e \u090f\u0936\u093f\u092f\u093e \u0915\u0940 \u0932\u0921\u093c\u093e\u0908 \u0915\u094b \u0924\u0940\u0928 \u092e\u0939\u0940\u0928\u0947 \u092a\u0942\u0930\u0947 \u0939\u094b \u0917\u090f \u0939\u0948\u0902, \u0914\u0930 \u0935\u0939 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0916\u0924\u094d\u092e \u0939\u094b\u0928\u0947 \u0915\u093e \u0928\u093e\u092e \u0928\u0939\u0940\u0902 \u0932\u0947 \u0930\u0939\u0940 \u0939\u0948\u0964 \u090f\u0915 \u092e\u0939\u0940\u0928\u0947 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u091a\u0932\u0940 \u0924\u093e\u092c\u0921\u093c\u0924\u094b\u0921\u093c \u092c\u092e\u092c\u093e\u0930\u0940 \u0938\u0947 \u0907\u0938 \u0907\u0932..."
-    },
-    {
-      "title": "\u090f\u0915 \u0938\u093e\u0925 \u0905\u0928\u0947\u0915 \u0932\u0915\u094d\u0937\u094d\u092f\u094b\u0902 \u092a\u0930 \u092e\u093e\u0930 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0940  \u0909\u0928\u094d\u0928\u0924 \u0905\u0917\u094d\u0928\u093f \u092e\u093f\u0938\u093e\u0907\u0932 \u0915\u093e \u0938\u092b\u0932 \u092a\u0930\u0940\u0915\u094d\u0937\u0923",
-      "link": "https://defencemonitor.in/successful-test-of-the-advanced-agni-missile-capable-of-engaging-multiple-targets-simultaneously/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-23T16:50:01+05:30",
-      "time": "23 Jun, 04:50 PM",
-      "type": "news",
-      "description": "<p>\u092d\u093e\u0930\u0924 \u0928\u0947 \u0917\u0924 8 \u092e\u0908 \u0915\u094b \u0913\u0921\u093f\u0936\u093e \u0915\u0947 \u0921\u0949 \u090f\u092a\u0940\u091c\u0947 \u0905\u092c\u094d\u0926\u0941\u0932 \u0915\u0932\u093e\u092e \u0926\u094d\u0935\u0940\u092a \u0938\u0947 \u092e\u0932\u094d\u091f\u0940\u092a\u0932 \u0907\u0902\u0921\u093f\u092a\u0947\u0902\u0921\u0947\u0902\u091f\u0932\u0940 \u091f\u093e\u0930\u094d\u0917\u0947\u091f\u0947\u0921 \u0930\u0940-\u090f\u0902\u091f\u094d\u0930\u0940 \u0935\u0947\u0939\u093f\u0915\u0932 (\u090f\u092e\u0906\u0908\u0906\u0930\u0935\u0940) \u092a\u094d\u0930\u0923\u093e\u0932\u0940 \u0938\u0947 \u0932\u0948\u0938 \u0909\u0928\u094d\u0928\u0924 \u0905\u0917\u094d\u0928\u093f \u092e\u093f..."
-    },
-    {
-      "title": "India, UK hold 15th ESG talks to deepen defence cooperation",
-      "link": "https://defencemonitor.in/india-uk-hold-15th-esg-talks-to-deepen-defence-cooperation/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-23T16:46:46+05:30",
-      "time": "23 Jun, 04:46 PM",
-      "type": "news",
-      "description": "<p>London, June 23 (IANS) India and the United Kingdom held the 15th Executive Steering Group (ESG) meeting in London, discussing ways to enhance defe..."
-    },
-    {
-      "title": "Security agencies flag Hamas attempt to expand South Asian network through regional tie-ups",
-      "link": "https://defencemonitor.in/security-agencies-flag-hamas-attempt-to-expand-south-asian-network-through-regional-tie-ups/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-06-23T16:44:40+05:30",
-      "time": "23 Jun, 04:44 PM",
-      "type": "news",
-      "description": "<p>New Delhi, June 23 (IANS) Indian security agencies are closely monitoring what they describe as a growing pattern in Hamas&#8217;s efforts to expan..."
-    },
-    {
       "title": "India&#039;s Akasa Air targets 30% capacity boost this fiscal year",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-akasa-air-targets-30-capacity-boost-this-fiscal-year/131935517",
       "source": "Economic Times",
@@ -776,6 +731,16 @@
     }
   ],
   "tweets": [
+    {
+      "title": "Breaking: India's new high commissioner Dinesh Trivedi annouces resumption of Indian tourists visas for Bangladesh Nationals. Says, from 28th June Indian tourists visa application in Bangladesh will be accepted. Will continue to faciliate medical visas.",
+      "link": "https://nitter.net/sidhant/status/2070079030083342669#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-25T15:07:55+05:30",
+      "time": "25 Jun, 03:07 PM",
+      "type": "tweets",
+      "content": "<p>Breaking: India's new high commissioner Dinesh Trivedi annouces resumption of Indian tourists visas for Bangladesh Nationals. Says, from 28th June Indian tourists visa application in Bangladesh will be accepted. Will continue to faciliate medical visas.</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "US & Iran werent the only one talking this week. Indians, Pakistanis held another round of track 2 talks, in Colombo & Thailand. Reporting:",
       "link": "https://nitter.net/sidhant/status/2070062378063101976#m",
@@ -893,7 +858,7 @@
       "sort_key": "2026-06-25T10:47:43+05:30",
       "time": "25 Jun, 10:47 AM",
       "type": "tweets",
-      "content": "<p>\"By de-risking the international economy and diversifying production and supply chains. Resilience and redundancy are key. This will limit hostage taking in the economic domain\"<br />\n<br />\nEAM Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>International law and regimes, UNCLOS being a good example, must be collectively protected and promoted, EAM Jaishankar at Jeju forum for peace &amp; prosperity<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">nitter.net/i/broadcasts/1nGeLLoPR\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">\n<img src=\"https://nitter.net/pic/card_img%2F2070066406419546112%2FEw9jKCDL%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>Delivering the keynote address at the Jeju Forum for Peace and Prosperity, 2026.</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">https://nitter.net/i/broadcasts/1nGeLLoPRjnKX</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070011651009736880#m\">https://nitter.net/sidhant/status/2070011651009736880#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>\"By de-risking the international economy and diversifying production and supply chains. Resilience and redundancy are key. This will limit hostage taking in the economic domain\"<br />\n<br />\nEAM Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>International law and regimes, UNCLOS being a good example, must be collectively protected and promoted, EAM Jaishankar at Jeju forum for peace &amp; prosperity<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">nitter.net/i/broadcasts/1nGeLLoPR\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">\n<img src=\"https://nitter.net/pic/card_img%2F2070077747091943425%2F0AI-N1Jv%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>Delivering the keynote address at the Jeju Forum for Peace and Prosperity, 2026.</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">https://nitter.net/i/broadcasts/1nGeLLoPRjnKX</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070011651009736880#m\">https://nitter.net/sidhant/status/2070011651009736880#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -903,7 +868,7 @@
       "sort_key": "2026-06-25T10:47:09+05:30",
       "time": "25 Jun, 10:47 AM",
       "type": "tweets",
-      "content": "<p>\"As the interests of a few are openly prioritized, the costs to the many are less considered. This can only be countered by cooperation on more issues with greater players\"<br />\n<br />\nEAM Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>International law and regimes, UNCLOS being a good example, must be collectively protected and promoted, EAM Jaishankar at Jeju forum for peace &amp; prosperity<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">nitter.net/i/broadcasts/1nGeLLoPR\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">\n<img src=\"https://nitter.net/pic/card_img%2F2070066406419546112%2FEw9jKCDL%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>Delivering the keynote address at the Jeju Forum for Peace and Prosperity, 2026.</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">https://nitter.net/i/broadcasts/1nGeLLoPRjnKX</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070011651009736880#m\">https://nitter.net/sidhant/status/2070011651009736880#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>\"As the interests of a few are openly prioritized, the costs to the many are less considered. This can only be countered by cooperation on more issues with greater players\"<br />\n<br />\nEAM Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>International law and regimes, UNCLOS being a good example, must be collectively protected and promoted, EAM Jaishankar at Jeju forum for peace &amp; prosperity<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">nitter.net/i/broadcasts/1nGeLLoPR\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">\n<img src=\"https://nitter.net/pic/card_img%2F2070077747091943425%2F0AI-N1Jv%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>Delivering the keynote address at the Jeju Forum for Peace and Prosperity, 2026.</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">https://nitter.net/i/broadcasts/1nGeLLoPRjnKX</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070011651009736880#m\">https://nitter.net/sidhant/status/2070011651009736880#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -913,7 +878,7 @@
       "sort_key": "2026-06-25T10:45:38+05:30",
       "time": "25 Jun, 10:45 AM",
       "type": "tweets",
-      "content": "<p>\"The right to industrialize, indeed the capacity to do so, is being denied to many developing states by the manipulation of competitiveness and restricting market access. This is but another facet of exercising dominance and retaining control\"<br />\n<br />\nEAM Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>International law and regimes, UNCLOS being a good example, must be collectively protected and promoted, EAM Jaishankar at Jeju forum for peace &amp; prosperity<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">nitter.net/i/broadcasts/1nGeLLoPR\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">\n<img src=\"https://nitter.net/pic/card_img%2F2070066406419546112%2FEw9jKCDL%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>Delivering the keynote address at the Jeju Forum for Peace and Prosperity, 2026.</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">https://nitter.net/i/broadcasts/1nGeLLoPRjnKX</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070011651009736880#m\">https://nitter.net/sidhant/status/2070011651009736880#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>\"The right to industrialize, indeed the capacity to do so, is being denied to many developing states by the manipulation of competitiveness and restricting market access. This is but another facet of exercising dominance and retaining control\"<br />\n<br />\nEAM Jaishankar</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>International law and regimes, UNCLOS being a good example, must be collectively protected and promoted, EAM Jaishankar at Jeju forum for peace &amp; prosperity<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">nitter.net/i/broadcasts/1nGeLLoPR\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">\n<img src=\"https://nitter.net/pic/card_img%2F2070077747091943425%2F0AI-N1Jv%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>Delivering the keynote address at the Jeju Forum for Peace and Prosperity, 2026.</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">https://nitter.net/i/broadcasts/1nGeLLoPRjnKX</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070011651009736880#m\">https://nitter.net/sidhant/status/2070011651009736880#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -933,7 +898,7 @@
       "sort_key": "2026-06-25T10:40:11+05:30",
       "time": "25 Jun, 10:40 AM",
       "type": "tweets",
-      "content": "<p>International law and regimes, UNCLOS being a good example, must be collectively protected and promoted, EAM Jaishankar at Jeju forum for peace &amp; prosperity<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">nitter.net/i/broadcasts/1nGeLLoPR\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">\n<img src=\"https://nitter.net/pic/card_img%2F2070066406419546112%2FEw9jKCDL%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>Delivering the keynote address at the Jeju Forum for Peace and Prosperity, 2026.</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">https://nitter.net/i/broadcasts/1nGeLLoPRjnKX</a></small>",
+      "content": "<p>International law and regimes, UNCLOS being a good example, must be collectively protected and promoted, EAM Jaishankar at Jeju forum for peace &amp; prosperity<br />\n<br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">nitter.net/i/broadcasts/1nGeLLoPR\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">\n<img src=\"https://nitter.net/pic/card_img%2F2070077747091943425%2F0AI-N1Jv%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Dr. S. Jaishankar</b>\n</a>\n<p>Delivering the keynote address at the Jeju Forum for Peace and Prosperity, 2026.</p>\n<small><a href=\"https://nitter.net/i/broadcasts/1nGeLLoPRjnKX\">https://nitter.net/i/broadcasts/1nGeLLoPRjnKX</a></small>",
       "author": "@sidhant"
     },
     {
@@ -1044,16 +1009,6 @@
       "time": "24 Jun, 11:30 PM",
       "type": "tweets",
       "content": "<p>In this case, the bail was rejected since the applicant was not able to produce any document duly verified by govt authorities to establish his Indian citizenship.</p>\n<img src=\"https://nitter.net/pic/media%2FHLmOZgybEAAdv45.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: The Court held that possessing Aadhaar, PAN, or Voter ID or Passport does not prove Indian citizenship, which is governed strictly by the Citizenship Act, 1955:",
-      "link": "https://nitter.net/sidhant/status/2069843162508726524#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-24T23:30:40+05:30",
-      "time": "24 Jun, 11:30 PM",
-      "type": "tweets",
-      "content": "<p>The Court held that possessing Aadhaar, PAN, or Voter ID or Passport does not prove Indian citizenship, which is governed strictly by the Citizenship Act, 1955:</p>\n<img src=\"https://nitter.net/pic/media%2FHLmOFWxbYAAl1Kb.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1595,16 +1550,6 @@
       "type": "tweets",
       "content": "<p>BREAKING: CISF to Link Facial Recognition Network with Intelligence Grid<br />\n<br />\nThe Central Industrial Security Force (CISF) plans to connect facial recognition cameras at major airports and strategic installations to a new data fusion centre in Delhi, significantly enhancing surveillance and real-time threat detection.<br />\n<br />\nFacial recognition systems at Delhi, Mumbai, Bengaluru, Hyderabad, Chennai, and Kolkata airports to be integrated with NATGRID.</p>\n<img src=\"https://nitter.net/pic/media%2FHLfaw90a4AA_51w.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "RT by @NetramDefence: Oman's Foreign Ministry met with an Iranian delegation to strengthen bilateral ties and good-neighborly relations while discussing latest regional developments. As a neutral mediator, Muscat continues playing a vital role, proving its value in de-escalating Gulf tensions.",
-      "link": "https://nitter.net/Globalwatchh/status/2069344669461545268#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-23T14:29:50+05:30",
-      "time": "23 Jun, 02:29 PM",
-      "type": "tweets",
-      "content": "<p>Oman's Foreign Ministry met with an Iranian delegation to strengthen bilateral ties and good-neighborly relations while discussing latest regional developments.<br />\n<br />\nAs a neutral mediator, Muscat continues playing a vital role, proving its value in de-escalating Gulf tensions.</p>\n<img src=\"https://nitter.net/pic/media%2FHLfKAOibgAA2d24.jpg\" />",
-      "author": "@Globalwatchh"
     }
   ],
   "youtube": [
@@ -1700,6 +1645,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
