@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Japanese Prime Minister Sanae Takaichi to visit India next month",
+      "link": "https://newsonair.gov.in/japanese-prime-minister-sanae-takaichi-to-visit-india-next-month/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T14:21:28+05:30",
+      "time": "26 Jun, 02:21 PM",
+      "type": "news",
+      "description": "Prime Minister of Japan Sanae Takaichi will be on an official visit to New Delhi from the 1st to the 3rd of next month for the 16th India-Japan Annual..."
+    },
+    {
+      "title": "Russia Says It Shot Down 660 Ukrainian Drones Overnight",
+      "link": "https://www.deccanchronicle.com/world/russia-says-it-shot-down-660-ukrainian-drones-overnight-1966381",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-06-26T14:18:28+05:30",
+      "time": "26 Jun, 02:18 PM",
+      "type": "news",
+      "description": "Russian air defences intercepted hundreds of Ukrainian drones across multiple regions, including Moscow and annexed Crimea, in one of the largest repo..."
+    },
+    {
+      "title": "EAM Jaishankar visits South Korea to strengthen Special Strategic Partnership",
+      "link": "https://newsonair.gov.in/eam-jaishankar-visits-south-korea-to-strengthen-special-strategic-partnership/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T14:11:21+05:30",
+      "time": "26 Jun, 02:11 PM",
+      "type": "news",
+      "description": "External Affairs Minister Dr S. Jaishankar visited the Republic of Korea on the 24th and 25th of this month. During the visit, Dr Jaishankar held wide..."
+    },
+    {
+      "title": "Japan on alert amid transport disruptions and threat from two tropical storms",
+      "link": "https://newsonair.gov.in/japan-on-alert-amid-transport-disruptions-and-threat-from-two-tropical-storms/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T14:07:56+05:30",
+      "time": "26 Jun, 02:07 PM",
+      "type": "news",
+      "description": "Japan is facing widespread transport disruptions as it prepares for torrential rain and the impact of two approaching tropical storms, Mekkhala and Hi..."
+    },
+    {
+      "title": "India along with 34 nations sign US led initiative to build resilient AI supply chains",
+      "link": "https://newsonair.gov.in/india-signs-us-led-ai-supply-chain-initiative-at-pax-silica-summit/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T13:40:09+05:30",
+      "time": "26 Jun, 01:40 PM",
+      "type": "news",
+      "description": "India, along with 34 other countries, has signed a US-led initiative to build trusted and resilient supply chains to support artificial intelligence (..."
+    },
+    {
       "title": "Senior US military official arrives in Venezuela to oversee earthquake response: Southern Command",
       "link": "https://www.newindianexpress.com/world/2026/Jun/26/senior-us-military-official-arrives-in-venezuela-to-oversee-earthquake-response-southern-command",
       "source": "New Indian Express",
@@ -26,15 +71,6 @@
       "time": "26 Jun, 12:43 PM",
       "type": "news",
       "description": "For the first time, the government has officially named six Indian soldiers, including five from the Army and one from the Air Force, who died during ..."
-    },
-    {
-      "title": "India signs US-led AI supply chain initiative at Pax Silica Summit",
-      "link": "https://newsonair.gov.in/india-signs-us-led-ai-supply-chain-initiative-at-pax-silica-summit/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T12:40:09+05:30",
-      "time": "26 Jun, 12:40 PM",
-      "type": "news",
-      "description": "India, along with 34 other countries, has signed a US-led initiative to build trusted and resilient supply chains to support artificial intelligence (..."
     },
     {
       "title": "UAE Hosts Grand Commemoration of 150 Years of Vande Mataram",
@@ -172,15 +208,6 @@
       "description": "US Homeland Security Secretary Markwayne Mullin has said the Trump administration plans to complete both the primary and secondary border wall system ..."
     },
     {
-      "title": "US approves potential 250 million dollar defence sale to Australia",
-      "link": "https://newsonair.gov.in/us-approves-potential-250-million-dollar-defence-sale-to-australia/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T09:46:35+05:30",
-      "time": "26 Jun, 09:46 AM",
-      "type": "news",
-      "description": "The US State Department has approved the potential sale of FA-18F Super Hornet and EA-18G Growler aircraft training and related equipment to Australia..."
-    },
-    {
       "title": "Why Nihang Sikhs marched to Himachal-Uttarakhand border and what caused the tensions?",
       "link": "https://www.indiatvnews.com/news/india/why-nihang-sikhs-marched-to-himachal-uttarakhand-border-and-what-caused-the-tensions-2026-06-26-1046190",
       "source": "India TV",
@@ -199,15 +226,6 @@
       "description": "<p>By R Anil Kumar IMF said it continues to project India&#8217;s economy to grow by 6.5 per cent in fiscal year 2026-27, maintaining the upward revis..."
     },
     {
-      "title": "IMO pauses Strait of Hormuz ship evacuation efforts",
-      "link": "https://newsonair.gov.in/imo-pauses-strait-of-hormuz-ship-evacuation-efforts/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T08:55:54+05:30",
-      "time": "26 Jun, 08:55 AM",
-      "type": "news",
-      "description": "The International Maritime Organization (IMO) has paused its efforts to evacuate stranded ships through the Strait of Hormuz after a vessel was hit by..."
-    },
-    {
       "title": "Nihang-police standoff in Uttarakhand ends, heavy security continues at border with Himachal",
       "link": "https://www.tribuneindia.com/news/uttarakhand/tension-at-uttarakhand-border-as-nihang-sikhs-breach-barricades-head-towards-hemkund-sahib",
       "source": "The Tribune",
@@ -217,16 +235,7 @@
       "description": "A day after a tense face-off between a large group of Nihang Sikhs and security personnel at the Kulhal border check post near Paonta Sahib of Sirmaur..."
     },
     {
-      "title": "Rescue operations continue as Venezuela earthquake toll climbs to 235",
-      "link": "https://newsonair.gov.in/rescue-operations-continue-as-venezuela-earthquake-toll-climbs-to-188/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T08:35:04+05:30",
-      "time": "26 Jun, 08:35 AM",
-      "type": "news",
-      "description": "In Venezuela, the death toll from two powerful earthquakes has risen to 235, with more than 1,500 people injured. Rescue teams are searching through t..."
-    },
-    {
-      "title": "Amid Ebola outbreak, India launches health form portal for foreign travellers",
+      "title": "Flying to India? Air Suvidha 2.0 now mandatory for all international travellers amid Ebola alert",
       "link": "https://indianexpress.com/article/world/flying-uae-to-india-air-suvidha-health-declaration-form-ebola-outbreak-international-travellers-10757996/",
       "source": "The Indian Express",
       "sort_key": "2026-06-26T05:34:33+05:30",
@@ -242,15 +251,6 @@
       "time": "26 Jun, 03:36 AM",
       "type": "news",
       "description": "Defence minister Rajnath Singh said the FOC marked a technological milestone and strengthened India\u2019s airborne surveillance and command-and-control ca..."
-    },
-    {
-      "title": "Apologise, quit: Rahul Gandhi targets Dharmendra Pradhan over paper leaks, \u2018terrorist\u2019 remarks",
-      "link": "https://www.tribuneindia.com/news/india/apologise-quit-rahul-targets-pradhan-over-paper-leaks-terrorist-remarks",
-      "source": "The Tribune",
-      "sort_key": "2026-06-26T01:48:02+05:30",
-      "time": "26 Jun, 01:48 AM",
-      "type": "news",
-      "description": "Congress leader Rahul Gandhi on Thursday hit out at Education Minister Dharmendra Pradhan for his &#8220;terrorist&#8221; remark against protesting st..."
     },
     {
       "title": "Names of 6 bravehearts killed in Operation Sindoor made public",
@@ -314,6 +314,15 @@
       "time": "25 Jun, 09:40 PM",
       "type": "news",
       "description": "<p>Imphal: In a development that could influence ongoing discussions surrounding one of the most contentious incidents in Manipur&#8217;s ethnic unres..."
+    },
+    {
+      "title": "Army vs police in J&K after FIR against CO, major for \u2018storming police station with iron rods, rifles\u2019",
+      "link": "https://theprint.in/india/army-vs-police-in-jk-after-attempted-murder-fir-against-major-personnel-for-storming-police-station/2969712/",
+      "source": "The Print",
+      "sort_key": "2026-06-25T21:27:01+05:30",
+      "time": "25 Jun, 09:27 PM",
+      "type": "news",
+      "description": "It started when Kishtwar additional superintendent of police stopped a vehicle along route being taken by Dy Commissioner Pankaj Kumar Sharma, who was..."
     },
     {
       "title": "IAF gets final operational clearance for indigenous &#039;Netra&#039; AEW&amp;C system",
@@ -755,36 +764,119 @@
       "time": "24 Jun, 02:54 PM",
       "type": "news",
       "description": "\u200b\u200bIn 2023, the European Commission excluded aircraft used for private or commercial business aviation from this list, citing their higher CO\u2082 emission..."
-    },
-    {
-      "title": "Raymond in talks to buy German engineering firm Deharde",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/raymond-in-talks-to-buy-german-engineering-firm-deharde/131961011",
-      "source": "Economic Times",
-      "sort_key": "2026-06-24T13:57:57+05:30",
-      "time": "24 Jun, 01:57 PM",
-      "type": "news",
-      "description": "\u200b\u200bPrivately held Deharde traces its origins to 1909 as a metalworking workshop. It later expanded into aviation machining and grew into a specialist i..."
-    },
-    {
-      "title": "UK, France, Germany raise alarm about Chinese activities off eastern Taiwan",
-      "link": "https://economictimes.indiatimes.com/news/defence/uk-france-germany-raise-alarm-about-chinese-activities-off-eastern-taiwan/articleshow/131960874.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-24T13:57:31+05:30",
-      "time": "24 Jun, 01:57 PM",
-      "type": "news",
-      "description": "Britain, France, and Germany have voiced serious concerns over China's recent maritime activities near Taiwan's east coast. These actions, including c..."
-    },
-    {
-      "title": "Indian national gets six months\u2019 jail for molesting Singapore Airlines crew member",
-      "link": "https://indianexpress.com/article/world/indian-national-akash-tiwari-jailed-singapore-airlines-crew-harassment-10754964/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-24T13:56:26+05:30",
-      "time": "24 Jun, 01:56 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "\"India is committed to support the Government and people of Venezuela in this difficult time\", says India's EAM Jaishankar as Indian govt rushes support to the quake hit country under operation Amistad",
+      "link": "https://nitter.net/sidhant/status/2070429390018912708#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:20:07+05:30",
+      "time": "26 Jun, 02:20 PM",
+      "type": "tweets",
+      "content": "<p>\"India is committed to support the Government and people of Venezuela in this difficult time\", says India's EAM Jaishankar as Indian govt rushes support to the quake hit country under operation Amistad</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Just in: India sends 41 member Indian Army team from 60 Para Field Hospital to quake hit Venezuela; The team includes 9 medical officers. 60 Para Field Hospital is Indian Army's elite, rapidly deployable medical unit. Pic ctsy: Indian Army",
+      "link": "https://nitter.net/sidhant/status/2070429056072630462#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:18:48+05:30",
+      "time": "26 Jun, 02:18 PM",
+      "type": "tweets",
+      "content": "<p>Just in: India sends 41 member Indian Army team from 60 Para Field Hospital to quake hit Venezuela; The team includes 9 medical officers. <br />\n<br />\n60 Para Field Hospital is Indian Army's elite, rapidly deployable medical unit.<br />\n<br />\nPic ctsy: Indian Army</p>\n<img src=\"https://nitter.net/pic/media%2FHLuj025bUAATvkj.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Just in: India launches major humanitarian assistance for quake hit Venezuela. Sends 35 tons of relief supplies, medical support. Pic: Indian govt",
+      "link": "https://nitter.net/sidhant/status/2070428320316133879#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:15:52+05:30",
+      "time": "26 Jun, 02:15 PM",
+      "type": "tweets",
+      "content": "<p>Just in: India launches major humanitarian assistance for quake hit Venezuela. Sends 35 tons of relief supplies, medical support.<br />\n<br />\nPic: Indian govt</p>\n<img src=\"https://nitter.net/pic/media%2FHLujViCaIAAE05h.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLujVgwagAA1ZFU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLujVgnaMAAlU7J.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLujVhAbUAApIph.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "First picture: India sends 2 IAF Planes C17 with relief support to quake hit Venezuela. pic ctsy: MEA",
+      "link": "https://nitter.net/sidhant/status/2070427455601696966#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:12:26+05:30",
+      "time": "26 Jun, 02:12 PM",
+      "type": "tweets",
+      "content": "<p>First picture: India sends 2 IAF Planes C17 with relief support to quake hit Venezuela.<br />\n<br />\npic ctsy: MEA</p>\n<img src=\"https://nitter.net/pic/media%2FHLuinCEa8AA0PQA.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Just in: India launches Operation Amistad to support quake hit Venezuela. Amistad, Spanish word, means friendship.",
+      "link": "https://nitter.net/sidhant/status/2070427117368791354#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:11:06+05:30",
+      "time": "26 Jun, 02:11 PM",
+      "type": "tweets",
+      "content": "<p>Just in: India launches Operation Amistad to support quake hit Venezuela. Amistad, Spanish word, means friendship.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "International Monetary Fund (IMF) has said India continues to be a major driver of global economic growth despite the Iran conflict and higher energy prices. IMF Communications Director Julie Kozack said India's economy remains resilient, supported by strong domestic demand. IMF has retained its growth projection for India at 6.5 per cent for the financial year 2026-27, maintaining the upward revision made in April.",
+      "link": "https://nitter.net/Goreunit/status/2070427021449281612#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-26T14:10:43+05:30",
+      "time": "26 Jun, 02:10 PM",
+      "type": "tweets",
+      "content": "<p>International Monetary Fund (IMF) has said India continues to be a major driver of global economic growth despite the Iran conflict and higher energy prices. IMF Communications Director Julie Kozack said India's economy remains resilient, supported by strong domestic demand.<br />\n<br />\nIMF has retained its growth projection for India at 6.5 per cent for the financial year 2026-27, maintaining the upward revision made in April.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "India's support to quake hit Venezuela comes within 24 hours of deadly earthquake, & PM Modi's offer of assistance to the country. \"India stands ready to extend all possible assistance\" Indian PM said ystdy.",
+      "link": "https://nitter.net/sidhant/status/2070426423731564724#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:08:20+05:30",
+      "time": "26 Jun, 02:08 PM",
+      "type": "tweets",
+      "content": "<p>India's support to quake hit Venezuela comes within 24 hours of deadly earthquake, &amp; PM Modi's offer of assistance to the country. <br />\n<br />\n\"India stands ready to extend all possible assistance\" Indian PM said ystdy.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India dispatches 2 IAF C-17 planes carrying field hospital, medical supplies to quake hit Venezuela<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/india-dispatches-2-iaf-c-17-planes-carrying-field-hospital-medical-supplies-to-quake-hit-venezuela-1782462336421\">wionews.com/india-news/india\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/india-dispatches-2-iaf-c-17-planes-carrying-field-hospital-medical-supplies-to-quake-hit-venezuela-1782462336421\">\n<img src=\"https://nitter.net/pic/card_img%2F2070425814718709760%2FgiGU7TJe%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India dispatches 2 IAF C-17 planes carrying field hospital, medical supplies to quake hit Venezuela</b>\n</a>\n<p>This rapid response highlights India\u2019s growing role in international disaster relief, building on its long tradition of providing assistance during global crises.</p>\n<small><a href=\"https://www.wionews.com/india-news/india-dispatches-2-iaf-c-17-planes-carrying-field-hospital-medical-supplies-to-quake-hit-venezuela-1782462336421\">wionews.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070425875649294622#m\">https://nitter.net/sidhant/status/2070425875649294622#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India dispatches 2 IAF C-17 planes carrying field hospital, medical supplies to quake hit Venezuela Reporting: https://www.wionews.com/india-news/india-dispatches-2-iaf-c-17-planes-carrying-field-hospital-medical-supplies-to-quake-hit-venezuela-1782462336421",
+      "link": "https://nitter.net/sidhant/status/2070425875649294622#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:06:10+05:30",
+      "time": "26 Jun, 02:06 PM",
+      "type": "tweets",
+      "content": "<p>India dispatches 2 IAF C-17 planes carrying field hospital, medical supplies to quake hit Venezuela<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/india-dispatches-2-iaf-c-17-planes-carrying-field-hospital-medical-supplies-to-quake-hit-venezuela-1782462336421\">wionews.com/india-news/india\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/india-dispatches-2-iaf-c-17-planes-carrying-field-hospital-medical-supplies-to-quake-hit-venezuela-1782462336421\">\n<img src=\"https://nitter.net/pic/card_img%2F2070425814718709760%2FgiGU7TJe%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India dispatches 2 IAF C-17 planes carrying field hospital, medical supplies to quake hit Venezuela</b>\n</a>\n<p>This rapid response highlights India\u2019s growing role in international disaster relief, building on its long tradition of providing assistance during global crises.</p>\n<small><a href=\"https://www.wionews.com/india-news/india-dispatches-2-iaf-c-17-planes-carrying-field-hospital-medical-supplies-to-quake-hit-venezuela-1782462336421\">wionews.com</a></small>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Just in: India, Japan annual summit announced. Japan PM Sanae Takaichi to visit India from 1-3rd July. India Statement:",
+      "link": "https://nitter.net/sidhant/status/2070425133953454533#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:03:13+05:30",
+      "time": "26 Jun, 02:03 PM",
+      "type": "tweets",
+      "content": "<p>Just in: India, Japan annual summit announced. Japan PM Sanae Takaichi to visit India from 1-3rd July. <br />\n<br />\nIndia Statement:</p>\n<img src=\"https://nitter.net/pic/media%2FHLugr-IaQAAFp-4.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BREAKING: India dispatches 2 IAF C-17 planes carrying field hospital, medical supplies, BHISHM Cubes to quake hit Venezuela. Detailed story coming shortly.",
+      "link": "https://nitter.net/sidhant/status/2070423658053685633#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T13:57:21+05:30",
+      "time": "26 Jun, 01:57 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING: India dispatches 2 IAF C-17 planes carrying field hospital, medical supplies, BHISHM Cubes to quake hit Venezuela. <br />\n<br />\nDetailed story coming shortly.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Amid deteriorating situation in PoK, trucks with food halted at Punjab border in Pakistan.",
+      "link": "https://nitter.net/sidhant/status/2070417199995707394#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T13:31:41+05:30",
+      "time": "26 Jun, 01:31 PM",
+      "type": "tweets",
+      "content": "<p>Amid deteriorating situation in PoK, trucks with food halted at Punjab border in Pakistan.</p>\n<a href=\"https://nitter.net/sidhant/status/2070417199995707394#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070400329049571328%2Fimg%2Fe6kRxUzobcNp3SET.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "\ud83d\udcf7Nebo-UM VHF surveillance and tracking radar.",
       "link": "https://nitter.net/DefenceDecode/status/2070408537248014807#m",
@@ -1056,36 +1148,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "New Indian envoy in Dhaka Dinesh Trivedi announces visa restart on first day; In a related development, he has been given a cabinet rank. Reporting: https://www.wionews.com/india-news/new-indian-envoy-in-dhaka-dinesh-trivedi-announces-visa-restart-on-first-day-1782404774594",
-      "link": "https://nitter.net/sidhant/status/2070187695566213469#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T22:19:43+05:30",
-      "time": "25 Jun, 10:19 PM",
-      "type": "tweets",
-      "content": "<p>New Indian envoy in Dhaka Dinesh Trivedi announces visa restart on first day; In a related development, he has been given a cabinet rank.<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/new-indian-envoy-in-dhaka-dinesh-trivedi-announces-visa-restart-on-first-day-1782404774594\">wionews.com/india-news/new-i\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/new-indian-envoy-in-dhaka-dinesh-trivedi-announces-visa-restart-on-first-day-1782404774594\">\n<img src=\"https://nitter.net/pic/card_img%2F2070187317218996224%2FYtbSHrGJ%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>New Indian envoy in Dhaka Dinesh Trivedi announces visa restart on first day</b>\n</a>\n<p>The resumption marks a step towards normalising bilateral ties under Bangladesh\u2019s new political dispensation. The visa services were vastly curtailed during Yunus term after attacks on Indian...</p>\n<small><a href=\"https://www.wionews.com/india-news/new-indian-envoy-in-dhaka-dinesh-trivedi-announces-visa-restart-on-first-day-1782404774594\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian ambassador to Qatar Vipul meets Indian nationals injured during explosion at Ras Laffan Gas Plant. Pic: India in Qatar",
-      "link": "https://nitter.net/sidhant/status/2070182230455185652#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T21:58:00+05:30",
-      "time": "25 Jun, 09:58 PM",
-      "type": "tweets",
-      "content": "<p>Indian ambassador to Qatar Vipul meets Indian nationals injured during explosion at Ras Laffan Gas Plant.<br />\n<br />\nPic: India in Qatar</p>\n<img src=\"https://nitter.net/pic/media%2FHLrDxIFbcAQeI8v.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian embassy in Qatar in a statement says mortal remains of 4 out of 12 Indian nationals who passed away in Ras Laffan gas plant explosion are being repatriated to India today.",
-      "link": "https://nitter.net/sidhant/status/2070181944890192250#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T21:56:52+05:30",
-      "time": "25 Jun, 09:56 PM",
-      "type": "tweets",
-      "content": "<p>Indian embassy in Qatar in a statement says mortal remains of 4 out of 12 Indian nationals who passed away in Ras Laffan gas plant explosion are being repatriated to India today.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "BREAKING: J&K Police Files FIR Against Rashtriya Rifles Personnel in Kishtwar Incident Jammu & Kashmir Police have registered an FIR against the Commanding Officer of 17 Rashtriya Rifles, a Major, a Naib Subedar, and 30\u201340 Army personnel over an alleged incident at Atholi Police Station, Kishtwar, on June 24. The FIR includes charges under the Bharatiya Nyaya Sanhita (BNS), including attempt to murder, and the Prevention of Damage to Public Property Act. Police allege Army personnel entered the police station, assaulted officers, and damaged government property. The Indian Army has acknowledged the incident, said it is examining the matter through established institutional mechanisms, and stated it will fully cooperate with the investigation. The allegations are under investigation, and no judicial findings have been made.",
       "link": "https://nitter.net/NetramDefence/status/2070179610080502229#m",
       "source": "Netram Defense",
@@ -1094,26 +1156,6 @@
       "type": "tweets",
       "content": "<p>BREAKING: J&amp;K Police Files FIR Against Rashtriya Rifles Personnel in Kishtwar Incident<br />\n<br />\nJammu & Kashmir Police have registered an FIR against the Commanding Officer of 17 Rashtriya Rifles, a Major, a Naib Subedar, and 30\u201340 Army personnel over an alleged incident at Atholi Police Station, Kishtwar, on June 24.<br />\n<br />\nThe FIR includes charges under the Bharatiya Nyaya Sanhita (BNS), including attempt to murder, and the Prevention of Damage to Public Property Act. Police allege Army personnel entered the police station, assaulted officers, and damaged government property.<br />\n<br />\nThe Indian Army has acknowledged the incident, said it is examining the matter through established institutional mechanisms, and stated it will fully cooperate with the investigation. The allegations are under investigation, and no judicial findings have been made.</p>\n<img src=\"https://nitter.net/pic/media%2FHLrBYK0bQAACPFH.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Indian PM Modi to visit Seychelles for Golden Jubilee celebrations Reporting: https://www.wionews.com/india-news/indian-pm-modi-to-visit-seychelles-for-golden-jubilee-celebrations-1782403264258",
-      "link": "https://nitter.net/sidhant/status/2070178503887302795#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T21:43:12+05:30",
-      "time": "25 Jun, 09:43 PM",
-      "type": "tweets",
-      "content": "<p>Indian PM Modi to visit Seychelles for Golden Jubilee celebrations<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/indian-pm-modi-to-visit-seychelles-for-golden-jubilee-celebrations-1782403264258\">wionews.com/india-news/india\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/indian-pm-modi-to-visit-seychelles-for-golden-jubilee-celebrations-1782403264258\">\n<img src=\"https://nitter.net/pic/card_img%2F2070178496241172480%2FtNImoywU%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Indian PM Modi to visit Seychelles for Golden Jubilee celebrations</b>\n</a>\n<p>During the visit, PM Narendra Modi is expected to hold bilateral talks with President Patrick Herminie to review the full spectrum of cooperation and discuss regional and international issues. He...</p>\n<small><a href=\"https://www.wionews.com/india-news/indian-pm-modi-to-visit-seychelles-for-golden-jubilee-celebrations-1782403264258\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "CSIS highlights Canada-based Khalistani extremists\u2019 role in 1985 Air India bombing as it remembers the victims Reporting: https://www.wionews.com/world/csis-highlights-canada-based-khalistani-extremists-role-in-1985-air-india-bombing-as-it-remembers-the-victims-1782401922981",
-      "link": "https://nitter.net/sidhant/status/2070177957663138257#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T21:41:01+05:30",
-      "time": "25 Jun, 09:41 PM",
-      "type": "tweets",
-      "content": "<p>CSIS highlights Canada-based Khalistani extremists\u2019 role in 1985 Air India bombing as it remembers the victims<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/world/csis-highlights-canada-based-khalistani-extremists-role-in-1985-air-india-bombing-as-it-remembers-the-victims-1782401922981\">wionews.com/world/csis-highl\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/csis-highlights-canada-based-khalistani-extremists-role-in-1985-air-india-bombing-as-it-remembers-the-victims-1782401922981\">\n<img src=\"https://nitter.net/pic/card_img%2F2070177052419080193%2FX59QRKml%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>CSIS highlights Canada-based Khalistani extremists\u2019 role in 1985 Air India bombing as it remembers...</b>\n</a>\n<p>The 1985 terror attack remains Canada\u2019s deadliest terrorist incident and one of the worst acts of aviation terrorism in history. A second bomb, intended for another Air India flight, exploded at...</p>\n<small><a href=\"https://www.wionews.com/world/csis-highlights-canada-based-khalistani-extremists-role-in-1985-air-india-bombing-as-it-remembers-the-victims-1782401922981\">wionews.com</a></small>",
-      "author": "@sidhant"
     },
     {
       "title": "Even school-going little girls are opposing Pakistan\u2019s illegal occupation of Jammu and Kashmir.",
@@ -1126,36 +1168,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "\"Those who targets schools, children with impunity must be held to account\", Indian amb to UN P Harish tells UNSC",
-      "link": "https://nitter.net/sidhant/status/2070176051565875512#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T21:33:27+05:30",
-      "time": "25 Jun, 09:33 PM",
-      "type": "tweets",
-      "content": "<p>\"Those who targets schools, children with impunity must be held to account\", Indian amb to UN P Harish tells UNSC</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>At UN, Indian Envoy <a href=\"https://nitter.net/AmbHarishP\" title=\"Parvathaneni Harish\">@AmbHarishP</a> points how India has helped in rebuilding of schools in neighbouring countries.</p>\n<a href=\"https://nitter.net/sidhant/status/2070175587705164261#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069883776977539072%2Fimg%2Fh5eSRYOP5vpZ27fV.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070175587705164261#m\">https://nitter.net/sidhant/status/2070175587705164261#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "At UN, Indian Envoy @AmbHarishP points how India has helped in rebuilding of schools in neighbouring countries.",
-      "link": "https://nitter.net/sidhant/status/2070175587705164261#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T21:31:36+05:30",
-      "time": "25 Jun, 09:31 PM",
-      "type": "tweets",
-      "content": "<p>At UN, Indian Envoy <a href=\"https://nitter.net/AmbHarishP\" title=\"Parvathaneni Harish\">@AmbHarishP</a> points how India has helped in rebuilding of schools in neighbouring countries.</p>\n<a href=\"https://nitter.net/sidhant/status/2070175587705164261#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069883776977539072%2Fimg%2Fh5eSRYOP5vpZ27fV.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Passport is not a citizenship document. From Passport act 1967 to Bombay high court judgement, the clarity has been given long time ago. Reporting:",
-      "link": "https://nitter.net/sidhant/status/2070169271129530792#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T21:06:30+05:30",
-      "time": "25 Jun, 09:06 PM",
-      "type": "tweets",
-      "content": "<p>Passport is not a citizenship document.<br />\n<br />\nFrom Passport act 1967 to Bombay high court judgement, the clarity has been given long time ago. <br />\n<br />\nReporting:</p>\n<a href=\"https://nitter.net/sidhant/status/2070169271129530792#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070134175047573505%2Fimg%2F1Vz5r3MWlXso6WMX.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Hey @OfficialDGISPR you need better softwares and tools looks like your subcontractor scammed you by altering audio using free versions \ud83e\udd21-e-Azam ?",
       "link": "https://nitter.net/alpha_defense/status/2070168985287676338#m",
       "source": "Alpha Defense",
@@ -1164,26 +1176,6 @@
       "type": "tweets",
       "content": "<p>Hey <a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a> you need better softwares and tools looks like your subcontractor scammed you by altering audio using free versions \ud83e\udd21-e-Azam ?</p>\n<hr />\n<blockquote>\n<b>Big Brother (@ThatBigBrother)</b>\n<p>\n<p>\"32 Rafales...\" \ud83d\udc40<br />\n<br />\nAn IAF officer appeared to misspeak during a briefing before correcting himself to 36 Rafale fighters. The brief moment is now drawing attention across social media.</p>\n<a href=\"https://nitter.net/ThatBigBrother/status/2069855112265421211#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069855007101583360%2Fimg%2FCupYgOsDlon7LIzD.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ThatBigBrother/status/2069855112265421211#m\">https://nitter.net/ThatBigBrother/status/2069855112265421211#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "India Investment Pledge Timeline 18 Feb Google: $15 bn 9 March ABB: $75 mn 5 June AirTrunk (Australia): $30 bn 17 June CPP Investments (Canada Pension Plan): \u20b97,000 crore 18 June Saint-Gobain: \u20ac1 billion 25 June Amazon: $48 billion (by 2030)",
-      "link": "https://nitter.net/sidhant/status/2070162345427620309#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T20:38:59+05:30",
-      "time": "25 Jun, 08:38 PM",
-      "type": "tweets",
-      "content": "<p>India Investment Pledge Timeline<br />\n18 Feb<br />\nGoogle: $15 bn<br />\n<br />\n9 March<br />\nABB: $75 mn<br />\n<br />\n5 June<br />\nAirTrunk (Australia): $30 bn<br />\n<br />\n17 June<br />\nCPP Investments (Canada Pension Plan): \u20b97,000 crore<br />\n<br />\n18 June<br />\nSaint-Gobain: \u20ac1 billion<br />\n<br />\n25 June<br />\nAmazon: $48 billion (by 2030)</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Amazon pledges $48bn investment in India over five years after CEO Andy Jassy meets PM Narendra Modi</p>\n<img src=\"https://nitter.net/pic/media%2FHLp4jnabQAAw8gt.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070099544629752019#m\">https://nitter.net/sidhant/status/2070099544629752019#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian diplomats who have held cabinet rank as envoys Vijaya Lakshmi Pandit (USSR) V. K. Krishna Menon (UK) Durga Prasad Dhar (USSR) Inder Kumar Gujral (USSR) Triloki Nath Kaul (USSR) Dr. Karan Singh (US) Dr L.M. Singhvi (UK) Inputs from @amitabhmattoo",
-      "link": "https://nitter.net/sidhant/status/2070160927761338603#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T20:33:21+05:30",
-      "time": "25 Jun, 08:33 PM",
-      "type": "tweets",
-      "content": "<p>Indian diplomats who have held cabinet rank as envoys <br />\nVijaya Lakshmi Pandit (USSR)  <br />\nV. K. Krishna Menon (UK)<br />\nDurga Prasad Dhar (USSR)<br />\nInder Kumar Gujral (USSR)<br />\nTriloki Nath Kaul (USSR)<br />\nDr. Karan Singh (US) <br />\nDr L.M. Singhvi (UK)<br />\n<br />\nInputs from <a href=\"https://nitter.net/amitabhmattoo\" title=\"Amitabh Mattoo\">@amitabhmattoo</a></p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Indian govt elevates its High Commissioner to Dhaka at Cabinet rank level</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070085755276513770#m\">https://nitter.net/sidhant/status/2070085755276513770#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "",
@@ -1644,16 +1636,6 @@
       "type": "tweets",
       "content": "<p>BDL secures \u20b91,347.71 crore worth of orders from HAL, including <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Helina\">#Helina</a> missile launchers, Line Replaceable Units(LRUs) and <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CMDS\">#CMDS</a> LRUs.<br />\nThe deal reinforces the growing integration of indigenous weapons and self-protection systems across Indian military platforms.</p>\n<img src=\"https://nitter.net/pic/media%2FHLkTJ_FWwAA9chT.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLkTPJMasAAGJ11.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "\ud83d\udea8In a joint operation, Karnataka police and Central Intelligence officials have arrested a suspected terror operative from Uttar Pradesh linked to a Pakistan-based terror organisation. The accused, identified as Suhail, was arrested from a village of Davanagere district, where he had reportedly been living under the guise of a painter. He was in touch with Pakistani nationals and was a part of radical social media groups.",
-      "link": "https://nitter.net/Goreunit/status/2069690238600192404#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-24T13:23:00+05:30",
-      "time": "24 Jun, 01:23 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8In a joint operation, Karnataka police and Central Intelligence officials have arrested a suspected terror operative from Uttar Pradesh linked to a Pakistan-based terror organisation. The accused, identified as Suhail, was arrested from a village of Davanagere district, where he had reportedly been living under the guise of a painter. He was in touch with Pakistani nationals and was a part of radical social media groups.</p>\n<img src=\"https://nitter.net/pic/media%2FHLkETNLaUAAJAUj.jpg\" />",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1737,18 +1719,9 @@
       "time": "24 Jun, 05:09 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/t0LyNtiTxGQ/mqdefault.jpg"
-    },
-    {
-      "title": "This India-France Partnership Is Bigger Than Rafale #IndiaFrance #Rafale #shorts",
-      "link": "https://www.youtube.com/shorts/91Pk4nIi7Ps",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-24T13:40:20+05:30",
-      "time": "24 Jun, 01:40 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
