@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "IMF says India remains a key driver of global economic growth",
+      "link": "https://newsonair.gov.in/imf-says-india-remains-a-key-driver-of-global-economic-growth/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T07:48:39+05:30",
+      "time": "26 Jun, 07:48 AM",
+      "type": "news",
+      "description": "The International Monetary Fund (IMF) has said that India continues to be a major driver of global economic growth despite the economic impact of the ..."
+    },
+    {
+      "title": "Rescue operations continue as Venezuela earthquake toll climbs to 188",
+      "link": "https://newsonair.gov.in/rescue-operations-continue-as-venezuela-earthquake-toll-climbs-to-188/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T07:42:04+05:30",
+      "time": "26 Jun, 07:42 AM",
+      "type": "news",
+      "description": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has announced that the death toll from two powerful earthquakes has risen to 188, with 1..."
+    },
+    {
       "title": "Won\u2019t seal US trade agreement without tariff advantage: Goyal",
       "link": "https://www.tribuneindia.com/news/business/wont-seal-us-trade-agreement-without-tariff-advantage-goyal",
       "source": "The Tribune",
@@ -10,7 +28,7 @@
       "description": "Union Commerce Minister Piyush Goyal on Thursday said the India-US trade deal has been finalised, but it will not come into force until New Delhi secu..."
     },
     {
-      "title": "Flying to India? All international travellers must now fill health form amid Ebola outbreak",
+      "title": "Amid Ebola outbreak, India launches health form portal for foreign travellers",
       "link": "https://indianexpress.com/article/world/flying-uae-to-india-air-suvidha-health-declaration-form-ebola-outbreak-international-travellers-10757996/",
       "source": "The Indian Express",
       "sort_key": "2026-06-26T05:34:33+05:30",
@@ -361,15 +379,6 @@
       "description": "The 23rd edition of the Multilateral Joint Military Exercise Khaan Quest 2026 is currently underway at the Five Hills Training Area, Ulaanbaatar, Mong..."
     },
     {
-      "title": "Auction of Chandigarh\u2019s heritage furniture in Paris stopped after India\u2019s intervention",
-      "link": "https://newsonair.gov.in/auction-of-chandigarhs-heritage-furniture-in-paris-stopped-after-indias-intervention/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-25T12:48:07+05:30",
-      "time": "25 Jun, 12:48 PM",
-      "type": "news",
-      "description": "The auction of Chandigarh\u2019s heritage furniture in Paris has been stopped following the intervention of the Embassy of India in France. Two armchairs d..."
-    },
-    {
       "title": "US defence firm Anduril in talks for Nissan plant to build drones in Japan: Reports",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/us-defence-firm-anduril-in-talks-for-nissan-plant-to-build-drones-in-japan-reports/131985166",
       "source": "Economic Times",
@@ -386,15 +395,6 @@
       "time": "25 Jun, 11:37 AM",
       "type": "news",
       "description": "The startup, founded by IIT Madras professor Satya Chakravarthy, builds electric aircraft capable of vertical takeoff and landing (eVTOL) that can nav..."
-    },
-    {
-      "title": "United Kingdom PM Keir Starmer to continue as MP after stepping down as Labour leader",
-      "link": "https://newsonair.gov.in/united-kingdom-pm-keir-starmer-to-continue-as-mp-after-stepping-down-as-labour-leader/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-25T11:32:41+05:30",
-      "time": "25 Jun, 11:32 AM",
-      "type": "news",
-      "description": "In the United Kingdom, Keir Starmer will continue his term as Labour Party member of Parliament for Holborn and St Pancras in London. A Downing Street..."
     },
     {
       "title": "US defence firm Anduril in talks for Nissan plant to build drones in Japan, sources say",
@@ -728,15 +728,6 @@
       "time": "24 Jun, 09:32 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Iran's Missile Programme Not Part of Deal with US: Prez Pezeshkian",
-      "link": "https://www.deccanchronicle.com/west-asia/irans-missile-programme-not-part-of-deal-with-us-president-pezeshkian-1965846",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-24T07:50:38+05:30",
-      "time": "24 Jun, 07:50 AM",
-      "type": "news",
-      "description": "He also defended Iran's missile programme, describing it as a crucial component of the country's defence strategy"
     }
   ],
   "tweets": [
@@ -821,7 +812,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "\"Khawaja Asif is back with his favourite conspiracy theory: blaming India for everything! Now, according to his latest 'revelation,' India is sending israeli drones to Afghanistan inside medical boxes. Is there anything they won't blame India for?",
+      "title": "RT by @OsintTV: \"Khawaja Asif is back with his favourite conspiracy theory: blaming India for everything! Now, according to his latest 'revelation,' India is sending israeli drones to Afghanistan inside medical boxes. Is there anything they won't blame India for?",
       "link": "https://nitter.net/OsintTV/status/2070191583715053796#m",
       "source": "Osint TV",
       "sort_key": "2026-06-25T22:35:10+05:30",
@@ -1640,7 +1631,7 @@
       "thumbnail": "https://img.youtube.com/vi/FWIjbUHo3To/mqdefault.jpg"
     },
     {
-      "title": "Indian Defence Updates : US F-414 Deadlock,800 Km Golden Horizon Deal,RR 140 kN Engine Big Offer",
+      "title": "Indian Defence Updates : US AMCA Sabotage,800 Km Golden Horizon Deal,RR 140 kN Engine Big Offer",
       "link": "https://www.youtube.com/watch?v=mjP5ZF4uNWc",
       "source": "Indian Defence Updates",
       "sort_key": "2026-06-25T17:29:36+05:30",
@@ -1704,6 +1695,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
