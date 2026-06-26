@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Senior US military official arrives in Venezuela to oversee earthquake response: Southern Command",
+      "link": "https://www.newindianexpress.com/world/2026/Jun/26/senior-us-military-official-arrives-in-venezuela-to-oversee-earthquake-response-southern-command",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-26T13:00:30+05:30",
+      "time": "26 Jun, 01:00 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "SpaceX plans to build &#039;Starpipe&#039; natural gas pipeline to fuel Starship rockets",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/spacex-plans-to-build-starpipe-natural-gas-pipeline-to-fuel-starship-rockets/132009835",
+      "source": "Economic Times",
+      "sort_key": "2026-06-26T12:43:46+05:30",
+      "time": "26 Jun, 12:43 PM",
+      "type": "news",
+      "description": "The 40-story rocket is central to SpaceX&#039;s push to expand its Starlink broadband network, deploy orbital AI data \u200bcenter satellites, and eventual..."
+    },
+    {
+      "title": "Government officially names, for the first time, 6 Indian military personnel killed in Operation Sindoor",
+      "link": "https://economictimes.indiatimes.com/news/defence/government-officially-names-for-the-first-time-6-indian-military-personnel-killed-in-operation-sindoor/articleshow/132009749.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-26T12:43:13+05:30",
+      "time": "26 Jun, 12:43 PM",
+      "type": "news",
+      "description": "For the first time, the government has officially named six Indian soldiers, including five from the Army and one from the Air Force, who died during ..."
+    },
+    {
+      "title": "India signs US-led AI supply chain initiative at Pax Silica Summit",
+      "link": "https://newsonair.gov.in/india-signs-us-led-ai-supply-chain-initiative-at-pax-silica-summit/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T12:40:09+05:30",
+      "time": "26 Jun, 12:40 PM",
+      "type": "news",
+      "description": "India, along with 34 other countries, has signed a US-led initiative to build trusted and resilient supply chains to support artificial intelligence (..."
+    },
+    {
+      "title": "UAE Hosts Grand Commemoration of 150 Years of Vande Mataram",
+      "link": "https://newsonair.gov.in/uae-hosts-grand-commemoration-of-150-years-of-vande-mataram/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T12:33:13+05:30",
+      "time": "26 Jun, 12:33 PM",
+      "type": "news",
+      "description": "The Indian People\u2019s Forum (IPF) UAE hosted a commemorative event in Dubai marking 150 years of the iconic national song Vande Mataram, bringing togeth..."
+    },
+    {
+      "title": "Jaishankar, South Korean Foreign Minister review strategic partnership during Seoul visit",
+      "link": "https://www.indiastrategic.in/jaishankar-south-korean-foreign-minister-review-strategic-partnership-during-seoul-visit/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-26T12:25:46+05:30",
+      "time": "26 Jun, 12:25 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 26. External Affairs Minister S Jaishankar held wide-ranging talks with South Korean Foreign Minister Cho Hyun in Seoul during his ..."
+    },
+    {
       "title": "India reaffirms commitment to women-led development at SCO Women\u2019s Forum",
       "link": "https://newsonair.gov.in/india-reaffirms-commitment-to-women-led-development-at-sco-womens-forum/",
       "source": "All India Radio",
@@ -35,15 +89,6 @@
       "time": "26 Jun, 12:05 PM",
       "type": "news",
       "description": "<p>New Delhi, June 26. Prime Minister Narendra Modi will undertake a state visit to Seychelles from June 27 to 29 at the invitation of Seychelles Pres..."
-    },
-    {
-      "title": "India signs US-led AI supply chain initiative at Pax Silica Summit",
-      "link": "https://newsonair.gov.in/india-signs-us-led-ai-supply-chain-initiative-at-pax-silica-summit/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T12:02:09+05:30",
-      "time": "26 Jun, 12:02 PM",
-      "type": "news",
-      "description": "India, along with 34 other countries, has signed a US-led initiative to build trusted and resilient supply chains to support artificial intelligence (..."
     },
     {
       "title": "Five-day Bara Shaheed Dargah Rottela Panduga begins in Nellore amid tight security",
@@ -163,13 +208,13 @@
       "description": "The International Maritime Organization (IMO) has paused its efforts to evacuate stranded ships through the Strait of Hormuz after a vessel was hit by..."
     },
     {
-      "title": "Tension at Uttarakhand border as Nihang Sikhs breach barricades, head towards Hemkund Sahib",
+      "title": "Nihang-police standoff in Uttarakhand ends, heavy security continues at border with Himachal",
       "link": "https://www.tribuneindia.com/news/uttarakhand/tension-at-uttarakhand-border-as-nihang-sikhs-breach-barricades-head-towards-hemkund-sahib",
       "source": "The Tribune",
       "sort_key": "2026-06-26T08:53:05+05:30",
       "time": "26 Jun, 08:53 AM",
       "type": "news",
-      "description": "High drama and tension prevailed at the Himachal Pradesh-Uttarakhand border on Thursday night after a large group of Nihang Sikhs clashed with the pol..."
+      "description": "A day after a tense face-off between a large group of Nihang Sikhs and security personnel at the Kulhal border check post near Paonta Sahib of Sirmaur..."
     },
     {
       "title": "Rescue operations continue as Venezuela earthquake toll climbs to 235",
@@ -179,15 +224,6 @@
       "time": "26 Jun, 08:35 AM",
       "type": "news",
       "description": "In Venezuela, the death toll from two powerful earthquakes has risen to 235, with more than 1,500 people injured. Rescue teams are searching through t..."
-    },
-    {
-      "title": "IMF says India remains a key driver of global economic growth",
-      "link": "https://newsonair.gov.in/imf-says-india-remains-a-key-driver-of-global-economic-growth/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T07:48:39+05:30",
-      "time": "26 Jun, 07:48 AM",
-      "type": "news",
-      "description": "The International Monetary Fund (IMF) has said that India continues to be a major driver of global economic growth despite the economic impact of the ..."
     },
     {
       "title": "Amid Ebola outbreak, India launches health form portal for foreign travellers",
@@ -352,6 +388,15 @@
       "description": ""
     },
     {
+      "title": "Indian Army participates in joint UN peacekeeping drills during Exercise Khaan Quest",
+      "link": "https://defencemonitor.in/indian-army-participates-in-joint-un-peacekeeping-drills-during-exercise-khaan-quest/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-25T17:27:47+05:30",
+      "time": "25 Jun, 05:27 PM",
+      "type": "news",
+      "description": "<p>Ulaanbaatar, June 25 (IANS) The Indian Army contingent participating in Exercise Khaan Quest undertook joint UN peacekeeping drills, including patr..."
+    },
+    {
       "title": "Tashi Network, DroneVerse complete drone swarm field trial in Delhi",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tashi-network-droneverse-complete-drone-swarm-field-trial-in-delhi/131991689",
       "source": "Economic Times",
@@ -413,15 +458,6 @@
       "time": "25 Jun, 01:43 PM",
       "type": "news",
       "description": "<p>New Delhi, June 25, 2026. Air India Express today announced the launch of direct flights between Guwahati and Dubai, and Guwahati and Abu Dhabi, be..."
-    },
-    {
-      "title": "India launches AIR SUVIDHA 2.0 amid Ebola outbreak to strengthen airport health screening",
-      "link": "https://www.indiastrategic.in/india-launches-air-suvidha-2-0-amid-ebola-outbreak-to-strengthen-airport-health-screening/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-25T13:37:30+05:30",
-      "time": "25 Jun, 01:37 PM",
-      "type": "news",
-      "description": "<p>New Delhi, June 25. The Ministry of Civil Aviation and Delhi International Airport Limited (DIAL) on June 25 launched AIR SUVIDHA 2.0, an upgraded ..."
     },
     {
       "title": "Bengaluru startup Airbound ties up with Andhra Pradesh to build drone delivery network",
@@ -613,6 +649,24 @@
       "description": "Top Army brass, led by Chief of Defence Staff General N S Raja Subramani, assured a parliamentary panel of robust defense strategies. Forces are adequ..."
     },
     {
+      "title": "Bharat Dynamics bags Rs 1,348 crore order from HAL",
+      "link": "https://defencemonitor.in/bharat-dynamics-bags-rs-1348-crore-order-from-hal/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-24T17:19:54+05:30",
+      "time": "24 Jun, 05:19 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 24 (IANS) Bharat Dynamics has won an order worth Rs 1,347.71 crore from Hindustan Aeronautics Limited (HAL) for the manufacture of ..."
+    },
+    {
+      "title": "SAIL supplied 5,700 tonnes of special steel for three newly commissioned Indian Navy ships",
+      "link": "https://defencemonitor.in/sail-supplied-5700-tonnes-of-special-steel-for-three-newly-commissioned-indian-navy-ships/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-24T17:18:53+05:30",
+      "time": "24 Jun, 05:18 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 24 (IANS) State-run Maharatna steel giant SAIL on Wednesday said it supplied 5,700 tonnes of special steel for three recently commi..."
+    },
+    {
       "title": "Indian-origin CEOs leading global companies in 2026: Kunal Shah, Sundar Pichai, Satya Nadella, Neal Mohan and more",
       "link": "https://indianexpress.com/article/world/kunal-shah-whatsapp-ceo-meta-cred-investment-indian-origin-global-ceos-satya-nadella-microsoft-sundar-pichai-alphabet-neal-mohan-youtube-raj-subramaniam-fedex-arvind-krishna-ibm-nikesh-arora-p-1075471-10754711/",
       "source": "The Indian Express",
@@ -728,18 +782,79 @@
       "time": "24 Jun, 01:56 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Did Pakistan really down India's Rafale fighter jets during Operation Sindoor? Latest IAF tender reveals the truth",
-      "link": "https://economictimes.indiatimes.com/news/defence/did-pakistan-really-down-indias-rafale-fighter-jets-during-operation-sindoor-latest-iaf-tender-reveals-the-truth/articleshow/131958513.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-24T12:43:37+05:30",
-      "time": "24 Jun, 12:43 PM",
-      "type": "news",
-      "description": "The Indian Air Force has issued a tender seeking a five-month bridge support package for all 36 Rafale fighter jets acquired from France, ahead of the..."
     }
   ],
   "tweets": [
+    {
+      "title": "\ud83d\udcf7Nebo-UM VHF surveillance and tracking radar.",
+      "link": "https://nitter.net/DefenceDecode/status/2070408537248014807#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-06-26T12:57:16+05:30",
+      "time": "26 Jun, 12:57 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udcf7Nebo-UM VHF surveillance and tracking radar.</p>\n<img src=\"https://nitter.net/pic/media%2FHLuRYGEbAAAapV6.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "\ud83d\udea8 BREAKING: Mahesh Dixit Appointed Next IB Chief A Telangana cadre IPS officer, Dixit previously headed the Subsidiary Intelligence Bureau in Jammu & Kashmir and has held key assignments in counter-terrorism, national security, and intelligence operations. He also played a significant role in security planning following the abrogation of Article 370 and during the G20 meeting in Srinagar.",
+      "link": "https://nitter.net/NetramDefence/status/2070404561718968335#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-26T12:41:28+05:30",
+      "time": "26 Jun, 12:41 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 BREAKING: Mahesh Dixit Appointed Next IB Chief<br />\n<br />\nA Telangana cadre IPS officer, Dixit previously headed the Subsidiary Intelligence Bureau in Jammu & Kashmir and has held key assignments in counter-terrorism, national security, and intelligence operations. He also played a significant role in security planning following the abrogation of Article 370 and during the G20 meeting in Srinagar.</p>\n<img src=\"https://nitter.net/pic/media%2FHLuN949bEAA-D79.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Mahesh Dixit, a senior IPS officer of the 1993 batch, has been appointed as the new IB chief, bringing decades of experience in intelligence operations, counter-terrorism, and internal security.",
+      "link": "https://nitter.net/Goreunit/status/2070402243921359262#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-26T12:32:15+05:30",
+      "time": "26 Jun, 12:32 PM",
+      "type": "tweets",
+      "content": "<p>Mahesh Dixit, a senior IPS officer of the 1993 batch, has been appointed as the new IB chief, bringing decades of experience in intelligence operations, counter-terrorism, and internal security.</p>\n<img src=\"https://nitter.net/pic/media%2FHLuL3N_bEAAoQD9.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "The National Investigation Agency (NIA) filed a chargesheet against 11 individuals at the Special Court in Guwahati, Assam. They are accused of operating a terror network to expand the ideology of Imam Mahmuder Kafila (IMK), an offshoot of the banned Jama'atul Mujahideen Bangladesh (JMB), across West Bengal, Assam, and Tripura.",
+      "link": "https://nitter.net/NetramDefence/status/2070402217710965068#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-26T12:32:09+05:30",
+      "time": "26 Jun, 12:32 PM",
+      "type": "tweets",
+      "content": "<p>The National Investigation Agency (NIA) filed a chargesheet against 11 individuals at the Special Court in Guwahati, Assam. They are accused of operating a terror network to expand the ideology of Imam Mahmuder Kafila (IMK), an offshoot of the banned Jama'atul Mujahideen Bangladesh (JMB), across West Bengal, Assam, and Tripura.</p>\n<img src=\"https://nitter.net/pic/media%2FHLuL0whbcAAye-m.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Just in: European Ambassadors, diplomats based in Delhi to meet BJP Chief Nitin Nabin in Delhi today under \"know BJP initiative\"",
+      "link": "https://nitter.net/sidhant/status/2070400830604194126#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T12:26:38+05:30",
+      "time": "26 Jun, 12:26 PM",
+      "type": "tweets",
+      "content": "<p>Just in: European Ambassadors, diplomats based in Delhi to meet BJP Chief Nitin Nabin in Delhi today under \"know BJP initiative\"</p>\n<img src=\"https://nitter.net/pic/media%2FHLuKlWDaMAACPPC.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Opinion : ASTUTE is the most beautiful looking submarine out there..",
+      "link": "https://nitter.net/alpha_defense/status/2070400201685438710#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-26T12:24:08+05:30",
+      "time": "26 Jun, 12:24 PM",
+      "type": "tweets",
+      "content": "<p>Opinion : ASTUTE is the most beautiful looking submarine out there..</p>\n<img src=\"https://nitter.net/pic/media%2FHLuJ-H7bsAAFHOa.png\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @sidhant: Is an Indian passport final proof of citizenship? It is strong evidence of nationality, but disputed cases are decided under citizenship law and verified records. Did you know special India\u2013Pakistan and India\u2013Bangladesh passports also existed? Watch my explainer.",
+      "link": "https://nitter.net/rsrobin1/status/2070399360618332649#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T12:20:48+05:30",
+      "time": "26 Jun, 12:20 PM",
+      "type": "tweets",
+      "content": "<p>Is an Indian passport final proof of citizenship? <br />\nIt is strong evidence of nationality, but disputed cases are decided under citizenship law and verified records. <br />\nDid you know special India\u2013Pakistan and India\u2013Bangladesh passports also existed? Watch my explainer.</p>\n<a href=\"https://nitter.net/rsrobin1/status/2070399360618332649#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070399112911204352%2Fimg%2F6bQeka8zg48v_SfC.jpg\" />\n</a>",
+      "author": "@rsrobin1"
+    },
     {
       "title": "Japan's Ambassador Ono Keiichi speaks to Assam Chief Minister Himanta Biswa Sarma on his country's committment to investments in electronics, semiconductors and infrastructure in the North East Indian state. Comes days before Japan PM Sanae Takaichi's India visit.",
       "link": "https://nitter.net/sidhant/status/2070398575058604507#m",
@@ -1068,26 +1183,6 @@
       "time": "25 Jun, 08:33 PM",
       "type": "tweets",
       "content": "<p>Indian diplomats who have held cabinet rank as envoys <br />\nVijaya Lakshmi Pandit (USSR)  <br />\nV. K. Krishna Menon (UK)<br />\nDurga Prasad Dhar (USSR)<br />\nInder Kumar Gujral (USSR)<br />\nTriloki Nath Kaul (USSR)<br />\nDr. Karan Singh (US) <br />\nDr L.M. Singhvi (UK)<br />\n<br />\nInputs from <a href=\"https://nitter.net/amitabhmattoo\" title=\"Amitabh Mattoo\">@amitabhmattoo</a></p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: Indian govt elevates its High Commissioner to Dhaka at Cabinet rank level</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070085755276513770#m\">https://nitter.net/sidhant/status/2070085755276513770#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Canada's intel agency, CSIS pays homage to victims of 1985 Air India bombing. Says, bomb was planted by \"Canada based Khalistani extremists\"",
-      "link": "https://nitter.net/sidhant/status/2070159795915796814#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T20:28:51+05:30",
-      "time": "25 Jun, 08:28 PM",
-      "type": "tweets",
-      "content": "<p>Canada's intel agency, CSIS pays homage to victims of 1985 Air India bombing. Says, bomb was planted by \"Canada based Khalistani extremists\"</p>\n<img src=\"https://nitter.net/pic/media%2FHLqvXRiboAADsa9.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India\u2019s newly appointed High Commissioner to Bangladesh, Dinesh Trivedi at India Visa Application Center India has announced re start of tourists visa facilities in the country, that came to a halt during Yunus term due to attack on Indian missions. Pic: India in Bangladesh",
-      "link": "https://nitter.net/sidhant/status/2070155323495870787#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T20:11:05+05:30",
-      "time": "25 Jun, 08:11 PM",
-      "type": "tweets",
-      "content": "<p>India\u2019s newly appointed High Commissioner to Bangladesh, Dinesh Trivedi at India Visa Application Center<br />\n<br />\nIndia has announced re start of tourists visa facilities in the country, that came to a halt during Yunus term due to attack on Indian missions. <br />\n<br />\nPic: India in Bangladesh</p>\n<img src=\"https://nitter.net/pic/media%2FHLqrGKTagAAVsBv.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1521,16 +1616,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "HAL has successfully handed over the 1000th Repaired and Overhauled (ROH) AL-31FP engine to the Indian Air Force (IAF) on 23rd June 2026.",
-      "link": "https://nitter.net/alpha_defense/status/2069734239797690395#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-24T16:17:51+05:30",
-      "time": "24 Jun, 04:17 PM",
-      "type": "tweets",
-      "content": "<p>HAL has successfully handed over the 1000th Repaired and Overhauled (ROH) AL-31FP engine to the Indian Air Force (IAF) on 23rd June 2026.</p>\n<img src=\"https://nitter.net/pic/media%2FHLksT7cXIAEPauf.png\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "HAL has successfully handed over the 1000th Repaired & Overhauled(#ROH) AL-31FP engine to the Indian Air Force. Powering the Su-30MKI fleet, the milestone highlights HAL Koraput's growing MRO capabilities, with annual overhaul capacity now exceeding 100 engines.",
       "link": "https://nitter.net/DefenceDecode/status/2069727718514778233#m",
       "source": "Defense Decode",
@@ -1539,16 +1624,6 @@
       "type": "tweets",
       "content": "<p>HAL has successfully handed over the 1000th Repaired &amp; Overhauled(<a href=\"https://nitter.net/search?f=tweets&amp;q=%23ROH\">#ROH</a>) AL-31FP engine to the Indian Air Force.<br />\nPowering the Su-30MKI fleet, the milestone highlights HAL Koraput's growing MRO capabilities, with annual overhaul capacity now exceeding 100 engines.</p>\n<img src=\"https://nitter.net/pic/media%2FHLkmRhBbIAALTuh.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "BREAKING: BrahMos-NG Expected by 2028\u201329 The BrahMos-NG (Next Generation) air-launched supersonic cruise missile is expected to be ready by 2028\u20132029, according to Alexander Maksichev, speaking to Sputnik. The program is a joint venture between India's DRDO and Russia's NPO Mashinostroyeniya. The smaller size allows for better integration on a wider variety of platforms, including ships, submarines, and aircraft. Fighter jets like the HAL Tejas and Su-30MKI will be able to carry multiple missiles at once.",
-      "link": "https://nitter.net/NetramDefence/status/2069719753384738922#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-24T15:20:17+05:30",
-      "time": "24 Jun, 03:20 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: BrahMos-NG Expected by 2028\u201329<br />\n<br />\nThe BrahMos-NG (Next Generation) air-launched supersonic cruise missile is expected to be ready by 2028\u20132029, according to Alexander Maksichev, speaking to Sputnik.<br />\n<br />\nThe program is a joint venture between India's DRDO and Russia's NPO Mashinostroyeniya. The smaller size allows for better integration on a wider variety of platforms, including ships, submarines, and aircraft. <br />\n<br />\nFighter jets like the HAL Tejas and Su-30MKI will be able to carry multiple missiles at once.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2069719753384738922#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069719390321299456%2Fimg%2Fy2cTK84B75ioNZpJ.jpg\" />\n</a>",
-      "author": "@NetramDefence"
     },
     {
       "title": "RT by @NetramDefence: Manipur police & security forces arrested 4 persons in separate anti-narcotics ops conducted in Imphal East & Thoubal, recovering suspected brown sugar, on June 22. On June 23, police arrested 3 persons in Thoubal and recovered 2 soap cases of ~80 g of suspected brown sugar.",
@@ -1571,16 +1646,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "GE demands 300% cost increase for AMCA engines. India\u2019s negotiations with GE Aerospace over the F414 fighter jet engine have reportedly stalled after the projected cost surged from \u20b970\u201380 crore per engine to over \u20b9200 crore during commercial discussions. The F414 is slated to power the HAL Tejas Mk2 and serve as the interim engine for the Advanced Medium Combat Aircraft (AMCA Mk-1). - Engine cost up nearly 300% - Proposed Indian assembly line could require over $800 million (~\u20b96,000 crore) in investment - Negotiations continue over technology transfer, localisation, production, and support packages - India is also evaluating alternative partnerships with Safran and Rolls-Royce",
-      "link": "https://nitter.net/NetramDefence/status/2069701706888392994#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-24T14:08:34+05:30",
-      "time": "24 Jun, 02:08 PM",
-      "type": "tweets",
-      "content": "<p>GE demands 300% cost increase for AMCA engines.<br />\n<br />\nIndia\u2019s negotiations with GE Aerospace over the F414 fighter jet engine have reportedly stalled after the projected cost surged from \u20b970\u201380 crore per engine to over \u20b9200 crore during commercial discussions.<br />\n<br />\nThe F414 is slated to power the HAL Tejas Mk2 and serve as the interim engine for the Advanced Medium Combat Aircraft (AMCA Mk-1).<br />\n<br />\n- Engine cost up nearly 300%<br />\n- Proposed Indian assembly line could require over $800 million (~\u20b96,000 crore) in investment<br />\n- Negotiations continue over technology transfer, localisation, production, and support packages<br />\n- India is also evaluating alternative partnerships with Safran and Rolls-Royce</p>\n<img src=\"https://nitter.net/pic/media%2FHLkOsm3XUAAVvLJ.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "\ud83d\udea8In a joint operation, Karnataka police and Central Intelligence officials have arrested a suspected terror operative from Uttar Pradesh linked to a Pakistan-based terror organisation. The accused, identified as Suhail, was arrested from a village of Davanagere district, where he had reportedly been living under the guise of a painter. He was in touch with Pakistani nationals and was a part of radical social media groups.",
       "link": "https://nitter.net/Goreunit/status/2069690238600192404#m",
       "source": "War & Gore",
@@ -1589,40 +1654,101 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8In a joint operation, Karnataka police and Central Intelligence officials have arrested a suspected terror operative from Uttar Pradesh linked to a Pakistan-based terror organisation. The accused, identified as Suhail, was arrested from a village of Davanagere district, where he had reportedly been living under the guise of a painter. He was in touch with Pakistani nationals and was a part of radical social media groups.</p>\n<img src=\"https://nitter.net/pic/media%2FHLkETNLaUAAJAUj.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf7Iran's President Masoud Pezeshkian\u00a0has formally invited PM Modi to attend multi-day state funeral and burial ceremonies for Supreme Leader Ayatollah Seyyed Ali Khamenei in Iran.",
-      "link": "https://nitter.net/Goreunit/status/2069688280833241182#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-24T13:15:13+05:30",
-      "time": "24 Jun, 01:15 PM",
-      "type": "tweets",
-      "content": "<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf7Iran's President Masoud Pezeshkian\u00a0has formally invited PM Modi to attend multi-day state funeral and burial ceremonies for Supreme Leader Ayatollah Seyyed Ali Khamenei in Iran.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Escalating costs have emerged as a key hurdle in the India-US GE F414 #AMCA MK1 engine agreement, Price nearly 3 times(200cr/unit) higher than earlier estimates,putting both costs n timelines for the flagship fighter programme at risk. https://www.newindianexpress.com/india/2026/Jun/24/amca-engine-deal-hits-roadblock-over-ges-threefold-price-demand Via @IndianExpress",
-      "link": "https://nitter.net/DefenceDecode/status/2069678870228615483#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-24T12:37:50+05:30",
-      "time": "24 Jun, 12:37 PM",
-      "type": "tweets",
-      "content": "<p>Escalating costs have emerged as a key hurdle in the India-US GE F414 <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMCA\">#AMCA</a> MK1 engine agreement, Price nearly 3 times(200cr/unit) higher than earlier estimates,putting both costs n timelines for the flagship fighter programme at risk.<br />\n<a href=\"https://www.newindianexpress.com/india/2026/Jun/24/amca-engine-deal-hits-roadblock-over-ges-threefold-price-demand\">newindianexpress.com/india/2\u2026</a>  Via <a href=\"https://nitter.net/IndianExpress\" title=\"The Indian Express\">@IndianExpress</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLj5LD3W0AAcCkJ.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "Kulgam Police conduct raids across the district, search homes of suspected OGWs and Jamaat e Islami associates as part of an ongoing investigation.",
-      "link": "https://nitter.net/Goreunit/status/2069675545584160970#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-24T12:24:37+05:30",
-      "time": "24 Jun, 12:24 PM",
-      "type": "tweets",
-      "content": "<p>Kulgam Police conduct raids across the district, search homes of suspected OGWs and Jamaat e Islami associates as part of an ongoing investigation.</p>\n<a href=\"https://nitter.net/Goreunit/status/2069675545584160970#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069106076885434369%2Fimg%2FJfKueNoMPCkM1GOV.jpg\" />\n</a>",
-      "author": "@Goreunit"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Pakistan EXPOSED on Su-57? \ud83d\ude31 , 59% India-Pak War Prediction , India's Mach-10 Carrier Killer",
+      "link": "https://www.youtube.com/watch?v=qD0mvUPpzxg",
+      "source": "Indian Defense News",
+      "sort_key": "2026-06-25T22:36:41+05:30",
+      "time": "25 Jun, 10:36 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/qD0mvUPpzxg/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - IAF Netra AWACS Ready, Swarm Drone Live Trials, Indian Army Russian Guns",
+      "link": "https://www.youtube.com/watch?v=AwfEiRrwDb4",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-25T22:25:56+05:30",
+      "time": "25 Jun, 10:25 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/AwfEiRrwDb4/mqdefault.jpg"
+    },
+    {
+      "title": "Tejas Mk2 : PV1 Details & Update",
+      "link": "https://www.youtube.com/watch?v=FWIjbUHo3To",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-25T19:28:31+05:30",
+      "time": "25 Jun, 07:28 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/FWIjbUHo3To/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : AMCA Sabotage,800 Km Golden Horizon Deal,Rolls-Royce 140kN Engine Big Offer",
+      "link": "https://www.youtube.com/watch?v=mjP5ZF4uNWc",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-25T17:29:36+05:30",
+      "time": "25 Jun, 05:29 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/mjP5ZF4uNWc/mqdefault.jpg"
+    },
+    {
+      "title": "AMCA Engine BREAKTHROUGH! , Astra Mk-3 Will Shock China , FUFA Fighter Drone Revealed",
+      "link": "https://www.youtube.com/watch?v=jfzQ3mRYo84",
+      "source": "Indian Defense News",
+      "sort_key": "2026-06-24T23:07:46+05:30",
+      "time": "24 Jun, 11:07 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/jfzQ3mRYo84/mqdefault.jpg"
+    },
+    {
+      "title": "Dark Cloud on AMCA Manufacturing",
+      "link": "https://www.youtube.com/watch?v=HbbEHKfP07s",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-24T22:32:03+05:30",
+      "time": "24 Jun, 10:32 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/HbbEHKfP07s/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - India New AI-Pilot Aircraft, US 3x Increase Engine Price, SSS Defence Combat Rifle",
+      "link": "https://www.youtube.com/watch?v=t__YqPoW6IE",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-24T22:09:46+05:30",
+      "time": "24 Jun, 10:09 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/t__YqPoW6IE/mqdefault.jpg"
+    },
+    {
+      "title": "India\u2019s Biggest Engine Problem",
+      "link": "https://www.youtube.com/watch?v=pCsz9Rd_Ep0",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-24T17:31:04+05:30",
+      "time": "24 Jun, 05:31 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/pCsz9Rd_Ep0/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : AMCA Engine Shock,RR 120kN Engine Deal,HELINA Order,BrahMos Depot Destroyed",
+      "link": "https://www.youtube.com/watch?v=t0LyNtiTxGQ",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-06-24T17:09:40+05:30",
+      "time": "24 Jun, 05:09 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/t0LyNtiTxGQ/mqdefault.jpg"
+    },
+    {
+      "title": "This India-France Partnership Is Bigger Than Rafale #IndiaFrance #Rafale #shorts",
+      "link": "https://www.youtube.com/shorts/91Pk4nIi7Ps",
+      "source": "Defense Squad",
+      "sort_key": "2026-06-24T13:40:20+05:30",
+      "time": "24 Jun, 01:40 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
