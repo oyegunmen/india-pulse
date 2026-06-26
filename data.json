@@ -1,7 +1,34 @@
 {
   "news": [
     {
-      "title": "Plane crashes into building in China, debris falls from skyscraper",
+      "title": "Missile alert goes off in Dubai warning of incoming projectile",
+      "link": "https://economictimes.indiatimes.com/news/defence/missile-alert-goes-off-in-dubai-warning-of-incoming-projectile/articleshow/132017627.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-26T19:18:23+05:30",
+      "time": "26 Jun, 07:18 PM",
+      "type": "news",
+      "description": "Dubai was briefly jolted by an incoming missile alert on Friday evening, creating a wave of anxiety throughout the emirate. This alert, which subsided..."
+    },
+    {
+      "title": "Death toll in Venezuela earthquakes rises to 589",
+      "link": "https://newsonair.gov.in/death-toll-in-venezuela-earthquakes-rises-to-589/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T19:10:14+05:30",
+      "time": "26 Jun, 07:10 PM",
+      "type": "news",
+      "description": "In Venezuela, the death toll in two powerful earthquakes has risen to 589. Nearly three thousand people have been injured. Rescuers are searching thro..."
+    },
+    {
+      "title": "US Vice President JD Vance says US and Iran agree to set up direct deconfliction channel",
+      "link": "https://newsonair.gov.in/us-vice-president-jd-vance-says-us-and-iran-agree-to-set-up-direct-deconfliction-channel/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T18:35:09+05:30",
+      "time": "26 Jun, 06:35 PM",
+      "type": "news",
+      "description": "US Vice President JD Vance has confirmed that the US and Iran have agreed to set up a direct deconfliction channel with military representatives from ..."
+    },
+    {
+      "title": "China plane crash: Small aircraft hits Beijing\u2019s tallest building; debris rains down",
       "link": "https://indianexpress.com/article/world/plane-crash-china-beijing-guomao-district-citic-tower-10759074/",
       "source": "The Indian Express",
       "sort_key": "2026-06-26T18:08:50+05:30",
@@ -244,15 +271,6 @@
       "description": "<p>By R Anil Kumar London/Bengaluru, June 26, 2026. The UN International Maritime Organization paused its operation to escort ships through the Strait..."
     },
     {
-      "title": "India has emerged as a global leader in renewable energy: German Ambassador",
-      "link": "https://newsonair.gov.in/india-has-emerged-as-a-global-leader-in-renewable-energy-german-ambassador/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T12:14:28+05:30",
-      "time": "26 Jun, 12:14 PM",
-      "type": "news",
-      "description": "German Ambassador to India Philip Ackermann has said that India has emerged as a global leader in renewable energy. Speaking to a news agency, Mr Acke..."
-    },
-    {
       "title": "Modi to visit Seychelles as Guest of Honour for National Day Golden Jubilee celebrations",
       "link": "https://www.indiastrategic.in/modi-to-visit-seychelles-as-guest-of-honour-for-national-day-golden-jubilee-celebrations/",
       "source": "India Strategic",
@@ -278,15 +296,6 @@
       "time": "26 Jun, 11:09 AM",
       "type": "news",
       "description": "General Christopher Donahue, a highly respected figure leading U.S. Army forces in Europe and Africa, is stepping down on July 2. His departure comes ..."
-    },
-    {
-      "title": "Union Minister Piyush Goyal holds talks with UK Trade Secretary Peter Kyle in London",
-      "link": "https://newsonair.gov.in/union-minister-piyush-goyal-holds-talks-with-uk-trade-secretary-peter-kyle-in-london/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T10:06:24+05:30",
-      "time": "26 Jun, 10:06 AM",
-      "type": "news",
-      "description": "Union Commerce and Industry Minister Piyush Goyal has said he held meaningful discussions with his UK counterpart, Secretary of State for Business and..."
     },
     {
       "title": "Why Nihang Sikhs marched to Himachal-Uttarakhand border and what caused the tensions?",
@@ -388,6 +397,15 @@
       "description": "<p>Imphal: In a development that could influence ongoing discussions surrounding one of the most contentious incidents in Manipur&#8217;s ethnic unres..."
     },
     {
+      "title": "Army vs police in J&K after FIR against CO, major for \u2018storming police station with iron rods, rifles\u2019",
+      "link": "https://theprint.in/india/army-vs-police-in-jk-after-attempted-murder-fir-against-major-personnel-for-storming-police-station/2969712/",
+      "source": "The Print",
+      "sort_key": "2026-06-25T21:27:01+05:30",
+      "time": "25 Jun, 09:27 PM",
+      "type": "news",
+      "description": "It started when Kishtwar additional superintendent of police stopped a vehicle along route being taken by Dy Commissioner Pankaj Kumar Sharma, who was..."
+    },
+    {
       "title": "IAF gets final operational clearance for indigenous &#039;Netra&#039; AEW&amp;C system",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/iaf-gets-final-operational-clearance-for-indigenous-netra-aewc-system/131997576",
       "source": "Economic Times",
@@ -458,6 +476,15 @@
       "time": "25 Jun, 05:44 PM",
       "type": "news",
       "description": ""
+    },
+    {
+      "title": "Indian Army participates in joint UN peacekeeping drills during Exercise Khaan Quest",
+      "link": "https://defencemonitor.in/indian-army-participates-in-joint-un-peacekeeping-drills-during-exercise-khaan-quest/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-25T17:27:47+05:30",
+      "time": "25 Jun, 05:27 PM",
+      "type": "news",
+      "description": "<p>Ulaanbaatar, June 25 (IANS) The Indian Army contingent participating in Exercise Khaan Quest undertook joint UN peacekeeping drills, including patr..."
     },
     {
       "title": "Tashi Network, DroneVerse complete drone swarm field trial in Delhi",
@@ -566,15 +593,6 @@
       "time": "25 Jun, 11:01 AM",
       "type": "news",
       "description": "Switzerland, which is not in NATO, had ordered five Patriot systems in 2022, with delivery scheduled to begin this year and completed in 2028."
-    },
-    {
-      "title": "US Iran War Live Updates: India gets discounted Iranian oil offers after US waiver, says report",
-      "link": "https://indianexpress.com/article/world/iran-live-updates-strait-of-hormuz-us-deal-shipping-routes-donald-trump-irgc-israel-vs-lebanon-10756303/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-25T10:58:09+05:30",
-      "time": "25 Jun, 10:58 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Bengaluru startup Airbound ties up with Andhra Pradesh to build drone delivery network",
@@ -704,6 +722,46 @@
     }
   ],
   "tweets": [
+    {
+      "title": "Two IAF C-17s are en route to #Venezuela with over 35 tonnes of humanitarian aid, an Indian Army Field Hospital Unit, medicines, medical equipment and two BHISHM Cubes to support earthquake relief operations. #OperationAmistad",
+      "link": "https://nitter.net/DefenceDecode/status/2070503763601957271#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-06-26T19:15:39+05:30",
+      "time": "26 Jun, 07:15 PM",
+      "type": "tweets",
+      "content": "<p>Two IAF C-17s are en route to <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Venezuela\">#Venezuela</a> with over 35 tonnes of humanitarian aid, an Indian Army Field Hospital Unit, medicines, medical equipment and two BHISHM Cubes to support earthquake relief operations.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23OperationAmistad\">#OperationAmistad</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLvoD-Ub0AAQBPb.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLvoD-HbkAA6QJK.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "Lieutenant General Rajesh Pushkar has assumed command as the General Officer Commanding-in-Chief of the prestigious Southern Command. Previously, he commanded the II Corps and played a key operational and strategic leadership role during Operation Sindoor. The NDR Team & Community extends its heartfelt congratulations to Lt. Gen. Rajesh Pushkar on his appointment and wishes him continued success in leading the Southern Command with distinction, strengthening the Indian Army's operational excellence and unwavering commitment to national security.",
+      "link": "https://nitter.net/NetramDefence/status/2070503666834960731#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-26T19:15:16+05:30",
+      "time": "26 Jun, 07:15 PM",
+      "type": "tweets",
+      "content": "<p>Lieutenant General Rajesh Pushkar has assumed command as the General Officer Commanding-in-Chief of the prestigious Southern Command. Previously, he commanded the II Corps and played a key operational and strategic leadership role during Operation Sindoor.<br />\n<br />\nThe NDR Team & Community extends its heartfelt congratulations to Lt. Gen. Rajesh Pushkar on his appointment and wishes him continued success in leading the Southern Command with distinction, strengthening the Indian Army's operational excellence and unwavering commitment to national security.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2070503666834960731#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070503561923031040%2Fpu%2Fimg%2F-SKeYAxKEwSCAbTZ.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>The Strike corps commander of Indian Army, Lt Gen Pushkar gave a defining interview to media. He clarified that the preparations for Operation Sindoor 2 are on at massive scale and this time Pakistan will not be spared.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2026975811954512301#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2026975676755222529%2Fimg%2Fj7vI6YdrQBdvLbvr.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2026975811954512301#m\">https://nitter.net/NetramDefence/status/2026975811954512301#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Whose brilliant idea was to cock a weapon infront of a RR QRT that too infront of their company commander?",
+      "link": "https://nitter.net/elitepredatorss/status/2070494269349970362#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-26T18:37:56+05:30",
+      "time": "26 Jun, 06:37 PM",
+      "type": "tweets",
+      "content": "<p>Whose brilliant idea was to cock a weapon infront of a RR QRT that too infront of their company commander?</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2070494269349970362#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070494255303512064%2Fimg%2FdtmHh1vDQcnj44PR.jpg\" />\n</a>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "China, Bangladesh agree to advance the Mongla Port Facilities Modernization, Chinese Economic & Industrial Zone in Chattogram; focus connectivity; Bangladesh restates One China policy, appreciates China\u2019s role in addressing the Rohingya refugee crisis Joint Statement:",
+      "link": "https://nitter.net/sidhant/status/2070489719809482921#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T18:19:51+05:30",
+      "time": "26 Jun, 06:19 PM",
+      "type": "tweets",
+      "content": "<p>China, Bangladesh agree to advance the Mongla Port Facilities Modernization, Chinese Economic &amp; Industrial Zone in Chattogram; focus connectivity; Bangladesh restates One China policy, appreciates China\u2019s role in addressing the Rohingya refugee crisis<br />\n<br />\nJoint Statement:</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Flash: China extends support to Bangladesh's participation in BRICS, &amp; application for SCO<br />\n<br />\nTrade, connectivity, ports dominate the talks during Bangladesh PM Tarique Rahman's India visit.<br />\n<br />\nChina, Bangladesh joint statement</p>\n<img src=\"https://nitter.net/pic/media%2FHLvQrrXagAAhIOt.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLvQsrwbAAAztne.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLvQthWbgAAEbkm.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLvQrvsacAAXzhY.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070477970876027283#m\">https://nitter.net/sidhant/status/2070477970876027283#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "We waiting how US will give us a Comparative Advantage [with respect] to our neighbours, SE Asian countries says Indian Trade Minister Piyush Goyal on India, US trade deal",
       "link": "https://nitter.net/sidhant/status/2070485450272227450#m",
@@ -1023,16 +1081,6 @@
       "type": "tweets",
       "content": "<p>Is an Indian passport final proof of citizenship? <br />\nIt is strong evidence of nationality, but disputed cases are decided under citizenship law and verified records. <br />\nDid you know special India\u2013Pakistan and India\u2013Bangladesh passports also existed? Watch my explainer.</p>\n<a href=\"https://nitter.net/rsrobin1/status/2070399360618332649#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070399112911204352%2Fimg%2F6bQeka8zg48v_SfC.jpg\" />\n</a>",
       "author": "@rsrobin1"
-    },
-    {
-      "title": "Japan's Ambassador Ono Keiichi speaks to Assam Chief Minister Himanta Biswa Sarma on his country's committment to investments in electronics, semiconductors and infrastructure in the North East Indian state. Comes days before Japan PM Sanae Takaichi's India visit.",
-      "link": "https://nitter.net/sidhant/status/2070398575058604507#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-26T12:17:41+05:30",
-      "time": "26 Jun, 12:17 PM",
-      "type": "tweets",
-      "content": "<p>Japan's Ambassador Ono Keiichi speaks to Assam Chief Minister Himanta Biswa Sarma on his country's committment to investments in electronics, semiconductors and infrastructure in the North East Indian state. Comes days before Japan PM Sanae Takaichi's India visit.</p>",
-      "author": "@sidhant"
     },
     {
       "title": "Hope this isn\u2019t Chinese. Looks remarkably close to SJI unit from China.",
@@ -1583,36 +1631,6 @@
       "type": "tweets",
       "content": "<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 India and the U.S. report substantial progress in Bilateral Trade Agreement talks, with both sides working toward an interim deal and deeper economic cooperation. \ud83d\udcc8\ud83e\udd1d</p>\n<img src=\"https://nitter.net/pic/media%2FHLlXsh5boAEwGa7.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "8th Muharram processions in Srinagar today. Interestingly Muharram Processions were banned in Srinagar city for 30 yeas since 1990 , till LG administration lifted ban in 2023.",
-      "link": "https://nitter.net/AngryRumi7/status/2069780500034867338#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-06-24T19:21:40+05:30",
-      "time": "24 Jun, 07:21 PM",
-      "type": "tweets",
-      "content": "<p>8th Muharram processions in Srinagar today. <br />\n<br />\nInterestingly Muharram Processions were banned in Srinagar city for 30 yeas since 1990 , till LG administration lifted ban in 2023.</p>\n<a href=\"https://nitter.net/AngryRumi7/status/2069780500034867338#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2069780417943924736%2Fimg%2FGelcBLvIL2JdlhDI.jpg\" />\n</a>",
-      "author": "@AngryRumi7"
-    },
-    {
-      "title": "RT by @AngryRumi7: Air India flight AI479 entered Pakistan\u2019s Airspace near Lahore while manoeuvring, on 22nd June. \ud83c\uddee\ud83c\uddf3 \ud83c\uddf5\ud83c\uddf0",
-      "link": "https://nitter.net/ConflictUpdatee/status/2069771570944647579#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-06-24T18:46:11+05:30",
-      "time": "24 Jun, 06:46 PM",
-      "type": "tweets",
-      "content": "<p>Air India flight AI479 entered Pakistan\u2019s Airspace near Lahore while manoeuvring, on 22nd June. <br />\n\ud83c\uddee\ud83c\uddf3 \ud83c\uddf5\ud83c\uddf0</p>\n<img src=\"https://nitter.net/pic/media%2FHLlORSFaMAAhio-.jpg\" />",
-      "author": "@ConflictUpdatee"
-    },
-    {
-      "title": "\ud83d\udea8 Dubbed video, accent is of UP.",
-      "link": "https://nitter.net/elitepredatorss/status/2069766176587350520#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-24T18:24:45+05:30",
-      "time": "24 Jun, 06:24 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Dubbed video, accent is of UP.</p>\n<hr />\n<blockquote>\n<b>Brahmin Speaks (@BrahminSpeaks01)</b>\n<p>\n<p>Ajeet bharti or Ashutosh ko ye msg sunna chahiye<br />\n.<br />\nKhud ko gyanchnd ban rhe h , mtlb sena k jawan ch*%tiys h,kal se 180 jawano ki video dekh chuka hu, jo bharat Tiwari ka samman kr rhe h<br />\n.<br />\nOr ye dono unko nksli bol rhe h</p>\n<a href=\"https://nitter.net/BrahminSpeaks01/status/2069482177323213294#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2069412404354818048%2Fpu%2Fimg%2FbXZNxfoGDHgqyWYl.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/BrahminSpeaks01/status/2069482177323213294#m\">https://nitter.net/BrahminSpeaks01/status/2069482177323213294#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -1699,6 +1717,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
