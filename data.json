@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Plane cabin products maker Jamco expands India operations in capacity push",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/plane-cabin-products-maker-jamco-expands-india-operations-in-capacity-push/132012501",
+      "source": "Economic Times",
+      "sort_key": "2026-06-26T15:12:39+05:30",
+      "time": "26 Jun, 03:12 PM",
+      "type": "news",
+      "description": "The expansion plans for Jamco, taken private by Bain Capital last year, include \u200binvesting $150 million in India, raising its headcount in the country..."
+    },
+    {
+      "title": "India sends humanitarian aid to Venezuela under Operation Amistad",
+      "link": "https://newsonair.gov.in/india-sends-humanitarian-aid-to-venezuela-under-operation-amistad/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-26T14:27:43+05:30",
+      "time": "26 Jun, 02:27 PM",
+      "type": "news",
+      "description": "External Affairs Minister Dr S. Jaishankar announced Operation Amistad, under which two Indian Air Force C-17 aircraft took off for Venezuela carrying..."
+    },
+    {
+      "title": "Next 3 years crucial for war against narco-terrorism: Shah",
+      "link": "https://www.tribuneindia.com/news/india/next-3-years-crucial-for-war-against-narco-terrorism-shah",
+      "source": "The Tribune",
+      "sort_key": "2026-06-26T14:24:39+05:30",
+      "time": "26 Jun, 02:24 PM",
+      "type": "news",
+      "description": "Home Minister Amit Shah on Friday said the next three years would be crucial in India&#8217;s fight against narco-terrorism, asserting that the strate..."
+    },
+    {
       "title": "Japanese Prime Minister Sanae Takaichi to visit India next month",
       "link": "https://newsonair.gov.in/japanese-prime-minister-sanae-takaichi-to-visit-india-next-month/",
       "source": "All India Radio",
@@ -8,6 +35,15 @@
       "time": "26 Jun, 02:21 PM",
       "type": "news",
       "description": "Prime Minister of Japan Sanae Takaichi will be on an official visit to New Delhi from the 1st to the 3rd of next month for the 16th India-Japan Annual..."
+    },
+    {
+      "title": "Operation Amistad: India dispatches 41 member medical team, relief supplies to earthquake-hit Venezuela",
+      "link": "https://economictimes.indiatimes.com/news/defence/operation-amistad-india-dispatches-medical-team-relief-supplies-to-earthquake-hit-venezuela/articleshow/132011589.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-26T14:19:06+05:30",
+      "time": "26 Jun, 02:19 PM",
+      "type": "news",
+      "description": "India has launched 'Operation Amistad', dispatching two Indian Air Force C-17 Globemaster aircraft to earthquake-ravaged Venezuela. A 41-member Indian..."
     },
     {
       "title": "Russia Says It Shot Down 660 Ukrainian Drones Overnight",
@@ -26,6 +62,15 @@
       "time": "26 Jun, 02:11 PM",
       "type": "news",
       "description": "External Affairs Minister Dr S. Jaishankar visited the Republic of Korea on the 24th and 25th of this month. During the visit, Dr Jaishankar held wide..."
+    },
+    {
+      "title": "EU proposes extending Ukrainian protection to 2028, limit men of fighting age",
+      "link": "https://economictimes.indiatimes.com/news/defence/eu-proposes-extending-ukrainian-protection-to-2028-limit-men-of-fighting-age/articleshow/132011480.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-26T14:09:27+05:30",
+      "time": "26 Jun, 02:09 PM",
+      "type": "news",
+      "description": "The EU proposes extending temporary protection for Ukrainian refugees until March 2028, but may restrict access for military-aged men without exit aut..."
     },
     {
       "title": "Japan on alert amid transport disruptions and threat from two tropical storms",
@@ -154,15 +199,6 @@
       "description": "General Christopher Donahue, a highly respected figure leading U.S. Army forces in Europe and Africa, is stepping down on July 2. His departure comes ..."
     },
     {
-      "title": "NIA chargesheets 11 accused for spreading terrorist ideology in West Bengal, northeastern states",
-      "link": "https://www.newindianexpress.com/india/2026/Jun/26/nia-chargesheets-11-accused-for-spreading-terrorist-ideology-in-west-bengal-northeastern-states",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-26T10:27:21+05:30",
-      "time": "26 Jun, 10:27 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Union Minister Piyush Goyal holds talks with UK Trade Secretary Peter Kyle in London",
       "link": "https://newsonair.gov.in/union-minister-piyush-goyal-holds-talks-with-uk-trade-secretary-peter-kyle-in-london/",
       "source": "All India Radio",
@@ -197,15 +233,6 @@
       "time": "26 Jun, 09:58 AM",
       "type": "news",
       "description": "The Trump administration has said it is strengthening alliances, expanding cooperation with India through the Quad, and diversifying critical mineral ..."
-    },
-    {
-      "title": "Trump administration aims to complete border wall before end of President Trump\u2019s term",
-      "link": "https://newsonair.gov.in/trump-administration-aims-to-complete-border-wall-before-end-of-president-trumps-term/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-26T09:53:59+05:30",
-      "time": "26 Jun, 09:53 AM",
-      "type": "news",
-      "description": "US Homeland Security Secretary Markwayne Mullin has said the Trump administration plans to complete both the primary and secondary border wall system ..."
     },
     {
       "title": "Why Nihang Sikhs marched to Himachal-Uttarakhand border and what caused the tensions?",
@@ -746,27 +773,59 @@
       "time": "24 Jun, 03:34 PM",
       "type": "news",
       "description": "The contracts include Helina launchers and LRUs, along with CMDS LRUs, and are scheduled for execution over 24 to 60 months."
-    },
-    {
-      "title": "\u2018Toxic men are just like bacteria\u2019: Dettol\u00a0apologises after another ad controversy in China",
-      "link": "https://indianexpress.com/article/world/toxic-men-are-just-like-bacteria-dettol-apologises-after-another-ad-controversy-in-china-10754887/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-24T14:58:42+05:30",
-      "time": "24 Jun, 02:58 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "EU court says private jet manufacturing can be labelled green investment",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/eu-court-says-private-jet-manufacturing-can-be-labelled-green-investment/131962806",
-      "source": "Economic Times",
-      "sort_key": "2026-06-24T14:54:45+05:30",
-      "time": "24 Jun, 02:54 PM",
-      "type": "news",
-      "description": "\u200b\u200bIn 2023, the European Commission excluded aircraft used for private or commercial business aviation from this list, citing their higher CO\u2082 emission..."
     }
   ],
   "tweets": [
+    {
+      "title": "India's support to countries after earthquake -Operation Maitri: 2015, Nepal -Operation Dost: 2023, Turkey and Syria -Operation Brahma: 2025, Myanmar -2025, Afghanistan -Operation Amistad: 2026, Venezuela",
+      "link": "https://nitter.net/sidhant/status/2070437586573861101#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:52:42+05:30",
+      "time": "26 Jun, 02:52 PM",
+      "type": "tweets",
+      "content": "<p>India's support to countries after earthquake<br />\n<br />\n-Operation Maitri: 2015, Nepal<br />\n<br />\n-Operation Dost: 2023, Turkey and Syria<br />\n<br />\n-Operation Brahma: 2025, Myanmar<br />\n<br />\n-2025, Afghanistan<br />\n<br />\n-Operation Amistad: 2026, Venezuela</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Just in: India launches Operation Amistad to support quake hit Venezuela. Amistad, Spanish word, means friendship.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070427117368791354#m\">https://nitter.net/sidhant/status/2070427117368791354#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: Canada admits Khalistani plot in Air India bombing CSIS pays tribute to 'Kanishka' bombing victims CSIS calls 1985 Air India bombing heinous @sidhant joins @kanishka9996 with the latest updates",
+      "link": "https://nitter.net/WIONews/status/2070435736743239923#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:45:21+05:30",
+      "time": "26 Jun, 02:45 PM",
+      "type": "tweets",
+      "content": "<p>Canada admits Khalistani plot in Air India bombing   <br />\n<br />\nCSIS pays tribute to 'Kanishka' bombing victims   <br />\n<br />\nCSIS calls 1985 Air India bombing heinous<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> joins <a href=\"https://nitter.net/kanishka9996\" title=\"Kanishka Sarkar\">@kanishka9996</a> with the latest updates</p>\n<a href=\"https://nitter.net/WIONews/status/2070435736743239923#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070435471042494464%2Fimg%2FWxePcapGok4BdFwH.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "The personnel in the event says the unit is from Big Bang Boom and it is called Vajra. I will rather wait for @big_private @BigBangBoomSoln to confirm that.",
+      "link": "https://nitter.net/alpha_defense/status/2070435573823856697#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-26T14:44:42+05:30",
+      "time": "26 Jun, 02:44 PM",
+      "type": "tweets",
+      "content": "<p>The personnel in the event says the unit is from Big Bang Boom and it is called Vajra. I will rather wait for <a href=\"https://nitter.net/big_private\" title=\"Big Bang Boom Solutions Private Limited\">@big_private</a> <a href=\"https://nitter.net/BigBangBoomSoln\" title=\"Big Bang Boom\">@BigBangBoomSoln</a> to confirm that.</p>\n<img src=\"https://nitter.net/pic/media%2FHLupfIcagAAwb9t.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Canada's intel agency, CSIS pays homage to victims of 1985 Air India bombing. Says, bomb was planted by \"Canada based Khalistani extremists\".",
+      "link": "https://nitter.net/Goreunit/status/2070433673183449480#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-26T14:37:09+05:30",
+      "time": "26 Jun, 02:37 PM",
+      "type": "tweets",
+      "content": "<p>Canada's intel agency, CSIS pays homage to victims of 1985 Air India bombing. Says, bomb was planted by \"Canada based Khalistani extremists\".</p>\n<img src=\"https://nitter.net/pic/media%2FHLuocw9a4AAyzlA.jpg\" />",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "India sends ambulances to quake hit Venezuela on 2 IAF C17 planes Pic: Indian military",
+      "link": "https://nitter.net/sidhant/status/2070432997405274610#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-26T14:34:28+05:30",
+      "time": "26 Jun, 02:34 PM",
+      "type": "tweets",
+      "content": "<p>India sends ambulances to quake hit Venezuela on 2 IAF C17 planes<br />\n<br />\nPic: Indian military</p>\n<img src=\"https://nitter.net/pic/media%2FHLun1pUaYAAvcia.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "\"India is committed to support the Government and people of Venezuela in this difficult time\", says India's EAM Jaishankar as Indian govt rushes support to the quake hit country under operation Amistad",
       "link": "https://nitter.net/sidhant/status/2070429390018912708#m",
@@ -1018,7 +1077,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Run like a coward.... Hide where you want.... India knows exactly where you are....",
+      "title": "RT by @OsintTV: Run like a coward.... Hide where you want.... India knows exactly where you are....",
       "link": "https://nitter.net/OsintTV/status/2070356376501563652#m",
       "source": "Osint TV",
       "sort_key": "2026-06-26T09:30:00+05:30",
@@ -1088,26 +1147,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "UKMTO says cargo vessel hit off the coast of Oman",
-      "link": "https://nitter.net/sidhant/status/2070204085165600902#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T23:24:51+05:30",
-      "time": "25 Jun, 11:24 PM",
-      "type": "tweets",
-      "content": "<p>UKMTO says cargo vessel hit off the coast of Oman</p>\n<img src=\"https://nitter.net/pic/media%2FHLrXpRdbIAA6Yyr.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian Trade Minister Goyal on US trade deal \"Until framework of getting competitve advantage [is finalized], we cannot enter into force US deal\" \"The day [we get competitive advantage], the deal is on\"",
-      "link": "https://nitter.net/sidhant/status/2070202588222619751#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T23:18:54+05:30",
-      "time": "25 Jun, 11:18 PM",
-      "type": "tweets",
-      "content": "<p>Indian Trade Minister Goyal on US trade deal<br />\n<br />\n\"Until framework of getting competitve advantage [is finalized], we cannot enter into force US deal\"<br />\n<br />\n\"The day [we get competitive advantage], the deal is on\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian Trade Minister Piyush Goyal emphasis on need for \"competitive advantage\" for trade deal with US.<br />\n<br />\nVdo ctsy: India Global Forum</p>\n<a href=\"https://nitter.net/sidhant/status/2070193689302077473#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070193501460201472%2Fpu%2Fimg%2F9gVXfMhnIEOBMlEE.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070193689302077473#m\">https://nitter.net/sidhant/status/2070193689302077473#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "I have a personal bias because of which engineering delays do not hurt me, but bureaucratic delays tear me apart. Sometimes it\u2019s fine to have a few roadblocks in the initial stages (engineering), and that\u2019s an indicator that you are learning and making things even better.",
       "link": "https://nitter.net/alpha_defense/status/2070201843301724551#m",
       "source": "Alpha Defense",
@@ -1116,16 +1155,6 @@
       "type": "tweets",
       "content": "<p>I have a personal bias because of which engineering delays do not hurt me, but bureaucratic delays tear me apart. Sometimes it\u2019s fine to have a few roadblocks in the initial stages (engineering), and that\u2019s an indicator that you are learning and making things even better.</p>\n<img src=\"https://nitter.net/pic/media%2FHLrVmiDboAAk91i.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Indian Trade Minister Piyush Goyal emphasis on need for \"competitive advantage\" for trade deal with US. Vdo ctsy: India Global Forum",
-      "link": "https://nitter.net/sidhant/status/2070193689302077473#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-25T22:43:32+05:30",
-      "time": "25 Jun, 10:43 PM",
-      "type": "tweets",
-      "content": "<p>Indian Trade Minister Piyush Goyal emphasis on need for \"competitive advantage\" for trade deal with US.<br />\n<br />\nVdo ctsy: India Global Forum</p>\n<a href=\"https://nitter.net/sidhant/status/2070193689302077473#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070193501460201472%2Fpu%2Fimg%2F9gVXfMhnIEOBMlEE.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @OsintTV: \"Khawaja Asif is back with his favourite conspiracy theory: blaming India for everything! Now, according to his latest 'revelation,' India is sending israeli drones to Afghanistan inside medical boxes. Is there anything they won't blame India for?",
@@ -1356,6 +1385,36 @@
       "type": "tweets",
       "content": "<p>BREAKING: Amazon has announced a $48 billion investment in India between 2026 and 2030, including $13 billion to expand AI and cloud infrastructure.</p>\n<img src=\"https://nitter.net/pic/media%2FHLpwdwWa8AAkGLs.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "RT by @Goreunit: \ud83d\udea8 OFFICIAL ANNOUNCEMENT \ud83d\udea8 Follow @MythbusterXX for verified updates, swift rebuttals, Misinformation, Disinformation, Malinformation and Deepfakes pertaining to Indian Army. Official Fact Check Account of Indian Army. @MythbusterXX Be Aware and Stay Alert. \u2705 Verify before you amplify. \u2705 Trust only official sources. \u2705 Stand with truth. \ud83d\udc49 https://x.com/MythbusterXX #IndianArmyFactCheck #CounterDisinformation",
+      "link": "https://nitter.net/adgpi/status/2070070037629526242#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-25T14:32:11+05:30",
+      "time": "25 Jun, 02:32 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 OFFICIAL ANNOUNCEMENT \ud83d\udea8<br />\n<br />\nFollow <a href=\"https://nitter.net/MythbusterXX\" title=\"INDIAN ARMY FACT CHECK\">@MythbusterXX</a> for verified updates, swift rebuttals, Misinformation, Disinformation, Malinformation and Deepfakes pertaining to Indian Army. <br />\n<br />\nOfficial Fact Check Account of Indian Army. <a href=\"https://nitter.net/MythbusterXX\" title=\"INDIAN ARMY FACT CHECK\">@MythbusterXX</a><br />\n<br />\nBe Aware and Stay Alert.<br />\n<br />\n\u2705 Verify before you amplify.<br />\n\u2705 Trust only official sources.<br />\n\u2705 Stand with truth.<br />\n\ud83d\udc49 <a href=\"https://nitter.net/MythbusterXX\">nitter.net/MythbusterXX</a><br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmyFactCheck\">#IndianArmyFactCheck</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23CounterDisinformation\">#CounterDisinformation</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/MythbusterXX\">\n<b>INDIAN ARMY FACT CHECK (@MythbusterXX) on X</b>\n</a>\n<p>Official Fact Check Account of Indian Army</p>\n<small><a href=\"https://nitter.net/MythbusterXX\">x.com</a></small>",
+      "author": "@adgpi"
+    },
+    {
+      "title": "RT by @OsintTV: \ud83d\udea8 OFFICIAL ANNOUNCEMENT \ud83d\udea8 Follow @MythbusterXX for verified updates, swift rebuttals, Misinformation, Disinformation, Malinformation and Deepfakes pertaining to Indian Army. Official Fact Check Account of Indian Army. @MythbusterXX Be Aware and Stay Alert. \u2705 Verify before you amplify. \u2705 Trust only official sources. \u2705 Stand with truth. \ud83d\udc49 https://x.com/MythbusterXX #IndianArmyFactCheck #CounterDisinformation",
+      "link": "https://nitter.net/adgpi/status/2070070037629526242#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-25T14:32:11+05:30",
+      "time": "25 Jun, 02:32 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 OFFICIAL ANNOUNCEMENT \ud83d\udea8<br />\n<br />\nFollow <a href=\"https://nitter.net/MythbusterXX\" title=\"INDIAN ARMY FACT CHECK\">@MythbusterXX</a> for verified updates, swift rebuttals, Misinformation, Disinformation, Malinformation and Deepfakes pertaining to Indian Army. <br />\n<br />\nOfficial Fact Check Account of Indian Army. <a href=\"https://nitter.net/MythbusterXX\" title=\"INDIAN ARMY FACT CHECK\">@MythbusterXX</a><br />\n<br />\nBe Aware and Stay Alert.<br />\n<br />\n\u2705 Verify before you amplify.<br />\n\u2705 Trust only official sources.<br />\n\u2705 Stand with truth.<br />\n\ud83d\udc49 <a href=\"https://nitter.net/MythbusterXX\">nitter.net/MythbusterXX</a><br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmyFactCheck\">#IndianArmyFactCheck</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23CounterDisinformation\">#CounterDisinformation</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/MythbusterXX\">\n<b>INDIAN ARMY FACT CHECK (@MythbusterXX) on X</b>\n</a>\n<p>Official Fact Check Account of Indian Army</p>\n<small><a href=\"https://nitter.net/MythbusterXX\">x.com</a></small>",
+      "author": "@adgpi"
+    },
+    {
+      "title": "RT by @notam_in: \ud83d\udea8 OFFICIAL ANNOUNCEMENT \ud83d\udea8 Follow @MythbusterXX for verified updates, swift rebuttals, Misinformation, Disinformation, Malinformation and Deepfakes pertaining to Indian Army. Official Fact Check Account of Indian Army. @MythbusterXX Be Aware and Stay Alert. \u2705 Verify before you amplify. \u2705 Trust only official sources. \u2705 Stand with truth. \ud83d\udc49 https://x.com/MythbusterXX #IndianArmyFactCheck #CounterDisinformation",
+      "link": "https://nitter.net/adgpi/status/2070070037629526242#m",
+      "source": "Notam India",
+      "sort_key": "2026-06-25T14:32:11+05:30",
+      "time": "25 Jun, 02:32 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 OFFICIAL ANNOUNCEMENT \ud83d\udea8<br />\n<br />\nFollow <a href=\"https://nitter.net/MythbusterXX\" title=\"INDIAN ARMY FACT CHECK\">@MythbusterXX</a> for verified updates, swift rebuttals, Misinformation, Disinformation, Malinformation and Deepfakes pertaining to Indian Army. <br />\n<br />\nOfficial Fact Check Account of Indian Army. <a href=\"https://nitter.net/MythbusterXX\" title=\"INDIAN ARMY FACT CHECK\">@MythbusterXX</a><br />\n<br />\nBe Aware and Stay Alert.<br />\n<br />\n\u2705 Verify before you amplify.<br />\n\u2705 Trust only official sources.<br />\n\u2705 Stand with truth.<br />\n\ud83d\udc49 <a href=\"https://nitter.net/MythbusterXX\">nitter.net/MythbusterXX</a><br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmyFactCheck\">#IndianArmyFactCheck</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23CounterDisinformation\">#CounterDisinformation</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://nitter.net/MythbusterXX\">\n<b>INDIAN ARMY FACT CHECK (@MythbusterXX) on X</b>\n</a>\n<p>Official Fact Check Account of Indian Army</p>\n<small><a href=\"https://nitter.net/MythbusterXX\">x.com</a></small>",
+      "author": "@adgpi"
     },
     {
       "title": "Air India Flight Briefly Entered Pakistani Airspace During Go-Around An Air India A321 (AI479) from Delhi to Amritsar briefly entered Pakistani airspace on June 22 while executing a standard go-around after an aborted landing at Amritsar. The aircraft reportedly remained inside Pakistani airspace for less than two minutes before returning. It later diverted to Delhi for refuelling and completed its journey. DGCA and Air India have launched investigations. The airline says passenger safety was never compromised.",
@@ -1598,16 +1657,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "An HLFT 42 with 177 engine makes sense to me..",
-      "link": "https://nitter.net/alpha_defense/status/2069740364559511768#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-24T16:42:11+05:30",
-      "time": "24 Jun, 04:42 PM",
-      "type": "tweets",
-      "content": "<p>An HLFT 42 with 177 engine makes sense to me..</p>\n<img src=\"https://nitter.net/pic/media%2FHLkx1y4WMAAy27O.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "HAL has successfully handed over the 1000th Repaired & Overhauled(#ROH) AL-31FP engine to the Indian Air Force. Powering the Su-30MKI fleet, the milestone highlights HAL Koraput's growing MRO capabilities, with annual overhaul capacity now exceeding 100 engines.",
       "link": "https://nitter.net/DefenceDecode/status/2069727718514778233#m",
       "source": "Defense Decode",
@@ -1616,29 +1665,18 @@
       "type": "tweets",
       "content": "<p>HAL has successfully handed over the 1000th Repaired &amp; Overhauled(<a href=\"https://nitter.net/search?f=tweets&amp;q=%23ROH\">#ROH</a>) AL-31FP engine to the Indian Air Force.<br />\nPowering the Su-30MKI fleet, the milestone highlights HAL Koraput's growing MRO capabilities, with annual overhaul capacity now exceeding 100 engines.</p>\n<img src=\"https://nitter.net/pic/media%2FHLkmRhBbIAALTuh.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "RT by @NetramDefence: Manipur police & security forces arrested 4 persons in separate anti-narcotics ops conducted in Imphal East & Thoubal, recovering suspected brown sugar, on June 22. On June 23, police arrested 3 persons in Thoubal and recovered 2 soap cases of ~80 g of suspected brown sugar.",
-      "link": "https://nitter.net/MN_Unfiltered/status/2069719115099746351#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-24T15:17:45+05:30",
-      "time": "24 Jun, 03:17 PM",
-      "type": "tweets",
-      "content": "<p>Manipur police &amp; security forces arrested 4 persons in separate anti-narcotics ops conducted in Imphal East &amp; Thoubal, recovering suspected brown sugar, on June 22.<br />\n<br />\nOn June 23, police arrested 3 persons in Thoubal and recovered 2 soap cases of ~80 g of suspected brown sugar.</p>\n<img src=\"https://nitter.net/pic/media%2FHLkejoibsAAUVjC.jpg\" />",
-      "author": "@MN_Unfiltered"
-    },
-    {
-      "title": "BDL secures \u20b91,347.71 crore worth of orders from HAL, including #Helina missile launchers, Line Replaceable Units(LRUs) and #CMDS LRUs. The deal reinforces the growing integration of indigenous weapons and self-protection systems across Indian military platforms.",
-      "link": "https://nitter.net/DefenceDecode/status/2069706770818441395#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-24T14:28:42+05:30",
-      "time": "24 Jun, 02:28 PM",
-      "type": "tweets",
-      "content": "<p>BDL secures \u20b91,347.71 crore worth of orders from HAL, including <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Helina\">#Helina</a> missile launchers, Line Replaceable Units(LRUs) and <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CMDS\">#CMDS</a> LRUs.<br />\nThe deal reinforces the growing integration of indigenous weapons and self-protection systems across Indian military platforms.</p>\n<img src=\"https://nitter.net/pic/media%2FHLkTJ_FWwAA9chT.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLkTPJMasAAGJ11.jpg\" />",
-      "author": "@DefenceDecode"
     }
   ],
   "youtube": [
+    {
+      "title": "India\u2019s most difficult debate on IAF",
+      "link": "https://www.youtube.com/watch?v=qHdE0glcvk8",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-26T14:35:13+05:30",
+      "time": "26 Jun, 02:35 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/qHdE0glcvk8/mqdefault.jpg"
+    },
     {
       "title": "Pakistan EXPOSED on Su-57? \ud83d\ude31 , 59% India-Pak War Prediction , India's Mach-10 Carrier Killer",
       "link": "https://www.youtube.com/watch?v=qD0mvUPpzxg",
@@ -1722,6 +1760,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
