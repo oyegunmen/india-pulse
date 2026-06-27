@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "title": "RTX\u2019s Raytheon awarded $1.1 billion US Navy contract to produce AIM-9X Block II missiles",
+      "link": "https://www.indiastrategic.in/rtxs-raytheon-awarded-1-1-billion-us-navy-contract-to-produce-aim-9x-block-ii-missiles/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-27T16:19:16+05:30",
+      "time": "27 Jun, 04:19 PM",
+      "type": "news",
+      "description": "<p>TUCSON, Ariz., June 26, 2026. Raytheon, an RTX business, was awarded a $1.1 billion contract from the US Navy to produce AIM-9X Block II missiles t..."
+    },
+    {
+      "title": "GA-ASI Adapts Ground Control Station to Fly MQ-9B",
+      "link": "https://www.indiastrategic.in/ga-asi-adapts-ground-control-station-to-fly-mq-9b/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-27T16:08:01+05:30",
+      "time": "27 Jun, 04:08 PM",
+      "type": "news",
+      "description": "<p>SAN DIEGO, June 25, 2026. General Atomics Aeronautical Systems, Inc. (GA-ASI) is working to adapt its Block 30 Ground Control Stations (GCS) to fly..."
+    },
+    {
+      "title": "Boeing Selected by US Space Force to Extend Secure Military Communications Worldwide",
+      "link": "https://www.indiastrategic.in/boeing-selected-by-us-space-force-to-extend-secure-military-communications-worldwide/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-27T16:00:54+05:30",
+      "time": "27 Jun, 04:00 PM",
+      "type": "news",
+      "description": "<p>Mobile User Objective System Service Life Extension (MUOS SLE) contract valued at up to $2B includes two narrowband communications satellites, with..."
+    },
+    {
+      "title": "\u201cIndia\u2019s growing space ecosystem to drive global collaboration\u201d, says ISRO Chairman V Narayanan after BRICS Space Agencies Meeting",
+      "link": "https://www.indiastrategic.in/indias-growing-space-ecosystem-to-drive-global-collaboration-says-isro-chairman-v-narayanan-after-brics-space-agencies-meeting/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-27T15:53:05+05:30",
+      "time": "27 Jun, 03:53 PM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar Bengaluru, June 26, 2026. ISRO Chairman V Narayanan said India\u2019s growing space ecosystem is helping drive global collaboration in s..."
+    },
+    {
+      "title": "PM Modi reaches Seychelles on 3-day State Visit",
+      "link": "https://newsonair.gov.in/pm-modi-to-embark-on-three-day-state-visit-to-seychelles/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-27T15:52:41+05:30",
+      "time": "27 Jun, 03:52 PM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi has reached Victoria, Seychelles, on a three-day State Visit. Seychelles President Dr. Patrick Herminie, Cabinet Minister..."
+    },
+    {
+      "title": "Sea route near Oman is expanding to facilitate more traffic through Strait of Hormuz, US Navy says",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-navy-expands-sea-route-near-oman-amid-rising-tensions-with-iran/articleshow/132032704.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-27T15:50:33+05:30",
+      "time": "27 Jun, 03:50 PM",
+      "type": "news",
+      "description": "A crucial shipping lane through the Strait of Hormuz, near Oman's coast, is being expanded for both directions of traffic, according to a US Navy-affi..."
+    },
+    {
+      "title": "US-Iran war: UKMTO says ship hit by projectile within Strait of Hormuz",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-war-ukmto-says-ship-hit-by-projectile-within-strait-of-hormuz/articleshow/132032094.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-27T15:21:31+05:30",
+      "time": "27 Jun, 03:21 PM",
+      "type": "news",
+      "description": "US-Iran war news: A tanker's master was struck by an unidentified projectile in the Strait of Hormuz, the UKMTO reported Saturday. The vessel's bridge..."
+    },
+    {
+      "title": "Pakistan emerged as 'peacemaker' after mediating Iran-US deal: PM Sharif",
+      "link": "https://www.newindianexpress.com/world/2026/Jun/27/pakistan-emerged-as-peacemaker-after-mediating-iran-us-deal-pm-sharif-2",
+      "source": "New Indian Express",
+      "sort_key": "2026-06-27T15:21:30+05:30",
+      "time": "27 Jun, 03:21 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "\u2018Enormous fans\u2019 of PM Modi: Marco Rubio hails India\u2019s rise as global power",
       "link": "https://indianexpress.com/article/world/marco-rubio-narendra-modi-donald-trump-india-us-relations-economic-gains-10760195/",
       "source": "The Indian Express",
@@ -26,15 +98,6 @@
       "time": "27 Jun, 02:38 PM",
       "type": "news",
       "description": "The Military-led govt in Burkina Faso accused France of \"blatant neo-colonial ambitions and active support for subversive networks and terrorists\""
-    },
-    {
-      "title": "PM Modi to embark on three-day state visit to Seychelles",
-      "link": "https://newsonair.gov.in/pm-modi-to-embark-on-three-day-state-visit-to-seychelles/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-27T14:30:41+05:30",
-      "time": "27 Jun, 02:30 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi will embark on a three-day state visit to Seychelles this morning to attend the Golden Jubilee celebrations of the Nation..."
     },
     {
       "title": "&#8216;Non-story&#8217;: RSS veteran Ram Madhav denies reports of Track-II talks with Pakistan",
@@ -505,24 +568,6 @@
       "description": "<p>New Delhi, June 26. External Affairs Minister S Jaishankar held wide-ranging talks with South Korean Foreign Minister Cho Hyun in Seoul during his ..."
     },
     {
-      "title": "UN halts escort of ships through Hormuz after vessel comes under attack",
-      "link": "https://www.indiastrategic.in/un-halts-escort-of-ships-through-hormuz-after-vessel-comes-under-attack/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-26T12:15:26+05:30",
-      "time": "26 Jun, 12:15 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar London/Bengaluru, June 26, 2026. The UN International Maritime Organization paused its operation to escort ships through the Strait..."
-    },
-    {
-      "title": "Modi to visit Seychelles as Guest of Honour for National Day Golden Jubilee celebrations",
-      "link": "https://www.indiastrategic.in/modi-to-visit-seychelles-as-guest-of-honour-for-national-day-golden-jubilee-celebrations/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-26T12:05:34+05:30",
-      "time": "26 Jun, 12:05 PM",
-      "type": "news",
-      "description": "<p>New Delhi, June 26. Prime Minister Narendra Modi will undertake a state visit to Seychelles from June 27 to 29 at the invitation of Seychelles Pres..."
-    },
-    {
       "title": "JD Vance, Rubio strike different tone on Iran and Israel",
       "link": "https://economictimes.indiatimes.com/news/defence/jd-vance-rubio-strike-different-tone-on-iran-and-israel-us-donald-trump/articleshow/132008170.cms",
       "source": "Economic Times",
@@ -548,15 +593,6 @@
       "time": "26 Jun, 09:39 AM",
       "type": "news",
       "description": "Security has been tightened along the Himachal Pradesh-Uttarakhand border after a large number of Nihang Sikhs gathered at the Kulhal border in Dehrad..."
-    },
-    {
-      "title": "India continues to drive global growth amid external headwinds: IMF",
-      "link": "https://www.indiastrategic.in/india-continues-to-drive-global-growth-amid-external-headwinds-imf/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-26T09:32:26+05:30",
-      "time": "26 Jun, 09:32 AM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar IMF said it continues to project India&#8217;s economy to grow by 6.5 per cent in fiscal year 2026-27, maintaining the upward revis..."
     },
     {
       "title": "Flying to India? Air Suvidha 2.0 now mandatory for all international travellers amid Ebola alert",
@@ -611,15 +647,6 @@
       "time": "25 Jun, 11:43 PM",
       "type": "news",
       "description": "US Secretary of State Marco Rubio assured Gulf Arab partners of unwavering support amidst ongoing negotiations to end the war with Iran.  Despite fear..."
-    },
-    {
-      "title": "Iran and the nuclear option",
-      "link": "https://www.indiastrategic.in/iran-and-the-nuclear-option/",
-      "source": "India Strategic",
-      "sort_key": "2026-06-25T22:49:12+05:30",
-      "time": "25 Jun, 10:49 PM",
-      "type": "news",
-      "description": "<p>From Shyam Bhatia London, June 24, 2026. My scepticism about official assessments of nuclear programmes, including Iran\u2019s, goes back more than half..."
     },
     {
       "title": "\u2018Great mistake\u2019: Kuki-Zo Council admits community\u2019s role in killing of six Naga hostages",
@@ -701,18 +728,49 @@
       "time": "25 Jun, 04:35 PM",
       "type": "news",
       "description": "The exercise proved the swarm&#039;s resilience against jamming and intermittent links, with machines handling choreography while humans remain in the..."
-    },
-    {
-      "title": "Tashi Network, DroneVerse complete drone swarm field trial in Delhi",
-      "link": "https://economictimes.indiatimes.com/news/defence/tashi-network-droneverse-complete-drone-swarm-field-trial-in-delhi/articleshow/131991131.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-25T16:15:17+05:30",
-      "time": "25 Jun, 04:15 PM",
-      "type": "news",
-      "description": "Tashi Network and DroneVerse successfully conducted a 72-hour drone swarm field trial in Delhi, showcasing autonomous tactical cells securing a simula..."
     }
   ],
   "tweets": [
+    {
+      "title": "The Indian Space Research Organisation (ISRO) has successfully conducted a hot test of its semi-cryogenic engine power head, achieving 175 tonnes of thrust, around 88% of its target. The test, conducted at the ISRO Propulsion Complex, Mahendragiri, demonstrated stable performance and marks a key step toward a full 200-tonne thrust test. The new semi-cryogenic propulsion system, powered by liquid oxygen and kerosene, is being developed to replace the core stage of the LVM3 launch vehicle, significantly increasing payload capacity and improving launch efficiency.",
+      "link": "https://nitter.net/NetramDefence/status/2070815086114128194#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-27T15:52:45+05:30",
+      "time": "27 Jun, 03:52 PM",
+      "type": "tweets",
+      "content": "<p>The Indian Space Research Organisation (ISRO) has successfully conducted a hot test of its semi-cryogenic engine power head, achieving 175 tonnes of thrust, around 88% of its target.<br />\n<br />\nThe test, conducted at the ISRO Propulsion Complex, Mahendragiri, demonstrated stable performance and marks a key step toward a full 200-tonne thrust test.<br />\n<br />\nThe new semi-cryogenic propulsion system, powered by liquid oxygen and kerosene, is being developed to replace the core stage of the LVM3 launch vehicle, significantly increasing payload capacity and improving launch efficiency.</p>\n<img src=\"https://nitter.net/pic/media%2FHL0DVtva4AANoKs.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel https://t.me/OsntTV \ud83d\ude4f",
+      "link": "https://nitter.net/OsintTV/status/2070813750991446445#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-27T15:47:26+05:30",
+      "time": "27 Jun, 03:47 PM",
+      "type": "tweets",
+      "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n\ud83d\ude4f</p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://t.me/OsntTV\">\n<img src=\"https://nitter.net/pic/card_img%2F2070070396695777280%2FLkNStR0N%3Fformat%3Djpg%26name%3D420x420_2\" />\n<br />\n<b>OsintTV \ud83d\udcfa\ufe0f</b>\n</a>\n<p>Disclaimer\u26a0: This Is A \ud83c\uddee\ud83c\uddf3 Channel Which Shares Updates On\ud83d\udee1\ufe0fForeign Affairs,\ud83d\udce1 Geopolitics &amp; \ud83d\udee9\ufe0f Aviation Twitter : https://x.com/OsintTV</p>\n<small><a href=\"https://t.me/OsntTV\">t.me</a></small>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "RT by @OsintTV: \ud83d\udea8 Three LeT Operatives Dead in Pakistan Amid Growing Mystery. A wave of unexplained deaths has struck Lashkar-e-Taiba (LeT) leadership in Pakistan, with three high-profile operatives dying within the span of just a few days. \u2666\ufe0f1, Ghazi Mumtaz: A veteran LeT trainer responsible for preparing countless recruits, Mumtaz died under mysterious circumstances in Upper Dir. \u2666\ufe0f2, Muhammad Khuzaimah Qasim: Killed in a hit-and-run case in Bahawalpur. Qasim was the brother of senior LeT leader Muhammad Yaqoob (Gen Sec of PMML - Mubarakpur); his funeral was presided over by Hafiz Abdul Mannan Makki, brother of LeT co-founder Abdul Rehman Makki. \u2666\ufe0f3, Khalid Bashir: A senior LeT operative reportedly found dead under suspicious conditions. Details surrounding his death remain under investigation. \ud83d\udccdThe rapid succession of these deaths has left questions mounting within the organization\u2019s ranks.",
+      "link": "https://nitter.net/OsintTV/status/2070810792891490604#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-27T15:35:41+05:30",
+      "time": "27 Jun, 03:35 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Three LeT Operatives Dead in Pakistan Amid Growing Mystery.<br />\n<br />\nA wave of unexplained deaths has struck Lashkar-e-Taiba (LeT) leadership in Pakistan, with three high-profile operatives dying within the span of just a few days.<br />\n<br />\n\u2666\ufe0f1, Ghazi Mumtaz: A veteran LeT trainer responsible for preparing countless recruits, Mumtaz died under mysterious circumstances in Upper Dir.<br />\n<br />\n\u2666\ufe0f2, Muhammad Khuzaimah Qasim: Killed in a hit-and-run case in Bahawalpur. Qasim was the brother of senior LeT leader Muhammad Yaqoob (Gen Sec of PMML - Mubarakpur); his funeral was presided over by Hafiz Abdul Mannan Makki,  brother of LeT co-founder Abdul Rehman Makki.<br />\n<br />\n\u2666\ufe0f3, Khalid Bashir: A senior LeT operative reportedly found dead under suspicious conditions. Details surrounding his death remain under investigation.<br />\n<br />\n\ud83d\udccdThe rapid succession of these deaths has left questions mounting within the organization\u2019s ranks.</p>\n<img src=\"https://nitter.net/pic/media%2FHLz_bnoXsAAw4ki.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "RT by @NetramDefence: BREAKING: Rival Militant Groups Clash in Manipur A gunfight broke out between suspected ZUF (JK) & NSCN (IM) cadres at Kaiphundai village, along NH-37. The exchange began around 5:30 AM & lasted for nearly 30 min, after suspected NSCN (IM) cadres attacked a ZUF (JK) hideout.",
+      "link": "https://nitter.net/KangleipakDaily/status/2070808695995514998#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-27T15:27:21+05:30",
+      "time": "27 Jun, 03:27 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING: Rival Militant Groups Clash in Manipur<br />\n<br />\nA gunfight broke out between suspected ZUF (JK) &amp; NSCN (IM) cadres at Kaiphundai village, along NH-37.<br />\n<br />\nThe exchange began around 5:30 AM &amp; lasted for nearly 30 min, after suspected NSCN (IM) cadres attacked a ZUF (JK) hideout.</p>\n<img src=\"https://nitter.net/pic/media%2FHLz9hpba8AAHgge.jpg\" />",
+      "author": "@KangleipakDaily"
+    },
     {
       "title": "RT by @sidhant: Delighted to engage with a wide cross section of diplomats, educationists, artists and students on India-China cultural & #people ties @two premium Centers of #learning - the #East China Normal University & #Mao Space Contemporary Art Gallery in Shanghai today. @IndianDiplomacy",
       "link": "https://nitter.net/PratikMathur1/status/2070802717761765788#m",
@@ -1644,16 +1702,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @OsintTV: \u092b\u094c\u091c\u0940 \u0935\u0930\u094d\u0926\u0940 \u092e\u0947\u0902 \u0906\u092f\u093e \u2018\u0928\u0915\u0932\u0940 \u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f \u0915\u0930\u094d\u0928\u0932\u2019! ECHS \u0935\u093f\u091c\u093f\u0932\u0947\u0902\u0938 \u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u092c\u0928\u0915\u0930 \u0924\u0940\u0928 \u0928\u093f\u091c\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0918\u0941\u0938\u093e, \u092a\u0942\u0930\u094d\u0935 \u0938\u0948\u0928\u093f\u0915\u094b\u0902 \u0915\u0947 \u0938\u0902\u0935\u0947\u0926\u0928\u0936\u0940\u0932 \u092e\u0947\u0921\u093f\u0915\u0932 \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u0916\u0902\u0917\u093e\u0932\u0947, \u0924\u0915\u0928\u0940\u0915\u0940 \u0938\u0935\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u092b\u0902\u0938\u093e \u0924\u094b \u0921\u094d\u0930\u093e\u0907\u0935\u0930 \u0938\u0902\u0917 \u092b\u0930\u093e\u0930; \u0938\u0947\u0928\u093e \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u0924\u0915 \u092a\u0939\u0941\u0902\u091a\u0940 \u0930\u093f\u092a\u094b\u0930\u094d\u091f, \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u093e\u0902 \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u091c\u0941\u091f\u0940\u0902 A major security scare has emerged from Chirawa, Rajasthan, after a man allegedly posing as an Indian Army Lieutenant Colonel and ECHS Vigilance Officer gained access to multiple private hospitals and examined sensitive records related to ex-servicemen and their families. The suspect reportedly convinced hospital administrations with his knowledge of military healthcare procedures and inspected OPD, admission, and treatment records before raising suspicion. The alarm was triggered when hospital authorities noticed inconsistencies in his conduct and questioned his credentials. After ECHS officials intervened and attempted verification, the suspect failed to answer technical military questions and fled the area before he could be detained. A report has now been forwarded to Army Headquarters, while security agencies investigate whether this was an attempted fraud, data collection operation, or part of a larger network exploiting military identity. The incident has exposed serious concerns regarding the misuse of military uniforms, unauthorized access to sensitive records, and verification protocols at institutions dealing with defence personnel and veterans. #IndianArmy #ECHS #MilitarySecurity #SecurityBreach #FakeOfficer #LieutenantColonel #ArmyUniform #Rajasthan #Chirawa #Jhunjhunu #DefenceNews #NationalSecurity #Veterans #ExServicemen #MilitaryAffairs #IndiaNews #SecurityAlert #BreakingNews #TINNetwork #DefenceJournalistSahil",
-      "link": "https://nitter.net/DefenceSahil/status/2070128714852294866#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-25T18:25:21+05:30",
-      "time": "25 Jun, 06:25 PM",
-      "type": "tweets",
-      "content": "<p>\u092b\u094c\u091c\u0940 \u0935\u0930\u094d\u0926\u0940 \u092e\u0947\u0902 \u0906\u092f\u093e \u2018\u0928\u0915\u0932\u0940 \u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f \u0915\u0930\u094d\u0928\u0932\u2019! ECHS \u0935\u093f\u091c\u093f\u0932\u0947\u0902\u0938 \u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u092c\u0928\u0915\u0930 \u0924\u0940\u0928 \u0928\u093f\u091c\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0918\u0941\u0938\u093e, \u092a\u0942\u0930\u094d\u0935 \u0938\u0948\u0928\u093f\u0915\u094b\u0902 \u0915\u0947 \u0938\u0902\u0935\u0947\u0926\u0928\u0936\u0940\u0932 \u092e\u0947\u0921\u093f\u0915\u0932 \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u0916\u0902\u0917\u093e\u0932\u0947, \u0924\u0915\u0928\u0940\u0915\u0940 \u0938\u0935\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u092b\u0902\u0938\u093e \u0924\u094b \u0921\u094d\u0930\u093e\u0907\u0935\u0930 \u0938\u0902\u0917 \u092b\u0930\u093e\u0930; \u0938\u0947\u0928\u093e \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u0924\u0915 \u092a\u0939\u0941\u0902\u091a\u0940 \u0930\u093f\u092a\u094b\u0930\u094d\u091f, \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u090f\u091c\u0947\u0902\u0938\u093f\u092f\u093e\u0902 \u091c\u093e\u0902\u091a \u092e\u0947\u0902 \u091c\u0941\u091f\u0940\u0902<br />\n<br />\nA major security scare has emerged from Chirawa, Rajasthan, after a man allegedly posing as an Indian Army Lieutenant Colonel and ECHS Vigilance Officer gained access to multiple private hospitals and examined sensitive records related to ex-servicemen and their families. The suspect reportedly convinced hospital administrations with his knowledge of military healthcare procedures and inspected OPD, admission, and treatment records before raising suspicion.<br />\n<br />\nThe alarm was triggered when hospital authorities noticed inconsistencies in his conduct and questioned his credentials. After ECHS officials intervened and attempted verification, the suspect failed to answer technical military questions and fled the area before he could be detained. A report has now been forwarded to Army Headquarters, while security agencies investigate whether this was an attempted fraud, data collection operation, or part of a larger network exploiting military identity.<br />\n<br />\nThe incident has exposed serious concerns regarding the misuse of military uniforms, unauthorized access to sensitive records, and verification protocols at institutions dealing with defence personnel and veterans.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ECHS\">#ECHS</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitarySecurity\">#MilitarySecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SecurityBreach\">#SecurityBreach</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23FakeOfficer\">#FakeOfficer</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LieutenantColonel\">#LieutenantColonel</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ArmyUniform\">#ArmyUniform</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rajasthan\">#Rajasthan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Chirawa\">#Chirawa</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Jhunjhunu\">#Jhunjhunu</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceNews\">#DefenceNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NationalSecurity\">#NationalSecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Veterans\">#Veterans</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ExServicemen\">#ExServicemen</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryAffairs\">#MilitaryAffairs</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaNews\">#IndiaNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SecurityAlert\">#SecurityAlert</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BreakingNews\">#BreakingNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TINNetwork\">#TINNetwork</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceJournalistSahil\">#DefenceJournalistSahil</a></p>\n<a href=\"https://nitter.net/DefenceSahil/status/2070128714852294866#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070128568441729024%2Fimg%2FrVUxt_HoMH_wVEYk.jpg\" />\n</a>",
-      "author": "@DefenceSahil"
-    },
-    {
       "title": "This one \"Aged like Milk\" ?",
       "link": "https://nitter.net/alpha_defense/status/2070125867154735508#m",
       "source": "Alpha Defense",
@@ -1664,26 +1712,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "RT by @OsintTV: Netra \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/manishindiatv/status/2070119898584695059#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-25T17:50:19+05:30",
-      "time": "25 Jun, 05:50 PM",
-      "type": "tweets",
-      "content": "<p>Netra \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/manishindiatv/status/2070119898584695059#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070119833400901632%2Fimg%2F1y9WnTNZudxhN5cm.jpg\" />\n</a>",
-      "author": "@manishindiatv"
-    },
-    {
-      "title": "BREAKING: India to Resume Tourist Visas for Bangladeshi Nationals India will restart issuing tourist visas to Bangladeshi nationals from June 28, ending a nearly two-year suspension imposed after attacks on Indian diplomatic missions during the 2024 unrest. Tourist visas will initially be processed through five visa centres in Bangladesh.",
-      "link": "https://nitter.net/NetramDefence/status/2070112419532472556#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-25T17:20:36+05:30",
-      "time": "25 Jun, 05:20 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: India to Resume Tourist Visas for Bangladeshi Nationals<br />\n<br />\nIndia will restart issuing tourist visas to Bangladeshi nationals from June 28, ending a nearly two-year suspension imposed after attacks on Indian diplomatic missions during the 2024 unrest. Tourist visas will initially be processed through five visa centres in Bangladesh.</p>\n<img src=\"https://nitter.net/pic/media%2FHLqEOi8aMAAruMU.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "RT by @NetramDefence: Iraq has warned OPEC it may consider withdrawal unless its oil production quota is raised, echoing the UAE's exit in May. While Baghdad currently has no plans to leave, the move highlights growing tensions over quotas amid regional disruptions and capacity ambitions.",
       "link": "https://nitter.net/Globalwatchh/status/2070105710814458070#m",
       "source": "Netram Defense",
@@ -1692,16 +1720,6 @@
       "type": "tweets",
       "content": "<p>Iraq has warned OPEC it may consider withdrawal unless its oil production quota is raised, echoing the UAE's exit in May.<br />\n<br />\nWhile Baghdad currently has no plans to leave, the move highlights growing tensions over quotas amid regional disruptions and capacity ambitions.</p>\n<img src=\"https://nitter.net/pic/media%2FHLp-KswakAAs9VQ.png\" />",
       "author": "@Globalwatchh"
-    },
-    {
-      "title": "CRPF DIG Suspended; 20 Officers Transferred Amid CAPF Act Protests A CRPF Deputy Inspector General (DIG) has been suspended and 20 officers transferred following protests against the Central Armed Police Force (General Administration) Act, 2026, according to The Hindu. The suspended officer is under inquiry over allegations of sharing \"politically provocative\" content on social media. Meanwhile, families of several transferred officers had participated in protests at Jantar Mantar and Rajghat opposing the new law. The CRPF has stated that the transfers were made on administrative and operational grounds, adding that serving personnel are bound by service rules and any violations will be dealt with in accordance with the law.",
-      "link": "https://nitter.net/NetramDefence/status/2070094845511889068#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-25T16:10:46+05:30",
-      "time": "25 Jun, 04:10 PM",
-      "type": "tweets",
-      "content": "<p>CRPF DIG Suspended; 20 Officers Transferred Amid CAPF Act Protests<br />\n<br />\nA CRPF Deputy Inspector General (DIG) has been suspended and 20 officers transferred following protests against the Central Armed Police Force (General Administration) Act, 2026, according to The Hindu.<br />\n<br />\nThe suspended officer is under inquiry over allegations of sharing \"politically provocative\" content on social media. Meanwhile, families of several transferred officers had participated in protests at Jantar Mantar and Rajghat opposing the new law.<br />\n<br />\nThe CRPF has stated that the transfers were made on administrative and operational grounds, adding that serving personnel are bound by service rules and any violations will be dealt with in accordance with the law.</p>\n<img src=\"https://nitter.net/pic/media%2FHLp0R7HagAE3KYD.jpg\" />",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
@@ -1788,6 +1806,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "04:24 PM IST"
   }
 }
