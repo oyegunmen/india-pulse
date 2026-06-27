@@ -1,15 +1,6 @@
 {
   "news": [
     {
-      "title": "Terror threat alert puts Delhi, Uttarakhand on high vigil; security tightened",
-      "link": "https://www.newindianexpress.com/states/delhi/2026/Jun/27/terror-threat-alert-puts-delhi-uttarakhand-on-high-vigil-security-tightened",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-27T23:37:05+05:30",
-      "time": "27 Jun, 11:37 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Pakistan\u2019s Karachi attack: Militants storm Rangers HQ after blast; 3 security personnel killed",
       "link": "https://indianexpress.com/article/world/live-updates-karachi-blast-explosion-gunfire-reported-near-universities-rangers-offices-10760691/",
       "source": "The Indian Express",
@@ -251,6 +242,15 @@
       "time": "27 Jun, 04:00 PM",
       "type": "news",
       "description": "<p>Mobile User Objective System Service Life Extension (MUOS SLE) contract valued at up to $2B includes two narrowband communications satellites, with..."
+    },
+    {
+      "title": "US-Iran War Live Updates: US military says it has struck multiple targets in Iran",
+      "link": "https://indianexpress.com/article/world/us-iran-live-news-updates-war-mou-by-tensions-hormuz-10760243/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-27T15:55:52+05:30",
+      "time": "27 Jun, 03:55 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "\u201cIndia\u2019s growing space ecosystem to drive global collaboration\u201d, says ISRO Chairman V Narayanan after BRICS Space Agencies Meeting",
@@ -647,18 +647,29 @@
       "time": "26 Jun, 05:34 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Indigenous Netra FOC to Boost India's Airborne Surveillance Capability",
-      "link": "https://www.deccanchronicle.com/nation/indigenous-netra-foc-to-boost-indias-airborne-surveillance-capability-1966325",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-06-26T03:36:52+05:30",
-      "time": "26 Jun, 03:36 AM",
-      "type": "news",
-      "description": "Defence minister Rajnath Singh said the FOC marked a technological milestone and strengthened India\u2019s airborne surveillance and command-and-control ca..."
     }
   ],
   "tweets": [
+    {
+      "title": "Folks, be ready! Today at 5:00 PM IST, Alpha Defence will publish one of our most comprehensive long-form studies yet. (Guest article by someone from China) - (it is 20 pages \ud83d\ude05 - Hope website will handle it) \ud83e\udd1e The Dragon\u2019s Combustion Chamber ~ a deep dive into the evolution of China\u2019s aero-engine industry, tracing its journey from Soviet-era technology transfers to modern indigenous propulsion systems. Written by a \ud83d\udd54 Drops today at 5:00 PM IST.",
+      "link": "https://nitter.net/alpha_defense/status/2071001559492874516#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-28T04:13:43+05:30",
+      "time": "28 Jun, 04:13 AM",
+      "type": "tweets",
+      "content": "<p>Folks, be ready!<br />\n<br />\nToday at 5:00 PM IST, Alpha Defence will publish one of our most comprehensive long-form studies yet. (Guest article by someone from China) - (it is 20 pages \ud83d\ude05 - Hope website will handle it) \ud83e\udd1e<br />\n<br />\nThe Dragon\u2019s Combustion Chamber ~ a deep dive into the evolution of China\u2019s aero-engine industry, tracing its journey from Soviet-era technology transfers to modern indigenous propulsion systems.<br />\n<br />\nWritten by a <br />\n\ud83d\udd54 Drops today at 5:00 PM IST.</p>\n<img src=\"https://nitter.net/pic/media%2FHL2s8JcbQAAiEN4.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Today will be main day of engagement of PM Modi in\u00a0Seychelles -Talks with President Patrick Herminie -Address to the national assembly -Attend the 50th Independence day celebration as the chief guest",
+      "link": "https://nitter.net/sidhant/status/2071001125088551025#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-28T04:12:00+05:30",
+      "time": "28 Jun, 04:12 AM",
+      "type": "tweets",
+      "content": "<p>Today will be main day of engagement of PM Modi in\u00a0Seychelles<br />\n-Talks with President Patrick Herminie<br />\n-Address to the national assembly<br />\n-Attend the 50th Independence day celebration as the chief guest</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "Daily US-Israel-Iran War Brief: 27th Jun 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf CENTCOM conducted strikes on Iranian missile and drone storage sites as well as coastal radar installations, in direct response to Iran\u2019s drone attack on the vessel M/V Ever Lovely. \u25cf Iran\u2019s Foreign Minister condemned the US strikes as a violation of the US-Iran MoU and Article 2(4) of the UN Charter. \u25cf The French-owned container ship CMA CGM GALAPAGOS successfully transited the Strait of Hormuz using an Iran-designated safe route. \u25cf The Panama-flagged VLCC KIKU, laden with Qatar Energy oil, was struck during its outbound transit of the Strait of Hormuz. \u25cf Bahrain was targeted by drones this morning. Bahraini air defences intercepted several projectiles. END OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2070965093194736066#m",
@@ -808,16 +819,6 @@
       "type": "tweets",
       "content": "<p>Direct flights, Port engagements between Iran, UAE to start: Iran Media</p>",
       "author": "@sidhant"
-    },
-    {
-      "title": "\ud83d\udea8Viewer discretion advised \ud83d\udea8 Karachi Attack Update \ud83c\uddf5\ud83c\uddf0\ud83d\udca5 Local sources say critically injured Pak Rangers officers from the Gulistan e Johar attack are being shifted to hospitals. Reports suggest 7 to 9 JuA rebels stormed the Rangers compound. Several casualties are feared.",
-      "link": "https://nitter.net/OsintTV/status/2070919146922000752#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-27T22:46:15+05:30",
-      "time": "27 Jun, 10:46 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Viewer discretion advised \ud83d\udea8<br />\n<br />\nKarachi Attack Update \ud83c\uddf5\ud83c\uddf0\ud83d\udca5<br />\n<br />\nLocal sources say critically injured Pak Rangers officers from the Gulistan e Johar attack are being shifted to hospitals.<br />\n<br />\nReports suggest 7 to 9 JuA rebels stormed the Rangers compound. Several casualties are feared.</p>\n<img src=\"https://nitter.net/pic/media%2FHL1h8mPXMAAUGtp.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1h8mNWoAAnC6B.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1h8mDWgAAHTQ8.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1h8mHXIAAVqwW.jpg\" />",
-      "author": "@OsintTV"
     },
     {
       "title": "\ud83d\udea8Intense exchange of fire between \ud83c\uddf5\ud83c\uddf0forces and Jamaat-ul-Ahrar fighters going on. JuA has claimed responsibility of the attack.",
@@ -1070,16 +1071,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "\ud83d\udea8 Blast in Gulmarg Sector ,Baramulla. As per initial reports, one person, died on the spot, while four other persons sustained serious injuries in the incident. Further details are awaited.",
-      "link": "https://nitter.net/AngryRumi7/status/2070863801445237069#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-06-27T19:06:19+05:30",
-      "time": "27 Jun, 07:06 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Blast in Gulmarg Sector ,Baramulla. As per initial reports, one person, died on the spot, while four other persons sustained serious injuries in the incident. <br />\n<br />\nFurther details are awaited.</p>\n<img src=\"https://nitter.net/pic/media%2FHL0vodCbcAAfuFQ.jpg\" />",
-      "author": "@AngryRumi7"
-    },
-    {
       "title": "Certain pro-import circles seem to have found a new phrase today: \u201cthe click jibe.\u201d What they need to understand is that, by nature, many Indians dislike paying billions of dollars for imported weapon systems only to later read headlines saying those systems have been \u201ccleared for export to India.\u201d When you\u2019ve paid in full, such language feels demeaning to people with self-respect. Also, when things get stuck after paying in full it hurts too.. be it system or LRU (engine). That is why criticism of excessive imports, and support for indigenous products even if imperfect in their early stages resonates with a much larger audience than many assume. So next time when you come up with that \u201cclick\u201d jibe do some backup work \ud83d\ude05",
       "link": "https://nitter.net/alpha_defense/status/2070858487895384391#m",
       "source": "Alpha Defense",
@@ -1150,16 +1141,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Traditional welcome for Indian PM Modi in Seychelles",
-      "link": "https://nitter.net/sidhant/status/2070846027817763010#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-27T17:55:42+05:30",
-      "time": "27 Jun, 05:55 PM",
-      "type": "tweets",
-      "content": "<p>Traditional welcome for Indian PM Modi in Seychelles</p>\n<a href=\"https://nitter.net/sidhant/status/2070846027817763010#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070845905151123456%2Fpu%2Fimg%2FacKYBJct2d1-u2Au.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: Gilgit-Baltistan: The Ittehad-ul-Mujahideen Pakistan (IMP) claimed responsibility for attacking a Pakistani military checkpost & killing a soldier yesterday in the Tangir tehsil of Diamer district.",
       "link": "https://nitter.net/cozyduke_apt29/status/2070840314156495011#m",
       "source": "Osint TV",
@@ -1217,16 +1198,6 @@
       "time": "27 Jun, 03:47 PM",
       "type": "tweets",
       "content": "<p>For more updates pls subscribe to our TG channel <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n\ud83d\ude4f</p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://t.me/OsntTV\">\n<img src=\"https://nitter.net/pic/card_img%2F2070070396695777280%2FLkNStR0N%3Fformat%3Djpg%26name%3D420x420_2\" />\n<br />\n<b>OsintTV \ud83d\udcfa\ufe0f</b>\n</a>\n<p>Disclaimer\u26a0: This Is A \ud83c\uddee\ud83c\uddf3 Channel Which Shares Updates On\ud83d\udee1\ufe0fForeign Affairs,\ud83d\udce1 Geopolitics &amp; \ud83d\udee9\ufe0f Aviation Twitter : https://x.com/OsintTV</p>\n<small><a href=\"https://t.me/OsntTV\">t.me</a></small>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\udea8 Three LeT Operatives Dead in Pakistan Amid Growing Mystery. A wave of unexplained deaths has struck Lashkar-e-Taiba (LeT) leadership in Pakistan, with three high-profile operatives dying within the span of just a few days. \u2666\ufe0f1, Ghazi Mumtaz: A veteran LeT trainer responsible for preparing countless recruits, Mumtaz died under mysterious circumstances in Upper Dir. \u2666\ufe0f2, Muhammad Khuzaimah Qasim: Killed in a hit-and-run case in Bahawalpur. Qasim was the brother of senior LeT leader Muhammad Yaqoob (Gen Sec of PMML - Mubarakpur); his funeral was presided over by Hafiz Abdul Mannan Makki, brother of LeT co-founder Abdul Rehman Makki. \u2666\ufe0f3, Khalid Bashir: A senior LeT operative reportedly found dead under suspicious conditions. Details surrounding his death remain under investigation. \ud83d\udccdThe rapid succession of these deaths has left questions mounting within the organization\u2019s ranks.",
-      "link": "https://nitter.net/OsintTV/status/2070810792891490604#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-27T15:35:41+05:30",
-      "time": "27 Jun, 03:35 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Three LeT Operatives Dead in Pakistan Amid Growing Mystery.<br />\n<br />\nA wave of unexplained deaths has struck Lashkar-e-Taiba (LeT) leadership in Pakistan, with three high-profile operatives dying within the span of just a few days.<br />\n<br />\n\u2666\ufe0f1, Ghazi Mumtaz: A veteran LeT trainer responsible for preparing countless recruits, Mumtaz died under mysterious circumstances in Upper Dir.<br />\n<br />\n\u2666\ufe0f2, Muhammad Khuzaimah Qasim: Killed in a hit-and-run case in Bahawalpur. Qasim was the brother of senior LeT leader Muhammad Yaqoob (Gen Sec of PMML - Mubarakpur); his funeral was presided over by Hafiz Abdul Mannan Makki,  brother of LeT co-founder Abdul Rehman Makki.<br />\n<br />\n\u2666\ufe0f3, Khalid Bashir: A senior LeT operative reportedly found dead under suspicious conditions. Details surrounding his death remain under investigation.<br />\n<br />\n\ud83d\udccdThe rapid succession of these deaths has left questions mounting within the organization\u2019s ranks.</p>\n<img src=\"https://nitter.net/pic/media%2FHLz_bnoXsAAw4ki.jpg\" />",
       "author": "@OsintTV"
     },
     {
@@ -1610,16 +1581,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "India\u2019s C17 with relief support to earthquake hit Venezuela.",
-      "link": "https://nitter.net/alpha_defense/status/2070476629424636338#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-26T17:27:50+05:30",
-      "time": "26 Jun, 05:27 PM",
-      "type": "tweets",
-      "content": "<p>India\u2019s C17 with relief support to earthquake hit Venezuela.</p>\n<img src=\"https://nitter.net/pic/media%2FHLvPhNhacAAWOh0.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "We are again entering into the November 2020 loop. Your magnanimity is now taken as your weakness. Please don't tell me you were not expecting this gentlemen at MHA.",
       "link": "https://nitter.net/elitepredatorss/status/2070476596633567498#m",
       "source": "Elite Predators",
@@ -1785,6 +1746,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 AM IST"
+    "last_updated": "04:24 AM IST"
   }
 }
