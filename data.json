@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Bahrain accuses Iran of fresh drone attack; no casualties reported",
+      "link": "https://newsonair.gov.in/bahrain-accuses-iran-of-fresh-drone-attack-no-casualties-reported/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-27T19:21:25+05:30",
+      "time": "27 Jun, 07:21 PM",
+      "type": "news",
+      "description": "Bahrain today accused Iran of launching fresh drone attack targeting the island nation. Bahrain\u2019s Foreign Ministry said in a statement that a number o..."
+    },
+    {
+      "title": "US blacklists Indian CEO over 200 secret shipments of explosives bound for Sudan\u2019s military",
+      "link": "https://indianexpress.com/article/world/us-sanctions-raipur-ceo-alok-choudhari-sbl-energy-explosives-sudan-war-10759692/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-27T18:48:42+05:30",
+      "time": "27 Jun, 06:48 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Hyderabad renames road as Donald Trump Avenue; US President expresses gratitude",
       "link": "https://newsonair.gov.in/hyderabad-renames-road-as-donald-trump-avenue-us-president-expresses-gratitude/",
       "source": "All India Radio",
@@ -199,15 +217,6 @@
       "description": "At the centre of the latest wave of speculation over Track-II dialogue between India and Pakistan, RSS veteran Ram Madhav on Saturday dismissed report..."
     },
     {
-      "title": "Tibet groups write to 14 foreign ministers to oppose China\u2019s 'Promoting Ethnic Unity and Progress' Law",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/27/tibet-groups-write-to-14-foreign-ministers-to-oppose-chinas-promoting-ethnic-unity-and-progress-law",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-27T14:02:07+05:30",
-      "time": "27 Jun, 02:02 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "US Secretary of State Marco Rubio praises PM Modi\u2019s leadership",
       "link": "https://newsonair.gov.in/us-secretary-of-state-marco-rubio-praises-pm-modis-leadership/",
       "source": "All India Radio",
@@ -307,15 +316,6 @@
       "description": "India's Ambassador to the US, Vinay Mohan Kwatra, met with senior US defence official Elbridge Colby at the Pentagon. Their discussion centered on str..."
     },
     {
-      "title": "US Vice President JD Vance warns Iran against violating ceasefire agreement",
-      "link": "https://newsonair.gov.in/us-vice-president-jd-vance-warns-iran-against-violating-ceasefire-agreement/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-27T11:30:58+05:30",
-      "time": "27 Jun, 11:30 AM",
-      "type": "news",
-      "description": "US Vice President JD Vance has warned Iran that any future aggression would be met with force, hours after the United States carried out military stri..."
-    },
-    {
       "title": "Germany could revive conscription by mid-2027, senior MP tells AFP",
       "link": "https://economictimes.indiatimes.com/news/defence/germany-could-revive-conscription-by-mid-2027-senior-mp-tells-afp/articleshow/132028379.cms",
       "source": "Economic Times",
@@ -350,15 +350,6 @@
       "time": "27 Jun, 06:08 AM",
       "type": "news",
       "description": "US forces struck Iranian missile and drone sites following an attack on a cargo ship in the Strait of Hormuz, jeopardising a recent interim peace deal..."
-    },
-    {
-      "title": "Bigger drones, loud music: Drug smugglers take to new tactics along India-Pakistan border",
-      "link": "https://www.tribuneindia.com/news/punjab/bigger-drones-loud-music-drug-smugglers-take-to-new-tactics",
-      "source": "The Tribune",
-      "sort_key": "2026-06-27T01:55:53+05:30",
-      "time": "27 Jun, 01:55 AM",
-      "type": "news",
-      "description": "Smuggling networks along the India-Pakistan border have adopted a new tactic to evade security agencies. They play loud DJ music during drone drops to..."
     },
     {
       "title": "NIA files charges against 11 over JMB offshoot's India terror expansion plot",
@@ -476,6 +467,33 @@
       "time": "26 Jun, 05:21 PM",
       "type": "news",
       "description": "Russia has issued a stern warning to the US, cautioning that continued military aid to Ukraine could trigger \"unforeseen consequences\" for global stab..."
+    },
+    {
+      "title": "Operation Amistad: Indian Army aid team leaves for earthquake-hit Venezuela",
+      "link": "https://defencemonitor.in/operation-amistad-indian-army-aid-team-leaves-for-earthquake-hit-venezuela/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-26T17:16:43+05:30",
+      "time": "26 Jun, 05:16 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 26 (IANS) The Indian Army has dispatched a specialised medical contingent to Venezuela to assist in humanitarian relief efforts in ..."
+    },
+    {
+      "title": "North Korea\u2019s Supreme Leader Kim Jong-un oversees artillery, missile tests",
+      "link": "https://defencemonitor.in/north-koreas-supreme-leader-kim-jong-un-oversees-artillery-missile-tests/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-26T17:14:19+05:30",
+      "time": "26 Jun, 05:14 PM",
+      "type": "news",
+      "description": "<p>Pyongyang, June 26 (IANS) North Korea&#8217;s Supreme Leader Kim Jong Un has overseen tests of multiple firepower systems in a bid to modernise the..."
+    },
+    {
+      "title": "India sends two IAF planes with relief support to quake-hit Venezuela under Operation Amistad (Lead)",
+      "link": "https://defencemonitor.in/india-sends-two-iaf-planes-with-relief-support-to-quake-hit-venezuela-under-operation-amistad-lead/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-06-26T17:11:49+05:30",
+      "time": "26 Jun, 05:11 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 26 (IANS) India on Friday launched &#8216;Operation Amistad&#8217; to support earthquake-hit Venezuela, dispatching two Indian Air ..."
     },
     {
       "title": "Iran insists on right to control shipping in Strait of Hormuz after ship hit near Oman",
@@ -674,18 +692,89 @@
       "time": "25 Jun, 08:30 PM",
       "type": "news",
       "description": "Israel said Thursday that it would only withdraw its forces from southern Lebanon after Hezbollah was disarmed, as the two countries engaged in US-med..."
-    },
-    {
-      "title": "IAF gets final clearance for indigenous Netra surveillance aircraft system",
-      "link": "https://economictimes.indiatimes.com/news/defence/iaf-gets-final-clearance-for-indigenous-netra-surveillance-aircraft-system/articleshow/131994846.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-25T18:49:30+05:30",
-      "time": "25 Jun, 06:49 PM",
-      "type": "news",
-      "description": "India's Air Force has achieved a significant milestone with the Final Operational Clearance for its indigenous Netra Airborne Early Warning and Contro..."
     }
   ],
   "tweets": [
+    {
+      "title": "Watch: PM Modi hands Fast Patrol Vessel to Seychelles Patrick Herminie",
+      "link": "https://nitter.net/sidhant/status/2070867888748347711#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-27T19:22:34+05:30",
+      "time": "27 Jun, 07:22 PM",
+      "type": "tweets",
+      "content": "<p>Watch: PM Modi hands Fast Patrol Vessel to Seychelles Patrick Herminie</p>\n<a href=\"https://nitter.net/sidhant/status/2070867888748347711#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070867859635605504%2Fpu%2Fimg%2FMQldCVFSUgt-lrq9.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Flash: PM Modi hands Fast Patrol Vessel, Ambulances to Seychelles",
+      "link": "https://nitter.net/sidhant/status/2070867473755431390#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-27T19:20:55+05:30",
+      "time": "27 Jun, 07:20 PM",
+      "type": "tweets",
+      "content": "<p>Flash: PM Modi hands Fast Patrol Vessel, Ambulances to  Seychelles</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "PM Modi with Seychelles President Dr. Patrick Herminie Pic: PMO X",
+      "link": "https://nitter.net/sidhant/status/2070866153984213097#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-27T19:15:40+05:30",
+      "time": "27 Jun, 07:15 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi with Seychelles President Dr. Patrick Herminie<br />\n<br />\nPic: PMO X</p>\n<img src=\"https://nitter.net/pic/media%2FHL0xq7CawAAizlO.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Whatever happened between the Indian Army and the J&K police in Kishtwar was unfortunate. At the same time, the debate escalated towards the direction of Army vs Police. The man behind the fiasco went missing. A veteran on X advised the army to step back, as it can create more trouble for them, as the civil servant is immune to any action. This actually highlights a sad reality of the whole system, which grants god-level powers to the people who have very shallow judgment depth. The fact of the matter is, animosity between these two forces will only harm the country and its national security. Kishtwar is the area where we recently 72'd Saifullah and many other pigs. The civil servant will not operate in the jungle where life and death are dependent on mutual trust. The real importance of that trust is only known to the forces operating in the valley.",
+      "link": "https://nitter.net/elitepredatorss/status/2070865421839003702#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-27T19:12:46+05:30",
+      "time": "27 Jun, 07:12 PM",
+      "type": "tweets",
+      "content": "<p>Whatever happened between the Indian Army and the J&amp;K police in Kishtwar was unfortunate. At the same time, the debate escalated towards the direction of Army vs Police. The man behind the fiasco went missing.<br />\n<br />\nA veteran on X advised the army to step back, as it can create more trouble for them, as the civil servant is immune to any action.<br />\n<br />\nThis actually highlights a sad reality of the whole system, which grants god-level powers to the people who have very shallow judgment depth.<br />\n<br />\nThe fact of the matter is, animosity between these two forces will only harm the country and its national security. Kishtwar is the area where we recently 72'd Saifullah and many other pigs.<br />\n<br />\nThe civil servant will not operate in the jungle where life and death are dependent on mutual trust. The real importance of that trust is only known to the forces operating in the valley.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "\ud83d\udea8 Blast in Gulmarg Sector ,Baramulla. As per initial reports, one person, died on the spot, while four other persons sustained serious injuries in the incident. Further details are awaited.",
+      "link": "https://nitter.net/AngryRumi7/status/2070863801445237069#m",
+      "source": "Angry Rumi",
+      "sort_key": "2026-06-27T19:06:19+05:30",
+      "time": "27 Jun, 07:06 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Blast in Gulmarg Sector ,Baramulla. As per initial reports, one person, died on the spot, while four other persons sustained serious injuries in the incident. <br />\n<br />\nFurther details are awaited.</p>\n<img src=\"https://nitter.net/pic/media%2FHL0vodCbcAAfuFQ.jpg\" />",
+      "author": "@AngryRumi7"
+    },
+    {
+      "title": "Certain pro-import circles seem to have found a new phrase today: \u201cthe click jibe.\u201d What they need to understand is that, by nature, many Indians dislike paying billions of dollars for imported weapon systems only to later read headlines saying those systems have been \u201ccleared for export to India.\u201d When you\u2019ve paid in full, such language feels demeaning to people with self-respect. Also, when things get stuck after paying in full it hurts too.. be it system or LRU (engine). That is why criticism of excessive imports, and support for indigenous products even if imperfect in their early stages resonates with a much larger audience than many assume. So next time when you come up with that \u201cclick\u201d jibe do some backup work \ud83d\ude05",
+      "link": "https://nitter.net/alpha_defense/status/2070858487895384391#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-27T18:45:12+05:30",
+      "time": "27 Jun, 06:45 PM",
+      "type": "tweets",
+      "content": "<p>Certain pro-import circles seem to have found a new phrase today: \u201cthe click jibe.\u201d<br />\n<br />\nWhat they need to understand is that, by nature, many Indians dislike paying billions of dollars for imported weapon systems only to later read headlines saying those systems have been \u201ccleared for export to India.\u201d When you\u2019ve paid in full, such language feels demeaning to people with self-respect. Also, when things get stuck after paying in full it hurts too.. be it system or LRU (engine).<br />\n<br />\nThat is why criticism of excessive imports, and support for indigenous products even if imperfect in their early stages resonates with a much larger audience than many assume.<br />\n<br />\nSo next time when you come up with that \u201cclick\u201d jibe do some backup work \ud83d\ude05</p>\n<img src=\"https://nitter.net/pic/media%2FHL0q0R-bsAAQg8v.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Lumber 1 fauj running away leaving their comrades \ud83d\ude02\ud83d\ude02\ud83e\udd23 Peak NaPak fauj moment",
+      "link": "https://nitter.net/Goreunit/status/2070853224077373474#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-27T18:24:17+05:30",
+      "time": "27 Jun, 06:24 PM",
+      "type": "tweets",
+      "content": "<p>Lumber 1 fauj running away leaving their comrades \ud83d\ude02\ud83d\ude02\ud83e\udd23<br />\nPeak NaPak fauj moment</p>\n<a href=\"https://nitter.net/Goreunit/status/2070853224077373474#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070816215782604800%2Fpu%2Fimg%2FVgKVBkIIwqgFD4GT.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "\"Deepening of relations with India is important to realise free & open Indo Pacific\", says Japan's Chief Cabinet Secretary Kihara as he announces the visit of Japan PM Sanae Takaichi to India Vdo csty: Japan Govt",
+      "link": "https://nitter.net/sidhant/status/2070852302085460193#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-27T18:20:38+05:30",
+      "time": "27 Jun, 06:20 PM",
+      "type": "tweets",
+      "content": "<p>\"Deepening of relations with India is important to realise free &amp; open Indo Pacific\", says Japan's Chief Cabinet Secretary Kihara as he announces the visit of Japan PM Sanae Takaichi to India<br />\n<br />\nVdo csty: Japan Govt</p>\n<a href=\"https://nitter.net/sidhant/status/2070852302085460193#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2070852250424299520%2Fpu%2Fimg%2F1GtN2dGzBwVP0DgV.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "RT by @NetramDefence: Terror Plot Foiled in Assam In a joint operation, Tinsukia Police and central agencies arrested 2 ULFA-I at Jagun Bazaar. The duo infiltrated from Myanmar via Arunachal Pradesh & were planning indiscriminate attacks on civilians.",
       "link": "https://nitter.net/KangleipakDaily/status/2070849786140647747#m",
@@ -1077,36 +1166,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "China, Bangladesh agree to advance the Mongla Port Facilities Modernization, Chinese Economic & Industrial Zone in Chattogram; focus connectivity; Bangladesh restates One China policy, appreciates China\u2019s role in addressing the Rohingya refugee crisis Joint Statement:",
-      "link": "https://nitter.net/sidhant/status/2070755248046755966#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-27T11:54:58+05:30",
-      "time": "27 Jun, 11:54 AM",
-      "type": "tweets",
-      "content": "<p>China, Bangladesh agree to advance the Mongla Port Facilities Modernization, Chinese Economic &amp; Industrial Zone in Chattogram; focus connectivity; Bangladesh restates One China policy, appreciates China\u2019s role in addressing the Rohingya refugee crisis<br />\n<br />\nJoint Statement:</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Flash: China extends support to Bangladesh's participation in BRICS, &amp; application for SCO<br />\n<br />\nTrade, connectivity, ports dominate the talks during Bangladesh PM Tarique Rahman's China visit.<br />\n<br />\nChina, Bangladesh joint statement</p>\n<img src=\"https://nitter.net/pic/media%2FHLzM3RtbwAAw9I1.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLzM3Wob0AAxeJY.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLzM3UPaEAAcTzA.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLzM3V3a0AAUpl0.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2070755182833709428#m\">https://nitter.net/sidhant/status/2070755182833709428#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Flash: China extends support to Bangladesh's participation in BRICS, & application for SCO Trade, connectivity, ports dominate the talks during Bangladesh PM Tarique Rahman's China visit. China, Bangladesh joint statement",
-      "link": "https://nitter.net/sidhant/status/2070755182833709428#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-27T11:54:43+05:30",
-      "time": "27 Jun, 11:54 AM",
-      "type": "tweets",
-      "content": "<p>Flash: China extends support to Bangladesh's participation in BRICS, &amp; application for SCO<br />\n<br />\nTrade, connectivity, ports dominate the talks during Bangladesh PM Tarique Rahman's China visit.<br />\n<br />\nChina, Bangladesh joint statement</p>\n<img src=\"https://nitter.net/pic/media%2FHLzM3RtbwAAw9I1.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLzM3Wob0AAxeJY.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLzM3UPaEAAcTzA.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLzM3V3a0AAUpl0.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "West Asia conflict: US, Iran trade strikes days after electronically signing MoU",
-      "link": "https://nitter.net/sidhant/status/2070751260056412283#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-27T11:39:07+05:30",
-      "time": "27 Jun, 11:39 AM",
-      "type": "tweets",
-      "content": "<p>West Asia conflict: US, Iran trade strikes days after electronically signing MoU</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Excellent thread. Worth going through \ud83d\udc47",
       "link": "https://nitter.net/Goreunit/status/2070749608582549831#m",
       "source": "War & Gore",
@@ -1165,16 +1224,6 @@
       "type": "tweets",
       "content": "<p>Rpeort: Following Indians participated in  Track 2 dialogue with Pakistan in Hilton hotel in Sri Lanka.<br />\n<br />\n- Ram Madhav, senior RSS leader.<br />\n- Gen MM Naravane, Retired Army chief.<br />\n- Ruchi Ghanshyam, Retired diplomat/ex-IFS officer.<br />\n<br />\nFrom the Pakistani side a former Pak ISI deputy chief participated along with politician Sherry Rehman and a Pak diplomat.</p>",
       "author": "@TheLegateIN"
-    },
-    {
-      "title": "PM Modi leaves for 3 day Seychelles visit",
-      "link": "https://nitter.net/sidhant/status/2070721611691594199#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-27T09:41:19+05:30",
-      "time": "27 Jun, 09:41 AM",
-      "type": "tweets",
-      "content": "<p>PM Modi leaves for 3 day Seychelles visit</p>",
-      "author": "@sidhant"
     },
     {
       "title": "BREAKING: Chinese President Xi Jinping reaffirmed support for Bangladesh's sovereignty and opposed \"foreign interference\" during talks with Prime Minister Tarique Rahman in Beijing. The two sides also agreed to deepen cooperation on the Teesta River project, ports, Belt and Road Initiative (BRI), defence dialogue, and a proposed new economic corridor, signaling closer China\u2013Bangladesh strategic ties.",
@@ -1617,16 +1666,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "I am sorry, sir! Grok and other AI tools are here to stay. Those who use them blindly as end-to-end replacements for their own thinking will eventually become synonymous with AI and lose relevance. However, those who use these tools to complement and enhance their work will continue to remain relevant and valuable.",
-      "link": "https://nitter.net/alpha_defense/status/2070187903251292408#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-25T22:20:33+05:30",
-      "time": "25 Jun, 10:20 PM",
-      "type": "tweets",
-      "content": "<p>I am sorry, sir! Grok and other AI tools are here to stay. Those who use them blindly as end-to-end replacements for their own thinking will eventually become synonymous with AI and lose relevance. However, those who use these tools to complement and enhance their work will continue to remain relevant and valuable.</p>\n<hr />\n<blockquote>\n<b>KJS DHILLON\ud83c\uddee\ud83c\uddf3 (@TinyDhillon)</b>\n<p>\n<p>Grok do this.<br />\nGrok do that.<br />\nGrok remove this.<br />\nGrok add that.<br />\n<br />\nIt\u2019s not getting too irritating \ud83d\ude20 <br />\n<br />\nCan someone just remove Grok?</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/TinyDhillon/status/2070098230495629737#m\">https://nitter.net/TinyDhillon/status/2070098230495629737#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Even school-going little girls are opposing Pakistan\u2019s illegal occupation of Jammu and Kashmir.",
       "link": "https://nitter.net/Goreunit/status/2070177437959548939#m",
       "source": "War & Gore",
@@ -1655,46 +1694,6 @@
       "type": "tweets",
       "content": "<p>**Date Extended**<br />\nIndia Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.    From:27/06/2026 , 10:00 IST  <br />\nUntil:05/07/2026 , 16:30 IST  <br />\nV-Limit:Surface-Unlimited</p>\n<img src=\"https://nitter.net/pic/media%2FHLqq6UpbMAAUWO1.jpg\" />\n\n<hr />\n<blockquote>\n<b>NOTAM INDIA \ud83c\uddee\ud83c\uddf3 (@notam_in)</b>\n<p>\n<p>India Has Issued NOTAM For Aerial Activity (Likely Missile Test) In Bay Of Bengal Region.  <br />\n<br />\nFrom:22/06/2026 , 10:00 IST <br />\nUntil:26/06/2026 , 16:30 IST <br />\nV-Limit:Surface-Unlimited<br />\n<br />\n**Sorry for late update\ud83d\ude4f</p>\n<img src=\"https://nitter.net/pic/media%2FHLbnYPhbIAAZoEF.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/notam_in/status/2069095860580053484#m\">https://nitter.net/notam_in/status/2069095860580053484#m</a>\n</footer>\n</blockquote>",
       "author": "@notam_in"
-    },
-    {
-      "title": "\ud83d\udcf9from the Final Operational Clearance (#FOC) certificate ceremny of indigenous #Netra Airborne Early Warning and Control (AEW&C) system.",
-      "link": "https://nitter.net/DefenceDecode/status/2070139585183859092#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-25T19:08:33+05:30",
-      "time": "25 Jun, 07:08 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udcf9from the Final Operational Clearance (<a href=\"https://nitter.net/search?f=tweets&amp;q=%23FOC\">#FOC</a>) certificate ceremny of indigenous <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Netra\">#Netra</a> Airborne Early Warning and Control (AEW&amp;C) system.</p>\n<a href=\"https://nitter.net/DefenceDecode/status/2070139585183859092#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070139302013816832%2Fimg%2FOftfOufS5udHTouS.jpg\" />\n</a>",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "From IOC in 2017 to formal FOC in 2026 - the indigenous #Netra AEW&C has reached full operational maturity. A proud achievement for DRDO, IAF and Indian industry, enhancing the nation\u2019s airborne surveillance, battle management and situational awareness capabilities.",
-      "link": "https://nitter.net/DefenceDecode/status/2070137145675915298#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-25T18:58:51+05:30",
-      "time": "25 Jun, 06:58 PM",
-      "type": "tweets",
-      "content": "<p>From IOC in 2017 to formal FOC in 2026 - the indigenous <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Netra\">#Netra</a> AEW&amp;C has reached full operational maturity. A proud achievement for DRDO, IAF and Indian industry, enhancing the nation\u2019s airborne surveillance, battle management and situational awareness capabilities.</p>\n<img src=\"https://nitter.net/pic/media%2FHLqap6_boAALMHp.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf3 Iran's Petroleum Minister Mohsen Paknejad meets India's Hardeep Singh Puri on the sidelines of the 11th BRICS Energy Ministers' Meeting in Gurugram.",
-      "link": "https://nitter.net/Goreunit/status/2070130153167126600#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-25T18:31:04+05:30",
-      "time": "25 Jun, 06:31 PM",
-      "type": "tweets",
-      "content": "<p>\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf3<br />\nIran's Petroleum Minister Mohsen Paknejad meets India's Hardeep Singh Puri on the sidelines of the 11th BRICS Energy Ministers' Meeting in Gurugram.</p>\n<img src=\"https://nitter.net/pic/media%2FHLqUZd6aAAAsaTi.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "#ProjectHawkEye launched by Anantnag Police for #SANJY2026. 5 drone units, 28 Machan Morchas, 22 sniper teams, 416 CCTV cameras & Facial Recognition Systems deployed to maintain 360\u00b0 surveillance and ensure a safe, secure and peaceful Shri Amarnath Ji Yatra.",
-      "link": "https://nitter.net/Goreunit/status/2070129245850927257#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-25T18:27:28+05:30",
-      "time": "25 Jun, 06:27 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23ProjectHawkEye\">#ProjectHawkEye</a> launched by Anantnag Police for <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SANJY2026\">#SANJY2026</a>.<br />\n5 drone units, 28 Machan Morchas, 22 sniper teams, 416 CCTV cameras &amp; Facial Recognition Systems deployed to maintain 360\u00b0 surveillance and ensure a safe, secure and peaceful Shri Amarnath Ji Yatra.</p>\n<img src=\"https://nitter.net/pic/media%2FHLqTknrbQAAQLG5.jpg\" />",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1781,6 +1780,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
