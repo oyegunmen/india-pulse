@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Dubai offers government staff four-day work week this summer",
+      "link": "https://newsonair.gov.in/dubai-offers-government-staff-four-day-work-week-this-summer/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-29T18:53:54+05:30",
+      "time": "29 Jun, 06:53 PM",
+      "type": "news",
+      "description": "Dubai government employees begin benefiting today from flexible working arrangements as the 2026 edition of the &#8220;Our Flexible Summer&#8221; init..."
+    },
+    {
+      "title": "Iran, Oman begin joint talks on future governance of Strait of Hormuz",
+      "link": "https://newsonair.gov.in/iran-oman-begin-joint-talks-on-future-governance-of-strait-of-hormuz/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-29T18:49:54+05:30",
+      "time": "29 Jun, 06:49 PM",
+      "type": "news",
+      "description": "Iran and Oman have held the first meeting of their newly established joint Hormuz Committee in Muscat, marking a fresh diplomatic effort to address th..."
+    },
+    {
+      "title": "Rajnath Singh unveils DFP-2026 to enhance accountability, timely execution of R&amp;D projects",
+      "link": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-unveils-dfp-2026-to-enhance-accountability-timely-execution-of-rd-projects/articleshow/132072570.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-29T18:33:34+05:30",
+      "time": "29 Jun, 06:33 PM",
+      "type": "news",
+      "description": "The DFP-2026, unveiled here by Defence Minister Rajnath Singh, aims to significantly enhance functional empowerment at various levels within the Depar..."
+    },
+    {
+      "title": "Russia could attack NATO one year after Ukraine war: Dutch govt",
+      "link": "https://economictimes.indiatimes.com/news/defence/russia-could-attack-nato-one-year-after-ukraine-war-dutch-govt/articleshow/132072507.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-29T18:30:16+05:30",
+      "time": "29 Jun, 06:30 PM",
+      "type": "news",
+      "description": "Russia could launch a \"limited\" military campaign against a NATO country just one year after the war in Ukraine ends, the Dutch defence ministry warne..."
+    },
+    {
       "title": "Pakistan\u2019s Afghan offensive: A dangerous diversion from domestic collapse",
       "link": "https://defencemonitor.in/pakistans-afghan-offensive-a-dangerous-diversion-from-domestic-collapse/",
       "source": "Defense Monitor",
@@ -26,6 +62,15 @@
       "time": "29 Jun, 06:10 PM",
       "type": "news",
       "description": "<p>New Delhi, June 29 (IANS) Chief of the Air Staff, Air Chief Marshal A P Singh, held a meeting with Chief of Staff of the Italian Air Force, Lieuten..."
+    },
+    {
+      "title": "TKIL Industries, CME Pune partner to deploy green hydrogen microgrid for defence research",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tkil-industries-cme-pune-partner-to-deploy-green-hydrogen-microgrid-for-defence-research/132072132",
+      "source": "Economic Times",
+      "sort_key": "2026-06-29T18:00:23+05:30",
+      "time": "29 Jun, 06:00 PM",
+      "type": "news",
+      "description": "The pilot project will integrate green hydrogen production, storage and fuel cell power generation to evaluate off-grid energy systems for defence app..."
     },
     {
       "title": "Foreign Secretary Vikram Misri dismisses reports of India-Pakistan Track-2 dialogue",
@@ -233,24 +278,6 @@
       "time": "29 Jun, 08:25 AM",
       "type": "news",
       "description": "Prime Minister Narendra Modi attended the National Day celebrations marking the 50th anniversary of Independence of Seychelles. Mr Modi attended the c..."
-    },
-    {
-      "title": "US & Iran Agree to Halt Counter-Strikes and Resume Talks in Doha",
-      "link": "https://newsonair.gov.in/us-iran-agree-to-halt-counter-strikes-and-resume-talks-in-doha/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-29T08:25:49+05:30",
-      "time": "29 Jun, 08:25 AM",
-      "type": "news",
-      "description": "The United States and Iran have agreed to halt counter-strikes and resume talks in Qatar&#8217;s capital, Doha, tomorrow. The move is aimed at resolvi..."
-    },
-    {
-      "title": "Venezuela Earthquake Death Toll Rises to 1,450",
-      "link": "https://newsonair.gov.in/venezuela-earthquake-death-toll-rises-to-1450/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-29T08:03:00+05:30",
-      "time": "29 Jun, 08:03 AM",
-      "type": "news",
-      "description": "Venezuelan National Assembly President Jorge Rodriguez said that the death toll from two powerful earthquakes that struck Venezuela Wednesday has rise..."
     },
     {
       "title": "Hezbollah-allied Lebanese parliament head says US-Israel-Lebanon deal 'will not pass'",
@@ -530,18 +557,29 @@
       "time": "27 Jun, 08:09 PM",
       "type": "news",
       "description": "The government has refuted claims that six soldiers killed in Operation Sindoor were only recently officially recognised. The Press Information Bureau..."
-    },
-    {
-      "title": "US blacklists Indian CEO over 200 secret shipments of explosives bound for Sudan\u2019s military",
-      "link": "https://indianexpress.com/article/world/us-sanctions-raipur-ceo-alok-choudhari-sbl-energy-explosives-sudan-war-10759692/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-27T18:48:42+05:30",
-      "time": "27 Jun, 06:48 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @NetramDefence: Tension erupted in Manipur after a escorted convoy carrying food, medicines & essential supplies to hill areas faced resistance at multiple locations along the Imphal\u2013Tamenglong Road. Authorities used tear gas & smoke shells to clear the route after prolonged negotiations.",
+      "link": "https://nitter.net/KangleipakDaily/status/2071587184583589922#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-29T19:00:47+05:30",
+      "time": "29 Jun, 07:00 PM",
+      "type": "tweets",
+      "content": "<p>Tension erupted in Manipur after a escorted convoy carrying food, medicines &amp; essential supplies to hill areas faced resistance at multiple locations along the Imphal\u2013Tamenglong Road.<br />\n<br />\nAuthorities used tear gas &amp; smoke shells to clear the route after prolonged negotiations.</p>\n<a href=\"https://nitter.net/KangleipakDaily/status/2071587184583589922#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071585391359209472%2Fimg%2F17eJ49blbfWoCSbc.jpg\" />\n</a>",
+      "author": "@KangleipakDaily"
+    },
+    {
+      "title": "RT by @OsintTV: There are no winners in a fight between the J&K Police and the Indian Army. For decades, both have fought shoulder to shoulder against Pakistan-sponsored terrorism. They have bled together, sacrificed together, and stood as one in the most difficult times. That bond cannot and should not be undermined by social media exchanges. Differences may arise. Frustration may surface. That happens even between blood brothers. But public mudslinging only hands our adversaries exactly what they want, a divided security establishment. I appeal to serving personnel of JKP and Army, veterans, the media, and social media users: stop turning this into \u201cJKP vs Army.\u201d Do not amplify the divide. Do not fuel emotions. Let responsible voices prevail. Our enemy is focused on attacking India. We should remain focused on defeating the enemy, not each other. Enough is enough. LET IT STOP NOW. @TinyDhillon @LtGenDPPandey @mjavinod @SongsOfChinar @spvaid @SoldierNationF1 @VJSWRITER @AsifNaik @TheSatishDua @Ltcolonelvikas",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2071580091159900217#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-29T18:32:36+05:30",
+      "time": "29 Jun, 06:32 PM",
+      "type": "tweets",
+      "content": "<p>There are no winners in a fight between the J&amp;K Police and the Indian Army.<br />\n<br />\nFor decades, both have fought shoulder to shoulder against Pakistan-sponsored terrorism. They have bled together, sacrificed together, and stood as one in the most difficult times. That bond cannot and should not be undermined by social media exchanges.<br />\n<br />\nDifferences may arise. Frustration may surface. That happens even between blood brothers. But public mudslinging only hands our adversaries exactly what they want, a divided security establishment.<br />\n<br />\nI appeal to serving personnel of JKP and Army, veterans, the media, and social media users: stop turning this into \u201cJKP vs Army.\u201d Do not amplify the divide. Do not fuel emotions. Let responsible voices prevail.<br />\n<br />\nOur enemy is focused on attacking India. We should remain focused on defeating the enemy, not each other.<br />\n<br />\nEnough is enough.<br />\n<br />\nLET IT STOP NOW.<br />\n<br />\n<a href=\"https://nitter.net/TinyDhillon\" title=\"KJS DHILLON\ud83c\uddee\ud83c\uddf3\">@TinyDhillon</a> <a href=\"https://nitter.net/LtGenDPPandey\" title=\"Lt Gen DP Pandey\">@LtGenDPPandey</a> <a href=\"https://nitter.net/mjavinod\" title=\"Dr MJ Augustine Vinod \ud83c\uddee\ud83c\uddf3\">@mjavinod</a> <a href=\"https://nitter.net/SongsOfChinar\" title=\"Songs of Chinar\">@SongsOfChinar</a> <a href=\"https://nitter.net/spvaid\" title=\"Shesh Paul Vaid\">@spvaid</a> <a href=\"https://nitter.net/SoldierNationF1\" title=\"Maj Gen Raju Chauhan, VSM (veteran)\ud83c\uddee\ud83c\uddf3\">@SoldierNationF1</a> <a href=\"https://nitter.net/VJSWRITER\" title=\"Vikram Jit Singh\">@VJSWRITER</a> <a href=\"https://nitter.net/AsifNaik\" title=\"Asif Iqbal Naik\">@AsifNaik</a> <a href=\"https://nitter.net/TheSatishDua\" title=\"Lt Gen Satish Dua \ud83c\uddee\ud83c\uddf3\">@TheSatishDua</a> <a href=\"https://nitter.net/Ltcolonelvikas\" title=\"Lt Colonel Vikas Gurjar \ud83c\uddee\ud83c\uddf3\">@Ltcolonelvikas</a></p>\n<img src=\"https://nitter.net/pic/media%2FHL-7G8ua0AALM5e.jpg\" />",
+      "author": "@MikeLimaBravo12"
+    },
     {
       "title": "A country with over $600 million dollar trade with Venezuela sent a 60 tons of supplies including a field hospital. While the $6 billion dollar trade partner of veneuzuela, who recently was flaunting its \"Strategic lifting capabilites\" offered : - Couple of millions of financial aid. - Satellite images - Diplomatic condolences. The difference of culture which will become undeniable and widely appreciated in mean time by everyone.",
       "link": "https://nitter.net/elitepredatorss/status/2071577029171122274#m",
@@ -839,7 +877,7 @@
       "sort_key": "2026-06-29T13:41:59+05:30",
       "time": "29 Jun, 01:41 PM",
       "type": "tweets",
-      "content": "<p>Pakistani Armed Forces are very precise, very pecise to always target civilians especially women and children.<br />\n<br />\nLast night they bombed civilian homes in the provinces of Kunar, Khost, and Paktika. As a result, 11 children, one woman, and one elderly man were martyred, and 14 other women and children were wounded.</p>",
+      "content": "<p>Pakistani Armed Forces are very precise, very pecise to always target civilians especially women and children.<br />\n<br />\nLast night they bombed civilian homes in the provinces of Kunar, Khost, and Paktika. As a result, 11 children, one woman, and one elderly man were martyred, and 14 other women and children were wounded.</p>\n<hr />\n<blockquote>\n<b>Zabihullah (..\u0630\u0628\u0640\u0640\u0640\u0640\u0640\u06cc\u062d \u0627\u0644\u0644\u0647 \u0645 ) (@Zabehulah_M33)</b>\n<p>\n<p>\u062c\u0646\u0627\u06cc\u062a<br />\n\u062a\u06cc\u0631\u0647 \u0634\u067e\u0647 \u062f \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0645\u062a\u062c\u0627\u0648\u0632 \u067e\u0648\u0681 \u06cc\u0648\u0681\u0644 \u0628\u06cc\u0627 \u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u062d\u0631\u06cc\u0645 \u0646\u0642\u0636 \u06a9\u0693\u060c \u067e\u0647 \u06a9\u0646\u0693\u060c \u062e\u0648\u0633\u062a \u0627\u0648 \u067e\u06a9\u062a\u06cc\u06a9\u0627 \u0648\u0644\u0627\u06cc\u062a\u0648\u0646\u0648 \u06a9\u06d0 \u06cc\u06d0 \u0645\u0644\u06a9\u064a \u06a9\u0648\u0631\u0648\u0646\u0647 \u0628\u0645\u0628\u0627\u0631\u06a9\u0693\u0644.<br />\n\u0686\u06d0 \u0644\u0647 \u0627\u0645\u0644\u0647 \u06cc\u06d0 \u06f1\u06f1 \u0645\u0627\u0634\u0648\u0645\u0627\u0646 \u06cc\u0648\u0647 \u0632\u0646\u0627\u0646\u0647 \u0627\u0648 \u06cc\u0648 \u0633\u067e\u06cc\u0646\u0696\u06cc\u0631\u06cc \u0634\u0647\u06cc\u062f\u0627\u0646 \u06f1\u06f4 \u062a\u0646\u0647 \u0646\u0648\u0631 \u069a\u0681\u06d0 \u0627\u0648 \u0645\u0627\u0634\u0648\u0645\u0627\u0646 \u067c\u067e\u06cc\u0627\u0646 \u0634\u0648\u0644.<br />\n\u0645\u0648\u0696 \u062f\u063a\u0647 \u0628\u0634\u0631\u064a \u062c\u0646\u0627\u06cc\u062a \u0627\u0648 \u062a\u062c\u0627\u0648\u0632 \u067e\u0647 \u06a9\u0644\u06a9\u0647 \u063a\u0646\u062f\u0648.</p>\n<img src=\"https://nitter.net/pic/media%2FHKaicDfboAEy4b9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKaicKwb0AAzdau.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKaicJ1b0AAolI1.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKaicR9aUAAvF8d.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Zabehulah_M33/status/2064516092509483104#m\">https://nitter.net/Zabehulah_M33/status/2064516092509483104#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
     },
     {
@@ -913,6 +951,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "RT by @Goreunit: Shame on you @Reuters These look like 'militants' to you?",
+      "link": "https://nitter.net/Goreunit/status/2071476261877334420#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-29T11:40:01+05:30",
+      "time": "29 Jun, 11:40 AM",
+      "type": "tweets",
+      "content": "<p>Shame on you <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <br />\nThese look like 'militants' to you?</p>\n<img src=\"https://nitter.net/pic/media%2FHL9crAibcAAiYnI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL9cra5awAAdjcI.jpg\" />\n\n<hr />\n<blockquote>\n<b>Reuters (@Reuters)</b>\n<p>\n<p>Pakistan forces kill 29 militants in border operation, AP reports <a href=\"http://reut.rs/4eNlewx\">reut.rs/4eNlewx</a> <a href=\"http://reut.rs/4eNlewx\">reut.rs/4eNlewx</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"http://reut.rs/4eNlewx\">\n<img src=\"https://nitter.net/pic/card_img%2F2070386126074826752%2FNWs6V9DA%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Pakistan forces kill 29 militants in border operation, AP reports</b>\n</a>\n<p>Pakistan&apos;s security forces carried \u200bout an intelligence-based \u200cground operation along the Pakistan-Afghanistan border \u200bon Sunday, \u200bfollowed by &quot;calibrated strikes&quot; on \u2060militant hideouts, \u200bkilling 29...</p>\n<small><a href=\"http://reut.rs/4eNlewx\">reuters.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Reuters/status/2071403310700003381#m\">https://nitter.net/Reuters/status/2071403310700003381#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
       "title": "\ud83d\udea8Big Cache of Arms including 1 AK-47 Rifle ,3 Nos. UBGL, 1 UBGL Launcher,30 rds 7.62mm recovered in Sopore during a CASO Further details awaited",
       "link": "https://nitter.net/AngryRumi7/status/2071474357210411204#m",
       "source": "Angry Rumi",
@@ -923,14 +971,14 @@
       "author": "@AngryRumi7"
     },
     {
-      "title": "Pakistan Army, every single time: Get attacked. Blame India. Bomb Afghanistan. Kill civilians. Repeat.",
-      "link": "https://nitter.net/OsintTV/status/2071472229309624682#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-29T11:24:00+05:30",
-      "time": "29 Jun, 11:24 AM",
+      "title": "Over 30 killed in brutal Pakistani attacks in Afghanistan says Afghan govt; Afghan govt terms the attacks \"criminal\". Innocent kids and civilians are being massacred by Pakistani forces in Afghanistan every week while the world acts oblivious. The silence of global media on such incidents enforces the Pakistani establishment more. Have some shame and take cognizance @UN_HRC @EURightsAgency @Reuters @AJEnglish @BBCWorld",
+      "link": "https://nitter.net/Goreunit/status/2071463897006239766#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-29T10:50:53+05:30",
+      "time": "29 Jun, 10:50 AM",
       "type": "tweets",
-      "content": "<p>Pakistan Army, every single time:<br />\n<br />\nGet attacked.<br />\nBlame India.<br />\n<br />\nBomb Afghanistan.<br />\nKill civilians.<br />\n<br />\nRepeat.</p>\n<img src=\"https://nitter.net/pic/media%2FHL9LYxvWoAAfjZX.jpg\" />",
-      "author": "@OsintTV"
+      "content": "<p>Over 30 killed in brutal Pakistani attacks in Afghanistan says Afghan govt; Afghan govt terms the attacks \"criminal\".<br />\n<br />\nInnocent kids and civilians are being massacred by Pakistani forces in Afghanistan every week while the world acts oblivious. The silence of global media on such incidents enforces the Pakistani establishment more. Have some shame and take cognizance <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/AJEnglish\" title=\"Al Jazeera English\">@AJEnglish</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a></p>\n<img src=\"https://nitter.net/pic/media%2FHL9RbYfasAESOkp.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL9RbyHasAAc1Pj.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>The Pakistani military has once again started targetting innocent afghan civilians in Paktika, Paktia and Kunar provinces to hide their incompetency.<br />\nAt least 12 Afghan civilians including children have been killed while around 40 others have been injured. <br />\nThe visuals are absolutely heartbreaking\ud83d\udc94</p>\n<img src=\"https://nitter.net/pic/media%2FHL731X8aoAAhrg1.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071365383387578368%2Fimg%2FlHkZSm8ebnWrUMyj.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHL732i1acAAwHd9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL7323yaEAAi8Fa.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">https://nitter.net/Goreunit/status/2071365407202808306#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
     },
     {
       "title": "\ud83d\udea8 It Is Happening. The Mood in PoJK Is Changing.....\ud83d\udd25 First, they demanded food. Then water. Now they're demanding the Srinagar route. \"We don't need Pakistan. We'll take our supplies through Srinagar. Get out of our land. Withdraw your army.\" When PoJK start looking towards Srinagar instead of Islamabad, the message is loud and clear. (27.06.2026 - Birmingham - UK)",
@@ -1253,16 +1301,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "R to @NetramDefence: 3/11 The Future Record Holder Devprayag\u2013Janasu Tunnel \u2022 Length: 14.57 km \u2022 Location: Uttarakhand \u2022 Project: Rishikesh\u2013Karnaprayag Railway Currently under construction, this tunnel will become India\u2019s longest railway tunnel upon completion. It forms part of a strategic rail line designed to improve access to Uttarakhand\u2019s hill districts and major pilgrimage centres.",
-      "link": "https://nitter.net/NetramDefence/status/2071209963947717075#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-06-28T18:01:51+05:30",
-      "time": "28 Jun, 06:01 PM",
-      "type": "tweets",
-      "content": "<p>3/11<br />\nThe Future Record Holder <br />\n<br />\nDevprayag\u2013Janasu Tunnel <br />\n\u2022 Length: 14.57 km <br />\n\u2022 Location: Uttarakhand <br />\n\u2022 Project: Rishikesh\u2013Karnaprayag Railway <br />\n<br />\nCurrently under construction, this tunnel will become India\u2019s longest railway tunnel upon completion. It forms part of a strategic rail line designed to improve access to Uttarakhand\u2019s hill districts and major pilgrimage centres.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5hZR6bEAAIHY0.png\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "\ud83d\udea8 Pakistan's Cross Border Drone Drug Smuggling Bid Exposed A drone carrying 15 kg of narcotics crashed before it could enter India, exposing a cross border smuggling attempt from Pakistan. The drone crashed down in a residential area, scattering sealed packets that were later recovered by pak police after locals complaint. The incident occurred in Narang Mandi, Sheikhupura district, Pakistan's Punjab province, located close to the international border opposite India's Punjab, highlighting yet another route used for attempted drone based narcotics smuggling. Local Media Report",
       "link": "https://nitter.net/OsintTV/status/2071209314203611460#m",
       "source": "Osint TV",
@@ -1503,16 +1541,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "\ud83d\udea8Viewer discretion advised \ud83d\udea8 Karachi Attack Update \ud83c\uddf5\ud83c\uddf0\ud83d\udca5 Local sources say critically injured Pak Rangers officers from the Gulistan e Johar attack are being shifted to hospitals. Reports suggest 7 to 9 JuA rebels stormed the Rangers compound. Several casualties are feared.",
-      "link": "https://nitter.net/OsintTV/status/2070919146922000752#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-27T22:46:15+05:30",
-      "time": "27 Jun, 10:46 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Viewer discretion advised \ud83d\udea8<br />\n<br />\nKarachi Attack Update \ud83c\uddf5\ud83c\uddf0\ud83d\udca5<br />\n<br />\nLocal sources say critically injured Pak Rangers officers from the Gulistan e Johar attack are being shifted to hospitals.<br />\n<br />\nReports suggest 7 to 9 JuA rebels stormed the Rangers compound. Several casualties are feared.</p>\n<img src=\"https://nitter.net/pic/media%2FHL1h8mPXMAAUGtp.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1h8mNWoAAnC6B.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1h8mDWgAAHTQ8.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1h8mHXIAAVqwW.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "\ud83d\udea8Intense exchange of fire between \ud83c\uddf5\ud83c\uddf0forces and Jamaat-ul-Ahrar fighters going on. JuA has claimed responsibility of the attack.",
       "link": "https://nitter.net/Goreunit/status/2070916798015578429#m",
       "source": "War & Gore",
@@ -1571,26 +1599,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 Reports of a Suicide Attack in Karachi Pakistan \ud83c\uddf5\ud83c\uddf0\ud83d\udca5 :<br />\n<br />\nExplosions and intense gunfire have been reported from Gulistan e Johar, Block 9, Karachi. According to initial reports, a suicide bomber detonated explosives near a Rangers compound.<br />\n<br />\nLocal sources say the first explosion was very powerful, followed by two smaller blasts. Gunfire has reportedly continued for nearly half an hour.<br />\n<br />\nUnconfirmed report says TTP affiliated group involved in this attack.</p>\n<a href=\"https://nitter.net/OsintTV/status/2070906511136534738#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070906445021782016%2Fimg%2F_gVpjKbwoSo5qWY_.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\udea8 Flash News \ud83c\uddf5\ud83c\uddf0\ud83d\udca5: Several explosions and intense gunfire reported from University Road near Chowrangi in Karachi Pakistan According to local media reports, heavy police and law enforcement have been rushed to the spot. Developing story",
-      "link": "https://nitter.net/OsintTV/status/2070899554556211347#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-27T21:28:23+05:30",
-      "time": "27 Jun, 09:28 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Flash News \ud83c\uddf5\ud83c\uddf0\ud83d\udca5: <br />\n<br />\nSeveral explosions and intense gunfire reported from University Road near Chowrangi in Karachi Pakistan <br />\n<br />\nAccording to local media reports, heavy police and law enforcement have been rushed to the spot.<br />\n<br />\nDeveloping story</p>\n<a href=\"https://nitter.net/OsintTV/status/2070899554556211347#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070899326633521153%2Fimg%2Fzf0ulDsfDA7YYFRO.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Whatever happened between the Indian Army and the J&K police in Kishtwar was unfortunate. At the same time, the debate escalated towards the direction of Army vs Police. The man behind the fiasco went missing. A veteran on X advised the army to step back, as it can create more trouble for them, as the civil servant is immune to any action. This actually highlights a sad reality of the whole system, which grants god-level powers to the people who have very shallow judgment depth. The fact of the matter is, animosity between these two forces will only harm the country and its national security. Kishtwar is the area where we recently 72'd Saifullah and many other pigs. The civil servant will not operate in the jungle where life and death are dependent on mutual trust. The real importance of that trust is only known to the forces operating in the valley.",
-      "link": "https://nitter.net/elitepredatorss/status/2070865421839003702#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-27T19:12:46+05:30",
-      "time": "27 Jun, 07:12 PM",
-      "type": "tweets",
-      "content": "<p>Whatever happened between the Indian Army and the J&amp;K police in Kishtwar was unfortunate. At the same time, the debate escalated towards the direction of Army vs Police. The man behind the fiasco went missing.<br />\n<br />\nA veteran on X advised the army to step back, as it can create more trouble for them, as the civil servant is immune to any action.<br />\n<br />\nThis actually highlights a sad reality of the whole system, which grants god-level powers to the people who have very shallow judgment depth.<br />\n<br />\nThe fact of the matter is, animosity between these two forces will only harm the country and its national security. Kishtwar is the area where we recently 72'd Saifullah and many other pigs.<br />\n<br />\nThe civil servant will not operate in the jungle where life and death are dependent on mutual trust. The real importance of that trust is only known to the forces operating in the valley.</p>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -1668,6 +1676,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
