@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "US at 250: How Indian-origin CEOs became the face of Corporate America",
+      "link": "https://indianexpress.com/article/world/us-news/corporate-america-indian-origin-ceos-microsoft-google-adobe-success-story-10763372/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-29T23:17:53+05:30",
+      "time": "29 Jun, 11:17 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Saudia Earns 2026 APEX Best Cabin Service in the Middle East Award",
+      "link": "https://www.indiastrategic.in/saudia-earns-2026-apex-best-cabin-service-in-the-middle-east-award/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-29T22:45:10+05:30",
+      "time": "29 Jun, 10:45 PM",
+      "type": "news",
+      "description": "<p>Jeddah, June 29, 2026. Saudia, the national flag carrier of the Kingdom of Saudi Arabia, has received the 2026 APEX Award for Best Cabin Service in..."
+    },
+    {
+      "title": "US and Iran agree to pause military strikes and resume Hormuz shipping",
+      "link": "https://newsonair.gov.in/us-and-iran-agree-to-pause-military-strikes-and-resume-hormuz-shipping/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-29T22:39:21+05:30",
+      "time": "29 Jun, 10:39 PM",
+      "type": "news",
+      "description": "The United States and Iran have agreed to pause their exchange of military strikes and allow commercial shipping to resume through the Strait of Hormu..."
+    },
+    {
+      "title": "No Russia or Gulf: China puts weight behind third route to Europe",
+      "link": "https://indianexpress.com/article/world/china-expands-investment-europe-cargo-route-that-avoids-russia-and-middle-east-10762865/",
+      "source": "The Indian Express",
+      "sort_key": "2026-06-29T22:32:12+05:30",
+      "time": "29 Jun, 10:32 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "India records first passenger jet landing using indigenous Gagan satellite navigation system",
       "link": "https://www.indiastrategic.in/india-records-first-passenger-jet-landing-using-indigenous-gagan-satellite-navigation-system/",
       "source": "India Strategic",
@@ -8,6 +44,33 @@
       "time": "29 Jun, 10:19 PM",
       "type": "news",
       "description": "<p>New Delhi, June 29. In a significant milestone for Indian civil aviation, an IndiGo Airbus A320 successfully landed at Udaipur airport on June 27 u..."
+    },
+    {
+      "title": "India condemns Pakistan's airstrikes in Afghanistan, reaffirms support for Kabul's sovereignty",
+      "link": "https://www.indiatvnews.com/news/india/india-condemns-pakistan-airstrikes-in-afghanistan-reaffirms-support-for-kabul-sovereignty-2026-06-29-1046575",
+      "source": "India TV",
+      "sort_key": "2026-06-29T22:17:28+05:30",
+      "time": "29 Jun, 10:17 PM",
+      "type": "news",
+      "description": "India has strongly denounced Pakistan's recent airstrikes inside Afghanistan, describing the attacks as a serious violation of Afghan sovereignty that..."
+    },
+    {
+      "title": "PM Modi says, 50-year India-Seychelles partnership now advances through innovation and sustainability",
+      "link": "https://newsonair.gov.in/pm-modi-says-seychelles-visit-deepens-friendship-between-two-nations/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-29T22:15:33+05:30",
+      "time": "29 Jun, 10:15 PM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi has said that his three-day visit to Seychelles has yielded significant results that will enhance the friendship between ..."
+    },
+    {
+      "title": "Indian Army field hospital begins operations in quake-hit Venezuela",
+      "link": "https://economictimes.indiatimes.com/news/defence/indian-army-field-hospital-begins-operations-in-quake-hit-venezuela/articleshow/132075534.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-06-29T22:11:21+05:30",
+      "time": "29 Jun, 10:11 PM",
+      "type": "news",
+      "description": "In response to the catastrophic earthquakes in Venezuela, India's Operation Amistad is delivering vital medical assistance. A fully equipped Indian Ar..."
     },
     {
       "title": "IAF cohorts propose aerospace battle innovation hub for multi-domain operations",
@@ -89,15 +152,6 @@
       "time": "29 Jun, 07:44 PM",
       "type": "news",
       "description": "Direct passenger flights between the UAE and Iran have resumed after a suspension of several months following the regional conflict that began on Febr..."
-    },
-    {
-      "title": "PM Modi says Seychelles visit deepens friendship between two nations",
-      "link": "https://newsonair.gov.in/pm-modi-says-seychelles-visit-deepens-friendship-between-two-nations/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-29T19:39:33+05:30",
-      "time": "29 Jun, 07:39 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi has said that his three-day visit to Seychelles has yielded significant results that will enhance the friendship between ..."
     },
     {
       "title": "Dubai offers government staff four-day work week this summer",
@@ -197,15 +251,6 @@
       "time": "29 Jun, 05:20 PM",
       "type": "news",
       "description": "State Investigation Agency (SIA) on Monday filed an over 700-page chargesheet naming banned JKLF chief Yasin Malik as the key accused in the kidnappin..."
-    },
-    {
-      "title": "Indian Army field hospital becomes operational in earthquake-hit Venezuela under Operation Amistad",
-      "link": "https://newsonair.gov.in/indian-army-field-hospital-becomes-operational-in-earthquake-hit-venezuela-under-operation-amistad/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-29T17:10:39+05:30",
-      "time": "29 Jun, 05:10 PM",
-      "type": "news",
-      "description": "An Indian Army field hospital deployed in earthquake-hit Venezuela under Operation Amistad has become fully operational. It is providing free round-th..."
     },
     {
       "title": "AP-FIRST Established To Promote Research, Innovation & Technology",
@@ -561,6 +606,46 @@
   ],
   "tweets": [
     {
+      "title": "Fateh ko apni ....",
+      "link": "https://nitter.net/OsintTV/status/2071646238018060667#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-29T22:55:27+05:30",
+      "time": "29 Jun, 10:55 PM",
+      "type": "tweets",
+      "content": "<p>Fateh ko apni ....</p>\n<a href=\"https://nitter.net/OsintTV/status/2071646238018060667#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071646160473706496%2Fimg%2F2SyHqAVPde41rc02.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Nasir (@m_nasir_007)</b>\n<p>\n<p>soon fateh 4 launch</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/m_nasir_007/status/2071641239624253933#m\">https://nitter.net/m_nasir_007/status/2071641239624253933#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "\ud83d\udea8UN Human Rights Council Special Rapporteur reacts to the killings of civilians in Afghanistan by Pakistan.",
+      "link": "https://nitter.net/Goreunit/status/2071645239509729486#m",
+      "source": "War & Gore",
+      "sort_key": "2026-06-29T22:51:29+05:30",
+      "time": "29 Jun, 10:51 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8UN Human Rights Council Special Rapporteur reacts to the killings of civilians in Afghanistan by Pakistan.</p>\n<hr />\n<blockquote>\n<b>UN Special Rapporteur Richard Bennett (@SR_Afghanistan)</b>\n<p>\n<p>Disturbed by civcas, incl women&amp;children, in Pakistan's airstrikes in Paktia, Paktika &amp; Kunar provinces <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Afghanistan\">#Afghanistan</a>. Condolences to those affected. Pakistan's security concerns must be addressed in accordance with int law. I urge restraint, civilian protection &amp; accountability.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/SR_Afghanistan/status/2071611691477967243#m\">https://nitter.net/SR_Afghanistan/status/2071611691477967243#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "UN Human Rights Council Special Rapporteur on the situation of human rights in Afghanistan reacts to Pakistan attacks on Afghanistan:",
+      "link": "https://nitter.net/sidhant/status/2071639906410246317#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-29T22:30:17+05:30",
+      "time": "29 Jun, 10:30 PM",
+      "type": "tweets",
+      "content": "<p>UN Human Rights Council Special Rapporteur on the situation of human rights in Afghanistan reacts to Pakistan attacks on Afghanistan:</p>\n<hr />\n<blockquote>\n<b>UN Special Rapporteur Richard Bennett (@SR_Afghanistan)</b>\n<p>\n<p>Disturbed by civcas, incl women&amp;children, in Pakistan's airstrikes in Paktia, Paktika &amp; Kunar provinces <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Afghanistan\">#Afghanistan</a>. Condolences to those affected. Pakistan's security concerns must be addressed in accordance with int law. I urge restraint, civilian protection &amp; accountability.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/SR_Afghanistan/status/2071611691477967243#m\">https://nitter.net/SR_Afghanistan/status/2071611691477967243#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\ud83d\udea8 Water Gone. Threats On. \"Touch Our Water, We'll Cut Off Your Hand\": Pakistan Minister Musadik Malik. Arre bhai, koi inko batao... pichhle 1.5 saal se paani hi band hai Video: ARY news",
+      "link": "https://nitter.net/OsintTV/status/2071638945457180873#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-29T22:26:28+05:30",
+      "time": "29 Jun, 10:26 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Water Gone. Threats On.<br />\n<br />\n \"Touch Our Water, We'll Cut Off Your Hand\": Pakistan Minister Musadik Malik.<br />\n<br />\nArre bhai, koi inko batao... pichhle 1.5 saal se paani hi band hai<br />\n<br />\nVideo: ARY news</p>\n<a href=\"https://nitter.net/OsintTV/status/2071638945457180873#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071638255456415745%2Fimg%2F-kY7yxtQDTp9Neem.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
       "title": "It was great hosting EU Ambassador @EU_in_India @EUAmbIndia at @WIONews HQ today. Podcast coming shortly",
       "link": "https://nitter.net/sidhant/status/2071635672310640998#m",
       "source": "Sidhant Sibal",
@@ -611,7 +696,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "62 Calls in 4 Days: Admission or Panic during \ud83c\uddee\ud83c\uddf3\ud83d\udca5\ud83c\uddf5\ud83c\uddf0 tensions? Ishaq Dar just admitted to 62 calls in just 4 days during the India-Pakistan conflict. In contrast, he made 152 calls over 4 months during the Iran-US/Israel situation. That gap is raising questions. 62 calls in 4 days (that\u2019s 15.5 calls a day\ud83e\udee3) - Vs - 152 calls in 4 months. Everyone knows why he was burning the phone lines. Was it diplomacy or was he desperately begging to stop the Indian havoc? The numbers don\u2019t lie, Minister! \ud83e\udee3\ud83d\ude02",
+      "title": "RT by @OsintTV: 62 Calls in 4 Days: Admission or Panic during \ud83c\uddee\ud83c\uddf3\ud83d\udca5\ud83c\uddf5\ud83c\uddf0 tensions? Ishaq Dar just admitted to 62 calls in just 4 days during the India-Pakistan conflict. In contrast, he made 152 calls over 4 months during the Iran-US/Israel situation. That gap is raising questions. 62 calls in 4 days (that\u2019s 15.5 calls a day\ud83e\udee3) - Vs - 152 calls in 4 months. Everyone knows why he was burning the phone lines. Was it diplomacy or was he desperately begging to stop the Indian havoc? The numbers don\u2019t lie, Minister! \ud83e\udee3\ud83d\ude02",
       "link": "https://nitter.net/OsintTV/status/2071614963324452998#m",
       "source": "Osint TV",
       "sort_key": "2026-06-29T20:51:10+05:30",
@@ -661,14 +746,14 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "\ud83d\udea8BIG!! Pakistan stands exposed again!! The United Nations has confirmed that Pakistani airstrikes inside Afghanistan killed civilians not the 'terrorists' claimed to have targeted. @UNAMAnews has verified at least 28 civilians killed and 49 injured, including women and children. The deadliest strike in Chamkani alone left 22 civilians dead.",
-      "link": "https://nitter.net/Goreunit/status/2071608651778056447#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-29T20:26:05+05:30",
-      "time": "29 Jun, 08:26 PM",
+      "title": "RT by @elitepredatorss: Pakistani soldiers flying like crazy this days",
+      "link": "https://nitter.net/TheAvenger82/status/2071606380889567445#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-06-29T20:17:04+05:30",
+      "time": "29 Jun, 08:17 PM",
       "type": "tweets",
-      "content": "<p>\ud83d\udea8BIG!! <br />\nPakistan stands exposed again!!<br />\nThe United Nations has confirmed that Pakistani airstrikes inside Afghanistan killed civilians not the 'terrorists' claimed to have targeted.<br />\n<br />\n<a href=\"https://nitter.net/UNAMAnews\" title=\"UNAMA News\">@UNAMAnews</a> has verified at least 28 civilians killed and 49 injured, including women and children. The deadliest strike in Chamkani alone left 22 civilians dead.</p>\n<img src=\"https://nitter.net/pic/media%2FHL_VFcybYAA1-fM.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>The Pakistani military has once again started targetting innocent afghan civilians in Paktika, Paktia and Kunar provinces to hide their incompetency.<br />\nAt least 12 Afghan civilians including children have been killed while around 40 others have been injured. <br />\nThe visuals are absolutely heartbreaking\ud83d\udc94</p>\n<img src=\"https://nitter.net/pic/media%2FHL731X8aoAAhrg1.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071365383387578368%2Fimg%2FlHkZSm8ebnWrUMyj.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHL732i1acAAwHd9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL7323yaEAAi8Fa.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">https://nitter.net/Goreunit/status/2071365407202808306#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
+      "content": "<p>Pakistani soldiers flying like crazy this days</p>\n<img src=\"https://nitter.net/pic/media%2FHL_TATbbUAAgTr6.jpg\" />",
+      "author": "@TheAvenger82"
     },
     {
       "title": "R to @elitepredatorss: CSR 338 is from the company CARACAL, whose CEO claims that 50% of their weapon's parts are imported from India. CARACAL parterned with Tele Limited (who manufactures telecom towers, optical transmission products, wireless solutions, and infrastructural shelters.) to produce more firearms inside India.",
@@ -1011,23 +1096,13 @@
       "author": "@sidhant"
     },
     {
-      "title": "Iran's Ayatollah Seyyed Mojtaba Khamenei Expresses Appreciation for Indian Prime Minister's Eid al-Adha Greetings",
-      "link": "https://nitter.net/sidhant/status/2071517323605987540#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-29T14:23:11+05:30",
-      "time": "29 Jun, 02:23 PM",
-      "type": "tweets",
-      "content": "<p>Iran's Ayatollah Seyyed Mojtaba Khamenei Expresses Appreciation for Indian Prime Minister's Eid al-Adha Greetings</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Pakistani Armed Forces are very precise, very pecise to always target civilians especially women and children. Last night they bombed civilian homes in the provinces of Kunar, Khost, and Paktika. As a result, 11 children, one woman, and one elderly man were martyred, and 14 other women and children were wounded.",
       "link": "https://nitter.net/elitepredatorss/status/2071506953432641959#m",
       "source": "Elite Predators",
       "sort_key": "2026-06-29T13:41:59+05:30",
       "time": "29 Jun, 01:41 PM",
       "type": "tweets",
-      "content": "<p>Pakistani Armed Forces are very precise, very pecise to always target civilians especially women and children.<br />\n<br />\nLast night they bombed civilian homes in the provinces of Kunar, Khost, and Paktika. As a result, 11 children, one woman, and one elderly man were martyred, and 14 other women and children were wounded.</p>\n<hr />\n<blockquote>\n<b>Zabihullah (..\u0630\u0628\u0640\u0640\u0640\u0640\u0640\u06cc\u062d \u0627\u0644\u0644\u0647 \u0645 ) (@Zabehulah_M33)</b>\n<p>\n<p>\u062c\u0646\u0627\u06cc\u062a<br />\n\u062a\u06cc\u0631\u0647 \u0634\u067e\u0647 \u062f \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0645\u062a\u062c\u0627\u0648\u0632 \u067e\u0648\u0681 \u06cc\u0648\u0681\u0644 \u0628\u06cc\u0627 \u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u062d\u0631\u06cc\u0645 \u0646\u0642\u0636 \u06a9\u0693\u060c \u067e\u0647 \u06a9\u0646\u0693\u060c \u062e\u0648\u0633\u062a \u0627\u0648 \u067e\u06a9\u062a\u06cc\u06a9\u0627 \u0648\u0644\u0627\u06cc\u062a\u0648\u0646\u0648 \u06a9\u06d0 \u06cc\u06d0 \u0645\u0644\u06a9\u064a \u06a9\u0648\u0631\u0648\u0646\u0647 \u0628\u0645\u0628\u0627\u0631\u06a9\u0693\u0644.<br />\n\u0686\u06d0 \u0644\u0647 \u0627\u0645\u0644\u0647 \u06cc\u06d0 \u06f1\u06f1 \u0645\u0627\u0634\u0648\u0645\u0627\u0646 \u06cc\u0648\u0647 \u0632\u0646\u0627\u0646\u0647 \u0627\u0648 \u06cc\u0648 \u0633\u067e\u06cc\u0646\u0696\u06cc\u0631\u06cc \u0634\u0647\u06cc\u062f\u0627\u0646 \u06f1\u06f4 \u062a\u0646\u0647 \u0646\u0648\u0631 \u069a\u0681\u06d0 \u0627\u0648 \u0645\u0627\u0634\u0648\u0645\u0627\u0646 \u067c\u067e\u06cc\u0627\u0646 \u0634\u0648\u0644.<br />\n\u0645\u0648\u0696 \u062f\u063a\u0647 \u0628\u0634\u0631\u064a \u062c\u0646\u0627\u06cc\u062a \u0627\u0648 \u062a\u062c\u0627\u0648\u0632 \u067e\u0647 \u06a9\u0644\u06a9\u0647 \u063a\u0646\u062f\u0648.</p>\n<img src=\"https://nitter.net/pic/media%2FHKaicDfboAEy4b9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKaicKwb0AAzdau.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKaicJ1b0AAolI1.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHKaicR9aUAAvF8d.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Zabehulah_M33/status/2064516092509483104#m\">https://nitter.net/Zabehulah_M33/status/2064516092509483104#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Pakistani Armed Forces are very precise, very pecise to always target civilians especially women and children.<br />\n<br />\nLast night they bombed civilian homes in the provinces of Kunar, Khost, and Paktika. As a result, 11 children, one woman, and one elderly man were martyred, and 14 other women and children were wounded.</p>",
       "author": "@elitepredatorss"
     },
     {
@@ -1071,16 +1146,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT >@Goreunit: Shame on you @Reuters These look like 'militants' to you?",
-      "link": "https://nitter.net/Goreunit/status/2071486533631426988#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-29T12:20:50+05:30",
-      "time": "29 Jun, 12:20 PM",
-      "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/Goreunit\" title=\"War &amp; Gore\">@Goreunit</a>: Shame on you <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <br />\nThese look like 'militants' to you?</p>\n<img src=\"https://nitter.net/pic/media%2FHL9crAibcAAiYnI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL9cra5awAAdjcI.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
       "title": "India Conducts First Jet Landing Using GAGAN India has successfully conducted its first satellite-based landing system approach on a jet aircraft, with an IndiGo Airbus A320 performing an LPV (Localiser Performance with Vertical Guidance) approach at Udaipur Airport using the indigenous GAGAN navigation system. Developed jointly by ISRO and the Airports Authority of India (AAI), GAGAN provides satellite-based precision guidance, reducing reliance on ground-based landing infrastructure. This marks the first use of GAGAN for jet operations in India, extending satellite-based precision approaches beyond turboprop aircraft and strengthening India's indigenous aviation navigation capabilities.",
       "link": "https://nitter.net/NetramDefence/status/2071484800163250559#m",
       "source": "Netram Defense",
@@ -1089,26 +1154,6 @@
       "type": "tweets",
       "content": "<p>India Conducts First Jet Landing Using GAGAN<br />\n<br />\nIndia has successfully conducted its first satellite-based landing system approach on a jet aircraft, with an IndiGo Airbus A320 performing an LPV (Localiser Performance with Vertical Guidance) approach at Udaipur Airport using the indigenous GAGAN navigation system.<br />\n<br />\nDeveloped jointly by ISRO and the Airports Authority of India (AAI), GAGAN provides satellite-based precision guidance, reducing reliance on ground-based landing infrastructure.<br />\n<br />\nThis marks the first use of GAGAN for jet operations in India, extending satellite-based precision approaches beyond turboprop aircraft and strengthening India's indigenous aviation navigation capabilities.</p>\n<img src=\"https://nitter.net/pic/media%2FHL9kW91a0AA1gOh.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Shame on you @Reuters These look like 'militants' to you?",
-      "link": "https://nitter.net/Goreunit/status/2071476261877334420#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-29T11:40:01+05:30",
-      "time": "29 Jun, 11:40 AM",
-      "type": "tweets",
-      "content": "<p>Shame on you <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <br />\nThese look like 'militants' to you?</p>\n<img src=\"https://nitter.net/pic/media%2FHL9crAibcAAiYnI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL9cra5awAAdjcI.jpg\" />\n\n<hr />\n<blockquote>\n<b>Reuters (@Reuters)</b>\n<p>\n<p>Pakistan forces kill 29 militants in border operation, AP reports <a href=\"http://reut.rs/4eNlewx\">reut.rs/4eNlewx</a> <a href=\"http://reut.rs/4eNlewx\">reut.rs/4eNlewx</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"http://reut.rs/4eNlewx\">\n<img src=\"https://nitter.net/pic/card_img%2F2070386126074826752%2FNWs6V9DA%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Pakistan forces kill 29 militants in border operation, AP reports</b>\n</a>\n<p>Pakistan&apos;s security forces carried \u200bout an intelligence-based \u200cground operation along the Pakistan-Afghanistan border \u200bon Sunday, \u200bfollowed by &quot;calibrated strikes&quot; on \u2060militant hideouts, \u200bkilling 29...</p>\n<small><a href=\"http://reut.rs/4eNlewx\">reuters.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Reuters/status/2071403310700003381#m\">https://nitter.net/Reuters/status/2071403310700003381#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @AngryRumi7: Shame on you @Reuters These look like 'militants' to you?",
-      "link": "https://nitter.net/Goreunit/status/2071476261877334420#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-06-29T11:40:01+05:30",
-      "time": "29 Jun, 11:40 AM",
-      "type": "tweets",
-      "content": "<p>Shame on you <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <br />\nThese look like 'militants' to you?</p>\n<img src=\"https://nitter.net/pic/media%2FHL9crAibcAAiYnI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL9cra5awAAdjcI.jpg\" />\n\n<hr />\n<blockquote>\n<b>Reuters (@Reuters)</b>\n<p>\n<p>Pakistan forces kill 29 militants in border operation, AP reports <a href=\"http://reut.rs/4eNlewx\">reut.rs/4eNlewx</a> <a href=\"http://reut.rs/4eNlewx\">reut.rs/4eNlewx</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"http://reut.rs/4eNlewx\">\n<img src=\"https://nitter.net/pic/card_img%2F2070386126074826752%2FNWs6V9DA%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Pakistan forces kill 29 militants in border operation, AP reports</b>\n</a>\n<p>Pakistan&apos;s security forces carried \u200bout an intelligence-based \u200cground operation along the Pakistan-Afghanistan border \u200bon Sunday, \u200bfollowed by &quot;calibrated strikes&quot; on \u2060militant hideouts, \u200bkilling 29...</p>\n<small><a href=\"http://reut.rs/4eNlewx\">reuters.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Reuters/status/2071403310700003381#m\">https://nitter.net/Reuters/status/2071403310700003381#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     },
     {
       "title": "\ud83d\udea8Big Cache of Arms including 1 AK-47 Rifle ,3 Nos. UBGL, 1 UBGL Launcher,30 rds 7.62mm recovered in Sopore during a CASO Further details awaited",
@@ -1121,14 +1166,14 @@
       "author": "@AngryRumi7"
     },
     {
-      "title": "Over 30 killed in brutal Pakistani attacks in Afghanistan says Afghan govt; Afghan govt terms the attacks \"criminal\". Innocent kids and civilians are being massacred by Pakistani forces in Afghanistan every week while the world acts oblivious. The silence of global media on such incidents enforces the Pakistani establishment more. Have some shame and take cognizance @UN_HRC @EURightsAgency @Reuters @AJEnglish @BBCWorld",
-      "link": "https://nitter.net/Goreunit/status/2071463897006239766#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-29T10:50:53+05:30",
-      "time": "29 Jun, 10:50 AM",
+      "title": "RT by @OsintTV: Pakistan Army, every single time: Get attacked. Blame India. Bomb Afghanistan. Kill civilians. Repeat.",
+      "link": "https://nitter.net/OsintTV/status/2071472229309624682#m",
+      "source": "Osint TV",
+      "sort_key": "2026-06-29T11:24:00+05:30",
+      "time": "29 Jun, 11:24 AM",
       "type": "tweets",
-      "content": "<p>Over 30 killed in brutal Pakistani attacks in Afghanistan says Afghan govt; Afghan govt terms the attacks \"criminal\".<br />\n<br />\nInnocent kids and civilians are being massacred by Pakistani forces in Afghanistan every week while the world acts oblivious. The silence of global media on such incidents enforces the Pakistani establishment more. Have some shame and take cognizance <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/AJEnglish\" title=\"Al Jazeera English\">@AJEnglish</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a></p>\n<img src=\"https://nitter.net/pic/media%2FHL9RbYfasAESOkp.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL9RbyHasAAc1Pj.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>The Pakistani military has once again started targetting innocent afghan civilians in Paktika, Paktia and Kunar provinces to hide their incompetency.<br />\nAt least 12 Afghan civilians including children have been killed while around 40 others have been injured. <br />\nThe visuals are absolutely heartbreaking\ud83d\udc94</p>\n<img src=\"https://nitter.net/pic/media%2FHL731X8aoAAhrg1.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071365383387578368%2Fimg%2FlHkZSm8ebnWrUMyj.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHL732i1acAAwHd9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL7323yaEAAi8Fa.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">https://nitter.net/Goreunit/status/2071365407202808306#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
+      "content": "<p>Pakistan Army, every single time:<br />\n<br />\nGet attacked.<br />\nBlame India.<br />\n<br />\nBomb Afghanistan.<br />\nKill civilians.<br />\n<br />\nRepeat.</p>\n<img src=\"https://nitter.net/pic/media%2FHL9LYxvWoAAfjZX.jpg\" />",
+      "author": "@OsintTV"
     },
     {
       "title": "RT by @OsintTV: \ud83d\udea8 It Is Happening. The Mood in PoJK Is Changing.....\ud83d\udd25 First, they demanded food. Then water. Now they're demanding the Srinagar route. \"We don't need Pakistan. We'll take our supplies through Srinagar. Get out of our land. Withdraw your army.\" When PoJK start looking towards Srinagar instead of Islamabad, the message is loud and clear. (27.06.2026 - Birmingham - UK)",
@@ -1361,16 +1406,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "At least 11 personnel of the Pakistani military were killed in the reported attack on the Rangers HQ in Karachi last night. Their identities are: \u2022 Daud \u2022 Shahid \u2022 Ali Hasan \u2022 Allah Ditta \u2022 Meher Abbas doltana \u2022 Abdul Qadeer \u2022 Muazzam Ali \u2022 Waheed Khan \u2022 Zeeshan Yunus Masih \u2022 Dil Nawaz \u2022 Muhammad Riaz Open Source",
-      "link": "https://nitter.net/OsintTV/status/2071212687107805615#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-28T18:12:40+05:30",
-      "time": "28 Jun, 06:12 PM",
-      "type": "tweets",
-      "content": "<p>At least 11 personnel of the Pakistani military were killed in the reported attack on the Rangers HQ in Karachi last night.<br />\n<br />\nTheir identities are:<br />\n<br />\n\u2022 Daud<br />\n\u2022 Shahid<br />\n\u2022 Ali Hasan<br />\n\u2022 Allah Ditta<br />\n\u2022 Meher Abbas doltana<br />\n\u2022 Abdul Qadeer<br />\n\u2022 Muazzam Ali<br />\n\u2022 Waheed Khan<br />\n\u2022 Zeeshan Yunus Masih<br />\n\u2022 Dil Nawaz<br />\n\u2022 Muhammad Riaz<br />\n<br />\nOpen Source</p>\n<img src=\"https://nitter.net/pic/media%2FHL5sXaxWcAA8oZT.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
       "title": "R to @NetramDefence: PART V: THE HIDDEN GIANTS 11/ 11 India\u2019s Longest Tunnel Overall Srisailam Left Bank Canal (SLBC) Tunnel \u2022 Length: 43.93 km \u2022 Location: Telangana While transport tunnels receive most attention, the SLBC project is India\u2019s longest tunnel by length. Designed to transfer water across vast distances, it highlights how tunnelling is transforming not only transport but also agriculture, irrigation, and water security.",
       "link": "https://nitter.net/NetramDefence/status/2071209995350512059#m",
       "source": "Netram Defense",
@@ -1391,24 +1426,64 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "THREAD \ud83e\uddf5 Why Tunnels Matter for Connectivity & National Security? For a long time, India's geography has been both a blessing and a challenge. The Himalayas, extensive river systems, and densely populated cities have often hindered connectivity, making it difficult, costly, and seasonal. Today, advancements in tunneling technology are enabling India to overcome these challenges on an unprecedented scale. In this thread, we will explore some of India\u2019s significant tunnels. 1/11",
-      "link": "https://nitter.net/NetramDefence/status/2071209956104421394#m",
+      "title": "R to @NetramDefence: 9/11 Zoji La Tunnel: Reaching Ladakh in Every Season \u2022 Length: 14.15 km \u2022 Location: Between Kashmir and Ladakh When completed, Zoji La will become India\u2019s longest road tunnel and one of Asia\u2019s longest bi-directional highway tunnels. The project will provide year-round access to Ladakh, ending the annual winter isolation caused by heavy snowfall at Zoji La Pass.",
+      "link": "https://nitter.net/NetramDefence/status/2071209988836774250#m",
       "source": "Netram Defense",
-      "sort_key": "2026-06-28T18:01:49+05:30",
+      "sort_key": "2026-06-28T18:01:57+05:30",
       "time": "28 Jun, 06:01 PM",
       "type": "tweets",
-      "content": "<p>THREAD \ud83e\uddf5<br />\n<br />\nWhy Tunnels Matter for Connectivity & National Security?<br />\n<br />\nFor a long time, India's geography has been both a blessing and a challenge. The Himalayas, extensive river systems, and densely populated cities have often hindered connectivity, making it difficult, costly, and seasonal. <br />\n<br />\nToday, advancements in tunneling technology are enabling India to overcome these challenges on an unprecedented scale. In this thread, we will explore some of India\u2019s significant tunnels.<br />\n<br />\n1/11</p>\n<img src=\"https://nitter.net/pic/media%2FHL5p-adacAA0twE.png\" />",
+      "content": "<p>9/11 <br />\nZoji La Tunnel: Reaching Ladakh in Every Season <br />\n<br />\n\u2022 Length: 14.15 km<br />\n\u2022 Location: Between Kashmir and Ladakh <br />\n<br />\nWhen completed, Zoji La will become India\u2019s longest road tunnel and one of Asia\u2019s longest bi-directional highway tunnels. The project will provide year-round access to Ladakh, ending the annual winter isolation caused by heavy snowfall at Zoji La Pass.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5kIskbYAAwBzb.png\" />",
       "author": "@NetramDefence"
     },
     {
-      "title": "\ud83d\udea8 Pakistan's Cross Border Drone Drug Smuggling Bid Exposed A drone carrying 15 kg of narcotics crashed before it could enter India, exposing a cross border smuggling attempt from Pakistan. The drone crashed down in a residential area, scattering sealed packets that were later recovered by pak police after locals complaint. The incident occurred in Narang Mandi, Sheikhupura district, Pakistan's Punjab province, located close to the international border opposite India's Punjab, highlighting yet another route used for attempted drone based narcotics smuggling. Local Media Report",
-      "link": "https://nitter.net/OsintTV/status/2071209314203611460#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-28T17:59:16+05:30",
-      "time": "28 Jun, 05:59 PM",
+      "title": "R to @NetramDefence: 8/11 Dr Syama Prasad Mookerjee Tunnel \u2022 Length: 9.28 km \u2022 Location: Chenani\u2013Nashri, Jammu & Kashmir India\u2019s longest operational road tunnel bypasses landslide-prone mountain roads on NH-44, significantly improving safety and reducing travel time through the Jammu region.",
+      "link": "https://nitter.net/NetramDefence/status/2071209985686778367#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-28T18:01:56+05:30",
+      "time": "28 Jun, 06:01 PM",
       "type": "tweets",
-      "content": "<p>\ud83d\udea8 Pakistan's Cross Border Drone Drug Smuggling Bid Exposed<br />\n<br />\nA drone carrying 15 kg of narcotics crashed before it could enter India, exposing a cross border smuggling attempt from Pakistan.<br />\n<br />\nThe drone crashed down in a residential area, scattering sealed packets that were later recovered by pak police after locals complaint.<br />\n<br />\nThe incident occurred in Narang Mandi, Sheikhupura district, Pakistan's Punjab province, located close to the international border opposite India's Punjab, highlighting yet another route used for attempted drone based narcotics smuggling.<br />\n<br />\nLocal Media Report</p>\n<a href=\"https://nitter.net/OsintTV/status/2071209314203611460#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071209119902527488%2Fimg%2FZAb74iL8Hq91ohTU.jpg\" />\n</a>",
-      "author": "@OsintTV"
+      "content": "<p>8/11<br />\n<br />\nDr Syama Prasad Mookerjee Tunnel <br />\n\u2022 Length: 9.28 km <br />\n\u2022 Location: Chenani\u2013Nashri, Jammu &amp; Kashmir <br />\n<br />\nIndia\u2019s longest operational road tunnel bypasses landslide-prone mountain roads on NH-44, significantly improving safety and reducing travel time through the Jammu region.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5js4yb0AAjldn.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: PART III: HIGHWAY TUNNELS 7/11 Atal Tunnel \u2022 Length: 9.02 km \u2022 Elevation: Over 10,000 feet \u2022 Location: Himachal Pradesh The Atal Tunnel is the world\u2019s longest highway tunnel above 10,000 feet. It reduces the Manali\u2013Lahaul journey by dozens of kilometres and ensures year-round access to regions previously isolated by heavy snowfall for months at a time.",
+      "link": "https://nitter.net/NetramDefence/status/2071209981798760481#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-28T18:01:55+05:30",
+      "time": "28 Jun, 06:01 PM",
+      "type": "tweets",
+      "content": "<p>PART III: HIGHWAY TUNNELS <br />\n<br />\n7/11<br />\nAtal Tunnel<br />\n\u2022 Length: 9.02 km <br />\n\u2022 Elevation: Over 10,000 feet <br />\n\u2022 Location: Himachal Pradesh <br />\n<br />\n The Atal Tunnel is the world\u2019s longest highway tunnel above 10,000 feet. It reduces the Manali\u2013Lahaul journey by dozens of kilometres and ensures year-round access to regions previously isolated by heavy snowfall for months at a time.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5jCq_a4AAchFq.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 6/11 India\u2019s First Undersea Rail Tunnel Thane Creek Undersea Tunnel \u2022 Length: 21.15 km corridor \u2022 Undersea section: ~7 km Part of the Mumbai\u2013Ahmedabad High-Speed Rail project. This tunnel will carry bullet trains beneath Thane Creek, marking a major milestone in India\u2019s high-speed rail ambitions.",
+      "link": "https://nitter.net/NetramDefence/status/2071209974945222879#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-28T18:01:53+05:30",
+      "time": "28 Jun, 06:01 PM",
+      "type": "tweets",
+      "content": "<p>6/11<br />\n India\u2019s First Undersea Rail Tunnel <br />\n<br />\nThane Creek Undersea Tunnel <br />\n\u2022 Length: 21.15 km corridor <br />\n\u2022 Undersea section: ~7 km Part of the Mumbai\u2013Ahmedabad High-Speed Rail project.<br />\n<br />\nThis tunnel will carry bullet trains beneath Thane Creek, marking a major milestone in India\u2019s high-speed rail ambitions.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5ii2cacAA-GQT.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: PART II: URBAN TUNNELLING 5/11 Mumbai Metro Line 3 Building Beneath a Megacity \u2022 Length: 33.5 km underground corridor \u2022 Location: Colaba\u2013SEEPZ Mumbai India\u2019s longest continuous underground metro route passes beneath one of the world\u2019s most densely populated urban regions. Engineers excavated beneath historic buildings, utility networks, and heavily congested roads while keeping the city functioning above ground.",
+      "link": "https://nitter.net/NetramDefence/status/2071209971489087511#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-28T18:01:53+05:30",
+      "time": "28 Jun, 06:01 PM",
+      "type": "tweets",
+      "content": "<p>PART II: URBAN TUNNELLING <br />\n<br />\n5/11<br />\n  Mumbai Metro Line 3 <br />\n<br />\nBuilding Beneath a Megacity <br />\n\u2022 Length: 33.5 km underground corridor <br />\n\u2022 Location: Colaba\u2013SEEPZ <br />\n<br />\nMumbai India\u2019s longest continuous underground metro route passes beneath one of the world\u2019s most densely populated urban regions. Engineers excavated beneath historic buildings, utility networks, and heavily congested roads while keeping the city functioning above ground.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5iFmqboAAhVQR.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 4/ 11 The Bigger Picture: USBRL Tunnel T-50 is only one component of a massive engineering undertaking. The USBRL project includes: \u2022 272 km railway line \u2022 38 tunnels \u2022 Around 119 km of total tunnelling \u2022 Some of the world\u2019s highest railway bridges, including the iconic Chenab Rail Bridge",
+      "link": "https://nitter.net/NetramDefence/status/2071209967693213803#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-28T18:01:52+05:30",
+      "time": "28 Jun, 06:01 PM",
+      "type": "tweets",
+      "content": "<p>4/ 11 <br />\nThe Bigger Picture: USBRL Tunnel T-50 is only one component of a massive engineering undertaking. <br />\n<br />\nThe USBRL project includes: <br />\n\u2022 272 km railway line <br />\n\u2022 38 tunnels <br />\n\u2022 Around 119 km of total tunnelling <br />\n\u2022 Some of the world\u2019s highest railway bridges, including the iconic Chenab Rail Bridge</p>",
+      "author": "@NetramDefence"
     },
     {
       "title": "PM Modi awarded Seychelles' highest honour 'Guardian of the Blue Horizon', Seychelles' highest environmental honour, for leadership in conservation and sustainable development.",
@@ -1419,16 +1494,6 @@
       "type": "tweets",
       "content": "<p>PM Modi awarded Seychelles' highest honour 'Guardian of the Blue Horizon', Seychelles' highest environmental honour, for leadership in conservation and sustainable development.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5mwdLaMAA2joi.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: \ud83d\udea8Another Pakistani National apprehended in Hamirpur Sector of Poonch by Army . Further details awaited",
-      "link": "https://nitter.net/AngryRumi7/status/2071196983130468853#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-28T17:10:16+05:30",
-      "time": "28 Jun, 05:10 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Another Pakistani National apprehended in Hamirpur Sector of Poonch by Army .<br />\n<br />\nFurther details awaited</p>",
-      "author": "@AngryRumi7"
     },
     {
       "title": "\ud83d\udea8Another Pakistani National apprehended in Hamirpur Sector of Poonch by Army . Further details awaited",
@@ -1569,39 +1634,27 @@
       "type": "tweets",
       "content": "<p>While JuA fighters are still engaging and killing Porki soldiers, the Askrandu Brigade of ISPR led by Col. Shehzad Raza has released a staged propaganda video to give their awam the daily dose of lahori churan \ud83d\ude02\ud83d\ude02</p>\n<a href=\"https://nitter.net/Goreunit/status/2070947754751447139#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070947695339167744%2Fimg%2FQ4WUHO6yZeZqqNCK.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8Intense exchange of fire between \ud83c\uddf5\ud83c\uddf0forces and Jamaat-ul-Ahrar fighters going on. <br />\n<br />\nJuA has claimed responsibility of the attack.</p>\n<a href=\"https://nitter.net/Goreunit/status/2070916798015578429#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070916728172023808%2Fimg%2FZWInxn0iov7j8pfz.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2070916798015578429#m\">https://nitter.net/Goreunit/status/2070916798015578429#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83d\udea8Heavy Pakistani forces movement in the area. Exchange of fire still going on. Many \ud83c\uddf5\ud83c\uddf0 security personnels have been killed.",
-      "link": "https://nitter.net/Goreunit/status/2070923982808006685#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-27T23:05:28+05:30",
-      "time": "27 Jun, 11:05 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Heavy Pakistani forces movement in the area. Exchange of fire still going on. Many \ud83c\uddf5\ud83c\uddf0 security personnels have been killed.</p>\n<a href=\"https://nitter.net/Goreunit/status/2070923982808006685#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070922064240988160%2Fimg%2FbMsN2DOy_ZfV5DZR.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8Intense exchange of fire between \ud83c\uddf5\ud83c\uddf0forces and Jamaat-ul-Ahrar fighters going on. <br />\n<br />\nJuA has claimed responsibility of the attack.</p>\n<a href=\"https://nitter.net/Goreunit/status/2070916798015578429#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070916728172023808%2Fimg%2FZWInxn0iov7j8pfz.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2070916798015578429#m\">https://nitter.net/Goreunit/status/2070916798015578429#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83d\udea8UPDATE : 2 \ud83c\uddf5\ud83c\uddf0 personnel killed so far and 6 have been shifted to DUHS hospital for treatment. Situation remains active. Further details awaited.",
-      "link": "https://nitter.net/Goreunit/status/2070921759281590569#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-27T22:56:37+05:30",
-      "time": "27 Jun, 10:56 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8UPDATE : 2 \ud83c\uddf5\ud83c\uddf0 personnel killed so far and 6 have been shifted to DUHS hospital for treatment. Situation remains active. Further details awaited.</p>\n<img src=\"https://nitter.net/pic/media%2FHL1kWCZaIAA2VUR.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1kWXGawAA1a2b.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1kWtoaUAAQx48.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL1kXHqacAAIpIy.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8BREAKING!N<br />\nKarachi: Gulistan-e-Jauhar Rangers Company Compound Attacked by Freedom fighters...many porki rangers roasted in the attack\ud83d\udd25\ud83d\udd25</p>\n<a href=\"https://nitter.net/Goreunit/status/2070912909069443232#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070912848277155840%2Fimg%2F5F8EGUD6bWGGDBKm.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2070912909069443232#m\">https://nitter.net/Goreunit/status/2070912909069443232#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83d\udea8Intense exchange of fire between \ud83c\uddf5\ud83c\uddf0forces and Jamaat-ul-Ahrar fighters going on. JuA has claimed responsibility of the attack.",
-      "link": "https://nitter.net/Goreunit/status/2070916798015578429#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-27T22:36:55+05:30",
-      "time": "27 Jun, 10:36 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Intense exchange of fire between \ud83c\uddf5\ud83c\uddf0forces and Jamaat-ul-Ahrar fighters going on. <br />\n<br />\nJuA has claimed responsibility of the attack.</p>\n<a href=\"https://nitter.net/Goreunit/status/2070916798015578429#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070916728172023808%2Fimg%2FZWInxn0iov7j8pfz.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8BREAKING!N<br />\nKarachi: Gulistan-e-Jauhar Rangers Company Compound Attacked by Freedom fighters...many porki rangers roasted in the attack\ud83d\udd25\ud83d\udd25</p>\n<a href=\"https://nitter.net/Goreunit/status/2070912909069443232#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2070912848277155840%2Fimg%2F5F8EGUD6bWGGDBKm.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2070912909069443232#m\">https://nitter.net/Goreunit/status/2070912909069443232#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
+    {
+      "title": "New SEAD missile for AMCA,J-35A v/s Indian Anti Stealth Radar,Project-75I FINAL Stage",
+      "link": "https://www.youtube.com/watch?v=y-Lp8RMLyzo",
+      "source": "Indian Defense News",
+      "sort_key": "2026-06-29T22:30:05+05:30",
+      "time": "29 Jun, 10:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/y-Lp8RMLyzo/mqdefault.jpg"
+    },
+    {
+      "title": "DRDO\u2019s Next Generation Rounds",
+      "link": "https://www.youtube.com/watch?v=oCG8pzz2VXM",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-06-29T22:22:04+05:30",
+      "time": "29 Jun, 10:22 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/oCG8pzz2VXM/mqdefault.jpg"
+    },
     {
       "title": "Defence Updates - PAK Air Strike, BrahMos 20X Production, PAK vs Afghanistan, Army 1 Lakh+ Drone",
       "link": "https://www.youtube.com/watch?v=6EYoE2A2Hnc",
@@ -1673,18 +1726,9 @@
       "time": "27 Jun, 11:33 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/g3DrlHvak7M/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Tejas Mk1A Faulty Engine, India Iron Dome Manufacturing, SSS Defence 1st LMG",
-      "link": "https://www.youtube.com/watch?v=NzkVJlQCliw",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-27T22:35:21+05:30",
-      "time": "27 Jun, 10:35 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/NzkVJlQCliw/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
