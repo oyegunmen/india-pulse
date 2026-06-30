@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "title": "Gen Dhiraj Seth takes over as new Army Chief",
+      "link": "https://www.tribuneindia.com/news/india/gen-dhiraj-seth-takes-over-as-new-army-chief",
+      "source": "The Tribune",
+      "sort_key": "2026-06-30T14:16:35+05:30",
+      "time": "30 Jun, 02:16 PM",
+      "type": "news",
+      "description": "General Dhiraj Seth, an accomplished military officer with the rare distinction of heading two operational Army commands along the western front, took..."
+    },
+    {
+      "title": "TakeMe2Space collaborates with QOSMIC to build indigenous laser-based satellite data relay network",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/takeme2space-collaborates-with-qosmic-to-build-indigenous-laser-based-satellite-data-relay-network/132088883",
+      "source": "Economic Times",
+      "sort_key": "2026-06-30T14:12:48+05:30",
+      "time": "30 Jun, 02:12 PM",
+      "type": "news",
+      "description": "The collaboration aims to enable near-real-time satellite data transmission through India&#039;s first sovereign optical inter-satellite link network."
+    },
+    {
+      "title": "Indian Coast Guard rescues six fishermen in challenging search and rescue operation off Mangaluru",
+      "link": "https://www.indiastrategic.in/indian-coast-guard-rescues-six-fishermen-in-challenging-search-and-rescue-operation-off-mangaluru/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-30T14:08:25+05:30",
+      "time": "30 Jun, 02:08 PM",
+      "type": "news",
+      "description": "<p>Bengaluru, June 30, 2026. The Indian Coast Guard (ICG) successfully rescued six fishermen from the distressed Indian Fishing Boat (IFB) Manju Matha..."
+    },
+    {
+      "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+      "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-30T14:00:17+05:30",
+      "time": "30 Jun, 02:00 PM",
+      "type": "news",
+      "description": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s..."
+    },
+    {
+      "title": "India says FATF remains indispensable in fight against terror financing",
+      "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-30T13:55:22+05:30",
+      "time": "30 Jun, 01:55 PM",
+      "type": "news",
+      "description": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terr..."
+    },
+    {
+      "title": "UAE announces fresh humanitarian assistance package for Lebanon",
+      "link": "https://newsonair.gov.in/uae-announces-fresh-humanitarian-assistance-package-for-lebanon/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-30T13:35:34+05:30",
+      "time": "30 Jun, 01:35 PM",
+      "type": "news",
+      "description": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing comm..."
+    },
+    {
+      "title": "General Upendra Dwivedi retires as Army Chief after four decades of service",
+      "link": "https://www.indiastrategic.in/general-upendra-dwivedi-retires-as-army-chief-after-four-decades-of-service/",
+      "source": "India Strategic",
+      "sort_key": "2026-06-30T13:33:51+05:30",
+      "time": "30 Jun, 01:33 PM",
+      "type": "news",
+      "description": "<p>New Delhi, June 30. General Upendra Dwivedi retired on June 30 after more than four decades of service in the armed forces, relinquishing the post ..."
+    },
+    {
+      "title": "Uncertainty looms over US and Iran peace negoatiations, as Tehran rejects meeting in Doha",
+      "link": "https://newsonair.gov.in/us-iran-offer-conflicting-accounts-on-next-stage-of-discussions-in-doha/",
+      "source": "All India Radio",
+      "sort_key": "2026-06-30T13:25:14+05:30",
+      "time": "30 Jun, 01:25 PM",
+      "type": "news",
+      "description": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the ne..."
+    },
+    {
       "title": "Unimech Aerospace wins long-term aerospace components supply deal from FACC",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/unimech-aerospace-wins-long-term-aerospace-components-supply-deal-from-facc/132087652",
       "source": "Economic Times",
@@ -8,15 +80,6 @@
       "time": "30 Jun, 01:13 PM",
       "type": "news",
       "description": "The agreement follows a competitive global sourcing process and will progress to serial production after qualification and industrialisation."
-    },
-    {
-      "title": "US, Iran offer conflicting accounts on next stage of discussions in Doha",
-      "link": "https://newsonair.gov.in/us-iran-offer-conflicting-accounts-on-next-stage-of-discussions-in-doha/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-30T13:08:14+05:30",
-      "time": "30 Jun, 01:08 PM",
-      "type": "news",
-      "description": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the ne..."
     },
     {
       "title": "World leaders condemn Pakistani airstrikes in Afghanistan",
@@ -28,15 +91,6 @@
       "description": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika..."
     },
     {
-      "title": "India says FATF remains indispensable in fight against terror financing",
-      "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-30T13:05:22+05:30",
-      "time": "30 Jun, 01:05 PM",
-      "type": "news",
-      "description": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terr..."
-    },
-    {
       "title": "Indian-American Congressman Ro Khanna says, \u2018US-India ties at lowest point in 30 years under Trump\u2019",
       "link": "https://www.tribuneindia.com/news/india/indian-american-congressman-ro-khanna-says-us-india-ties-at-lowest-point-in-30-years-under-trump",
       "source": "The Tribune",
@@ -44,15 +98,6 @@
       "time": "30 Jun, 12:25 PM",
       "type": "news",
       "description": "The US-India relationship is at its lowest point in the last 30 years due to US President Donald Trump&#8217;s &#8220;utterly destructive policies&#82..."
-    },
-    {
-      "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
-      "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-30T12:22:17+05:30",
-      "time": "30 Jun, 12:22 PM",
-      "type": "news",
-      "description": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s..."
     },
     {
       "title": "India Gets New COAS; General Dhiraj Seth Takes Charge As New Army Chief Succeeding General Upendra Dwivedi",
@@ -106,7 +151,7 @@
       "sort_key": "2026-06-30T11:22:39+05:30",
       "time": "30 Jun, 11:22 AM",
       "type": "news",
-      "description": "India has intensified its humanitarian outreach in earthquake-hit Venezuela under Operation Amistad, expanding relief efforts with a focus on providin..."
+      "description": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that Indi..."
     },
     {
       "title": "US and Iran to hold talks in Doha on Strait of Hormuz dispute today",
@@ -199,15 +244,6 @@
       "description": "Outgoing Army Chief Gen Upendra Dwivedi on Tuesday described serving in the Indian Army for over four decades as the \"greatest privilege\" of his life ..."
     },
     {
-      "title": "Pakistan Minister warns India over Indus waters, says \u2018we\u2019ll cut off that hand\u2019",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/30/pakistan-minister-warns-india-over-indus-waters-says-well-cut-off-that-hand",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-30T09:39:38+05:30",
-      "time": "30 Jun, 09:39 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "The US is getting something right \u2014 in Lebanon",
       "link": "https://economictimes.indiatimes.com/news/defence/the-us-is-getting-something-right-in-lebanon-ceasefire-iran-israel-war-donald-trump/articleshow/132083351.cms",
       "source": "Economic Times",
@@ -215,15 +251,6 @@
       "time": "30 Jun, 09:38 AM",
       "type": "news",
       "description": "Peace talks with Iran are a complex process to define the post-conflict regional balance.  While Iran seeks to leverage its control over the Strait of..."
-    },
-    {
-      "title": "Centre created environment of security for tribals: BJP chief Nitin Nabin",
-      "link": "https://www.newindianexpress.com/states/telangana/2026/Jun/30/centre-created-environment-of-security-for-tribals-bjp-chief-nitin-nabin",
-      "source": "New Indian Express",
-      "sort_key": "2026-06-30T09:25:23+05:30",
-      "time": "30 Jun, 09:25 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "How NATO will try to keep Trump happy at Ankara summit",
@@ -323,15 +350,6 @@
       "time": "29 Jun, 10:45 PM",
       "type": "news",
       "description": "<p>Jeddah, June 29, 2026. Saudia, the national flag carrier of the Kingdom of Saudi Arabia, has received the 2026 APEX Award for Best Cabin Service in..."
-    },
-    {
-      "title": "US and Iran agree to pause military strikes and resume Hormuz shipping",
-      "link": "https://newsonair.gov.in/us-and-iran-agree-to-pause-military-strikes-and-resume-hormuz-shipping/",
-      "source": "All India Radio",
-      "sort_key": "2026-06-29T22:39:21+05:30",
-      "time": "29 Jun, 10:39 PM",
-      "type": "news",
-      "description": "The United States and Iran have agreed to pause their exchange of military strikes and allow commercial shipping to resume through the Strait of Hormu..."
     },
     {
       "title": "No Russia or Gulf: China puts weight behind third route to Europe",
@@ -710,18 +728,99 @@
       "time": "28 Jun, 02:38 PM",
       "type": "news",
       "description": "<p>Kangpokpi: A Kuki-Zo organisation in Manipur has issued a 48-hour ultimatum to the Centre and the state government, demanding the removal of all al..."
-    },
-    {
-      "title": "Who was Srinath Reddy? Indian student from Telangana found dead in London accommodation",
-      "link": "https://indianexpress.com/article/world/telangana-student-srinath-reddy-found-dead-london-uk-repatriation-help-10761154/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-28T13:50:30+05:30",
-      "time": "28 Jun, 01:50 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "MEA hosts Human Resource Mobility Forum. EAM Jaishankar to address shortly.",
+      "link": "https://nitter.net/sidhant/status/2071879410215763970#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-30T14:21:59+05:30",
+      "time": "30 Jun, 02:21 PM",
+      "type": "tweets",
+      "content": "<p>MEA hosts Human Resource Mobility Forum. EAM Jaishankar to address shortly.</p>\n<img src=\"https://nitter.net/pic/media%2FHMDLUfOWEAAX6wR.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: Indian Army denies reports of Chinese incursion Army: Reports of the PLA setting up camps inside India are incorrect. @kripatistic and @sidhant have more",
+      "link": "https://nitter.net/WIONews/status/2071878377129296028#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-30T14:17:53+05:30",
+      "time": "30 Jun, 02:17 PM",
+      "type": "tweets",
+      "content": "<p>Indian Army denies reports of Chinese incursion<br />\n<br />\nArmy: Reports of the PLA setting up camps inside India are incorrect.<br />\n<br />\n<a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2071878377129296028#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071870970244345856%2Fimg%2F2PZyEDvbr7Wn4uNr.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "And the bots started it again !",
+      "link": "https://nitter.net/alpha_defense/status/2071877347079590298#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-06-30T14:13:47+05:30",
+      "time": "30 Jun, 02:13 PM",
+      "type": "tweets",
+      "content": "<p>And the bots started it again !</p>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @sidhant: Tracking the India\u2013EU trade deal: India to gradually reduce duties on goods. Negotiated text undergoing legal review; European luxury cars set to become cheaper. @kripatistic has more on the same with @sidhant",
+      "link": "https://nitter.net/WIONews/status/2071875674332373459#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-30T14:07:09+05:30",
+      "time": "30 Jun, 02:07 PM",
+      "type": "tweets",
+      "content": "<p>Tracking the India\u2013EU trade deal: India to gradually reduce duties on goods.<br />\n<br />\nNegotiated text undergoing legal review; European luxury cars set to become cheaper.<br />\n<br />\n<a href=\"https://nitter.net/kripatistic\" title=\"KRIPA\">@kripatistic</a> has more on the same with <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2071875674332373459#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071870762185842688%2Fimg%2FQi_pgbV6-YMmmFZK.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Indian Army dismisses reports claiming that the Chinese People's Liberation Army (PLA) encroached into Arunachal Pradesh. Details:",
+      "link": "https://nitter.net/sidhant/status/2071874854178177083#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-30T14:03:53+05:30",
+      "time": "30 Jun, 02:03 PM",
+      "type": "tweets",
+      "content": "<p>Indian Army dismisses reports claiming that the Chinese People's Liberation Army (PLA) encroached into Arunachal Pradesh.<br />\n<br />\nDetails:</p>\n<a href=\"https://nitter.net/sidhant/status/2071874854178177083#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071870970244345856%2Fimg%2F2PZyEDvbr7Wn4uNr.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Gen Dhiraj Seth takes charge as the new Indian Army chief",
+      "link": "https://nitter.net/sidhant/status/2071874330716463369#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-30T14:01:48+05:30",
+      "time": "30 Jun, 02:01 PM",
+      "type": "tweets",
+      "content": "<p>Gen Dhiraj Seth takes charge as the new Indian Army chief</p>\n<img src=\"https://nitter.net/pic/media%2FHMDGtBZWcAAnoLY.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @AngryRumi7: (2/2)At that time 6 more members of his family were arrested for aiding terrorists. Total 8 members have been chargesheeted in this case.He has been involved in Attacks including Badnotta Ambush,Juthana and Saniyal Encounter.",
+      "link": "https://nitter.net/AngryRumi7/status/2071872254619914458#m",
+      "source": "Angry Rumi",
+      "sort_key": "2026-06-30T13:53:33+05:30",
+      "time": "30 Jun, 01:53 PM",
+      "type": "tweets",
+      "content": "<p>(2/2)At that time 6 more members of his family were arrested for aiding terrorists. Total 8 members have been chargesheeted in this case.He has been involved in Attacks including Badnotta Ambush,Juthana and Saniyal Encounter.</p>\n<img src=\"https://nitter.net/pic/media%2FHMDE0g0WsAAiSzp.jpg\" />",
+      "author": "@AngryRumi7"
+    },
+    {
+      "title": "\ud83d\udea8(1/2)According to Press Release of JKP: A key kingpin of Infiltration and transit was chargesheeted; though he has already been in arrest ,according to Open Source News Media: Seasoned OGW , a resident of Juthana area, where 4 Jawans of SOG were martyred in Mar 2025",
+      "link": "https://nitter.net/AngryRumi7/status/2071872228837425158#m",
+      "source": "Angry Rumi",
+      "sort_key": "2026-06-30T13:53:27+05:30",
+      "time": "30 Jun, 01:53 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8(1/2)According to Press Release of JKP:<br />\nA key kingpin of Infiltration and transit was chargesheeted; though he has already been in arrest ,according to Open Source News Media: Seasoned OGW , a resident of Juthana area, where 4 Jawans of SOG were martyred in Mar 2025</p>\n<img src=\"https://nitter.net/pic/media%2FHMDEzeWXEAAJmrT.jpg\" />",
+      "author": "@AngryRumi7"
+    },
+    {
+      "title": "\"Kashmir is not part of Pakistan\", protestors in Pakistan occupied Kashmir say, new video shows:",
+      "link": "https://nitter.net/sidhant/status/2071868858282156429#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-06-30T13:40:03+05:30",
+      "time": "30 Jun, 01:40 PM",
+      "type": "tweets",
+      "content": "<p>\"Kashmir is not part of Pakistan\", protestors in Pakistan occupied Kashmir say, new video shows:</p>\n<a href=\"https://nitter.net/sidhant/status/2071868858282156429#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071832894968901632%2Fimg%2FAMH54gJGJXVydKsW.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Finance Ministry\u2019s Expenditure Finance Committee (EFC) has approved a \u20b91.25 lakh crore outlay for the India Semiconductor Mission (ISM) 2.0, paving the way for the next phase of the country\u2019s semiconductor manufacturing push. \ud83d\udd39 Up from \u20b976,000 crore under ISM 1.0 \ud83d\udd39 Aims to meet up to 75% of India\u2019s domestic semiconductor demand by 2030 \ud83d\udd39 It will support the broader ecosystem, including chip fabrication, assembly, industrial gases, specialty chemicals, capital equipment, MSMEs, and ancillary suppliers",
       "link": "https://nitter.net/NetramDefence/status/2071863137431896302#m",
@@ -1003,66 +1102,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "We have to get trade deal to finish line says US Amb Sergio Gor Vdo ctsy: USISPF",
-      "link": "https://nitter.net/sidhant/status/2071794733052215519#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-30T08:45:31+05:30",
-      "time": "30 Jun, 08:45 AM",
-      "type": "tweets",
-      "content": "<p>We have to get trade deal to finish line says US Amb Sergio Gor <br />\n<br />\nVdo ctsy: USISPF</p>\n<a href=\"https://nitter.net/sidhant/status/2071794733052215519#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2071794690723385344%2Fpu%2Fimg%2FdDzVvFyEk3Wa7AEc.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "The India US releationship is on strong footing days says US Ambassador Sergio Gor Vdo ctsy: USISPF",
-      "link": "https://nitter.net/sidhant/status/2071794694657573247#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-30T08:45:21+05:30",
-      "time": "30 Jun, 08:45 AM",
-      "type": "tweets",
-      "content": "<p>The India US releationship is on strong footing days says US Ambassador Sergio Gor<br />\n<br />\nVdo ctsy: USISPF</p>\n<a href=\"https://nitter.net/sidhant/status/2071794694657573247#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2071794633584324608%2Fpu%2Fimg%2FKwauhrOGT6WlQSnp.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "In 2 weeks, Quad FMs will meet in Philippines, says US ambassador Sergio Gor Vdo ctsy: USISPF",
-      "link": "https://nitter.net/sidhant/status/2071794634947539276#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-30T08:45:07+05:30",
-      "time": "30 Jun, 08:45 AM",
-      "type": "tweets",
-      "content": "<p>In 2 weeks, Quad FMs will meet in Philippines, says US ambassador Sergio Gor<br />\n<br />\nVdo ctsy: USISPF</p>\n<a href=\"https://nitter.net/sidhant/status/2071794634947539276#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2071794587862257664%2Fpu%2Fimg%2F0hE-6_lapMIG9lNn.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US trusts India says US ambassador Sergio Gor; Talks about investments, high level visits including 2nd visit of Marco Rubio to India this year. Vdo ctsy: USISPF",
-      "link": "https://nitter.net/sidhant/status/2071794627120931262#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-30T08:45:05+05:30",
-      "time": "30 Jun, 08:45 AM",
-      "type": "tweets",
-      "content": "<p>US trusts India says US ambassador Sergio Gor; Talks about investments, high level visits including 2nd visit of Marco Rubio to India this year.<br />\n<br />\nVdo ctsy: USISPF</p>\n<a href=\"https://nitter.net/sidhant/status/2071794627120931262#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2071794554618195968%2Fpu%2Fimg%2FtohHaXVnRaC9RMl7.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "New Army Chief Lieutenant General Dhiraj Seth to take charge shorlty",
-      "link": "https://nitter.net/sidhant/status/2071787814740726020#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-30T08:18:01+05:30",
-      "time": "30 Jun, 08:18 AM",
-      "type": "tweets",
-      "content": "<p>New Army Chief Lieutenant General Dhiraj Seth to take charge shorlty</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: In an exclusive interview with WION's @sidhant, EU Ambassador to India Herv\u00e9 Delphin said India-EU ties have reached a \"very high point,\" with both sides working to sign the landmark Free Trade Agreement by the end of 2026. He described the proposed FTA as a transformative pact that would boost trade, investment and business cooperation between the world's largest trading bloc and one of the fastest-growing major economies. Delphin also highlighted the rapid expansion of India-EU cooperation beyond trade into defence, maritime security, the Indo-Pacific, technology, climate action and mobility. He said Europe views India as a key strategic partner in an increasingly uncertain geopolitical environment, adding that both sides are committed to delivering on their ambitious partnership agenda @EUAmbIndia @EU_in_India",
-      "link": "https://nitter.net/WIONews/status/2071775288657387762#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-06-30T07:28:15+05:30",
-      "time": "30 Jun, 07:28 AM",
-      "type": "tweets",
-      "content": "<p>In an exclusive interview with WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, EU Ambassador to India Herv\u00e9 Delphin said India-EU ties have reached a \"very high point,\" with both sides working to sign the landmark Free Trade Agreement by the end of 2026. He described the proposed FTA as a transformative pact that would boost trade, investment and business cooperation between the world's largest trading bloc and one of the fastest-growing major economies.<br />\n<br />\nDelphin also highlighted the rapid expansion of India-EU cooperation beyond trade into defence, maritime security, the Indo-Pacific, technology, climate action and mobility. He said Europe views India as a key strategic partner in an increasingly uncertain geopolitical environment, adding that both sides are committed to delivering on their ambitious partnership agenda<br />\n<br />\n<a href=\"https://nitter.net/EUAmbIndia\" title=\"Herv\u00e9 Delphin\">@EUAmbIndia</a><br />\n<a href=\"https://nitter.net/EU_in_India\" title=\"EU in India\">@EU_in_India</a></p>\n<a href=\"https://nitter.net/WIONews/status/2071775288657387762#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071774804345270272%2Fimg%2FgDoUdn_DOxmF8z_N.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: 29th Jun 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf Following intense airstrikes the previous day, US officials confirmed that Washington and Tehran have agreed to immediately pause reciprocal airstrikes. \u25cf Iran and Oman held their first joint Hormuz committee meeting to advance implementation of the recent MoU, focusing on coordinated navigation and maritime services. \u25cf The IDF struck 3 Hezbollah command centers in the areas of Nabatieh and Mayfadoun in southern Lebanon, in response to ceasefire violations. \u25cf The Wall Street Journal reported that rebuilding the US naval base in Bahrain will cost approximately $400 million. \u25cf Oman stated that any agreement on the Strait of Hormuz must remain within the framework of international law and does not support imposing tolls for crossing the strait. \u25cf Iranian and US technical teams are scheduled to meet in Doha in the coming days to work on implementing the agreement between Tehran and Washington. \u25cf The first of a group of Saudi supertankers has exited the Strait of Hormuz and is now in the Gulf of Oman en route to Japan. The VLCC Zaynah exited in dark mode. END OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2071726469240553519#m",
       "source": "Netram Defense",
@@ -1171,16 +1210,6 @@
       "type": "tweets",
       "content": "<p>That desk \ud83d\udd25</p>\n<img src=\"https://nitter.net/pic/media%2FHL_W9PUa0AAQjo7.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "\ud83d\udea8BIG!! Pakistan stands exposed again!! The United Nations has confirmed that Pakistani airstrikes inside Afghanistan killed civilians not the 'terrorists' claimed to have targeted. @UNAMAnews has verified at least 28 civilians killed and 49 injured, including women and children. The deadliest strike in Chamkani alone left 22 civilians dead.",
-      "link": "https://nitter.net/Goreunit/status/2071608651778056447#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-29T20:26:05+05:30",
-      "time": "29 Jun, 08:26 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8BIG!! <br />\nPakistan stands exposed again!!<br />\nThe United Nations has confirmed that Pakistani airstrikes inside Afghanistan killed civilians not the 'terrorists' claimed to have targeted.<br />\n<br />\n<a href=\"https://nitter.net/UNAMAnews\" title=\"UNAMA News\">@UNAMAnews</a> has verified at least 28 civilians killed and 49 injured, including women and children. The deadliest strike in Chamkani alone left 22 civilians dead.</p>\n<img src=\"https://nitter.net/pic/media%2FHL_VFcybYAA1-fM.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>The Pakistani military has once again started targetting innocent afghan civilians in Paktika, Paktia and Kunar provinces to hide their incompetency.<br />\nAt least 12 Afghan civilians including children have been killed while around 40 others have been injured. <br />\nThe visuals are absolutely heartbreaking\ud83d\udc94</p>\n<img src=\"https://nitter.net/pic/media%2FHL731X8aoAAhrg1.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071365383387578368%2Fimg%2FlHkZSm8ebnWrUMyj.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHL732i1acAAwHd9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL7323yaEAAi8Fa.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">https://nitter.net/Goreunit/status/2071365407202808306#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     },
     {
       "title": "RT by @elitepredatorss: Pakistani soldiers flying like crazy this days",
@@ -1453,16 +1482,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @Goreunit: Shame on you @Reuters These look like 'militants' to you?",
-      "link": "https://nitter.net/Goreunit/status/2071476261877334420#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-29T11:40:01+05:30",
-      "time": "29 Jun, 11:40 AM",
-      "type": "tweets",
-      "content": "<p>Shame on you <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <br />\nThese look like 'militants' to you?</p>\n<img src=\"https://nitter.net/pic/media%2FHL9crAibcAAiYnI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL9cra5awAAdjcI.jpg\" />\n\n<hr />\n<blockquote>\n<b>Reuters (@Reuters)</b>\n<p>\n<p>Pakistan forces kill 29 militants in border operation, AP reports <a href=\"http://reut.rs/4eNlewx\">reut.rs/4eNlewx</a> <a href=\"http://reut.rs/4eNlewx\">reut.rs/4eNlewx</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"http://reut.rs/4eNlewx\">\n<img src=\"https://nitter.net/pic/card_img%2F2070386126074826752%2FNWs6V9DA%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Pakistan forces kill 29 militants in border operation, AP reports</b>\n</a>\n<p>Pakistan&apos;s security forces carried \u200bout an intelligence-based \u200cground operation along the Pakistan-Afghanistan border \u200bon Sunday, \u200bfollowed by &quot;calibrated strikes&quot; on \u2060militant hideouts, \u200bkilling 29...</p>\n<small><a href=\"http://reut.rs/4eNlewx\">reuters.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Reuters/status/2071403310700003381#m\">https://nitter.net/Reuters/status/2071403310700003381#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "RT by @AngryRumi7: Shame on you @Reuters These look like 'militants' to you?",
       "link": "https://nitter.net/Goreunit/status/2071476261877334420#m",
       "source": "Angry Rumi",
@@ -1481,26 +1500,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8Big Cache of Arms including 1 AK-47 Rifle ,3 Nos. UBGL, 1 UBGL Launcher,30 rds 7.62mm recovered in Sopore during a CASO<br />\n<br />\nFurther details awaited</p>\n<img src=\"https://nitter.net/pic/media%2FHL9a6_XbUAEwApZ.jpg\" />",
       "author": "@AngryRumi7"
-    },
-    {
-      "title": "Pakistan Army, every single time: Get attacked. Blame India. Bomb Afghanistan. Kill civilians. Repeat.",
-      "link": "https://nitter.net/OsintTV/status/2071472229309624682#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-29T11:24:00+05:30",
-      "time": "29 Jun, 11:24 AM",
-      "type": "tweets",
-      "content": "<p>Pakistan Army, every single time:<br />\n<br />\nGet attacked.<br />\nBlame India.<br />\n<br />\nBomb Afghanistan.<br />\nKill civilians.<br />\n<br />\nRepeat.</p>\n<img src=\"https://nitter.net/pic/media%2FHL9LYxvWoAAfjZX.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Over 30 killed in brutal Pakistani attacks in Afghanistan says Afghan govt; Afghan govt terms the attacks \"criminal\". Innocent kids and civilians are being massacred by Pakistani forces in Afghanistan every week while the world acts oblivious. The silence of global media on such incidents enforces the Pakistani establishment more. Have some shame and take cognizance @UN_HRC @EURightsAgency @Reuters @AJEnglish @BBCWorld",
-      "link": "https://nitter.net/Goreunit/status/2071463897006239766#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-29T10:50:53+05:30",
-      "time": "29 Jun, 10:50 AM",
-      "type": "tweets",
-      "content": "<p>Over 30 killed in brutal Pakistani attacks in Afghanistan says Afghan govt; Afghan govt terms the attacks \"criminal\".<br />\n<br />\nInnocent kids and civilians are being massacred by Pakistani forces in Afghanistan every week while the world acts oblivious. The silence of global media on such incidents enforces the Pakistani establishment more. Have some shame and take cognizance <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/AJEnglish\" title=\"Al Jazeera English\">@AJEnglish</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a></p>\n<img src=\"https://nitter.net/pic/media%2FHL9RbYfasAESOkp.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL9RbyHasAAc1Pj.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>The Pakistani military has once again started targetting innocent afghan civilians in Paktika, Paktia and Kunar provinces to hide their incompetency.<br />\nAt least 12 Afghan civilians including children have been killed while around 40 others have been injured. <br />\nThe visuals are absolutely heartbreaking\ud83d\udc94</p>\n<img src=\"https://nitter.net/pic/media%2FHL731X8aoAAhrg1.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071365383387578368%2Fimg%2FlHkZSm8ebnWrUMyj.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHL732i1acAAwHd9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL7323yaEAAi8Fa.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">https://nitter.net/Goreunit/status/2071365407202808306#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     },
     {
       "title": "\ud83d\udea8 It Is Happening. The Mood in PoJK Is Changing.....\ud83d\udd25 First, they demanded food. Then water. Now they're demanding the Srinagar route. \"We don't need Pakistan. We'll take our supplies through Srinagar. Get out of our land. Withdraw your army.\" When PoJK start looking towards Srinagar instead of Islamabad, the message is loud and clear. (27.06.2026 - Birmingham - UK)",
@@ -1551,16 +1550,6 @@
       "type": "tweets",
       "content": "<p>Did you know ?<br />\n<br />\nYears before Sea Buckthorn appeared on Shark Tank India, DRDO\u2019s DIHAR had already developed a multivitamin herbal beverage from it for soldiers deployed in Siachen. The lab also produced Sea Buckthorn seed oil using supercritical CO\u2082 extraction and formulated soft-gel capsules for high-altitude operations.</p>\n<img src=\"https://nitter.net/pic/media%2FHL8bc2OWwAAnETX.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "RT by @Goreunit: The Pakistani military has once again started targetting innocent afghan civilians in Paktika, Paktia and Kunar provinces to hide their incompetency. At least 12 Afghan civilians including children have been killed while around 40 others have been injured. The visuals are absolutely heartbreaking\ud83d\udc94",
-      "link": "https://nitter.net/Goreunit/status/2071365407202808306#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-29T04:19:31+05:30",
-      "time": "29 Jun, 04:19 AM",
-      "type": "tweets",
-      "content": "<p>The Pakistani military has once again started targetting innocent afghan civilians in Paktika, Paktia and Kunar provinces to hide their incompetency.<br />\nAt least 12 Afghan civilians including children have been killed while around 40 others have been injured. <br />\nThe visuals are absolutely heartbreaking\ud83d\udc94</p>\n<img src=\"https://nitter.net/pic/media%2FHL731X8aoAAhrg1.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2071365407202808306#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071365383387578368%2Fimg%2FlHkZSm8ebnWrUMyj.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHL732i1acAAwHd9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHL7323yaEAAi8Fa.jpg\" />",
-      "author": "@Goreunit"
     },
     {
       "title": "Daily US-Israel-Iran War Brief: 28th Jun 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf The IRGC claimed responsibility for drone and missile attacks on US military sites near the US Fifth Fleet HQ in Bahrain and Ali Al Salem Air Base in Kuwait, in retaliation for recent US airstrikes on Iran. \u25cf Iran\u2019s Foreign Minister Abbas Araghchi stated in Baghdad that Iran alone is responsible for managing and reopening maritime traffic in the Strait of Hormuz. \u25cf Foreign Ministry Spokesman Baqaei emphasized that Iran insists on the full implementation of the first clause of the MoU, which requires the cessation of Israeli military operations in Lebanon and withdrawal from all occupied territories. \u25cf Two oil tankers and two LPG carriers are currently crossing the Strait of Hormuz inbound via the Omani-designated route. \u25cf The Israel-Lebanon framework agreement includes a highly controversial clause banning Lebanon from pursuing international legal action or war crimes lawsuits against Israel at The Hague, drawing significant backlash. END OF THE BRIEF",
@@ -1663,16 +1652,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Shiro wins",
-      "link": "https://nitter.net/alpha_defense/status/2071249550879461513#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-06-28T20:39:09+05:30",
-      "time": "28 Jun, 08:39 PM",
-      "type": "tweets",
-      "content": "<p>Shiro wins</p>\n<hr />\n<blockquote>\n<b>Shiro (@ShiroBarks)</b>\n<p>\n<p>For some jammer</p>\n<img src=\"https://nitter.net/pic/media%2FHL6OVKLbEAAOuO6.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ShiroBarks/status/2071249378388664549#m\">https://nitter.net/ShiroBarks/status/2071249378388664549#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "\ud83d\udea8 PoK intruder Rayees Khan (31) apprehended near LoC in Balakote sector \ud83d\udccd Son of Mohammad Yaqoob Khan, resident of Taroti village, Tetrinote tehsil, Haveli district, PoK \ud83d\udccd Crossed into Indian side of LoC before being detained by security forces \ud83d\udccd Initial search report confirms no incriminating material recovered \ud83d\udccd Currently under detailed interrogation to verify motive and intent \ud83d\udccd Security agencies examining possible routes used for crossing \ud83d\udccd Incident marked as third infiltration related apprehension in the sector this month \ud83d\udccd Earlier two Pakistani nationals were also apprehended in separate LoC incidents during the same period \ud83d\udccd Both earlier cases are under investigation by security agencies \ud83d\udccd Heightened surveillance and alert maintained along Balakote stretch of LoC Media Report",
       "link": "https://nitter.net/OsintTV/status/2071243115407552831#m",
       "source": "Osint TV",
@@ -1753,13 +1732,23 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "THREAD \ud83e\uddf5 Why Tunnels Matter for Connectivity & National Security? For a long time, India's geography has been both a blessing and a challenge. The Himalayas, extensive river systems, and densely populated cities have often hindered connectivity, making it difficult, costly, and seasonal. Today, advancements in tunneling technology are enabling India to overcome these challenges on an unprecedented scale. In this thread, we will explore some of India\u2019s significant tunnels. 1/11",
-      "link": "https://nitter.net/NetramDefence/status/2071209956104421394#m",
+      "title": "R to @NetramDefence: 9/11 Zoji La Tunnel: Reaching Ladakh in Every Season \u2022 Length: 14.15 km \u2022 Location: Between Kashmir and Ladakh When completed, Zoji La will become India\u2019s longest road tunnel and one of Asia\u2019s longest bi-directional highway tunnels. The project will provide year-round access to Ladakh, ending the annual winter isolation caused by heavy snowfall at Zoji La Pass.",
+      "link": "https://nitter.net/NetramDefence/status/2071209988836774250#m",
       "source": "Netram Defense",
-      "sort_key": "2026-06-28T18:01:49+05:30",
+      "sort_key": "2026-06-28T18:01:57+05:30",
       "time": "28 Jun, 06:01 PM",
       "type": "tweets",
-      "content": "<p>THREAD \ud83e\uddf5<br />\n<br />\nWhy Tunnels Matter for Connectivity & National Security?<br />\n<br />\nFor a long time, India's geography has been both a blessing and a challenge. The Himalayas, extensive river systems, and densely populated cities have often hindered connectivity, making it difficult, costly, and seasonal. <br />\n<br />\nToday, advancements in tunneling technology are enabling India to overcome these challenges on an unprecedented scale. In this thread, we will explore some of India\u2019s significant tunnels.<br />\n<br />\n1/11</p>\n<img src=\"https://nitter.net/pic/media%2FHL5p-adacAA0twE.png\" />",
+      "content": "<p>9/11 <br />\nZoji La Tunnel: Reaching Ladakh in Every Season <br />\n<br />\n\u2022 Length: 14.15 km<br />\n\u2022 Location: Between Kashmir and Ladakh <br />\n<br />\nWhen completed, Zoji La will become India\u2019s longest road tunnel and one of Asia\u2019s longest bi-directional highway tunnels. The project will provide year-round access to Ladakh, ending the annual winter isolation caused by heavy snowfall at Zoji La Pass.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5kIskbYAAwBzb.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 8/11 Dr Syama Prasad Mookerjee Tunnel \u2022 Length: 9.28 km \u2022 Location: Chenani\u2013Nashri, Jammu & Kashmir India\u2019s longest operational road tunnel bypasses landslide-prone mountain roads on NH-44, significantly improving safety and reducing travel time through the Jammu region.",
+      "link": "https://nitter.net/NetramDefence/status/2071209985686778367#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-06-28T18:01:56+05:30",
+      "time": "28 Jun, 06:01 PM",
+      "type": "tweets",
+      "content": "<p>8/11<br />\n<br />\nDr Syama Prasad Mookerjee Tunnel <br />\n\u2022 Length: 9.28 km <br />\n\u2022 Location: Chenani\u2013Nashri, Jammu &amp; Kashmir <br />\n<br />\nIndia\u2019s longest operational road tunnel bypasses landslide-prone mountain roads on NH-44, significantly improving safety and reducing travel time through the Jammu region.</p>\n<img src=\"https://nitter.net/pic/media%2FHL5js4yb0AAjldn.png\" />",
       "author": "@NetramDefence"
     },
     {
@@ -1916,6 +1905,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
