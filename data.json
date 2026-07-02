@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "From bullet trains to semiconductors: India, Japan expand economic partnership for an uncertain world",
+      "link": "https://www.indiastrategic.in/from-bullet-trains-to-semiconductors-india-japan-expand-economic-partnership-for-an-uncertain-world/",
+      "source": "India Strategic",
+      "sort_key": "2026-07-02T21:01:45+05:30",
+      "time": "02 Jul, 09:01 PM",
+      "type": "news",
+      "description": "<p>By Aroonim Bhuyan New Delhi, July 2. What began as a post-war friendship built on Japanese development assistance has evolved into one of Asia\u2019s mo..."
+    },
+    {
+      "title": "Defence Ministry likely to clear major proposals for HAMMER, Verba, MP-ATGMs, pseudo satellites on July 3",
+      "link": "https://economictimes.indiatimes.com/news/defence/defence-ministry-likely-to-clear-major-proposals-for-hammer-verba-mp-atgms-pseudo-satellites-on-july-3/articleshow/132141242.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-02T20:33:51+05:30",
+      "time": "02 Jul, 08:33 PM",
+      "type": "news",
+      "description": "In the first Defence Acquisition Council meeting to be held with new Chief of Defence Staff, Army and Navy Chiefs in attendance, the Defence Ministry ..."
+    },
+    {
+      "title": "Pakistan Again Accuses India of Trying to Control Rivers",
+      "link": "https://www.deccanchronicle.com/nation/pakistan-again-accuses-india-of-trying-to-control-rivers-1967878",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-07-02T20:21:57+05:30",
+      "time": "02 Jul, 08:21 PM",
+      "type": "news",
+      "description": "Andrabi said that Pakistan rejected \"India's attempt to invoke baseless allegations of terrorism as a pretext for placing the Indus Waters Treaty (IWT..."
+    },
+    {
+      "title": "India making efforts to control rivers, Pakistan alleges yet again",
+      "link": "https://www.tribuneindia.com/news/india/india-making-efforts-to-control-rivers-pakistan-alleges-yet-again",
+      "source": "The Tribune",
+      "sort_key": "2026-07-02T19:59:26+05:30",
+      "time": "02 Jul, 07:59 PM",
+      "type": "news",
+      "description": "Pakistan on Thursday rejected the alleged Indian effort to control rivers by treating water as a &#8220;strategic asset,&#8221; especially in the case..."
+    },
+    {
+      "title": "125-year-old gurdwara demolished in Pakistan; MEA condemns act, Sikh groups seek intervention",
+      "link": "https://www.newindianexpress.com/world/2026/Jul/02/125-year-old-gurdwara-demolished-in-pakistan-mea-condemns-act-sikh-groups-seek-intervention",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-02T19:38:21+05:30",
+      "time": "02 Jul, 07:38 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "UK PM Keir Starmer apologises for forced separation of unmarried mothers from their babies",
       "link": "https://newsonair.gov.in/uk-pm-keir-starmer-apologises-for-forced-separation-of-unmarried-mothers-from-their-babies/",
       "source": "All India Radio",
@@ -8,15 +53,6 @@
       "time": "02 Jul, 06:33 PM",
       "type": "news",
       "description": "The UK&#8217;s caretaker Prime Minister Keir Starmer formally apologised today for the British state&#8217;s role in separating tens of thousands of u..."
-    },
-    {
-      "title": "Congress MP slams India-Pakistan peace letter, cites Pahalgam attack, history of cross-border terror",
-      "link": "https://www.newindianexpress.com/india/2026/Jul/02/congress-mp-slams-india-pakistan-peace-letter-cites-pahalgam-attack-history-of-cross-border-terror",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-02T18:25:26+05:30",
-      "time": "02 Jul, 06:25 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Taiwan detects 22 Chinese military aircraft near its territory",
@@ -116,6 +152,15 @@
       "time": "02 Jul, 03:25 PM",
       "type": "news",
       "description": "PM Narendra Modi and Japanese PM Sanae Takaichi announce landmark agreements spanning economic security, AI, clean energy and defence cooperation."
+    },
+    {
+      "title": "Major Russian attack kills 20 in Kyiv as Ukrainian strikes batter Moscow's oil sector",
+      "link": "https://economictimes.indiatimes.com/news/defence/russian-attack-kills-at-least-17-injures-scores-and-causes-damage-across-ukraine-capital/articleshow/132135095.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-02T15:25:17+05:30",
+      "time": "02 Jul, 03:25 PM",
+      "type": "news",
+      "description": "Kyiv endured a devastating 11-hour drone and missile assault, claiming at least 20 civilian lives and injuring many more. Moscow stated the attack was..."
     },
     {
       "title": "India\u2019s First Private Orbital Rocket, Skyroot\u2019s Vikram-1, to Launch Between July 12 and August 4, 2026",
@@ -532,15 +577,6 @@
       "description": "The company said the 700 kg-class technology demonstrator completed more than 500 tests and over 18 hours of flight testing in six months."
     },
     {
-      "title": "Lt Gen Mohit Malhotra takes over as South Western Army Commander",
-      "link": "https://www.indiastrategic.in/lt-gen-mohit-malhotra-takes-over-as-south-western-army-commander/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-01T16:40:46+05:30",
-      "time": "01 Jul, 04:40 PM",
-      "type": "news",
-      "description": "<p>New Delhi, July 1. Lieutenant General Mohit Malhotra has assumed charge as the General Officer Commanding-in-Chief (GOC-in-C) of the Indian Army\u2019s ..."
-    },
-    {
       "title": "Lt Gen Sandeep Jain assumes office as Vice-Chief of Army Staff",
       "link": "https://economictimes.indiatimes.com/news/defence/lt-gen-sandeep-jain-assumes-office-as-vice-chief-of-army-staff/articleshow/132113099.cms",
       "source": "Economic Times",
@@ -782,36 +818,229 @@
       "time": "01 Jul, 12:32 AM",
       "type": "news",
       "description": "Speaking at the Vibrant Gujarat Regional Conference in Vadodara, he said collaborations with foreign Original Equipment Manufacturers have seen tangib..."
-    },
-    {
-      "title": "Manipur: Assam Rifles conducts biometric registration drive for displaced Myanmar nationals",
-      "link": "https://nenews.in/manipur/manipur-assam-rifles-conducts-biometric-registration-drive-for-displaced-myanmar-nationals/55806/",
-      "source": "NE News",
-      "sort_key": "2026-06-30T22:18:43+05:30",
-      "time": "30 Jun, 10:18 PM",
-      "type": "news",
-      "description": "<p>A joint exercise to identify, verify and carry out biometric registration of displaced Myanmar nationals was conducted in Manipur&#8217;s border di..."
-    },
-    {
-      "title": "Air Marshal Ashutosh Dixit to be next Vice Chief of IAF, relinquishes CISC appointment",
-      "link": "https://economictimes.indiatimes.com/news/defence/air-marshal-ashutosh-dixit-to-be-next-vice-chief-of-iaf-relinquishes-cisc-appointment/articleshow/132095221.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-06-30T19:58:09+05:30",
-      "time": "30 Jun, 07:58 PM",
-      "type": "news",
-      "description": "Air Marshal Ashutosh Dixit, a decorated pilot with extensive flying experience, is slated to become the next Vice Chief of the Air Staff on July 1st. ..."
-    },
-    {
-      "title": "Why Pakistan has created a petroleum price stabilisation fund",
-      "link": "https://indianexpress.com/article/world/pakistan-pakistan-petroleum-prices-stabilisation-fund-petrol-diesel-rates-10764395/",
-      "source": "The Indian Express",
-      "sort_key": "2026-06-30T19:23:27+05:30",
-      "time": "30 Jun, 07:23 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Turkish media claims that a Chinese-made CH-95 drone, reportedly supplied to the RSF by the UAE, was shot down by a Sudanese Army AKINCI UAV using an air-to-air missile. If confirmed, this would mark one of the first documented air-to-air kills by an armed drone against another drone in combat.",
+      "link": "https://nitter.net/alpha_defense/status/2072739960458010760#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-02T23:21:30+05:30",
+      "time": "02 Jul, 11:21 PM",
+      "type": "tweets",
+      "content": "<p>Turkish media claims that a Chinese-made CH-95 drone, reportedly supplied to the RSF by the UAE, was shot down by a Sudanese Army AKINCI UAV using an air-to-air missile.<br />\n<br />\nIf confirmed, this would mark one of the first documented air-to-air kills by an armed drone against another drone in combat.</p>\n<img src=\"https://nitter.net/pic/media%2FHMPaAVaboAA4Rdy.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMPaAVqasAAtJd4.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT @rathorekaran17: Don\u2019t agree with what the good man is saying. ATAGS could not have been developed without a GSQR from the Indian Arty.\u2026",
+      "link": "https://nitter.net/alpha_defense/status/2072737092896194968#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-02T23:10:07+05:30",
+      "time": "02 Jul, 11:10 PM",
+      "type": "tweets",
+      "content": "<p>RT <a href=\"https://nitter.net/rathorekaran17\" title=\"Karan\">@rathorekaran17</a>: Don\u2019t agree with what the good man is saying. ATAGS could not have been developed without a GSQR from the Indian Arty.\u2026</p>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "India, Japan Declaration on Economic Security Cooperation focuses on semi conductors, critical minerals, Information and Communication Technology, clean energy, pharma, Critical and Emerging Technologies:",
+      "link": "https://nitter.net/sidhant/status/2072726528304239082#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T22:28:08+05:30",
+      "time": "02 Jul, 10:28 PM",
+      "type": "tweets",
+      "content": "<p>India, Japan Declaration on Economic Security Cooperation focuses on semi conductors, critical minerals, Information and Communication Technology, clean energy, pharma, Critical and Emerging Technologies:</p>\n<img src=\"https://nitter.net/pic/media%2FHMPNyu_bwAIDJ1O.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMPNywKbIAAm5KI.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Key outcomes summed up from Japan PM's India visit:",
+      "link": "https://nitter.net/sidhant/status/2072725789121159444#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T22:25:12+05:30",
+      "time": "02 Jul, 10:25 PM",
+      "type": "tweets",
+      "content": "<p>Key outcomes summed up from Japan PM's India visit:</p>\n<img src=\"https://nitter.net/pic/media%2FHMPNHvBaUAEXvXM.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMPNHvkakAAsVAk.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India, Japan call for concerted actions against Pakistan based terror groups like Lashkar-e-Tayyiba (LeT), Jaish-e-Mohammad (JeM) and their proxies. From Joint statement:",
+      "link": "https://nitter.net/sidhant/status/2072725383817068653#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T22:23:35+05:30",
+      "time": "02 Jul, 10:23 PM",
+      "type": "tweets",
+      "content": "<p>India, Japan call for concerted actions against Pakistan based terror groups like Lashkar-e-Tayyiba (LeT), Jaish-e-Mohammad (JeM) and their proxies.<br />\n<br />\nFrom Joint statement:</p>\n<img src=\"https://nitter.net/pic/media%2FHMPMwKFaIAAZxXs.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Convening Quad summit, Asean centrality, Myanmar, North Korea, South China sea, safe navigation through the Strait of Hormuz, review of CEPA makes into India, Japan joint statement: https://www.mea.gov.in/bilateral-documents?dtl/41391/16th_IndiaJapan_Annual_Summit_Joint_Statement",
+      "link": "https://nitter.net/sidhant/status/2072724996326387946#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T22:22:03+05:30",
+      "time": "02 Jul, 10:22 PM",
+      "type": "tweets",
+      "content": "<p>Convening Quad summit, Asean centrality, Myanmar, North Korea, South China sea, safe navigation through the Strait of Hormuz, review of CEPA makes into India, Japan joint statement:<br />\n<br />\n<a href=\"https://www.mea.gov.in/bilateral-documents?dtl/41391/16th_IndiaJapan_Annual_Summit_Joint_Statement\">mea.gov.in/bilateral-documen\u2026</a></p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India, Japan issue joint statement on cooperation on AI",
+      "link": "https://nitter.net/sidhant/status/2072724122409533730#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T22:18:34+05:30",
+      "time": "02 Jul, 10:18 PM",
+      "type": "tweets",
+      "content": "<p>India, Japan issue joint statement on cooperation on AI</p>\n<img src=\"https://nitter.net/pic/media%2FHMPLmrKb0AAvD80.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMPLmtsacAEw-HJ.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Learning from Hormuz crisis: India, Japan significantly up energy ties with focus on cooperation in stockpiling, information-sharing on market trends, cooperation in energy transport, institutional collaboration:",
+      "link": "https://nitter.net/sidhant/status/2072723159103803663#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T22:14:45+05:30",
+      "time": "02 Jul, 10:14 PM",
+      "type": "tweets",
+      "content": "<p>Learning from Hormuz crisis:<br />\n<br />\nIndia, Japan significantly up energy ties with focus on cooperation in stockpiling, information-sharing on market trends, cooperation in energy transport, institutional collaboration:</p>\n<img src=\"https://nitter.net/pic/media%2FHMPKuoubsAUrV2g.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: Pakistan foreign office shifts its goal post on stance over track 2 India-Pakistan talks, from being unaware to being aware, in less than a week. Clearly, social media doesn't forget! https://www.google.com/amp/s/www.arabnews.com/node/2648680/amp",
+      "link": "https://nitter.net/abhishekjha157/status/2072721383130640888#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T22:07:41+05:30",
+      "time": "02 Jul, 10:07 PM",
+      "type": "tweets",
+      "content": "<p>Pakistan foreign office shifts its goal post on stance over track 2 India-Pakistan talks, from being unaware to being aware, in less than a week. Clearly, social media doesn't forget!<br />\n<br />\n<a href=\"https://www.google.com/amp/s/www.arabnews.com/node/2648680/amp\">google.com/amp/s/www.arabnew\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHMPJHNLbsAYUJ5O.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMPJHP9acAA27Ua.jpg\" />",
+      "author": "@abhishekjha157"
+    },
+    {
+      "title": "I want this sort of photography @SkyrootA \ud83d\ude4f\ud83e\udee0",
+      "link": "https://nitter.net/alpha_defense/status/2072712020881973503#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-02T21:30:29+05:30",
+      "time": "02 Jul, 09:30 PM",
+      "type": "tweets",
+      "content": "<p>I want this sort of photography <a href=\"https://nitter.net/SkyrootA\" title=\"Skyroot Aerospace\">@SkyrootA</a> \ud83d\ude4f\ud83e\udee0</p>\n<hr />\n<blockquote>\n<b>SpaceX (@SpaceX)</b>\n<p>\n<p>Starship 60-second static fire ahead of the thirteenth flight test</p>\n<a href=\"https://nitter.net/SpaceX/status/2072695632104468543#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072695233515552768%2Fimg%2FzCtpXH6nd0HapadV.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/SpaceX/status/2072695632104468543#m\">https://nitter.net/SpaceX/status/2072695632104468543#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Congratulations \ud83c\udf89",
+      "link": "https://nitter.net/alpha_defense/status/2072703044614332779#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-02T20:54:49+05:30",
+      "time": "02 Jul, 08:54 PM",
+      "type": "tweets",
+      "content": "<p>Congratulations \ud83c\udf89</p>\n<hr />\n<blockquote>\n<b>Gaurav Seth (@GauravSeth93)</b>\n<p>\n<p>We won our first contract for Vidura, our forest penetration radar, competing against some of India\u2019s renowned defence manufacturers.<br />\n<br />\nWhen we applied for the tender, Vidura was still a prototype. Most people would\u2019ve seen that as a weakness.<br />\n<br />\nIt turned out to be our biggest advantage. (1/5)</p>\n<img src=\"https://nitter.net/pic/media%2FHMDb71xXMAEKUcL.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/GauravSeth93/status/2071897944434032863#m\">https://nitter.net/GauravSeth93/status/2071897944434032863#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "16th India Japan summit: Outcomes -India Japan declaration/fact sheet on Eco Security cooperation -Summit joint statement -Joint statement on AI -Joint statement on Energy",
+      "link": "https://nitter.net/sidhant/status/2072702270719049879#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T20:51:44+05:30",
+      "time": "02 Jul, 08:51 PM",
+      "type": "tweets",
+      "content": "<p>16th India Japan summit:<br />\nOutcomes<br />\n-India Japan declaration/fact sheet on Eco Security cooperation<br />\n<br />\n-Summit joint statement<br />\n<br />\n-Joint statement on AI<br />\n<br />\n-Joint statement on Energy</p>\n<img src=\"https://nitter.net/pic/media%2FHMO3uyUakAAeKHz.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: #IndiaJapanSummit | India, Japan Unveil Economic Security Document to Deepen Strategic Partnership In a significant move to strengthen their \"Special Strategic and Global Partnership,\" Indian Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi unveiled a transformative agenda during their annual summit in New Delhi on July 2, 2026. The leaders adopted several landmark documents, most notably a Joint Declaration on Economic Security, which aims to fortify supply chain resilience in critical sectors such as semiconductors, quantum technology, and advanced materials @sidhant shares more details @ModJapan_en | @JPN_PMO | @IndianEmbTokyo #indiajapansummit #sanaetakaichi #pmmodi",
+      "link": "https://nitter.net/WIONews/status/2072700872346546314#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T20:46:11+05:30",
+      "time": "02 Jul, 08:46 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaJapanSummit\">#IndiaJapanSummit</a> | India, Japan Unveil Economic Security Document to Deepen Strategic Partnership<br />\n<br />\nIn a significant move to strengthen their \"Special Strategic and Global Partnership,\" Indian Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi unveiled a transformative agenda during their annual summit in New Delhi on July 2, 2026. The leaders adopted several landmark documents, most notably a Joint Declaration on Economic Security, which aims to fortify supply chain resilience in critical sectors such as semiconductors, quantum technology, and advanced materials<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> shares more details<br />\n<br />\n<a href=\"https://nitter.net/ModJapan_en\" title=\"Japan Ministry of Defense/Self-Defense Forces\">@ModJapan_en</a> | <a href=\"https://nitter.net/JPN_PMO\" title=\"PM's Office of Japan\">@JPN_PMO</a> | <a href=\"https://nitter.net/IndianEmbTokyo\" title=\"\u30a4\u30f3\u30c9\u5927\u4f7f\u9928 || India in Japan \ud83c\uddee\ud83c\uddf3\">@IndianEmbTokyo</a><br />\n<br />\n  <a href=\"https://nitter.net/search?f=tweets&amp;q=%23indiajapansummit\">#indiajapansummit</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23sanaetakaichi\">#sanaetakaichi</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23pmmodi\">#pmmodi</a></p>\n<a href=\"https://nitter.net/WIONews/status/2072700872346546314#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072700612903665664%2Fimg%2Fe76tNt2ZJga5HM9M.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "The most important thing on DAC agenda for me will be DRDO MPATGM. One more segment where israel nirbhar bharat becomes Atmanirbhar.",
+      "link": "https://nitter.net/alpha_defense/status/2072699287021211900#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-02T20:39:53+05:30",
+      "time": "02 Jul, 08:39 PM",
+      "type": "tweets",
+      "content": "<p>The most important thing on DAC agenda for me will be DRDO MPATGM.<br />\nOne more segment where israel nirbhar bharat becomes Atmanirbhar.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2072699287021211900#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072699095916134400%2Fimg%2FgYTVt1j2DoVp5-WO.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Seychelles Ministry Releases Clarification on Circulating Award Document For PM Modi; Says it was pre-final working draft only; Orders inquiry Full statement:",
+      "link": "https://nitter.net/sidhant/status/2072695147704570093#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T20:23:26+05:30",
+      "time": "02 Jul, 08:23 PM",
+      "type": "tweets",
+      "content": "<p>Seychelles Ministry Releases Clarification on Circulating Award Document For PM Modi; Says it was pre-final working draft only; Orders inquiry <br />\n<br />\nFull statement:</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Just in: Seychelles reacts to mistakes in the citation of \"Guardian of the Blue Horizon\" award<br />\n<br />\n\"This draft was not intended for public release &amp; should not have entered circulation; the Ministry is reviewing how this occurred\"<br />\n<br />\n\"was a pre-final working layout\"</p>\n<img src=\"https://nitter.net/pic/media%2FHMOtqQaa8AAZeV7.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMOtqe9acAAYZ7q.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2072691201296523468#m\">https://nitter.net/sidhant/status/2072691201296523468#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Defence Ministry likely to clear major proposals for HAMMER, Verba, MP-ATGMs, pseudo satellites on July 3 by @ajitkdubey Read more At: @ANI https://www.aninews.in/news/national/general-news/defence-ministry-likely-to-clear-major-proposals-for-hammer-verba-mp-atgms-pseudo-satellites-on-july-320260702194313/",
+      "link": "https://nitter.net/alpha_defense/status/2072693888905867286#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-02T20:18:26+05:30",
+      "time": "02 Jul, 08:18 PM",
+      "type": "tweets",
+      "content": "<p>Defence Ministry likely to clear major proposals for HAMMER, Verba, MP-ATGMs, pseudo satellites on July 3 by <a href=\"https://nitter.net/ajitkdubey\" title=\"Ajit Kumar Dubey\">@ajitkdubey</a> <br />\nRead more At: <a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a> <br />\n<a href=\"https://www.aninews.in/news/national/general-news/defence-ministry-likely-to-clear-major-proposals-for-hammer-verba-mp-atgms-pseudo-satellites-on-july-320260702194313/\">aninews.in/news/national/gen\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.aninews.in/news/national/general-news/defence-ministry-likely-to-clear-major-proposals-for-hammer-verba-mp-atgms-pseudo-satellites-on-july-320260702194313/\">\n<img src=\"https://nitter.net/pic/card_img%2F2072686476798926848%2FaD_Ek97l%3Fformat%3Djpg%26name%3D280x280_2\" />\n<br />\n<b>Defence Ministry likely to clear major proposals for HAMMER, Verba, MP-ATGMs, pseudo satellites on...</b>\n</a>\n<p>In the first Defence Acquisition Council meeting to be held with new Chief of Defence Staff, Army and Navy Chiefs in attendance, the Defence Ministry is expected to clear mega proposals including the...</p>\n<small><a href=\"https://www.aninews.in/news/national/general-news/defence-ministry-likely-to-clear-major-proposals-for-hammer-verba-mp-atgms-pseudo-satellites-on-july-320260702194313/\">aninews.in</a></small>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @Goreunit: \ud83d\udea8This is how terrorists of Jaish e Muhammad openly carried out rallies in Rawalakot PoJK \ud83c\uddf5\ud83c\uddf0, earlier this year in February. Open display of Assault rifles and swords while escorting Hamas delegation. All of this happens annually under the directions of Pak Army and ISI\ud83c\uddf5\ud83c\uddf0. This is what JAAC leader Sardar Aman Khan is referring to in his speech...",
+      "link": "https://nitter.net/Goreunit/status/2072692212102820188#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-02T20:11:46+05:30",
+      "time": "02 Jul, 08:11 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8This is how terrorists of Jaish e Muhammad openly carried out rallies in Rawalakot PoJK \ud83c\uddf5\ud83c\uddf0, earlier this year in February. Open display of Assault rifles and swords while escorting Hamas delegation.<br />\nAll of this happens annually under the directions of Pak Army and ISI\ud83c\uddf5\ud83c\uddf0. This is what JAAC leader Sardar Aman Khan is referring to in his speech...</p>\n<a href=\"https://nitter.net/Goreunit/status/2072692212102820188#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072692019802394624%2Fimg%2FcXtd7aGhjQwECqPE.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2072692212102820188#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072692081114673152%2Fimg%2FtSZafi8novi2p5Tm.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2072692212102820188#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072692142997422080%2Fimg%2FUSqwKXu1xlBdGF6i.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8 EXCLUSIVE: JAAC openly called Pakistani Army as the facilitator of terrorism. Addressing over 80,000 people in Rawalakot JAAC leader Sardar Aman Khan alleged that the Pakistan Army itself armed Kashmiris, asking, \"They gave us the guns, and now they call us terrorists? They facilitated rallies with swords and guns (referring to Jaish e Muhammad), now they call us terrorists?\"</p>\n<a href=\"https://nitter.net/Goreunit/status/2072669083334852787#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072668995120168960%2Fimg%2FfKTCYg7n0bhyCtXz.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2072669083334852787#m\">https://nitter.net/Goreunit/status/2072669083334852787#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Just in: Seychelles reacts to mistakes in the citation of \"Guardian of the Blue Horizon\" award \"This draft was not intended for public release & should not have entered circulation; the Ministry is reviewing how this occurred\" \"was a pre-final working layout\"",
+      "link": "https://nitter.net/sidhant/status/2072691201296523468#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T20:07:45+05:30",
+      "time": "02 Jul, 08:07 PM",
+      "type": "tweets",
+      "content": "<p>Just in: Seychelles reacts to mistakes in the citation of \"Guardian of the Blue Horizon\" award<br />\n<br />\n\"This draft was not intended for public release &amp; should not have entered circulation; the Ministry is reviewing how this occurred\"<br />\n<br />\n\"was a pre-final working layout\"</p>\n<img src=\"https://nitter.net/pic/media%2FHMOtqQaa8AAZeV7.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMOtqe9acAAYZ7q.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: #IndiaJapanSummit | India, Japan Expand Defence Cooperation at Landmark Bilateral Summit India and Japan have officially entered a new phase of defence cooperation following the landmark bilateral summit in New Delhi. Prime Minister Narendra Modi and Prime Minister Sanae Takaichi have solidified a strategic roadmap that prioritizes joint development of military hardware and enhanced maritime security @sidhant shares more details @ModJapan_en | @JPN_PMO | @IndianEmbTokyo #indiajapansummit #indiajapanannualsummit #sanaetakaichi",
+      "link": "https://nitter.net/WIONews/status/2072687194637254995#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-02T19:51:50+05:30",
+      "time": "02 Jul, 07:51 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaJapanSummit\">#IndiaJapanSummit</a> | India, Japan Expand Defence Cooperation at Landmark Bilateral Summit<br />\n<br />\nIndia and Japan have officially entered a new phase of defence cooperation following the landmark bilateral summit in New Delhi. Prime Minister Narendra Modi and Prime Minister Sanae Takaichi have solidified a strategic roadmap that prioritizes joint development of military hardware and enhanced maritime security<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> shares more details <br />\n<br />\n<a href=\"https://nitter.net/ModJapan_en\" title=\"Japan Ministry of Defense/Self-Defense Forces\">@ModJapan_en</a> | <a href=\"https://nitter.net/JPN_PMO\" title=\"PM's Office of Japan\">@JPN_PMO</a> | <a href=\"https://nitter.net/IndianEmbTokyo\" title=\"\u30a4\u30f3\u30c9\u5927\u4f7f\u9928 || India in Japan \ud83c\uddee\ud83c\uddf3\">@IndianEmbTokyo</a><br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23indiajapansummit\">#indiajapansummit</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23indiajapanannualsummit\">#indiajapanannualsummit</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23sanaetakaichi\">#sanaetakaichi</a></p>\n<a href=\"https://nitter.net/WIONews/status/2072687194637254995#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072687107727052800%2Fimg%2FASousYP3QN1_mKOh.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "So Unicorn is happening",
+      "link": "https://nitter.net/alpha_defense/status/2072682363612783074#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-02T19:32:38+05:30",
+      "time": "02 Jul, 07:32 PM",
+      "type": "tweets",
+      "content": "<p>So Unicorn is happening</p>\n<img src=\"https://nitter.net/pic/media%2FHMOlnelbQAA9qYn.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Gods spotted wearing olive green in Venezuela! After Venezuela was hit by a disastrous earthquake, the Indian Army's 60th Para Field Hospital was deployed. A 79-year-old lady was taken out of the rubble of a collapsed building. She had a fractured leg and was suffering from peripheral arterial disease. Without medical attention, she was suffering from an arterial ulcer and intense pain. If the Indian Army had not intervened promptly, the lady would not have made it, but once you reached the Indian Army doctors, they pulled out miracles. The fracture was stabilised, and the army initiated advanced wound care. Not only this, the Indian Army team is actively doing daily follow-ups to ensure the speedy recovery of the lady.",
+      "link": "https://nitter.net/elitepredatorss/status/2072681709607514157#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-02T19:30:02+05:30",
+      "time": "02 Jul, 07:30 PM",
+      "type": "tweets",
+      "content": "<p>Gods spotted wearing olive green in Venezuela!<br />\n<br />\nAfter Venezuela was hit by a disastrous earthquake, the Indian Army's 60th Para Field Hospital was deployed.<br />\n<br />\nA 79-year-old lady was taken out of the rubble of a collapsed building. She had a fractured leg and was suffering from peripheral arterial disease.<br />\n<br />\nWithout medical attention, she was suffering from an arterial ulcer and intense pain.<br />\n<br />\nIf the Indian Army had not intervened promptly, the lady would not have made it, but once you reached the Indian Army doctors, they pulled out miracles.<br />\n<br />\nThe fracture was stabilised, and the army initiated advanced wound care. Not only this, the Indian Army team is actively doing daily follow-ups to ensure the speedy recovery of the lady.</p>\n<img src=\"https://nitter.net/pic/media%2FHMOcfyybwAAZR3j.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "I don't understand this, what is the problem with Rudra ? Can someone share Sikorsky UH-60 Black Hawk photograph to the gentleman and tell them that country also operates Apache. and this is fine ?",
+      "link": "https://nitter.net/alpha_defense/status/2072681096039497949#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-02T19:27:36+05:30",
+      "time": "02 Jul, 07:27 PM",
+      "type": "tweets",
+      "content": "<p>I don't understand this, what is the problem with Rudra ? Can someone share Sikorsky UH-60 Black Hawk photograph to the gentleman and tell them that country also operates Apache.<br />\n<br />\nand this is fine ?</p>\n<img src=\"https://nitter.net/pic/media%2FHMOkdYRb0AAntRq.jpg\" />\n\n<hr />\n<blockquote>\n<b>ghatak (@Neetivaan)</b>\n<p>\n<p>Why did you arm ALH saaaar?<br />\n<br />\nvery bad saaaaar \ud83d\ude2d\ud83d\ude02</p>\n<a href=\"https://nitter.net/Neetivaan/status/2072678144751112571#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072678081144524800%2Fimg%2FjO87vI0rkcKX9ODE.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Neetivaan/status/2072678144751112571#m\">https://nitter.net/Neetivaan/status/2072678144751112571#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
     {
       "title": "RT by @sidhant: #WIONDispatch | #IndiaJapanSummit | PM Modi, Takaichi hold key talks India, Japan adopt joint statement on AI, Japan reaffirms Make in India support @MollyGambhir and @sidhant have more details @ModJapan_en | @JPN_PMO | @IndianEmbTokyo",
       "link": "https://nitter.net/WIONews/status/2072675411746582759#m",
@@ -879,7 +1108,7 @@
       "sort_key": "2026-07-02T18:35:59+05:30",
       "time": "02 Jul, 06:35 PM",
       "type": "tweets",
-      "content": "<p>What will happen first</p>\n<hr />\n<b>Poll</b>\n<p>\n41% \u2014 Realistic QR from Forces<br />\n59% \u2014 AMCA First Flight<br />\n<i>404 votes \u2022 23 hours</i>\n</p>",
+      "content": "<p>What will happen first</p>\n<hr />\n<b>Poll</b>\n<p>\n39% \u2014 Realistic QR from Forces<br />\n61% \u2014 AMCA First Flight<br />\n<i>1,322 votes \u2022 19 hours</i>\n</p>",
       "author": "@alpha_defense"
     },
     {
@@ -930,126 +1159,6 @@
       "time": "02 Jul, 06:03 PM",
       "type": "tweets",
       "content": "<p>Indian Army field hospital treat 800 people in earthquake hit Venezuela.<br />\n<br />\n\"The team have carried out about 65 surgeries\", Indian military authorities say</p>\n<img src=\"https://nitter.net/pic/media%2FHMORJ0KbsAAfbgd.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMORJ0_bgAAP-9c.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMORJ4nbEAEntfG.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMORJ7WbUAAuGbc.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian Navy thwarts piracy attempt in Gulf of Aden https://www.wionews.com/india-news/indian-navy-thwarts-piracy-attempt-in-gulf-of-aden-1782987408163",
-      "link": "https://nitter.net/sidhant/status/2072659056385552682#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T18:00:01+05:30",
-      "time": "02 Jul, 06:00 PM",
-      "type": "tweets",
-      "content": "<p>Indian Navy thwarts piracy attempt in Gulf of Aden<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/indian-navy-thwarts-piracy-attempt-in-gulf-of-aden-1782987408163\">wionews.com/india-news/india\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/indian-navy-thwarts-piracy-attempt-in-gulf-of-aden-1782987408163\">\n<img src=\"https://nitter.net/pic/card_img%2F2072659048953176064%2Ft2NY-eMk%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Indian Navy thwarts piracy attempt in Gulf of Aden</b>\n</a>\n<p>INS Trikand foiled a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden after pirates tried to board the ship. Indian Navy MARCOS secured the vessel, ensured the safety of its...</p>\n<small><a href=\"https://www.wionews.com/india-news/indian-navy-thwarts-piracy-attempt-in-gulf-of-aden-1782987408163\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\"Importance of Quad, importance of cooperation in Indo Pacific was reaffirmed by\" Indian, Japan PMs says foreign secretary Misri",
-      "link": "https://nitter.net/sidhant/status/2072655156504842453#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:44:32+05:30",
-      "time": "02 Jul, 05:44 PM",
-      "type": "tweets",
-      "content": "<p>\"Importance of Quad, importance of cooperation in Indo Pacific was reaffirmed by\" Indian, Japan PMs says foreign secretary Misri</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian Navy Ship Trikand, MV Golden Arsenal that was secured by Indian Navy MARCOS (Marine Commandos) in Gulf of Aden",
-      "link": "https://nitter.net/sidhant/status/2072653893830676949#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:39:30+05:30",
-      "time": "02 Jul, 05:39 PM",
-      "type": "tweets",
-      "content": "<p>Indian Navy Ship Trikand, MV Golden Arsenal that was secured by Indian Navy MARCOS (Marine Commandos) in Gulf of Aden</p>\n<img src=\"https://nitter.net/pic/media%2FHMOLuONawAA2Rnp.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian Navy Ship Trikand responds to piracy attempt on MV Golden Arsenal in gulf of Aden. Secures the vessel, crew. An Indian Navy P-8I Maritime Patrol Aircraft was deployed to undertake aerial surveillance and reconnaissance in the area.",
-      "link": "https://nitter.net/sidhant/status/2072652970844660027#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:35:50+05:30",
-      "time": "02 Jul, 05:35 PM",
-      "type": "tweets",
-      "content": "<p>Indian Navy Ship Trikand responds to piracy attempt on MV Golden Arsenal in gulf of Aden. Secures the vessel, crew.<br />\n<br />\nAn Indian Navy P-8I Maritime Patrol Aircraft was deployed to undertake aerial surveillance and reconnaissance in the area.</p>\n<img src=\"https://nitter.net/pic/media%2FHMOK4gpbcAElfkx.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMOK4gmbUAEu_Za.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMOK4hRbkAA05Wa.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMOK4h9aAAADFP4.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: The demolition of the 125-year-old Gurdwara Singh Sabha Lehar near Gurdwara Sri Sacha Sauda in Pakistan, raises troubling questions: Who authorized it? Why was the historic site not protected? And who stands to benefit from the land? Can a minister\u2019s visit after the demolition really protect Sikh heritage in Pakistan? Had stringent action been taken earlier against land grabbers occupying properties attached to Sikh and Hindu shrines, perhaps no one would have dared to demolish this historic structure. Pakistan must move beyond symbolic visits and official assurances. It needs a transparent investigation, restoration of the site and exemplary punishment for those responsible. The larger question remains: Will Sikh heritage be protected on the ground or merely celebrated in official statements? watch my #Vlog",
-      "link": "https://nitter.net/rsrobin1/status/2072652781438263482#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:35:05+05:30",
-      "time": "02 Jul, 05:35 PM",
-      "type": "tweets",
-      "content": "<p>The demolition of the 125-year-old Gurdwara Singh Sabha Lehar near Gurdwara Sri Sacha Sauda in Pakistan, raises troubling questions: Who authorized it? Why was the historic site not protected? And who stands to benefit from the land?<br />\n<br />\nCan a minister\u2019s visit after the demolition really protect Sikh heritage in Pakistan?<br />\n<br />\nHad stringent action been taken earlier against land grabbers occupying properties attached to Sikh and Hindu shrines, perhaps no one would have dared to demolish this historic structure.<br />\n<br />\nPakistan must move beyond symbolic visits and official assurances. It needs a transparent investigation, restoration of the site and exemplary punishment for those responsible.<br />\n<br />\nThe larger question remains: Will Sikh heritage be protected on the ground or merely celebrated in official statements? watch my <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Vlog\">#Vlog</a></p>\n<a href=\"https://nitter.net/rsrobin1/status/2072652781438263482#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072647973876768768%2Fimg%2FSfSjqaMouqoSSMzm.jpg\" />\n</a>",
-      "author": "@rsrobin1"
-    },
-    {
-      "title": "First picture: Indian Navy MARCOS commandos after securing vessel MV Golden Arsenal, crew & thwarting piracy bid in gulf of Aden.",
-      "link": "https://nitter.net/sidhant/status/2072652243321712723#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:32:57+05:30",
-      "time": "02 Jul, 05:32 PM",
-      "type": "tweets",
-      "content": "<p>First picture:<br />\n<br />\nIndian Navy MARCOS commandos after securing vessel MV Golden Arsenal, crew &amp; thwarting piracy bid in gulf of Aden.</p>\n<img src=\"https://nitter.net/pic/media%2FHMOKOeCawAEDCGc.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\"Looking forward to growing cooperation\", Foreign Secretary Vikram Misri on India, Japan defence cooperation.",
-      "link": "https://nitter.net/sidhant/status/2072651308239306971#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:29:14+05:30",
-      "time": "02 Jul, 05:29 PM",
-      "type": "tweets",
-      "content": "<p>\"Looking forward to growing cooperation\", Foreign Secretary Vikram Misri on India, Japan defence cooperation.</p>\n<a href=\"https://nitter.net/sidhant/status/2072651308239306971#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072651153209499648%2Fpu%2Fimg%2FTOAbEI_nFS1C2n2p.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi will host Japan PM Sanae Takaichi for a private dinner",
-      "link": "https://nitter.net/sidhant/status/2072648994153726046#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:20:02+05:30",
-      "time": "02 Jul, 05:20 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi will host Japan PM Sanae Takaichi for a private dinner</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Japan PM Sanae Takaichi has invited PM Modi to visit Japan next year for annual India, Japan summit: Foreign secretary Vikram Misri",
-      "link": "https://nitter.net/sidhant/status/2072647730288275496#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:15:01+05:30",
-      "time": "02 Jul, 05:15 PM",
-      "type": "tweets",
-      "content": "<p>Japan PM Sanae Takaichi has invited PM Modi to visit Japan next year for annual India, Japan summit: Foreign secretary Vikram Misri</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "On Energy cooperations, foreign secretary Vikram Misri says India, Japan had talks on stratgic stockpiling; Japan to help build 1000 biogas plants in India that will help in \"rural prosperity\"",
-      "link": "https://nitter.net/sidhant/status/2072647119706734869#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:12:35+05:30",
-      "time": "02 Jul, 05:12 PM",
-      "type": "tweets",
-      "content": "<p>On Energy cooperations, foreign secretary Vikram Misri says India, Japan had talks on stratgic stockpiling; Japan to help build 1000 biogas plants in India that will help in \"rural prosperity\"</p>\n<a href=\"https://nitter.net/sidhant/status/2072647119706734869#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072647042745466880%2Fpu%2Fimg%2Ff-Sl-IjyiXcuTusM.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Economic security is foundational pillar of ties says FS Misri on Japan, India PMs talks",
-      "link": "https://nitter.net/sidhant/status/2072646184410443903#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:08:52+05:30",
-      "time": "02 Jul, 05:08 PM",
-      "type": "tweets",
-      "content": "<p>Economic security is foundational pillar of ties says FS Misri on Japan, India PMs talks</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi, Japan PM Sanae Takaichi recalled Fmr Japan PM Shinzo Abe during engagements",
-      "link": "https://nitter.net/sidhant/status/2072646084577681820#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T17:08:29+05:30",
-      "time": "02 Jul, 05:08 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi, Japan PM Sanae Takaichi recalled Fmr Japan PM Shinzo Abe during engagements</p>\n<a href=\"https://nitter.net/sidhant/status/2072646084577681820#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072646012079140864%2Fpu%2Fimg%2FRQwlSmYvXnlJ2nMD.jpg\" />\n</a>",
       "author": "@sidhant"
     },
     {
@@ -1163,7 +1272,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "From Asim Munir's 'We're different from Hindus' - to - Attaullah Tarar's 'We're the people of the Indus Valley Civilization.' What a transformation.... \ud83d\ude02",
+      "title": "RT by @OsintTV: From Asim Munir's 'We're different from Hindus' - to - Attaullah Tarar's 'We're the people of the Indus Valley Civilization.' What a transformation.... \ud83d\ude02",
       "link": "https://nitter.net/OsintTV/status/2072617403922383119#m",
       "source": "Osint TV",
       "sort_key": "2026-07-02T15:14:31+05:30",
@@ -1231,16 +1340,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8Exclusive : \u201cPakistan Army handed guns to Kashmiris, On Day 24 of Rebellion, JAAC Leader Delivers Biggest Eyewitness Testimony on Pakistan's State-Sponsored Terror.\u201d<br />\n<br />\nOn Day 24 of the PoJK uprising, JAAC leader Sardar Aman Khan delivered one of the strongest public indictments yet of Pakistan\u2019s state-sponsored terror infrastructure before a gathering of over 80,000 people at Rawalakot Eidgah.<br />\n<br />\nHe declared: \u201cIt was the Pakistan Army itself that handed guns to Kashmiris. And today, they have the audacity to call us terrorists?\u201d<br />\n<br />\nKhan also exposed nexus between the Pakistani administration and terrorist organisations, recalling how the Deputy Commissioner of Rawalakot permitted and provided security to a Jaish-e-Mohammed event last year (5 Feb 2025) in which armed cadres marched through the city carrying AK-47s and swords.<br />\n<br />\nEvery statement by Aman Khan was met with loud applause from the 80,000-strong crowd.<br />\n<br />\nThe JAAC leadership concluded with a stark warning to Islamabad: accept and implement the movement\u2019s 38 demands through negotiations, or face a march of tens of thousands toward Muzaffarabad. They warned that if the march takes place, the movement\u2019s focus will shift from the 38 demands to demanding that Pakistan completely vacate PoJK.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoK\">#PoK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanOccupiedKashmir\">#PakistanOccupiedKashmir</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rawalakot\">#Rawalakot</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23JAAC\">#JAAC</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SardarAmanKhan\">#SardarAmanKhan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanArmy\">#PakistanArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Muzaffarabad\">#Muzaffarabad</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kashmir\">#Kashmir</a></p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2072602238036713866#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072601862071865344%2Fimg%2FeJoER0FZp4Yl3qsK.jpg\" />\n</a>",
       "author": "@shivank_8mishra"
-    },
-    {
-      "title": "\ud83d\udea8 A video circulating online reportedly shows rebels intercepted a vehicle in Quetta carrying food supplies allegedly bound for a Pak establishment controlled gas field through a private contractor. The group claims the supplies were seized and later distributed to local residents. Note: The video and the claim remain unverified through independent sources.",
-      "link": "https://nitter.net/OsintTV/status/2072599982851445126#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-02T14:05:17+05:30",
-      "time": "02 Jul, 02:05 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 A video circulating online reportedly shows rebels intercepted a vehicle in Quetta carrying food supplies allegedly bound for a Pak establishment controlled gas field through a private contractor.<br />\n<br />\nThe group claims the supplies were seized and later distributed to local residents.<br />\n<br />\nNote: The video and the claim remain unverified through independent sources.</p>\n<a href=\"https://nitter.net/OsintTV/status/2072599982851445126#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072599827821543424%2Fimg%2F4HcNHXkYnHst02Mk.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "RT by @alpha_defense: Low-RCS targets evade RF detection. They can't evade Trap1. Introducing the new-generation Trap1-128 \u2014 Tonbo\u2019s indigenous AI-enabled dual-band EO/IR stabilised seeker for precision strike with co-aligned visual + uncooled thermal imager LWIR sensors, employing special materials and coatings transparent to both spectral bands. It auto-recognizes targets, tracks them to impact, rejects flares, decoys, and is immune to jamming and spoofing. Fire and forget. Ideal for missiles, jet-powered munitions and glide bombs. #TonboImaging #AatmanirbharBharat #DefenceTech",
@@ -1553,26 +1652,6 @@
       "author": "@KangleipakDaily"
     },
     {
-      "title": "At the ceremonies at the National War Memorial and South Block lawns today, Army Chief General Dhiraj Seth was accompanied by his wife Mrs Komal Seth and two daughters including Arushi Talwar and Asmita Seth along with other relatives.",
-      "link": "https://nitter.net/alpha_defense/status/2072237265712226362#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T14:03:59+05:30",
-      "time": "01 Jul, 02:03 PM",
-      "type": "tweets",
-      "content": "<p>At the ceremonies at the National War Memorial and South Block lawns today, Army Chief General Dhiraj Seth was accompanied by his wife Mrs Komal Seth and two daughters including Arushi Talwar and Asmita Seth along with  other relatives.</p>\n<img src=\"https://nitter.net/pic/media%2FHMIQzOtbEAAapZ2.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMIQzP6a4AAIUx7.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "IIT-Delhi demonstrates indigenous low-cost tactical aerostat developed with DRDO and a startup Visuals of aerostat with camera deployment",
-      "link": "https://nitter.net/alpha_defense/status/2072231511726916094#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T13:41:07+05:30",
-      "time": "01 Jul, 01:41 PM",
-      "type": "tweets",
-      "content": "<p>IIT-Delhi demonstrates indigenous low-cost tactical aerostat developed with DRDO and a startup<br />\n<br />\nVisuals of aerostat with camera deployment</p>\n<a href=\"https://nitter.net/alpha_defense/status/2072231511726916094#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072218531601760256%2Fimg%2F6xEg5bPIIc9lNRxP.jpg\" />\n</a>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @OsintTV: ADC of Army Chief.\ud83e\udee1\ud83c\uddee\ud83c\uddf3",
       "link": "https://nitter.net/manishindiatv/status/2072229686508453944#m",
       "source": "Osint TV",
@@ -1623,16 +1702,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Air Marshal Ashutosh Dixit has taken over as the Vice Chief of Air Staff today. He inherits one of the most challenging phases in the Indian Air Force\u2019s recent history. Modernisation, force restructuring, capability gaps, and future acquisitions will all demand decisive leadership in the years ahead. This is why I consider this one of the most important appointments in the IAF today and I believe he is the right man for the job. I wish him every success and hope his tenure is remembered as the period that rebuilt the IAF\u2019s combat capability and helped reclaim its technological and operational edge. Glory to Hanuman !",
-      "link": "https://nitter.net/alpha_defense/status/2072211790981931324#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T12:22:45+05:30",
-      "time": "01 Jul, 12:22 PM",
-      "type": "tweets",
-      "content": "<p>Air Marshal Ashutosh Dixit has taken over as the Vice Chief of Air Staff today.<br />\n<br />\nHe inherits one of the most challenging phases in the Indian Air Force\u2019s recent history. Modernisation, force restructuring, capability gaps, and future acquisitions will all demand decisive leadership in the years ahead.<br />\n<br />\nThis is why I consider this one of the most important appointments in the IAF today and I believe he is the right man for the job.<br />\n<br />\nI wish him every success and hope his tenure is remembered as the period that rebuilt the IAF\u2019s combat capability and helped reclaim its technological and operational edge.<br />\n<br />\nGlory to Hanuman !</p>\n<img src=\"https://nitter.net/pic/media%2FHMH5o63bIAAfpmA.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @OsintTV: A country long criticized for failing to uphold UN counter terrorism obligations is now invoking international law when it suits its interests. Despite its obligations under UN Security Council counter terrorism resolutions, Pakistan has repeatedly been accused of allowing UN designated terrorist organizations, including Lashkar-e-Taiba and Jaish-e-Mohammed to operate from its territory. Just as a reminder, Osama bin Laden the founder of Al-Qaeda responsible for the September 11, 2001 terrorist attacks on WTC and then the world's most wanted terrorist was found living in Abbottabad, Pakistan less than a mile from the Pakistan Military Academy (PMA) at Kakul. Yet today, after India has put the Indus Waters Treaty (IWT) in abeyance. Pakistan has run to the very same international institutions and legal framework it has long been criticized for failing to uphold. International law cannot be invoked selectively.",
       "link": "https://nitter.net/Drishti_K47/status/2072208837936074970#m",
       "source": "Osint TV",
@@ -1653,16 +1722,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "The US Deputy Secretary of State just said it on Indian soil: \u201cWe won\u2019t make the same mistake with India that we made with China 20 years ago\u201d meaning they won\u2019t let us rise unchecked. If this doesn\u2019t wake India up as a nation, nothing will.",
-      "link": "https://nitter.net/alpha_defense/status/2072200105340616995#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T11:36:19+05:30",
-      "time": "01 Jul, 11:36 AM",
-      "type": "tweets",
-      "content": "<p>The US Deputy Secretary of State just said it on Indian soil: \u201cWe won\u2019t make the same mistake with India that we made with China 20 years ago\u201d meaning they won\u2019t let us rise unchecked.<br />\nIf this doesn\u2019t wake India up as a nation, nothing will.</p>\n<img src=\"https://nitter.net/pic/media%2FHMHvAq-bUAAtz0Y.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMHvArAasAAgOCJ.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "India would send a special delegation to attend the funeral ceremony of the former Iran Supreme Leader Ali Khamenei, PM Modi tells Iran's President Masoud Pezeshkian.",
       "link": "https://nitter.net/Goreunit/status/2072194682797625581#m",
       "source": "War & Gore",
@@ -1671,16 +1730,6 @@
       "type": "tweets",
       "content": "<p>India would send a special delegation to attend the funeral ceremony of the former Iran Supreme Leader Ali Khamenei, PM Modi tells Iran's President Masoud Pezeshkian.</p>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Legacy \ud83d\udd25",
-      "link": "https://nitter.net/alpha_defense/status/2072194562345611398#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T11:14:17+05:30",
-      "time": "01 Jul, 11:14 AM",
-      "type": "tweets",
-      "content": "<p>Legacy \ud83d\udd25</p>\n<hr />\n<blockquote>\n<b>ANI (@ANI)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WATCH\">#WATCH</a> | Delhi: Army Chief Gen Dhiraj Seth salutes his father Lt Gen KM Seth (retired) after receiving Guard of Honour as Chief of Army Staff.   <br />\n<br />\nHe was also saluted by his younger brother Rear Admiral Ravnish Seth.</p>\n<a href=\"https://nitter.net/ANI/status/2072170681954095209#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072170603248078848%2Fimg%2FkUtWosoCSLuyWuk5.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ANI/status/2072170681954095209#m\">https://nitter.net/ANI/status/2072170681954095209#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
     },
     {
       "title": "RT by @NetramDefence: Having personally known the officer, he\u2019s a true infantry leader, and a soldier\u2019s soldier. Indian armed forces stand tall on shoulders of such leaders who have displayed courage, foresight and indomitable spirit from a youngster to a General. His journey from a simple village boy to a Lt General is an inspiration for all, especially children of Punjab wanting to join forces. Best wishes, sir. You make us all proud \ud83e\udee1",
@@ -1703,26 +1752,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Did you know ? Back in the early 2000s, NMRL developed a Radar Absorbing Paint (RAP) for Indian Navy submarines. It was accepted for application on all snorkel masts and periscopes, delivering a 30\u201340% reduction in radar reflections during trials. Naval RAP are complicated given the nature of sea war & high sea.",
-      "link": "https://nitter.net/alpha_defense/status/2072141644908888100#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T07:44:01+05:30",
-      "time": "01 Jul, 07:44 AM",
-      "type": "tweets",
-      "content": "<p>Did you know ? Back in the early 2000s, NMRL developed a Radar Absorbing Paint (RAP) for Indian Navy submarines. It was accepted for application on all snorkel masts and periscopes, delivering a 30\u201340% reduction in radar reflections during trials.<br />\n<br />\nNaval RAP are complicated given the nature of sea war & high sea.</p>\n<img src=\"https://nitter.net/pic/media%2FHMG52FRWoAAWGF1.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "Glad we\u2019re discussing missile approach warning systems. You may want to take a closer look at what DRDO already has on the shelf. \ud83d\ude09 DRDO DC MAWS POD",
-      "link": "https://nitter.net/alpha_defense/status/2072060309129539958#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T02:20:49+05:30",
-      "time": "01 Jul, 02:20 AM",
-      "type": "tweets",
-      "content": "<p>Glad we\u2019re discussing missile approach warning systems. You may want to take a closer look at what DRDO already has on the shelf. \ud83d\ude09<br />\n<br />\nDRDO DC MAWS POD</p>\n<img src=\"https://nitter.net/pic/media%2FHMFv3l2bgAAItO1.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: 30th Jun 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf Iran\u2019s Foreign Minister and his French counterpart Jean-No\u00ebl Barrot discussed regional and international developments in light of the Islamabad MoU. \u25cf Iran\u2019s Foreign Ministry stated that there will be no negotiation meetings with the US in the coming days. \u25cf US forces maintained air cover to protect vessels in the Strait of Hormuz. The oil tanker KOHZAN MARU V was observed transiting the corridor under heavy escort. \u25cf Iran will receive $3 billion of its frozen assets by the end of the week, while US and Iranian delegations are set to hold indirect talks in Qatar on Wednesday. \u25cf Oman has proposed a plan under which Tehran and Muscat would collect payments from ships passing through the Strait of Hormuz. END OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2072043866073780228#m",
       "source": "Netram Defense",
@@ -1731,16 +1760,6 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief:<br />\n30th Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n <br />\n\u25cf Iran\u2019s Foreign Minister and his French counterpart Jean-No\u00ebl Barrot discussed regional and international developments in light of the Islamabad MoU.<br />\n<br />\n\u25cf Iran\u2019s Foreign Ministry stated that there will be no negotiation meetings with the US in the coming days.<br />\n<br />\n\u25cf US forces maintained air cover to protect vessels in the Strait of Hormuz. The oil tanker KOHZAN MARU V was observed transiting the corridor under heavy escort.<br />\n<br />\n\u25cf Iran will receive $3 billion of its frozen assets by the end of the week, while US and Iranian delegations are set to hold indirect talks in Qatar on Wednesday.<br />\n<br />\n\u25cf Oman has proposed a plan under which Tehran and Muscat would collect payments from ships passing through the Strait of Hormuz.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHMFg56Qb0AAMYKT.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n29th Jun 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n <br />\n\u25cf Following intense airstrikes the previous day, US officials confirmed that Washington and Tehran have agreed to immediately pause reciprocal airstrikes.<br />\n<br />\n\u25cf Iran and Oman held their first joint Hormuz committee meeting to advance implementation of the recent MoU, focusing on coordinated navigation and maritime services.<br />\n<br />\n\u25cf The IDF struck 3 Hezbollah command centers in the areas of Nabatieh and Mayfadoun in southern Lebanon, in response to ceasefire violations.<br />\n<br />\n\u25cf The Wall Street Journal reported that rebuilding the US naval base in Bahrain will cost approximately $400 million.<br />\n<br />\n\u25cf Oman stated that any agreement on the Strait of Hormuz must remain within the framework of international law and does not support imposing tolls for crossing the strait.<br />\n<br />\n\u25cf Iranian and US technical teams are scheduled to meet in Doha in the coming days to work on implementing the agreement between Tehran and Washington.<br />\n<br />\n\u25cf The first of a group of Saudi supertankers has exited the Strait of Hormuz and is now in the Gulf of Oman en route to Japan. The VLCC Zaynah exited in dark mode.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHMBAHeWakAAblZR.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2071726469240553519#m\">https://nitter.net/NetramDefence/status/2071726469240553519#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Wait Pakistan has changed its national bird and I missed it. PS: I have stopped following Pakistan as it has become boring but this is interesting \ud83e\uddd0",
-      "link": "https://nitter.net/alpha_defense/status/2072040684031447143#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T01:02:50+05:30",
-      "time": "01 Jul, 01:02 AM",
-      "type": "tweets",
-      "content": "<p>Wait Pakistan has changed its national bird and I missed it.<br />\n<br />\nPS: I have stopped following Pakistan as it has become boring but this is interesting \ud83e\uddd0</p>\n<hr />\n<blockquote>\n<b>ConflictX (@ConflictXtweets)</b>\n<p>\n<p>\ud83c\udde6\ud83c\uddeb\ud83c\uddf5\ud83c\uddf0 More footages from Saranan area of Afghan drones striking Pakistan. Multiple casualties reported .</p>\n<a href=\"https://nitter.net/ConflictXtweets/status/2072037897226883304#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072037865937342464%2Fpu%2Fimg%2FJJpJu_EjgZ7p3J3a.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ConflictXtweets/status/2072037897226883304#m\">https://nitter.net/ConflictXtweets/status/2072037897226883304#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
     },
     {
       "title": "\ud83d\udea8Afghanistan continues drone strikes inside Pakistan\ud83c\uddf5\ud83c\uddf0. Multiple casualties reported on the Pakistani side.",
@@ -1821,71 +1840,38 @@
       "type": "tweets",
       "content": "<p>Keep an eye on the Pak Afghan border .....!</p>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @OsintTV: Someone standing in US said, that we'll launch the missiles if India shut down our water, now they are launching the dossiers. WHATT A LOSER!!",
-      "link": "https://nitter.net/DesiEsco7/status/2072014797332414757#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-30T23:19:58+05:30",
-      "time": "30 Jun, 11:19 PM",
-      "type": "tweets",
-      "content": "<p>Someone standing in US said, that we'll launch the missiles if India shut down our water, now they are launching the dossiers. WHATT A LOSER!!</p>\n<img src=\"https://nitter.net/pic/media%2FHMFGeJEbkAAXCvY.jpg\" />\n\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>You treated our dossiers like trash.....<br />\nNow your dossiers belong in the toilet....</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2071991006828896347#m\">https://nitter.net/OsintTV/status/2071991006828896347#m</a>\n</footer>\n</blockquote>",
-      "author": "@DesiEsco7"
-    },
-    {
-      "title": "RT by @OsintTV: Multiple Pakistan Army infantry battalions being shifted from LoC, Punjab and Sindh areas to disputed Durand line with Afghanistan. Army aviation units also on the move.",
-      "link": "https://nitter.net/TheLegateIN/status/2072008178393649464#m",
-      "source": "Osint TV",
-      "sort_key": "2026-06-30T22:53:40+05:30",
-      "time": "30 Jun, 10:53 PM",
-      "type": "tweets",
-      "content": "<p>Multiple Pakistan Army infantry battalions being shifted from LoC, Punjab and Sindh areas to disputed Durand line with Afghanistan.<br />\nArmy aviation units also on the move.</p>",
-      "author": "@TheLegateIN"
-    },
-    {
-      "title": "HAL and #DRDO's RCI have partnered to indigenise Servo Valve manufacturing through a ToT agreement. The move enables domestic production of a critical flight control subsystem for the LCA programme while creating long-term mfg capability fr future helos through RCI's GOCO model.",
-      "link": "https://nitter.net/DefenceDecode/status/2071999546893422657#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-06-30T22:19:22+05:30",
-      "time": "30 Jun, 10:19 PM",
-      "type": "tweets",
-      "content": "<p>HAL and <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DRDO\">#DRDO</a>'s RCI have partnered to indigenise Servo Valve manufacturing through a ToT agreement.<br />\n<br />\nThe move enables domestic production of a critical flight control subsystem for the LCA programme while creating long-term mfg capability fr future helos through RCI's GOCO model.</p>\n<img src=\"https://nitter.net/pic/media%2FHME4U3TbgAA43H2.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "Mahesh Dixit, IPS (AP:93), has assumed office as the Director of the Indian Intelligence Bureau. Prior to this, he was serving as Special Director in the Intelligence Bureau.",
-      "link": "https://nitter.net/Goreunit/status/2071995917893599516#m",
-      "source": "War & Gore",
-      "sort_key": "2026-06-30T22:04:57+05:30",
-      "time": "30 Jun, 10:04 PM",
-      "type": "tweets",
-      "content": "<p>Mahesh Dixit, IPS (AP:93), has assumed office as the Director of the Indian Intelligence Bureau.<br />\nPrior to this, he was serving as Special Director in the Intelligence Bureau.</p>\n<img src=\"https://nitter.net/pic/media%2FHME1TZNaUAI4PIz.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Boeing is cooking !",
-      "link": "https://nitter.net/elitepredatorss/status/2071995175535022340#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-30T22:02:00+05:30",
-      "time": "30 Jun, 10:02 PM",
-      "type": "tweets",
-      "content": "<p>Boeing is cooking !</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2071995175535022340#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071959366014566400%2Fimg%2Fs0RQl0mhfB82LA7o.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "We need to beef up air defence and overall security for our hydro projects at lightning-fast speed.",
-      "link": "https://nitter.net/elitepredatorss/status/2071972031625576690#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-06-30T20:30:02+05:30",
-      "time": "30 Jun, 08:30 PM",
-      "type": "tweets",
-      "content": "<p>We need to beef up air defence and overall security for our hydro projects at lightning-fast speed.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2071972031625576690#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071940323522060288%2Fimg%2FKcXDa1hSxTTNUBiu.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
     {
-      "title": "Indian Defence Updates : Su-57 Full Access,Saudi Brahmos Red Flag,Tejas Twin-ASRAAM,WRATH Launcher",
+      "title": "Defence Updates - China New Base Construction, Indian Army Using China Anti Drone Gun, India-Japan",
+      "link": "https://www.youtube.com/watch?v=__Lmb1p6Z9U",
+      "source": "Defense Squad",
+      "sort_key": "2026-07-02T21:59:12+05:30",
+      "time": "02 Jul, 09:59 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/__Lmb1p6Z9U/mqdefault.jpg"
+    },
+    {
+      "title": "Pakistan Ka Nuclear Warning!,Tejas WVR MIssile Double,Super Sukhoi Upgrade Confirm",
+      "link": "https://www.youtube.com/watch?v=MulW29ogrzU",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-02T21:00:05+05:30",
+      "time": "02 Jul, 09:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/MulW29ogrzU/mqdefault.jpg"
+    },
+    {
+      "title": "India\u2019s Engine Tech Beats Russians",
+      "link": "https://www.youtube.com/watch?v=VYS4rXIUcxE",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-07-02T20:42:47+05:30",
+      "time": "02 Jul, 08:42 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/VYS4rXIUcxE/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Saudi-PAK Brahmos,Su-57 India Full Access,Tejas Twin-ASRAAM,Wrath Launcher",
       "link": "https://www.youtube.com/watch?v=p7Lwd_B0j6o",
       "source": "Indian Defence Updates",
       "sort_key": "2026-07-02T16:45:06+05:30",
@@ -1919,18 +1905,9 @@
       "time": "01 Jul, 06:00 AM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/5Ls_uoPNq8k/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - PoK Break Crisis, IAF Military Lab, PAK Warning To India",
-      "link": "https://www.youtube.com/watch?v=0-t_HU5J_PU",
-      "source": "Defense Squad",
-      "sort_key": "2026-06-30T21:35:52+05:30",
-      "time": "30 Jun, 09:35 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/0-t_HU5J_PU/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "07:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
