@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Tharoor recalls past security concerns amid Adani\u2019s proposed MSC stake transfer",
+      "link": "https://www.tribuneindia.com/news/india/tharoor-recalls-past-security-concerns-amid-adanis-proposed-msc-stake-transfer",
+      "source": "The Tribune",
+      "sort_key": "2026-07-03T14:55:56+05:30",
+      "time": "03 Jul, 02:55 PM",
+      "type": "news",
+      "description": "Amid controversy over the proposed selling of 49 per cent stakes in the Adani Vizhinjam Port Private Limited (AVPPL), the concessionaire of the port, ..."
+    },
+    {
       "title": "Venezuela declares seven-day national mourning as Earthquake death toll rises to 2,595",
       "link": "https://newsonair.gov.in/venezuela-seclares-seven-day-national-mourning-as-earthquake-death-toll-rises-to-2595/",
       "source": "All India Radio",
@@ -152,15 +161,6 @@
       "time": "03 Jul, 10:57 AM",
       "type": "news",
       "description": "Deputy Inspector General of Police Shridhar Patil reviewed security arrangements, preparedness and coordination among security agencies deployed for t..."
-    },
-    {
-      "title": "Mojtaba Khamenei to skip father Ali Khamenei's funeral due to Israeli threats, security risks",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/03/mojtaba-khamenei-to-skip-father-ali-khameneis-funeral-due-to-israeli-threats-security-risks",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-03T10:37:48+05:30",
-      "time": "03 Jul, 10:37 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Six CRPF personnel injured in accident in Jammu and Kashmir's Ganderbal",
@@ -773,81 +773,29 @@
       "time": "01 Jul, 03:43 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "US Supreme Court ruling on birthright citizenship: What it means for Indian families",
-      "link": "https://indianexpress.com/article/world/us-news/us-birthright-citizenship-ruling-indian-h1b-families-explained-10766202/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-01T15:19:53+05:30",
-      "time": "01 Jul, 03:19 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "On first day as Army Chief, General Dhiraj Seth lays out his VIJAY priorities",
-      "link": "https://theprint.in/defence/on-first-day-as-army-chief-general-dhiraj-seth-lays-out-his-vijay-priorities/2974636/",
-      "source": "The Print",
-      "sort_key": "2026-07-01T15:16:26+05:30",
-      "time": "01 Jul, 03:16 PM",
-      "type": "news",
-      "description": "New Army Chief said that to respond effectively to the evolving security environment, modernisation of the force with renewed energy and firm resolve ..."
-    },
-    {
-      "title": "IIT Delhi, DRDO develop tactical aerostat capable of carrying payloads up to 20 km",
-      "link": "https://economictimes.indiatimes.com/news/defence/iit-delhi-drdo-develop-tactical-aerostat-capable-of-carrying-payloads-up-to-20-km/articleshow/132111446.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-01T15:07:53+05:30",
-      "time": "01 Jul, 03:07 PM",
-      "type": "news",
-      "description": "The Indian Institute of Technology (IIT) Delhi on Wednesday demonstrated an indigenously developed low-cost tactical aerostat built in collaboration w..."
-    },
-    {
-      "title": "India Should Stop Panicking About Trump",
-      "link": "https://foreignpolicy.com/2026/07/01/india-trump-modi-united-states-china-geopolitics-brics-quad/",
-      "source": "Foreign Policy",
-      "sort_key": "2026-07-01T14:56:05+05:30",
-      "time": "01 Jul, 02:56 PM",
-      "type": "news",
-      "description": "The emotionalism in Indian politics obscures the strategic logic of U.S.-India ties."
-    },
-    {
-      "title": "New Army Chief Gen Dhiraj Seth outlines 'VIJAY' roadmap for future-ready force",
-      "link": "https://economictimes.indiatimes.com/news/defence/new-army-chief-gen-dhiraj-seth-outlines-vijay-roadmap-for-future-ready-force/videoshow/132111050.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-01T14:46:37+05:30",
-      "time": "01 Jul, 02:46 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Chhattisgarh : AI-assisted Audit Uncovers Rs 2 Crore Salary Fraud In Bastar",
-      "link": "https://www.deccanchronicle.com/nation/crime/chhattisgarh-ai-assisted-audit-uncovers-rs-2-crore-salary-fraud-in-bastar-1967558",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-01T14:36:58+05:30",
-      "time": "01 Jul, 02:36 PM",
-      "type": "news",
-      "description": "Three cops held for allegedly fraudulently inflating salaries around Rs 2 crore."
-    },
-    {
-      "title": "Trump reports $2.3 billion income, India deals yield over $10 million",
-      "link": "https://indianexpress.com/article/world/donald-trump-asset-fling-crypto-india-real-estate-billions-income-10766073/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-01T14:28:30+05:30",
-      "time": "01 Jul, 02:28 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Air Marshal Ashutosh Dixit takes charge as new Vice Chief of Indian Air Force",
-      "link": "https://economictimes.indiatimes.com/news/defence/air-marshal-ashutosh-dixit-takes-charge-as-new-vice-chief-of-indian-air-force/articleshow/132110589.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-01T14:24:04+05:30",
-      "time": "01 Jul, 02:24 PM",
-      "type": "news",
-      "description": "Air Marshal Ashutosh Dixit has assumed the role of Vice Chief of the Air Staff, succeeding Air Marshal Nagesh Kapoor. A distinguished officer with ext..."
     }
   ],
   "tweets": [
+    {
+      "title": "\u20b95,000 Crore Defence Procurement Set for DAC Approval Defence Acquisition Council (DAC) is expected to clear major procurement proposals worth nearly \u20b95,000 crore, aimed at boosting the armed forces' combat capabilities and indigenous defence production. Key proposals include: \ud83d\udd39 600 HAMMER precision-guided munitions for the IAF's Rafale, Tejas, and Navy's Rafale Marine fighters \ud83d\udd39 100 MP-ATGM launchers, 2,300 indigenous anti-tank missiles, and 5 simulators for the Indian Army \ud83d\udd39 Verba V-SHORADS for Army Air Defence \ud83d\udd39 High-altitude pseudo satellites, kamikaze drones, drone detection systems, software-defined radios, and Scorpene submarine upgrades The meeting marks the first DAC session with the new military leadership and is expected to further accelerate India's defence modernisation and Make in India initiatives.",
+      "link": "https://nitter.net/NetramDefence/status/2072979103519760837#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-03T15:11:47+05:30",
+      "time": "03 Jul, 03:11 PM",
+      "type": "tweets",
+      "content": "<p>\u20b95,000 Crore Defence Procurement Set for DAC Approval<br />\n<br />\nDefence Acquisition Council (DAC) is expected to clear major procurement proposals worth nearly \u20b95,000 crore, aimed at boosting the armed forces' combat capabilities and indigenous defence production.<br />\n<br />\nKey proposals include:<br />\n<br />\n\ud83d\udd39 600 HAMMER precision-guided munitions for the IAF's Rafale, Tejas, and Navy's Rafale Marine fighters<br />\n\ud83d\udd39 100 MP-ATGM launchers, 2,300 indigenous anti-tank missiles, and 5 simulators for the Indian Army<br />\n\ud83d\udd39 Verba V-SHORADS for Army Air Defence<br />\n\ud83d\udd39 High-altitude pseudo satellites, kamikaze drones, drone detection systems, software-defined radios, and Scorpene submarine upgrades<br />\n<br />\nThe meeting marks the first DAC session with the new military leadership and is expected to further accelerate India's defence modernisation and Make in India initiatives.</p>\n<img src=\"https://nitter.net/pic/media%2FHMSzfX7acAAEtMv.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Afghan forces are reportedly seen conducting preparations in certain areas of Afghanistan. Details on location and purpose are not confirmed....",
+      "link": "https://nitter.net/OsintTV/status/2072970629934891026#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-03T14:38:06+05:30",
+      "time": "03 Jul, 02:38 PM",
+      "type": "tweets",
+      "content": "<p>Afghan forces are reportedly seen conducting preparations in certain areas of Afghanistan. Details on location and purpose are not confirmed....</p>\n<a href=\"https://nitter.net/OsintTV/status/2072970629934891026#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072970497394933761%2Fimg%2FbToNSp5LtPgPURYU.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
     {
       "title": "DAC meeting over ! What happened to K9 vajra ?",
       "link": "https://nitter.net/alpha_defense/status/2072960213179838527#m",
@@ -1295,7 +1243,7 @@
       "sort_key": "2026-07-02T18:35:59+05:30",
       "time": "02 Jul, 06:35 PM",
       "type": "tweets",
-      "content": "<p>What will happen first</p>\n<hr />\n<b>Poll</b>\n<p>\n39% \u2014 Realistic QR from Forces<br />\n61% \u2014 AMCA First Flight<br />\n<i>1,631 votes \u2022 4 hours</i>\n</p>",
+      "content": "<p>What will happen first</p>\n<hr />\n<b>Poll</b>\n<p>\n39% \u2014 Realistic QR from Forces<br />\n61% \u2014 AMCA First Flight<br />\n<i>1,648 votes \u2022 3 hours</i>\n</p>",
       "author": "@alpha_defense"
     },
     {
@@ -1777,16 +1725,6 @@
       "type": "tweets",
       "content": "<p>India \ud83c\uddee\ud83c\uddf3 is destroying our agriculture and threatening human lives.<br />\n<br />\nSindh has been hit the hardest.<br />\n<br />\nPakistan is facing such a severe water shortage that irrigation for Sindh's Kharif crops including cotton.<br />\n<br />\nTomatoes, and sugarcane was already down by 40% before June.<br />\n<br />\nAnd by the second week of June, the shortfall had risen to 50%,<br />\n<br />\n\u2022 Shehla Raza.</p>\n<a href=\"https://nitter.net/burhan_uddin_0/status/2072263504741167508#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072263322750406656%2Fpu%2Fimg%2FLdIeekaJjjsT_wmN.jpg\" />\n</a>",
       "author": "@burhan_uddin_0"
-    },
-    {
-      "title": "RT by @NetramDefence: 2 militants belonging to a proscribed outfit & a juvenile have been apprehended for hurling hand grenades at houses in Brahmapur, Imphal East. Arrests were made in Sawombung following an investigation into an FIR registered at Porompat Police Station.",
-      "link": "https://nitter.net/KangleipakDaily/status/2072256434721731059#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-01T15:20:09+05:30",
-      "time": "01 Jul, 03:20 PM",
-      "type": "tweets",
-      "content": "<p>2 militants belonging to a proscribed outfit &amp; a juvenile have been apprehended for hurling hand grenades at houses in Brahmapur, Imphal East.<br />\n<br />\nArrests were made in Sawombung following an investigation into an FIR registered at Porompat Police Station.</p>\n<img src=\"https://nitter.net/pic/media%2FHMIiPPYaYAAduEW.jpg\" />",
-      "author": "@KangleipakDaily"
     }
   ],
   "youtube": [
@@ -1846,6 +1784,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
