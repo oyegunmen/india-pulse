@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "DIG reviews security, coordination among security agencies for Amarnath Yatra in Jammu",
+      "link": "https://www.tribuneindia.com/news/j-k/dig-reviews-security-coordination-among-security-agencies-for-amarnath-yatra-in-jammu",
+      "source": "The Tribune",
+      "sort_key": "2026-07-03T10:57:45+05:30",
+      "time": "03 Jul, 10:57 AM",
+      "type": "news",
+      "description": "Deputy Inspector General of Police Shridhar Patil reviewed security arrangements, preparedness and coordination among security agencies deployed for t..."
+    },
+    {
+      "title": "Mojtaba Khamenei to skip father Ali Khamenei's funeral due to Israeli threats, security risks",
+      "link": "https://www.newindianexpress.com/world/2026/Jul/03/mojtaba-khamenei-to-skip-father-ali-khameneis-funeral-due-to-israeli-threats-security-risks",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-03T10:37:48+05:30",
+      "time": "03 Jul, 10:37 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Six CRPF personnel injured in accident in Jammu and Kashmir's Ganderbal",
+      "link": "https://economictimes.indiatimes.com/news/defence/six-crpf-personnel-injured-in-accident-in-jammu-and-kashmirs-ganderbal/articleshow/132152737.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-03T10:23:49+05:30",
+      "time": "03 Jul, 10:23 AM",
+      "type": "news",
+      "description": "Tragedy struck near the Sonamarg tunnel in Ganderbal, Jammu and Kashmir, as a CRPF vehicle veered off the road, resulting in injuries to six personnel..."
+    },
+    {
+      "title": "MoCA, AAI to extend complete support for flight testing, airspace needs of India's fifth-generation fighter aircraft programme",
+      "link": "https://economictimes.indiatimes.com/news/defence/moca-aai-to-extend-complete-support-for-flight-testing-airspace-needs-of-indias-fifth-generation-fighter-aircraft-programme/articleshow/132152266.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-03T09:47:36+05:30",
+      "time": "03 Jul, 09:47 AM",
+      "type": "news",
+      "description": "India's fifth-generation fighter jet program, the Advanced Medium Combat Aircraft (AMCA), is receiving backing from the Civil Aviation Ministry and Ai..."
+    },
+    {
+      "title": "Ex-paramilitary forum seeks review of CAPF Bill, alleges surveillance of members",
+      "link": "https://www.tribuneindia.com/news/india/ex-paramilitary-personnel-forum-demands-rethink-on-capf-bill-alleges-surveillance-against-members",
+      "source": "The Tribune",
+      "sort_key": "2026-07-03T09:24:35+05:30",
+      "time": "03 Jul, 09:24 AM",
+      "type": "news",
+      "description": "The Alliance of All Ex-Paramilitary Forces Welfare Association (AAPFWA) on Thursday criticised the suspension of a Deputy Inspector General (DIG) and ..."
+    },
+    {
       "title": "Nine killed & 20 injured in cafe blast in Damascus, Syria",
       "link": "https://newsonair.gov.in/nine-killed-20-injured-in-cafe-blast-in-damascus-syria/",
       "source": "All India Radio",
@@ -10,6 +55,15 @@
       "description": "In Syria, an explosive device detonated in a Damascus cafe yesterday, killing at least nine people. The Interior Ministry reported the device was plan..."
     },
     {
+      "title": "Tibetan protester dies after setting himself on fire outside UN headquarters in New York City: Report",
+      "link": "https://www.tribuneindia.com/news/usa-news/tibetan-protester-dies-after-setting-himself-on-fire-outside-un-headquarters-in-new-york-city-report",
+      "source": "The Tribune",
+      "sort_key": "2026-07-03T08:47:55+05:30",
+      "time": "03 Jul, 08:47 AM",
+      "type": "news",
+      "description": "A 42-year-old Tibetan man, Lobga Rangzen, died after setting himself on fire outside the United Nations headquarters in New York in an apparent protes..."
+    },
+    {
       "title": "Iran\u2019s Supreme Leader Mojtaba Khamenei to skip former Supreme Leader Ali Khamenei\u2019s funeral over security concerns",
       "link": "https://newsonair.gov.in/irans-supreme-leader-mojtaba-khamenei-to-skip-former-supreme-leader-ali-khameneis-funeral-over-security-concerns/",
       "source": "All India Radio",
@@ -17,15 +71,6 @@
       "time": "03 Jul, 08:12 AM",
       "type": "news",
       "description": "Iran&#8217;s Supreme Leader, Mojtaba Khamenei, will not attend the funeral of his father, former Supreme Leader Ali Khamenei, due to security concerns..."
-    },
-    {
-      "title": "FIFA World Cup 2026 Live: Switzerland Lead Algeria 1-0 at Vancouver",
-      "link": "https://www.deccanchronicle.com/fifa-world-cup-2026/fifa-world-cup-2026-switzerland-vs-algeria-at-vancouver-1968001",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-03T08:11:07+05:30",
-      "time": "03 Jul, 08:11 AM",
-      "type": "news",
-      "description": "The winner of this knockout encounter will advance to face the victor of the Colombia vs Ghana Round of 32 match in the Round of 16."
     },
     {
       "title": "ISI-backed module busted, terror plans averted in NCR",
@@ -782,36 +827,29 @@
       "time": "01 Jul, 11:31 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Afghanistan claims airstrikes; Pakistan claims drones shot down",
-      "link": "https://theprint.in/world/afghanistan-says-airstrikes-launched-on-pakistan-islamabad-says-drones-shot-down/2974426/",
-      "source": "The Print",
-      "sort_key": "2026-07-01T11:00:03+05:30",
-      "time": "01 Jul, 11:00 AM",
-      "type": "news",
-      "description": "Afghanistan's Taliban said they launched airstrikes into Pakistani, while Islamabad said its forces had intercepted and shot down four rudimentary dro..."
-    },
-    {
-      "title": "Talks in Qatar after US-Iran deal: What we know",
-      "link": "https://economictimes.indiatimes.com/news/defence/talks-in-qatar-after-us-iran-deal-what-we-know/articleshow/132106435.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-01T10:38:43+05:30",
-      "time": "01 Jul, 10:38 AM",
-      "type": "news",
-      "description": "Iran said it would meet with Qatari mediators on Wednesday to discuss negotiations with the United States, after Tehran and Washington agreed to a mem..."
-    },
-    {
-      "title": "J&amp;K: 'Operation Sheruwali' enters 40th day as security forces intensify search operations in Rajouri",
-      "link": "https://economictimes.indiatimes.com/news/defence/jk-operation-sheruwali-enters-40th-day-as-security-forces-intensify-search-operations-in-rajouri/articleshow/132105902.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-01T10:02:27+05:30",
-      "time": "01 Jul, 10:02 AM",
-      "type": "news",
-      "description": "Security forces are in their 40th day of 'Operation Sheruwali' in Rajouri's Gambir Mughlan, relentlessly searching dense forests for hidden terrorists..."
     }
   ],
   "tweets": [
+    {
+      "title": "INDUS WATERS TREATY: INDIA REJECTS HAGUE RULING India has rejected the Hague-based Court of Arbitration's ruling on the Indus Waters Treaty, maintaining that the court lacks jurisdiction because the treaty mandates a sequential dispute resolution process, starting with the Permanent Indus Commission, followed by a Neutral Expert, and only then arbitration. New Delhi also reiterated that the Indus Waters Treaty remains in abeyance following the Pahalgam terrorist attack and has asserted its right to fully utilize the waters allocated to India under the treaty. India continues to advocate a comprehensive review and modification of the 1960 treaty in light of current realities.",
+      "link": "https://nitter.net/NetramDefence/status/2072913082456965269#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-03T10:49:26+05:30",
+      "time": "03 Jul, 10:49 AM",
+      "type": "tweets",
+      "content": "<p>INDUS WATERS TREATY: INDIA REJECTS HAGUE RULING<br />\n<br />\nIndia has rejected the Hague-based Court of Arbitration's ruling on the Indus Waters Treaty, maintaining that the court lacks jurisdiction because the treaty mandates a sequential dispute resolution process, starting with the Permanent Indus Commission, followed by a Neutral Expert, and only then arbitration.<br />\n<br />\nNew Delhi also reiterated that the Indus Waters Treaty remains in abeyance following the Pahalgam terrorist attack and has asserted its right to fully utilize the waters allocated to India under the treaty.<br />\n<br />\nIndia continues to advocate a comprehensive review and modification of the 1960 treaty in light of current realities.</p>\n<img src=\"https://nitter.net/pic/media%2FHMR3c4RbkAEO5pN.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "RT by @sidhant: \ud83c\uddee\ud83c\uddf3 India Panama \ud83c\uddf5\ud83c\udde6 || Meeting with Mayors : Building Local Partnerships || Ambassador @doctorsumitseth received a delegation of Mayors of Panama. Discussions focussed on \ud83d\udd39India\u2019s democratic institutions & decentralized governance model \ud83d\udd39Tourism potential of Indian States & people-to-people exchanges \ud83d\udd39ITEC Scholarships \ud83d\udd39Quick Impact Projects for local sustainable development \ud83d\udd39India\u2019s continued transformation across maternal and child health, nutrition, women\u2019s empowerment, immunization, and non-communicable disease indicators \ud83d\udd39Business and investment policies of Maharashtra, Tamil Nadu, Uttar Pradesh and Gujarat @IndianDiplomacy",
+      "link": "https://nitter.net/IndiainPanama/status/2072905734958801324#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-03T10:20:14+05:30",
+      "time": "03 Jul, 10:20 AM",
+      "type": "tweets",
+      "content": "<p>\ud83c\uddee\ud83c\uddf3 India Panama \ud83c\uddf5\ud83c\udde6 <br />\n<br />\n|| Meeting with Mayors : Building Local Partnerships ||<br />\n<br />\nAmbassador <a href=\"https://nitter.net/doctorsumitseth\" title=\"Ambassador Dr Sumit Seth \ud83c\uddee\ud83c\uddf3\">@doctorsumitseth</a> received a delegation of Mayors of Panama. <br />\n<br />\nDiscussions focussed on<br />\n<br />\n\ud83d\udd39India\u2019s democratic institutions & decentralized governance model <br />\n<br />\n\ud83d\udd39Tourism potential of Indian States & people-to-people exchanges<br />\n <br />\n\ud83d\udd39ITEC Scholarships <br />\n<br />\n\ud83d\udd39Quick Impact Projects for local sustainable development<br />\n<br />\n\ud83d\udd39India\u2019s continued transformation across maternal and child health, nutrition, women\u2019s empowerment, immunization, and non-communicable disease indicators<br />\n<br />\n\ud83d\udd39Business and investment policies of Maharashtra, Tamil Nadu, Uttar Pradesh and Gujarat<br />\n<br />\n<a href=\"https://nitter.net/IndianDiplomacy\" title=\"Indian Diplomacy\">@IndianDiplomacy</a></p>\n<a href=\"https://nitter.net/IndiainPanama/status/2072905734958801324#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072905607783297024%2Fimg%2FHBiZK1CC3eFY9W7J.jpg\" />\n</a>",
+      "author": "@IndiainPanama"
+    },
     {
       "title": "India and Japan announced their first-ever defense co-development project; a joint effort to build the Naval Radio Antenna UNICORN mast for the Indian Navy. This stealth mast combines multiple antennas into one smooth, horn-shaped tower. It lowers radar detection and will be manufactured in India by BEL (Bharat Electronics Limited).",
       "link": "https://nitter.net/NetramDefence/status/2072889467405476048#m",
@@ -1143,16 +1181,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Japan's investments in India:",
-      "link": "https://nitter.net/sidhant/status/2072669880168640699#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T18:43:02+05:30",
-      "time": "02 Jul, 06:43 PM",
-      "type": "tweets",
-      "content": "<p>Japan's investments in India:</p>\n<img src=\"https://nitter.net/pic/media%2FHMOaQ3AaYAAINtk.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @Goreunit: \ud83d\udea8 EXCLUSIVE: JAAC openly called Pakistani Army as the facilitator of terrorism. Addressing over 80,000 people in Rawalakot JAAC leader Sardar Aman Khan alleged that the Pakistan Army itself armed Kashmiris, asking, \"They gave us the guns, and now they call us terrorists? They facilitated rallies with swords and guns (referring to Jaish e Muhammad), now they call us terrorists?\"",
       "link": "https://nitter.net/Goreunit/status/2072669083334852787#m",
       "source": "War & Gore",
@@ -1169,7 +1197,7 @@
       "sort_key": "2026-07-02T18:35:59+05:30",
       "time": "02 Jul, 06:35 PM",
       "type": "tweets",
-      "content": "<p>What will happen first</p>\n<hr />\n<b>Poll</b>\n<p>\n40% \u2014 Realistic QR from Forces<br />\n60% \u2014 AMCA First Flight<br />\n<i>1,521 votes \u2022 9 hours</i>\n</p>",
+      "content": "<p>What will happen first</p>\n<hr />\n<b>Poll</b>\n<p>\n39% \u2014 Realistic QR from Forces<br />\n61% \u2014 AMCA First Flight<br />\n<i>1,555 votes \u2022 7 hours</i>\n</p>",
       "author": "@alpha_defense"
     },
     {
@@ -1751,36 +1779,6 @@
       "type": "tweets",
       "content": "<p>UP Defence Corridor Attracts \u20b939,571 Crore in Investments<br />\n<br />\nThe Uttar Pradesh Defence Industrial Corridor (UPDIC) has attracted \u20b939,571 crore in investment proposals, with 65 companies onboard and 9 defence manufacturing units already operational.<br />\n<br />\nHighlights:<br />\n<br />\n- \u20b913,486 crore worth of projects already grounded<br />\n<br />\n- Six defence hubs: Kanpur, Jhansi, Lucknow, Aligarh, Agra & Chitrakoot<br />\n<br />\n- Major companies including Adani Defence & Aerospace and BrahMos Aerospace have begun production</p>\n<img src=\"https://nitter.net/pic/media%2FHMHx-79bwAAZb6G.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "India would send a special delegation to attend the funeral ceremony of the former Iran Supreme Leader Ali Khamenei, PM Modi tells Iran's President Masoud Pezeshkian.",
-      "link": "https://nitter.net/Goreunit/status/2072194682797625581#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-01T11:14:46+05:30",
-      "time": "01 Jul, 11:14 AM",
-      "type": "tweets",
-      "content": "<p>India would send a special delegation to attend the funeral ceremony of the former Iran Supreme Leader Ali Khamenei, PM Modi tells Iran's President Masoud Pezeshkian.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @NetramDefence: Having personally known the officer, he\u2019s a true infantry leader, and a soldier\u2019s soldier. Indian armed forces stand tall on shoulders of such leaders who have displayed courage, foresight and indomitable spirit from a youngster to a General. His journey from a simple village boy to a Lt General is an inspiration for all, especially children of Punjab wanting to join forces. Best wishes, sir. You make us all proud \ud83e\udee1",
-      "link": "https://nitter.net/Manik_M_Jolly/status/2072180326512902540#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-01T10:17:43+05:30",
-      "time": "01 Jul, 10:17 AM",
-      "type": "tweets",
-      "content": "<p>Having personally known the officer, he\u2019s a true infantry leader, and a soldier\u2019s soldier. <br />\n<br />\nIndian armed forces stand tall on shoulders of such leaders who have displayed courage, foresight and indomitable spirit from a youngster to a General. <br />\n<br />\nHis journey from a simple village boy to a Lt General is an inspiration for all, especially children of Punjab wanting to join forces. <br />\n<br />\nBest wishes, sir. You make us all proud \ud83e\udee1</p>\n<hr />\n<blockquote>\n<b>Shivansh Ahuja (@shivanshAhw12c)</b>\n<p>\n<p>As the background score says...<br />\n<br />\n\"Go hard, never fall, we don\u2019t back down,<br />\nTurn the whole field into our own crown.<br />\nEnemies fall when we step in the zone,<br />\nPunjabi lions\u2014this game is our throne\" , <br />\n<br />\nEvery Sikh gentleman in uniform makes <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Punjab\">#Punjab</a>, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a> and <a href=\"https://nitter.net/search?f=tweets&amp;q=%23India\">#India</a> proud! \ud83e\udee1</p>\n<a href=\"https://nitter.net/shivanshAhw12c/status/2071996571634520503#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2071995764218245120%2Fimg%2FLFOsiGkq3r8hzgmD.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivanshAhw12c/status/2071996571634520503#m\">https://nitter.net/shivanshAhw12c/status/2071996571634520503#m</a>\n</footer>\n</blockquote>",
-      "author": "@Manik_M_Jolly"
-    },
-    {
-      "title": "ARMY CHIEF UNVEILS 'VIJAY' VISION FOR A FUTURE-READY INDIAN ARMY Chief of the Army Staff Gen Dhiraj Seth outlined his strategic roadmap for the Indian Army under the acronym \"VIJAY\", aimed at building a technology-enabled, future-ready and self-reliant force. VIJAY stands for: V \u2013 Vigilance & Readiness I \u2013 Innovation & Transformation J \u2013 Jointness & IntegratioA \u2013 Aatmanirbharta (Self-Reliance) Y \u2013 Yoddha First (Soldier First) Gen Seth said the Army will focus on operational readiness, technological innovation, tri-service integration, indigenous capability development, and the welfare of every soldier, from the newest Agniveer to the most senior veteran, while supporting the vision of Viksit Bharat 2047.",
-      "link": "https://nitter.net/NetramDefence/status/2072179603054149950#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-01T10:14:51+05:30",
-      "time": "01 Jul, 10:14 AM",
-      "type": "tweets",
-      "content": "<p>ARMY CHIEF UNVEILS 'VIJAY' VISION FOR A FUTURE-READY INDIAN ARMY<br />\n<br />\nChief of the Army Staff Gen Dhiraj Seth outlined his strategic roadmap for the Indian Army under the acronym \"VIJAY\", aimed at building a technology-enabled, future-ready and self-reliant force.<br />\n<br />\nVIJAY stands for:<br />\nV \u2013 Vigilance & Readiness<br />\nI \u2013 Innovation & Transformation<br />\nJ \u2013 Jointness & IntegratioA \u2013 Aatmanirbharta (Self-Reliance)<br />\nY \u2013 Yoddha First (Soldier First)<br />\n<br />\nGen Seth said the Army will focus on operational readiness, technological innovation, tri-service integration, indigenous capability development, and the welfare of every soldier, from the newest Agniveer to the most senior veteran, while supporting the vision of Viksit Bharat 2047.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2072179603054149950#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072179319309529088%2Fimg%2FNujS784e3TT5-E1a.jpg\" />\n</a>",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
@@ -1840,6 +1838,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
