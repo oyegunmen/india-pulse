@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "General Atomics Unveils EXCALIBUR, Expanding Access to Advanced X-ray Calibration and Metrology",
+      "link": "https://www.indiastrategic.in/general-atomics-unveils-excalibur-expanding-access-to-advanced-x-ray-calibration-and-metrology/",
+      "source": "India Strategic",
+      "sort_key": "2026-07-03T15:57:58+05:30",
+      "time": "03 Jul, 03:57 PM",
+      "type": "news",
+      "description": "<p>SAN DIEGO, July 2, 2026. Scientists at General Atomics this month unveiled EXCALIBUR, a versatile new laboratory system designed to precisely measu..."
+    },
+    {
+      "title": "Gujarat ATS arrests 8 \u2018members\u2019 of terror outfit Jaish-e-Mohammed",
+      "link": "https://www.tribuneindia.com/news/india/gujarat-ats-arrests-8-members-of-terror-outfit-jaish-e-mohammed",
+      "source": "The Tribune",
+      "sort_key": "2026-07-03T15:51:52+05:30",
+      "time": "03 Jul, 03:51 PM",
+      "type": "news",
+      "description": "The Gujarat Anti-Terrorist Squad (ATS) has arrested eight persons for their alleged links with Pakistan-based terror outfit Jaish-e-Mohammed (JeM) fro..."
+    },
+    {
+      "title": "Telangana Govt Slashes Security For Officials, Public Reps As Maoist Threat Eases",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/telangana-dgp-cv-anand-downscales-his-security-from-z-to-y-category-1968072",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-07-03T15:51:15+05:30",
+      "time": "03 Jul, 03:51 PM",
+      "type": "news",
+      "description": "The decision to reduce security, taken by the government's Security Review Committee, was across the board and included serving & retired senior polic..."
+    },
+    {
       "title": "Tharoor recalls past security concerns amid Adani\u2019s proposed MSC stake transfer",
       "link": "https://www.tribuneindia.com/news/india/tharoor-recalls-past-security-concerns-amid-adanis-proposed-msc-stake-transfer",
       "source": "The Tribune",
@@ -181,15 +208,6 @@
       "description": "India's fifth-generation fighter jet program, the Advanced Medium Combat Aircraft (AMCA), is receiving backing from the Civil Aviation Ministry and Ai..."
     },
     {
-      "title": "Ex-paramilitary forum seeks review of CAPF Bill, alleges surveillance of members",
-      "link": "https://www.tribuneindia.com/news/india/ex-paramilitary-personnel-forum-demands-rethink-on-capf-bill-alleges-surveillance-against-members",
-      "source": "The Tribune",
-      "sort_key": "2026-07-03T09:24:35+05:30",
-      "time": "03 Jul, 09:24 AM",
-      "type": "news",
-      "description": "The Alliance of All Ex-Paramilitary Forces Welfare Association (AAPFWA) on Thursday criticised the suspension of a Deputy Inspector General (DIG) and ..."
-    },
-    {
       "title": "Nine killed & 20 injured in cafe blast in Damascus, Syria",
       "link": "https://newsonair.gov.in/nine-killed-20-injured-in-cafe-blast-in-damascus-syria/",
       "source": "All India Radio",
@@ -197,15 +215,6 @@
       "time": "03 Jul, 09:05 AM",
       "type": "news",
       "description": "In Syria, an explosive device detonated in a Damascus cafe yesterday, killing at least nine people. The Interior Ministry reported the device was plan..."
-    },
-    {
-      "title": "Tibetan protester dies after setting himself on fire outside UN headquarters in New York City: Report",
-      "link": "https://www.tribuneindia.com/news/usa-news/tibetan-protester-dies-after-setting-himself-on-fire-outside-un-headquarters-in-new-york-city-report",
-      "source": "The Tribune",
-      "sort_key": "2026-07-03T08:47:55+05:30",
-      "time": "03 Jul, 08:47 AM",
-      "type": "news",
-      "description": "A 42-year-old Tibetan man, Lobga Rangzen, died after setting himself on fire outside the United Nations headquarters in New York in an apparent protes..."
     },
     {
       "title": "Iran\u2019s Supreme Leader Mojtaba Khamenei to skip former Supreme Leader Ali Khamenei\u2019s funeral over security concerns",
@@ -469,15 +478,6 @@
       "description": ""
     },
     {
-      "title": "Gen Dhiraj Seth unveils \u2018VIJAY\u2019 vision, pushes for faster Army modernisation",
-      "link": "https://www.indiastrategic.in/gen-dhiraj-seth-unveils-vijay-vision-pushes-for-faster-army-modernisation/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-02T13:17:39+05:30",
-      "time": "02 Jul, 01:17 PM",
-      "type": "news",
-      "description": "<p>New Delhi, July 2. New Army Chief General Dhiraj Seth has stressed the urgency of accelerating the Indian Army\u2019s modernisation drive to prepare for..."
-    },
-    {
       "title": "Skyroot\u2019s Vikram-1 ready for blastoff, launch window fixed for July 12 to Aug 4",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/skyroots-vikram-1-ready-for-blastoff-launch-window-fixed-for-july-12-to-aug-4/132132508",
       "source": "Economic Times",
@@ -728,54 +728,89 @@
       "time": "01 Jul, 04:26 PM",
       "type": "news",
       "description": "Technical discussions between the U.S. and Iran are underway in Doha, aiming to secure the Strait of Hormuz shipping lanes and a lasting ceasefire. Me..."
-    },
-    {
-      "title": "Air Marshal Ashutosh Dixit takes charge as new Vice Chief of Indian Air Force",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/air-marshal-ashutosh-dixit-takes-charge-as-new-vice-chief-of-indian-air-force/132112904",
-      "source": "Economic Times",
-      "sort_key": "2026-07-01T16:15:52+05:30",
-      "time": "01 Jul, 04:15 PM",
-      "type": "news",
-      "description": "A distinguished officer with extensive experience, including a pivotal role in Operation Sindoor, Air Marshal Dixit previously served as Chief of Inte..."
-    },
-    {
-      "title": "Lt Gen Rajesh Pushkar AVSM, VSM assumes command of Southern Command",
-      "link": "https://economictimes.indiatimes.com/news/defence/lt-gen-rajesh-pushkar-avsm-vsm-assumes-command-of-southern-command/articleshow/132112740.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-01T16:10:13+05:30",
-      "time": "01 Jul, 04:10 PM",
-      "type": "news",
-      "description": "Lieutenant General Rajesh Pushkar has taken charge as the General Officer Commanding-in-Chief of Southern Command. A decorated officer with extensive ..."
-    },
-    {
-      "title": "Troops Will Stay in Lebanon, Syria and Gaza: Israel",
-      "link": "https://www.deccanchronicle.com/world/troops-will-stay-in-lebanon-syria-and-gaza-israel-1967575",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-01T16:02:20+05:30",
-      "time": "01 Jul, 04:02 PM",
-      "type": "news",
-      "description": "Defence Minister Israel Katz says Israeli forces will remain in self-declared security zones indefinitely, citing security concerns."
-    },
-    {
-      "title": "General Dhiraj Seth assumes charge as 31st Army Chief, gives 'VIJAY' mantra",
-      "link": "https://economictimes.indiatimes.com/news/defence/general-dhiraj-seth-assumes-charge-as-31st-army-chief-gives-vijay-mantra/articleshow/132112385.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-01T15:51:29+05:30",
-      "time": "01 Jul, 03:51 PM",
-      "type": "news",
-      "description": "Assuming charge as the 31st Chief of Army Staff, General Dhiraj Seth on Wednesday pledged to modernise the Indian Army into a technology-driven, futur..."
-    },
-    {
-      "title": "China launches 350 kmph bullet train through Qinling Mountains, cutting travel time by 6 hours",
-      "link": "https://indianexpress.com/article/world/china-350-kmph-bullet-train-qinling-mountains-travel-time-reduced-10766242/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-01T15:43:18+05:30",
-      "time": "01 Jul, 03:43 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "DAC approves capital acquisition proposals worth Rs 52,000 crore to enhance combat readiness of Defence Forces Indian Army \u2705 AKASH TARANG Anti-Unmanned Aerial Vehicle (UAV) Electronic Warfare System \u2705 Man Portable Anti-Tank Guided Missile (MPATGM) Systems \u2705 Medium Range Surface-to-Air Missile (MRSAM) Weapon System \u2705 Very Short Range Air Defence System (V-SHORADS) \u2705 Active Protection System (APS) for Tanks \u2705 Jet-Based Kamikaze Drone System Indian Navy \u2705 Multi Influence Ground Mine (MIGM) \u2705 Naval Shipborne Unmanned Aerial System (NSUAS) \u2705 Land Based Testing Facility (LBTF) for Electric Propulsion System Indian Air Force \u2705 Fixed-Wing High Altitude Pseudo Satellite (FW-HAPS) \u2705 Other proposals (not specified)",
+      "link": "https://nitter.net/alpha_defense/status/2072996201470033992#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-03T16:19:43+05:30",
+      "time": "03 Jul, 04:19 PM",
+      "type": "tweets",
+      "content": "<p>DAC approves capital acquisition proposals worth Rs 52,000 crore to enhance combat readiness of Defence Forces<br />\nIndian Army<br />\n\u2705 AKASH TARANG Anti-Unmanned Aerial Vehicle (UAV) Electronic Warfare System<br />\n\u2705 Man Portable Anti-Tank Guided Missile (MPATGM) Systems<br />\n\u2705 Medium Range Surface-to-Air Missile (MRSAM) Weapon System<br />\n\u2705 Very Short Range Air Defence System (V-SHORADS)<br />\n\u2705 Active Protection System (APS) for Tanks<br />\n\u2705 Jet-Based Kamikaze Drone System<br />\n<br />\nIndian Navy<br />\n\u2705 Multi Influence Ground Mine (MIGM)<br />\n\u2705 Naval Shipborne Unmanned Aerial System (NSUAS)<br />\n\u2705 Land Based Testing Facility (LBTF) for Electric Propulsion System<br />\n<br />\nIndian Air Force<br />\n\u2705 Fixed-Wing High Altitude Pseudo Satellite (FW-HAPS)<br />\n\u2705 Other proposals (not specified)</p>\n<img src=\"https://nitter.net/pic/media%2FHMTDDBibsAA60Bo.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Our views on Teesta water treaty have been conveyed to Bangladesh, says MEA",
+      "link": "https://nitter.net/sidhant/status/2072993686972158275#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-03T16:09:43+05:30",
+      "time": "03 Jul, 04:09 PM",
+      "type": "tweets",
+      "content": "<p>Our views on Teesta water treaty have been conveyed to Bangladesh, says MEA</p>\n<a href=\"https://nitter.net/sidhant/status/2072993686972158275#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072993591304355840%2Fpu%2Fimg%2FkHKBoPp_ldQNH8Ob.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India restates its stance on Indus Water Treaty; Says it remains in Abeyance",
+      "link": "https://nitter.net/sidhant/status/2072993540771311734#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-03T16:09:09+05:30",
+      "time": "03 Jul, 04:09 PM",
+      "type": "tweets",
+      "content": "<p>India restates its stance on Indus Water Treaty; Says it remains in Abeyance</p>\n<a href=\"https://nitter.net/sidhant/status/2072993540771311734#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072993441915740161%2Fpu%2Fimg%2FAlvZT2nyGoqcZ0nT.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian Sailor's organs missing from repatriated body case: India asks Venezuela to investigate the case",
+      "link": "https://nitter.net/sidhant/status/2072993305630278019#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-03T16:08:13+05:30",
+      "time": "03 Jul, 04:08 PM",
+      "type": "tweets",
+      "content": "<p>Indian Sailor's organs missing from repatriated body case: India asks Venezuela to investigate the case</p>\n<a href=\"https://nitter.net/sidhant/status/2072993305630278019#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072993269295017984%2Fpu%2Fimg%2FdjxaUlplTYuvD3xM.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The Gujarat ATS has arrested eight terrorists associated with the Jaish-e-Mohammed. The accused were attempting to build an active support network in Gujarat to advance the organisation's activities.",
+      "link": "https://nitter.net/elitepredatorss/status/2072991489060475064#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-03T16:00:59+05:30",
+      "time": "03 Jul, 04:00 PM",
+      "type": "tweets",
+      "content": "<p>The Gujarat ATS has arrested eight terrorists associated with the Jaish-e-Mohammed.<br />\n<br />\nThe accused were attempting to build an active support network in Gujarat to advance the organisation's activities.</p>\n<img src=\"https://nitter.net/pic/media%2FHMS-njYbcAAcs48.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Weekly MEA presser begins",
+      "link": "https://nitter.net/sidhant/status/2072991438443614298#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-03T16:00:47+05:30",
+      "time": "03 Jul, 04:00 PM",
+      "type": "tweets",
+      "content": "<p>Weekly MEA presser begins</p>\n<img src=\"https://nitter.net/pic/media%2FHMS-t5FaEAAlvlh.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Shortly, weekly MEA Presser",
+      "link": "https://nitter.net/sidhant/status/2072988688724934922#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-03T15:49:52+05:30",
+      "time": "03 Jul, 03:49 PM",
+      "type": "tweets",
+      "content": "<p>Shortly, weekly MEA Presser</p>\n<img src=\"https://nitter.net/pic/media%2FHMS8OTfagAA9WqI.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "LeT Reshuffles Leadership After Operation Sindoor Pakistan-based terror outfit Lashkar-e-Taiba (LeT) has reportedly carried out a major leadership reshuffle involving over 15 commanders across Pakistan's Punjab province following Operation Sindoor. According to open-source intelligence reports, the changes, ordered by Hafiz Saeed on 28 June, include the appointment of senior commanders to oversee training centres, recruitment networks, and infiltration routes. Key developments: \u2022 Haris Dar has been appointed to head Central Punjab, overseeing major LeT training facilities and infiltration corridors. \u2022 Imran Liaqat Bhatti, a senior arms trainer, has been moved to Kasur, which is reportedly emerging as a key training hub after the destruction of LeT's Muridke headquarters during Operation Sindoor. The reshuffle suggests LeT is attempting to reorganise and decentralise its infrastructure, dispersing training activities across multiple locations while reinforcing its command structure after recent operational setbacks.",
+      "link": "https://nitter.net/NetramDefence/status/2072983727173771451#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-03T15:30:09+05:30",
+      "time": "03 Jul, 03:30 PM",
+      "type": "tweets",
+      "content": "<p>LeT Reshuffles Leadership After Operation Sindoor<br />\n<br />\nPakistan-based terror outfit Lashkar-e-Taiba (LeT) has reportedly carried out a major leadership reshuffle involving over 15 commanders across Pakistan's Punjab province following Operation Sindoor.<br />\n<br />\nAccording to open-source intelligence reports, the changes, ordered by Hafiz Saeed on 28 June, include the appointment of senior commanders to oversee training centres, recruitment networks, and infiltration routes.<br />\n<br />\nKey developments:<br />\n\u2022 Haris Dar has been appointed to head Central Punjab, overseeing major LeT training facilities and infiltration corridors.<br />\n\u2022 Imran Liaqat Bhatti, a senior arms trainer, has been moved to Kasur, which is reportedly emerging as a key training hub after the destruction of LeT's Muridke headquarters during Operation Sindoor.<br />\n<br />\nThe reshuffle suggests LeT is attempting to reorganise and decentralise its infrastructure, dispersing training activities across multiple locations while reinforcing its command structure after recent operational setbacks.</p>\n<img src=\"https://nitter.net/pic/media%2FHMS3oGFaEAADZ3h.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "\u20b95,000 Crore Defence Procurement Set for DAC Approval Defence Acquisition Council (DAC) is expected to clear major procurement proposals worth nearly \u20b95,000 crore, aimed at boosting the armed forces' combat capabilities and indigenous defence production. Key proposals include: \ud83d\udd39 600 HAMMER precision-guided munitions for the IAF's Rafale, Tejas, and Navy's Rafale Marine fighters \ud83d\udd39 100 MP-ATGM launchers, 2,300 indigenous anti-tank missiles, and 5 simulators for the Indian Army \ud83d\udd39 Verba V-SHORADS for Army Air Defence \ud83d\udd39 High-altitude pseudo satellites, kamikaze drones, drone detection systems, software-defined radios, and Scorpene submarine upgrades The meeting marks the first DAC session with the new military leadership and is expected to further accelerate India's defence modernisation and Make in India initiatives.",
       "link": "https://nitter.net/NetramDefence/status/2072979103519760837#m",
@@ -1057,16 +1092,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Embassy of India, Caracas has sought a thorough investigation by Venezuelan authorities on the desecration and removal of organs of the mortal remains of late Shri. Rakesh Chauhan: Indian embassy in Venezuela",
-      "link": "https://nitter.net/sidhant/status/2072861023313490227#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-03T07:22:34+05:30",
-      "time": "03 Jul, 07:22 AM",
-      "type": "tweets",
-      "content": "<p>Embassy of India, Caracas has  sought a thorough investigation by Venezuelan authorities on the desecration and removal of organs of the mortal remains of late Shri. Rakesh Chauhan: Indian embassy in Venezuela</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "First Scindia ji and now Shringla ji ! CM and FM?",
       "link": "https://nitter.net/elitepredatorss/status/2072788304135880825#m",
       "source": "Elite Predators",
@@ -1095,46 +1120,6 @@
       "type": "tweets",
       "content": "<p>Turkish media claims that a Chinese-made CH-95 drone, reportedly supplied to the RSF by the UAE, was shot down by a Sudanese Army AKINCI UAV using an air-to-air missile.<br />\n<br />\nIf confirmed, this would mark one of the first documented air-to-air kills by an armed drone against another drone in combat.</p>\n<img src=\"https://nitter.net/pic/media%2FHMPaAVaboAA4Rdy.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMPaAVqasAAtJd4.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "India, Japan Declaration on Economic Security Cooperation focuses on semi conductors, critical minerals, Information and Communication Technology, clean energy, pharma, Critical and Emerging Technologies:",
-      "link": "https://nitter.net/sidhant/status/2072726528304239082#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T22:28:08+05:30",
-      "time": "02 Jul, 10:28 PM",
-      "type": "tweets",
-      "content": "<p>India, Japan Declaration on Economic Security Cooperation focuses on semi conductors, critical minerals, Information and Communication Technology, clean energy, pharma, Critical and Emerging Technologies:</p>\n<img src=\"https://nitter.net/pic/media%2FHMPNyu_bwAIDJ1O.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMPNywKbIAAm5KI.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Key outcomes summed up from Japan PM's India visit:",
-      "link": "https://nitter.net/sidhant/status/2072725789121159444#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T22:25:12+05:30",
-      "time": "02 Jul, 10:25 PM",
-      "type": "tweets",
-      "content": "<p>Key outcomes summed up from Japan PM's India visit:</p>\n<img src=\"https://nitter.net/pic/media%2FHMPNHvBaUAEXvXM.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMPNHvkakAAsVAk.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India, Japan call for concerted actions against Pakistan based terror groups like Lashkar-e-Tayyiba (LeT), Jaish-e-Mohammad (JeM) and their proxies. From Joint statement:",
-      "link": "https://nitter.net/sidhant/status/2072725383817068653#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T22:23:35+05:30",
-      "time": "02 Jul, 10:23 PM",
-      "type": "tweets",
-      "content": "<p>India, Japan call for concerted actions against Pakistan based terror groups like Lashkar-e-Tayyiba (LeT), Jaish-e-Mohammad (JeM) and their proxies.<br />\n<br />\nFrom Joint statement:</p>\n<img src=\"https://nitter.net/pic/media%2FHMPMwKFaIAAZxXs.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Convening Quad summit, Asean centrality, Myanmar, North Korea, South China sea, safe navigation through the Strait of Hormuz, review of CEPA makes into India, Japan joint statement: https://www.mea.gov.in/bilateral-documents?dtl/41391/16th_IndiaJapan_Annual_Summit_Joint_Statement",
-      "link": "https://nitter.net/sidhant/status/2072724996326387946#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-02T22:22:03+05:30",
-      "time": "02 Jul, 10:22 PM",
-      "type": "tweets",
-      "content": "<p>Convening Quad summit, Asean centrality, Myanmar, North Korea, South China sea, safe navigation through the Strait of Hormuz, review of CEPA makes into India, Japan joint statement:<br />\n<br />\n<a href=\"https://www.mea.gov.in/bilateral-documents?dtl/41391/16th_IndiaJapan_Annual_Summit_Joint_Statement\">mea.gov.in/bilateral-documen\u2026</a></p>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @alpha_defense: Don\u2019t agree with what the good man is saying. ATAGS could not have been developed without a GSQR from the Indian Arty. Further they should have involved themselves in the programme, rather than maintaining an \u2018at the arm\u2019s length\u2019 attitude. As the case appears to be.",
@@ -1243,7 +1228,7 @@
       "sort_key": "2026-07-02T18:35:59+05:30",
       "time": "02 Jul, 06:35 PM",
       "type": "tweets",
-      "content": "<p>What will happen first</p>\n<hr />\n<b>Poll</b>\n<p>\n39% \u2014 Realistic QR from Forces<br />\n61% \u2014 AMCA First Flight<br />\n<i>1,648 votes \u2022 3 hours</i>\n</p>",
+      "content": "<p>What will happen first</p>\n<hr />\n<b>Poll</b>\n<p>\n39% \u2014 Realistic QR from Forces<br />\n61% \u2014 AMCA First Flight<br />\n<i>1,661 votes \u2022 2 hours</i>\n</p>",
       "author": "@alpha_defense"
     },
     {
@@ -1607,16 +1592,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Five senior scientists to meet top panel as government moves towards finding next DRDO chief on Friday.",
-      "link": "https://nitter.net/alpha_defense/status/2072346869372686553#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-01T21:19:30+05:30",
-      "time": "01 Jul, 09:19 PM",
-      "type": "tweets",
-      "content": "<p>Five senior scientists to meet top panel as government moves towards finding next DRDO chief on Friday.</p>\n<hr />\n<blockquote>\n<b>ANI Digital (@ani_digital)</b>\n<p>\n<p>Five senior scientists to meet top panel as government moves towards finding next DRDO chief<br />\n<br />\nRead <a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a> Story | <a href=\"http://aninews.in/news/national/general-news/five-senior-scientists-to-meet-top-panel-as-government-moves-towards-finding-next-drdo-chief20260701195017/\">aninews.in/news/national/gen\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23DRDO\">#DRDO</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23scientists\">#scientists</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SamitVKamat\">#SamitVKamat</a></p>\n<img src=\"https://nitter.net/pic/media%2FHMJhGdfbAAA5DZi.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ani_digital/status/2072325554708283792#m\">https://nitter.net/ani_digital/status/2072325554708283792#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Every tension ends with Paijaan pants crowned again.... POJK",
       "link": "https://nitter.net/OsintTV/status/2072341934589313436#m",
       "source": "Osint TV",
@@ -1695,36 +1670,6 @@
       "type": "tweets",
       "content": "<p>INS Udaygiri, INS Shakti and INS Kavaratti of the Eastern Fleet undertook <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PASSEX\">#PASSEX</a> with HTMS Chao Phraya of the <a href=\"https://nitter.net/prroyalthainavy\" title=\"\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e40\u0e23\u0e37\u0e2d ROYAL THAI NAVY\">@prroyalthainavy</a>  following their visit to Sattahip, Thailand.</p>\n<img src=\"https://nitter.net/pic/media%2FHMI3AqubQAAWWqm.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMI3AqpacAAvzUk.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "RT by @OsintTV: Watan ki sar-zamin se ishq-o-ulfat (affection) hum bhi rakhte hain, Khatakti jo rahe dil mein vo hasrat (desire) hum bhi rakhte hain. Zaroorat ho to mar mitne ki himmat hum bhi rakhte hain, Ye jurat (courage) ye shujaat (bravery) ye basalat (Heroism) hum bhi rakhte hain @JmuKmrPolice @KashmirPolice",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2072271591032152420#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-01T16:20:22+05:30",
-      "time": "01 Jul, 04:20 PM",
-      "type": "tweets",
-      "content": "<p>Watan ki sar-zamin se ishq-o-ulfat (affection) hum bhi rakhte hain, Khatakti jo rahe dil mein vo hasrat (desire) hum bhi rakhte hain.<br />\n<br />\nZaroorat ho to mar mitne ki himmat hum bhi rakhte hain, Ye jurat (courage) ye shujaat (bravery) ye basalat (Heroism) hum bhi rakhte hain<br />\n<br />\n<a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> <a href=\"https://nitter.net/KashmirPolice\" title=\"Kashmir Zone Police\">@KashmirPolice</a></p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2072271591032152420#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072271507171180544%2Fimg%2FuFLN4CLqkCrQx9GA.jpg\" />\n</a>",
-      "author": "@MikeLimaBravo12"
-    },
-    {
-      "title": "Security forces have deployed multi-layered security grid, including anti-aircraft guns and anti-drone systems, for the Amarnath Yatra in J&K. Deployment aims to ensure the safety of pilgrims against aerial threats during the pilgrimage.",
-      "link": "https://nitter.net/NetramDefence/status/2072271333090808221#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-01T16:19:21+05:30",
-      "time": "01 Jul, 04:19 PM",
-      "type": "tweets",
-      "content": "<p>Security forces have deployed multi-layered security grid, including anti-aircraft guns and anti-drone systems, for the Amarnath Yatra in J&amp;K. Deployment aims to ensure the safety of pilgrims against aerial threats during the pilgrimage.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2072271333090808221#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072271254510538753%2Fimg%2Flfw3aDE42KNURvOs.jpg\" />\n</a>",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "RT by @OsintTV: India \ud83c\uddee\ud83c\uddf3 is destroying our agriculture and threatening human lives. Sindh has been hit the hardest. Pakistan is facing such a severe water shortage that irrigation for Sindh's Kharif crops including cotton. Tomatoes, and sugarcane was already down by 40% before June. And by the second week of June, the shortfall had risen to 50%, \u2022 Shehla Raza.",
-      "link": "https://nitter.net/burhan_uddin_0/status/2072263504741167508#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-01T15:48:14+05:30",
-      "time": "01 Jul, 03:48 PM",
-      "type": "tweets",
-      "content": "<p>India \ud83c\uddee\ud83c\uddf3 is destroying our agriculture and threatening human lives.<br />\n<br />\nSindh has been hit the hardest.<br />\n<br />\nPakistan is facing such a severe water shortage that irrigation for Sindh's Kharif crops including cotton.<br />\n<br />\nTomatoes, and sugarcane was already down by 40% before June.<br />\n<br />\nAnd by the second week of June, the shortfall had risen to 50%,<br />\n<br />\n\u2022 Shehla Raza.</p>\n<a href=\"https://nitter.net/burhan_uddin_0/status/2072263504741167508#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2072263322750406656%2Fpu%2Fimg%2FLdIeekaJjjsT_wmN.jpg\" />\n</a>",
-      "author": "@burhan_uddin_0"
     }
   ],
   "youtube": [
@@ -1784,6 +1729,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "04:24 PM IST"
   }
 }
