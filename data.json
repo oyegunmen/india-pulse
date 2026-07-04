@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Union Home Ministry designates 23 Pakistan-based individuals as \u2018terrorists\u2019 under UAPA",
+      "link": "https://www.newindianexpress.com/india/2026/Jul/04/union-home-ministry-designates-23-pakistan-based-individuals-as-terrorists-under-uapa",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-04T16:19:54+05:30",
+      "time": "04 Jul, 04:19 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "PoK leader seeks support from Indians as unrest rises against Pakistan administration",
+      "link": "https://www.tribuneindia.com/news/india-pakistan-news/pok-leader-seeks-support-from-indians-as-unrest-rises-against-pakistan-administration",
+      "source": "The Tribune",
+      "sort_key": "2026-07-04T15:56:34+05:30",
+      "time": "04 Jul, 03:56 PM",
+      "type": "news",
+      "description": "As protests in Pakistan-occupied Kashmir (PoK) against Pakistan administration\u2019s economic blockade continues, civil rights activist Sardar Aman Khan, ..."
+    },
+    {
+      "title": "After Operation Sindoor, trust in 'made-in-India' defence platforms got enhanced: Rajnath Singh",
+      "link": "https://economictimes.indiatimes.com/news/defence/after-operation-sindoor-trust-in-made-in-india-defence-platforms-got-enhanced-rajnath-singh/articleshow/132179287.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-04T15:45:59+05:30",
+      "time": "04 Jul, 03:45 PM",
+      "type": "news",
+      "description": "Defence Minister Rajnath Singh highlighted a significant boost in confidence for \"made-in-India\" defence platforms following Operation Sindoor. He rev..."
+    },
+    {
+      "title": "Modi in Indonesia: India forming a BrahMos belt in China\u2019s backyard",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/modi-in-indonesia-india-forming-a-brahmos-belt-in-chinas-backyard/132179088",
+      "source": "Economic Times",
+      "sort_key": "2026-07-04T15:27:19+05:30",
+      "time": "04 Jul, 03:27 PM",
+      "type": "news",
+      "description": "This growing &#039;BrahMos belt,&#039; already including the Philippines and Vietnam, offers regional powers a potent deterrent against China&#039;s m..."
+    },
+    {
       "title": "Three young Baloch reportedly missing following separate overnight operations in Balochistan",
       "link": "https://newsonair.gov.in/three-young-baloch-reportedly-missing-following-separate-overnight-operations-in-balochistan/",
       "source": "All India Radio",
@@ -10,7 +46,7 @@
       "description": "Three young Baloch men have reportedly gone missing following separate overnight operations in Pakistan&#8217;s Balochistan province, according to loc..."
     },
     {
-      "title": "Modi in Indonesia: India forming a BrahMos belt in China\u2019s backyard",
+      "title": "Modi in Indonesia: India forming a strategic BrahMos belt",
       "link": "https://economictimes.indiatimes.com/news/defence/modi-in-indonesia-india-forming-a-brahmos-belt-in-chinas-backyard/articleshow/132178165.cms",
       "source": "Economic Times",
       "sort_key": "2026-07-04T14:26:16+05:30",
@@ -179,15 +215,6 @@
       "time": "04 Jul, 04:16 AM",
       "type": "news",
       "description": "Defence Minister Rajnath Singh\u2019s DAC approved Rs 52,000 crore in acquisitions for the Army, Navy and IAF, including anti-UAV systems, MPATGM, kamikaze..."
-    },
-    {
-      "title": "Counter-UAV systems among Rs 52K-cr defence acquisitions",
-      "link": "https://www.tribuneindia.com/news/india/counter-uav-systems-among-52k-cr-defence-acquisitions",
-      "source": "The Tribune",
-      "sort_key": "2026-07-04T01:40:50+05:30",
-      "time": "04 Jul, 01:40 AM",
-      "type": "news",
-      "description": "Drawing lessons from Operation Sindoor and the military standoff with China, the Defence Ministry on Friday approved a counter-UAV system for the Army..."
     },
     {
       "title": "Indus Treaty Frozen Till Terror Ends: India",
@@ -647,45 +674,19 @@
       "time": "02 Jul, 04:50 PM",
       "type": "news",
       "description": "The Indian Army's Corps of Signals Dare Devils team has set a new world record inside the Atal Tunnel, traversing its length on two motorcycles with t..."
-    },
-    {
-      "title": "German drone maker raises $1.2 bn as investors pile into defence",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/german-drone-maker-raises-1-2-bn-as-investors-pile-into-defence/132136749",
-      "source": "Economic Times",
-      "sort_key": "2026-07-02T16:15:33+05:30",
-      "time": "02 Jul, 04:15 PM",
-      "type": "news",
-      "description": "German drone maker Quantum Systems said Thursday it has raised $1.2 billion (one billion euros) in a funding round and more than doubled its valuation..."
-    },
-    {
-      "title": "Indian passport services in UAE get costlier from July 1: Check revised fees",
-      "link": "https://indianexpress.com/article/world/indian-passport-service-fees-hiked-uae-dubai-consulate-al-hind-renewals-2026-10767680/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-02T16:05:53+05:30",
-      "time": "02 Jul, 04:05 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "India, Japan Unveil Economic Security Framework Pact",
-      "link": "https://www.deccanchronicle.com/nation/india-japan-unveil-economic-security-framework-defence-co-development-pact-1967820",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-02T15:25:25+05:30",
-      "time": "02 Jul, 03:25 PM",
-      "type": "news",
-      "description": "PM Narendra Modi and Japanese PM Sanae Takaichi announce landmark agreements spanning economic security, AI, clean energy and defence cooperation."
-    },
-    {
-      "title": "Major Russian attack kills 21 in Kyiv as Ukrainian strikes batter Moscow's oil sector",
-      "link": "https://economictimes.indiatimes.com/news/defence/russian-attack-kills-at-least-17-injures-scores-and-causes-damage-across-ukraine-capital/articleshow/132135095.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-02T15:25:17+05:30",
-      "time": "02 Jul, 03:25 PM",
-      "type": "news",
-      "description": "Loud explosions shook the Ukrainian capital, where more than 50,000 people sheltered in subway stations after authorities issued air raid warnings, th..."
     }
   ],
   "tweets": [
+    {
+      "title": "Sardar Aman Khan Core member of JAAC seek support to the peoples of (POJK) and the masses of Srinagar, Ladakh, Poonch, Rajouri, Mendhar and Jammu to protest in their favour on 5th july. They are planning a big protest there on 5th july...",
+      "link": "https://nitter.net/Goreunit/status/2073358382933635553#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-04T16:18:54+05:30",
+      "time": "04 Jul, 04:18 PM",
+      "type": "tweets",
+      "content": "<p>Sardar Aman Khan Core member of JAAC seek support to the peoples of (POJK) and the masses of Srinagar, Ladakh, Poonch, Rajouri, Mendhar and Jammu to protest in their favour on 5th july. They are planning a big protest there on 5th july...</p>\n<a href=\"https://nitter.net/Goreunit/status/2073358382933635553#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2073358308950540288%2Fimg%2FmsiBfgdV40Y8mAA0.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
     {
       "title": "BREAKING: 50 Bangladeshi Nationals Sent to West Bengal from Tamilnadu for Deportation Authorities have transferred 50 Bangladeshi nationals from Tamil Nadu to West Bengal to facilitate their repatriation to Bangladesh. The group, 44 men and 6 women, had been lodged at a special detention camp in Salem district of Tamilnadu. They were escorted under tight security to Tiruchirappalli before being sent onward by train.",
       "link": "https://nitter.net/NetramDefence/status/2073341461786198041#m",
@@ -1357,14 +1358,14 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "RT @rathorekaran17: Don\u2019t agree with what the good man is saying. ATAGS could not have been developed without a GSQR from the Indian Arty.\u2026",
-      "link": "https://nitter.net/alpha_defense/status/2072737092896194968#m",
+      "title": "RT by @alpha_defense: Don\u2019t agree with what the good man is saying. ATAGS could not have been developed without a GSQR from the Indian Arty. Further they should have involved themselves in the programme, rather than maintaining an \u2018at the arm\u2019s length\u2019 attitude. As the case appears to be.",
+      "link": "https://nitter.net/rathorekaran17/status/2072715665405018410#m",
       "source": "Alpha Defense",
-      "sort_key": "2026-07-02T23:10:07+05:30",
-      "time": "02 Jul, 11:10 PM",
+      "sort_key": "2026-07-02T21:44:58+05:30",
+      "time": "02 Jul, 09:44 PM",
       "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/rathorekaran17\" title=\"Karan\">@rathorekaran17</a>: Don\u2019t agree with what the good man is saying. ATAGS could not have been developed without a GSQR from the Indian Arty.\u2026</p>",
-      "author": "@alpha_defense"
+      "content": "<p>Don\u2019t agree with what the good man is saying. ATAGS could not have been developed without a GSQR from the Indian Arty. Further they should have involved themselves in the programme, rather than maintaining an \u2018at the arm\u2019s length\u2019 attitude. As the case appears to be.</p>\n<hr />\n<blockquote>\n<b>ghatak (@Neetivaan)</b>\n<p>\n<p>the tantrums will never end, zero collaboration with industry, always demanding unrealistic stuff</p>\n<a href=\"https://nitter.net/Neetivaan/status/2072656377890455823#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072656315114201088%2Fimg%2FgWuLknJFGx-ab9NT.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Neetivaan/status/2072656377890455823#m\">https://nitter.net/Neetivaan/status/2072656377890455823#m</a>\n</footer>\n</blockquote>",
+      "author": "@rathorekaran17"
     },
     {
       "title": "I want this sort of photography @SkyrootA \ud83d\ude4f\ud83e\udee0",
@@ -1515,46 +1516,6 @@
       "type": "tweets",
       "content": "<p>A picture worth a thousand words.<br />\nSANJY 2026 pilgrims salute a J&amp;K Police official, and he salutes them back. Mutual respect at its finest. This is the spirit of the Amarnath Yatra, faith, respect, and unity. <a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> <a href=\"https://nitter.net/KashmirPolice\" title=\"Kashmir Zone Police\">@KashmirPolice</a></p>\n<img src=\"https://nitter.net/pic/media%2FHMN8x4tawAA8lNf.jpg\" />",
       "author": "@MikeLimaBravo12"
-    },
-    {
-      "title": "The drone is Indian. The anti-drone gun is Chinese, developed by XBY (Xiangboyi), a Chinese technology company that specialises in manufacturing anti-drone systems, communication antennas, and electronic jamming equipment. In certain sectors, the Indian Army is doing exceptionally well. In others, however, it appears to be operating in a knee-jerk manner. They are doing things simply because they need to be done and reported up the chain. The difference in standards across sectors is often quite striking.",
-      "link": "https://nitter.net/elitepredatorss/status/2072631100753752386#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-02T16:08:56+05:30",
-      "time": "02 Jul, 04:08 PM",
-      "type": "tweets",
-      "content": "<p>The drone is Indian.<br />\n<br />\nThe anti-drone gun is Chinese, developed by XBY (Xiangboyi), a Chinese technology company that specialises in manufacturing anti-drone systems, communication antennas, and electronic jamming equipment.<br />\n<br />\nIn certain sectors, the Indian Army is doing exceptionally well. In others, however, it appears to be operating in a knee-jerk manner. They are doing things simply because they need to be done and reported up the chain.<br />\n<br />\nThe difference in standards across sectors is often quite striking.</p>\n<img src=\"https://nitter.net/pic/media%2FHMN1XnVaMAAFIjB.jpg\" />\n\n<hr />\n<blockquote>\n<b>SouthWesternCommand_IA (@SWComd_IA)</b>\n<p>\n<p>\ud83c\uddee\ud83c\uddf3\ud83c\udde6\ud83c\uddea Strengthening Strategic Military Ties<br />\n<br />\nA delegation led by the Deputy Commander, UAE Land Forces, visited <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DOTDivision\">#DOTDivision</a> as part of their tour to field formations and army installations across India. The delegation witnessed mechanised manoeuvres and  integrated operations showcasing own UAS and Counter-UAS capabilities.<br />\n<br />\nDuring interactions both sides exchanged views on contemporary security challenges, emerging defence technologies and evolving operational concepts, reaffirming the shared commitment of India and the UAE towards strengthening military-to-military cooperation and fostering a robust friendship. <br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaUAE\">#IndiaUAE</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceCooperation\">#DefenceCooperation</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryDiplomacy\">#MilitaryDiplomacy</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23StrategicPartnership\">#StrategicPartnership</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23FutureReadyForce\">#FutureReadyForce</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23RegionalSecurity\">#RegionalSecurity</a> \ud83c\uddee\ud83c\uddf3\ud83c\udde6\ud83c\uddea<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a><br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a><br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a><br />\n<a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a><br />\n<a href=\"https://nitter.net/IndembAbuDhabi\" title=\"India in UAE\">@IndembAbuDhabi</a><br />\n<a href=\"https://nitter.net/UAEembassyIndia\" title=\"UAE in India\">@UAEembassyIndia</a><br />\n<a href=\"https://nitter.net/PRODefRjsthn\" title=\"Spokesperson &amp; PRO Jaipur MoD\">@PRODefRjsthn</a></p>\n<img src=\"https://nitter.net/pic/media%2FHLlN6iSWQAAhlXp.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLlN7GLW4AA35wX.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLlN7qQWgAAGx1a.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHLlN8PAb0AENxt9.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/SWComd_IA/status/2069771211970879765#m\">https://nitter.net/SWComd_IA/status/2069771211970879765#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @NetramDefence: Armed groups torched multiple villages along the India-Myanmar border in Kamjong dist on July 1, marking a renewed outbreak of Kuki-Naga tensions after a period of relative calm. Kuki organisations claimed the attack came a day after Assam Rifles vacated security post at Phaimol.",
-      "link": "https://nitter.net/KangleipakDaily/status/2072627462215970893#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-02T15:54:29+05:30",
-      "time": "02 Jul, 03:54 PM",
-      "type": "tweets",
-      "content": "<p>Armed groups torched multiple villages along the India-Myanmar border in Kamjong dist on July 1, marking a renewed outbreak of Kuki-Naga tensions after a period of relative calm. Kuki organisations claimed the attack came a day after Assam Rifles vacated security post at Phaimol.</p>\n<img src=\"https://nitter.net/pic/media%2FHMNzhlaa4AAnOHz.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHMNzhlUaIAA3Q8g.jpg\" />",
-      "author": "@KangleipakDaily"
-    },
-    {
-      "title": "Another successful anti-piracy operation by the #IndianNavy. INS Trikand foiled a piracy attempt on MV Golden Arsenal in the Gulf of Aden. As the warship closed in, the pirates abandoned their attempt. #MARCOS boarded and cleared the vessel,ensuring the safety of the crew+\ud83c\uddee\ud83c\uddf3cargo",
-      "link": "https://nitter.net/DefenceDecode/status/2072621592660918718#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-07-02T15:31:09+05:30",
-      "time": "02 Jul, 03:31 PM",
-      "type": "tweets",
-      "content": "<p>Another successful anti-piracy operation by the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianNavy\">#IndianNavy</a>.<br />\nINS Trikand foiled a piracy attempt on MV Golden Arsenal in the Gulf of Aden. As the warship closed in, the pirates abandoned their attempt. <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MARCOS\">#MARCOS</a> boarded and cleared the vessel,ensuring the safety of the crew+\ud83c\uddee\ud83c\uddf3cargo</p>\n<img src=\"https://nitter.net/pic/media%2FHMNt8xCbQAAxy6V.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "BREAKING: Indian Navy warship INS Trikand foiled a piracy attempt in the Gulf of Aden on Wednesday night. The pirates targeted MV Golden Arsenal, a merchant vessel carrying critical cargo for India. The crew locked themselves in a safe room and raised the alarm. The pirates fled as INS Trikand rushed to help. Marine Commandos (MARCOS) then boarded and secured the ship. Representational Video",
-      "link": "https://nitter.net/NetramDefence/status/2072621074282647634#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-02T15:29:06+05:30",
-      "time": "02 Jul, 03:29 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: Indian Navy warship INS Trikand foiled a piracy attempt in the Gulf of Aden on Wednesday night. The pirates targeted MV Golden Arsenal, a merchant vessel carrying critical cargo for India. The crew locked themselves in a safe room and raised the alarm. The pirates fled as INS Trikand rushed to help. Marine Commandos (MARCOS) then boarded and secured the ship.<br />\n<br />\nRepresentational Video</p>\n<a href=\"https://nitter.net/NetramDefence/status/2072621074282647634#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2072620774742216704%2Fimg%2FFiLkeHorODTQUjVz.jpg\" />\n</a>",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
@@ -1641,6 +1602,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "04:24 PM IST"
   }
 }
