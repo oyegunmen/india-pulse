@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "INS Sudarshini represents India at US International Naval Review 250, Sail4th 250 in New York",
+      "link": "https://economictimes.indiatimes.com/news/defence/ins-sudarshini-represents-india-at-us-international-naval-review-250-sail4th-250-in-new-york/videoshow/132189689.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-05T06:56:41+05:30",
+      "time": "05 Jul, 06:56 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Eastern US experiences severe heatwave",
+      "link": "https://newsonair.gov.in/eastern-us-experiences-severe-heatwave/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-05T06:41:34+05:30",
+      "time": "05 Jul, 06:41 AM",
+      "type": "news",
+      "description": "A severe heatwave is sweeping across the eastern United States, placing significant pressure on power grids and disrupting preparations for FIFA World..."
+    },
+    {
       "title": "Oz PM stresses trade, defence &#038; tech ahead of talks with Modi",
       "link": "https://www.tribuneindia.com/news/india/oz-pm-stresses-trade-defence-tech-ahead-of-talks-with-modi",
       "source": "The Tribune",
@@ -370,15 +388,6 @@
       "description": ""
     },
     {
-      "title": "America 250th Anniversary: \u2018May next 250 years take India-US partnership to new heights\u2019, PM Modi wishes Trump",
-      "link": "https://indianexpress.com/article/world/usa-independence-day-2026-live-updates-trump-heads-to-mount-rushmore-as-heat-disrupts-july-fourth-events-10769502/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-04T05:49:13+05:30",
-      "time": "04 Jul, 05:49 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Govt Approves Rs 52,000 Crore For Acquisition Of Anti-UAV, MRSAM And Jet Drones To Modernise Army, Navy And Air Force",
       "link": "https://www.republicworld.com/defence/govt-approves-anti-uav-mrsam-and-jet-drones-for-army-navy-and-air-force-modernisation-2026-07-03-131148",
       "source": "Republic World",
@@ -422,15 +431,6 @@
       "time": "03 Jul, 10:19 PM",
       "type": "news",
       "description": "MoU covers loitering munitions, payload UAVs and unmanned systems as IPO-bound drone maker deepens defence push"
-    },
-    {
-      "title": "Global crude oil prices decline",
-      "link": "https://newsonair.gov.in/global-crude-oil-prices-decline/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-03T22:12:00+05:30",
-      "time": "03 Jul, 10:12 PM",
-      "type": "news",
-      "description": "Global crude oil prices declined today. Brent crude was trading 0.2 per cent down at 71 US dollars and 68 cents per barrel. West Texas Intermediate cr..."
     },
     {
       "title": "Indonesia seeks more BrahMos missiles from India. Delhi eyes critical minerals as Modi visits Jakarta",
@@ -665,24 +665,6 @@
       "time": "03 Jul, 09:47 AM",
       "type": "news",
       "description": "India's fifth-generation fighter jet program, the Advanced Medium Combat Aircraft (AMCA), is receiving backing from the Civil Aviation Ministry and Ai..."
-    },
-    {
-      "title": "Stopped 8 wars: Donald Trump reiterates claim of India-Pakistan ceasefire through tariff threat",
-      "link": "https://economictimes.indiatimes.com/news/defence/stopped-8-wars-donald-trump-reiterates-claim-of-india-pakistan-ceasefire-through-tariff-threat/articleshow/132150520.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-03T06:52:25+05:30",
-      "time": "03 Jul, 06:52 AM",
-      "type": "news",
-      "description": "US President Donald Trump claimed he single-handedly averted a nuclear conflict between India and Pakistan by threatening both with 200% tariffs. He a..."
-    },
-    {
-      "title": "We blew up Iran's radar: Trump says US carried out strikes on Iran for 3 consecutive days",
-      "link": "https://economictimes.indiatimes.com/news/defence/we-blew-up-irans-radar-trump-says-us-carried-out-strikes-on-iran-for-3-consecutive-days/articleshow/132150442.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-03T06:31:37+05:30",
-      "time": "03 Jul, 06:31 AM",
-      "type": "news",
-      "description": "US President Donald Trump revealed American forces conducted strikes on Iran for three consecutive nights, targeting radar systems in response to atta..."
     }
   ],
   "tweets": [
@@ -1621,6 +1603,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
