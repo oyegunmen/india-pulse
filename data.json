@@ -1,6 +1,132 @@
 {
   "news": [
     {
+      "title": "1st Police Encounter Under BJP-Rule in WB Leaves Baruipur Gangrape",
+      "link": "https://www.deccanchronicle.com/nation/1st-police-encounter-under-bjp-rule-in-wb-leaves-baruipur-gangrape-1969359",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-07-08T20:13:23+05:30",
+      "time": "08 Jul, 08:13 PM",
+      "type": "news",
+      "description": "The two bullet injuries suggest that Prabhas was face to face with the cops"
+    },
+    {
+      "title": "Pakistan cargo plane wreckage found after Boeing 737 disappears en route to Karachi",
+      "link": "https://indianexpress.com/article/world/wreckage-of-missing-pakistan-cargo-plane-found-says-airports-authority-10777823/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-08T20:04:16+05:30",
+      "time": "08 Jul, 08:04 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "NATO allies investing \u20ac27 billion in fuel storage infrastructure",
+      "link": "https://economictimes.indiatimes.com/news/defence/nato-allies-investing-27-billion-in-fuel-storage-infrastructure/articleshow/132265863.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T19:42:18+05:30",
+      "time": "08 Jul, 07:42 PM",
+      "type": "news",
+      "description": "NATO allies are investing thirty point eight billion dollars in fuel storage infrastructure. This significant investment aims to bolster the alliance'..."
+    },
+    {
+      "title": "Trump threatens to strike Iran's civilian infrastructure, seize Kharg Island",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-threatens-to-strike-irans-civilian-infrastructure-seize-kharg-island/articleshow/132265595.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T19:27:53+05:30",
+      "time": "08 Jul, 07:27 PM",
+      "type": "news",
+      "description": "President Trump threatened Iran's electric and desalinisation plants. He also mentioned seizing Kharg Island and its oil infrastructure. This comes af..."
+    },
+    {
+      "title": "Indian Navy UAV crashes near Porbandar city; no casualties",
+      "link": "https://economictimes.indiatimes.com/news/defence/indian-navy-uav-crashes-near-porbandar-city-no-casualties/articleshow/132265522.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T19:20:17+05:30",
+      "time": "08 Jul, 07:20 PM",
+      "type": "news",
+      "description": "An Indian Navy unmanned aerial vehicle crashed into an open field near Porbandar. The aircraft went down shortly after taking off from the Naval Air E..."
+    },
+    {
+      "title": "Is an Iran deal 'over' and war back on? A timeline of the conflict and talks",
+      "link": "https://economictimes.indiatimes.com/news/defence/is-an-iran-deal-over-and-war-back-on-a-timeline-of-the-conflict-and-talks/articleshow/132265420.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T19:15:28+05:30",
+      "time": "08 Jul, 07:15 PM",
+      "type": "news",
+      "description": "Global markets and oil prices lurched after the United States and Iran traded new strikes. The conflict threatened lives throughout the region and for..."
+    },
+    {
+      "title": "India, Maldives Reiterate Commitment to Bilateral Investment Treaty and FTA",
+      "link": "https://newsonair.gov.in/india-maldives-reiterate-commitment-to-bilateral-investment-treaty-and-fta/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-08T19:14:40+05:30",
+      "time": "08 Jul, 07:14 PM",
+      "type": "news",
+      "description": "India and Maldives today reaffirmed their commitment to expediting the signing of the Bilateral Investment Treaty and the proposed Free Trade Agreemen..."
+    },
+    {
+      "title": "Trump says both sides in Ukraine war want a settlement",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-both-sides-in-ukraine-war-want-a-settlement/articleshow/132265372.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T19:12:31+05:30",
+      "time": "08 Jul, 07:12 PM",
+      "type": "news",
+      "description": "During the NATO summit in Ankara, President Trump issued a license enabling Ukraine to produce Patriot missiles, in a bid to bolster their defense ami..."
+    },
+    {
+      "title": "India, Russia Reaffirm Counter-Terrorism Cooperation at Joint Working Group Meeting",
+      "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-08T19:07:56+05:30",
+      "time": "08 Jul, 07:07 PM",
+      "type": "news",
+      "description": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG a..."
+    },
+    {
+      "title": "Trump says US to give Ukraine the right to make Patriot missiles",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-us-to-give-ukraine-the-right-to-make-patriot-missiles/articleshow/132265054.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T18:59:26+05:30",
+      "time": "08 Jul, 06:59 PM",
+      "type": "news",
+      "description": "US President Donald Trump met Ukraine's Volodymyr Zelensky at NATO's summit. Trump announced Washington would grant Kyiv a license to produce Patriot ..."
+    },
+    {
+      "title": "Damaged Qatari LNG tanker awaits salvage after strike as Hormuz risks escalate",
+      "link": "https://economictimes.indiatimes.com/news/defence/damaged-qatari-lng-tanker-awaits-salvage-after-strike-as-hormuz-risks-escalate/articleshow/132264849.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T18:48:34+05:30",
+      "time": "08 Jul, 06:48 PM",
+      "type": "news",
+      "description": "A Qatari LNG tanker remains stuck off Oman after being hit by a projectile. U.S. forces reported two other tankers were targeted by Iran recently. The..."
+    },
+    {
+      "title": "US Customs and Border Protection orders 10 Airbus H125 helicopters",
+      "link": "https://www.indiastrategic.in/us-customs-and-border-protection-orders-10-airbus-h125-helicopters/",
+      "source": "India Strategic",
+      "sort_key": "2026-07-08T18:40:50+05:30",
+      "time": "08 Jul, 06:40 PM",
+      "type": "news",
+      "description": "<p>Grand Prairie, United States, July 7, 2026. Airbus has finalised a contract for the purchase of 10 H125 helicopters by US Customs and Border Protec..."
+    },
+    {
+      "title": "Trump on Iran: US will probably hit them again Wednesday night",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-on-iran-us-will-probably-hit-them-again-wednesday-night/articleshow/132264716.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T18:37:46+05:30",
+      "time": "08 Jul, 06:37 PM",
+      "type": "news",
+      "description": "US President Donald Trump warned that the United States is likely to launch fresh strikes on Iran on Wednesday night, hours after calling off the ceas..."
+    },
+    {
+      "title": "Three Killed in Overnight Russian Attacks on Ukraine",
+      "link": "https://newsonair.gov.in/three-killed-in-overnight-russian-attacks-on-ukraine/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-08T18:26:50+05:30",
+      "time": "08 Jul, 06:26 PM",
+      "type": "news",
+      "description": "Three people were killed across Ukraine in overnight Russian attacks, including one in Kyiv. In Kharkiv, two people were killed and 20 others were inj..."
+    },
+    {
       "title": "Pakistan offers to take back Rochdale \u2018Grooming Gang\u2019 ringleader Shabir Ahmed, but with a condition",
       "link": "https://indianexpress.com/article/world/pakistan-uk-shabir-ahmed-rochdale-deportation-extradition-dissidents-shabana-mahmood-10777574/",
       "source": "The Indian Express",
@@ -17,6 +143,15 @@
       "time": "08 Jul, 06:17 PM",
       "type": "news",
       "description": "<p>HONOLULU, July 8, 2026. Lockheed Martin demonstrated Command and Control (C2) and battle management for converged fires, Integrated Air and Missile..."
+    },
+    {
+      "title": "NATO allies confirm \"ironclad commitment\" to collective defence in summit declaration",
+      "link": "https://economictimes.indiatimes.com/news/defence/nato-allies-confirm-ironclad-commitment-to-collective-defence-in-summit-declaration/articleshow/132264066.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T18:15:00+05:30",
+      "time": "08 Jul, 06:15 PM",
+      "type": "news",
+      "description": "NATO allies reaffirmed their commitment to collective defence and Article 5 pact. European allies and Canada are assuming greater alliance defence res..."
     },
     {
       "title": "Donald Trump told NATO leaders he wants to keep US in alliance, say sources",
@@ -100,13 +235,13 @@
       "description": "INS Sudarshini visited New York to represent India at American independence celebrations. The ship's presence highlighted growing defense and people-t..."
     },
     {
-      "title": "U.S. President\u00a0Trump says MoU to end Iran\u00a0conflict\u00a0is over",
+      "title": "Trump announces end of U.S.-Iran ceasefire as tensions rise",
       "link": "https://newsonair.gov.in/u-s-president-trump-says-mou-to-end-iran-conflict-is-over/",
       "source": "All India Radio",
       "sort_key": "2026-07-08T15:12:58+05:30",
       "time": "08 Jul, 03:12 PM",
       "type": "news",
-      "description": "U.S. President Donald Trump has said that the memorandum of understanding signed with Iran to end the conflict \u200cis over, adding that he didn&#8217;t w..."
+      "description": "US President Donald Trump today announced that the ceasefire with Iran is over. Speaking to reporters at the North Atlantic Treaty Organization (NATO)..."
     },
     {
       "title": "Telangana Fire Department Launches Civil Defence Volunteer Training Programme",
@@ -217,15 +352,6 @@
       "description": "Russian forces are camouflaging supplies and using jamming systems to disrupt Ukrainian drone operations. These tactics aim to counter Ukraine's effec..."
     },
     {
-      "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
-      "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-08T12:52:34+05:30",
-      "time": "08 Jul, 12:52 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various..."
-    },
-    {
       "title": "NATO leaders meet in Ankara as US ceasefire with Iran teeters",
       "link": "https://economictimes.indiatimes.com/news/defence/tensions-rise-at-nato-summit-in-ankara-as-trump-criticizes-allies-over-iran-conflict/articleshow/132256133.cms",
       "source": "Economic Times",
@@ -233,15 +359,6 @@
       "time": "08 Jul, 12:43 PM",
       "type": "news",
       "description": "NATO leaders aim to secure Donald Trump's commitment to the alliance. Trump expressed disappointment with allies over the Iran war and military spendi..."
-    },
-    {
-      "title": "Iran launches retaliatory strikes on US military bases after American attacks",
-      "link": "https://newsonair.gov.in/us-strikes-over-80-targets-in-iran-tensions-escalate/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-08T11:25:33+05:30",
-      "time": "08 Jul, 11:25 AM",
-      "type": "news",
-      "description": "Iran has launched retaliatory strikes on US military installations following the US attacks on its Hormozgan province and the port city of Mahshahr. A..."
     },
     {
       "title": "Parliamentary panel to review self-reliance, modernisation of Defence Public Sector Undertakings briefing today",
@@ -278,15 +395,6 @@
       "time": "08 Jul, 10:30 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Indian culture, Sanatan Dharma continues to gain popularity in New Zealand",
-      "link": "https://newsonair.gov.in/indian-culture-sanatan-dharma-continues-to-gain-popularity-in-new-zealand/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-08T10:22:02+05:30",
-      "time": "08 Jul, 10:22 AM",
-      "type": "news",
-      "description": "Thousands of kilometres away from India, the influence of Sanatan Dharma and Indian culture continues to grow in New Zealand. In Auckland, The Third E..."
     },
     {
       "title": "Airbus and MTU Aero Engines to create a joint venture to develop a fully electric hydrogen fuel cell engine",
@@ -476,6 +584,15 @@
       "time": "07 Jul, 04:16 PM",
       "type": "news",
       "description": "Filmmaker Ram Gopal Varma has come out in support of Diljit Dosanjh-starrer Satluj, calling the film a \"deep wound\" and urging authorities not to stop..."
+    },
+    {
+      "title": "India and Indonesia Inked 14 Pacts to Boost Defence and Trade Ties",
+      "link": "https://www.deccanchronicle.com/nation/world/india-to-help-conserve-ancient-siva-temple-in-indonesia-pm-modi-to-launch-project-tomorrow-1969046",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-07-07T16:04:25+05:30",
+      "time": "07 Jul, 04:04 PM",
+      "type": "news",
+      "description": "PM Modi to launch the conservation project tomorrow during his visit to the Prambanan Temple in Yogyakarta with President Prabowo Subianto"
     },
     {
       "title": "Manhunt intensifies in Manipur after deadly Assam Rifles ambush; NSCN-IM denies role",
@@ -755,54 +872,129 @@
       "time": "06 Jul, 09:03 PM",
       "type": "news",
       "description": "<p>New Delhi, July 6. The Indian Navy will commission INS Mahendragiri (F38), the sixth indigenous stealth frigate under the Project 17A programme, at..."
-    },
-    {
-      "title": "Farnborough 2026: Aerospace Looks Beyond Turbulence",
-      "link": "https://www.indiastrategic.in/farnborough-2026-aerospace-looks-beyond-turbulence/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-06T20:23:01+05:30",
-      "time": "06 Jul, 08:23 PM",
-      "type": "news",
-      "description": "<p>By R Chandrakanth &#160; London. The Farnborough International Airshow 2026 from July 20 to 24, comes at a time when the global aerospace industry ..."
-    },
-    {
-      "title": "Manipur CM, Governor condemn deadly ambush on Assam Rifles in Ukhrul",
-      "link": "https://nenews.in/manipur/manipur-cm-governor-condemn-deadly-ambush-on-assam-rifles-in-ukhrul/56442/",
-      "source": "NE News",
-      "sort_key": "2026-07-06T20:13:41+05:30",
-      "time": "06 Jul, 08:13 PM",
-      "type": "news",
-      "description": "<p>Manipur Chief Minister Yumnam Khemchand Singh and Governor Ajay Kumar Bhalla strongly condemned the ambush in Ukhrul district that claimed the live..."
-    },
-    {
-      "title": "The message behind the missile China just shot rings loud and clear",
-      "link": "https://economictimes.indiatimes.com/news/defence/the-message-behind-the-missile-china-just-shot-rings-loud-and-clear/articleshow/132218287.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-06T19:46:22+05:30",
-      "time": "06 Jul, 07:46 PM",
-      "type": "news",
-      "description": "China's rare submarine-launched ballistic missile test in the Pacific has alarmed Japan, Australia, and New Zealand. This demonstration of growing und..."
-    },
-    {
-      "title": "Two Assam Rifles personnel killed in militant ambush in Manipur\u2019s Ukhrul",
-      "link": "https://nenews.in/manipur/two-assam-rifles-personnel-killed-in-militant-ambush-in-manipurs-ukhrul/56432/",
-      "source": "NE News",
-      "sort_key": "2026-07-06T19:33:37+05:30",
-      "time": "06 Jul, 07:33 PM",
-      "type": "news",
-      "description": "<p>Two Assam Rifles personnel were killed in a suspected militant ambush in Manipur\u2019s Ukhrul district on Monday, prompting a massive search operation ..."
-    },
-    {
-      "title": "Two Assam Rifles soldiers killed, several injured in ambush by militants in Manipur",
-      "link": "https://economictimes.indiatimes.com/news/defence/two-assam-rifles-soldiers-killed-several-injured-in-ambush-by-militants-in-manipur/articleshow/132217911.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-06T19:21:10+05:30",
-      "time": "06 Jul, 07:21 PM",
-      "type": "news",
-      "description": "Tragedy struck Manipur's Ukhrul district as suspected militants ambushed an Assam Rifles convoy, claiming the lives of two soldiers and injuring sever..."
     }
   ],
   "tweets": [
+    {
+      "title": "Trump admin announces launch of H1B fraud investigation",
+      "link": "https://nitter.net/sidhant/status/2074868413990859028#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-08T20:19:13+05:30",
+      "time": "08 Jul, 08:19 PM",
+      "type": "tweets",
+      "content": "<p>Trump admin announces launch of H1B fraud investigation</p>\n<a href=\"https://nitter.net/sidhant/status/2074868413990859028#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074848094315823105%2Fimg%2FJ-cnQ9HuT1g6JF2y.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "DRDO has successfully flight-tested the Pinaka #LRGR at Chandipur, validating a user-defined 60 km minimum-range strike with pinpoint accuracy. The trial also demos the capability to launch different Pinaka rocket variants from the same in-service launcher.",
+      "link": "https://nitter.net/DefenceDecode/status/2074864800711213393#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-07-08T20:04:52+05:30",
+      "time": "08 Jul, 08:04 PM",
+      "type": "tweets",
+      "content": "<p>DRDO has successfully flight-tested the Pinaka <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LRGR\">#LRGR</a> at Chandipur, validating a user-defined 60 km minimum-range strike with pinpoint accuracy.<br />\n<br />\nThe trial also demos the capability to launch different Pinaka rocket variants from the same in-service launcher.</p>\n<a href=\"https://nitter.net/DefenceDecode/status/2074864800711213393#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074864449295654912%2Fimg%2F8Jami4UUr4aanUaT.jpg\" />\n</a>",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "Pinaka Long Range Guided Rocket (LRGR) was successfully tested for a user defined minimum range of 60 km at the Integrated Test Range (ITR), Chandipur on 08 July 2026.",
+      "link": "https://nitter.net/alpha_defense/status/2074864100031828240#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-08T20:02:05+05:30",
+      "time": "08 Jul, 08:02 PM",
+      "type": "tweets",
+      "content": "<p>Pinaka Long Range Guided Rocket (LRGR) was successfully tested for a user defined minimum range of 60 km at the Integrated Test Range (ITR), Chandipur on 08 July 2026.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2074864100031828240#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074857584952320001%2Fimg%2FW_eW94VdslitjllS.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "2nd leg of 3 nation tour:",
+      "link": "https://nitter.net/sidhant/status/2074861669172568199#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-08T19:52:25+05:30",
+      "time": "08 Jul, 07:52 PM",
+      "type": "tweets",
+      "content": "<p>2nd leg of 3 nation tour:</p>\n<img src=\"https://nitter.net/pic/media%2FHMtjsSeaMAA0XLq.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi reaches Melbourne, Australia</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2074846662741385679#m\">https://nitter.net/sidhant/status/2074846662741385679#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Defence Research & Development Organisation (DRDO) conducted a successful flight-test of Pinaka Long Range Guided Rocket (LRGR) at the Integrated Test Range (ITR), Chandipur on July 08, 2026. The rocket was tested for a user defined minimum range of 60 kms. Demonstrating all in-flight manoeuvres as planned, the LRGR impacted on the target with textbook precision exactly following the predicted trajectory. All the deployed range instruments tracked the flight throughout its trajectory.",
+      "link": "https://nitter.net/alpha_defense/status/2074857424830484513#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-08T19:35:33+05:30",
+      "time": "08 Jul, 07:35 PM",
+      "type": "tweets",
+      "content": "<p>Defence Research & Development Organisation (DRDO) conducted a successful flight-test of Pinaka Long Range Guided Rocket (LRGR) at the Integrated Test Range (ITR), Chandipur on July 08, 2026. <br />\n<br />\nThe rocket was tested for a user defined minimum range of 60 kms. Demonstrating all in-flight manoeuvres as planned, the LRGR impacted on the target with textbook precision exactly following the predicted trajectory. All the deployed range instruments tracked the flight throughout its trajectory.</p>\n<img src=\"https://nitter.net/pic/media%2FHMtf1HoaoAAUfuN.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @OsintTV: DRDO conducted a successful flight-test of #Pinaka Long Range Guided Rocket (LRGR) at the Integrated Test Range (ITR), Chandipur on July 08, The rocket was tested for a user defined minimum range of 60 kms. Demonstrating all in-flight manoeuvres as planned, the LRGR impacted on the target with textbook precision exactly following the predicted trajectory. All the deployed range instruments tracked the flight throughout its trajectory.\u00a0@indiatvnews @DRDO_India",
+      "link": "https://nitter.net/manishindiatv/status/2074854955249537369#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-08T19:25:44+05:30",
+      "time": "08 Jul, 07:25 PM",
+      "type": "tweets",
+      "content": "<p>DRDO conducted a successful flight-test of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pinaka\">#Pinaka</a> Long Range Guided Rocket (LRGR) at the Integrated Test Range (ITR), Chandipur on July 08, The rocket was tested for a user defined minimum range of 60 kms. Demonstrating all in-flight manoeuvres as planned, the LRGR impacted on the target with textbook precision exactly following the predicted trajectory. All the deployed range instruments tracked the flight throughout its trajectory.\u00a0<a href=\"https://nitter.net/indiatvnews\" title=\"India TV\">@indiatvnews</a> <a href=\"https://nitter.net/DRDO_India\" title=\"DRDO\">@DRDO_India</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2074854955249537369#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074854893907783680%2Fimg%2FOLUfwbc1N9ocuoNq.jpg\" />\n</a>",
+      "author": "@manishindiatv"
+    },
+    {
+      "title": "RT by @sidhant: #WIONDispatch | Canada: No Indian government link in Nijjar killing US to seek Bishnoi's extradition from India US crackdown on India-based criminal gangs @MollyGambhir gets you more details by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2074850440005738756#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-08T19:07:48+05:30",
+      "time": "08 Jul, 07:07 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONDispatch\">#WIONDispatch</a> | Canada: No Indian government link in Nijjar killing <br />\n<br />\nUS to seek Bishnoi's extradition from India <br />\n<br />\nUS crackdown on India-based criminal gangs <br />\n<br />\n<a href=\"https://nitter.net/MollyGambhir\" title=\"Molly Gambhir\">@MollyGambhir</a> gets you more details by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2074850440005738756#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074849905240416256%2Fimg%2FOwPEQ1-orD_dLvFS.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "PM Modi reaches Melbourne, Australia",
+      "link": "https://nitter.net/sidhant/status/2074846662741385679#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-08T18:52:47+05:30",
+      "time": "08 Jul, 06:52 PM",
+      "type": "tweets",
+      "content": "<p>PM Modi reaches Melbourne, Australia</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "JUST IN | Indian Navy confirms the crash of Uncrewed Aerial Vehicle Drishti-10, off Porbandar airfield during a training sortie this afternoon. NO INJURY OR LOSS OF LIFE has been reported on ground. The cause of the incident is being investigated.",
+      "link": "https://nitter.net/alpha_defense/status/2074845437987832196#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-08T18:47:55+05:30",
+      "time": "08 Jul, 06:47 PM",
+      "type": "tweets",
+      "content": "<p>JUST IN | Indian Navy confirms the crash of Uncrewed Aerial Vehicle Drishti-10, off Porbandar airfield during a training sortie this afternoon. <br />\n<br />\nNO INJURY OR LOSS OF LIFE has been reported on ground. The cause of the incident is being investigated.</p>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "EAM Dr S Jaishankar calls on Kuwait Crown Prince Sabah Al-Khaled Al-Sabah",
+      "link": "https://nitter.net/sidhant/status/2074842142103773260#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-08T18:34:50+05:30",
+      "time": "08 Jul, 06:34 PM",
+      "type": "tweets",
+      "content": "<p>EAM Dr S Jaishankar calls on Kuwait Crown Prince Sabah Al-Khaled Al-Sabah</p>\n<img src=\"https://nitter.net/pic/media%2FHMtR7DgbgAAGN8h.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Saras Mk2 aircraft has successfully completed and frozen both its PDR and CDR(Critical Design Review) stages. Aircraft is designed to boost regional connectivity-particularly under the UDAN scheme-allowing safe take-offs and landings from semi-prepared and hot/high-alti airfields",
+      "link": "https://nitter.net/DefenceDecode/status/2074839717825364134#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-07-08T18:25:12+05:30",
+      "time": "08 Jul, 06:25 PM",
+      "type": "tweets",
+      "content": "<p>Saras Mk2 aircraft has successfully completed and frozen both its PDR and CDR(Critical Design Review) stages.<br />\nAircraft is designed to boost regional connectivity-particularly under the UDAN scheme-allowing safe take-offs and landings from semi-prepared and hot/high-alti airfields</p>\n<hr />\n<blockquote>\n<b>Defence Decode\u00ae (@DefenceDecode)</b>\n<p>\n<p>CSIR-NAL SARAS MK2 at Wings India 2022</p>\n<img src=\"https://nitter.net/pic/media%2FFO1ZPe7aAAEzD55.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceDecode/status/1507959578948177922#m\">https://nitter.net/DefenceDecode/status/1507959578948177922#m</a>\n</footer>\n</blockquote>",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "Japan's JS Takanami conducted a PASSEX with India's INS Surat off Mumbai today",
+      "link": "https://nitter.net/sidhant/status/2074838557949386974#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-08T18:20:35+05:30",
+      "time": "08 Jul, 06:20 PM",
+      "type": "tweets",
+      "content": "<p>Japan's JS Takanami conducted a PASSEX with India's INS Surat off Mumbai today</p>\n<img src=\"https://nitter.net/pic/media%2FHMtOqXybEAAYirw.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "India, Maldives Trade Ministers Hold Talks; Discuss FTA progress",
       "link": "https://nitter.net/sidhant/status/2074835905232454085#m",
@@ -837,6 +1029,16 @@
       "title": "RT by @Goreunit: EXCLUSIVE: STATE TERROR IN PoK \ud83d\udea8 As protests hit Day 30, the Pakistan Army stands exposed. Out of 59 killed by forces since June 5, only 3 bodies have been returned. The remains of 56 protesters are in the custody of Pakistan Army to conceal a massacre. Wounded civilians are being dragged straight out of hospitals. Sardar Aman Khan exposed the regime's brutality, stating, \"The bodies of our martyrs are in your custody.\" Mohammad Arbab also launched a scathing attack on the military regime: \"Remove your forces, lift the curfew, and give us back our dead bodies! You call us terrorists, but the world sees that the real terrorist is the Pakistani uniform.\"",
       "link": "https://nitter.net/shivank_8mishra/status/2074829611893182916#m",
       "source": "War & Gore",
+      "sort_key": "2026-07-08T17:45:02+05:30",
+      "time": "08 Jul, 05:45 PM",
+      "type": "tweets",
+      "content": "<p>EXCLUSIVE: STATE TERROR IN PoK \ud83d\udea8<br />\n<br />\nAs protests hit Day 30, the Pakistan Army stands exposed. Out of 59 killed by forces since June 5, only 3 bodies have been returned. The remains of 56 protesters are in the custody of Pakistan Army to conceal a massacre. Wounded civilians are being dragged straight out of hospitals.<br />\n<br />\nSardar Aman Khan exposed the regime's brutality, stating, \"The bodies of our martyrs are in your custody.\"<br />\n<br />\nMohammad Arbab also launched a scathing attack on the military regime: \"Remove your forces, lift the curfew, and give us back our dead bodies! You call us terrorists, but the world sees that the real terrorist is the Pakistani uniform.\"</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2074829611893182916#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074829453440802816%2Fimg%2FAppexAzKVaCigUHh.jpg\" />\n</a>",
+      "author": "@shivank_8mishra"
+    },
+    {
+      "title": "RT by @OsintTV: EXCLUSIVE: STATE TERROR IN PoK \ud83d\udea8 As protests hit Day 30, the Pakistan Army stands exposed. Out of 59 killed by forces since June 5, only 3 bodies have been returned. The remains of 56 protesters are in the custody of Pakistan Army to conceal a massacre. Wounded civilians are being dragged straight out of hospitals. Sardar Aman Khan exposed the regime's brutality, stating, \"The bodies of our martyrs are in your custody.\" Mohammad Arbab also launched a scathing attack on the military regime: \"Remove your forces, lift the curfew, and give us back our dead bodies! You call us terrorists, but the world sees that the real terrorist is the Pakistani uniform.\"",
+      "link": "https://nitter.net/shivank_8mishra/status/2074829611893182916#m",
+      "source": "Osint TV",
       "sort_key": "2026-07-08T17:45:02+05:30",
       "time": "08 Jul, 05:45 PM",
       "type": "tweets",
@@ -912,6 +1114,16 @@
       "type": "tweets",
       "content": "<p>Iran launched drone &amp; missile strikes targeting Bahrain &amp; Kuwait.<br />\n<br />\nThe attacks, claimed by IRGC were in direct retaliation for recent US airstrikes.<br />\n<br />\nKuwaiti air defenses intercepted the threats. Bahrain remains on high alert.</p>\n<a href=\"https://nitter.net/Globalwatchh/status/2074794277054664899#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074671603082809345%2Fimg%2FaNoHaAQqca9-cwUI.jpg\" />\n</a>",
       "author": "@Globalwatchh"
+    },
+    {
+      "title": "RT by @OsintTV: \u092e\u0939\u093e\u091c\u0928 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u0915\u0940 \u092c\u0921\u093c\u0940 \u0915\u093e\u0930\u094d\u0930\u0935\u093e\u0908: \u0916\u0947\u0924 \u092e\u0947\u0902 \u092e\u093f\u0932\u0947 \u091c\u093f\u0902\u0926\u093e \u092c\u092e \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0924\u0930\u0940\u0915\u0947 \u0938\u0947 \u0915\u093f\u092f\u093e \u0928\u093f\u0937\u094d\u0915\u094d\u0930\u093f\u092f, \u0928\u093f\u092f\u0902\u0924\u094d\u0930\u093f\u0924 \u0935\u093f\u0938\u094d\u092b\u094b\u091f \u0938\u0947 \u0917\u0942\u0902\u091c\u093e \u0907\u0932\u093e\u0915\u093e, \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u092c\u0921\u093c\u0947 \u0939\u093e\u0926\u0938\u0947 \u0915\u094b \u0938\u092e\u092f \u0930\u0939\u0924\u0947 \u091f\u093e\u0932\u093e A potentially dangerous situation was averted after the Indian Army's Bomb Disposal Squad safely neutralised a live bomb discovered in a farm near the Mahajan Field Firing Range in Rajasthan's Bikaner district. The operation, led by Lt Col Sashwat Patnaik, was carried out under strict safety protocols, with the explosive being shifted to an isolated location before a controlled detonation. The powerful blast sent a massive plume of sand into the air, while the area remained fully secured with the support of Mahajan Police. The successful operation highlights the Indian Army's professionalism, precision, and unwavering commitment to public safety. #IndianArmy #BombDisposal #EOD #LtColSashwatPatnaik #Mahajan #Bikaner #Rajasthan #FieldFiringRange #Military #Defence #NationalSecurity #ExplosiveOrdnanceDisposal #IndianForces #ArmyLife #SafetyFirst #India #MilitaryOperations #DefenceNews #TINNetwork",
+      "link": "https://nitter.net/DefenceSahil/status/2074793271977820427#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-08T15:20:38+05:30",
+      "time": "08 Jul, 03:20 PM",
+      "type": "tweets",
+      "content": "<p>\u092e\u0939\u093e\u091c\u0928 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u0915\u0940 \u092c\u0921\u093c\u0940 \u0915\u093e\u0930\u094d\u0930\u0935\u093e\u0908: \u0916\u0947\u0924 \u092e\u0947\u0902 \u092e\u093f\u0932\u0947 \u091c\u093f\u0902\u0926\u093e \u092c\u092e \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0924\u0930\u0940\u0915\u0947 \u0938\u0947 \u0915\u093f\u092f\u093e \u0928\u093f\u0937\u094d\u0915\u094d\u0930\u093f\u092f, \u0928\u093f\u092f\u0902\u0924\u094d\u0930\u093f\u0924 \u0935\u093f\u0938\u094d\u092b\u094b\u091f \u0938\u0947 \u0917\u0942\u0902\u091c\u093e \u0907\u0932\u093e\u0915\u093e, \u0938\u0902\u092d\u093e\u0935\u093f\u0924 \u092c\u0921\u093c\u0947 \u0939\u093e\u0926\u0938\u0947 \u0915\u094b \u0938\u092e\u092f \u0930\u0939\u0924\u0947 \u091f\u093e\u0932\u093e<br />\nA potentially dangerous situation was averted after the Indian Army's Bomb Disposal Squad safely neutralised a live bomb discovered in a farm near the Mahajan Field Firing Range in Rajasthan's Bikaner district. The operation, led by Lt Col Sashwat Patnaik, was carried out under strict safety protocols, with the explosive being shifted to an isolated location before a controlled detonation. The powerful blast sent a massive plume of sand into the air, while the area remained fully secured with the support of Mahajan Police. The successful operation highlights the Indian Army's professionalism, precision, and unwavering commitment to public safety.<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BombDisposal\">#BombDisposal</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23EOD\">#EOD</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LtColSashwatPatnaik\">#LtColSashwatPatnaik</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Mahajan\">#Mahajan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Bikaner\">#Bikaner</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rajasthan\">#Rajasthan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23FieldFiringRange\">#FieldFiringRange</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Military\">#Military</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Defence\">#Defence</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NationalSecurity\">#NationalSecurity</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ExplosiveOrdnanceDisposal\">#ExplosiveOrdnanceDisposal</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianForces\">#IndianForces</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ArmyLife\">#ArmyLife</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SafetyFirst\">#SafetyFirst</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23India\">#India</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryOperations\">#MilitaryOperations</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceNews\">#DefenceNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TINNetwork\">#TINNetwork</a></p>\n<a href=\"https://nitter.net/DefenceSahil/status/2074793271977820427#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074793199600799744%2Fimg%2Fqkdnj-dmCD90hFAu.jpg\" />\n</a>",
+      "author": "@DefenceSahil"
     },
     {
       "title": "India and Indonesia formally agreed to jointly develop Sabang Port during PM Modi's visit to Jakarta. The deal, which builds on a 2023 joint feasibility study, will establish a permanent footprint for New Delhi near the Strait of Malacca. Located in Aceh province on Weh Island Weh Island, the deep-water port complements India's $9 billion Great Nicobar transshipment terminal, located roughly 100 miles away roughly 100 miles away. Combined, these hubs allow India and Indonesia to jointly monitor and secure a chokepoint through which approximately 40% of global trade passes.",
@@ -1094,26 +1306,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "US to seek extradition of those who have been indicted from India, say US officials",
-      "link": "https://nitter.net/sidhant/status/2074746662296375395#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T12:15:25+05:30",
-      "time": "08 Jul, 12:15 PM",
-      "type": "tweets",
-      "content": "<p>US to seek extradition of those who have been indicted from India, say US officials</p>\n<a href=\"https://nitter.net/sidhant/status/2074746662296375395#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2074746647473774592%2Fpu%2Fimg%2Fdxr3LtOuQ1hbe-Ry.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian authorities have been cooperative, India is very happy with the operation, says US Authorities on multinational operation that led to arrest criminals, indictment",
-      "link": "https://nitter.net/sidhant/status/2074745150967021672#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T12:09:25+05:30",
-      "time": "08 Jul, 12:09 PM",
-      "type": "tweets",
-      "content": "<p>Indian authorities have been cooperative, India is very happy with the operation, says US Authorities on multinational operation that led to arrest criminals, indictment</p>\n<a href=\"https://nitter.net/sidhant/status/2074745150967021672#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2074745092708151296%2Fpu%2Fimg%2Ft-RrW3SKB4yh0SzO.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @NetramDefence: Manipur: Security forces arrested two militants linked to banned outfits for alleged extortion activities. A KNF cadre was apprehended in Jiribam with a country-made pistol, magazine and six live rounds, while a PLA member was arrested in Bishnupur. .",
       "link": "https://nitter.net/KangleipakDaily/status/2074744553220026586#m",
       "source": "Netram Defense",
@@ -1122,46 +1314,6 @@
       "type": "tweets",
       "content": "<p>Manipur: Security forces arrested two militants linked to banned outfits for alleged extortion activities.<br />\n<br />\nA KNF cadre was apprehended in Jiribam with a country-made pistol, magazine and six live rounds, while a PLA member was arrested in Bishnupur. .</p>\n<img src=\"https://nitter.net/pic/media%2FHMr5KQnbIAAbv-n.jpg\" />",
       "author": "@KangleipakDaily"
-    },
-    {
-      "title": "Just in: Anjani Kumar @sahayanjani appointed as the next Ambassador of India to Ukraine",
-      "link": "https://nitter.net/sidhant/status/2074742965164241125#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T12:00:44+05:30",
-      "time": "08 Jul, 12:00 PM",
-      "type": "tweets",
-      "content": "<p>Just in: Anjani Kumar <a href=\"https://nitter.net/sahayanjani\" title=\"Anjani Kumar Sahay\">@sahayanjani</a> appointed as the next Ambassador of India to Ukraine</p>\n<img src=\"https://nitter.net/pic/media%2FHMr3u2AbMAAYJXB.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India, Indonesia have agreed to complete the restoration of Prambanan Temple before 2029; I promise to come back here, says PM Modi",
-      "link": "https://nitter.net/sidhant/status/2074742231085506902#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T11:57:49+05:30",
-      "time": "08 Jul, 11:57 AM",
-      "type": "tweets",
-      "content": "<p>India, Indonesia have agreed to complete the restoration of Prambanan Temple before 2029; I promise to come back here, says PM Modi</p>\n<a href=\"https://nitter.net/sidhant/status/2074742231085506902#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2074742168649089024%2Fpu%2Fimg%2Fs_SAPSiEErTaeOxH.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "From Kailash Mansarovar to Prambanan Temple, one can hear the Mahamrityunjaya Mantra, says PM Modi",
-      "link": "https://nitter.net/sidhant/status/2074741512156700679#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T11:54:57+05:30",
-      "time": "08 Jul, 11:54 AM",
-      "type": "tweets",
-      "content": "<p>From Kailash Mansarovar to Prambanan Temple, one can hear the Mahamrityunjaya Mantra, says PM Modi</p>\n<a href=\"https://nitter.net/sidhant/status/2074741512156700679#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2074741437988847616%2Fpu%2Fimg%2FTfmFHo_BtnTFATbU.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi, Indonesia President Prabowo Subianto inaugurate Prambanan Temple Restoration Project in Yogyakarta",
-      "link": "https://nitter.net/sidhant/status/2074740574419325275#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T11:51:14+05:30",
-      "time": "08 Jul, 11:51 AM",
-      "type": "tweets",
-      "content": "<p>PM Modi, Indonesia President Prabowo Subianto inaugurate Prambanan Temple Restoration Project in Yogyakarta</p>\n<img src=\"https://nitter.net/pic/media%2FHMr1jPcbkAAhWIo.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Zakir Ahmad Ganie R/O Mutalhama, Kulgam, Kashmir (Lashkar Commander) Zakir became a pawn for Pakistan to label pakistani terrorism in Kashmir as a 'local freedom struggle '... But the truth is, it's cowards like Zakir who enable Pakistani terrorism in Kashmir. It's cowards like Zakir who kill innocent Kashmiris om behest of Radical maulanas sitting in Pakistan, and its because of pawns like Zakir, dozens of Pakistani terrorists are pushed inside Indian borders while these local stooges act like poster boys.",
@@ -1251,6 +1403,16 @@
       "time": "08 Jul, 10:20 AM",
       "type": "tweets",
       "content": "<p>\ud83d\udea8VDG opened fired on suspicious movement in Kalakote area of Rajouri<br />\n<br />\nFurther details awaited.</p>",
+      "author": "@AngryRumi7"
+    },
+    {
+      "title": "\ud83d\udea8 One Terrorist Body found inside Haystack in Shopian.",
+      "link": "https://nitter.net/AngryRumi7/status/2074717051684606459#m",
+      "source": "Angry Rumi",
+      "sort_key": "2026-07-08T10:17:46+05:30",
+      "time": "08 Jul, 10:17 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 One Terrorist Body found inside Haystack in Shopian.</p>\n<img src=\"https://nitter.net/pic/media%2FHMrgKJ5bsAA2fxk.jpg\" />",
       "author": "@AngryRumi7"
     },
     {
@@ -1632,111 +1794,11 @@
       "type": "tweets",
       "content": "<p>When the mission begins, comfort ends. Duty, courage, and sacrifice take over.<br />\n<br />\nSOG, somewhere in North Kashmir.</p>\n<img src=\"https://nitter.net/pic/media%2FHMj1WfgbcAAu8Rb.jpg\" />",
       "author": "@MikeLimaBravo12"
-    },
-    {
-      "title": "This is the emblem of Pakistan. In the centre shield, you will find 4 crops. Cotton, Wheat, Jute and Tea. This emblem is the biggest joke because Jute and Tea was majorly produced in East Pakistan, which is now Bangladesh. The current broken, defeated and surrendered Pakistan only grow cotton and wheat. Due to IWT abeyance, even that will be destroyed now.",
-      "link": "https://nitter.net/elitepredatorss/status/2074138045465440616#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-06T19:57:00+05:30",
-      "time": "06 Jul, 07:57 PM",
-      "type": "tweets",
-      "content": "<p>This is the emblem of Pakistan. In the centre shield, you will find 4 crops. Cotton, Wheat, Jute and Tea.<br />\n<br />\nThis emblem is the biggest joke because Jute and Tea was majorly produced in East Pakistan, which is now Bangladesh.<br />\n<br />\nThe current broken, defeated and surrendered Pakistan only grow cotton and wheat. Due to IWT abeyance, even that will be destroyed now.</p>\n<img src=\"https://nitter.net/pic/media%2FHMjBX1xbEAAMIrJ.png\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @OsintTV: Appears to be M-198 Gun Howitzer (range -24 km), belonging to 5 Artillery Brigade from D I Khan.",
-      "link": "https://nitter.net/Halat_i_Watan/status/2074136534815805522#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-06T19:51:00+05:30",
-      "time": "06 Jul, 07:51 PM",
-      "type": "tweets",
-      "content": "<p>Appears to be M-198 Gun Howitzer (range -24 km), belonging to  5 Artillery Brigade from D I Khan.</p>",
-      "author": "@Halat_i_Watan"
-    },
-    {
-      "title": "R to @OsintTV: For more updates pls subscribe to our TG channel \ud83d\udc47 https://t.me/OsntTV ...",
-      "link": "https://nitter.net/OsintTV/status/2074130035976380840#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-06T19:25:10+05:30",
-      "time": "06 Jul, 07:25 PM",
-      "type": "tweets",
-      "content": "<p>For more updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n...</p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://t.me/OsntTV\">\n<img src=\"https://nitter.net/pic/card_img%2F2072609476188774400%2FSSSPa_-o%3Fformat%3Djpg%26name%3D420x420_2\" />\n<br />\n<b>OsintTV \ud83d\udcfa\ufe0f</b>\n</a>\n<p>Disclaimer\u26a0: This Is A \ud83c\uddee\ud83c\uddf3 Channel Which Shares Updates On\ud83d\udee1\ufe0fForeign Affairs,\ud83d\udce1 Geopolitics &amp; \ud83d\udee9\ufe0f Aviation Twitter : https://x.com/OsintTV</p>\n<small><a href=\"https://t.me/OsntTV\">t.me</a></small>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "R to @OsintTV: For more exclusive updates pls subscribe to our TG channel \ud83d\udc47 https://t.me/OsntTV ...",
-      "link": "https://nitter.net/OsintTV/status/2074129874009121199#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-06T19:24:32+05:30",
-      "time": "06 Jul, 07:24 PM",
-      "type": "tweets",
-      "content": "<p>For more exclusive updates pls subscribe to our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/OsntTV\">t.me/OsntTV</a><br />\n<br />\n...</p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://t.me/OsntTV\">\n<img src=\"https://nitter.net/pic/card_img%2F2072609476188774400%2FSSSPa_-o%3Fformat%3Djpg%26name%3D420x420_2\" />\n<br />\n<b>OsintTV \ud83d\udcfa\ufe0f</b>\n</a>\n<p>Disclaimer\u26a0: This Is A \ud83c\uddee\ud83c\uddf3 Channel Which Shares Updates On\ud83d\udee1\ufe0fForeign Affairs,\ud83d\udce1 Geopolitics &amp; \ud83d\udee9\ufe0f Aviation Twitter : https://x.com/OsintTV</p>\n<small><a href=\"https://t.me/OsntTV\">t.me</a></small>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\udea8 Massive Public Outpouring in Haveli, Khurshidabad POJK After JAAC Call Large crowds gathered in Khurshidabad Tehsil, Haveli District, responding to a call by the Action Committee. Men, women, elderly citizens, and youth came out in significant numbers to raise their voices. The scale of participation signals growing public frustration with the Pak govt and establishment.",
-      "link": "https://nitter.net/OsintTV/status/2074129127834026296#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-06T19:21:34+05:30",
-      "time": "06 Jul, 07:21 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Massive Public Outpouring in Haveli, Khurshidabad POJK After JAAC Call<br />\n<br />\nLarge crowds gathered in Khurshidabad Tehsil, Haveli District, responding to a call by the Action Committee.<br />\n<br />\nMen, women, elderly citizens, and youth came out in significant numbers to raise their voices. The scale of participation signals growing public frustration with the Pak govt and establishment.</p>\n<a href=\"https://nitter.net/OsintTV/status/2074129127834026296#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074129033676062720%2Fimg%2FeYqPeWKRrGe6t0ts.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "This happened while we were busy catching Jihadis ! That's what those people were talking about when they said, most of the time goes into catching people trying to blow this country up. This is a matter of urgent attention.",
-      "link": "https://nitter.net/elitepredatorss/status/2074126972360282460#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-06T19:13:00+05:30",
-      "time": "06 Jul, 07:13 PM",
-      "type": "tweets",
-      "content": "<p>This happened while we were busy catching Jihadis !<br />\n<br />\nThat's what those people were talking about when they said, most of the time goes into catching people trying to blow this country up.<br />\n<br />\nThis is a matter of urgent attention.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Starlink gets approval to export unfiltered internet bandwidth from Bangladesh to neighbouring South Asian countries.<br />\n<br />\nThe state-owned Bangladesh Submarine Cables PLC (BSCCL) and private fibre networks will collect a fixed commission on all international traffic passing through their infrastructure.<br />\n<br />\nWhat that means: Nepal, Bhutan, and probably Myanmar will now get Starlink access.<br />\n<br />\nCan Starlink operate in India even without India's permission? Absolutely. Theoretically, it can operate inside India's borders even without India's permission.<br />\n<br />\nKeep believing these private companies are not a front for the US government and intelligence agencies, and keep attacking your companies that do the same for India.</p>\n<img src=\"https://nitter.net/pic/media%2FHMhw1rYagAADoZM.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2074031754432897529#m\">https://nitter.net/elitepredatorss/status/2074031754432897529#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Forces sweeping the area after an IED blast in which we lost 2 soldiers in Manipur. As per initial input, NSCN-IM carried out the IED blast; NSCN-IM is not particularly the most hostile group. This particular group has worked with the armed forces in Nagaland. Developing situation.",
-      "link": "https://nitter.net/elitepredatorss/status/2074120542802825303#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-06T18:47:27+05:30",
-      "time": "06 Jul, 06:47 PM",
-      "type": "tweets",
-      "content": "<p>Forces sweeping the area after an IED blast in which we lost 2 soldiers in Manipur.<br />\n<br />\nAs per initial input, NSCN-IM carried out the IED blast; NSCN-IM is not particularly the most hostile group. This particular group has worked with the armed forces in Nagaland.<br />\n<br />\nDeveloping situation.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2074120542802825303#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074119365293985792%2Fimg%2FYUV-gKNUcjLiIIi6.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "\ud83d\udea8 Pakistan Army Moves Heavy Artillery Toward Mohmand Amid Border Tensions According to local sources, a large number of Pakistan Army howitzers were seen moving along the Nahqi Tunnel road in Mohmand as part of a broader security response to heightened tensions along the Pakistan-Afghanistan border. Place: Mohmand Date: 04 July 2026 Open Source",
-      "link": "https://nitter.net/OsintTV/status/2074119676481732877#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-06T18:44:00+05:30",
-      "time": "06 Jul, 06:44 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Pakistan Army Moves Heavy Artillery Toward Mohmand Amid Border Tensions<br />\n<br />\nAccording to local sources, a large number of Pakistan Army howitzers were seen moving along the Nahqi Tunnel road in Mohmand as part of a broader security response to heightened tensions along the Pakistan-Afghanistan border.<br />\n<br />\nPlace: Mohmand<br />\nDate: 04 July 2026<br />\n<br />\nOpen Source</p>\n<a href=\"https://nitter.net/OsintTV/status/2074119676481732877#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074119566750330880%2Fimg%2FwUj9JzMbW2k3YR9Z.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @Goreunit: \ud83d\udea8 Pakistan Occupied Jammu and Kashmir in Turmoil! JAAC leaders have again openly labeled the Pakistani military and police as \"terrorist forces\". A final ultimatum has been issued to Pakistan. Protest will escalate many folds in the upcoming days ! #PoKProtests #Rawalakot #JAAC",
-      "link": "https://nitter.net/Goreunit/status/2074116554330083453#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-06T18:31:36+05:30",
-      "time": "06 Jul, 06:31 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 Pakistan Occupied Jammu and Kashmir in Turmoil!<br />\nJAAC leaders have again openly labeled the Pakistani military and police as \"terrorist forces\".<br />\nA final ultimatum has been issued to Pakistan.<br />\nProtest will escalate many folds in the upcoming days !<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoKProtests\">#PoKProtests</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rawalakot\">#Rawalakot</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23JAAC\">#JAAC</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2074116554330083453#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074116073310539777%2Fimg%2Fb6uwlNdGeYNAbQ8-.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8POJK PROTESTS:<br />\n'Sarfaroshi ki tamanna ab hamare Dil me hai....\" \ud83d\udd25<br />\nThousands of people gathered at the Rawalakot bus stand and echoed the famous Indian revolutionary anthem by Freedom fighter Pt. Ram Prasad Bismil.<br />\nPeople of PoJK want complete liberation from the tyranny of Pak army.</p>\n<a href=\"https://nitter.net/Goreunit/status/2074067096460484974#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074066730662637568%2Fimg%2FLWEd2QvpouscIus8.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2074067096460484974#m\">https://nitter.net/Goreunit/status/2074067096460484974#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "On 11 July, the #IndianNavy will commission INS #Mahendragiri (F38) - the 6th indigenous Project 17A stealth frigate. Designed by the Navy's Warship Design Bureau and built by MDL, she further strengthens India's self-reliance in advanced naval warship design and construction.",
-      "link": "https://nitter.net/DefenceDecode/status/2074114634521731374#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-07-06T18:23:58+05:30",
-      "time": "06 Jul, 06:23 PM",
-      "type": "tweets",
-      "content": "<p>On 11 July, the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianNavy\">#IndianNavy</a> will commission INS <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Mahendragiri\">#Mahendragiri</a> (F38) - the 6th indigenous Project 17A stealth frigate.<br />\nDesigned by the Navy's Warship Design Bureau and built by MDL, she further strengthens India's self-reliance in advanced naval warship design and construction.</p>\n<img src=\"https://nitter.net/pic/media%2FHMi74tIaAAAPejP.jpg\" />",
-      "author": "@DefenceDecode"
     }
   ],
   "youtube": [
     {
-      "title": "Indian Defence Updates : 6th Gen Fighter Invite,500 Km+ Astra Mk4,Vinashaka Kamikaze Drone",
+      "title": "Indian Defence Updates : France 6th Gen Fighter Invite,500Km Astra Mk4,Vinashaka Drone,Ugram Cleared",
       "link": "https://www.youtube.com/watch?v=ZZzUkCT54_4",
       "source": "Indian Defence Updates",
       "sort_key": "2026-07-08T17:54:18+05:30",
@@ -1818,6 +1880,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "08:24 PM IST"
   }
 }
