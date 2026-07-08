@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "India, Indonesia boost defence ties with BrahMos, maritime security pacts",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-indonesia-boost-defence-ties-with-brahmos-maritime-security-pacts/articleshow/132246219.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-08T06:00:00+05:30",
+      "time": "08 Jul, 06:00 AM",
+      "type": "news",
+      "description": "The two nations also signed memoranda of understanding (MoUs) on rare earth magnets and cooperation in minerals and technology used in the steel suppl..."
+    },
+    {
       "title": "Nitin Gadkari pushes hydrogen, ethanol to cut fossil fuel imports",
       "link": "https://www.tribuneindia.com/news/india/nitin-gadkari-pushes-hydrogen-ethanol-to-cut-fossil-fuel-imports",
       "source": "The Tribune",
@@ -773,15 +782,6 @@
       "time": "06 Jul, 07:33 AM",
       "type": "news",
       "description": "Moving at a speed of more than 18,000 kilometres (11,185 miles) per hour, Hayabusa2 was not intended to collide with Torifune."
-    },
-    {
-      "title": "\u2018We have some other friends, like India\u2019: Netanyahu pushes back on Vance\u2019s \u2018only ally\u2019 remark",
-      "link": "https://indianexpress.com/article/world/netanyahu-1-4-billion-indians-support-israel-vance-only-ally-10773062/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-06T05:52:08+05:30",
-      "time": "06 Jul, 05:52 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
@@ -1670,6 +1670,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
