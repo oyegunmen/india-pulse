@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "India\u2019s Aswath S becomes country\u2019s 98th Chess Grandmaster",
+      "link": "https://newsonair.gov.in/indias-aswath-s-becomes-countrys-98th-chess-grandmaster/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-09T09:35:36+05:30",
+      "time": "09 Jul, 09:35 AM",
+      "type": "news",
+      "description": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s..."
+    },
+    {
+      "title": "NIA searches three places in Andhra in terror link cases",
+      "link": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/09/nia-searches-three-places-in-andhra-in-terror-link-cases",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-09T09:25:31+05:30",
+      "time": "09 Jul, 09:25 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US hits 90 Iranian military targets in fresh strikes, 3 killed in Iran",
+      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-irgc-missile-strikes-kuwait-bahrain-trump-mou-over-10778193/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-09T09:25:21+05:30",
+      "time": "09 Jul, 09:25 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "India, Russia to step up counter-terror measures &amp; coordination amid rising threats in Af-Pak region &amp; Eurasia",
       "link": "https://economictimes.indiatimes.com/news/defence/india-russia-to-step-up-counter-terror-measures-coordination-amid-rising-threats-in-af-pak-region-eurasia/articleshow/132276032.cms",
       "source": "Economic Times",
@@ -422,15 +449,6 @@
       "time": "08 Jul, 07:15 PM",
       "type": "news",
       "description": "Global markets and oil prices lurched after the United States and Iran traded new strikes. The conflict threatened lives throughout the region and for..."
-    },
-    {
-      "title": "India, Maldives Reiterate Commitment to Bilateral Investment Treaty and FTA",
-      "link": "https://newsonair.gov.in/india-maldives-reiterate-commitment-to-bilateral-investment-treaty-and-fta/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-08T19:14:40+05:30",
-      "time": "08 Jul, 07:14 PM",
-      "type": "news",
-      "description": "India and Maldives today reaffirmed their commitment to expediting the signing of the Bilateral Investment Treaty and the proposed Free Trade Agreemen..."
     },
     {
       "title": "Trump says both sides in Ukraine war want a settlement",
@@ -980,36 +998,79 @@
       "time": "07 Jul, 11:14 AM",
       "type": "news",
       "description": "India's indigenous Astra Beyond-Visual-Range Air-to-Air Missile (BVRAAM), developed by DRDO, is set to gain a major international boost as Indonesia h..."
-    },
-    {
-      "title": "Modi-Prabowo talks: Indonesia to import Indian Astra missiles, EVMs and expand BrahMos inventory",
-      "link": "https://economictimes.indiatimes.com/news/defence/modi-prabowo-talks-indonesia-to-import-indian-astra-missiles-expand-brahmos-inventory/articleshow/132230460.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-07T10:16:15+05:30",
-      "time": "07 Jul, 10:16 AM",
-      "type": "news",
-      "description": "India and Indonesia will expand defense and critical mineral cooperation. Indonesia will induct Indian Astra missiles and expand BrahMos inventory. In..."
-    },
-    {
-      "title": "India-Indonesia sign BrahMos, ASTRA deal; expand bilateral ties",
-      "link": "https://economictimes.indiatimes.com/news/defence/pm-narendra-modi-holds-bilateral-meeting-with-indonesia-president-prabowo-subianto-signs-mou-defence-brahmos-astra-missile-sabang-port-strait-of-malacca/articleshow/132229970.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-07T10:15:23+05:30",
-      "time": "07 Jul, 10:15 AM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi and Indonesian President Prabowo Subianto held talks to strengthen strategic ties. They have signed around eight agreemen..."
-    },
-    {
-      "title": "How Indian-origin businessman allegedly posed as \u2018CIA agent\u2019 to enter Indonesia\u2019s $13.9 billion fighter jet deal",
-      "link": "https://indianexpress.com/article/world/indian-origin-man-poses-cia-agent-indonesia-defence-deal-10774659/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-07T09:53:13+05:30",
-      "time": "07 Jul, 09:53 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Big ticket announcements from Australia shortly during PM Modi's visit Defence Uranium deal Critical minerals Energy",
+      "link": "https://nitter.net/sidhant/status/2075076418632110437#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-09T10:05:45+05:30",
+      "time": "09 Jul, 10:05 AM",
+      "type": "tweets",
+      "content": "<p>Big ticket announcements from Australia shortly during PM Modi's visit<br />\nDefence<br />\nUranium deal<br />\nCritical minerals<br />\nEnergy</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Australia, India PACTS agreement to be announced shortly say sources; Will focus on cooperation in cyber, critical technology supply chain resilience",
+      "link": "https://nitter.net/sidhant/status/2075075932029911130#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-09T10:03:49+05:30",
+      "time": "09 Jul, 10:03 AM",
+      "type": "tweets",
+      "content": "<p>Australia, India PACTS agreement to be announced shortly say sources; Will focus on cooperation in cyber, critical technology supply chain resilience</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Australia, India to announce cooperation in critical mineral corridor say sources",
+      "link": "https://nitter.net/sidhant/status/2075075816896217569#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-09T10:03:22+05:30",
+      "time": "09 Jul, 10:03 AM",
+      "type": "tweets",
+      "content": "<p>Australia, India to announce cooperation in critical mineral corridor say sources</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Flash: India to announce import of LNG, Coal and Diesel from Australia shortly amid West Asia-Hormuz Crisis & diversification focus",
+      "link": "https://nitter.net/sidhant/status/2075075664802464156#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-09T10:02:46+05:30",
+      "time": "09 Jul, 10:02 AM",
+      "type": "tweets",
+      "content": "<p>Flash: India to announce import of LNG, Coal and Diesel from Australia shortly amid West Asia-Hormuz Crisis &amp; diversification focus</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Flash: India, Australia to shortly announce Uranium pact that will see India importing Uranium from down under fo civil nuclear energy",
+      "link": "https://nitter.net/sidhant/status/2075075459294138717#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-09T10:01:57+05:30",
+      "time": "09 Jul, 10:01 AM",
+      "type": "tweets",
+      "content": "<p>Flash: India, Australia to shortly announce Uranium pact that will see India importing Uranium from down under fo civil nuclear energy</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Flash: India, Australia to announce new defence declaration; Sources say they will create a defence innovation corridor for defence startups & manufacturing, focus on interoperability. Indian Army officer to be deployed in Australian Defence College",
+      "link": "https://nitter.net/sidhant/status/2075075186475634985#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-09T10:00:52+05:30",
+      "time": "09 Jul, 10:00 AM",
+      "type": "tweets",
+      "content": "<p>Flash: India, Australia to announce new defence declaration; Sources say they will create a defence innovation corridor for defence startups &amp; manufacturing, focus on interoperability. Indian Army officer to be deployed in Australian Defence College</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "An Indian Navy Drishti-10 unmanned aerial vehicle (UAV) crashed into an open field in the Nesh area near Dharampur village, approximately 6 km from Porbandar, Gujarat, during a training sortie on Wednesday afternoon. The Indian Navy confirmed that no injuries or loss of life were reported, and an investigation into the cause is currently underway.",
+      "link": "https://nitter.net/NetramDefence/status/2075070813049401810#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-09T09:43:29+05:30",
+      "time": "09 Jul, 09:43 AM",
+      "type": "tweets",
+      "content": "<p>An Indian Navy Drishti-10 unmanned aerial vehicle (UAV) crashed into an open field in the Nesh area near Dharampur village, approximately 6 km from Porbandar, Gujarat, during a training sortie on Wednesday afternoon. The Indian Navy confirmed that no injuries or loss of life were reported, and an investigation into the cause is currently underway.</p>\n<video loop=\"loop\" poster=\"https://nitter.net/pic/tweet_video_thumb%2FHMwhtGca0AAL7cX.jpg\">\n  <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHMwhtGca0AAL7cX.mp4\" type=\"video/mp4\" /></video>",
+      "author": "@NetramDefence"
+    },
     {
       "title": "#WATCH | Chabahar under fire. U.S. strikes hit Iran's only deep-water port tonight, with Iranian state media (IRIB) and CENTCOM-linked reporting both indicating the maritime traffic control tower was struck, along with the Shahid Beheshti dock and police-force dock. Roughly half the city reportedly lost power in the aftermath. Video circulating on OSINT accounts appears to show the tower hit.",
       "link": "https://nitter.net/alpha_defense/status/2075064975115313558#m",
@@ -1181,16 +1242,6 @@
       "author": "@STK7000"
     },
     {
-      "title": "Big day for India, Australia. 3rd India, Australia summit today chaired by PM Modi, PM Albanese. Key announcements expected in the areas of defence, energy. PM Modi to address Indian community, meet business leaders",
-      "link": "https://nitter.net/sidhant/status/2074971537031958712#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-09T03:09:00+05:30",
-      "time": "09 Jul, 03:09 AM",
-      "type": "tweets",
-      "content": "<p>Big day for India, Australia. <br />\n<br />\n3rd India, Australia summit today chaired by PM Modi, PM Albanese. Key announcements expected in the areas of defence, energy. PM Modi to address Indian community, meet business leaders</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Delhi-NCR\u2019s road architects deserve an award. Mix the Nobel Prize, the Oscars, and the Pulitzer in a blender, then rename it the DARINDA Award (Disaster Architecture, Road Infrastructure & Navigation Design Award).",
       "link": "https://nitter.net/alpha_defense/status/2074923810462281957#m",
       "source": "Alpha Defense",
@@ -1251,16 +1302,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "The Geneva AI Summit 2027 will be held from 21-22 June 2027 at Palexpo in Geneva, Switzerland, building on the momentum of the AI Impact Summit in New Delhi. The Summit will happen back-to-back with the ITU\u2019s AI for Good Global Summit: Swiss Statement",
-      "link": "https://nitter.net/sidhant/status/2074908445657158104#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T22:58:18+05:30",
-      "time": "08 Jul, 10:58 PM",
-      "type": "tweets",
-      "content": "<p>The Geneva AI Summit 2027 will be held from 21-22 June 2027 at Palexpo in Geneva, Switzerland, building on the momentum of the AI Impact Summit in New Delhi. The Summit will happen back-to-back with the ITU\u2019s AI for Good Global Summit: Swiss Statement</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "ISPR said that 42 security personnel, including 27 policemen, have been killed in militant attacks in Balochistan over the past three days.",
       "link": "https://nitter.net/Goreunit/status/2074900675503518049#m",
       "source": "War & Gore",
@@ -1309,46 +1350,6 @@
       "type": "tweets",
       "content": "<p>MALE UAVs do crash, and it\u2019s high time we start viewing them through the right lens. These are not manned platforms and shouldn\u2019t be treated as irreplaceable assets.<br />\n<br />\nRemember how many Hermes Israel was willing to risk and in some cases lose to gather intelligence and achieve operational objectives.<br />\n<br />\nIndia should procure MALE UAVs in large numbers and treat them as semi-attritable systems. Their value lies in being used aggressively, not preserved at all costs.</p>\n<img src=\"https://nitter.net/pic/media%2FHMt_nYYaAAA4sbU.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Indian courts would decide once the U.S. makes formal requests, Indian envoy to Canada @DineshKPatnaik on if US requests for extradition of Lawrence Bishnoi",
-      "link": "https://nitter.net/sidhant/status/2074889684145357152#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T21:43:44+05:30",
-      "time": "08 Jul, 09:43 PM",
-      "type": "tweets",
-      "content": "<p>Indian courts would decide once the U.S. makes formal requests, Indian envoy to Canada <a href=\"https://nitter.net/DineshKPatnaik\" title=\"Dinesh K. Patnaik\">@DineshKPatnaik</a> on if US requests for extradition of Lawrence Bishnoi</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian High Commissioner to Canada Dinesh Patnaik has welcomed the arrests and charges in Nijjar case, saying New Delhi had been asking for allies to crack down on transnational gangs. <br />\n<br />\nFrom Canada's Globe &amp; Mail:<br />\n<a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">theglobeandmail.com/canada/a\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">\n<img src=\"https://nitter.net/pic/card_img%2F2074563791522607104%2F1YyhVIX9%3Fformat%3Djpg%26name%3D600x314\" />\n<br />\n<b>Authorities charge dozens in transnational organized crime probe</b>\n</a>\n<p>Indictment accuses India-based Bishnoi gang of ordering 2023 killing of Sikh separatist Hardeep Singh Nijjar in Surrey, B.C.</p>\n<small><a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">theglobeandmail.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2074888528123814278#m\">https://nitter.net/sidhant/status/2074888528123814278#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\u201cFor a long time, there was a feeling in India that the countries in North America have been turning a blind eye, but the very fact that now you\u2019re taking action and the Americans are taking action is good news\" says Indian envoy to Canada @DineshKPatnaik on arrests",
-      "link": "https://nitter.net/sidhant/status/2074889448106660323#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T21:42:48+05:30",
-      "time": "08 Jul, 09:42 PM",
-      "type": "tweets",
-      "content": "<p>\u201cFor a long time, there was a feeling in India that the countries in North America have been turning a blind eye, but the very fact that now you\u2019re taking action and the Americans are taking action is good news\" says Indian envoy to Canada <a href=\"https://nitter.net/DineshKPatnaik\" title=\"Dinesh K. Patnaik\">@DineshKPatnaik</a> on arrests</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian High Commissioner to Canada Dinesh Patnaik has welcomed the arrests and charges in Nijjar case, saying New Delhi had been asking for allies to crack down on transnational gangs. <br />\n<br />\nFrom Canada's Globe &amp; Mail:<br />\n<a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">theglobeandmail.com/canada/a\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">\n<img src=\"https://nitter.net/pic/card_img%2F2074563791522607104%2F1YyhVIX9%3Fformat%3Djpg%26name%3D600x314\" />\n<br />\n<b>Authorities charge dozens in transnational organized crime probe</b>\n</a>\n<p>Indictment accuses India-based Bishnoi gang of ordering 2023 killing of Sikh separatist Hardeep Singh Nijjar in Surrey, B.C.</p>\n<small><a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">theglobeandmail.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2074888528123814278#m\">https://nitter.net/sidhant/status/2074888528123814278#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian High Commissioner to Canada Dinesh Patnaik has welcomed the arrests and charges in Nijjar case, saying New Delhi had been asking for allies to crack down on transnational gangs. From Canada's Globe & Mail: https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/",
-      "link": "https://nitter.net/sidhant/status/2074888528123814278#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T21:39:09+05:30",
-      "time": "08 Jul, 09:39 PM",
-      "type": "tweets",
-      "content": "<p>Indian High Commissioner to Canada Dinesh Patnaik has welcomed the arrests and charges in Nijjar case, saying New Delhi had been asking for allies to crack down on transnational gangs. <br />\n<br />\nFrom Canada's Globe &amp; Mail:<br />\n<a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">theglobeandmail.com/canada/a\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">\n<img src=\"https://nitter.net/pic/card_img%2F2074563791522607104%2F1YyhVIX9%3Fformat%3Djpg%26name%3D600x314\" />\n<br />\n<b>Authorities charge dozens in transnational organized crime probe</b>\n</a>\n<p>Indictment accuses India-based Bishnoi gang of ordering 2023 killing of Sikh separatist Hardeep Singh Nijjar in Surrey, B.C.</p>\n<small><a href=\"https://www.theglobeandmail.com/canada/article-authorities-charge-dozens-in-transnational-organized-crime-probe/\">theglobeandmail.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian foreign minister Dr S Jaishankar meets Kuwait Defence Minister",
-      "link": "https://nitter.net/sidhant/status/2074886125194494132#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-08T21:29:36+05:30",
-      "time": "08 Jul, 09:29 PM",
-      "type": "tweets",
-      "content": "<p>Indian foreign minister Dr S Jaishankar meets Kuwait Defence Minister</p>\n<img src=\"https://nitter.net/pic/media%2FHMt52NVagAAjO2x.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "\ud83d\udea8Report : According to BLA, its Majeed Brigade carried out a major attack on the residence compound of Shafiq Mengal in Khuzdar, Balochistan. Reportedly, Shafiq Mengal is an ISKP leader and the head of a pro establishment death squad. He is also reportedly closely associated with the Pakistan Army and Lashkar-e-Taiba. According to the BLA', the operation began with a suicide bomber targeting the fortified compound, followed by armed rebels breaching the premises while Mengal was allegedly meeting with his operatives. BLA further claims that more than 20 members of the alleged death squad were killed and that Mengal was present at the site. The operation is reportedly still ongoing. Note : These claims have not been independently verified.",
@@ -1999,20 +2000,10 @@
       "type": "tweets",
       "content": "<p>BrahMos-Indonesia is confirmed and moving (Phase 1: one coastal battery, more phases expected). Astra for Indonesia is still at the briefing/discussion stage no signed deal. Treat the \u201cAstra import decided\u201d claim as unconfirmed until MoD or maker states otherwise.</p>\n<img src=\"https://nitter.net/pic/media%2FHMmYEuqaIAAXqIK.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "#Update : Thales just paid 44% over market to grab Exail before Safran could. \u2705 \u20ac3.9B for a company that\u2019s #1 in Europe on mine-clearance drones and #2 worldwide in naval inertial nav. \u2705 Two-step deal: stake now, full buyout by 2028. This is about the Hormuz mine scare making UUV capability suddenly non-negotiable, not a routine bolt-on.",
-      "link": "https://nitter.net/alpha_defense/status/2074351002367701233#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-07T10:03:13+05:30",
-      "time": "07 Jul, 10:03 AM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Update\">#Update</a> : <br />\nThales just paid 44% over market to grab Exail before Safran could.<br />\n<br />\n\u2705 \u20ac3.9B for a company that\u2019s #1 in Europe on mine-clearance drones and #2 worldwide in naval inertial nav. <br />\n<br />\n\u2705 Two-step deal: stake now, full buyout by 2028. This is about the Hormuz mine scare making UUV capability suddenly non-negotiable, not a routine bolt-on.</p>\n<img src=\"https://nitter.net/pic/media%2FHMmTPNQbMAA7zdS.jpg\" />",
-      "author": "@alpha_defense"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "10:24 AM IST"
   }
 }
