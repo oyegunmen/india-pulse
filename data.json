@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Indian Army plans to induct 450 Carl Gustaf M4 rocket launchers. Here's what they can do",
+      "link": "https://economictimes.indiatimes.com/news/defence/indian-army-plans-to-induct-450-carl-gustaf-m4-rocket-launchers-heres-what-they-can-do/articleshow/132339943.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-12T07:49:27+05:30",
+      "time": "12 Jul, 07:49 AM",
+      "type": "news",
+      "description": "The Indian Army will induct 450 Carl Gustaf M4 rocket launchers soon. This lighter weapon enhances infantry firepower and operational effectiveness in..."
+    },
+    {
+      "title": "Typhoon Bavi makes landfall in eastern China\u2019s Taizhou after nearly 2 million evacuated",
+      "link": "https://newsonair.gov.in/typhoon-bavi-makes-landfall-in-eastern-chinas-taizhou-after-nearly-2-million-evacuated/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-12T07:48:38+05:30",
+      "time": "12 Jul, 07:48 AM",
+      "type": "news",
+      "description": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having ear..."
+    },
+    {
+      "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
+      "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-12T07:48:33+05:30",
+      "time": "12 Jul, 07:48 AM",
+      "type": "news",
+      "description": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists..."
+    },
+    {
+      "title": "UKMTO says crew abandon container ship near Oman after fire onboard",
+      "link": "https://economictimes.indiatimes.com/news/defence/ukmto-says-crew-abandon-container-ship-near-oman-after-fire-onboard/articleshow/132339936.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-12T07:44:12+05:30",
+      "time": "12 Jul, 07:44 AM",
+      "type": "news",
+      "description": "A container ship crew abandoned their vessel after sustaining rear damage and a fire. Military authorities reported the incident occurred nine nautica..."
+    },
+    {
       "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
       "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
       "source": "All India Radio",
@@ -10,15 +46,6 @@
       "description": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged contain..."
     },
     {
-      "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
-      "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-12T06:48:33+05:30",
-      "time": "12 Jul, 06:48 AM",
-      "type": "news",
-      "description": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists..."
-    },
-    {
       "title": "US military launches fresh strikes against Iran after Tehran closes Strait of Hormuz",
       "link": "https://economictimes.indiatimes.com/news/defence/us-military-launches-new-round-of-strikes-against-iran/articleshow/132339628.cms",
       "source": "Economic Times",
@@ -26,6 +53,15 @@
       "time": "12 Jul, 06:12 AM",
       "type": "news",
       "description": "United States forces launched new strikes against Iran following an attack on a ship. Iran's Revolutionary Guards declared the Strait of Hormuz closed..."
+    },
+    {
+      "title": "India-origin US lawmaker detained by Israeli settlers during West Bank visit",
+      "link": "https://indianexpress.com/article/world/ro-khanna-says-armed-settlers-held-him-in-west-bank-what-happened-10782456/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-12T04:59:46+05:30",
+      "time": "12 Jul, 04:59 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "Indian cavalry\u2019s vital but overlooked role in WW-I\u2019s deadliest battle",
@@ -656,15 +692,6 @@
       "time": "10 Jul, 10:25 AM",
       "type": "news",
       "description": "Taiwan's radar detected China's missile launch shortly after liftoff. This allowed the island to monitor the initial flight and share intelligence. Th..."
-    },
-    {
-      "title": "Gurugram: 4 Members of Deepak Nandal Gang Killed in Encounter, 1 Criminal, 3 Police Personnel Hurt",
-      "link": "https://www.deccanchronicle.com/nation/gurugram-4-members-of-deepak-nandal-gang-killed-in-encounter-1-criminal-3-police-personnel-hurt-1969760",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-10T07:42:53+05:30",
-      "time": "10 Jul, 07:42 AM",
-      "type": "news",
-      "description": "Police surrounded the criminals and in the ensuing gunfire, killed four of them, while one was injured. Three police personnel also sustained bullet i..."
     }
   ],
   "tweets": [
@@ -1635,6 +1662,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
