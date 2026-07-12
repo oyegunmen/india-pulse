@@ -1,13 +1,31 @@
 {
   "news": [
     {
-      "title": "US military launches new round of strikes against Iran",
+      "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
+      "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-12T07:21:40+05:30",
+      "time": "12 Jul, 07:21 AM",
+      "type": "news",
+      "description": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged contain..."
+    },
+    {
+      "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
+      "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-12T06:48:33+05:30",
+      "time": "12 Jul, 06:48 AM",
+      "type": "news",
+      "description": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists..."
+    },
+    {
+      "title": "US military launches fresh strikes against Iran after Tehran closes Strait of Hormuz",
       "link": "https://economictimes.indiatimes.com/news/defence/us-military-launches-new-round-of-strikes-against-iran/articleshow/132339628.cms",
       "source": "Economic Times",
       "sort_key": "2026-07-12T06:12:05+05:30",
       "time": "12 Jul, 06:12 AM",
       "type": "news",
-      "description": "The US military launched new strikes against Iran after a ship attack. Iran's Revolutionary Guards stated the Strait of Hormuz would be closed. These ..."
+      "description": "United States forces launched new strikes against Iran following an attack on a ship. Iran's Revolutionary Guards declared the Strait of Hormuz closed..."
     },
     {
       "title": "Indian cavalry\u2019s vital but overlooked role in WW-I\u2019s deadliest battle",
@@ -80,24 +98,6 @@
       "time": "11 Jul, 08:52 PM",
       "type": "news",
       "description": "<p>Imphal: Fresh unrest broke out in Manipur&#8217;s Imphal West district on Saturday after several abandoned houses belonging to members of the Meite..."
-    },
-    {
-      "title": "Prime Minister Modi concludes New Zealand visit, departs for India",
-      "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-11T20:50:03+05:30",
-      "time": "11 Jul, 08:50 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister t..."
-    },
-    {
-      "title": "15 Indians killed in a boat mishap in Vietnam",
-      "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-11T20:48:33+05:30",
-      "time": "11 Jul, 08:48 PM",
-      "type": "news",
-      "description": "Fifteen Indian tourists were killed after a boat capsized near Vietnam&#8217;s Phu Quoc Island today. The Embassy of India in Vietnam confirmed that t..."
     },
     {
       "title": "India, New Zealand To Double Annual Bilateral Trade To Rs 35,000 cr By 2030",
@@ -675,7 +675,7 @@
       "sort_key": "2026-07-11T23:52:09+05:30",
       "time": "11 Jul, 11:52 PM",
       "type": "tweets",
-      "content": "<p>A must watch Documentary on the Manipur issue and status quo.<br />\nGreat work and research by <a href=\"https://nitter.net/vinay_sultan\" title=\"Vinay Sultan\">@vinay_sultan</a> and team!<br />\n<br />\n<a href=\"https://piped.video/7_EIGh8-11c?si=LILS-h3AEWKUjvoB\">piped.video/7_EIGh8-11c?si=LILS\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/7_EIGh8-11c?si=LILS-h3AEWKUjvoB\">\n<img src=\"https://nitter.net/pic/card_img%2F2075821125909491712%2FjyTNk9KR%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Manipur Files | The Complete Story Behind India\u2019s Longest Ethnic Conflict | News Pinch Documentary</b>\n</a>\n<p>Odoo Link: https://www.odoo.com/r/HNUNManipur Files | Manipur Doc...</p>\n<small><a href=\"https://piped.video/7_EIGh8-11c?si=LILS-h3AEWKUjvoB\">youtube.com</a></small>",
+      "content": "<p>A must watch Documentary on the Manipur issue and status quo.<br />\nGreat work and research by <a href=\"https://nitter.net/vinay_sultan\" title=\"Vinay Sultan\">@vinay_sultan</a> and team!<br />\n<br />\n<a href=\"https://piped.video/7_EIGh8-11c?si=LILS-h3AEWKUjvoB\">piped.video/7_EIGh8-11c?si=LILS\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/7_EIGh8-11c?si=LILS-h3AEWKUjvoB\">\n<img src=\"https://nitter.net/pic/card_img%2F2075817167808012288%2F28g_G5lb%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Manipur Files | The Complete Story Behind India\u2019s Longest Ethnic Conflict | News Pinch Documentary</b>\n</a>\n<p>Odoo Link: https://www.odoo.com/r/HNUNManipur Files | Manipur Doc...</p>\n<small><a href=\"https://piped.video/7_EIGh8-11c?si=LILS-h3AEWKUjvoB\">youtube.com</a></small>",
       "author": "@Goreunit"
     },
     {
@@ -1219,16 +1219,6 @@
       "author": "@notam_in"
     },
     {
-      "title": "As per their SOP, the BLA released detailed and HD footage of their attack on the Pakistani Coast Guard Camp, which resulted in at least 30 confirmed casualties successfully hidden by Pak Army. The same video which the ISPR tried to claim as AI. Spectacular dedication to the cause by BLA and unmatched IW skills. Hats off !",
-      "link": "https://nitter.net/elitepredatorss/status/2075639186460413988#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-10T23:22:00+05:30",
-      "time": "10 Jul, 11:22 PM",
-      "type": "tweets",
-      "content": "<p>As per their SOP, the BLA released detailed and HD footage of their attack on the Pakistani Coast Guard Camp, which resulted in at least 30 confirmed casualties successfully hidden by Pak Army.<br />\n<br />\nThe same video which the ISPR tried to claim as AI.<br />\n<br />\nSpectacular dedication to the cause by BLA and unmatched IW skills. <br />\n<br />\nHats off !</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2075639186460413988#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075631390591422465%2Fimg%2FqIA3BIdGnb4kjX_X.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
       "title": "Test tweet",
       "link": "https://nitter.net/alpha_defense/status/2075639172828958874#m",
       "source": "Alpha Defense",
@@ -1256,6 +1246,56 @@
       "time": "10 Jul, 10:29 PM",
       "type": "tweets",
       "content": "<p>July 9, 2026, Melbourne: Modi and Albanese sign the Administrative Arrangement, operationalising the 2015 agreement after nearly two years of negotiations.<br />\n<br />\nNo volumes or start date announced yet.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "R to @elitepredatorss: December 2025: India passes the SHANTI Act. It ends the state monopoly on nuclear power, permits up to 49% private and foreign equity, and overhauls the licensing framework - addressing Canberra's concerns about India's civil nuclear rules",
+      "link": "https://nitter.net/elitepredatorss/status/2075626024482767057#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-10T22:29:42+05:30",
+      "time": "10 Jul, 10:29 PM",
+      "type": "tweets",
+      "content": "<p>December 2025: India passes the SHANTI Act.<br />\n<br />\nIt ends the state monopoly on nuclear power, permits up to 49% private and foreign equity, and overhauls the licensing framework - addressing Canberra's concerns about India's civil nuclear rules</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "R to @elitepredatorss: 2014: Abbott and Modi sign the Civil Nuclear Cooperation Agreement. It enters into force in November 2015. Shipments never begin. The two sides fail to agree on reporting procedures for tracking safeguarded uranium. The deal stalls for a decade.",
+      "link": "https://nitter.net/elitepredatorss/status/2075626021576212640#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-10T22:29:41+05:30",
+      "time": "10 Jul, 10:29 PM",
+      "type": "tweets",
+      "content": "<p>2014: Abbott and Modi sign the Civil Nuclear Cooperation Agreement. It enters into force in November 2015.<br />\n<br />\nShipments never begin. The two sides fail to agree on reporting procedures for tracking safeguarded uranium. The deal stalls for a decade.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "R to @elitepredatorss: Canberra's position shifted three times in five years: 2006 - Howard lifts the ban 2009 - Rudd restores it 2011 - Gillard's Labor votes to lift it again. Throughout, Australia continued selling uranium to China, an NPT signatory.",
+      "link": "https://nitter.net/elitepredatorss/status/2075626018338152551#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-10T22:29:40+05:30",
+      "time": "10 Jul, 10:29 PM",
+      "type": "tweets",
+      "content": "<p>Canberra's position shifted three times in five years:<br />\n<br />\n2006 - Howard lifts the ban<br />\n2009 - Rudd restores it<br />\n2011 - Gillard's Labor votes to lift it again.<br />\n<br />\nThroughout, Australia continued selling uranium to China, an NPT signatory.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "R to @elitepredatorss: 2008: The US-India nuclear deal produced an NSG waiver, making India the only non-NPT state eligible for civil nuclear trade. Australia voted for the waiver, while maintaining its own ban on selling to India.",
+      "link": "https://nitter.net/elitepredatorss/status/2075626015712551211#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-10T22:29:40+05:30",
+      "time": "10 Jul, 10:29 PM",
+      "type": "tweets",
+      "content": "<p>2008: The US-India nuclear deal produced an NSG waiver, making India the only non-NPT state eligible for civil nuclear trade.<br />\n<br />\nAustralia voted for the waiver, while maintaining its own ban on selling to India.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "R to @elitepredatorss: The block: Australia holds roughly a third of global uranium reserves. Since 1998, its policy barred sales to any non-NPT state. India tested nuclear weapons in 1974 and 1998, and faced sanctions and uranium import bans after Pokhran-II.",
+      "link": "https://nitter.net/elitepredatorss/status/2075626013086957908#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-10T22:29:39+05:30",
+      "time": "10 Jul, 10:29 PM",
+      "type": "tweets",
+      "content": "<p>The block: Australia holds roughly a third of global uranium reserves. Since 1998, its policy barred sales to any non-NPT state.<br />\n<br />\nIndia tested nuclear weapons in 1974 and 1998, and faced sanctions and uranium import bans after Pokhran-II.</p>",
       "author": "@elitepredatorss"
     },
     {
@@ -1517,6 +1557,16 @@
       "type": "tweets",
       "content": "<p>Satluj movie poster with timings of screening in various gurdwaras was found outside Gurudwara in Guru Nanak Nagar,Jammu</p>\n<a href=\"https://nitter.net/AngryRumi7/status/2075466013639135481#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075465160354152448%2Fimg%2FMxrIRRnkpzUYOA2P.jpg\" />\n</a>",
       "author": "@AngryRumi7"
+    },
+    {
+      "title": "\ud83d\udea8 Pakistan Occupied Jammu Kashmir Uprising Pakistan Army has been massacring civilians en masse in PoJK. Hundreds dead and hundreds wounded in the last 30 days. International community stays silent while brazen human rights violation going on! @UN_HRC @EURightsAgency @BBCWorld",
+      "link": "https://nitter.net/Goreunit/status/2075450143122522621#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-10T10:50:48+05:30",
+      "time": "10 Jul, 10:50 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Pakistan Occupied Jammu Kashmir Uprising <br />\nPakistan Army has been massacring civilians en masse in PoJK.<br />\nHundreds dead and hundreds wounded in the last 30 days.<br />\nInternational community stays silent while brazen human rights violation going on!<br />\n<a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2075450143122522621#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075450066517753856%2Fimg%2FQOyMTe2Zv1mzkctP.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2075450143122522621#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075450125162549248%2Fimg%2FxDXrDraJ-XRzeXel.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8 Massive protests ongoing in PoJK\ud83c\uddf5\ud83c\uddf0....<br />\nAround 80,000 people have gathered in Rawalakot for almost a month...<br />\nThey're demanding freedom from tyranny of Munir Shehbaz regime.</p>\n<a href=\"https://nitter.net/Goreunit/status/2073859470418178196#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2073857452240670720%2Fimg%2FPaPpQLSAJLaC_jLD.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2073859470418178196#m\">https://nitter.net/Goreunit/status/2073859470418178196#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1585,6 +1635,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
