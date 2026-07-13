@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Assam Rifles jawan dead, 4 injured in Nagaland IED blast",
+      "link": "https://www.tribuneindia.com/news/india/assam-rifles-jawan-dead-4-injured-in-nagaland-ied-blast",
+      "source": "The Tribune",
+      "sort_key": "2026-07-13T18:55:56+05:30",
+      "time": "13 Jul, 06:55 PM",
+      "type": "news",
+      "description": "An Assam Rifles jawan was killed and four others were injured in a suspected improvised explosive device (IED) blast in Chumoukedima district of Nagal..."
+    },
+    {
+      "title": "Piyush Goyal discusses Boosting Trade, Investment, Technology Ties During Spain Visit",
+      "link": "https://newsonair.gov.in/piyush-goyal-discusses-boosting-trade-investment-technology-ties-during-spain-visit/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-13T18:43:46+05:30",
+      "time": "13 Jul, 06:43 PM",
+      "type": "news",
+      "description": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain a..."
+    },
+    {
+      "title": "US, Iran Claim Control of Strait of Hormuz Amid Escalating Conflict",
+      "link": "https://newsonair.gov.in/us-iran-claim-control-of-strait-of-hormuz-amid-escalating-conflict/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-13T18:27:24+05:30",
+      "time": "13 Jul, 06:27 PM",
+      "type": "news",
+      "description": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh..."
+    },
+    {
+      "title": "UK unveils plan to ban Iran Revolutionary Guards: ministry",
+      "link": "https://economictimes.indiatimes.com/news/defence/uk-unveils-plan-to-ban-iran-revolutionary-guards-ministry/articleshow/132367364.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-13T18:19:02+05:30",
+      "time": "13 Jul, 06:19 PM",
+      "type": "news",
+      "description": "The UK government announced plans on Monday to ban Iran's Islamic Revolutionary Guard Corps (IRGC) as a threat to national security, alongside an Iran..."
+    },
+    {
+      "title": "Iran-backed Houthi rebels in Yemen say Saudi airstrikes hit Sanaa International Airport",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthi-rebels-in-yemen-say-saudi-airstrikes-hit-sanaa-international-airport/articleshow/132367207.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-13T18:15:09+05:30",
+      "time": "13 Jul, 06:15 PM",
+      "type": "news",
+      "description": "Houthi rebels reported Saudi airstrikes hit Sanaa airport on Monday. The Yemeni government stated strikes aimed to stop an Iranian plane landing. This..."
+    },
+    {
       "title": "Trump says US will 'take over' Strait of Hormuz; claims Iran broke truce deal",
       "link": "https://economictimes.indiatimes.com/news/defence/trump-says-us-will-take-over-strait-of-hormuz-claims-iran-broke-truce-deal/articleshow/132366953.cms",
       "source": "Economic Times",
@@ -10,7 +55,7 @@
       "description": "President Trump announced the United States will guard the Strait of Hormuz.  He stated America will act as the waterway's guardian and receive paymen..."
     },
     {
-      "title": "Nagaland: One one Assam Rifles personnel dead, four injured in suspected IED attack",
+      "title": "Nagaland: One Assam Rifles personnel dead, four injured in suspected IED attack",
       "link": "https://economictimes.indiatimes.com/news/defence/nagaland-one-dead-four-injured-in-suspected-ied-attack/articleshow/132366644.cms",
       "source": "Economic Times",
       "sort_key": "2026-07-13T17:56:19+05:30",
@@ -190,24 +235,6 @@
       "description": "US Senator Lindsey Graham, one of President Donald Trump&#8217;s closest allies in Congress and a prominent voice on US foreign policy, has died at th..."
     },
     {
-      "title": "ASEAN foreign ministers discuss Myanmar peace process in Bangkok",
-      "link": "https://newsonair.gov.in/asean-foreign-ministers-discuss-myanmar-peace-process-in-bangkok/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-13T08:53:09+05:30",
-      "time": "13 Jul, 08:53 AM",
-      "type": "news",
-      "description": "Foreign ministers of the Association of Southeast Asian Nations (ASEAN) held an informal meeting with Myanmar&#8217;s Foreign Minister in Bangkok, Tha..."
-    },
-    {
-      "title": "US launches fresh strikes on Iran",
-      "link": "https://newsonair.gov.in/us-launches-fresh-strikes-on-iran/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-13T08:38:56+05:30",
-      "time": "13 Jul, 08:38 AM",
-      "type": "news",
-      "description": "The United States has launched a fresh round of military strikes against Iran. The US Central Command (CENTCOM) said the operation was aimed at furthe..."
-    },
-    {
       "title": "IAF more powerful than China's air force, retains world's No. 3 rank for fifth consecutive year: WDMMA",
       "link": "https://economictimes.indiatimes.com/news/defence/iaf-more-powerful-than-chinas-air-force-retains-worlds-no-3-rank-for-fifth-consecutive-year-wdmma/articleshow/132354673.cms",
       "source": "Economic Times",
@@ -224,6 +251,15 @@
       "time": "13 Jul, 06:48 AM",
       "type": "news",
       "description": "Taiwan's defense ministry detected five Chinese naval vessels and ten official ships operating nearby. Taiwan's armed forces monitored the situation a..."
+    },
+    {
+      "title": "US-Iran War Live Updates: Iran military warns wider war would engulf region, blames US and allies",
+      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-strait-of-hormuz-strikes-gulf-attacks-10783607/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-13T06:16:17+05:30",
+      "time": "13 Jul, 06:16 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "Carlyle Consortium set to take control of defence parts supplier Micropack with a \u20b91,175 crore bet",
@@ -503,36 +539,79 @@
       "time": "11 Jul, 07:31 PM",
       "type": "news",
       "description": "<p>Auckland, July 11. Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon on July 11 celebrated the growing momentum in bil..."
-    },
-    {
-      "title": "Modi invites New Zealand businesses to tap India\u2019s growth story",
-      "link": "https://www.indiastrategic.in/modi-invites-new-zealand-businesses-to-tap-indias-growth-story/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-11T19:21:57+05:30",
-      "time": "11 Jul, 07:21 PM",
-      "type": "news",
-      "description": "<p>Auckland, July 11. Prime Minister Narendra Modi on July 11 invited New Zealand businesses to become active partners in India\u2019s economic transformat..."
-    },
-    {
-      "title": "India, New Zealand elevate ties to Strategic Partnership, unveil Roadmap to 2030",
-      "link": "https://www.indiastrategic.in/india-new-zealand-elevate-ties-to-strategic-partnership-unveil-roadmap-to-2030/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-11T19:04:09+05:30",
-      "time": "11 Jul, 07:04 PM",
-      "type": "news",
-      "description": "<p>By Aroonim Bhuyan New Delhi/Auckland, July 11. India and New Zealand have elevated their bilateral relationship to a Strategic Partnership, signall..."
-    },
-    {
-      "title": "Vietnam boat capsize: Who are the 15 Indians killed? Embassy releases victims\u2019 names",
-      "link": "https://indianexpress.com/article/world/vietnam-boat-capsize-indian-tourists-dead-phu-quoc-island-rescue-helpline-10782103/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-11T18:46:10+05:30",
-      "time": "11 Jul, 06:46 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Defence Secretary Rajesh Kumar Singh and Japanese Vice Minister of Defence for International Affairs Kano Koji co-chair 8th India\u2013Japan Defence Policy Dialogue in Tokyo",
+      "link": "https://nitter.net/sidhant/status/2076664374174069236#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-13T19:15:44+05:30",
+      "time": "13 Jul, 07:15 PM",
+      "type": "tweets",
+      "content": "<p>Defence Secretary Rajesh Kumar Singh and Japanese Vice Minister of Defence for International Affairs Kano Koji co-chair 8th India\u2013Japan Defence Policy Dialogue in Tokyo</p>\n<img src=\"https://nitter.net/pic/media%2FHNHK-v_aQAAmhCy.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Italy ready to help India build defence industry, says Italian Ambassador Bartoli @ItalyinIndia Interview: https://www.wionews.com/world/italy-ready-to-help-india-build-defence-industry-says-italian-ambassador-bartoli-1783938410895",
+      "link": "https://nitter.net/sidhant/status/2076658189958086839#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-13T18:51:09+05:30",
+      "time": "13 Jul, 06:51 PM",
+      "type": "tweets",
+      "content": "<p>Italy ready to help India build defence industry, says Italian Ambassador Bartoli <a href=\"https://nitter.net/ItalyinIndia\" title=\"Italy in India\">@ItalyinIndia</a> <br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/italy-ready-to-help-india-build-defence-industry-says-italian-ambassador-bartoli-1783938410895\">wionews.com/world/italy-read\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/italy-ready-to-help-india-build-defence-industry-says-italian-ambassador-bartoli-1783938410895\">\n<img src=\"https://nitter.net/pic/card_img%2F2076658190222286848%2F0kPkuzZZ%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Italy ready to help India build defence industry, says Italian Ambassador Bartoli</b>\n</a>\n<p>Italian Ambassador Antonio Bartoli has confirmed Italy\u2019s commitment to backing India\u2019s &quot;Atmanirbhar Bharat&quot; initiative by transitioning from a standard arms seller to a long-term strategic defense...</p>\n<small><a href=\"https://www.wionews.com/world/italy-ready-to-help-india-build-defence-industry-says-italian-ambassador-bartoli-1783938410895\">wionews.com</a></small>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: A message delivered in Auckland also reaches Amritsar, Toronto, Melbourne, Birmingham and all over. In this vlog, I examine how diaspora diplomacy has become a powerful part of foreign policy and why it must go beyond applause and achievements to include listening, representation, identity and belonging. Watch my latest vlog.",
+      "link": "https://nitter.net/rsrobin1/status/2076657010192580940#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-13T18:46:28+05:30",
+      "time": "13 Jul, 06:46 PM",
+      "type": "tweets",
+      "content": "<p>A message delivered in Auckland also reaches Amritsar, Toronto, Melbourne, Birmingham and all over.<br />\nIn this vlog, I examine how diaspora diplomacy has become a powerful part of foreign policy and why it must go beyond applause and achievements to include listening, representation, identity and belonging.<br />\n<br />\nWatch my latest vlog.</p>\n<a href=\"https://nitter.net/rsrobin1/status/2076657010192580940#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2076655022071496704%2Fimg%2FPuP9UW6jMX1eofOq.jpg\" />\n</a>",
+      "author": "@rsrobin1"
+    },
+    {
+      "title": "I heard someone argue that air-to-air missiles are ordered in tranches because they have a finite service life. That\u2019s correct but that is only part of the story and from very user seller point of view. Take the Indian Air Force\u2019s order for roughly 240 Astra missiles. Yes, a missile has a shelf life, and yes, if it is not kept in a temperature-controlled environment its life can reduce further. All of that is fair. But the real issue is: if you place missile orders with a clear long-term roadmap, the manufacturing ecosystem can plan properly. It knows how much to produce, when to deliver, and where to invest in infrastructure. It can build a little extra capacity to handle crisis situations, so you are not forced to look outside for emergency purchases when demand suddenly spikes. That is why a 20-year roadmap for missiles and manufacturing makes far more sense than simply ordering 240 today and then waiting to see when all the MKI are ready to carry them, or when the Mk1A fleet finally arrives. That should not be just procurement. It should be full lifecycle planning with proper phase out replacement etc built it. Instead we are arguing we will order it when MKI are modified or MK1A are delivered. This very thought process has placed IAF where it stands today.",
+      "link": "https://nitter.net/alpha_defense/status/2076656840260407788#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-13T18:45:47+05:30",
+      "time": "13 Jul, 06:45 PM",
+      "type": "tweets",
+      "content": "<p>I heard someone argue that air-to-air missiles are ordered in tranches because they have a finite service life. That\u2019s correct but that is only part of the story and from very user seller point of view.<br />\n<br />\nTake the Indian Air Force\u2019s order for roughly 240 Astra missiles. Yes, a missile has a shelf life, and yes, if it is not kept in a temperature-controlled environment its life can reduce further. All of that is fair.<br />\n<br />\nBut the real issue is: if you place missile orders with a clear long-term roadmap, the manufacturing ecosystem can plan properly. It knows how much to produce, when to deliver, and where to invest in infrastructure. It can build a little extra capacity to handle crisis situations, so you are not forced to look outside for emergency purchases when demand suddenly spikes.<br />\n<br />\nThat is why a 20-year roadmap for missiles and manufacturing makes far more sense than simply ordering 240 today and then waiting to see when all the MKI are ready to carry them, or when the Mk1A fleet finally arrives.<br />\n<br />\nThat should not be just procurement. It should be full lifecycle planning with proper phase out replacement etc built it.<br />\n<br />\nInstead we are arguing we will order it when MKI are modified or MK1A are delivered.<br />\nThis very thought process has placed IAF where it stands today.</p>\n<img src=\"https://nitter.net/pic/media%2FHNHEY1oakAAMRjW.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "VIKRAM VT-21 (AAP-Tr) from TASL and DRDO",
+      "link": "https://nitter.net/alpha_defense/status/2076654325510680748#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-13T18:35:48+05:30",
+      "time": "13 Jul, 06:35 PM",
+      "type": "tweets",
+      "content": "<p>VIKRAM VT-21 (AAP-Tr) from TASL and DRDO</p>\n<img src=\"https://nitter.net/pic/media%2FHNHCGcObYAAsvZQ.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @OsintTV: If Imran Riaz's allegations are true, they raise serious questions. He claims the DG ISPR, during what he described as a secret meeting, asked Pakistani journalists and news channels to intensify negative coverage of India and repeatedly push the narrative that India is on the verge of breaking apart. All this while Pakistan itself continues to grapple with unrest in Balochistan and Pakistan-occupied Kashmir. These allegations have not been independently verified.",
+      "link": "https://nitter.net/Drishti_K47/status/2076651688950366618#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-13T18:25:19+05:30",
+      "time": "13 Jul, 06:25 PM",
+      "type": "tweets",
+      "content": "<p>If Imran Riaz's allegations are true, they raise serious questions.<br />\n<br />\nHe claims the DG ISPR, during what he described as a secret meeting, asked Pakistani journalists and news channels to intensify negative coverage of India and repeatedly push the narrative that India is on the verge of breaking apart.<br />\n<br />\nAll this while Pakistan itself continues to grapple with unrest in Balochistan and Pakistan-occupied Kashmir.<br />\n<br />\nThese allegations have not been independently verified.</p>\n<a href=\"https://nitter.net/Drishti_K47/status/2076651688950366618#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2076651570876628992%2Fimg%2FYCIqOv2byarbsOGm.jpg\" />\n</a>",
+      "author": "@Drishti_K47"
+    },
+    {
+      "title": "RT by @sidhant: We have come across an account on X, @MEABharat. This account has absolutely no linkage to the Ministry. As such, it is impersonating the Ministry and misleading the public and undermining public interest. All are advised to exercise due caution.",
+      "link": "https://nitter.net/MEAFactCheck/status/2076650791453270332#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-13T18:21:45+05:30",
+      "time": "13 Jul, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>We have come across an account on X, <a href=\"https://nitter.net/MEABharat\" title=\"Ministry of External Affairs Bharat\">@MEABharat</a>. This account has absolutely no linkage to the Ministry. As such, it is impersonating the Ministry and misleading the public and undermining public interest. All are advised to exercise due caution.</p>\n<img src=\"https://nitter.net/pic/media%2FHNG-4uYbIAA2_nl.jpg\" />",
+      "author": "@MEAFactCheck"
+    },
     {
       "title": "BREAKING: Assam Rifles Jawan Killed in Suspected IED Blast in Nagaland One Assam Rifles jawan was killed and four others injured in a suspected IED blast near Sukhovi, Ch\u00fcmoukedima district, Nagaland, on Monday. The explosion reportedly occurred as an Assam Rifles convoy was moving through the area, close to a training centre. Security forces have launched a large-scale search operation, while the cause of the blast remains under investigation. This marks the second major attack on Assam Rifles personnel in the Northeast in less than a week, following the deadly ambush in Manipur's Ukhrul district.",
       "link": "https://nitter.net/NetramDefence/status/2076649276680409138#m",
@@ -964,26 +1043,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "PM Modi gifted Australian PM Anthony Albanese a box of premium Indian coffee & Tribal Dhokra Boat Sculpture",
-      "link": "https://nitter.net/sidhant/status/2076339591041392673#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-12T21:45:09+05:30",
-      "time": "12 Jul, 09:45 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi gifted Australian PM Anthony Albanese a box of premium Indian coffee &amp; Tribal Dhokra Boat Sculpture</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi gifted New Zealand PM Christopher Luxon an Uttarakhandi Pahari Cap & a hockey stick signed by the every member of the Indian Women's Hockey Team",
-      "link": "https://nitter.net/sidhant/status/2076338614804611353#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-12T21:41:16+05:30",
-      "time": "12 Jul, 09:41 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi gifted New Zealand PM Christopher Luxon an Uttarakhandi Pahari Cap &amp; a hockey stick signed by the every member of the Indian Women's Hockey Team</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @NetramDefence: Thousands gathered in Kangpokpi to pay last respects to 53-year-old Kuki-Zo farmer Haolal Singsit, who was killed on July 11 while working in his jhum field. CoTU has alleged involvement of NSCN-IM and ZUF-Kamson cadres, & urged authorities to take action against armed groups.",
       "link": "https://nitter.net/KangleipakDaily/status/2076337370572685521#m",
       "source": "Netram Defense",
@@ -992,26 +1051,6 @@
       "type": "tweets",
       "content": "<p>Thousands gathered in Kangpokpi to pay last respects to 53-year-old Kuki-Zo farmer Haolal Singsit, who was killed on July 11 while working in his jhum field. <br />\n<br />\nCoTU has alleged involvement of NSCN-IM and ZUF-Kamson cadres, &amp; urged authorities to take action against armed groups.</p>\n<img src=\"https://nitter.net/pic/media%2FHNChzTwbcAAZb37.jpg\" />",
       "author": "@KangleipakDaily"
-    },
-    {
-      "title": "From the history books The then Indian Prez APJ Abdul Kalam, PM Manmohan Singh receiving Qatar's Emir Sheikh Hamad Bin Khalifa al Thani at the forecourt of the Rashtrapati Bhawan during 2005 visit to Delhi.",
-      "link": "https://nitter.net/sidhant/status/2076332970823303291#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-12T21:18:51+05:30",
-      "time": "12 Jul, 09:18 PM",
-      "type": "tweets",
-      "content": "<p>From the history books<br />\n<br />\nThe then Indian Prez APJ Abdul Kalam, PM Manmohan Singh receiving Qatar's Emir Sheikh Hamad Bin Khalifa al Thani at the forecourt of the Rashtrapati Bhawan during 2005 visit to Delhi.</p>\n<img src=\"https://nitter.net/pic/media%2FHNCdTprbQAAySsr.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "PM Modi met Qatar's late father Amir during visit to the country in February 2024. Amir Hamad Bin Khalifa Al Thani will be seen as the architect of modern Qatar, transforming the state in the domains of energy to diplomacy, sports & India ties.",
-      "link": "https://nitter.net/sidhant/status/2076332177407795620#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-12T21:15:42+05:30",
-      "time": "12 Jul, 09:15 PM",
-      "type": "tweets",
-      "content": "<p>PM Modi met Qatar's late father Amir during visit to the country in February 2024. <br />\n<br />\nAmir Hamad Bin Khalifa Al Thani will be seen as the architect of modern Qatar, transforming the state in the domains of energy to diplomacy, sports &amp; India ties.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>PM Modi met Qatar's father Amir in Doha. Readout:</p>\n<img src=\"https://nitter.net/pic/media%2FGGYrL9sW4AATMLF.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/1758140206182498434#m\">https://nitter.net/sidhant/status/1758140206182498434#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "Pakistan Army has launched yet another military operation in Balochistan. Another Arabic name. Same conflict. Major publicly known operations include: \u2022 Operation Arrow (1973 to 1977) \u2022 Operation Radd ul Fasaad (2017 onwards) \u2022 Operation Radd ul Fitna 1 (2026) \u2022 Operation Shaban (2026) Alongside these, hundreds of unnamed clearance, combing, and intelligence based operations have been carried out across Balochistan over the past two decades. Balochistan is vast and unforgiving. It is not anyone's playground where forces can simply walk in, conduct operations, and expect the conflict to disappear. Video credit to the respective owners.",
@@ -1430,6 +1469,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
