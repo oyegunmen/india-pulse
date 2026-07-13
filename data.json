@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Red Fort to remain closed to public from July 15 to August 15",
+      "link": "https://www.tribuneindia.com/news/delhi/red-fort-to-remain-closed-to-public-from-july-15-to-august-15",
+      "source": "The Tribune",
+      "sort_key": "2026-07-13T20:54:45+05:30",
+      "time": "13 Jul, 08:54 PM",
+      "type": "news",
+      "description": "The Red Fort will be closed for public from July 16 July to August 15 to accommodate security arrangements for the upcoming Independence Day celebrati..."
+    },
+    {
+      "title": "28-year-old Hindu doctor killed during robbery in Pakistan",
+      "link": "https://www.tribuneindia.com/news/india/28-year-old-hindu-doctor-killed-during-robbery-in-pakistan",
+      "source": "The Tribune",
+      "sort_key": "2026-07-13T20:30:18+05:30",
+      "time": "13 Jul, 08:30 PM",
+      "type": "news",
+      "description": "A 28-year-old Hindu doctor was on Monday killed during a robbery in Pakistan&#8217;s Sindh province, police said. The incident took place in Karachi&#..."
+    },
+    {
+      "title": "UK: Oxford Begins Human Trial of New Ebola Vaccine",
+      "link": "https://newsonair.gov.in/uk-oxford-begins-human-trial-of-new-ebola-vaccine/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-13T20:29:07+05:30",
+      "time": "13 Jul, 08:29 PM",
+      "type": "news",
+      "description": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scien..."
+    },
+    {
+      "title": "India, Japan review defence ties, deepen strategic cooperation at 8th Defence Policy Dialogue",
+      "link": "https://www.indiastrategic.in/india-japan-review-defence-ties-deepen-strategic-cooperation-at-8th-defence-policy-dialogue/",
+      "source": "India Strategic",
+      "sort_key": "2026-07-13T20:23:07+05:30",
+      "time": "13 Jul, 08:23 PM",
+      "type": "news",
+      "description": "<p>By Aroonim Bhuyan New Delhi/Tokyo, July 13. India and Japan on July 13 reviewed the full spectrum of their growing defence partnership and agreed t..."
+    },
+    {
       "title": "Assam Rifles jawan dead, 4 injured in Nagaland IED blast",
       "link": "https://www.tribuneindia.com/news/india/assam-rifles-jawan-dead-4-injured-in-nagaland-ied-blast",
       "source": "The Tribune",
@@ -55,7 +91,7 @@
       "description": "Houthi rebels reported Saudi airstrikes hit Sanaa airport on Monday. The Yemeni government stated strikes aimed to stop an Iranian plane landing. This..."
     },
     {
-      "title": "Trump says US will 'take over' Strait of Hormuz; claims Iran broke truce deal",
+      "title": "Trump says US will be 'guardian' of Strait of Hormuz, impose 20% cargo levy",
       "link": "https://economictimes.indiatimes.com/news/defence/trump-says-us-will-take-over-strait-of-hormuz-claims-iran-broke-truce-deal/articleshow/132366953.cms",
       "source": "Economic Times",
       "sort_key": "2026-07-13T17:57:56+05:30",
@@ -107,15 +143,6 @@
       "time": "13 Jul, 05:15 PM",
       "type": "news",
       "description": "Technological advancements, especially drones, are altering global military spending patterns. India currently ranks as the fifth-largest global milit..."
-    },
-    {
-      "title": "ATS probing into funds sent by Pak gangster Bhatti to Maharashtra youths: Minister",
-      "link": "https://www.tribuneindia.com/news/india/ats-probing-into-funds-sent-by-pak-gangster-bhatti-to-maharashtra-youths-minister",
-      "source": "The Tribune",
-      "sort_key": "2026-07-13T15:50:14+05:30",
-      "time": "13 Jul, 03:50 PM",
-      "type": "news",
-      "description": "The Maharashtra Anti-Terrorism Squad (ATS) is investigating financial transactions made by Pakistan-based gangster Shahzad Bhatti to local youths whom..."
     },
     {
       "title": "UN chief urges Iran and US to \u2018urgently resume negotiations\u2019 as Gulf strikes escalate",
@@ -235,15 +262,6 @@
       "description": "Israel&#8217;s Parliament, the Knesset, has announced that national elections will be held on the 27th of October this year. The election is widely se..."
     },
     {
-      "title": "US Senator Lindsey Graham passes away at 71",
-      "link": "https://newsonair.gov.in/us-senator-lindsey-graham-passes-away-at-71/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-13T09:35:56+05:30",
-      "time": "13 Jul, 09:35 AM",
-      "type": "news",
-      "description": "US Senator Lindsey Graham, one of President Donald Trump&#8217;s closest allies in Congress and a prominent voice on US foreign policy, has died at th..."
-    },
-    {
       "title": "IAF more powerful than China's air force, retains world's No. 3 rank for fifth consecutive year: WDMMA",
       "link": "https://economictimes.indiatimes.com/news/defence/iaf-more-powerful-than-chinas-air-force-retains-worlds-no-3-rank-for-fifth-consecutive-year-wdmma/articleshow/132354673.cms",
       "source": "Economic Times",
@@ -260,15 +278,6 @@
       "time": "13 Jul, 06:48 AM",
       "type": "news",
       "description": "Taiwan's defense ministry detected five Chinese naval vessels and ten official ships operating nearby. Taiwan's armed forces monitored the situation a..."
-    },
-    {
-      "title": "US-Iran War Live Updates: Iran military warns wider war would engulf region, blames US and allies",
-      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-strait-of-hormuz-strikes-gulf-attacks-10783607/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-13T06:16:17+05:30",
-      "time": "13 Jul, 06:16 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Carlyle Consortium set to take control of defence parts supplier Micropack with a \u20b91,175 crore bet",
@@ -512,27 +521,49 @@
       "time": "11 Jul, 10:24 PM",
       "type": "news",
       "description": "Pak government has advised tourists to avoid the area till July 20"
-    },
-    {
-      "title": "Fresh tension erupts in Manipur after houses set ablaze in Imphal West",
-      "link": "https://nenews.in/manipur/fresh-tension-erupts-in-manipur-after-houses-set-ablaze-in-imphal-west/57013/",
-      "source": "NE News",
-      "sort_key": "2026-07-11T20:52:10+05:30",
-      "time": "11 Jul, 08:52 PM",
-      "type": "news",
-      "description": "<p>Imphal: Fresh unrest broke out in Manipur&#8217;s Imphal West district on Saturday after several abandoned houses belonging to members of the Meite..."
-    },
-    {
-      "title": "India, New Zealand To Double Annual Bilateral Trade To Rs 35,000 cr By 2030",
-      "link": "https://www.deccanchronicle.com/nation/world/india-new-zealand-to-double-annual-bilateral-trade-to-rs-35000-cr-by-2030-1970178",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-11T20:34:34+05:30",
-      "time": "11 Jul, 08:34 PM",
-      "type": "news",
-      "description": "Ten pacts were signed after the talks and eight announcements were made including that of Strategic Partnership. The agreements were in the field defe..."
     }
   ],
   "tweets": [
+    {
+      "title": "These Pakistani scammers are now peddling what they claim is fresh DRDO and Indian military data, but they're simply reselling the old material North Koreans breached back in 2024-25. 31 GB of supposedly top-secret files for $8,000? if it were genuine and current, the price would be far higher. This is just recycled, outdated data dressed up as a premium leak. Properly unverified and low-effort.",
+      "link": "https://nitter.net/elitepredatorss/status/2076683525110251608#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-13T20:31:49+05:30",
+      "time": "13 Jul, 08:31 PM",
+      "type": "tweets",
+      "content": "<p>These Pakistani scammers are now peddling what they claim is fresh DRDO and Indian military data, but they're simply reselling the old material North Koreans breached back in 2024-25. <br />\n<br />\n31 GB of supposedly top-secret files for $8,000? if it were genuine and current, the price would be far higher. This is just recycled, outdated data dressed up as a premium leak. <br />\n<br />\nProperly unverified and low-effort.</p>\n<img src=\"https://nitter.net/pic/media%2FHNHcnjnbkAA409d.jpg\" />",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Italy looks to firm up defence ties with India, On mobility keen to get more Indian nurses, says Italy's ambassador to India Antonio Bartoli @ItalyinIndia. Full interview:",
+      "link": "https://nitter.net/sidhant/status/2076681824089346081#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-13T20:25:04+05:30",
+      "time": "13 Jul, 08:25 PM",
+      "type": "tweets",
+      "content": "<p>Italy looks to firm up defence ties with India, On mobility keen to get more Indian nurses, says Italy's ambassador to India Antonio Bartoli <a href=\"https://nitter.net/ItalyinIndia\" title=\"Italy in India\">@ItalyinIndia</a>.<br />\n<br />\nFull interview:</p>\n<a href=\"https://nitter.net/sidhant/status/2076681824089346081#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2076675265028321280%2Fimg%2FA9VnLNrmp44Y4iSx.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: In a conversation with WION's @sidhant, Italy's Ambassador to India (@ItalyinIndia), Antonio Enrico Bartoli says ,\"I see a great momentum...,\" pointing to 2025-2029 Joint Action Plan as the driver of dialogue across political, economic, defence, space, energy and cultural domains",
+      "link": "https://nitter.net/WIONews/status/2076681293082071519#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-13T20:22:57+05:30",
+      "time": "13 Jul, 08:22 PM",
+      "type": "tweets",
+      "content": "<p>In a conversation with WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, Italy's Ambassador to India (<a href=\"https://nitter.net/ItalyinIndia\" title=\"Italy in India\">@ItalyinIndia</a>), Antonio Enrico Bartoli says ,\"I see a great momentum...,\" pointing to 2025-2029 Joint Action Plan as the driver of dialogue across political, economic, defence, space, energy and cultural domains</p>\n<a href=\"https://nitter.net/WIONews/status/2076681293082071519#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2076675265028321280%2Fimg%2FA9VnLNrmp44Y4iSx.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Trump announces \"Iranian Blockade\", says 20% will be charged on vessels operating through Hormuz",
+      "link": "https://nitter.net/sidhant/status/2076681142141669378#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-13T20:22:21+05:30",
+      "time": "13 Jul, 08:22 PM",
+      "type": "tweets",
+      "content": "<p>Trump announces \"Iranian Blockade\", says 20% will be charged on vessels operating through Hormuz</p>\n<img src=\"https://nitter.net/pic/media%2FHNHafWsbgAEZecN.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "In the 2022 contract, 200 Astra Mk-1 missiles were ordered for the Indian Air Force and 48 for the Indian Navy. A total of 248 missiles under a \u20b92,971 crore contract with Bharat Dynamics Limited (BDL).",
       "link": "https://nitter.net/alpha_defense/status/2076674006271603100#m",
@@ -864,6 +895,16 @@
       "author": "@alpha_defense"
     },
     {
+      "title": "RT by @AngryRumi7: Statistically, your spouse is the most likely person to murder you.",
+      "link": "https://nitter.net/stats_feed/status/2076591964519313808#m",
+      "source": "Angry Rumi",
+      "sort_key": "2026-07-13T14:28:00+05:30",
+      "time": "13 Jul, 02:28 PM",
+      "type": "tweets",
+      "content": "<p>Statistically, your spouse is the most likely person to murder you.</p>",
+      "author": "@stats_feed"
+    },
+    {
       "title": "RT by @OsintTV: Good riddance anyways",
       "link": "https://nitter.net/LtGenDPPandey/status/2076591488973291525#m",
       "source": "Osint TV",
@@ -994,16 +1035,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Maldives Economy Minister @em_saeed sees FTA with India opening opportunities for Maldivian marine industry. Interview: https://www.wionews.com/world/maldives-minister-saeed-sees-fta-with-india-opening-opportunities-for-maldivian-marine-industry-1783883853729",
-      "link": "https://nitter.net/sidhant/status/2076512133110739367#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-13T09:10:46+05:30",
-      "time": "13 Jul, 09:10 AM",
-      "type": "tweets",
-      "content": "<p>Maldives Economy Minister <a href=\"https://nitter.net/em_saeed\" title=\"Mohamed Saeed\">@em_saeed</a> sees FTA with India opening opportunities for Maldivian marine industry.<br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/maldives-minister-saeed-sees-fta-with-india-opening-opportunities-for-maldivian-marine-industry-1783883853729\">wionews.com/world/maldives-m\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/maldives-minister-saeed-sees-fta-with-india-opening-opportunities-for-maldivian-marine-industry-1783883853729\">\n<img src=\"https://nitter.net/pic/card_img%2F2076501972169973761%2FkCimD5im%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Maldives Minister Saeed sees FTA with India opening opportunities for Maldivian marine industry</b>\n</a>\n<p>For the Maldives, the agreements offer preferential access to India\u2019s vast market for fisheries, seafood, digital services and creative industries, while encouraging Indian investment in tourism,...</p>\n<small><a href=\"https://www.wionews.com/world/maldives-minister-saeed-sees-fta-with-india-opening-opportunities-for-maldivian-marine-industry-1783883853729\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: 12th Jul 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf CENTCOM unleashed a fierce wave of airstrikes hitting ~140 IRGC targets across Iran, including Bandar Abbas, Sirik, Chabahar, Bandar-e Deyr, Jask, and Asaluyeh. \u25cf Iran launched missile & drone strikes targeting US military sites in UAE (Al Dhafra Air Base), Kuwait, Bahrain (US 5th Fleet HQs), Jordan (Prince Hassan Air Base), and Qatar (Al Udeid Air Base). \u25cf India strongly condemned the attack on commercial vessel GFS GALAXY off the Oman coast, where an Indian national remains missing and 10 others were safely rescued. \u25cf IRGC announced the closure of the Strait of Hormuz until further notice, saying it will remain shut until US ends its military intervention in the region. \u25cf Meanwhile, CENTCOM claims that the strait is open to all vessels seeking to lawfully transit the international waterway. END OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2076394977240949157#m",
       "source": "Netram Defense",
@@ -1032,26 +1063,6 @@
       "type": "tweets",
       "content": "<p>Iron Dome will soon be manufactured in India \ud83d\udd25<br />\n<br />\nRafael Advanced Defence Systems in talks to setup production line for Iron Dome interceptors in India</p>",
       "author": "@FrontalForce"
-    },
-    {
-      "title": "India declares national mourning for Qatar's 'Father Amir' Sheikh Hamad bin Khalifa. PM Modi extends condolences, India to send minister Rijiju. PM Modi had met him in Feb 2024 during Doha visit. Sheikh Hamad visited India in 1999/2005/12 Reporting: https://www.wionews.com/world/india-declares-national-mourning-for-qatar-s-father-amir-sheikh-hamad-bin-khalifa-al-thani-1783875176805",
-      "link": "https://nitter.net/sidhant/status/2076362344352084277#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-12T23:15:34+05:30",
-      "time": "12 Jul, 11:15 PM",
-      "type": "tweets",
-      "content": "<p>India declares national mourning for Qatar's 'Father Amir' Sheikh Hamad bin Khalifa. PM Modi extends condolences, India to send minister Rijiju. <br />\n<br />\nPM Modi had met him in Feb 2024 during Doha visit. Sheikh Hamad visited India in 1999/2005/12<br />\n<br />\nReporting:<br />\n<a href=\"https://www.wionews.com/world/india-declares-national-mourning-for-qatar-s-father-amir-sheikh-hamad-bin-khalifa-al-thani-1783875176805\">wionews.com/world/india-decl\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/india-declares-national-mourning-for-qatar-s-father-amir-sheikh-hamad-bin-khalifa-al-thani-1783875176805\">\n<img src=\"https://nitter.net/pic/card_img%2F2076361996078043137%2Fw0lG2VSn%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India declares national mourning for Qatar&apos;s &apos;Father Amir&apos; Sheikh Hamad bin Khalifa Al-Thani</b>\n</a>\n<p>External Affairs Minister S Jaishankar had last called on Sheikh Hamad in December 2020, while PM Modi met him during his visit to Qatar in February 2024.</p>\n<small><a href=\"https://www.wionews.com/world/india-declares-national-mourning-for-qatar-s-father-amir-sheikh-hamad-bin-khalifa-al-thani-1783875176805\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Maldives Economy Minister Saeed @em_saeed sees FTA with India opening opportunities for Maldivian marine industry; Says, \"FTA will provide Maldivian businesses with preferential access to one of the world\u2019s largest and fastest-growing markets\" \ud83c\uddee\ud83c\uddf3 Full interview shortly",
-      "link": "https://nitter.net/sidhant/status/2076361908463206551#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-12T23:13:50+05:30",
-      "time": "12 Jul, 11:13 PM",
-      "type": "tweets",
-      "content": "<p>Maldives Economy Minister Saeed <a href=\"https://nitter.net/em_saeed\" title=\"Mohamed Saeed\">@em_saeed</a> sees FTA with India opening opportunities for Maldivian marine industry; Says, \"FTA will provide Maldivian businesses with preferential access to one of the world\u2019s largest and fastest-growing markets\" \ud83c\uddee\ud83c\uddf3<br />\n<br />\nFull interview shortly</p>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @NetramDefence: Thousands gathered in Kangpokpi to pay last respects to 53-year-old Kuki-Zo farmer Haolal Singsit, who was killed on July 11 while working in his jhum field. CoTU has alleged involvement of NSCN-IM and ZUF-Kamson cadres, & urged authorities to take action against armed groups.",
@@ -1332,59 +1343,18 @@
       "type": "tweets",
       "content": "<p>The common people of PoJK have shown extreme courage and grit against the Pakistani\ud83c\uddf5\ud83c\uddf0 occupation till now.<br />\n15th July will mark the start of end of illegal Pakistani occupation in PoJK.<br />\nTremors already being felt in Pindi GHQ\ud83d\ude02</p>\n<a href=\"https://nitter.net/Goreunit/status/2075971909867733220#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075971842012258304%2Fimg%2FvqTFzci1uVY2Ta-9.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Protestors in Pakistan Occupied Kashmir hv called for removal of Pakistani occupational forces. A major protest has been called on 15th July. Last few months have seen massive protest against Pakistani military that has restored to human rights violations, killings.<br />\n<br />\nVdo csty: X</p>\n<a href=\"https://nitter.net/sidhant/status/2075825056907997315#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075824972581507072%2Fimg%2Fvi5XU9pVKcjaXfkA.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2075825056907997315#m\">https://nitter.net/sidhant/status/2075825056907997315#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83d\udea8The National Investigation Agency (NIA) has filed charges against eight accused, including Pakistani gangster-turned-terrorist Shehzad Bhatti, in connection with the IED car bomb blast in the parking area of Ambala\u2019s Baldev Nagar police station in January this year. \u00a0 Besides the Pak national and handler Bhatti, other chargesheeted accused have been identified as Karamjit Singh @ Tony, Akash, Soureb @ Sobi @ Sourab, Raman Kumar,\u00a0 Satyam, Sukhdev Singh @ Sukha, Amarjeet Singh @ Ambi.",
-      "link": "https://nitter.net/Goreunit/status/2075968524934324734#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-11T21:10:40+05:30",
-      "time": "11 Jul, 09:10 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8The National Investigation Agency (NIA) has filed charges against eight accused, including Pakistani gangster-turned-terrorist Shehzad Bhatti, in connection with the IED car bomb blast in the parking area of Ambala\u2019s Baldev Nagar police station in January this year.<br />\n\u00a0<br />\nBesides the Pak national and handler Bhatti, other chargesheeted accused have been identified as Karamjit Singh @ Tony, Akash, Soureb @ Sobi @ Sourab, Raman Kumar,\u00a0 Satyam, Sukhdev Singh @ Sukha, Amarjeet Singh @ Ambi.</p>\n<img src=\"https://nitter.net/pic/media%2FHM9SXLIbQAE2xHL.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHM9SXjzbAAA7J16.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Aero India 08 Feb 2027.",
-      "link": "https://nitter.net/alpha_defense/status/2075963590839079161#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-11T20:51:04+05:30",
-      "time": "11 Jul, 08:51 PM",
-      "type": "tweets",
-      "content": "<p>Aero India 08 Feb 2027.</p>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "RT by @notam_in: Aero India 08 Feb 2027.",
-      "link": "https://nitter.net/alpha_defense/status/2075963590839079161#m",
-      "source": "Notam India",
-      "sort_key": "2026-07-11T20:51:04+05:30",
-      "time": "11 Jul, 08:51 PM",
-      "type": "tweets",
-      "content": "<p>Aero India 08 Feb 2027.</p>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "I would have said that, but then the DAPROs would be after me. (and I am not scared but have way better things to do). Ironically, we spend far more energy targeting our own people simply because they don\u2019t align with the \u201cbusiness as usual\u201d narrative. At this point, I\u2019m more in the \u201cI\u2019m done\u201d phase. You have qualified people for the job, let them do it. I\u2019ll focus on engineering whenever I get the time.",
-      "link": "https://nitter.net/alpha_defense/status/2075962725034062024#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-11T20:47:37+05:30",
-      "time": "11 Jul, 08:47 PM",
-      "type": "tweets",
-      "content": "<p>I would have said that, but then the DAPROs would be after me. (and I am not scared but have way better things to do).<br />\n<br />\nIronically, we spend far more energy targeting our own people simply because they don\u2019t align with the \u201cbusiness as usual\u201d narrative.<br />\n<br />\nAt this point, I\u2019m more in the \u201cI\u2019m done\u201d phase. You have qualified people for the job, let them do it. I\u2019ll focus on engineering whenever I get the time.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>On Instagram, a narrative that the Chinese Army has entered Arunachal and captured 60 km of Indian territory is gaining traction.<br />\n<br />\nI have counted almost 9-10 million views collectively on those reels. It appears to be a cheap paid job, using footage of the Royal Thai Army and depicting it as the Chinese Army, combined with some footage from Manipur to make it more dramatic.<br />\n<br />\nIt has been going on for around 7-8 days. I have been closely monitoring it and watching how quickly the Indian Army responds, since it is gaining traction.<br />\n<br />\nThe response came 3 days later from an official Indian Army fact-checking handle. <br />\n<br />\nGuess the number of views - approx 19,000 by the time I am writing this post.<br />\n<br />\nThe Chinese will cook us so well in IW that the Indian Armed Forces will spend half a decade just fact-checking them!<br />\n<br />\nGood luck, gentlemen.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2075866617335235026#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075866546904383488%2Fimg%2FHy_UVxte4wZCvatN.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2075866617335235026#m\">https://nitter.net/elitepredatorss/status/2075866617335235026#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "Hear those proud words ! When I say people are proud of indigenous weapons, I mean they don't feel the same emotional connection with imported ones. For many, depending on foreign equipment is humiliating (& i am one among them). A country of India's stature should be able to build what it needs, and armed forces are stakeholders in that. In this regard, the Indian Navy stands out and that sense of ownership and pride is evident. Way to go, Indian Navy. \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/alpha_defense/status/2075959403573076073#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-11T20:34:25+05:30",
-      "time": "11 Jul, 08:34 PM",
-      "type": "tweets",
-      "content": "<p>Hear those proud words !<br />\n<br />\nWhen I say people are proud of indigenous weapons, I mean they don't feel the same emotional connection with imported ones. For many, depending on foreign equipment is humiliating (& i am one among them). A country of India's stature should be able to build what it needs, and armed forces are stakeholders in that.<br />\n<br />\nIn this regard, the Indian Navy stands out and that sense of ownership and pride is evident.<br />\n<br />\nWay to go, Indian Navy. \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/alpha_defense/status/2075959403573076073#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075957823251640320%2Fimg%2Fodq4YqSoGvmmReUf.jpg\" />\n</a>",
-      "author": "@alpha_defense"
     }
   ],
   "youtube": [
+    {
+      "title": "Russia ne S500 Dene Se kar Dia,Pakistan KAAN Se India Par Pressure?,Pinaka Mk-IV, Rafale M Update",
+      "link": "https://www.youtube.com/watch?v=nSBZKDYcCUg",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-13T21:00:34+05:30",
+      "time": "13 Jul, 09:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/nSBZKDYcCUg/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Su-57 on Track,Rafale-M Arrival,S-500 Joint Venture Offer,Gambit Wingman",
       "link": "https://www.youtube.com/watch?v=Rw74ml1d9fc",
@@ -1450,6 +1420,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
