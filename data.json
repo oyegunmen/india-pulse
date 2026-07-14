@@ -1,7 +1,16 @@
 {
   "news": [
     {
-      "title": "One Indian sailor killed, 6 others injured after Iran hits UAE tankers in Strait of Hormuz",
+      "title": "EU coordinates efforts to raise one billion dollars in aid for Gaza",
+      "link": "https://newsonair.gov.in/eu-coordinates-efforts-to-raise-one-billion-dollars-in-aid-for-gaza/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-14T06:21:06+05:30",
+      "time": "14 Jul, 06:21 AM",
+      "type": "news",
+      "description": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is wo..."
+    },
+    {
+      "title": "Indian sailor killed, 8 injured as Iranian missiles hit UAE tankers in Hormuz",
       "link": "https://indianexpress.com/article/world/indian-crew-member-killed-iran-missiles-uae-tankers-strait-of-hormuz-10785131/",
       "source": "The Indian Express",
       "sort_key": "2026-07-14T05:17:08+05:30",
@@ -352,15 +361,6 @@
       "description": ""
     },
     {
-      "title": "NCW takes suo motu cognisance of Keralam student\u2019s murder in Uzbekistan",
-      "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-13T10:44:13+05:30",
-      "time": "13 Jul, 10:44 AM",
-      "type": "news",
-      "description": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam..."
-    },
-    {
       "title": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk",
       "link": "https://economictimes.indiatimes.com/news/defence/us-iran-tensions-cause-traffic-in-strait-of-hormuz-to-plummet-as-safety-risks-surge/articleshow/132356928.cms",
       "source": "Economic Times",
@@ -388,7 +388,7 @@
       "description": "Taiwan's defense ministry detected five Chinese naval vessels and ten official ships operating nearby. Taiwan's armed forces monitored the situation a..."
     },
     {
-      "title": "US-Iran War Live Updates: US launches fresh strikes on Iran; Indian crew member killed as Iranian missiles hit UAE tankers in Hormuz",
+      "title": "US-Iran War Live Updates: US launches fresh strikes on Iran; Indian crew member killed as missiles hit UAE tankers in Hormuz",
       "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-strait-of-hormuz-strikes-gulf-attacks-10783607/",
       "source": "The Indian Express",
       "sort_key": "2026-07-13T06:16:17+05:30",
@@ -602,15 +602,6 @@
       "time": "12 Jul, 07:44 AM",
       "type": "news",
       "description": "A container ship crew abandoned their vessel after sustaining rear damage and a fire. Military authorities reported the incident occurred nine nautica..."
-    },
-    {
-      "title": "US military launches fresh strikes against Iran after Tehran closes Strait of Hormuz",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-military-launches-new-round-of-strikes-against-iran/articleshow/132339628.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-12T06:12:05+05:30",
-      "time": "12 Jul, 06:12 AM",
-      "type": "news",
-      "description": "United States forces launched new strikes against Iran following an attack on a ship. Iran's Revolutionary Guards declared the Strait of Hormuz closed..."
     }
   ],
   "tweets": [
@@ -1481,6 +1472,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "06:24 AM IST"
   }
 }
