@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "\u2018Are you Muslim?\u2019: Indian-origin man stabbed 15 times in US after religion questioned",
+      "link": "https://indianexpress.com/article/world/indian-origin-muslim-man-stabbed-utah-valley-fair-mall-hate-crime-10788275/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-15T22:14:27+05:30",
+      "time": "15 Jul, 10:14 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "C\u2019garh: End Of Maoism Paves Way For Implementation Of \u2018Bastar Roadmap 2.0\u2019: Sai",
+      "link": "https://www.deccanchronicle.com/nation/cgarh-end-of-maoism-paves-way-for-implementation-of-bastar-roadmap-20-sai-1971201",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-07-15T22:13:03+05:30",
+      "time": "15 Jul, 10:13 PM",
+      "type": "news",
+      "description": "The government\u2019s focus has now shifted (following the end of Maoism) to the long-term development of Bastar through \u2018Bastar Roadmap 2.0\u2019: Chief minist..."
+    },
+    {
+      "title": "India, EU reaffirm strategic partnership at 3rd Trade and Technology Council",
+      "link": "https://www.tribuneindia.com/news/business/india-eu-reaffirm-strategic-partnership-at-3rd-trade-and-technology-council",
+      "source": "The Tribune",
+      "sort_key": "2026-07-15T22:08:34+05:30",
+      "time": "15 Jul, 10:08 PM",
+      "type": "news",
+      "description": "India and the European Union (EU) on Wednesday held the third meeting of their Trade and Technology Council (TTC) in Brussels, reaffirming the TTC as ..."
+    },
+    {
+      "title": "Manipur CM visits arson-hit Kanto Sabal, reaffirms commitment to peace",
+      "link": "https://nenews.in/manipur/manipur-cm-visits-arson-hit-kanto-sabal-reaffirms-commitment-to-peace/57485/",
+      "source": "NE News",
+      "sort_key": "2026-07-15T21:36:50+05:30",
+      "time": "15 Jul, 09:36 PM",
+      "type": "news",
+      "description": "<p>Manipur Chief Minister Yumnam Khemchand Singh on Wednesday visited Kanto Sabal village in Imphal West district, where six abandoned houses belongin..."
+    },
+    {
       "title": "Indian driver gets nearly five years in jail for fatal California crash",
       "link": "https://indianexpress.com/article/world/jashanpreet-singh-california-10-freeway-truck-accident-prison-sentence-10787777/",
       "source": "The Indian Express",
@@ -107,6 +143,24 @@
       "time": "15 Jul, 05:55 PM",
       "type": "news",
       "description": "The US military has said that it has launched a new round of attacks on Iran today. The US military\u2019s Central Command (CENTCOM) said, the strikes are ..."
+    },
+    {
+      "title": "Indian missing in attack on commercial vessel in Hormuz confirmed dead, says family",
+      "link": "https://defencemonitor.in/indian-missing-in-attack-on-commercial-vessel-in-hormuz-confirmed-dead-says-family/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-07-15T17:51:51+05:30",
+      "time": "15 Jul, 05:51 PM",
+      "type": "news",
+      "description": "<p>Pune, July 15 (IANS) Heramb Karmarkar, a marine engineer from Pune who had gone missing following an attack on the merchant vessel &#8216;GFX Galax..."
+    },
+    {
+      "title": "Iran\u2019s IRGC claims attacks on US military facilities in Bahrain, Jordan",
+      "link": "https://defencemonitor.in/irans-irgc-claims-attacks-on-us-military-facilities-in-bahrain-jordan/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-07-15T17:47:28+05:30",
+      "time": "15 Jul, 05:47 PM",
+      "type": "news",
+      "description": "<p>Tehran, July 15 (IANS) Iran&#8217;s Islamic Revolutionary Guards Corps (IRGC) said on Wednesday that it conducted retaliatory strikes against the U..."
     },
     {
       "title": "Protests continue in Pakistan-occupied Jammu and Kashmir for 36th consecutive day",
@@ -494,45 +548,99 @@
       "time": "13 Jul, 10:59 PM",
       "type": "news",
       "description": "\u201cSatluj\u201d tells the true tale of a human rights activist who investigated thousands of disappearances and extrajudicial killings during a government cr..."
-    },
-    {
-      "title": "\"Neither Ankit Sharma's Family Nor Tahir Hussain Got Justice\": Defence Lawyer",
-      "link": "https://www.deccanchronicle.com/nation/defence-slams-conviction-no-justice-done-to-ankit-sharmas-family-or-tahir-hussain-1970649",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-13T21:59:55+05:30",
-      "time": "13 Jul, 09:59 PM",
-      "type": "news",
-      "description": "\"In such cases, everyone loses,\" Pandey said, adding the victim's family had suffered, and now the family of the convicted accused would also suffer."
-    },
-    {
-      "title": "WATCH: In First-of-Its-Kind Combat Operation, US Deploys Sea Drones to Strike Iranian Submarine Facility at Strategic Port",
-      "link": "https://www.republicworld.com/defence/watch-us-deploys-sea-drones-for-first-time-in-combat-to-strike-iranian-submarine-facility-2026-07-13-132205",
-      "source": "Republic World",
-      "sort_key": "2026-07-13T21:42:18+05:30",
-      "time": "13 Jul, 09:42 PM",
-      "type": "news",
-      "description": "US forces use Corsair sea drones for the first time in combat, striking an Iranian submarine facility amid escalating tensions and new shipping fees i..."
-    },
-    {
-      "title": "Assam Rifles jawan killed, four injured in IED blast in Nagaland's Chumoukedima district",
-      "link": "https://economictimes.indiatimes.com/news/defence/assam-rifles-jawan-killed-four-injured-in-ied-blast-in-nagalands-chumoukedima-district/articleshow/132370909.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-13T21:39:13+05:30",
-      "time": "13 Jul, 09:39 PM",
-      "type": "news",
-      "description": "One Assam Rifles jawan was killed and four others were injured after a Improvised Explosive Device (IED) exploded in Nagaland's Chumoukedima district ..."
-    },
-    {
-      "title": "Yemen government says attacked Sanaa airport, reviving dormant conflict",
-      "link": "https://economictimes.indiatimes.com/news/defence/yemen-government-says-attacked-sanaa-airport-reviving-dormant-conflict/articleshow/132370774.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-13T21:28:21+05:30",
-      "time": "13 Jul, 09:28 PM",
-      "type": "news",
-      "description": "The government said it had wanted to prevent an Iranian plane from landing in the capital, after failing to convince a Houthi delegation that went to ..."
     }
   ],
   "tweets": [
+    {
+      "title": "US is one step closer to getting CCA to the warfighter with this live fire test!",
+      "link": "https://nitter.net/alpha_defense/status/2077435244706500783#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-15T22:18:53+05:30",
+      "time": "15 Jul, 10:18 PM",
+      "type": "tweets",
+      "content": "<p>US is one step closer to getting CCA to the warfighter with this live fire test!</p>\n<a href=\"https://nitter.net/alpha_defense/status/2077435244706500783#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2077435178151206914%2Fimg%2F07pqHfjxlcN67TYT.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Indian Consul in Dubai visits Indian seafarers evacuated from commercial vessels MT Al Bahiyah and MT Mombasa (vessels that came under strike). Assured full support to those injured and admitted in hospitals in Dibba, Khorfakkan and Fujairah.",
+      "link": "https://nitter.net/sidhant/status/2077433812854931856#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-15T22:13:12+05:30",
+      "time": "15 Jul, 10:13 PM",
+      "type": "tweets",
+      "content": "<p>Indian Consul in Dubai visits Indian seafarers evacuated from commercial vessels MT Al Bahiyah and MT Mombasa (vessels that came under strike). Assured full support to those injured and admitted in hospitals in Dibba, Khorfakkan and Fujairah.</p>\n<img src=\"https://nitter.net/pic/media%2FHNSG0qbbEAAoAMM.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"In Italy, there is no room for those who claim to deny, in the name of alleged cultural or religious justifications, the freedom, dignity, & life of a woman\" Italian PM Meloni welcomes court ruling in the killing of Pakistan origin Saman Abbas, 18, by her parents.",
+      "link": "https://nitter.net/sidhant/status/2077432259838448037#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-15T22:07:02+05:30",
+      "time": "15 Jul, 10:07 PM",
+      "type": "tweets",
+      "content": "<p>\"In Italy, there is no room for those who claim to deny, in the name of alleged cultural or religious justifications, the freedom, dignity, &amp; life of a woman\"<br />\n<br />\nItalian PM Meloni welcomes court ruling in the killing of Pakistan origin Saman Abbas, 18, by her parents.</p>\n<hr />\n<blockquote>\n<b>Giorgia Meloni (@GiorgiaMeloni)</b>\n<p>\n<p>Con la sentenza definitiva per l'omicidio di Saman Abbas si chiude una dolorosa vicenda giudiziaria.<br />\n<br />\nSaman, giovane di origine pakistana in Italia, \u00e8 stata uccisa dai suoi genitori e da alcuni familiari dopo essersi opposta a un matrimonio forzato e aver rivendicato il diritto di scegliere liberamente il proprio futuro.<br />\n<br />\nNessuna sentenza potr\u00e0 restituirle la vita, ma \u00e8 giusto che i responsabili di questo barbaro delitto siano stati condannati in via definitiva.<br />\n<br />\nIn Italia non c'\u00e8 spazio per chi pretende di negare, in nome di presunte giustificazioni culturali o religiose, la libert\u00e0, la dignit\u00e0 e la vita di una donna. Questi sono principi irrinunciabili sui quali non arretreremo mai.<br />\n<br />\nIl mio pensiero va a Saman. Che possa finalmente riposare in pace.</p>\n<img src=\"https://nitter.net/pic/media%2FHNRLtUhWwAEBFGC.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/GiorgiaMeloni/status/2077368575031976329#m\">https://nitter.net/GiorgiaMeloni/status/2077368575031976329#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "I don\u2019t know if defence audiences is monitoring this but A landmark approval by the cabinet India Semiconductor Mission 2.0 with an outlay of 1,27,500 Crores",
+      "link": "https://nitter.net/alpha_defense/status/2077429120997495277#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-15T21:54:33+05:30",
+      "time": "15 Jul, 09:54 PM",
+      "type": "tweets",
+      "content": "<p>I don\u2019t know if defence audiences is monitoring this but A landmark approval by the cabinet <br />\n<br />\nIndia Semiconductor Mission 2.0 with an outlay of 1,27,500 Crores</p>\n<img src=\"https://nitter.net/pic/media%2FHNSCxlca8AANE3L.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Pak Military Buildup Continues: Heavy artillery observed moving through Peshawar, directed toward the Afghanistan-Pakistan border as cross-border frictions persist.",
+      "link": "https://nitter.net/OsintTV/status/2077427134029504918#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-15T21:46:40+05:30",
+      "time": "15 Jul, 09:46 PM",
+      "type": "tweets",
+      "content": "<p>Pak Military Buildup Continues: <br />\n<br />\nHeavy artillery observed moving through Peshawar, directed toward the Afghanistan-Pakistan border as cross-border frictions persist.</p>\n<a href=\"https://nitter.net/OsintTV/status/2077427134029504918#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2077427033513103360%2Fimg%2FZVFDASfuxGDeOVqr.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Vietnam's Foreign Minister Le Hoai Trung expresses condolences to India over the boat accident near Phu Quoc island that killed 15 Indians on 11 July during meeting with Indian Ambassador Tshering W. Sherpa Amb Sherpa thanks Vietnam for its swift support & repatriation",
+      "link": "https://nitter.net/sidhant/status/2077426656743198935#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-15T21:44:46+05:30",
+      "time": "15 Jul, 09:44 PM",
+      "type": "tweets",
+      "content": "<p>Vietnam's Foreign Minister Le Hoai Trung expresses condolences to India over the boat accident near Phu Quoc island that killed 15 Indians on 11 July during meeting with Indian Ambassador Tshering W. Sherpa<br />\n<br />\nAmb Sherpa thanks Vietnam for its swift support &amp; repatriation</p>\n<img src=\"https://nitter.net/pic/media%2FHNSAVs9bAAAsm_j.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "At the Joint Working Group (JWG) on Power Sector Cooperation, India - Nepal discuss progress on the development of new transmission lines including the 400 kV Gorakhpur-New Butwal line. Indian Power Secy Pankaj Agarwal is in Kathmandu, & met Nepal's energy minister Biraj Shresha",
+      "link": "https://nitter.net/sidhant/status/2077424893797576957#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-15T21:37:46+05:30",
+      "time": "15 Jul, 09:37 PM",
+      "type": "tweets",
+      "content": "<p>At the Joint Working Group (JWG) on Power Sector Cooperation, India - Nepal discuss progress on the development of new transmission lines including the 400 kV Gorakhpur-New Butwal line. Indian Power Secy Pankaj Agarwal is in Kathmandu, &amp; met Nepal's energy minister Biraj Shresha</p>\n<img src=\"https://nitter.net/pic/media%2FHNR-7NoasAAa3hc.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @OsintTV: Dear Mr @MirwaizKashmir, Words matter. It's not the \"other side of the LoC.\" It's \"Pakistan Occupied Jammu & Kashmir\". Facts don't change with terminology.",
+      "link": "https://nitter.net/OsintTV/status/2077422341139702174#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-15T21:27:37+05:30",
+      "time": "15 Jul, 09:27 PM",
+      "type": "tweets",
+      "content": "<p>Dear Mr <a href=\"https://nitter.net/MirwaizKashmir\" title=\"Mirwaiz Umar Farooq\">@MirwaizKashmir</a>,<br />\n<br />\nWords matter.<br />\n<br />\nIt's not the \"other side of the LoC.\" It's \"Pakistan Occupied Jammu &amp; Kashmir\".<br />\n<br />\nFacts don't change with terminology.</p>\n<hr />\n<blockquote>\n<b>Mirwaiz Umar Farooq (@MirwaizKashmir)</b>\n<p>\n<p>Deeply saddened and pained by reports of loss of life of civilians and police personnel in the continuing  unrest on the other side of  LOC especially in Rawalakot and Poonch. My thoughts and prayers are with the bereaved families and all those affected by these tragic events.<br />\n<br />\nI am also concerned by the ongoing discussions regarding representation and the constitutional and political status of the large number of Kashmiri State Subjects residing in Pakistan. Questions touching upon identity, representation and political rights require sensitivity, dialogue and broad public confidence.<br />\n<br />\nThe legitimacy and strength of any system of governance rests ultimately upon the consent, trust and confidence of the people it serves.Our history and our shared social,cultural and family ties across the Line of Control remind us that happenings in one part of Jammu and Kashmir are deeply felt  in another,  and among our diaspora communities<br />\naround the world.<br />\n<br />\nMy family has a longstanding historical associations with the social, educational, religious and political development of communities across Jammu and Kashmir, including those on the other side of LOC .<br />\n<br />\nAs I continue to hear expressions of anguish  and distress from people across the LOC reaching out regarding the unrest, I urge the Govt of Pakistan and the local Government there, to prioritise dialogue, restraint and engagement, resolving the differences through consultation and accommodation rather than confrontation, with  respect  for human rights and the sanctity of human life  remaining paramount.<br />\n<br />\nI also appeal to protesting parties to exercise wisdom and responsibility. Both need  to work towards restoring peace and public confidence at the earliest.<br />\n<br />\nI pray for lasting peace and stability for all people of Jammu and Kashmir on both sides of the LOC and its resolution.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MirwaizKashmir/status/2077295043900019025#m\">https://nitter.net/MirwaizKashmir/status/2077295043900019025#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Oh god not this ! We don\u2019t understand this and we aren\u2019t remotely prepared for this\u2026 Believe me that\u2019s our \u201callah rahen\u201d moment it is AEC",
+      "link": "https://nitter.net/alpha_defense/status/2077421510265110712#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-15T21:24:19+05:30",
+      "time": "15 Jul, 09:24 PM",
+      "type": "tweets",
+      "content": "<p>Oh god not this ! We don\u2019t understand this and we aren\u2019t remotely prepared for this\u2026<br />\nBelieve me that\u2019s our \u201callah rahen\u201d moment it is AEC</p>\n<hr />\n<blockquote>\n<b>Aditya Raj Kaul (@AdityaRajKaul)</b>\n<p>\n<p>Nuclear Body Underplays Concerns Over Data Breach At India's Largest Reactor <a href=\"https://www.ndtv.com/india-news/kudankulam-nuclear-power-plant-data-breach-npcil-reaction-11775903\">ndtv.com/india-news/kudankul\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.ndtv.com/india-news/kudankulam-nuclear-power-plant-data-breach-npcil-reaction-11775903\">\n<img src=\"https://nitter.net/pic/card_img%2F2077405706249293824%2FyfXaiTpL%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Nuclear Body Underplays Concerns Over Data Breach At India&apos;s Largest Reactor</b>\n</a>\n<p>A ransomware group has posted files linked to the Kudankulam Nuclear Power Plant on the dark web, Reuters had earlier reported.</p>\n<small><a href=\"https://www.ndtv.com/india-news/kudankulam-nuclear-power-plant-data-breach-npcil-reaction-11775903\">ndtv.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AdityaRajKaul/status/2077409056118243606#m\">https://nitter.net/AdityaRajKaul/status/2077409056118243606#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
     {
       "title": "RT by @OsintTV: \ud835\uddd6\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddf9\ud835\uddf2\ud835\ude05 \ud835\uddd4\ud835\ude01\ud835\ude01\ud835\uddee\ud835\uddf0\ud835\uddf8 \ud835\udde7\ud835\uddee\ud835\uddff\ud835\uddf4\ud835\uddf2\ud835\ude01\ud835\ude00 \ud835\udde0\ud835\uddf6\ud835\uddff\ud835\ude06\ud835\uddee\ud835\uddfb \ud835\udde3\ud835\uddfc\ud835\uddf9\ud835\uddf6\ud835\uddf0\ud835\uddf2 \ud835\udde6\ud835\ude01\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddf6\ud835\uddfb \ud835\uddd5\ud835\uddee\ud835\uddfb\ud835\uddfb\ud835\ude02, \ud835\uddde\ud835\uddf5\ud835\ude06\ud835\uddef\ud835\uddf2\ud835\uddff \ud835\udde3\ud835\uddee\ud835\uddf8\ud835\uddf5\ud835\ude01\ud835\ude02\ud835\uddfb\ud835\uddf8\ud835\uddf5\ud835\ude04\ud835\uddee Initial reports indicate that a complex attack began with a suicide vehicle-borne improvised explosive device (SVBIED) detonation targeting the Miryan Police Station in Bannu, Khyber Pakhtunkhwa. The incident was reportedly followed by an exchange of fire between attackers and security personnel. Further details are awaited as the situation develops.",
       "link": "https://nitter.net/AfghanAnalyst2/status/2077415268037320862#m",
@@ -704,7 +812,7 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "\ud83d\udea8Just In \ud83c\uddf5\ud83c\uddf0\ud83e\ude96\ud83d\udca5: Reportedly suicide bombers attacked the Miryan Police Station in Bannu KP Pakistan, triggering a fierce gunfight between pak security personnel and rebels. The exchange of fire is reportedly still underway.",
+      "title": "RT by @OsintTV: \ud83d\udea8Just In \ud83c\uddf5\ud83c\uddf0\ud83e\ude96\ud83d\udca5: Reportedly suicide bombers attacked the Miryan Police Station in Bannu KP Pakistan, triggering a fierce gunfight between pak security personnel and rebels. The exchange of fire is reportedly still underway.",
       "link": "https://nitter.net/OsintTV/status/2077403330993659971#m",
       "source": "Osint TV",
       "sort_key": "2026-07-15T20:12:05+05:30",
@@ -714,7 +822,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Panic mode: ON Pakistani \"experts\" seem more worried about India's 12 submarine launched nuclear warheads than their own country's problems. The panic is real. Maybe fix your own backyard before you start counting our fleet.",
+      "title": "RT by @OsintTV: Panic mode: ON Pakistani \"experts\" seem more worried about India's 12 submarine launched nuclear warheads than their own country's problems. The panic is real. Maybe fix your own backyard before you start counting our fleet.",
       "link": "https://nitter.net/OsintTV/status/2077399716740923773#m",
       "source": "Osint TV",
       "sort_key": "2026-07-15T19:57:43+05:30",
@@ -781,26 +889,6 @@
       "time": "15 Jul, 07:06 PM",
       "type": "tweets",
       "content": "<p>Just in: NSA Ajit Doval met Thailand's Secy Gen of Natl Secy Council Chatchai Bangchuad; Discd cooperation on intelligence and law enforcement, connectivity, &amp; new institutional mechanisms.</p>\n<img src=\"https://nitter.net/pic/media%2FHNRcP6ibgAA7asj.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Also key issues in the region dicussed",
-      "link": "https://nitter.net/sidhant/status/2077386233005875595#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-15T19:04:08+05:30",
-      "time": "15 Jul, 07:04 PM",
-      "type": "tweets",
-      "content": "<p>Also key issues in the region dicussed</p>\n<img src=\"https://nitter.net/pic/media%2FHNRbw7TaUAANe9k.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Just in: India's NSA Ajit Doval meets Sri Lanka's Defence Secy Air Vice Marshal Sampath Thuyacontha (Retd) ahead of BIMSTEC NSAs meet. Dicussed cooperation on defence, security and maritime issues.",
-      "link": "https://nitter.net/sidhant/status/2077385991405580646#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-15T19:03:10+05:30",
-      "time": "15 Jul, 07:03 PM",
-      "type": "tweets",
-      "content": "<p>Just in: India's NSA Ajit Doval meets Sri Lanka's Defence Secy Air Vice Marshal Sampath Thuyacontha (Retd) ahead of BIMSTEC NSAs meet. Dicussed cooperation on defence, security and maritime issues.</p>\n<img src=\"https://nitter.net/pic/media%2FHNRbi6BaQAAHkxD.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -924,7 +1012,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "DGP J&K Nalin Prabhat, IPS, visited CARGO and interacted with SOG personnel. He appreciated their dedication and professionalism, and emphasized the importance of maintaining high operational readiness and vigilance.",
+      "title": "RT by @OsintTV: DGP J&K Nalin Prabhat, IPS, visited CARGO and interacted with SOG personnel. He appreciated their dedication and professionalism, and emphasized the importance of maintaining high operational readiness and vigilance.",
       "link": "https://nitter.net/OsintTV/status/2077379008119894525#m",
       "source": "Osint TV",
       "sort_key": "2026-07-15T18:35:26+05:30",
@@ -932,26 +1020,6 @@
       "type": "tweets",
       "content": "<p>DGP J&amp;K Nalin Prabhat, IPS, visited CARGO and interacted with SOG personnel. He appreciated their dedication and professionalism, and emphasized the importance of maintaining high operational readiness and vigilance.</p>\n<img src=\"https://nitter.net/pic/media%2FHNRUOwgW8AEwndO.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Colombo has always welcomed the world, places to make friendship, says Sri Lankan High Commissioner @SLinIndia @Mahishini on a conversation about Ajay Kamalakaran\u2019s book \"Colombo: Port of Call\"",
-      "link": "https://nitter.net/sidhant/status/2077364003555377389#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-15T17:35:48+05:30",
-      "time": "15 Jul, 05:35 PM",
-      "type": "tweets",
-      "content": "<p>Colombo has always welcomed the world, places to make friendship, says Sri Lankan High Commissioner <a href=\"https://nitter.net/SLinIndia\" title=\"Sri Lanka in India\">@SLinIndia</a> <a href=\"https://nitter.net/Mahishini\" title=\"Mahishini Colonn\u00e9\">@Mahishini</a> on a conversation about Ajay Kamalakaran\u2019s book \"Colombo: Port of Call\"</p>\n<a href=\"https://nitter.net/sidhant/status/2077364003555377389#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2077363703499071488%2Fimg%2FUKdJrUO1xjwaB96L.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "UK high commissioner says India, UK FTA is \"template for future FTAs\"",
-      "link": "https://nitter.net/sidhant/status/2077351573618147799#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-15T16:46:25+05:30",
-      "time": "15 Jul, 04:46 PM",
-      "type": "tweets",
-      "content": "<p>UK high commissioner says India, UK FTA is \"template for future FTAs\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India, UK FTA is the new gold standard for FTA, UK HC <a href=\"https://nitter.net/UKinIndia\" title=\"UK in India\ud83c\uddec\ud83c\udde7\ud83c\uddee\ud83c\uddf3\">@UKinIndia</a> <a href=\"https://nitter.net/Lindy_Cameron\" title=\"Lindy Cameron\">@Lindy_Cameron</a></p>\n<a href=\"https://nitter.net/sidhant/status/2077316842885087245#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2077316667093467136%2Fimg%2FH_VwuPgOnOGuZDbx.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2077316842885087245#m\">https://nitter.net/sidhant/status/2077316842885087245#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "\ud83d\udea8PoJK AGAINST \ud83c\uddf5\ud83c\uddf0 TYRANNY Swarm of protesters in Rawalakot, PoJK, chanted the following slogans during the ongoing protest: \"Ye watan hamara hai, inka khatma hum karenge.\" \"Sun lo jalimo, kabizo, katilo \u2014 hum tumhari maut hain.\"\ud83d\udd25",
@@ -1294,16 +1362,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "Congratulations Team @Space_Fields \ud83c\udf89\ud83c\udf89\ud83c\udf89",
-      "link": "https://nitter.net/alpha_defense/status/2076881905308549407#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-14T09:40:07+05:30",
-      "time": "14 Jul, 09:40 AM",
-      "type": "tweets",
-      "content": "<p>Congratulations Team <a href=\"https://nitter.net/Space_Fields\" title=\"SpaceFields\">@Space_Fields</a> \ud83c\udf89\ud83c\udf89\ud83c\udf89</p>\n<hr />\n<blockquote>\n<b>SpaceFields (@Space_Fields)</b>\n<p>\n<p>Orbit-Shift \ud83d\ude80<br />\n<br />\nWe are delighted to inaugurate SpaceFields' new 42,000 sqft integrated R&amp;D facility a DSIR-recognized, ISO-certified workspace built to accelerate India's next generation of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23propulsion\">#propulsion</a>, energetics, and advanced <a href=\"https://nitter.net/search?f=tweets&amp;q=%23manufacturing\">#manufacturing</a> technologies.<br />\n<br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a></p>\n<img src=\"https://nitter.net/pic/media%2FHNKPAWnaAAAqmWz.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNKPAyRacAAy6fR.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNKPBQRaAAA2DYa.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNKPBqBaEAAmAjk.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Space_Fields/status/2076879644373270538#m\">https://nitter.net/Space_Fields/status/2076879644373270538#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @alpha_defense: Orbit-Shift \ud83d\ude80 We are delighted to inaugurate SpaceFields' new 42,000 sqft integrated R&D facility a DSIR-recognized, ISO-certified workspace built to accelerate India's next generation of #propulsion, energetics, and advanced #manufacturing technologies. @indiannavy @IAF_MCC",
       "link": "https://nitter.net/Space_Fields/status/2076879644373270538#m",
       "source": "Alpha Defense",
@@ -1324,16 +1382,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Arrey bhai bhai bhai bhai bhai",
-      "link": "https://nitter.net/alpha_defense/status/2076728846007849467#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-13T23:31:55+05:30",
-      "time": "13 Jul, 11:31 PM",
-      "type": "tweets",
-      "content": "<p>Arrey bhai bhai bhai bhai bhai</p>\n<hr />\n<blockquote>\n<b>Defence Matrix (@Defencematrix1)</b>\n<p>\n<p>Waah bhai, mera to message seen kar ke ignore kar rakha hai \ud83d\ude06\ud83d\ude06.<br />\nThanks for the update.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Defencematrix1/status/2076719748575117399#m\">https://nitter.net/Defencematrix1/status/2076719748575117399#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "\ud83d\udea8Massive protests and marches ongoing throughout the PoJK against the Pakistani occupation. Protestors are demanding basic humanitarian rights of which they've been deprived off by the Pakistani establishment for decades.",
       "link": "https://nitter.net/Goreunit/status/2076725051945353671#m",
       "source": "War & Gore",
@@ -1342,19 +1390,27 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8Massive protests and marches ongoing throughout the PoJK against the Pakistani occupation.<br />\nProtestors are demanding basic humanitarian rights of which they've been deprived off by the Pakistani establishment for decades.</p>\n<a href=\"https://nitter.net/Goreunit/status/2076725051945353671#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2076724984349933568%2Fimg%2FwE02gkt_g2Z96lvp.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8PoJK UPRISING<br />\n\"For 78 years, they sold us the 'Srinagar liberation' Churan. That fake Churan is now expired, Kashmiris are no longer buying it.<br />\n<br />\nWhen we ask for flour we get bullets, when we ask for electricity we get bullets, when we ask for water we get bullets. PoK is done with Pakistan.\"<br />\n'Srinagar ko azad karayenge churan purana ho gaya, jao apna churan kahin aur becho, kashmiriyo ko nahi ' \ud83e\udd23\ud83d\udd25<br />\n<br />\nPeople of PoJK are absolutely cooking the Porkistanis</p>\n<a href=\"https://nitter.net/Goreunit/status/2076367551001772258#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2076367479652458497%2Fimg%2FQpPDFUv_MwQghiPn.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2076367551001772258#m\">https://nitter.net/Goreunit/status/2076367551001772258#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Justice for IB officer Ankit Sharma is still due, his murder knowing or unknowingly digged the grave of alot of people involved in the pre-planned and well organized riots. I hope folks at IB deliver him justice by taking this to a fair conclusion",
-      "link": "https://nitter.net/elitepredatorss/status/2076696354546729017#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-13T21:22:48+05:30",
-      "time": "13 Jul, 09:22 PM",
-      "type": "tweets",
-      "content": "<p>Justice for IB officer Ankit Sharma is still due, his murder knowing or unknowingly digged the grave of alot of people involved in the pre-planned and well organized riots.<br />\n<br />\nI hope folks at IB deliver him justice by taking this to a fair conclusion</p>\n<hr />\n<blockquote>\n<b>Neelkant Bakshi \ud83c\uddee\ud83c\uddf3 (@neelkantbakshi)</b>\n<p>\n<p>Ex-AAP leader Tahir Hussain convicted for brutally murdering IB officer Ankit Sharma during 2020 Delhi riots. AAP under Kejriwal defended the rioters &amp; killers. This proves Team Kejriwal is dangerous for the nation.<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23JusticeForAnkitSharma\">#JusticeForAnkitSharma</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DelhiRiots\">#DelhiRiots</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPExposed\">#AAPExposed</a></p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/neelkantbakshi/status/2076684384577749263#m\">https://nitter.net/neelkantbakshi/status/2076684384577749263#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
+    {
+      "title": "Defence Updates - India Advanced Missile, Indian Army Combat Boats, PAK Army Big Game",
+      "link": "https://www.youtube.com/watch?v=LzFIi8eFjrM",
+      "source": "Defense Squad",
+      "sort_key": "2026-07-15T22:07:26+05:30",
+      "time": "15 Jul, 10:07 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/LzFIi8eFjrM/mqdefault.jpg"
+    },
+    {
+      "title": "Pakistan Shocked \ud83d\ude31 India Deployed Active Nuclear Warheads?,DRDO's New Military Projects",
+      "link": "https://www.youtube.com/watch?v=J7HH6uBMIIg",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-15T21:30:23+05:30",
+      "time": "15 Jul, 09:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/J7HH6uBMIIg/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Japan Offers XF9 Engine,Su-57 Sword Offer,100 Super Sukhoi Export,50 Ghatak",
       "link": "https://www.youtube.com/watch?v=4f_7sjhG6RQ",
@@ -1399,27 +1455,9 @@
       "time": "14 Jul, 05:01 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/Id2PBo9wZKg/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Rafale-M INS Vikrant Landing, India S500 Sudarshana Chakra, US SF Soldier Caught",
-      "link": "https://www.youtube.com/watch?v=yh5kIyhig6k",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-13T22:13:22+05:30",
-      "time": "13 Jul, 10:13 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/yh5kIyhig6k/mqdefault.jpg"
-    },
-    {
-      "title": "7th Engine : LCA Mk1A Delivery",
-      "link": "https://www.youtube.com/watch?v=eGUvKzFlqkU",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-07-13T21:29:06+05:30",
-      "time": "13 Jul, 09:29 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/eGUvKzFlqkU/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
