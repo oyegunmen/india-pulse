@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "JeM terror module busted in Gujarat: Accused were trying to develop IEDs, says ATS",
+      "link": "https://www.tribuneindia.com/news/india/jem-terror-module-busted-in-gujarat-accused-were-trying-to-develop-ieds-says-ats",
+      "source": "The Tribune",
+      "sort_key": "2026-07-17T17:40:42+05:30",
+      "time": "17 Jul, 05:40 PM",
+      "type": "news",
+      "description": "The five suspects arrested two days ago for alleged links with a Jaish-e-Mohammed (JeM) module in Gujarat were trying to learn bomb-making techniques ..."
+    },
+    {
       "title": "Skyroot set to launch India\u2019s first privately developed orbital rocket on July 18",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/skyroot-aerospace-to-launch-indias-first-private-orbital-rocket-vikram-1-on-july-18/132460301",
       "source": "Economic Times",
@@ -100,15 +109,6 @@
       "description": ""
     },
     {
-      "title": "China slams Trump claims of US election meddling as 'pure fabrications'",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/17/china-slams-trump-claims-of-us-election-meddling-as-pure-fabrications",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-17T13:36:11+05:30",
-      "time": "17 Jul, 01:36 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "ideaForge\u2019s Indigenous UAV Fleet Surpasses Landmark One Million Flights Across Critical Missions",
       "link": "https://www.indiastrategic.in/ideaforges-indigenous-uav-fleet-surpasses-landmark-one-million-flights-across-critical-missions/",
       "source": "India Strategic",
@@ -116,15 +116,6 @@
       "time": "17 Jul, 01:32 PM",
       "type": "news",
       "description": "<p>Showcasing extensive deployment, unmatched operational experience, autonomy, and mission readiness at scale The milestone puts the company at the c..."
-    },
-    {
-      "title": "28 Indian traders return as China withholds Lipulekh clearance",
-      "link": "https://www.newindianexpress.com/india/2026/Jul/17/28-indian-traders-return-as-china-withholds-lipulekh-clearance",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-17T13:31:03+05:30",
-      "time": "17 Jul, 01:31 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "EU expresses serious concern over human rights situation in Pakistan; Asks Islamabad to compliance with international commitments under new GSP framework",
@@ -143,15 +134,6 @@
       "time": "17 Jul, 01:11 PM",
       "type": "news",
       "description": "The scope of work involves developing and integrating a mission-critical metallic airframe assembly designed for demanding supersonic structural, ther..."
-    },
-    {
-      "title": "British military reports an attack on a tanker in the Strait of Hormuz close to Oman",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/17/british-military-reports-an-attack-on-a-tanker-in-the-strait-of-hormuz-close-to-oman-2",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-17T12:59:31+05:30",
-      "time": "17 Jul, 12:59 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "US Wants To Globalize Fight Against Far-Left 'Terrorism'",
@@ -305,15 +287,6 @@
       "time": "17 Jul, 08:35 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Amit Shah to visit Bengal from today: Border security to governance, check what's on agenda",
-      "link": "https://www.indiatvnews.com/news/india/amit-shah-to-visit-bengal-from-today-border-security-to-governance-check-what-s-on-agenda-2026-07-17-1048506",
-      "source": "India TV",
-      "sort_key": "2026-07-17T07:36:39+05:30",
-      "time": "17 Jul, 07:36 AM",
-      "type": "news",
-      "description": "Union Home Minister Amit Shah will visit West Bengal from July 17 to 19 with focus on border security, governance, law and order, and development. Thi..."
     },
     {
       "title": "Zelenskiy Taps New Defence Chief to Quell Political Crisis",
@@ -719,36 +692,129 @@
       "time": "15 Jul, 07:08 PM",
       "type": "news",
       "description": "The United States initiated strikes against Iran after reimposing a naval blockade. Iran's Revolutionary Guards reported targeting the US Fifth Fleet ..."
-    },
-    {
-      "title": "Mob Vandalises Assam Rifles Camp in Manipur",
-      "link": "https://www.deccanchronicle.com/nation/mob-vandalises-assam-rifles-camp-in-manipur-torches-vehicles-after-search-operation-1971131",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-15T18:02:12+05:30",
-      "time": "15 Jul, 06:02 PM",
-      "type": "news",
-      "description": "Violence erupts in Senapati district after security forces launch an operation over alleged NSCN (IM) ceasefire violations; no casualties reported."
-    },
-    {
-      "title": "Indian missing in attack on commercial vessel in Hormuz confirmed dead, says family",
-      "link": "https://defencemonitor.in/indian-missing-in-attack-on-commercial-vessel-in-hormuz-confirmed-dead-says-family/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-07-15T17:51:51+05:30",
-      "time": "15 Jul, 05:51 PM",
-      "type": "news",
-      "description": "<p>Pune, July 15 (IANS) Heramb Karmarkar, a marine engineer from Pune who had gone missing following an attack on the merchant vessel &#8216;GFX Galax..."
-    },
-    {
-      "title": "Iran\u2019s IRGC claims attacks on US military facilities in Bahrain, Jordan",
-      "link": "https://defencemonitor.in/irans-irgc-claims-attacks-on-us-military-facilities-in-bahrain-jordan/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-07-15T17:47:28+05:30",
-      "time": "15 Jul, 05:47 PM",
-      "type": "news",
-      "description": "<p>Tehran, July 15 (IANS) Iran&#8217;s Islamic Revolutionary Guards Corps (IRGC) said on Wednesday that it conducted retaliatory strikes against the U..."
     }
   ],
   "tweets": [
+    {
+      "title": "Confident that our candidature will be given due consideration says MEA spox on India's UNSC 2028 bid",
+      "link": "https://nitter.net/sidhant/status/2078092134142410790#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:49:08+05:30",
+      "time": "17 Jul, 05:49 PM",
+      "type": "tweets",
+      "content": "<p>Confident that our candidature will be given due consideration says MEA spox on India's UNSC 2028 bid</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Closely following development, MEA spox on Russia sanctions bill impacting India with tariffs",
+      "link": "https://nitter.net/sidhant/status/2078091633426600308#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:47:09+05:30",
+      "time": "17 Jul, 05:47 PM",
+      "type": "tweets",
+      "content": "<p>Closely following development, MEA spox on Russia sanctions bill impacting India with tariffs</p>\n<a href=\"https://nitter.net/sidhant/status/2078091633426600308#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078091598337101824%2Fimg%2FOGXbeONCsnUbo5Xm.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "14 Indians have died in West Asia since the outreak of conflict, 2 Indians remain missing , MEA Spox says",
+      "link": "https://nitter.net/sidhant/status/2078091327473115203#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:45:56+05:30",
+      "time": "17 Jul, 05:45 PM",
+      "type": "tweets",
+      "content": "<p>14 Indians have died in West Asia since the outreak of conflict, 2 Indians remain missing , MEA Spox says</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "7 India flagged vessels in Persian gulf, says MEA Spox",
+      "link": "https://nitter.net/sidhant/status/2078091219914437017#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:45:30+05:30",
+      "time": "17 Jul, 05:45 PM",
+      "type": "tweets",
+      "content": "<p>7 India flagged vessels in Persian gulf, says MEA Spox</p>\n<a href=\"https://nitter.net/sidhant/status/2078091219914437017#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078091151819907072%2Fimg%2FIfb-KnQPnUVfC5FZ.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "J&K is an intergal part of India, says MEA spox on Gilgil Baltistan resolution",
+      "link": "https://nitter.net/sidhant/status/2078091014288576855#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:44:41+05:30",
+      "time": "17 Jul, 05:44 PM",
+      "type": "tweets",
+      "content": "<p>J&amp;K is an intergal part of India, says MEA spox on Gilgil Baltistan resolution</p>\n<a href=\"https://nitter.net/sidhant/status/2078091014288576855#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078090959959752704%2Fimg%2Ff0Dq4Hj94xucHhBM.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Shahid Beheshti Terminal has not faced damaged, says MEA Spox",
+      "link": "https://nitter.net/sidhant/status/2078090522640703648#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:42:44+05:30",
+      "time": "17 Jul, 05:42 PM",
+      "type": "tweets",
+      "content": "<p>Shahid Beheshti Terminal has not faced damaged, says MEA Spox</p>\n<a href=\"https://nitter.net/sidhant/status/2078090522640703648#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078090474565640192%2Fimg%2FBgTn1_DF8SHQq8JT.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Countries that stand in line at the IMF with a bowl in hand rarely understand what it takes to develop and manufacture complex defence systems. Viz a Viz Uttam : radar has already been certified for production, and as per the bill of materials, it \u2018ll go on 97 aircraft.",
+      "link": "https://nitter.net/alpha_defense/status/2078090300401332506#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-17T17:41:51+05:30",
+      "time": "17 Jul, 05:41 PM",
+      "type": "tweets",
+      "content": "<p>Countries that stand in line at the IMF with a bowl in hand rarely understand what it takes to develop and manufacture complex defence systems.<br />\n<br />\nViz a Viz Uttam : radar has already been certified for production, and as per the bill of materials, it \u2018ll go on 97 aircraft.</p>\n<hr />\n<blockquote>\n<b>KASKAIDE-1 (@kaskaide1)</b>\n<p>\n<p>\ud83c\uddee\ud83c\uddf3 Uttam Aesa Radar<br />\n<br />\nA Paper Radar......it was made for Tejas MK-1A and heavily Advertised to make it look like it's complete.<br />\n<br />\nWhere in reality even as of July 2026 it's not ready.<br />\n<br />\n80th+ Airframes of Tejas MK-1A is suppose to have it Replacing Israeli ELM-2052 Radar.</p>\n<img src=\"https://nitter.net/pic/media%2FHNbBsk5bwAA8hmg.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNbBtgSakAAkYMc.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNbBuNZawAAiSaP.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNbBu3KaMAA1wK0.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/kaskaide1/status/2078061298001273007#m\">https://nitter.net/kaskaide1/status/2078061298001273007#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "\"Personal take\", MEA Spox on Japan ex official's comments on Bullet Train project; states the current status of the project",
+      "link": "https://nitter.net/sidhant/status/2078090280142840194#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:41:46+05:30",
+      "time": "17 Jul, 05:41 PM",
+      "type": "tweets",
+      "content": "<p>\"Personal take\", MEA Spox on Japan ex official's comments on Bullet Train project; states the current status of the project</p>\n<a href=\"https://nitter.net/sidhant/status/2078090280142840194#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078090204615938048%2Fimg%2FH3NRK2FgoemsWHJ4.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "On US tightening visa rules, MEA Spox points to it being sovereign function, but also says problems when faced are raised.",
+      "link": "https://nitter.net/sidhant/status/2078089922347708609#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:40:21+05:30",
+      "time": "17 Jul, 05:40 PM",
+      "type": "tweets",
+      "content": "<p>On US tightening visa rules, MEA Spox points to it being sovereign function, but also says problems when faced are raised.</p>\n<a href=\"https://nitter.net/sidhant/status/2078089922347708609#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078089864063721472%2Fimg%2FWYtDb5sNLRjgqQsp.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Weekly MEA presser begins @MEAIndia",
+      "link": "https://nitter.net/sidhant/status/2078087966732489100#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:32:34+05:30",
+      "time": "17 Jul, 05:32 PM",
+      "type": "tweets",
+      "content": "<p>Weekly MEA presser begins <a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a></p>\n<img src=\"https://nitter.net/pic/media%2FHNbZ_UmbkAA0cXm.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Shortly, weekly MEA Presser",
+      "link": "https://nitter.net/sidhant/status/2078084491768377682#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:18:46+05:30",
+      "time": "17 Jul, 05:18 PM",
+      "type": "tweets",
+      "content": "<p>Shortly, weekly MEA Presser</p>\n<img src=\"https://nitter.net/pic/media%2FHNbW0P4aoAAWJbf.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "100th martyrdom anniversary of Sardar Teja Singh Samundri being marked at Gurdwara Rakab Ganj Sahib in Delhi. His grandson & Delhi governor @SandhuTaranjitS receives Delhi's prominent people.",
+      "link": "https://nitter.net/sidhant/status/2078084377377218824#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-17T17:18:19+05:30",
+      "time": "17 Jul, 05:18 PM",
+      "type": "tweets",
+      "content": "<p>100th martyrdom anniversary of Sardar Teja Singh Samundri being marked at Gurdwara Rakab Ganj Sahib in Delhi. His grandson &amp; Delhi governor <a href=\"https://nitter.net/SandhuTaranjitS\" title=\"Taranjit Singh Sandhu\">@SandhuTaranjitS</a> receives Delhi's prominent people.</p>\n<img src=\"https://nitter.net/pic/media%2FHNbWqnBaoAA9tzi.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNbWruKaIAAOm9l.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNbWsqaaQAEg7pb.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNbWtg1bQAAbDes.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "American airstrikes have just destroyed the maritime control tower at Iran's Chabahar Port, a critical infrastructure and trade hub heavily developed and funded by India. India has poured massive resources into Chabahar over the last decade. Over $500 million. The breakdown: \u25aa\ufe0f $120M direct investment for operations (paid in full) \u25aa\ufe0f $250M credit line for port infrastructure \u25aa\ufe0f $134M spent on the connecting Zaranj-Delaram highway Chabahar is not just a commercial port; it is India's primary gateway to Afghanistan and Central Asia, purposefully designed to bypass Pakistan entirely. As a cornerstone of the International North-South Transport Corridor (INSTC), its impairment chokes off India's strategic trade access.",
       "link": "https://nitter.net/NetramDefence/status/2078076857937969491#m",
@@ -1020,36 +1086,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "US Defence Secy posts a picture of destroyed maritime tower of Chabahar port in Iran.",
-      "link": "https://nitter.net/sidhant/status/2078003301757726836#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T11:56:09+05:30",
-      "time": "17 Jul, 11:56 AM",
-      "type": "tweets",
-      "content": "<p>US Defence Secy posts a picture of destroyed maritime tower of Chabahar port in Iran.</p>\n<hr />\n<blockquote>\n<b>Pete Hegseth (@PeteHegseth)</b>\n<p>\n<img src=\"https://nitter.net/pic/media%2FHNZiIkCWQAAEtf3.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/PeteHegseth/status/2077956182665302280#m\">https://nitter.net/PeteHegseth/status/2077956182665302280#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India's key maritime body announces \"enhanced precautionary measures\" to safeguard Indian seafarers, including avoiding deployment of Indian seafarers on vessels passing via Hormuz.",
-      "link": "https://nitter.net/sidhant/status/2077998124736626986#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T11:35:34+05:30",
-      "time": "17 Jul, 11:35 AM",
-      "type": "tweets",
-      "content": "<p>India's key maritime body announces \"enhanced precautionary measures\" to safeguard Indian seafarers, including avoiding deployment of Indian seafarers on vessels passing via Hormuz.</p>\n<img src=\"https://nitter.net/pic/media%2FHNaIR3TbgAAHdax.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian President Murmu will be on a state visit to Moldova, North Macedonia, and Romania from July 19-25, 2026",
-      "link": "https://nitter.net/sidhant/status/2077992914538610913#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T11:14:52+05:30",
-      "time": "17 Jul, 11:14 AM",
-      "type": "tweets",
-      "content": "<p>Indian President Murmu will be on a state visit to Moldova, North Macedonia, and Romania from July 19-25, 2026</p>\n<img src=\"https://nitter.net/pic/media%2FHNaDifXaQAAfCfK.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "R to @alpha_defense: However what @Defencematrix1 said in context of MK1A is intresting take in context of 2 Astra on same pylon. @Rethik_D good candidate for CFD ?",
       "link": "https://nitter.net/alpha_defense/status/2077985237469176182#m",
       "source": "Alpha Defense",
@@ -1058,16 +1094,6 @@
       "type": "tweets",
       "content": "<p>However what <a href=\"https://nitter.net/Defencematrix1\" title=\"Defence Matrix\">@Defencematrix1</a> said in context of MK1A is intresting take in context of 2 Astra on same pylon. <a href=\"https://nitter.net/Rethik_D\" title=\"Rethik\">@Rethik_D</a> good candidate for CFD ?</p>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Indian Air Force contingent in Darwin, Australia to participate in Australian exercises Pitch Black 2026. 4 Indian Rafale and 2 C17 aircraft along with over 120 Air Warriors participating in the exercises.",
-      "link": "https://nitter.net/sidhant/status/2077984107133628629#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T10:39:52+05:30",
-      "time": "17 Jul, 10:39 AM",
-      "type": "tweets",
-      "content": "<p>Indian Air Force contingent in Darwin, Australia to participate in Australian exercises Pitch Black 2026. <br />\n<br />\n4 Indian Rafale and 2 C17 aircraft along with over 120 Air Warriors participating in the exercises.</p>\n<img src=\"https://nitter.net/pic/media%2FHNZ7SxqbYAAGkSD.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "I think this is from 2016-2017 (probably 2nd iron fist exercise)",
@@ -1100,26 +1126,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Key provisions of Russia sanctions bill that seeks to impose tariffs on countries like India, China for importing Russian energy. Released by US Senate Foreign Affairs Committee",
-      "link": "https://nitter.net/sidhant/status/2077966774151074264#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T09:31:00+05:30",
-      "time": "17 Jul, 09:31 AM",
-      "type": "tweets",
-      "content": "<p>Key provisions of Russia sanctions bill that seeks to impose tariffs on countries like India, China for importing Russian energy. Released by US Senate Foreign Affairs Committee</p>\n<img src=\"https://nitter.net/pic/media%2FHNZrw44bEAAysiF.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "60+ US lawmakers back Russia Sanction Bill 2026 that seek to impose tariffs on countries like India, China for importing Russian Energy; Gives exception to Europe",
-      "link": "https://nitter.net/sidhant/status/2077966281014440021#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T09:29:02+05:30",
-      "time": "17 Jul, 09:29 AM",
-      "type": "tweets",
-      "content": "<p>60+ US lawmakers back Russia Sanction Bill 2026 that seek to impose tariffs on countries like India, China for importing Russian Energy; Gives exception to Europe</p>\n<img src=\"https://nitter.net/pic/media%2FHNZrUIKbsAAS_CK.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "Following the recent violence in Senapati (Manipur), the CRPF has tightened security protocols across Manipur, mandating convoy-only movement in Armoured vehicles for security personnel in vulnerable areas while deploying additional elite CoBRA units to strengthen counter-insurgency & area domination operations.",
       "link": "https://nitter.net/NetramDefence/status/2077965735700337075#m",
       "source": "Netram Defense",
@@ -1140,16 +1146,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "RT by @sidhant: Singapore-India ties are reaching for the stars! \ud83d\ude80 Backed by GIC & @Temasek, @SkyrootA is set to make India\u2019s first private orbital launch. Praying for #Vikram1's success! \ud83d\ude4f HC Wong @isro @INSPACeIND @DrJitendraSingh @PawanKChandana @bharathdaka #MissionAagaman #SpaceTech",
-      "link": "https://nitter.net/SGinIndia/status/2077957745006063822#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T08:55:07+05:30",
-      "time": "17 Jul, 08:55 AM",
-      "type": "tweets",
-      "content": "<p>Singapore-India ties are reaching for the stars! \ud83d\ude80 <br />\n<br />\nBacked by GIC &amp; <a href=\"https://nitter.net/Temasek\" title=\"Temasek\">@Temasek</a>, <a href=\"https://nitter.net/SkyrootA\" title=\"Skyroot Aerospace\">@SkyrootA</a> is set to make India\u2019s first private orbital launch. <br />\n<br />\nPraying for <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Vikram1\">#Vikram1</a>'s success! \ud83d\ude4f HC Wong<br />\n<br />\n<a href=\"https://nitter.net/isro\" title=\"ISRO\">@isro</a> <a href=\"https://nitter.net/INSPACeIND\" title=\"IN-SPACe\">@INSPACeIND</a> <a href=\"https://nitter.net/DrJitendraSingh\" title=\"Dr Jitendra Singh\">@DrJitendraSingh</a> <a href=\"https://nitter.net/PawanKChandana\" title=\"Pawan\">@PawanKChandana</a> <a href=\"https://nitter.net/bharathdaka\" title=\"Naga Bharath Daka\">@bharathdaka</a><br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23MissionAagaman\">#MissionAagaman</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SpaceTech\">#SpaceTech</a></p>\n<img src=\"https://nitter.net/pic/media%2FHNZjjVKbMAAyP54.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNZjjVKawAAw8bq.jpg\" />",
-      "author": "@SGinIndia"
-    },
-    {
       "title": "The Indian Navy will commission Malvan, the second of the Mahe-class anti-submarine warfare shallow water craft (ASW-SWC), on July 22.",
       "link": "https://nitter.net/alpha_defense/status/2077943908093284763#m",
       "source": "Alpha Defense",
@@ -1158,36 +1154,6 @@
       "type": "tweets",
       "content": "<p>The Indian Navy will commission Malvan, the second of the Mahe-class anti-submarine warfare shallow water craft (ASW-SWC), on July 22.</p>\n<img src=\"https://nitter.net/pic/media%2FHNZW-ROXcAAKRYG.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "R to @sidhant: Trump blames China for election interference among other things:",
-      "link": "https://nitter.net/sidhant/status/2077939008093733163#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T07:40:40+05:30",
-      "time": "17 Jul, 07:40 AM",
-      "type": "tweets",
-      "content": "<p>Trump blames China for election interference among other things:</p>\n<img src=\"https://nitter.net/pic/media%2FHNZSgwKaMAACEw8.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Trump begins address to the nation",
-      "link": "https://nitter.net/sidhant/status/2077926514633712087#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T06:51:01+05:30",
-      "time": "17 Jul, 06:51 AM",
-      "type": "tweets",
-      "content": "<p>Trump begins address to the nation</p>\n<img src=\"https://nitter.net/pic/media%2FHNZHJWha4AAN4jj.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Nitish Kaushal arrested in Vermont, US: FBI",
-      "link": "https://nitter.net/sidhant/status/2077926166112215502#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T06:49:38+05:30",
-      "time": "17 Jul, 06:49 AM",
-      "type": "tweets",
-      "content": "<p>Nitish Kaushal arrested in Vermont, US: FBI</p>\n<img src=\"https://nitter.net/pic/media%2FHNZG1UwbcAA9EbU.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>FBI issues arrest warrant for Nitish Kaushal, member of Bhagwanpuria transnational crime group.</p>\n<img src=\"https://nitter.net/pic/media%2FHNPM_QhbgAAqvHR.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2077229248608158010#m\">https://nitter.net/sidhant/status/2077229248608158010#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "6th day in a row..",
@@ -1248,16 +1214,6 @@
       "type": "tweets",
       "content": "<p>The rides are starting, means Vijay Diwas is nearby \ud83d\ude42</p>\n<hr />\n<blockquote>\n<b>Western Command - Indian Army (@westerncomd_IA)</b>\n<p>\n<p>Honouring Heroes:  Carrying Gratitude<br />\n<br />\nLt Gen Pushpendra Singh, AVSM, SM**, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ArmyCommander\">#ArmyCommander</a>, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23WesternCommand\">#WesternCommand</a>, flagged off the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ShauryaVijayYatra\">#ShauryaVijayYatra</a> Bike Rally from <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Chandimandir\">#Chandimandir</a> as it proceeds to the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23KargilWarMemorial\">#KargilWarMemorial</a>, Drass.<br />\n<br />\nIn an emotional interaction with the riders, he lauded their resolve to carry the Nation\u2019s gratitude to the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23KargilHeroes\">#KargilHeroes</a>. He spoke of duty, remembrance and the timeless values of Courage, Sacrifice and Service that must inspire every generation.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23KargilVijayDiwas2026\">#KargilVijayDiwas2026</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23Veterans\">#Veterans</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23ServiceBeforeSelf\">#ServiceBeforeSelf</a>  <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/salute2soldier\" title=\"\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u092e\u0930 \u0938\u094d\u092e\u093e\u0930\u0915 / NATIONAL WAR MEMORIAL\">@salute2soldier</a> <br />\n<a href=\"https://nitter.net/prodefencechan1\" title=\"prodefencechandigarh\">@prodefencechan1</a></p>\n<img src=\"https://nitter.net/pic/media%2FHNW8ttvacAAyLV0.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNW8tvAbcAAjchI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNW8tvGagAAtrOK.jpg\" />\n\n<a href=\"https://nitter.net/westerncomd_IA/status/2077774390297784583#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2077774304805261314%2Fpu%2Fimg%2FrZ6gkSKr13gpjAWp.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/westerncomd_IA/status/2077774390297784583#m\">https://nitter.net/westerncomd_IA/status/2077774390297784583#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Canada has paused new applications to its Parents and Grandparents Program (PGP). Move affects the large Indian diaspora with significant familial linkages.",
-      "link": "https://nitter.net/sidhant/status/2077800386891784298#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-16T22:29:50+05:30",
-      "time": "16 Jul, 10:29 PM",
-      "type": "tweets",
-      "content": "<p>Canada has paused new applications to its Parents and Grandparents Program (PGP). Move affects the large Indian diaspora with significant familial linkages.</p>\n<img src=\"https://nitter.net/pic/media%2FHNXTxwnaUAAT6EC.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "\ud83d\udea8 Just In \ud83c\uddf5\ud83c\uddf0\ud83e\ude96\ud83d\udca5 : Armed Rebels Launch Major Assault on Pak Forces Checkpost in Lower Dir, KP Pakistan According to local sources, more than 20 armed rebels have reportedly stormed the Korei Checkpost in the Maidan area of Lower Dir, Khyber Pakhtunkhwa, triggering an intense exchange of fire. The situation remains fluid, with clashes reportedly ongoing. More details are awaited as the incident unfolds.",
@@ -1480,16 +1436,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Since 2023 National Space Policy, the government has been pushing ISRO from a \u201csupply-based\u201d model (ISRO builds and operates everything) to a \u201cdemand-based\u201d model where ISRO focuses on R&D and frontier missions, while production and commercial operations move to industry.",
-      "link": "https://nitter.net/alpha_defense/status/2077665826602430807#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-16T13:35:08+05:30",
-      "time": "16 Jul, 01:35 PM",
-      "type": "tweets",
-      "content": "<p>Since 2023 National Space Policy, the government has been pushing ISRO from a \u201csupply-based\u201d model (ISRO builds and operates everything) to a \u201cdemand-based\u201d model where ISRO focuses on R&amp;D and frontier missions, while production and commercial operations move to industry.</p>\n<img src=\"https://nitter.net/pic/media%2FHNVaDY6bcAAncAE.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "RT by @NetramDefence: Multiple plumes of smoke rose from the vicinity of Russia\u2019s Engels-2 bomber airbase in Saratov Oblast following a reported Ukrainian drone raid. The airbase is a critical hub for Russia\u2019s strategic aviation fleet, including Tu-95 & Tu-160 bombers deployed in long-range ops.",
       "link": "https://nitter.net/Globalwatchh/status/2077653266876584306#m",
       "source": "Netram Defense",
@@ -1682,6 +1628,15 @@
   ],
   "youtube": [
     {
+      "title": "Indian Defence Updates : 500 J20 vs Rafale,Fresh S400 Sanctions,Shaurya Strike Ready,MH-60R Delivery",
+      "link": "https://www.youtube.com/watch?v=THr_6LlXfmc",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-07-17T18:01:26+05:30",
+      "time": "17 Jul, 06:01 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/THr_6LlXfmc/mqdefault.jpg"
+    },
+    {
       "title": "Indian camps in Chinese territories?",
       "link": "https://www.youtube.com/shorts/HZ8jsNn45ec",
       "source": "Elite Predators",
@@ -1761,18 +1716,9 @@
       "time": "15 Jul, 09:30 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/J7HH6uBMIIg/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : Japan Offers XF9 Engine,Su-57 Sword Offer,100 Super Sukhoi Export,50 Ghatak",
-      "link": "https://www.youtube.com/watch?v=4f_7sjhG6RQ",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-07-15T17:30:35+05:30",
-      "time": "15 Jul, 05:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/4f_7sjhG6RQ/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
