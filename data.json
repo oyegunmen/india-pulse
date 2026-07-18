@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "US-Iran fighting over Strait of Hormuz escalates with attacks on key infrastructure and military targets",
+      "link": "https://newsonair.gov.in/us-iran-fighting-over-strait-of-hormuz-escalates-with-attacks-on-key-infrastructure-and-military-targets/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-18T21:21:53+05:30",
+      "time": "18 Jul, 09:21 PM",
+      "type": "news",
+      "description": "Iran&#8217;s Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, today announced that Tehran has suspended its commitments..."
+    },
+    {
+      "title": "Pakistan extends ban on Indian airlines, military aircraft till August 23",
+      "link": "https://www.newindianexpress.com/india/2026/Jul/18/pakistan-extends-ban-on-indian-airlines-military-aircraft-till-august-23",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-18T20:34:39+05:30",
+      "time": "18 Jul, 08:34 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Two suspects apprehended after Assam Rifles gunfight with insurgents in Arunachal",
       "link": "https://economictimes.indiatimes.com/news/defence/two-suspects-apprehended-after-assam-rifles-gunfight-with-insurgents-in-arunachal/articleshow/132481469.cms",
       "source": "Economic Times",
@@ -80,15 +98,6 @@
       "time": "18 Jul, 04:51 PM",
       "type": "news",
       "description": "In Balochistan, two more civilians were allegedly forcibly disappeared by Pakistani security forces, according to the human rights group Baloch Voice ..."
-    },
-    {
-      "title": "Latest round of US-Iran strikes hits military, infrastructure targets",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/18/latest-round-of-us-iran-strikes-hits-military-infrastructure-targets",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-18T16:10:32+05:30",
-      "time": "18 Jul, 04:10 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Doctors question evidence behind Pentagon plan for testosterone screening",
@@ -379,15 +388,6 @@
       "description": "Eve, controlled by Embraer, seeks reliable power solutions for its aircraft&#039;s operations. Hitachi Energy will adapt its electric vehicle charging..."
     },
     {
-      "title": "IRGC claims to launch retaliatory strikes on US military facilities in Syria, Kuwait and Oman",
-      "link": "https://newsonair.gov.in/irgc-claims-to-launch-retaliatory-strikes-on-us-military-facilities-in-syria-kuwait-and-oman/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-17T18:07:39+05:30",
-      "time": "17 Jul, 06:07 PM",
-      "type": "news",
-      "description": "&#160; Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) claimed it had launched a series of retaliatory strikes targeting US military facilities ..."
-    },
-    {
       "title": "Skyroot set to launch India\u2019s first privately developed orbital rocket on July 18",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/skyroot-aerospace-to-launch-indias-first-private-orbital-rocket-vikram-1-on-july-18/132460301",
       "source": "Economic Times",
@@ -665,54 +665,29 @@
       "time": "16 Jul, 09:30 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "India\u2019s First Private Orbital Rocket, Skyroot\u2019s Vikram-1, Eyes Historic Lift Off of its first test flight on July 18",
-      "link": "https://www.indiastrategic.in/indias-first-private-orbital-rocket-skyroots-vikram-1-eyes-historic-lift-off-of-its-first-test-flight-on-july-18/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-16T20:45:06+05:30",
-      "time": "16 Jul, 08:45 PM",
-      "type": "news",
-      "description": "<p>Bengaluru, July 16, 2026. Skyroot Aerospace&#8217;s maiden test flight of Vikram-1 will attempt to launch from the first launch pad at SDSC-SHAR on..."
-    },
-    {
-      "title": "Indian Navy to commission indigenous ASW craft INS Malvan on July 22",
-      "link": "https://www.indiastrategic.in/indian-navy-to-commission-indigenous-asw-craft-ins-malvan-on-july-22/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-16T20:33:14+05:30",
-      "time": "16 Jul, 08:33 PM",
-      "type": "news",
-      "description": "<p>New Delhi, July 16. The Indian Navy will commission INS Malvan, the second vessel in the indigenous Mahe-class Anti-Submarine Warfare Shallow Water..."
-    },
-    {
-      "title": "Pakistan worries about being drawn into US-Iran conflict after Houthis attack Saudi Arabia",
-      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-worries-about-being-drawn-into-us-iran-conflict-after-houthis-attack-saudi-arabia/articleshow/132442200.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-16T20:26:40+05:30",
-      "time": "16 Jul, 08:26 PM",
-      "type": "news",
-      "description": "Recent Houthi attacks on Saudi Arabia have frustrated Pakistan significantly. These actions threaten to draw Islamabad into the conflict, complicating..."
-    },
-    {
-      "title": "Lockheed Martin to Provide Next-Generation Logistics and Sustainment Support for US Special Operations Command Under New Contract",
-      "link": "https://www.indiastrategic.in/lockheed-martin-to-provide-next-generation-logistics-and-sustainment-support-for-us-special-operations-command-under-new-contract/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-16T20:26:35+05:30",
-      "time": "16 Jul, 08:26 PM",
-      "type": "news",
-      "description": "<p>ORLANDO, Fla., July 16, 2026. As part of a historic investment to rebuild the Arsenal of Freedom, the Department of War named Lockheed Martin the p..."
-    },
-    {
-      "title": "Iran says US military strikes near children\u2019s cancer hospital, forcing chaotic emergency evacuation of 211 patients",
-      "link": "https://indianexpress.com/article/world/middle-east-us-strike-iran-ahvaz-childrens-cancer-hospital-evacuation-strait-of-hormuz-escalation-10789833/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-16T20:24:27+05:30",
-      "time": "16 Jul, 08:24 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "The accuracy of ULPGM-V3 \ud83d\udd25",
+      "link": "https://nitter.net/alpha_defense/status/2078498790487781500#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-18T20:45:02+05:30",
+      "time": "18 Jul, 08:45 PM",
+      "type": "tweets",
+      "content": "<p>The accuracy of ULPGM-V3 \ud83d\udd25</p>\n<img src=\"https://nitter.net/pic/media%2FHNhPodPbMAAK7xC.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "\ud83d\udea8Shri Amarnath Yatra suspended for tomorrow due to adverse weather forecast",
+      "link": "https://nitter.net/AngryRumi7/status/2078498044027552152#m",
+      "source": "Angry Rumi",
+      "sort_key": "2026-07-18T20:42:04+05:30",
+      "time": "18 Jul, 08:42 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8Shri Amarnath Yatra suspended for tomorrow due to adverse weather forecast</p>",
+      "author": "@AngryRumi7"
+    },
     {
       "title": "R to @sidhant: \"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"",
       "link": "https://nitter.net/sidhant/status/2078490511078457706#m",
@@ -1052,16 +1027,6 @@
       "type": "tweets",
       "content": "<p>Kathua Railway Station Renamed to Honour Kirti Chakra Awardee Captain Sunil Kumar Choudhary<br />\n<br />\nKathua Railway Station has been renamed \"Martyr Captain Sunil Kumar Choudhary Kathua Railway Station\" in honour of Captain Sunil Kumar Choudhary of the 7/11 Gorkha Rifles, who made the supreme sacrifice during an anti-terror operation in Assam in 2008.<br />\n<br />\nCaptain Choudhary was posthumously awarded the Kirti Chakra, India's second-highest peacetime gallantry award, and was also a recipient of the Sena Medal for his exceptional bravery.<br />\n<br />\nMore than a symbolic gesture, the renaming stands as a lasting tribute to a soldier whose courage and sacrifice will continue to inspire generations.</p>\n<img src=\"https://nitter.net/pic/media%2FHNfh-nAbwAAgdY0.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "100% designed in India. 100% manufactured in India. Built by a team with an average age of just 28 without prior experience of carrying a 20 kg on shoulder in mountains, yet delivering world-class engineering.",
-      "link": "https://nitter.net/alpha_defense/status/2078376469756334525#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-18T12:38:59+05:30",
-      "time": "18 Jul, 12:38 PM",
-      "type": "tweets",
-      "content": "<p>100% designed in India. 100% manufactured in India. Built by a team with an average age of just 28 without prior experience of carrying a 20 kg on shoulder in mountains, yet delivering world-class engineering.</p>\n<img src=\"https://nitter.net/pic/media%2FHNfgYZCbkAAiikF.jpg\" />",
-      "author": "@alpha_defense"
     },
     {
       "title": "RT by @notam_in: Hello space, we have arrived! Vikram-1's Test Flight-1 has completed it's mission. The first ever Indian private sector launch has been successfully completed. #Vikram1 #MissionAagaman #OpeningSpaceForAll",
@@ -1729,6 +1694,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
