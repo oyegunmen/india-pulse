@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Venezuela earthquake death toll rises to 5,069",
+      "link": "https://newsonair.gov.in/venezuela-earthquake-death-toll-rises-to-5069/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-18T17:11:44+05:30",
+      "time": "18 Jul, 05:11 PM",
+      "type": "news",
+      "description": "The death toll from last month&#8217;s devastating earthquakes in Venezuela has risen to 5,069. National Assembly President Jorge Rodriguez said 16,74..."
+    },
+    {
+      "title": "India unveils first indigenous hydrogen-powered train, advancing green rail ambitions",
+      "link": "https://www.indiastrategic.in/india-unveils-first-indigenous-hydrogen-powered-train-advancing-green-rail-ambitions/",
+      "source": "India Strategic",
+      "sort_key": "2026-07-18T17:10:47+05:30",
+      "time": "18 Jul, 05:10 PM",
+      "type": "news",
+      "description": "<p>New Delhi, July 18. India on July 17 marked a major milestone in its clean transportation journey with the launch of its first indigenously designe..."
+    },
+    {
+      "title": "US and Iran target infrastructure as strait shipping comes under further attack",
+      "link": "https://www.indiastrategic.in/us-and-iran-target-infrastructure-as-strait-shipping-comes-under-further-attack/",
+      "source": "India Strategic",
+      "sort_key": "2026-07-18T17:02:50+05:30",
+      "time": "18 Jul, 05:02 PM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar Washington/Bengaluru, July 18, 2026. The United States on July 17, launched a seventh straight night of attacks on Iran, which in t..."
+    },
+    {
+      "title": "Seven killed, 51 injured in overnight Ukrainian drone attacks on Russia",
+      "link": "https://newsonair.gov.in/seven-killed-51-injured-in-overnight-ukrainian-drone-attacks-on-russia/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-18T16:56:08+05:30",
+      "time": "18 Jul, 04:56 PM",
+      "type": "news",
+      "description": "Seven people were killed and 51 others injured in overnight Ukrainian drone attacks on Russia. Russian officials today said two sprawling warehouses o..."
+    },
+    {
+      "title": "Two more civilians forcibly disappeared by Pakistani forces in Balochistan: Baloch Voice for Justice group",
+      "link": "https://newsonair.gov.in/two-more-civilians-forcibly-disappeared-by-pakistani-forces-in-balochistan-baloch-voice-for-justice-group/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-18T16:51:06+05:30",
+      "time": "18 Jul, 04:51 PM",
+      "type": "news",
+      "description": "In Balochistan, two more civilians were allegedly forcibly disappeared by Pakistani security forces, according to the human rights group Baloch Voice ..."
+    },
+    {
+      "title": "Latest round of US-Iran strikes hits military, infrastructure targets",
+      "link": "https://www.newindianexpress.com/world/2026/Jul/18/latest-round-of-us-iran-strikes-hits-military-infrastructure-targets",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-18T16:10:32+05:30",
+      "time": "18 Jul, 04:10 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Doctors question evidence behind Pentagon plan for testosterone screening",
       "link": "https://economictimes.indiatimes.com/news/defence/doctors-question-evidence-behind-pentagon-plan-for-testosterone-screening/articleshow/132478268.cms",
       "source": "Economic Times",
@@ -109,7 +163,7 @@
       "description": "Rajnath added  that over the past 12 years, India has moved beyond mere modernization to initiate a broader shift, transitioning from a consumer-based..."
     },
     {
-      "title": "'Ghar Mein Ghus Ke Maarenge': Rajnath Singh's Stern Warning to Terrorists, Says Zero Tolerance Is India's 'Line of Action'",
+      "title": "'Ghar Mein Ghus Ke Maarenge': Rajnath Singh's Stern Warning to Terrorists, Says Zero Tolerance is India's 'Line of Action'",
       "link": "https://www.republicworld.com/defence/ghar-mein-ghus-ke-maarenge-rajnath-singh-s-stern-warning-to-terrorists-says-zero-tolerance-is-india-s-line-of-action-2026-07-18-132694",
       "source": "Republic World",
       "sort_key": "2026-07-18T12:19:11+05:30",
@@ -208,15 +262,6 @@
       "description": "The United Nations Human Rights agency has voiced concern over the wave of unrest in Pakistan-occupied Jammu and Kashmir (PoJK), calling for investiga..."
     },
     {
-      "title": "US launches 7th night of strikes as Iran threatens 'full-scale offensive', hits military sites",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/18/us-launches-7th-night-of-strikes-as-iran-threatens-full-scale-offensive-hits-military-sites",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-18T07:50:39+05:30",
-      "time": "18 Jul, 07:50 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Army opens fire after observing suspicious movement along LoC in J-K's Rajouri",
       "link": "https://economictimes.indiatimes.com/news/defence/army-opens-fire-after-observing-suspicious-movement-along-loc-in-j-ks-rajouri/articleshow/132472508.cms",
       "source": "Economic Times",
@@ -251,15 +296,6 @@
       "time": "18 Jul, 06:18 AM",
       "type": "news",
       "description": "The United States and Iran intensified their conflict across the Middle East on Friday, launching fresh strikes on military and infrastructure targets..."
-    },
-    {
-      "title": "India attends SCO border security chiefs\u2019 meeting in Islamabad",
-      "link": "https://www.tribuneindia.com/news/india/india-attends-sco-border-security-chiefs-meeting-in-islamabad",
-      "source": "The Tribune",
-      "sort_key": "2026-07-17T22:57:09+05:30",
-      "time": "17 Jul, 10:57 PM",
-      "type": "news",
-      "description": "India on Friday attended a meeting of border security chiefs of the Shanghai Cooperation Organisation (SCO) in Islamabad, marking another instance of ..."
     },
     {
       "title": "India Slams Pakistan Over Hafiz Saeed Remarks, Reaffirms Claim on Gilgit-Baltistan",
@@ -469,15 +505,6 @@
       "description": "The Indian Air Force contingent has arrived in Australia for Exercise Pitch Black 2026. This multinational air combat exercise involves nineteen natio..."
     },
     {
-      "title": "President Donald Trump accuses China of interfering with US elections",
-      "link": "https://newsonair.gov.in/president-donald-trump-accuses-china-of-interfering-with-us-elections/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-17T11:20:21+05:30",
-      "time": "17 Jul, 11:20 AM",
-      "type": "news",
-      "description": "US President Donald Trump has accused China of carrying out a wide-ranging campaign to interfere in American elections. He alleged that Beijing sought..."
-    },
-    {
       "title": "US will focus counterterrorism efforts on left-wing groups, Rubio says",
       "link": "https://www.indiastrategic.in/us-will-focus-counterterrorism-efforts-on-left-wing-groups-rubio-says/",
       "source": "India Strategic",
@@ -496,15 +523,6 @@
       "description": "He praised the Border Roads Organisation&#039;s unprecedented speed in challenging terrains. Connectivity improvements are transforming remote village..."
     },
     {
-      "title": "US imposes new visa restrictions to bar far-left terrorists from entering the country",
-      "link": "https://newsonair.gov.in/us-imposes-new-visa-restrictions-to-bar-far-left-terrorists-from-entering-the-country/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-17T10:19:26+05:30",
-      "time": "17 Jul, 10:19 AM",
-      "type": "news",
-      "description": "In United States, Trump administration has imposed new visa restrictions to bar far-left terrorists from entering the country. \u00a0 US Secretary of State..."
-    },
-    {
       "title": "US airstrikes on Iran appear to have damaged Gulf of Oman port facility",
       "link": "https://economictimes.indiatimes.com/news/defence/us-airstrikes-on-iran-appear-to-have-damaged-gulf-of-oman-port-facility/articleshow/132452667.cms",
       "source": "Economic Times",
@@ -512,15 +530,6 @@
       "time": "17 Jul, 10:11 AM",
       "type": "news",
       "description": "US airstrikes on Friday reportedly collapsed a tower at Iran's Chabahar port. This key trade route for Afghanistan has been a repeated target of Ameri..."
-    },
-    {
-      "title": "US President Donald Trump to attend the FIFA World Cup 2026 final",
-      "link": "https://newsonair.gov.in/us-president-donald-trump-to-attend-the-fifa-world-cup-2026-final/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-17T10:03:11+05:30",
-      "time": "17 Jul, 10:03 AM",
-      "type": "news",
-      "description": "The White House confirmed that US President Donald Trump will attend the FIFA World Cup 2026 final between defending champions Argentina and Spain at ..."
     },
     {
       "title": "Reliance Jio&#039;s 1,600-LEO satellite plan gets IN-SPACe technical nod, moves closer to India&#039;s first homegrown constellation",
@@ -746,27 +755,59 @@
       "time": "16 Jul, 05:46 PM",
       "type": "news",
       "description": "Iraq briefly suspended oil loadings after a drone struck an oil tanker. The drone did not cause damage or start a fire at the terminal. Loadings have ..."
-    },
-    {
-      "title": "BIMSTEC security chiefs adopt maritime cooperation guidelines at New Delhi meeting",
-      "link": "https://www.indiastrategic.in/bimstec-security-chiefs-adopt-maritime-cooperation-guidelines-at-new-delhi-meeting/",
-      "source": "India Strategic",
-      "sort_key": "2026-07-16T17:11:56+05:30",
-      "time": "16 Jul, 05:11 PM",
-      "type": "news",
-      "description": "<p>New Delhi, July 16. The National Security Advisers (NSAs) and senior security officials of the seven BIMSTEC member states on July 16 adopted key g..."
-    },
-    {
-      "title": "Iran launches fresh strike towards Kuwait amid escalating Gulf tensions",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-launches-fresh-strike-towards-kuwait-amid-escalating-gulf-tensions/articleshow/132437784.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-16T16:56:51+05:30",
-      "time": "16 Jul, 04:56 PM",
-      "type": "news",
-      "description": "Kuwait's military said it intercepted a fresh round of incoming fire from Iran, as tensions in the Gulf continue to escalate following intensified US ..."
     }
   ],
   "tweets": [
+    {
+      "title": "Jio's 1,600-Satellite LEO Constellation Cleared by IN-SPACe, Designed to Support Military Payloads India's space regulator, IN-SPACe, officially approved Reliance Jio's proposal to deploy around 1,600 low-Earth orbit (LEO) satellites. Jointly evaluated with ISRO and the Department of Telecommunications, the homegrown system boasts a massive capacity of up to 5 terabits per second (Tbps) and is designed to host defense payloads for national security.",
+      "link": "https://nitter.net/NetramDefence/status/2078440173839519822#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-18T16:52:07+05:30",
+      "time": "18 Jul, 04:52 PM",
+      "type": "tweets",
+      "content": "<p>Jio's 1,600-Satellite LEO Constellation Cleared by IN-SPACe, Designed to Support Military Payloads<br />\n<br />\nIndia's space regulator, IN-SPACe, officially approved Reliance Jio's proposal to deploy around 1,600 low-Earth orbit (LEO) satellites. Jointly evaluated with ISRO and the Department of Telecommunications, the homegrown system boasts a massive capacity of up to 5 terabits per second (Tbps) and is designed to host defense payloads for national security.</p>\n<img src=\"https://nitter.net/pic/media%2FHNgaS3Xa8AAJH9z.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Skyroot's Vikram-1 Showcases India's Private Space Leap Skyroot Aerospace's Vikram-1 has demonstrated India's rapidly expanding private-sector launch capability, successfully reaching orbit and proving India's growing role in the global commercial space industry. Vikram-1 strengthens the nation's ability to provide indigenous orbital launch services for domestic and international satellite customers.",
+      "link": "https://nitter.net/NetramDefence/status/2078438755900551295#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-18T16:46:29+05:30",
+      "time": "18 Jul, 04:46 PM",
+      "type": "tweets",
+      "content": "<p>Skyroot's Vikram-1 Showcases India's Private Space Leap<br />\n<br />\nSkyroot Aerospace's Vikram-1 has demonstrated India's rapidly expanding private-sector launch capability, successfully reaching orbit and proving India's growing role in the global commercial space industry. <br />\n<br />\nVikram-1 strengthens the nation's ability to provide indigenous orbital launch services for domestic and international satellite customers.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2078438755900551295#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078438603739570176%2Fimg%2F0IzNXjxAon1O3Fdx.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/NetramDefence/status/2078438755900551295#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078438603789864960%2Fimg%2FhsOMI46pmoZXErQM.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @alpha_defense: Credit : @Neetivaan",
+      "link": "https://nitter.net/alpha_defense/status/2078434277751193937#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-18T16:28:41+05:30",
+      "time": "18 Jul, 04:28 PM",
+      "type": "tweets",
+      "content": "<p>Credit : <a href=\"https://nitter.net/Neetivaan\" title=\"ghatak\">@Neetivaan</a></p>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "This is \ud83d\udd25",
+      "link": "https://nitter.net/alpha_defense/status/2078433194999976277#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-18T16:24:23+05:30",
+      "time": "18 Jul, 04:24 PM",
+      "type": "tweets",
+      "content": "<p>This is \ud83d\udd25</p>\n<a href=\"https://nitter.net/alpha_defense/status/2078433194999976277#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078432884587905024%2Fimg%2FckWr3YiOFhHXf0-J.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "BREAKING: PoK Neither \"Azad\" Nor \"Disputed\" But \"Occupied\": Local Leader At Rally Amid ongoing unrest in Pakistan-occupied Jammu & Kashmir (PoJK), protest leader Sardar Aman Khan declared at a massive rally in Rawalakot that the region is \"neither Azad nor disputed, but occupied.\" The protests have continued for over 40 days, with demonstrators alleging shortages of food and medicines, internet blackouts, and excessive use of force by Pakistani authorities. India's Ministry of External Affairs has accused Pakistan of systematic exploitation, denial of fundamental rights, and a violent crackdown on civilians in PoJK. The situation remains tense, with protests continuing across the region.",
+      "link": "https://nitter.net/NetramDefence/status/2078433151957766207#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-18T16:24:13+05:30",
+      "time": "18 Jul, 04:24 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING: PoK Neither \"Azad\" Nor \"Disputed\" But \"Occupied\": Local Leader At Rally<br />\n<br />\nAmid ongoing unrest in Pakistan-occupied Jammu & Kashmir (PoJK), protest leader Sardar Aman Khan declared at a massive rally in Rawalakot that the region is \"neither Azad nor disputed, but occupied.\"<br />\n<br />\nThe protests have continued for over 40 days, with demonstrators alleging shortages of food and medicines, internet blackouts, and excessive use of force by Pakistani authorities.<br />\n<br />\nIndia's Ministry of External Affairs has accused Pakistan of systematic exploitation, denial of fundamental rights, and a violent crackdown on civilians in PoJK.<br />\n<br />\nThe situation remains tense, with protests continuing across the region.</p>\n<img src=\"https://nitter.net/pic/media%2FHNgTfzObAAAjNJQ.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "BREAKING: Infiltration Bid Foiled Along LoC in J&K's Rajouri Indian Army troops opened fire after detecting suspicious movement near the Line of Control (LoC) in the Tarkundi sector of Rajouri on Friday night, triggering an exchange of small-arms fire with Pakistani positions. The firing reportedly lasted around 90 minutes. No casualties have been reported. A search operation is underway to determine whether any infiltration attempt succeeded, while security forces have placed the area under heightened surveillance.",
       "link": "https://nitter.net/NetramDefence/status/2078429829519831396#m",
@@ -776,6 +817,16 @@
       "type": "tweets",
       "content": "<p>BREAKING: Infiltration Bid Foiled Along LoC in J&amp;K's Rajouri<br />\n<br />\nIndian Army troops opened fire after detecting suspicious movement near the Line of Control (LoC) in the Tarkundi sector of Rajouri on Friday night, triggering an exchange of small-arms fire with Pakistani positions.<br />\n<br />\nThe firing reportedly lasted around 90 minutes. No casualties have been reported.<br />\n<br />\nA search operation is underway to determine whether any infiltration attempt succeeded, while security forces have placed the area under heightened surveillance.</p>\n<img src=\"https://nitter.net/pic/media%2FHNgQ5C2aoAExfqf.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "RT by @sidhant: Our vibrant community is a strong pillar of the India\u2013Saudi Arabia partnership. I'm incredibly grateful for the immense love, affection and support I received from the Indian community in Saudi Arabia throughout my tenure. Thank you everyone for making this journey so memorable!",
+      "link": "https://nitter.net/SuhelAKhanIFS/status/2078422510052258158#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-18T15:41:56+05:30",
+      "time": "18 Jul, 03:41 PM",
+      "type": "tweets",
+      "content": "<p>Our vibrant community is a strong pillar of the India\u2013Saudi Arabia partnership.<br />\n<br />\nI'm incredibly grateful for the immense love, affection and support I received from the Indian community in Saudi Arabia throughout my tenure. Thank you everyone for making this journey so memorable!</p>\n<hr />\n<blockquote>\n<b>India in Saudi Arabia (@IndianEmbRiyadh)</b>\n<p>\n<p>The Indian community in Saudi Arabia came together to bid a grand farewell to Ambassador Dr. Suhel Khan.<br />\n<br />\nLed by the All India Steering Committee, representatives of diverse Indian community organizations and groups felicitated the Ambassador and expressed their appreciation for his dedicated service.<br />\n<br />\nThe Ambassador commended the community's spirit of volunteerism, its efforts to promote Indian culture, and its contribution to strengthening India\u2013Saudi Arabia relations. He also appreciated the Indian business community for its important role in deepening economic ties with Saudi Arabia. He assured everyone that the Embassy would continue to serve the community with utmost commitment and dedication.<br />\n<br />\n<a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a> <br />\n<a href=\"https://nitter.net/diaspora_india\" title=\"Diaspora India Connect\">@diaspora_india</a></p>\n<img src=\"https://nitter.net/pic/media%2FHNf43X8XUAACuYu.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNf43-YWAAAYaM5.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNf44dPWoAARy2V.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNf447DXwAEQlzq.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/IndianEmbRiyadh/status/2078403418381488453#m\">https://nitter.net/IndianEmbRiyadh/status/2078403418381488453#m</a>\n</footer>\n</blockquote>",
+      "author": "@SuhelAKhanIFS"
     },
     {
       "title": "\ud83d\udea8\ud83c\uddee\ud83c\uddf3\ud83d\udca5\ud83c\uddf5\ud83c\uddf0\ud83e\ude96 Report: Pakistan violated the ceasefire along the LoC in the Balakote, Tarkundi sector of Poonch by opening fire on Indian positions during the pre dawn hours. The Indian Army responded firmly, forcing a brief exchange of fire. This marks the first reported ceasefire violation along the LoC in 2026 after months of relative calm. https://freepresskashmir.news/2026/06/15/exchange-of-fire-reported-in-balakote-tarkundi-area-during-pre-dawn-hours/",
@@ -1108,16 +1159,6 @@
       "author": "@TheLegateIN"
     },
     {
-      "title": "All the best \ud83d\udcaf",
-      "link": "https://nitter.net/alpha_defense/status/2078329765610832258#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-18T09:33:24+05:30",
-      "time": "18 Jul, 09:33 AM",
-      "type": "tweets",
-      "content": "<p>All the best \ud83d\udcaf</p>\n<hr />\n<blockquote>\n<b>Pawan (@PawanKChandana)</b>\n<p>\n<p>24 hours to lift-off. \ud83d\ude80<br />\n<br />\nEight years ago, <a href=\"https://nitter.net/SkyrootA\" title=\"Skyroot Aerospace\">@SkyrootA</a> started with just two people with an idea.<br />\n<br />\nThere was no policy framework for private spaceflight in India, no real funding ecosystem for space startups, and we were taking on one of the world\u2019s hardest engineering challenges. The odds of success seemed incredibly small.<br />\n<br />\nToday, India\u2019s first privately developed orbital rocket stands on the launch pad, ready for lift-off.<br />\n<br />\nThis moment belongs to every member of our team, our investors, the Government of India,<a href=\"https://nitter.net/PMOIndia\" title=\"PMO India\">@PMOIndia</a>, <a href=\"https://nitter.net/isro\" title=\"ISRO\">@isro</a>, <a href=\"https://nitter.net/INSPACeIND\" title=\"IN-SPACe\">@INSPACeIND</a>, our partners, suppliers, customers, and everyone who believed in us long before this day.<br />\n<br />\nWe have done everything we possibly could.<br />\n<br />\nNow we let physics do its job.<br />\n<br />\nWhatever tomorrow brings, every second of flight will teach us something invaluable. Reaching the launch pad and attempting an orbital launch is a landmark milestone for India\u2014and an achievement only a handful of companies worldwide have reached. Every milestone we cross will advance not just Skyroot or India\u2019s space journey, but the global commercial space ecosystem.<br />\n<br />\nTomorrow, we take the next step. \ud83c\uddee\ud83c\uddf3\ud83d\ude80</p>\n<img src=\"https://nitter.net/pic/media%2FHNaHS4rb0AEFcB2.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/PawanKChandana/status/2077997043054981341#m\">https://nitter.net/PawanKChandana/status/2077997043054981341#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Israel Says It Will Retain Troops in Security Zones Across Gaza, Lebanon & Syria Israeli Defence Minister Israel Katz told U.S. Defense Secretary Pete Hegseth that Israel is determined to maintain military forces in its security zones inside Gaza, southern Lebanon, and Syria, saying the deployments are essential to protect Israel's borders from security threats. The statement comes days after reports that U.S. President Donald Trump urged Israeli Prime Minister Benjamin Netanyahu to withdraw Israeli forces from Syria and Lebanon.",
       "link": "https://nitter.net/NetramDefence/status/2078325139255738815#m",
       "source": "Netram Defense",
@@ -1176,16 +1217,6 @@
       "type": "tweets",
       "content": "<p>India represented by Amb Vinay Mohan Kwatra at US hosted ministerial on political terrorism and left-wing extremism</p>\n<img src=\"https://nitter.net/pic/media%2FHNeSTO7akAAzRr3.jpg\" />",
       "author": "@sidhant"
-    },
-    {
-      "title": "IAF should call AMCA Arjan",
-      "link": "https://nitter.net/alpha_defense/status/2078159410971677022#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-17T22:16:28+05:30",
-      "time": "17 Jul, 10:16 PM",
-      "type": "tweets",
-      "content": "<p>IAF should call AMCA Arjan</p>\n<img src=\"https://nitter.net/pic/media%2FHNca-B3aYAAYKHV.jpg\" />",
-      "author": "@alpha_defense"
     },
     {
       "title": "RT by @OsintTV: Jammu & Kashmir Cyber Crime Coordination Centre (JK4C) has been established under the overall superintendence and control of the DGP, J&K, marking a significant step towards strengthening the fight against cyber crime across the Union Territory. The dedicated coordination centre will enhance cyber threat detection, improve inter-agency coordination, strengthen cyber investigations, and bolster the overall cyber security framework. A welcome and much-needed initiative in an era where cyber threats are evolving rapidly. This move is expected to significantly improve the prevention, investigation, and prosecution of cyber crimes in Jammu & Kashmir. @JmuKmrPolice",
@@ -1375,16 +1406,6 @@
       "time": "17 Jul, 05:45 PM",
       "type": "tweets",
       "content": "<p>14 Indians have died in West Asia since the outreak of conflict, 2 Indians remain missing , MEA Spox says</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "7 India flagged vessels in Persian gulf, says MEA Spox",
-      "link": "https://nitter.net/sidhant/status/2078091219914437017#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-17T17:45:30+05:30",
-      "time": "17 Jul, 05:45 PM",
-      "type": "tweets",
-      "content": "<p>7 India flagged vessels in Persian gulf, says MEA Spox</p>\n<a href=\"https://nitter.net/sidhant/status/2078091219914437017#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078091151819907072%2Fimg%2FIfb-KnQPnUVfC5FZ.jpg\" />\n</a>",
       "author": "@sidhant"
     },
     {
@@ -1628,7 +1649,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @OsintTV: \u092e\u0939\u093e\u091c\u0928 \u092b\u0940\u0932\u094d\u0921 \u092b\u093e\u092f\u0930\u093f\u0902\u0917 \u0930\u0947\u0902\u091c, \u0938\u093e\u0926\u094b\u0932\u093e\u0908 \u0921\u0947\u091c\u0930\u094d\u091f \u092c\u0948\u091f\u0932 \u0938\u094d\u0915\u0942\u0932 \u0914\u0930 \u092c\u0940\u0915\u093e\u0928\u0947\u0930 \u0915\u0940 24 \u0930\u0948\u092a\u093f\u0921 \u0930\u0923\u092c\u093e\u0902\u0915\u0941\u0930\u093e \u0921\u093f\u0935\u0940\u091c\u0928 \u092a\u0939\u0941\u0902\u091a\u0947 \u0938\u092a\u094d\u0924 \u0936\u0915\u094d\u0924\u093f \u0915\u092e\u093e\u0928 \u0915\u0947 \u091c\u0940\u0913\u0938\u0940-\u0907\u0928-\u0938\u0940 \u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f \u091c\u0928\u0930\u0932 \u092e\u094b\u0939\u093f\u0924 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e, \u0938\u0902\u091a\u093e\u0932\u0928\u093e\u0924\u094d\u092e\u0915 \u0924\u0948\u092f\u093e\u0930\u093f\u092f\u094b\u0902, \u092e\u093f\u0936\u0928 \u0906\u0927\u093e\u0930\u093f\u0924 \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923 \u0914\u0930 \u092d\u0935\u093f\u0937\u094d\u092f \u0915\u0940 \u092f\u0941\u0926\u094d\u0927 \u0915\u094d\u0937\u092e\u0924\u093e \u0915\u093e \u0915\u093f\u092f\u093e \u0935\u094d\u092f\u093e\u092a\u0915 \u0938\u092e\u0940\u0915\u094d\u0937\u093e \u0928\u093f\u0930\u0940\u0915\u094d\u0937\u0923 Empowering Excellence Through Training! Lt Gen Mohit Malhotra, AVSM, SM, GOC-in-C, Sapta Shakti Command, visited Mahajan Field Firing Range, Sadolai Desert Battle School, and the 24 Rapid Ranbankura Division in Bikaner to review operational preparedness and ongoing training activities. During his interaction with officers, instructors, and trainees, he commended their professionalism, high morale, and dedication to excellence. He reaffirmed that mission-oriented training, unwavering discipline, and continuous learning are the foundation of a future-ready Indian Army capable of meeting evolving security challenges with confidence and precision. @SWComd_IA @ChetakCorps_IA >@PRODefRjsthn @adgpi #IndianArmy #SaptaShaktiCommand #LtGenMohitMalhotra #MahajanFieldFiringRange #DesertBattleSchool #Bikaner #24RapidDivision #Ranbankura #OperationalReadiness #MilitaryTraining #FutureReadyForce #CombatReadiness #DefenceNews #NationalSecurity #TINNetwork",
+      "title": "RT by @OsintTV: \u092e\u0939\u093e\u091c\u0928 \u092b\u0940\u0932\u094d\u0921 \u092b\u093e\u092f\u0930\u093f\u0902\u0917 \u0930\u0947\u0902\u091c, \u0938\u093e\u0926\u094b\u0932\u093e\u0908 \u0921\u0947\u091c\u0930\u094d\u091f \u092c\u0948\u091f\u0932 \u0938\u094d\u0915\u0942\u0932 \u0914\u0930 \u092c\u0940\u0915\u093e\u0928\u0947\u0930 \u0915\u0940 24 \u0930\u0948\u092a\u093f\u0921 \u0930\u0923\u092c\u093e\u0902\u0915\u0941\u0930\u093e \u0921\u093f\u0935\u0940\u091c\u0928 \u092a\u0939\u0941\u0902\u091a\u0947 \u0938\u092a\u094d\u0924 \u0936\u0915\u094d\u0924\u093f \u0915\u092e\u093e\u0928 \u0915\u0947 \u091c\u0940\u0913\u0938\u0940-\u0907\u0928-\u0938\u0940 \u0932\u0947\u092b\u094d\u091f\u093f\u0928\u0947\u0902\u091f \u091c\u0928\u0930\u0932 \u092e\u094b\u0939\u093f\u0924 \u092e\u0932\u094d\u0939\u094b\u0924\u094d\u0930\u093e, \u0938\u0902\u091a\u093e\u0932\u0928\u093e\u0924\u094d\u092e\u0915 \u0924\u0948\u092f\u093e\u0930\u093f\u092f\u094b\u0902, \u092e\u093f\u0936\u0928 \u0906\u0927\u093e\u0930\u093f\u0924 \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923 \u0914\u0930 \u092d\u0935\u093f\u0937\u094d\u092f \u0915\u0940 \u092f\u0941\u0926\u094d\u0927 \u0915\u094d\u0937\u092e\u0924\u093e \u0915\u093e \u0915\u093f\u092f\u093e \u0935\u094d\u092f\u093e\u092a\u0915 \u0938\u092e\u0940\u0915\u094d\u0937\u093e \u0928\u093f\u0930\u0940\u0915\u094d\u0937\u0923 Empowering Excellence Through Training! Lt Gen Mohit Malhotra, AVSM, SM, GOC-in-C, Sapta Shakti Command, visited Mahajan Field Firing Range, Sadolai Desert Battle School, and the 24 Rapid Ranbankura Division in Bikaner to review operational preparedness and ongoing training activities. During his interaction with officers, instructors, and trainees, he commended their professionalism, high morale, and dedication to excellence. He reaffirmed that mission-oriented training, unwavering discipline, and continuous learning are the foundation of a future-ready Indian Army capable of meeting evolving security challenges with confidence and precision. @SWComd_IA @ChetakCorps_IA @PRODefRjsthn @adgpi #IndianArmy #SaptaShaktiCommand #LtGenMohitMalhotra #MahajanFieldFiringRange #DesertBattleSchool #Bikaner #24RapidDivision #Ranbankura #OperationalReadiness #MilitaryTraining #FutureReadyForce #CombatReadiness #DefenceNews #NationalSecurity #TINNetwork",
       "link": "https://nitter.net/DefenceSahil/status/2077765210102968776#m",
       "source": "Osint TV",
       "sort_key": "2026-07-16T20:10:03+05:30",
@@ -1666,26 +1687,6 @@
       "type": "tweets",
       "content": "<p>Dear <a href=\"https://nitter.net/X\" title=\"X\">@X</a> <a href=\"https://nitter.net/premium\" title=\"Premium\">@premium</a> <a href=\"https://nitter.net/Support\" title=\"Support\">@Support</a> <a href=\"https://nitter.net/Nate_Esparza\" title=\"Nate Esparza\">@Nate_Esparza</a> <a href=\"https://nitter.net/mike_rosinsky\" title=\"Mike Rosinsky\">@mike_rosinsky</a> <a href=\"https://nitter.net/nikitabier\" title=\"Nikita Bier\">@nikitabier</a> <a href=\"https://nitter.net/elonmusk\" title=\"Elon Musk\">@elonmusk</a> <a href=\"https://nitter.net/Engineering\" title=\"Engineering\">@Engineering</a> <br />\nMy timeline posts are receiving fake impressions. Previously, these fake views did not count toward my analytics, but starting today, fake views appear immediately after I publish a post and are now being counted in my analytics as well.<br />\nPlease investigate this issue and fix it as soon as possible.</p>\n<img src=\"https://nitter.net/pic/media%2FHNWYl-qbkAAhZC4.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNWYmgEawAEXXnB.jpg\" />",
       "author": "@T_h_E_Unk_5O5O5"
-    },
-    {
-      "title": "BREAKING: ISRO Moves to Stop Scientist Exodus from Key Missions The Department of Space has directed ISRO centres not to routinely accept resignations or voluntary retirement requests from Group 'A' scientific and technical personnel working on Gaganyaan and other critical national missions. The move follows a reported rise in resignations, with around 100 ISRO personnel having left the organisation across various centres. The memo states that all such requests for personnel associated with strategic projects will now require Department of Space approval. The government has maintained that recruitment is underway and critical missions, including Gaganyaan, will not be allowed to suffer due to manpower shortages.",
-      "link": "https://nitter.net/NetramDefence/status/2077729779932078326#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-16T17:49:16+05:30",
-      "time": "16 Jul, 05:49 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: ISRO Moves to Stop Scientist Exodus from Key Missions<br />\n<br />\nThe Department of Space has directed ISRO centres not to routinely accept resignations or voluntary retirement requests from Group 'A' scientific and technical personnel working on Gaganyaan and other critical national missions.<br />\n<br />\nThe move follows a reported rise in resignations, with around 100 ISRO personnel having left the organisation across various centres.<br />\n<br />\nThe memo states that all such requests for personnel associated with strategic projects will now require Department of Space approval.<br />\n<br />\nThe government has maintained that recruitment is underway and critical missions, including Gaganyaan, will not be allowed to suffer due to manpower shortages.</p>\n<img src=\"https://nitter.net/pic/media%2FHNWUN3DbwAAb17G.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "\ud83c\uddf5\ud83c\uddf0\u26a1 Local sources report that Pakistani Air Force (PAF) fighter jets conducted bombardment in Bakakhel, Bannu District, Khyber Pakhtunkhwa. PAF has bombed Madarop Government College, in Narmikhel area of Bakakhel, Bannu.",
-      "link": "https://nitter.net/Goreunit/status/2077720911642505435#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-16T17:14:02+05:30",
-      "time": "16 Jul, 05:14 PM",
-      "type": "tweets",
-      "content": "<p>\ud83c\uddf5\ud83c\uddf0\u26a1 Local sources report that Pakistani Air Force (PAF) fighter jets conducted bombardment in Bakakhel, Bannu District, Khyber Pakhtunkhwa.<br />\nPAF has bombed Madarop Government College, in Narmikhel area of Bakakhel, Bannu.</p>\n<img src=\"https://nitter.net/pic/media%2FHNWMGzeasAAjlRo.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNWMHM4awAApC1p.jpg\" />\n\n<a href=\"https://nitter.net/Goreunit/status/2077720911642505435#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2077720865811386368%2Fimg%2FHHkBUd8ene30kmDM.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2077720911642505435#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2077720890159312896%2Fimg%2FosMOTiedAyZtHHl3.jpg\" />\n</a>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1763,6 +1764,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
