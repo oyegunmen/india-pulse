@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "After Saudi Arabia, Kuwait explores defence pact with Pakistan",
+      "link": "https://economictimes.indiatimes.com/news/defence/after-saudi-arabia-kuwait-explores-defence-pact-with-pakistan/articleshow/132499515.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-19T23:41:19+05:30",
+      "time": "19 Jul, 11:41 PM",
+      "type": "news",
+      "description": "Kuwait is in talks with Pakistan to sign acomprehensive defence pactamid escalating regional tensions following Iran's renewed attacks on Gulf infrast..."
+    },
+    {
+      "title": "Amit Shah reviews Bengal law and order, border security with CM Suvendu Adhikari",
+      "link": "https://www.newindianexpress.com/states/west-bengal/2026/Jul/19/amit-shah-reviews-bengal-law-and-order-border-security-with-cm-suvendu-adhikari",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-19T22:18:36+05:30",
+      "time": "19 Jul, 10:18 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Russia or China behind Iran\u2019s deadly strike on key US base? Report raises questions",
       "link": "https://indianexpress.com/article/world/iran-missile-strike-jordan-us-troops-killed-china-russia-targeting-help-10794001/",
       "source": "The Indian Express",
@@ -98,15 +116,6 @@
       "time": "19 Jul, 08:12 PM",
       "type": "news",
       "description": "In Guyana, a ferry carrying 116 passengers and crew capsized near the Pomeroon River. Authorities said 67 people, including 15 children, had been resc..."
-    },
-    {
-      "title": "Pakistan terror groups using fake vocational courses to recruit women: Intel",
-      "link": "https://www.newindianexpress.com/india/2026/Jul/19/pakistan-terror-groups-using-fake-vocational-courses-to-recruit-women-intel",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-19T19:27:21+05:30",
-      "time": "19 Jul, 07:27 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Abu Dhabi to expand direct flights to 22 Indian cities",
@@ -623,6 +632,26 @@
     }
   ],
   "tweets": [
+    {
+      "title": "#Whatif | @SkyrootA had participated in the bidding for DRDO's LFRJ Engine program for supersonic cruise missiles? P.S. Skyroot was in the list of potential Development cum Production Partner (DcPP) for the project by DRDO.",
+      "link": "https://nitter.net/alpha_defense/status/2078909179197296660#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-19T23:55:47+05:30",
+      "time": "19 Jul, 11:55 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Whatif\">#Whatif</a> | <a href=\"https://nitter.net/SkyrootA\" title=\"Skyroot Aerospace\">@SkyrootA</a> had participated in the bidding for DRDO's LFRJ Engine program for supersonic cruise missiles?<br />\n<br />\nP.S. Skyroot was in the list of potential Development cum Production Partner (DcPP) for the project by DRDO.</p>\n<img src=\"https://nitter.net/pic/media%2FHNnE4RCawAAvd_w.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "At least one Netra Mk1 AEW&CS now features GaN-based transmit/receive modules, with the other two expected to be upgraded soon. The same technology is also making its way into the Tejas Mk1A. This is exactly what I mean when I say: build your own systems, retain control over them, and keep improving them on your own terms.",
+      "link": "https://nitter.net/alpha_defense/status/2078908756558332086#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-19T23:54:06+05:30",
+      "time": "19 Jul, 11:54 PM",
+      "type": "tweets",
+      "content": "<p>At least one Netra Mk1 AEW&amp;CS now features GaN-based transmit/receive modules, with the other two expected to be upgraded soon. The same technology is also making its way into the Tejas Mk1A.<br />\n<br />\nThis is exactly what I mean when I say: build your own systems, retain control over them, and keep improving them on your own terms.</p>\n<img src=\"https://nitter.net/pic/media%2FHNnEfaFaUAA-kRo.jpg\" />",
+      "author": "@alpha_defense"
+    },
     {
       "title": "LA 5052 : That\u2019s 20th serial produced LCA MK1A (1 full squadron) Remember: radar modes once fixed (it will be for all the aircrafts). From the production point of view it\u2019s just engine.",
       "link": "https://nitter.net/alpha_defense/status/2078898344936833170#m",
@@ -1154,16 +1183,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "The accuracy of ULPGM-V3 \ud83d\udd25",
-      "link": "https://nitter.net/alpha_defense/status/2078498790487781500#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-18T20:45:02+05:30",
-      "time": "18 Jul, 08:45 PM",
-      "type": "tweets",
-      "content": "<p>The accuracy of ULPGM-V3 \ud83d\udd25</p>\n<img src=\"https://nitter.net/pic/media%2FHNhPodPbMAAK7xC.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "\ud83d\udea8Shri Amarnath Yatra suspended for tomorrow due to adverse weather forecast",
       "link": "https://nitter.net/AngryRumi7/status/2078498044027552152#m",
       "source": "Angry Rumi",
@@ -1172,16 +1191,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8Shri Amarnath Yatra suspended for tomorrow due to adverse weather forecast</p>",
       "author": "@AngryRumi7"
-    },
-    {
-      "title": "R to @sidhant: \"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"",
-      "link": "https://nitter.net/sidhant/status/2078490511078457706#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-18T20:12:08+05:30",
-      "time": "18 Jul, 08:12 PM",
-      "type": "tweets",
-      "content": "<p>\"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"</p>",
-      "author": "@sidhant"
     },
     {
       "title": "Iran embassy in Delhi \"The deliberate targeting of civilian and economic infrastructure, including the Chabahar Port, constitutes a clear war crime and a flagrant violation of international law and the Charter of the United Nations\"",
@@ -1194,14 +1203,14 @@
       "author": "@sidhant"
     },
     {
-      "title": "\u2665\ufe0f",
-      "link": "https://nitter.net/alpha_defense/status/2078490395743580281#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-18T20:11:41+05:30",
-      "time": "18 Jul, 08:11 PM",
+      "title": "R to @sidhant: \"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"",
+      "link": "https://nitter.net/sidhant/status/2078490511078457706#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-18T20:12:08+05:30",
+      "time": "18 Jul, 08:12 PM",
       "type": "tweets",
-      "content": "<p>\u2665\ufe0f</p>\n<hr />\n<blockquote>\n<b>ISRO Spaceflight (@ISROSpaceflight)</b>\n<p>\n<p>Indian astronaut Gp Capt Shubhanshu Shukla (<a href=\"https://nitter.net/gagan_shux\" title=\"Shubhanshu Shukla\">@gagan_shux</a>) was seen praying for the success of Skyroot Vikram-1 inside ISRO's Mission Control Centre today \u2764\ufe0f<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23Skyroot\">#Skyroot</a> | <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Vikram1\">#Vikram1</a></p>\n<img src=\"https://nitter.net/pic/media%2FHNgkTjqbUAAxe5p.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ISROSpaceflight/status/2078451153021641099#m\">https://nitter.net/ISROSpaceflight/status/2078451153021641099#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
+      "content": "<p>\"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"</p>",
+      "author": "@sidhant"
     },
     {
       "title": "Operation Sha'ban Lights... Roll Camera... \ud83c\udfac Action ... Cut....",
@@ -1511,6 +1520,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "11:24 PM IST"
+    "last_updated": "12:24 AM IST"
   }
 }
