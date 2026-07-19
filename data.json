@@ -1,11 +1,38 @@
 {
   "news": [
     {
+      "title": "Agency for dams' security to draw on defence forces",
+      "link": "https://www.newindianexpress.com/thesundaystandard/2026/Jul/19/agency-for-dams-security-to-draw-on-defence-forces",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-19T08:09:40+05:30",
+      "time": "19 Jul, 08:09 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US military launches new airstrikes against Iran",
+      "link": "https://newsonair.gov.in/us-military-launches-new-airstrikes-against-iran/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-19T07:51:13+05:30",
+      "time": "19 Jul, 07:51 AM",
+      "type": "news",
+      "description": "The US military has launched new airstrikes against Iran to punish the Iranian Revolutionary Guard for an attack in Jordan that killed two American se..."
+    },
+    {
       "title": "US military launches new airstrikes to 'swiftly punish' Iran for deaths of two US troops",
       "link": "https://www.newindianexpress.com/world/2026/Jul/19/us-military-launches-new-airstrikes-to-swiftly-punish-iran-for-deaths-of-two-us-troops",
       "source": "New Indian Express",
       "sort_key": "2026-07-19T06:59:35+05:30",
       "time": "19 Jul, 06:59 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US-Iran War News Live Updates: US military launches new airstrikes to \u2018swiftly punish\u2019 Iran for deaths of US troops",
+      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-airstrikes-american-troops-killed-jordan-trump-mojtaba-10793035/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-19T05:00:20+05:30",
+      "time": "19 Jul, 05:00 AM",
       "type": "news",
       "description": ""
     },
@@ -377,15 +404,6 @@
       "time": "18 Jul, 09:58 AM",
       "type": "news",
       "description": "SCO border officials met in Islamabad to exchange information on international border situations. They discussed and approved outcomes from the \"Solid..."
-    },
-    {
-      "title": "UN Human Rights Agency voices concern over wave of unrest in PoJK; Calls for probe into deaths of protesters",
-      "link": "https://newsonair.gov.in/un-human-rights-agency-voices-concern-over-wave-of-unrest-in-pojk-calls-for-probe-into-deaths-of-protesters/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-18T08:59:50+05:30",
-      "time": "18 Jul, 08:59 AM",
-      "type": "news",
-      "description": "The United Nations Human Rights agency has voiced concern over the wave of unrest in Pakistan-occupied Jammu and Kashmir (PoJK), calling for investiga..."
     },
     {
       "title": "Army opens fire after observing suspicious movement along LoC in J-K's Rajouri",
@@ -876,16 +894,6 @@
       "author": "@AngryRumi7"
     },
     {
-      "title": "R to @sidhant: \"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"",
-      "link": "https://nitter.net/sidhant/status/2078490511078457706#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-18T20:12:08+05:30",
-      "time": "18 Jul, 08:12 PM",
-      "type": "tweets",
-      "content": "<p>\"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Iran embassy in Delhi \"The deliberate targeting of civilian and economic infrastructure, including the Chabahar Port, constitutes a clear war crime and a flagrant violation of international law and the Charter of the United Nations\"",
       "link": "https://nitter.net/sidhant/status/2078490508209631251#m",
       "source": "Sidhant Sibal",
@@ -893,6 +901,16 @@
       "time": "18 Jul, 08:12 PM",
       "type": "tweets",
       "content": "<p>Iran embassy in Delhi<br />\n<br />\n\"The deliberate targeting of civilian and economic infrastructure, including the Chabahar Port, constitutes a clear war crime and a flagrant violation of international law and the Charter of the United Nations\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: \"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"",
+      "link": "https://nitter.net/sidhant/status/2078490511078457706#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-18T20:12:08+05:30",
+      "time": "18 Jul, 08:12 PM",
+      "type": "tweets",
+      "content": "<p>\"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"</p>",
       "author": "@sidhant"
     },
     {
@@ -1683,6 +1701,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
