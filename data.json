@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Russia or China behind Iran\u2019s deadly strike on key US base? Report raises questions",
+      "link": "https://indianexpress.com/article/world/iran-missile-strike-jordan-us-troops-killed-china-russia-targeting-help-10794001/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-19T21:45:00+05:30",
+      "time": "19 Jul, 09:45 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "'Security hole' behind bombing of Supreme Leader's residence still exists: Iran FM Araghchi",
+      "link": "https://economictimes.indiatimes.com/news/defence/security-hole-behind-bombing-of-supreme-leaders-residence-still-exists-iran-fm-araghchi/articleshow/132497294.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-19T21:36:24+05:30",
+      "time": "19 Jul, 09:36 PM",
+      "type": "news",
+      "description": "Iranian Foreign Minister Seyyed Abbas Araghchi has claimed that the bombing of the former Supreme Leader Ayatollah Ali Khamenei's residence was carrie..."
+    },
+    {
+      "title": "Peru earthquake kills 5, injures over 20 in Andes region",
+      "link": "https://newsonair.gov.in/peru-earthquake-kills-5-injures-over-20-in-andes-region/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-19T21:28:37+05:30",
+      "time": "19 Jul, 09:28 PM",
+      "type": "news",
+      "description": "In Peru, five people were killed and more than 20 others injured after an earthquake of 5.5 magnitude struck the Andes region. Local authorities said ..."
+    },
+    {
+      "title": "US President Trump supports Iran addition to Russia sanctions bill",
+      "link": "https://newsonair.gov.in/us-president-trump-supports-iran-addition-to-russia-sanctions-bill/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-19T21:27:04+05:30",
+      "time": "19 Jul, 09:27 PM",
+      "type": "news",
+      "description": "US President Donald Trump today supported adding Iran to a proposed Russia sanctions bill, urging Republicans to include Tehran in the legislation. \u00a0 ..."
+    },
+    {
       "title": "Amit Shah announces NIA-style special investigation unit for West Bengal",
       "link": "https://www.tribuneindia.com/news/india/amit-shah-announces-nia-style-special-investigation-unit-for-west-bengal",
       "source": "The Tribune",
@@ -8,6 +44,24 @@
       "time": "19 Jul, 09:19 PM",
       "type": "news",
       "description": "Home Minister Amit Shah on Sunday emphasised on taking necessary steps to establish an anti-narcotics task force (ANTF), anti-terror squad (ATS) and a..."
+    },
+    {
+      "title": "US attacked under-construction Darkhovin nuclear power plant, says Iran's Atomic Energy Organisation",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-attacked-under-construction-darkhovin-nuclear-power-plant-says-irans-atomic-energy-organisation/articleshow/132497134.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-19T21:15:38+05:30",
+      "time": "19 Jul, 09:15 PM",
+      "type": "news",
+      "description": "\"The terrorist and criminal regime of the US, which has no nature other than bullying and lawlessness, in an aggressive and brutal act contrary to int..."
+    },
+    {
+      "title": "Russian attacks kill 6 in Kyiv, other cities; expose gaps in Ukraine's air defences",
+      "link": "https://economictimes.indiatimes.com/news/defence/russian-attacks-kill-6-in-kyiv-other-cities-expose-gaps-in-ukraines-air-defences/articleshow/132497104.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-19T21:15:07+05:30",
+      "time": "19 Jul, 09:15 PM",
+      "type": "news",
+      "description": "Moscow has in recent weeks stepped up its use of ballistic missiles as it seeks to choke off Ukrainian strikes on oil facilities deep inside Russia th..."
     },
     {
       "title": "Russia launches missile and drone strikes on Kyiv; one killed, 16 injured",
@@ -352,24 +406,6 @@
       "description": "Indian Air Force Rafale jets are participating in Australia's Pitch Black exercise. This premier multinational air combat exercise involves nineteen n..."
     },
     {
-      "title": "Eight killed, 60 injured in overnight Ukrainian drone attacks on Russia",
-      "link": "https://newsonair.gov.in/eight-killed-60-injured-in-overnight-ukrainian-drone-attacks-on-russia/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-18T17:30:08+05:30",
-      "time": "18 Jul, 05:30 PM",
-      "type": "news",
-      "description": "Eight people were killed and more than 60 others injured in overnight Ukrainian drone attacks on Russia. Russian officials today said two sprawling wa..."
-    },
-    {
-      "title": "Iran\u2019s strikes force closure of Kuwait\u2019s airspace",
-      "link": "https://newsonair.gov.in/irans-strikes-force-closure-of-kuwaits-airspace/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-18T17:29:08+05:30",
-      "time": "18 Jul, 05:29 PM",
-      "type": "news",
-      "description": "Iran launched a barrage of missile and drone attacks on Kuwait today as its conflict with the United States intensified. The strikes forced the closur..."
-    },
-    {
       "title": "Andy Burnham faces key call on whether to let Donald Trump use UK military bases",
       "link": "https://economictimes.indiatimes.com/news/defence/andy-burnham-faces-key-call-on-whether-to-let-donald-trump-use-uk-military-bases-united-states-iran-war-strikes/articleshow/132479247.cms",
       "source": "Economic Times",
@@ -593,18 +629,29 @@
       "time": "17 Jul, 10:38 PM",
       "type": "news",
       "description": "MEA says Pakistan has no locus standi, cites decades-long support for cross-border terrorism."
-    },
-    {
-      "title": "Another MH-60R Seahawk helicopter delivered to Indian Navy: US Embassy",
-      "link": "https://economictimes.indiatimes.com/news/defence/another-mh-60r-seahawk-helicopter-delivered-to-indian-navy-us-embassy/articleshow/132465292.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-17T21:49:05+05:30",
-      "time": "17 Jul, 09:49 PM",
-      "type": "news",
-      "description": "Another MH-60R Seahawk naval helicopter has been delivered to the Indian Navy. Two more of these advanced helicopters are scheduled to arrive this wee..."
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @OsintTV: To be honest, not 2 mins. We needed time till EOD May 11th, with all services go, to put Pakistani Military at the brink of collapse. So, here, she is exaggerating \ud83d\udcaf",
+      "link": "https://nitter.net/hellfire_81/status/2078870193900749178#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-19T21:20:52+05:30",
+      "time": "19 Jul, 09:20 PM",
+      "type": "tweets",
+      "content": "<p>To be honest, not 2 mins. We needed time till EOD May 11th, with all services go, to put Pakistani Military at the brink of collapse.<br />\n<br />\nSo, here, she is exaggerating \ud83d\udcaf</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\"If Modi wanted, he would have fixed Pakistan in 2 minutes during the May 2025 conflict,\"  Imran Khan's sister, Noreen Khan Niazi.<br />\n<br />\nFollowing this interview Pak NCCIA summoned her, accusing her of spreading anti state content, defaming state institutions, and promoting what it called \"fake narratives.\"<br />\n<br />\nSach bahut kadwa lagta hai. \ud83d\ude01</p>\n<a href=\"https://nitter.net/OsintTV/status/2078814984096596208#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078814513323716608%2Fimg%2Fay4FoG1uvcIehdUJ.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2078814984096596208#m\">https://nitter.net/OsintTV/status/2078814984096596208#m</a>\n</footer>\n</blockquote>",
+      "author": "@hellfire_81"
+    },
+    {
+      "title": "RT by @OsintTV: \u201cChor Chor, Faisal Chor!\u201d ~~As the convoy of @PMofAJK passed through the Haveli region of PoJK, residents greeted it with chants of \u2018Chor Chor, Faisal Chor!\u2019 A memorable welcome, to say the least, for the pro-Pakistani illegally appointed Prime Minister, Faisal Mumtaz Rathore.",
+      "link": "https://nitter.net/shivank_8mishra/status/2078859102508528005#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-19T20:36:48+05:30",
+      "time": "19 Jul, 08:36 PM",
+      "type": "tweets",
+      "content": "<p>\u201cChor Chor, Faisal Chor!\u201d<br />\n<br />\n~~As the convoy of <a href=\"https://nitter.net/PMofAJK\" title=\"Faisal Mumtaz Rathore\">@PMofAJK</a> passed through the Haveli region of PoJK, residents greeted it with chants of \u2018Chor Chor, Faisal Chor!\u2019<br />\n<br />\nA memorable welcome, to say the least, for the pro-Pakistani illegally appointed  Prime Minister, Faisal Mumtaz Rathore.</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2078859102508528005#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078859018844704768%2Fimg%2F2ZVDU2oIuM9BgF2k.jpg\" />\n</a>",
+      "author": "@shivank_8mishra"
+    },
     {
       "title": "The Indian Armed Forces forces are leaving no stone unturned to secure the citizens. Officials said all nomadic families in the sub-division have been mapped and asked to avoid camping near nallahs, water channels and landslide-prone locations for the next one week. They have been urged to remain vigilant, follow safety guidelines and contact the administration immediately in case of any emergency.",
       "link": "https://nitter.net/elitepredatorss/status/2078854517693747578#m",
@@ -1166,6 +1213,16 @@
       "author": "@alpha_defense"
     },
     {
+      "title": "Today is an auspicious day for India\u2019s science and technology community. Beyond a celebratory cup of tea with sugar, we\u2019re marking the occasion with two launches: 1. DefTwitter OG returns as DefTwitter Next Gen. 2. Alpha Defence E-Magazine is back.",
+      "link": "https://nitter.net/alpha_defense/status/2078485464705905020#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-18T19:52:05+05:30",
+      "time": "18 Jul, 07:52 PM",
+      "type": "tweets",
+      "content": "<p>Today is an auspicious day for India\u2019s science and technology community. Beyond a celebratory cup of tea with sugar, we\u2019re marking the occasion with two launches:<br />\n<br />\n1. DefTwitter OG returns as DefTwitter Next Gen.<br />\n2. Alpha Defence E-Magazine is back.</p>\n<img src=\"https://nitter.net/pic/media%2FHNhDgudbQAAACP-.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "RT by @NetramDefence: Manipur CM Yumnam Khemchand Singh said the government's top priority is restoring peace & rebuilding trust after nearly three years of ethnic unrest. He said that \"vested interests\" are attempting to derail peace efforts & asserted that such attempts will fail.",
       "link": "https://nitter.net/KangleipakDaily/status/2078461179895365857#m",
       "source": "Netram Defense",
@@ -1414,19 +1471,27 @@
       "type": "tweets",
       "content": "<p>Good morning \ud83d\udc80</p>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @OsintTV: Jammu & Kashmir Cyber Crime Coordination Centre (JK4C) has been established under the overall superintendence and control of the DGP, J&K, marking a significant step towards strengthening the fight against cyber crime across the Union Territory. The dedicated coordination centre will enhance cyber threat detection, improve inter-agency coordination, strengthen cyber investigations, and bolster the overall cyber security framework. A welcome and much-needed initiative in an era where cyber threats are evolving rapidly. This move is expected to significantly improve the prevention, investigation, and prosecution of cyber crimes in Jammu & Kashmir. @JmuKmrPolice",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2078159066095030337#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-17T22:15:06+05:30",
-      "time": "17 Jul, 10:15 PM",
-      "type": "tweets",
-      "content": "<p>Jammu & Kashmir Cyber Crime Coordination Centre (JK4C) has been established under the overall superintendence and control of the DGP, J&amp;K, marking a significant step towards strengthening the fight against cyber crime across the Union Territory.<br />\n<br />\nThe dedicated coordination centre will enhance cyber threat detection, improve inter-agency coordination, strengthen cyber investigations, and bolster the overall cyber security framework.<br />\n<br />\nA welcome and much-needed initiative in an era where cyber threats are evolving rapidly. This move is expected to significantly improve the prevention, investigation, and prosecution of cyber crimes in Jammu & Kashmir.<br />\n<br />\n<a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a></p>\n<img src=\"https://nitter.net/pic/media%2FHNcapq4a8AUdBu2.jpg\" />",
-      "author": "@MikeLimaBravo12"
     }
   ],
   "youtube": [
+    {
+      "title": "Defence Updates - US Air Base Strike, China New Drone Carrier, BSF 1st Sundarban Fencing",
+      "link": "https://www.youtube.com/watch?v=fga301LCdJo",
+      "source": "Defense Squad",
+      "sort_key": "2026-07-19T22:07:31+05:30",
+      "time": "19 Jul, 10:07 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/fga301LCdJo/mqdefault.jpg"
+    },
+    {
+      "title": "No More Dogfights? Indian Air Force's Biggest Future Plan,Laser Weapon In INS Kolkatta,Ai-Drones",
+      "link": "https://www.youtube.com/watch?v=LHvu4h26qf0",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-19T22:00:06+05:30",
+      "time": "19 Jul, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/LHvu4h26qf0/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Tejas Mk1A Beast Mode,500 KW Laser Destroyers,J-35 Shock To Pakistan",
       "link": "https://www.youtube.com/watch?v=sZqs0UI07hk",
@@ -1471,18 +1536,9 @@
       "time": "17 Jul, 10:37 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/OuDzXjFbnO4/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - BLA Strike PAK Army, US Soldiers Testosterone Check, Rafale & F35 Exercise",
-      "link": "https://www.youtube.com/watch?v=WXX0-DrcL0Y",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-17T21:57:21+05:30",
-      "time": "17 Jul, 09:57 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/WXX0-DrcL0Y/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
