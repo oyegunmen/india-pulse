@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Andy Burnham Takes Charge as UK\u2019s New Prime Minister",
+      "link": "https://newsonair.gov.in/andy-burnham-takes-charge-as-uks-new-prime-minister/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-20T18:51:18+05:30",
+      "time": "20 Jul, 06:51 PM",
+      "type": "news",
+      "description": "Andy Burnham, newly elected leader of the Labour Party, has taken charge as the UK&#8217;s new Prime Minister. King Charles III invited the 56-year-ol..."
+    },
+    {
       "title": "Keir Starmer Delivers Final Address Before Resigning as UK Prime Minister",
       "link": "https://newsonair.gov.in/keir-starmer-announces-resignation-as-uk-prime-minister/",
       "source": "All India Radio",
@@ -82,15 +91,6 @@
       "description": "<p>Farnborough, July 20. GKN Aerospace has secured an agreement with Pratt &#38; Whitney, an RTX business, to include low-pressure compressor (LPC) va..."
     },
     {
-      "title": "Supreme Court asks Centre to set up panel for uniform post-retirement benefits for ex-judges",
-      "link": "https://www.tribuneindia.com/news/india/supreme-court-asks-centre-to-set-up-panel-for-uniform-post-retirement-benefits-for-ex-judges",
-      "source": "The Tribune",
-      "sort_key": "2026-07-20T15:18:56+05:30",
-      "time": "20 Jul, 03:18 PM",
-      "type": "news",
-      "description": "The Supreme Court on Monday asked the Centre to set up a panel for a uniform national policy regarding post-retirement benefits like services of drive..."
-    },
-    {
       "title": "Why Indian diaspora group is opposing US\u2019s 4-year student visa cap",
       "link": "https://indianexpress.com/article/world/indian-diaspora-group-urges-us-congress-uscis-halt-student-visa-cap-10794621/",
       "source": "The Indian Express",
@@ -118,7 +118,7 @@
       "description": "Senegal\u2019s President, Bassirou Faye, has been elected as the new Chairman of the Economic Community of West African States (ECOWAS), succeeding Sierra ..."
     },
     {
-      "title": "CJP protest LIVE: Protesters dispersed from Jantar Mantar; police warn against spreading rumours",
+      "title": "CJP Protest LIVE: 50+ cops injured, several police vehicles damaged; protesters dispersed from Jantar Mantar",
       "link": "https://www.indiatvnews.com/news/india/cjp-protest-live-updates-parliament-march-cockroach-janata-party-jantar-mantar-sonam-wangchuk-abhijeet-dipke-latest-updates-1048821",
       "source": "India TV",
       "sort_key": "2026-07-20T14:11:01+05:30",
@@ -161,6 +161,15 @@
       "time": "20 Jul, 08:32 AM",
       "type": "news",
       "description": "According to US Central Command, the most recent operations targeted Iranian air defence installations and coastal surveillance sites linked to previo..."
+    },
+    {
+      "title": "CJP march to Parliament LIVE Updates: Despite lathi-charge, stone-pelting, protesters hold ground in Delhi",
+      "link": "https://www.tribuneindia.com/liveblog/delhi/live-updates-thousands-gather-at-jantar-mantar-ahead-of-cjps-march-to-parliament",
+      "source": "The Tribune",
+      "sort_key": "2026-07-20T08:30:18+05:30",
+      "time": "20 Jul, 08:30 AM",
+      "type": "news",
+      "description": "New Delhi: Protesters at the CJP\u2019s \u2018Chalo Sansad\u2019 march on Monday were not ready to leave the ground and remained connected through phone conversation..."
     },
     {
       "title": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised",
@@ -287,15 +296,6 @@
       "time": "19 Jul, 06:46 PM",
       "type": "news",
       "description": "<p>New Delhi, July 19. The Indian Air Force (IAF) will take part in the multinational air combat exercise Pitch Black 2026, beginning on July 20 at th..."
-    },
-    {
-      "title": "US military launches airstrikes on Iran\u2019s paramilitary IRGC",
-      "link": "https://newsonair.gov.in/us-military-launches-airstrikes-on-irans-paramilitary-irgc/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-19T18:43:05+05:30",
-      "time": "19 Jul, 06:43 PM",
-      "type": "news",
-      "description": "The United States military launched airstrikes on Iran today, targeting the country&#8217;s paramilitary Islamic Revolutionary Guard Corps (IRGC) in w..."
     },
     {
       "title": "Iran hits US allies as Israel warns missiles headed for Jordan could land on its territory",
@@ -485,15 +485,6 @@
       "time": "18 Jul, 09:24 PM",
       "type": "news",
       "description": "He lauded its expertise in building strategically important naval platforms and commended the commitment and growing capabilities of its workforce"
-    },
-    {
-      "title": "Two suspects apprehended after Assam Rifles gunfight with insurgents in Arunachal",
-      "link": "https://economictimes.indiatimes.com/news/defence/two-suspects-apprehended-after-assam-rifles-gunfight-with-insurgents-in-arunachal/articleshow/132481469.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-18T19:13:43+05:30",
-      "time": "18 Jul, 07:13 PM",
-      "type": "news",
-      "description": "Two suspects were apprehended after an exchange of fire between Assam Rifles personnel and an unidentified insurgent group in Arunachal Pradesh's Nams..."
     }
   ],
   "tweets": [
@@ -1355,6 +1346,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
