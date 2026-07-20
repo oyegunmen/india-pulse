@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "67 people rescued after ferry sinks off Guyana coast",
+      "link": "https://newsonair.gov.in/67-people-rescued-after-ferry-sinks-off-guyana-coast/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-20T10:06:12+05:30",
+      "time": "20 Jul, 10:06 AM",
+      "type": "news",
+      "description": "Sixty-seven people have so far been rescued after a ferry carrying 116 passengers and 17 crew sunk off the coast of Guyana yesterday, local officials ..."
+    },
+    {
+      "title": "Rubio open to Russia, China meets on Philippines visit",
+      "link": "https://www.newindianexpress.com/world/2026/Jul/20/rubio-open-to-russia-china-meets-on-philippines-visit",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-20T10:04:16+05:30",
+      "time": "20 Jul, 10:04 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Have You Ever Negotiated Fearing Death: Iran FM on US Talks",
       "link": "https://www.deccanchronicle.com/world/have-you-ever-negotiated-fearing-death-iran-fm-recalls-asking-trump-envoy-during-us-talks-1972362",
       "source": "Deccan Chronicle",
@@ -19,7 +37,7 @@
       "description": "US Iran war news: United States forces conducted ninth consecutive strikes against Iran on Monday.  Three American military deaths were confirmed in t..."
     },
     {
-      "title": "India urges citizens to avoid travel to Iran, leave if there",
+      "title": "India advises citizens to avoid travel to Iran, leave if in the country",
       "link": "https://indianexpress.com/article/world/india-iran-travel-advisory-embassy-tehran-citizens-10794375/",
       "source": "The Indian Express",
       "sort_key": "2026-07-20T07:34:04+05:30",
@@ -397,15 +415,6 @@
       "description": "He lauded its expertise in building strategically important naval platforms and commended the commitment and growing capabilities of its workforce"
     },
     {
-      "title": "US-Iran fighting over Strait of Hormuz escalates with attacks on key infrastructure and military targets",
-      "link": "https://newsonair.gov.in/us-iran-fighting-over-strait-of-hormuz-escalates-with-attacks-on-key-infrastructure-and-military-targets/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-18T21:21:53+05:30",
-      "time": "18 Jul, 09:21 PM",
-      "type": "news",
-      "description": "Iran&#8217;s Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, today announced that Tehran has suspended its commitments..."
-    },
-    {
       "title": "Two suspects apprehended after Assam Rifles gunfight with insurgents in Arunachal",
       "link": "https://economictimes.indiatimes.com/news/defence/two-suspects-apprehended-after-assam-rifles-gunfight-with-insurgents-in-arunachal/articleshow/132481469.cms",
       "source": "Economic Times",
@@ -575,27 +584,49 @@
       "time": "18 Jul, 10:32 AM",
       "type": "news",
       "description": "The Republic Forces First Conclave will occur on July 18 in New Delhi, uniting top defence policymakers, military experts, and innovators. The event w..."
-    },
-    {
-      "title": "Dubai job crisis: How the Iran war is hitting Indian and migrant workers",
-      "link": "https://indianexpress.com/article/world/dubai-job-crisis-indian-migrant-workers-iran-war-10791981/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-18T10:15:39+05:30",
-      "time": "18 Jul, 10:15 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "SCO members, including India, exchange info on situation along their borders",
-      "link": "https://economictimes.indiatimes.com/news/defence/sco-members-including-india-exchange-info-on-situation-along-their-borders/articleshow/132473674.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-18T09:58:57+05:30",
-      "time": "18 Jul, 09:58 AM",
-      "type": "news",
-      "description": "SCO border officials met in Islamabad to exchange information on international border situations. They discussed and approved outcomes from the \"Solid..."
     }
   ],
   "tweets": [
+    {
+      "title": "Indian PM makes an address ahead of the start of the monsoon session of the Indian Parliament. Says, Monsoon & Monsoon session should remain proactive.",
+      "link": "https://nitter.net/sidhant/status/2079066907517632946#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-20T10:22:32+05:30",
+      "time": "20 Jul, 10:22 AM",
+      "type": "tweets",
+      "content": "<p>Indian PM makes an address ahead of the start of the monsoon session of the Indian Parliament. Says, Monsoon &amp; Monsoon session should remain proactive.</p>\n<img src=\"https://nitter.net/pic/media%2FHNpUI3ab0AAplQY.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian Parliament sessions to open shortly. Session, that will conclude next month, will see foreign policy questions by MPs-West Asia crisis, sailors issues etc.",
+      "link": "https://nitter.net/sidhant/status/2079066470311776472#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-20T10:20:48+05:30",
+      "time": "20 Jul, 10:20 AM",
+      "type": "tweets",
+      "content": "<p>Indian Parliament sessions to open shortly. Session, that will conclude next month, will see foreign policy questions by MPs-West Asia crisis, sailors issues etc.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Welcome to the future, Pakistani style. The world is building flying ICUs. Karachi's mayor is launching a cycle ambulance. Only in Pakistan.",
+      "link": "https://nitter.net/OsintTV/status/2079064686125842560#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-20T10:13:42+05:30",
+      "time": "20 Jul, 10:13 AM",
+      "type": "tweets",
+      "content": "<p>Welcome to the future, Pakistani style.<br />\n<br />\nThe world is building flying ICUs. Karachi's mayor is launching a cycle ambulance.<br />\n<br />\nOnly in Pakistan.</p>\n<a href=\"https://nitter.net/OsintTV/status/2079064686125842560#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079064587912073216%2Fimg%2FgOXHhU6sUQVRHLkE.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "The Indian Air Force has issued a Request for Information (RFI) under the Make in India initiative for the procurement of Man-Portable Loitering Munitions. The system is expected to feature a minimum range of 40 km, endurance exceeding 2 hours, and the capability to carry HE/HEAT warheads, enhancing precision strike capabilities. \ud83d\udcf8 For Representation",
+      "link": "https://nitter.net/alpha_defense/status/2079064426423177587#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-07-20T10:12:41+05:30",
+      "time": "20 Jul, 10:12 AM",
+      "type": "tweets",
+      "content": "<p>The Indian Air Force has issued a Request for Information (RFI) under the Make in India initiative for the procurement of Man-Portable Loitering Munitions. <br />\n<br />\nThe system is expected to feature a minimum range of 40 km, endurance exceeding 2 hours, and the capability to carry HE/HEAT warheads, enhancing precision strike capabilities.<br />\n<br />\n\ud83d\udcf8 For Representation</p>\n<img src=\"https://nitter.net/pic/media%2FHNpSEexbkAAXZjN.jpg\" />",
+      "author": "@alpha_defense"
+    },
     {
       "title": "The Indian Army's White Knight Corps successfully rescued 11 stranded civilians, including five children, during two critical operations in the flash flood-affected Rajouri district of Jammu and Kashmir. @Whiteknight_IA @ChinarcorpsIA @NorthernComd_IA @adgpi @DefenceMinIndia @rashtrapatibhvn @SpokespersonMoD @HQ_IDS_India",
       "link": "https://nitter.net/NetramDefence/status/2079051136863256594#m",
@@ -1037,16 +1068,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Image of an overnight strikes in Kiev.",
-      "link": "https://nitter.net/alpha_defense/status/2078725713851764988#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-19T11:46:45+05:30",
-      "time": "19 Jul, 11:46 AM",
-      "type": "tweets",
-      "content": "<p>Image of an overnight strikes in Kiev.</p>\n<img src=\"https://nitter.net/pic/media%2FHNkeBG-bsAAPzaQ.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "\ud83d\udea8Six deaths reported from pir panjal region,J&K till now,after heavy rainfall overnight. 5-6 still missing.",
       "link": "https://nitter.net/AngryRumi7/status/2078725474122092900#m",
       "source": "Angry Rumi",
@@ -1067,7 +1088,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "RT by @OsintTV: The New Standard: Hunting Terrorists in Their Homes - India\u2019s Stance on Terror \"Zero tolerance against terrorism is not just a statement for us, but a LINE OF ACTION. We will not just fight terrorism at the doorstep, but WE WILL ENTER THEIR HOMES AND STRIKE (K!||) THEM\" : Def Min Rajnath Singh Video courtesy : Republic TV",
+      "title": "The New Standard: Hunting Terrorists in Their Homes - India\u2019s Stance on Terror \"Zero tolerance against terrorism is not just a statement for us, but a LINE OF ACTION. We will not just fight terrorism at the doorstep, but WE WILL ENTER THEIR HOMES AND STRIKE (K!||) THEM\" : Def Min Rajnath Singh Video courtesy : Republic TV",
       "link": "https://nitter.net/OsintTV/status/2078719266124189889#m",
       "source": "Osint TV",
       "sort_key": "2026-07-19T11:21:08+05:30",
@@ -1184,26 +1205,6 @@
       "time": "18 Jul, 09:38 PM",
       "type": "tweets",
       "content": "<p>India,Thailand to firm up efforts to combat online scams, says Thai readout after Indian envoy Puneet Agrawal meets DG South Asia (others) in Thai foreign ministry</p>\n<img src=\"https://nitter.net/pic/media%2FHNhblovbIAAKoI0.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US Secretary of state will travel to Manila for ASEAN FMs meet from tomm. On the sidelines he is expected to meet EAM Jaishankar & also attend Quad FMs meet.",
-      "link": "https://nitter.net/sidhant/status/2078511579013009907#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-18T21:35:51+05:30",
-      "time": "18 Jul, 09:35 PM",
-      "type": "tweets",
-      "content": "<p>US Secretary of state will travel to Manila for ASEAN FMs meet from tomm. On the sidelines he is expected to meet EAM Jaishankar &amp; also attend Quad FMs meet.</p>\n<img src=\"https://nitter.net/pic/media%2FHNhbE7UakAAEbUc.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Chile's foreign minister says his country is accelerating the CEPA Trade talks with India:",
-      "link": "https://nitter.net/sidhant/status/2078510278174708185#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-18T21:30:41+05:30",
-      "time": "18 Jul, 09:30 PM",
-      "type": "tweets",
-      "content": "<p>Chile's foreign minister says his country is accelerating the CEPA Trade talks with India:</p>\n<img src=\"https://nitter.net/pic/media%2FHNhZ9UraAAAGkvg.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1435,16 +1436,6 @@
       "type": "tweets",
       "content": "<p>When the mission is toughest, SOG steps forward....<br />\n<br />\nThe finest among the finest. SOG J&amp;K continues to set the standard.....</p>\n<img src=\"https://nitter.net/pic/media%2FHNfCvZ7WwAAJbvg.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @OsintTV: PAF now forced to transfer atleast two JF-17B Block 2 trainers to Azerbaijan, from own PAF fleet/inventory due to PACs failure to produce more JF-17Bs. This has caused further strain on PAFs meagre training resources.",
-      "link": "https://nitter.net/TheLegateIN/status/2078334216430059991#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-18T09:51:05+05:30",
-      "time": "18 Jul, 09:51 AM",
-      "type": "tweets",
-      "content": "<p>PAF now forced to transfer atleast two JF-17B Block 2 trainers to Azerbaijan, from own PAF fleet/inventory due to PACs failure to produce more JF-17Bs.<br />\n<br />\nThis has caused further strain on PAFs meagre training resources.</p>\n<hr />\n<blockquote>\n<b>WLVN (@TheLegateIN)</b>\n<p>\n<p>Pakistan Air Force has been forced to divert several JF-17 Block-III and JF-17B fighters to Azerbaijan straight from its own inventory \u2014 a fallout of PAC\u2019s sluggish production, poor WS-13B engine output, and Russia reportedly haltening RD-93 supplies. A major embarrassment for PAF flagship program.<br />\nNigerian JF-17s were also 2nd hand deliveries from PAF inventory.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/TheLegateIN/status/1989003198309580917#m\">https://nitter.net/TheLegateIN/status/1989003198309580917#m</a>\n</footer>\n</blockquote>",
-      "author": "@TheLegateIN"
     }
   ],
   "youtube": [
@@ -1504,6 +1495,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "10:24 AM IST"
   }
 }
