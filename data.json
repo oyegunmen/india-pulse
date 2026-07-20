@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Senegal\u2019s President Bassirou Faye elected as new Chairman of ECOWAS",
+      "link": "https://newsonair.gov.in/senegals-president-bassirou-faye-elected-as-new-chairman-of-ecowas/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-20T14:20:31+05:30",
+      "time": "20 Jul, 02:20 PM",
+      "type": "news",
+      "description": "Senegal\u2019s President, Bassirou Faye, has been elected as the new Chairman of the Economic Community of West African States (ECOWAS), succeeding Sierra ..."
+    },
+    {
+      "title": "CJP protest LIVE: Protesters reach near RBI, close to Parliament, security forces use tear gas shells",
+      "link": "https://www.indiatvnews.com/news/india/cjp-protest-live-updates-parliament-march-cockroach-janata-party-jantar-mantar-sonam-wangchuk-abhijeet-dipke-latest-updates-1048821",
+      "source": "India TV",
+      "sort_key": "2026-07-20T14:11:01+05:30",
+      "time": "20 Jul, 02:11 PM",
+      "type": "news",
+      "description": "Security forces on Monday (July 20) stopped protesters attempting to march towards Parliament from the Sansad Marg side. The demonstrators were halted..."
+    },
+    {
+      "title": "Iran, US exchange strikes for ninth consecutive day",
+      "link": "https://newsonair.gov.in/iran-us-exchange-strikes-for-ninth-consecutive-day/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-20T13:26:24+05:30",
+      "time": "20 Jul, 01:26 PM",
+      "type": "news",
+      "description": "Iran and the United States exchanged strikes for the ninth consecutive day, as tensions over the strategic Strait of Hormuz continued to escalate. US ..."
+    },
+    {
       "title": "Big boost for Atmanirbhar Bharat! After Skyroot's success, another private firm announces breakthrough in indigenous fighter jet engine technology",
       "link": "https://economictimes.indiatimes.com/news/defence/big-boost-for-atmanirbhar-bharat-after-skyroots-success-another-private-firm-announces-breakthrough-in-indigenous-fighter-jet-engine-technology/articleshow/132509162.cms",
       "source": "Economic Times",
@@ -298,15 +325,6 @@
       "description": "India is entering a second space revolution, shifting from an ISRO-led model to a public-private ecosystem that treats space as critical infrastructur..."
     },
     {
-      "title": "Kuwait says it\u2019s under Iranian missile and drone attack",
-      "link": "https://newsonair.gov.in/kuwait-says-its-under-iranian-missile-and-drone-attack/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-19T13:46:01+05:30",
-      "time": "19 Jul, 01:46 PM",
-      "type": "news",
-      "description": "Kuwait today said that the country is under Iranian missile and drone attack. The country&#8217;s army said in a statement that its air defences had b..."
-    },
-    {
       "title": "Security Forces Seize Rs 85 Crore Crystal Meth in Manipur",
       "link": "https://www.deccanchronicle.com/nation/security-forces-bust-major-drug-racket-seize-rs-85-crore-crystal-meth-in-manipur-1972190",
       "source": "Deccan Chronicle",
@@ -332,15 +350,6 @@
       "time": "19 Jul, 12:39 PM",
       "type": "news",
       "description": "His two assists in France's encounter against England, both converted by Mbappe, helped him surpass Pele's tally and establish a new benchmark for the..."
-    },
-    {
-      "title": "US military launches new airstrikes against Iran",
-      "link": "https://newsonair.gov.in/us-military-launches-new-airstrikes-against-iran/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-19T07:51:13+05:30",
-      "time": "19 Jul, 07:51 AM",
-      "type": "news",
-      "description": "The US military has launched new airstrikes against Iran to punish the Iranian Revolutionary Guard for an attack in Jordan that killed two American se..."
     },
     {
       "title": "Operation Sindoor showcased India\u2019s defence transformation: Rajnath",
@@ -494,45 +503,79 @@
       "time": "18 Jul, 03:12 PM",
       "type": "news",
       "description": "The United States and Iran exchanged strikes on Saturday, intensifying their battle for the Strait of Hormuz. Kuwait intercepted Iranian missiles and ..."
-    },
-    {
-      "title": "Skyroot\u2019s Vikram-1 lifts off successfully, becoming India\u2019s first privately developed orbital rocket",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/skyroots-vikram-1-lifts-off-successfully-becoming-indias-first-privately-developed-orbital-rocket/132476848",
-      "source": "Economic Times",
-      "sort_key": "2026-07-18T14:21:33+05:30",
-      "time": "18 Jul, 02:21 PM",
-      "type": "news",
-      "description": "Following a successful ascent, the rocket deployed its primary payloads, including technology demonstrators from Grahaa Space, Cosmoserve, DCubed, and..."
-    },
-    {
-      "title": "Vikram-1 launched: PM Modi greets Skyroot Aerospace founder Pawan Chandana on India&#039;s maiden private rocket success",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/vikram-1-launched-pm-modi-greets-skyroot-aerospace-founder-pawan-chandana-on-indias-maiden-private-rocket-success/132476361",
-      "source": "Economic Times",
-      "sort_key": "2026-07-18T13:41:18+05:30",
-      "time": "18 Jul, 01:41 PM",
-      "type": "news",
-      "description": "This achievement marks India&#039;s entry into private orbital launch capabilities.  The Vikram-1 rocket successfully entered a nearly 450-km orbit af..."
-    },
-    {
-      "title": "From Rs 686 Cr in 2014 to Rs 39,000 Cr in 2026: Rajnath Singh Details India's Massive Defence Export Surge",
-      "link": "https://www.republicworld.com/defence/from-rs-686-cr-in-2014-to-rs-39000-cr-in-2026-rajnath-singh-details-india-s-massive-defence-export-surge-2026-07-18-132707",
-      "source": "Republic World",
-      "sort_key": "2026-07-18T13:39:59+05:30",
-      "time": "18 Jul, 01:39 PM",
-      "type": "news",
-      "description": "According to Singh, India has surpassed its previous annual export target of \u20b930,000 crore, paving the way for an even more ambitious milestone. The g..."
-    },
-    {
-      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-      "link": "https://economictimes.indiatimes.com/news/defence/ukrainian-drone-attacks-kill-seven-warehouse-workers-in-russia/articleshow/132476146.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-18T13:24:16+05:30",
-      "time": "18 Jul, 01:24 PM",
-      "type": "news",
-      "description": "Ukrainian drone strikes killed eight people and injured over sixty across Russia.  Two major Wildberries warehouses and an oil depot were targeted by ..."
     }
   ],
   "tweets": [
+    {
+      "title": "Just reached central Delhi. Lot of protestors as the entire area now is closed. Heavy security presence. Situation remains volatile.",
+      "link": "https://nitter.net/sidhant/status/2079124866566160581#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-20T14:12:51+05:30",
+      "time": "20 Jul, 02:12 PM",
+      "type": "tweets",
+      "content": "<p>Just reached central Delhi. Lot of protestors as the entire area now is closed. Heavy security presence. Situation remains volatile.</p>\n<a href=\"https://nitter.net/sidhant/status/2079124866566160581#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079124849835081728%2Fimg%2FQsXAXPuUIaQUSeq-.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Tear gas used for crowd control",
+      "link": "https://nitter.net/Goreunit/status/2079123727879672025#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-20T14:08:19+05:30",
+      "time": "20 Jul, 02:08 PM",
+      "type": "tweets",
+      "content": "<p>Tear gas used for crowd control</p>\n<a href=\"https://nitter.net/Goreunit/status/2079123727879672025#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079123701128417280%2Fimg%2FeycCANV72cHMtGdM.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>North Gate of Parliament closed as protestors reach Parliament Street.<br />\nTear gas fired...</p>\n<a href=\"https://nitter.net/Goreunit/status/2079120344888344611#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079106897664425984%2Fimg%2FhzPNYJlZEJUdJ1tJ.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2079120344888344611#m\">https://nitter.net/Goreunit/status/2079120344888344611#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "North Gate of Parliament closed as protestors reach Parliament Street. Tear gas fired...",
+      "link": "https://nitter.net/Goreunit/status/2079120344888344611#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-20T13:54:53+05:30",
+      "time": "20 Jul, 01:54 PM",
+      "type": "tweets",
+      "content": "<p>North Gate of Parliament closed as protestors reach Parliament Street.<br />\nTear gas fired...</p>\n<a href=\"https://nitter.net/Goreunit/status/2079120344888344611#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079106897664425984%2Fimg%2FhzPNYJlZEJUdJ1tJ.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "India\u2019s Education Minister Dharmendra Pradhan meets Home Minister Amit Shah",
+      "link": "https://nitter.net/sidhant/status/2079120000141627673#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-20T13:53:30+05:30",
+      "time": "20 Jul, 01:53 PM",
+      "type": "tweets",
+      "content": "<p>India\u2019s Education Minister Dharmendra Pradhan meets Home Minister Amit Shah</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Political legitimisation of designated terrorist organisations happening in Pakistan!! This country is beyond any redemption...",
+      "link": "https://nitter.net/Goreunit/status/2079117709384798654#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-20T13:44:24+05:30",
+      "time": "20 Jul, 01:44 PM",
+      "type": "tweets",
+      "content": "<p>Political legitimisation of designated terrorist organisations happening in Pakistan!!<br />\nThis country is beyond any redemption...</p>\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>\ud83d\udea8 EXPOSED: Federal Minister <a href=\"https://nitter.net/abdul_aleemkhan\" title=\"Abdul Aleem Khan\">@abdul_aleemkhan</a> \u2019s party (IPP) has inked a political alliance with PMML the front face of Pakistan\u2019s State Sponsored terror outfit Lashkar-e-Taiba.<br />\n<br />\nThe pact, announced in Lahore by US-designated global terrorist Hameed ul Hassan, involves support for IPP candidates contesting the two Lahore-based controversial refugee seats of PoJK, while the IPP will support LeT candidates in PoK contesting under the JKUM banner, amid local uprising.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pakistan\">#Pakistan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoK\">#PoK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LashkarETaiba\">#LashkarETaiba</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AleemKhan\">#AleemKhan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BreakingNews\">#BreakingNews</a></p>\n<img src=\"https://nitter.net/pic/media%2FHNqBOdpa4AAJhM3.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNqBOdtawAAZDUK.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNqBOdsasAATtNC.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHNqBOdqb0AADRIP.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2079116294474072338#m\">https://nitter.net/shivank_8mishra/status/2079116294474072338#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "Stormy session of the Indian Parliament begins. Indian PM Modi says West Asia war has impact on energy security, but confident on India Growth Story Reporting",
+      "link": "https://nitter.net/sidhant/status/2079117473526559199#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-20T13:43:28+05:30",
+      "time": "20 Jul, 01:43 PM",
+      "type": "tweets",
+      "content": "<p>Stormy session of the Indian Parliament begins. Indian PM Modi says West Asia war has impact on energy security, but confident on India Growth Story<br />\n<br />\nReporting</p>\n<a href=\"https://nitter.net/sidhant/status/2079117473526559199#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079104332440768512%2Fimg%2FNckYBXjgXBt6dAqO.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian President Murmu reaches Moldova in first leg of 3 nation visit.",
+      "link": "https://nitter.net/sidhant/status/2079115500987261271#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-20T13:35:38+05:30",
+      "time": "20 Jul, 01:35 PM",
+      "type": "tweets",
+      "content": "<p>Indian President Murmu reaches Moldova in first leg of 3 nation visit.</p>\n<img src=\"https://nitter.net/pic/media%2FHNqAhtzaMAARcTO.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Abhijit dipke ends his hunger strike within 36 hours. On the request of Sonam Wangchuk",
       "link": "https://nitter.net/Goreunit/status/2079111676520219010#m",
@@ -562,6 +605,16 @@
       "type": "tweets",
       "content": "<p>Hear the genius, take here<br />\nWhen DO talks about Netra, they say you bring us the platform and we will give you the radar but that is too complicated for certain jurnos \ud83e\udd26</p>\n<hr />\n<blockquote>\n<b>Ramandeep Bajwa (@Ramandeep_Bajwa)</b>\n<p>\n<p>What do you mean by:<br />\n<br />\n\"This is exactly what I mean <br />\nwhen I say: build your own systems, retain control over them, and keep improving them on your own terms.\"<br />\n<br />\nThe platform on which Netra Mk1 is mounted is a Brazilian Embraer ERJ 145.<br />\nIt is powered by American engines, the Rolls Royce North America AE 3007. There are numerous other parts in the aircraft which are made in USA. <br />\nHow can we retain control over the supply of vital components if US blocks supply?<br />\nOnly way to have total autonomy is to develop the platform inhouse.<br />\n<br />\nBe like China. They make everything inhouse.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Ramandeep_Bajwa/status/2079082288466555216#m\">https://nitter.net/Ramandeep_Bajwa/status/2079082288466555216#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @sidhant: #WIONNewspoint | Indian parliament set for stormy session Prime Minister urges productive Monsoon session No need for storm: Prime Minister's message for MP @sidhant joins @JyotsnaKumar13 with the latest updates",
+      "link": "https://nitter.net/WIONews/status/2079105844449554869#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-20T12:57:15+05:30",
+      "time": "20 Jul, 12:57 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONNewspoint\">#WIONNewspoint</a> | Indian parliament set for stormy session <br />\n<br />\nPrime Minister urges productive Monsoon session <br />\n<br />\nNo need for storm: Prime Minister's message for MP <br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> joins <a href=\"https://nitter.net/JyotsnaKumar13\" title=\"Jyotsna Kumar\">@JyotsnaKumar13</a> with the latest updates</p>\n<a href=\"https://nitter.net/WIONews/status/2079105844449554869#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079104332440768512%2Fimg%2FNckYBXjgXBt6dAqO.jpg\" />\n</a>",
+      "author": "@WIONews"
     },
     {
       "title": "BREAKING: Massive Protests Erupt at Delhi's Jantar Mantar Thousands of protesters have gathered at Jantar Mantar, with mobile internet suspended in parts of central Delhi and traffic heavily restricted around the protest site. Sporadic clashes have reportedly broken out between protesters and security forces as crowds spilled onto Tolstoy Marg. Video Courtesy: The Hindu",
@@ -1024,26 +1077,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Lok Sabha to hold obituary reference to late Father Amir of Qatar, Sheikh Hamad bin Khalifa Al-Thani tomm",
-      "link": "https://nitter.net/sidhant/status/2078768267641131010#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-19T14:35:51+05:30",
-      "time": "19 Jul, 02:35 PM",
-      "type": "tweets",
-      "content": "<p>Lok Sabha to hold obituary reference to late Father Amir of Qatar, Sheikh Hamad bin Khalifa Al-Thani tomm</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian Army rescues 11 civilians, including five children, from flash floods in Rajouri district of Jammu and Kashmir",
-      "link": "https://nitter.net/sidhant/status/2078767319741042771#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-19T14:32:05+05:30",
-      "time": "19 Jul, 02:32 PM",
-      "type": "tweets",
-      "content": "<p>Indian Army rescues 11 civilians, including five children, from flash floods in Rajouri district of Jammu and Kashmir</p>\n<a href=\"https://nitter.net/sidhant/status/2078767319741042771#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078767231824191488%2Fimg%2FObM0qLTrUNvWt5nb.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "India Plans First-Ever Border Fence Through the Sundarbans India is planning to construct its first border fence through the Sundarbans along the Bangladesh frontier, covering approximately 90 km in West Bengal. According to reports, the BSF has begun feasibility and technical studies for the project. The challenging riverine border is currently secured through Floating Border Outposts, marine patrols, and surveillance, with plans to further strengthen security infrastructure. The proposed fencing faces logistical and environmental challenges, with 71 km of the border adjoining the protected Sundarbans Wildlife Sanctuary, where construction is restricted. Authorities have assured compensation and rehabilitation to affected residents if land acquisition is required. The project is currently in the planning and assessment stage, with no construction timeline officially announced.",
       "link": "https://nitter.net/NetramDefence/status/2078763948422443201#m",
       "source": "Netram Defense",
@@ -1114,16 +1147,6 @@
       "author": "@AngryRumi7"
     },
     {
-      "title": "\"If Indian PM Modi wanted, would have fixed Pakistan [in May 2025]...\", Noreen Khan Niazi, sister of former PM Imran Khan says linking it to Pakistan's accession to Abraham Accords Vdo ctsy: Pakistan media",
-      "link": "https://nitter.net/sidhant/status/2078723307051053470#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-19T11:37:11+05:30",
-      "time": "19 Jul, 11:37 AM",
-      "type": "tweets",
-      "content": "<p>\"If Indian PM Modi wanted, would have fixed Pakistan [in May 2025]...\", Noreen Khan Niazi, sister of former PM Imran Khan says linking it to Pakistan's accession to Abraham Accords<br />\n<br />\nVdo ctsy: Pakistan media</p>\n<a href=\"https://nitter.net/sidhant/status/2078723307051053470#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078445473799737344%2Fimg%2F0_xuh151UFkCti4-.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "The New Standard: Hunting Terrorists in Their Homes - India\u2019s Stance on Terror \"Zero tolerance against terrorism is not just a statement for us, but a LINE OF ACTION. We will not just fight terrorism at the doorstep, but WE WILL ENTER THEIR HOMES AND STRIKE (K!||) THEM\" : Def Min Rajnath Singh Video courtesy : Republic TV",
       "link": "https://nitter.net/OsintTV/status/2078719266124189889#m",
       "source": "Osint TV",
@@ -1134,16 +1157,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Indian President leaves for state visit of Moldova, North Macedonia & Romania this morning:",
-      "link": "https://nitter.net/sidhant/status/2078717724134703518#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-19T11:15:00+05:30",
-      "time": "19 Jul, 11:15 AM",
-      "type": "tweets",
-      "content": "<p>Indian President leaves for state visit of Moldova, North Macedonia &amp; Romania this morning:</p>\n<img src=\"https://nitter.net/pic/media%2FHNkWn_na4AAWADx.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @sidhant: America is tightening truck-driving rules. Canada is slowing family reunification. For thousands of Punjabi families, these are not distant policy changes. They can affect jobs, home loans, school fees, medical expenses and the hope of bringing parents together. The solution is not Panic. It is legal migration, skilled training, strict action against fraudulent agents and dignified jobs in Punjab. please watch the full #vlog and share your views:-",
       "link": "https://nitter.net/rsrobin1/status/2078702401117405670#m",
       "source": "Sidhant Sibal",
@@ -1152,16 +1165,6 @@
       "type": "tweets",
       "content": "<p>America is tightening truck-driving rules. Canada is slowing family reunification. <br />\nFor thousands of Punjabi families, these are not distant policy changes. They can affect jobs, home loans, school fees, medical expenses and the hope of bringing parents together. <br />\nThe solution is not Panic. It is legal migration, skilled training, strict action against fraudulent agents and dignified jobs in Punjab.<br />\nplease watch the full <a href=\"https://nitter.net/search?f=tweets&amp;q=%23vlog\">#vlog</a> and share your views:-</p>\n<a href=\"https://nitter.net/rsrobin1/status/2078702401117405670#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2078701739268841472%2Fimg%2Fllzb0IaMOQyqerlY.jpg\" />\n</a>",
       "author": "@rsrobin1"
-    },
-    {
-      "title": "Panama foreign minister @javierachapma reaches Delhi. A cultural connect is, he is wearing an Indian jacket. Panama has the largest Indian origin population in central America.",
-      "link": "https://nitter.net/sidhant/status/2078681236005073094#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-19T08:50:01+05:30",
-      "time": "19 Jul, 08:50 AM",
-      "type": "tweets",
-      "content": "<p>Panama foreign minister <a href=\"https://nitter.net/javierachapma\" title=\"Javier Mart\u00ednez-Acha V\u00e1squez\">@javierachapma</a> reaches Delhi. <br />\n<br />\nA cultural connect is, he is wearing an Indian jacket. Panama has the largest Indian origin population in central America.</p>\n<img src=\"https://nitter.net/pic/media%2FHNj1kLHbsAAhvoQ.jpg\" />",
-      "author": "@sidhant"
     },
     {
       "title": "Daily US-Israel-Iran War Brief: 18th Jul 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf IDF forces identified and struck a Hezbollah terrorist cell that had been operating drones and taking cover near IDF soldiers in the Security Zone. \u25cf IRGC said they carried out a missile & drone attack on fighter shelters and a large aircraft parking apron at a US base in Azraq, Jordan, destroying at least 2 fighter jets and 3 other US aircraft. \u25cf Kuwait Petroleum Corporation said one of its oil facilities was hit by repeated Iranian attacks, causing significant damage and injuring several workers. \u25cf US attacks overnight damaged a bridge on the Bandar Abbas-Hajjiabad axis and caused destruction at four points along major roadways in Hormozgan province. \u25cf Iran suspended its commitments under the Islamabad MoU with the US after Washington \"violated all of its obligations\" under the agreement. END OF THE BRIEF",
@@ -1282,46 +1285,6 @@
       "type": "tweets",
       "content": "<p>BREAKING: Infiltration Bid Foiled Along LoC in J&amp;K's Rajouri<br />\n<br />\nIndian Army troops opened fire after detecting suspicious movement near the Line of Control (LoC) in the Tarkundi sector of Rajouri on Friday night, triggering an exchange of small-arms fire with Pakistani positions.<br />\n<br />\nThe firing reportedly lasted around 90 minutes. No casualties have been reported.<br />\n<br />\nA search operation is underway to determine whether any infiltration attempt succeeded, while security forces have placed the area under heightened surveillance.</p>\n<img src=\"https://nitter.net/pic/media%2FHNgQ5C2aoAExfqf.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Companies like @SkyrootA are our second and final chance to catch up with the ongoing space race. Failure is not an option here; the cost will be unbearable.",
-      "link": "https://nitter.net/elitepredatorss/status/2078401135585718630#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-18T14:17:00+05:30",
-      "time": "18 Jul, 02:17 PM",
-      "type": "tweets",
-      "content": "<p>Companies like <a href=\"https://nitter.net/SkyrootA\" title=\"Skyroot Aerospace\">@SkyrootA</a> are our second and final chance to catch up with the ongoing space race.<br />\n<br />\nFailure is not an option here; the cost will be unbearable.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Breath of fresh air \u2764\ufe0f<br />\n<br />\nBut we've got miles to cover before we rest, ladies and gentlemen.<br />\n<br />\nPush, push and push harder from now onwards.</p>\n<img src=\"https://nitter.net/pic/media%2FHNfoBDuakAAvbXY.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2078385228377444859#m\">https://nitter.net/elitepredatorss/status/2078385228377444859#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Poonch: At around 2200 hrs last night, the Pakistan Army initiated small arms fire along the Line of Control (LoC) in the Tarakundi area of the Balakote sector, reportedly to facilitate an infiltration attempt by terrorists. The Indian Army responded effectively and foiled the infiltration bid",
-      "link": "https://nitter.net/elitepredatorss/status/2078401010490581155#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-18T14:16:30+05:30",
-      "time": "18 Jul, 02:16 PM",
-      "type": "tweets",
-      "content": "<p>Poonch: At around 2200 hrs last night, the Pakistan Army initiated small arms fire along the Line of Control (LoC) in the Tarakundi area of the Balakote sector, reportedly to facilitate an infiltration attempt by terrorists. The Indian Army responded effectively and foiled the infiltration bid</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "\ud83d\udea8Exchange of fire continues in Tarkundi Sector,Rajouri on day 2",
-      "link": "https://nitter.net/AngryRumi7/status/2078389642886570211#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-07-18T13:31:20+05:30",
-      "time": "18 Jul, 01:31 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8Exchange of fire continues in Tarkundi Sector,Rajouri on day 2</p>",
-      "author": "@AngryRumi7"
-    },
-    {
-      "title": "Lift off narmaal was missed today !",
-      "link": "https://nitter.net/elitepredatorss/status/2078388041677492330#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-18T13:24:58+05:30",
-      "time": "18 Jul, 01:24 PM",
-      "type": "tweets",
-      "content": "<p>Lift off narmaal was missed today !</p>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -1381,6 +1344,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
