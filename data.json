@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "US launches Iran strikes for ninth day as another American confirmed killed",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-launches-iran-strikes-for-ninth-day-as-another-american-confirmed-killed/articleshow/132504228.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-20T07:43:08+05:30",
+      "time": "20 Jul, 07:43 AM",
+      "type": "news",
+      "description": "US Iran war news: United States forces conducted ninth consecutive strikes against Iran on Monday.  Three American military deaths were confirmed in t..."
+    },
+    {
+      "title": "India urges citizens to avoid travel to Iran, leave if there",
+      "link": "https://indianexpress.com/article/world/india-iran-travel-advisory-embassy-tehran-citizens-10794375/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-20T07:34:04+05:30",
+      "time": "20 Jul, 07:34 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "After Saudi Arabia, Kuwait explores defence pact with Pakistan",
       "link": "https://economictimes.indiatimes.com/news/defence/after-saudi-arabia-kuwait-explores-defence-pact-with-pakistan/articleshow/132499515.cms",
       "source": "Economic Times",
@@ -566,18 +584,19 @@
       "time": "18 Jul, 09:58 AM",
       "type": "news",
       "description": "SCO border officials met in Islamabad to exchange information on international border situations. They discussed and approved outcomes from the \"Solid..."
-    },
-    {
-      "title": "Army opens fire after observing suspicious movement along LoC in J-K's Rajouri",
-      "link": "https://economictimes.indiatimes.com/news/defence/army-opens-fire-after-observing-suspicious-movement-along-loc-in-j-ks-rajouri/articleshow/132472508.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-18T07:29:57+05:30",
-      "time": "18 Jul, 07:29 AM",
-      "type": "news",
-      "description": "Army troops fired on suspicious movement along the Line of Control in Rajouri district. This small arms firing occurred near Tarkundi forward area lat..."
     }
   ],
   "tweets": [
+    {
+      "title": "West Asia Situation -US says it has launched more attacks on Iran -US confirms death of another soldier (in N Iraq) -Iran says 2 oil tankers exploded in Hormuz -Kuwait says intercepted number of drones from Iran -Indian embassy in Iran issues travel advisory",
+      "link": "https://nitter.net/sidhant/status/2079022788787204576#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-20T07:27:13+05:30",
+      "time": "20 Jul, 07:27 AM",
+      "type": "tweets",
+      "content": "<p>West Asia Situation<br />\n-US says it has launched more attacks on Iran<br />\n-US confirms death of another soldier (in N Iraq)<br />\n-Iran says 2 oil tankers exploded in Hormuz<br />\n-Kuwait says intercepted number of drones from Iran<br />\n-Indian embassy in Iran issues travel advisory</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "Trump \ud83d\ude05\ud83e\udd26",
       "link": "https://nitter.net/alpha_defense/status/2078976918775566677#m",
@@ -1169,16 +1188,6 @@
       "author": "@AngryRumi7"
     },
     {
-      "title": "R to @sidhant: \"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"",
-      "link": "https://nitter.net/sidhant/status/2078490511078457706#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-18T20:12:08+05:30",
-      "time": "18 Jul, 08:12 PM",
-      "type": "tweets",
-      "content": "<p>\"By targeting civilian and economic infrastructure, the United States has once again demonstrated its disregard for international law and its obligations to protect civilian objects during armed conflict.\"</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Operation Sha'ban Lights... Roll Camera... \ud83c\udfac Action ... Cut....",
       "link": "https://nitter.net/OsintTV/status/2078485651138265244#m",
       "source": "Osint TV",
@@ -1486,6 +1495,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
