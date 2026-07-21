@@ -1,7 +1,25 @@
 {
   "news": [
     {
-      "title": "Modi \u2018most anti-youth\u2019 PM in India\u2019s history: Rahul",
+      "title": "Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night",
+      "link": "https://economictimes.indiatimes.com/news/defence/another-tanker-attacked-in-strait-of-hormuz-as-us-attacks-iran-for-10th-consecutive-night/articleshow/132526343.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-21T06:59:37+05:30",
+      "time": "21 Jul, 06:59 AM",
+      "type": "news",
+      "description": "A tanker was attacked early Tuesday in the Strait of Hormuz off Oman. Two other ships faced assaults in the strait over the last day. The United State..."
+    },
+    {
+      "title": "Chinese destroyer held live-fire drill in Japan's EEZ, Japan says",
+      "link": "https://economictimes.indiatimes.com/news/defence/chinese-destroyer-held-live-fire-drill-in-japans-eez-japan-says/articleshow/132526312.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-21T06:51:37+05:30",
+      "time": "21 Jul, 06:51 AM",
+      "type": "news",
+      "description": "A Chinese destroyer conducted live-fire drills near Japan's Okinotori Island early Sunday. Japan's Maritime Self-Defense Force spotted Chinese and Rus..."
+    },
+    {
+      "title": "Modi \u2018most anti-youth\u2019 PM in India\u2019s history: Rahul Gandhi",
       "link": "https://www.tribuneindia.com/news/top-headlines/modi-most-anti-youth-pm-in-indias-history-rahul",
       "source": "The Tribune",
       "sort_key": "2026-07-21T01:30:03+05:30",
@@ -569,6 +587,16 @@
     }
   ],
   "tweets": [
+    {
+      "title": "Video footage appears to show a Ukrainian \u201cHornet\u201d one-way attack drone striking a Russian mobile air defense team in eastern Ukraine.",
+      "link": "https://nitter.net/Goreunit/status/2079377748926292379#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-21T06:57:42+05:30",
+      "time": "21 Jul, 06:57 AM",
+      "type": "tweets",
+      "content": "<p>Video footage appears to show a Ukrainian \u201cHornet\u201d one-way attack drone striking a Russian mobile air defense team in eastern Ukraine.</p>\n<a href=\"https://nitter.net/Goreunit/status/2079377748926292379#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079377655745622016%2Fimg%2FoUoc2_FebhbDAT3l.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
     {
       "title": "The sheer absence of riot gear with the Delhi police is appalling, man! Just 1000 kits would have done the job here, 1000 kits probably will cost approx \u20b995 lakhs. Delhi police CAPEX is around \u20b9964 crore. Come on, guys, you guys face it almost every 2 years.",
       "link": "https://nitter.net/elitepredatorss/status/2079315135529992225#m",
@@ -1476,6 +1504,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
