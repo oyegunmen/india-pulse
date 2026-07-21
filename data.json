@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "NSA Ajit Doval discusses energy security, maritime routes with Saudi FM amid West Asia tensions",
+      "link": "https://www.newindianexpress.com/india/2026/Jul/21/nsa-ajit-doval-discusses-energy-security-maritime-routes-with-saudi-fm-amid-west-asia-tensions",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-21T21:56:46+05:30",
+      "time": "21 Jul, 09:56 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Govt sources on Rahul sit-in: Troubling precedent, similar protests in neighbourhood had grave consequences",
+      "link": "https://www.tribuneindia.com/news/delhi/govt-sources-on-rahul-sit-in-troubling-precedent-similar-protests-in-neighbourhood-had-grave-consequences",
+      "source": "The Tribune",
+      "sort_key": "2026-07-21T21:47:59+05:30",
+      "time": "21 Jul, 09:47 PM",
+      "type": "news",
+      "description": "Government sources on Tuesday described Rahul Gandhi&#8217;s sit-in near Prime Minister Narendra Modi&#8217;s residence in a high security zone as dee..."
+    },
+    {
+      "title": "US, Iran intensify attacks as diplomacy struggles to revive truce",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-intensify-attacks-as-diplomacy-struggles-to-revive-truce/articleshow/132540759.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-21T21:25:34+05:30",
+      "time": "21 Jul, 09:25 PM",
+      "type": "news",
+      "description": "Diplomatic efforts to revive the collapsed US-Iran interim agreement are gathering pace.  Shipping disruptions are deepening as the Strait of Hormuz r..."
+    },
+    {
+      "title": "Massive landslide blocks strategic road to China border in Uttarakhand's Pithoragarh",
+      "link": "https://www.newindianexpress.com/india/2026/Jul/21/massive-landslide-blocks-strategic-road-to-china-border-in-uttarakhands-pithoragarh",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-21T21:22:56+05:30",
+      "time": "21 Jul, 09:22 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "What Columbia University\u2019s \u2018return to US\u2019 advisory means for Indian students",
       "link": "https://indianexpress.com/article/world/columbia-university-advisory-indian-students-us-visa-rules-dhs-september-deadline-10797195/",
       "source": "The Indian Express",
@@ -8,6 +44,15 @@
       "time": "21 Jul, 08:36 PM",
       "type": "news",
       "description": ""
+    },
+    {
+      "title": "US and Iran trade strikes for tenth day in row, mounting tensions over Strait of Hormuz",
+      "link": "https://newsonair.gov.in/us-forces-launch-new-round-of-strikes-against-iran/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-21T20:34:25+05:30",
+      "time": "21 Jul, 08:34 PM",
+      "type": "news",
+      "description": "Tensions between Iran and the United States escalated further as both sides exchanged strikes for the tenth consecutive day, with the crisis around th..."
     },
     {
       "title": "Merlinhawk Aerospace, Boeing Defence India tie up for EO/IR systems sustainment",
@@ -388,15 +433,6 @@
       "description": "China and the Philippines are locked in a war of words following a maritime encounter that escalated into physical confrontation. Manila reported that..."
     },
     {
-      "title": "US forces launch new round of strikes against Iran",
-      "link": "https://newsonair.gov.in/us-forces-launch-new-round-of-strikes-against-iran/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-21T08:34:25+05:30",
-      "time": "21 Jul, 08:34 AM",
-      "type": "news",
-      "description": "US President Donald Trump has warned Iran of massive retaliation, saying that Tehran would pay many times. His warning came yesterday after three Amer..."
-    },
-    {
       "title": "US military completes its latest strikes on Iran, marking the 10th successive night of attacks",
       "link": "https://economictimes.indiatimes.com/news/defence/another-tanker-attacked-in-strait-of-hormuz-as-us-attacks-iran-for-10th-consecutive-night/articleshow/132526343.cms",
       "source": "Economic Times",
@@ -413,15 +449,6 @@
       "time": "21 Jul, 06:51 AM",
       "type": "news",
       "description": "A Chinese destroyer conducted live-fire drills near Japan's Okinotori Island early Sunday. Japan's Maritime Self-Defense Force spotted Chinese and Rus..."
-    },
-    {
-      "title": "US-Iran War News Live Updates: Iranian delegation meets Pakistan PM, chief of defence forces",
-      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-trump-strikes-retaliation-us-service-members-deaths-10795807/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-21T05:54:06+05:30",
-      "time": "21 Jul, 05:54 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "\"We hit them very hard\": Trump says latest US strikes on Iran honour troops killed in conflict",
@@ -620,27 +647,69 @@
       "time": "19 Jul, 11:41 PM",
       "type": "news",
       "description": "Kuwait is in talks with Pakistan to sign a comprehensive defence pact amid escalating regional tensions following Iran's renewed attacks on Gulf infra..."
-    },
-    {
-      "title": "Russia or China behind Iran\u2019s deadly strike on key US base? Report raises questions",
-      "link": "https://indianexpress.com/article/world/iran-missile-strike-jordan-us-troops-killed-china-russia-targeting-help-10794001/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-19T21:45:00+05:30",
-      "time": "19 Jul, 09:45 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "'Security hole' behind bombing of Supreme Leader's residence still exists: Iran FM Araghchi",
-      "link": "https://economictimes.indiatimes.com/news/defence/security-hole-behind-bombing-of-supreme-leaders-residence-still-exists-iran-fm-araghchi/articleshow/132497294.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-19T21:36:24+05:30",
-      "time": "19 Jul, 09:36 PM",
-      "type": "news",
-      "description": "Iranian Foreign Minister Seyyed Abbas Araghchi has claimed that the bombing of the former Supreme Leader Ayatollah Ali Khamenei's residence was carrie..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @sidhant: India Statement NSA Shri Ajit Doval paid an official visit to Riyadh on 20 July. He was warmly received at the airport by H.E. Dr. Saud Al-Sati, Deputy Minister for Political Affairs, Ministry of Foreign Affairs, and Ambassador Dr. Suhel Khan. During the visit, the NSA met H.R.H. Prince Abdulaziz bin Salman, Minister of Energy ; H.H. Prince Faisal bin Farhan, Minister of Foreign Affairs; and H.E. Dr. Musaed Al-Aiban, National Security Advisor. The meetings reviewed the progress in India\u2013Saudi bilateral relations and discussed the current regional situation, as well as other issues of mutual interest.",
+      "link": "https://nitter.net/sidhant/status/2079608055436836920#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-21T22:12:52+05:30",
+      "time": "21 Jul, 10:12 PM",
+      "type": "tweets",
+      "content": "<p>India Statement<br />\n<br />\nNSA Shri Ajit Doval paid an official visit to Riyadh on 20 July.<br />\n<br />\nHe was warmly received at the airport by H.E. Dr. Saud Al-Sati, Deputy Minister for Political Affairs, Ministry of Foreign Affairs, and Ambassador Dr. Suhel Khan.<br />\n<br />\nDuring the visit, the NSA met H.R.H. Prince Abdulaziz bin Salman, Minister of Energy ; H.H. Prince Faisal bin Farhan, Minister of Foreign Affairs; and H.E. Dr. Musaed Al-Aiban, National Security Advisor.<br />\n<br />\nThe meetings reviewed the progress in India\u2013Saudi bilateral relations and discussed the current regional situation, as well as other issues of mutual interest.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "In response to India summoning Russian diplomat, Kremlin Spox Dmitry Peskov says Russia to continue strikes on ships carrying arms for Kiev; In touch with our Indian partners",
+      "link": "https://nitter.net/sidhant/status/2079607482515960289#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-21T22:10:35+05:30",
+      "time": "21 Jul, 10:10 PM",
+      "type": "tweets",
+      "content": "<p>In response to India summoning Russian diplomat, Kremlin Spox Dmitry Peskov says Russia to continue strikes on ships carrying arms for Kiev; In touch with our Indian partners</p>\n<a href=\"https://nitter.net/sidhant/status/2079607482515960289#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079533278546321408%2Fimg%2F9K_1M04_Ev8q5GCX.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India summons Russian diplomat after 4 Indian crew member died in a strike on a vessel off Ukraine coast. Kremlin says in touch with partners in India. Reporting:",
+      "link": "https://nitter.net/sidhant/status/2079598830232998264#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-21T21:36:12+05:30",
+      "time": "21 Jul, 09:36 PM",
+      "type": "tweets",
+      "content": "<p>India summons Russian diplomat after 4 Indian crew member died in a strike on a vessel off Ukraine coast. Kremlin says in touch with partners in India.<br />\n<br />\nReporting:</p>\n<a href=\"https://nitter.net/sidhant/status/2079598830232998264#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079561612391034880%2Fimg%2FdOhrdqSLEzflGV25.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\u201cThe BrahMos... is a very important contribution to the Philippines\u2019 effort to achieve credible deterrence\", says Philippine Ambassador to India Josel F. Ignacio. Interview",
+      "link": "https://nitter.net/sidhant/status/2079597632889274373#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-21T21:31:27+05:30",
+      "time": "21 Jul, 09:31 PM",
+      "type": "tweets",
+      "content": "<p>\u201cThe BrahMos... is a very important contribution to the Philippines\u2019 effort to achieve credible deterrence\", says Philippine Ambassador to India Josel F. Ignacio.<br />\n<br />\nInterview</p>\n<a href=\"https://nitter.net/sidhant/status/2079597632889274373#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079565306033471489%2Fimg%2F5_8keeE6zgg1ygwN.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Philippines eyes deeper defence ties with India, says Ambassador Josel F. Ignacio @PHinIndia Interview: https://www.wionews.com/world/philippines-eyes-deeper-defence-ties-with-india-says-ambassador-josel-f-ignacio-1784634847208",
+      "link": "https://nitter.net/sidhant/status/2079597139420979523#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-21T21:29:29+05:30",
+      "time": "21 Jul, 09:29 PM",
+      "type": "tweets",
+      "content": "<p>Philippines eyes deeper defence ties with India, says Ambassador Josel F. Ignacio <a href=\"https://nitter.net/PHinIndia\" title=\"Philippine Embassy in India\">@PHinIndia</a><br />\n<br />\nInterview:<br />\n<br />\n<a href=\"https://www.wionews.com/world/philippines-eyes-deeper-defence-ties-with-india-says-ambassador-josel-f-ignacio-1784634847208\">wionews.com/world/philippine\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/philippines-eyes-deeper-defence-ties-with-india-says-ambassador-josel-f-ignacio-1784634847208\">\n<img src=\"https://nitter.net/pic/card_img%2F2079541728923844608%2FTRIb2jL8%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Philippines eyes deeper defence ties with India, says Ambassador Josel F. Ignacio</b>\n</a>\n<p>The Philippines is deepening defence ties with India, praising the BrahMos missile system as a key boost to its military deterrence while seeking greater cooperation in defence technology and...</p>\n<small><a href=\"https://www.wionews.com/world/philippines-eyes-deeper-defence-ties-with-india-says-ambassador-josel-f-ignacio-1784634847208\">wionews.com</a></small>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Peace & tranquility in border areas have been maintained, says Chinese ambassador to India @China_Amb_India during 99th anniversary of PLA in Delhi",
+      "link": "https://nitter.net/sidhant/status/2079593601814938016#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-21T21:15:26+05:30",
+      "time": "21 Jul, 09:15 PM",
+      "type": "tweets",
+      "content": "<p>Peace &amp; tranquility in border areas have been maintained, says Chinese ambassador to India <a href=\"https://nitter.net/China_Amb_India\" title=\"Xu Feihong\">@China_Amb_India</a> during 99th anniversary of PLA in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2079593601814938016#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079593432843276290%2Fimg%2FFa2POKvLHRfT_paK.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "India delivers food and tents to flood hit Nuristan in Afghanistan",
       "link": "https://nitter.net/sidhant/status/2079592257985138778#m",
@@ -650,6 +719,26 @@
       "type": "tweets",
       "content": "<p>India delivers food and tents to flood hit Nuristan in Afghanistan</p>\n<img src=\"https://nitter.net/pic/media%2FHNwyIftbgAAxJWq.jpg\" />",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: The Philippines is ramping up defence ties with India, praising the BrahMos missile system for strengthening its military posture Speaking to WION's @sidhant, Philippine Ambassador to India (@PHinIndia) Josel F. Ignacio described the BrahMos acquisition as a game-changer for the country\u2019s armed forces. \"The BrahMos... is a very important contribution to the Philippines\u2019 effort to achieve credible deterrence,\" Ignacio said",
+      "link": "https://nitter.net/WIONews/status/2079565966879719609#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-21T19:25:37+05:30",
+      "time": "21 Jul, 07:25 PM",
+      "type": "tweets",
+      "content": "<p>The Philippines is ramping up defence ties with India, praising the BrahMos missile system for strengthening its military posture<br />\n<br />\nSpeaking to WION's <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a>, Philippine Ambassador to India (<a href=\"https://nitter.net/PHinIndia\" title=\"Philippine Embassy in India\">@PHinIndia</a>) Josel F. Ignacio described the BrahMos acquisition as a game-changer for the country\u2019s armed forces. <br />\n<br />\n\"The BrahMos... is a very important contribution to the Philippines\u2019 effort to achieve credible deterrence,\" Ignacio said</p>\n<a href=\"https://nitter.net/WIONews/status/2079565966879719609#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079565306033471489%2Fimg%2F5_8keeE6zgg1ygwN.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "RT by @sidhant: #WIONDispatch | Four Indians were killed in a missile attack on a ship in Odesa, Ukraine India summons Russian envoy @ShreyaOpines and @sidhant have more",
+      "link": "https://nitter.net/WIONews/status/2079562578766987395#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-21T19:12:09+05:30",
+      "time": "21 Jul, 07:12 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONDispatch\">#WIONDispatch</a> | Four Indians were killed in a missile attack on a ship in Odesa, Ukraine<br />\n<br />\nIndia summons Russian envoy <br />\n<br />\n<a href=\"https://nitter.net/ShreyaOpines\" title=\"Shreya Upadhyaya\">@ShreyaOpines</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2079562578766987395#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079561612391034880%2Fimg%2FdOhrdqSLEzflGV25.jpg\" />\n</a>",
+      "author": "@WIONews"
     },
     {
       "title": "INDIAN ARMY LAUNCHES OPERATION JAL RAHAT FOR FLOOD RELIEF IN ASSAM.",
@@ -712,6 +801,16 @@
       "author": "@sidhant"
     },
     {
+      "title": "RT by @OsintTV: \ud83d\udea8\ud83c\uddf5\ud83c\uddf0\ud83e\ude96\ud83d\udca5 Pakistan Army Brings the Battlefield Home According to local sources, more than nine attack helicopters were seen heading towards the Jani Khel and Bakakhel areas of Bannu, Khyber Pakhtunkhwa, as a massive military operation unfolds. Some armies fight enemies across borders. Others keep fighting at home. Date : 19-07-2026",
+      "link": "https://nitter.net/OsintTV/status/2079524692268908698#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-21T16:41:36+05:30",
+      "time": "21 Jul, 04:41 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8\ud83c\uddf5\ud83c\uddf0\ud83e\ude96\ud83d\udca5 Pakistan Army Brings the Battlefield Home<br />\n<br />\nAccording to local sources, more than nine attack helicopters were seen heading towards the Jani Khel and Bakakhel areas of Bannu, Khyber Pakhtunkhwa, as a massive military operation unfolds.<br />\n<br />\nSome armies fight enemies across borders. Others keep fighting at home.<br />\n<br />\nDate : 19-07-2026</p>\n<a href=\"https://nitter.net/OsintTV/status/2079524692268908698#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079524329507737600%2Fimg%2FBMgvGSzyw5U3BPHT.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
       "title": "RT by @sidhant: Four Indians killed in Odesa Port ship attack Ukraine blames Russia for MV Golden Leo strike India summons Russian envoy, lodges protest @JyotsnaKumar13 and @sidhant have more",
       "link": "https://nitter.net/WIONews/status/2079515303252537462#m",
       "source": "Sidhant Sibal",
@@ -730,6 +829,16 @@
       "type": "tweets",
       "content": "<p>Family members, seaman union holds press conference seeking justice for seafarers who have died in West Asia</p>\n<img src=\"https://nitter.net/pic/media%2FHNvmd6EakAAAOE2.jpg\" />",
       "author": "@sidhant"
+    },
+    {
+      "title": "Pak army's 5 SSG Commandos, including a Captain, killed in Sorab, Balochistan: Sources",
+      "link": "https://nitter.net/OsintTV/status/2079507591844045104#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-21T15:33:39+05:30",
+      "time": "21 Jul, 03:33 PM",
+      "type": "tweets",
+      "content": "<p>Pak army's 5 SSG Commandos, including a Captain, killed in Sorab, Balochistan: Sources</p>\n<img src=\"https://nitter.net/pic/media%2FHNvlCq5XwAI4rUJ.jpg\" />",
+      "author": "@OsintTV"
     },
     {
       "title": "RT by @sidhant: Heartbreaking scenes. An Indian family breaks down, mourning the loss of their loved one, a seafarer killed in a strike on a merchant vessel.",
@@ -792,26 +901,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "A cloudy day in Delhi today.",
-      "link": "https://nitter.net/sidhant/status/2079450080692879445#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-21T11:45:08+05:30",
-      "time": "21 Jul, 11:45 AM",
-      "type": "tweets",
-      "content": "<p>A cloudy day in Delhi today.</p>\n<img src=\"https://nitter.net/pic/media%2FHNuw0j0bAAAhxC9.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India summons Russian Charg\u00e9 d\u2019Affaires Vladimir Ladanov; conveyed \"grave concerns\" over attack on the commercial vessel MV Golden Leo. 4 Indians died in the attack.",
-      "link": "https://nitter.net/sidhant/status/2079447818398495075#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-21T11:36:08+05:30",
-      "time": "21 Jul, 11:36 AM",
-      "type": "tweets",
-      "content": "<p>India summons Russian Charg\u00e9 d\u2019Affaires Vladimir Ladanov; conveyed \"grave concerns\" over attack on the commercial vessel MV Golden Leo. 4 Indians died in the attack.</p>\n<a href=\"https://nitter.net/sidhant/status/2079447818398495075#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079447348590350336%2Fimg%2FNbvf0xD46rmPUEk0.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "The pain and agony of the students must be heard. Accountability on paper leaks should be established at the highest level. However, violent protests against the law enforcement should not be tolerated.",
       "link": "https://nitter.net/Goreunit/status/2079447175877325098#m",
       "source": "War & Gore",
@@ -842,66 +931,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "\"India's grave concerns and unequivocal condemnation of the attack\" India summons Russian Charg\u00e9 d\u2019Affaires after killing of 4 Indian crew members off Ukraine port",
-      "link": "https://nitter.net/sidhant/status/2079443966974652555#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-21T11:20:50+05:30",
-      "time": "21 Jul, 11:20 AM",
-      "type": "tweets",
-      "content": "<p>\"India's grave concerns and unequivocal condemnation of the attack\"<br />\n<br />\nIndia summons Russian Charg\u00e9 d\u2019Affaires after killing of 4 Indian crew members off Ukraine port</p>\n<img src=\"https://nitter.net/pic/media%2FHNurQwwaEAAFMDb.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India summons Russian diplomat after Russian strike kills four Indian crew on Black Sea cargo ship Reporting: https://www.wionews.com/india-news/india-summons-russian-diplomat-after-russian-strike-kills-four-indian-crew-on-black-sea-cargo-ship-1784610668221",
-      "link": "https://nitter.net/sidhant/status/2079436230748446855#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-21T10:50:06+05:30",
-      "time": "21 Jul, 10:50 AM",
-      "type": "tweets",
-      "content": "<p>India summons Russian diplomat after Russian strike kills four Indian crew on Black Sea cargo ship<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/india-summons-russian-diplomat-after-russian-strike-kills-four-indian-crew-on-black-sea-cargo-ship-1784610668221\">wionews.com/india-news/india\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/india-summons-russian-diplomat-after-russian-strike-kills-four-indian-crew-on-black-sea-cargo-ship-1784610668221\">\n<img src=\"https://nitter.net/pic/card_img%2F2079438807657758720%2FXsFON_d0%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India summons Russian diplomat after Russian strike kills four Indian crew on Black Sea cargo ship</b>\n</a>\n<p>India summoned a senior Russian diplomat after four Indian seafarers were killed and another critically injured in a Russian missile strike on the cargo vessel MV Golden Leo near Ukraine&apos;s Odesa...</p>\n<small><a href=\"https://www.wionews.com/india-news/india-summons-russian-diplomat-after-russian-strike-kills-four-indian-crew-on-black-sea-cargo-ship-1784610668221\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India summons senior Russian diplomat after four Indian seafarers were killed in a Russian missile strike on the bulk carrier MV Golden Leo departing Ukraine's Odesa port.",
-      "link": "https://nitter.net/sidhant/status/2079433502450384964#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-21T10:39:15+05:30",
-      "time": "21 Jul, 10:39 AM",
-      "type": "tweets",
-      "content": "<p>India summons senior Russian diplomat after four Indian seafarers were killed in a Russian missile strike on the bulk carrier MV Golden Leo departing Ukraine's Odesa port.</p>\n<a href=\"https://nitter.net/sidhant/status/2079433502450384964#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079433448415174657%2Fimg%2FeL8qIV2Ib4IiV47f.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India summons Russia CdA over killing of 4 Indian seafarers off Ukriane port",
-      "link": "https://nitter.net/sidhant/status/2079431173319835945#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-21T10:30:00+05:30",
-      "time": "21 Jul, 10:30 AM",
-      "type": "tweets",
-      "content": "<p>India summons Russia CdA over killing of 4 Indian seafarers off Ukriane port</p>\n<a href=\"https://nitter.net/sidhant/status/2079431173319835945#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079431123701272577%2Fimg%2FRFOdtgN9UL39obqL.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "After US, Iran summoning, India summons Russian diplomat over killing of Indian seafarers.",
-      "link": "https://nitter.net/sidhant/status/2079430086441521310#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-21T10:25:41+05:30",
-      "time": "21 Jul, 10:25 AM",
-      "type": "tweets",
-      "content": "<p>After US, Iran summoning, India summons Russian diplomat over killing of Indian seafarers.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking: India summons Russian CdA after Russian strike kills four Indian crew on Black Sea cargo ship off Ukraine port</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2079427509750509616#m\">https://nitter.net/sidhant/status/2079427509750509616#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Breaking: India summons Russian CdA after Russian strike kills four Indian crew on Black Sea cargo ship off Ukraine port",
-      "link": "https://nitter.net/sidhant/status/2079427509750509616#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-21T10:15:26+05:30",
-      "time": "21 Jul, 10:15 AM",
-      "type": "tweets",
-      "content": "<p>Breaking: India summons Russian CdA after Russian strike kills four Indian crew on Black Sea cargo ship off Ukraine port</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Indian NSA Ajit Doval meets FM Faisal bin Farhan in Riyadh.",
       "link": "https://nitter.net/Goreunit/status/2079423822898561464#m",
       "source": "War & Gore",
@@ -910,6 +939,16 @@
       "type": "tweets",
       "content": "<p>Indian NSA Ajit Doval meets FM Faisal bin Farhan in Riyadh.</p>\n<img src=\"https://nitter.net/pic/media%2FHNuY8KcbgAAf7bJ.jpg\" />",
       "author": "@Goreunit"
+    },
+    {
+      "title": "RT by @OsintTV: \"Pakistan's problem is not just KASHMIR. It is India's RISE\": Christina Fair If Kashmir was resolved tomorrow, would Pakistan stop confronting India? According to Christina Fair, the answer is a big NO. Fair highlights Pakistan's own military narrative: \"Even after losing the 1971 war and losing half of the country, Pakistan claims it was not defeated and remains the only power capable of challenging India's rise in South Asia.\" Fair argues that Kashmir is only one part of a much larger rivalry. According to her analysis, the core objective is to challenge India's growing power and prevent its rise as a dominant force in South Asia Courtesy: @PeerzadaMoid",
+      "link": "https://nitter.net/OsintTV/status/2079409278826479642#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-21T09:03:00+05:30",
+      "time": "21 Jul, 09:03 AM",
+      "type": "tweets",
+      "content": "<p>\"Pakistan's problem is not just KASHMIR. It is India's RISE\": Christina Fair<br />\n<br />\nIf Kashmir was resolved tomorrow, would Pakistan stop confronting India? According to Christina Fair, the answer is a big NO.<br />\n<br />\nFair highlights Pakistan's own military narrative: \"Even after losing the 1971 war and losing half of the country, Pakistan claims it was not defeated and remains the only power capable of challenging India's rise in South Asia.\"<br />\n<br />\nFair argues that Kashmir is only one part of a much larger rivalry. According to her analysis, the core objective is to challenge India's growing power and prevent its rise as a dominant force in South Asia<br />\n<br />\nCourtesy: <a href=\"https://nitter.net/PeerzadaMoid\" title=\"Moid Peerzada\">@PeerzadaMoid</a></p>\n<a href=\"https://nitter.net/OsintTV/status/2079409278826479642#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079409054145806336%2Fimg%2FCcaRaf0pU01FxLzV.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "A Pakistani intruder was apprehended by the BSF in the Khour sector, Jammu.",
@@ -992,6 +1031,16 @@
       "author": "@DefenceSphere"
     },
     {
+      "title": "RT by @OsintTV: Aur kitna Lahori churan bechoge? The message from Maryam Aurangzeb to PoJK is loud and clear: if you don\u2019t vote for the PMLN, don't expect any development. This blatant bias proves that PMLN\u2019s priority begins and ends in Punjab, the very same mentality fueling the turmoil in Balochistan, KPK, and other parts of Pakistan.",
+      "link": "https://nitter.net/OsintTV/status/2079259897062187290#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-20T23:09:24+05:30",
+      "time": "20 Jul, 11:09 PM",
+      "type": "tweets",
+      "content": "<p>Aur kitna Lahori churan bechoge? <br />\n<br />\nThe message from Maryam Aurangzeb to PoJK is loud and clear: if you don\u2019t vote for the PMLN, don't expect any development. This blatant bias proves that PMLN\u2019s priority begins and ends in Punjab, the very same mentality fueling the turmoil in Balochistan, KPK, and other parts of Pakistan.</p>\n<a href=\"https://nitter.net/OsintTV/status/2079259897062187290#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079259836974256128%2Fimg%2FER9RU0wq7DSSV3gt.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
       "title": "Around 50 police personnel were reportedly injured today, some critically. A roughly similar number of civilians were also injured. I have a few requests for Delhi Police, the Home Ministry, and other concerned agencies: \u2022 Identify those involved who were not students. The agencies have the tools to do this quickly. Please exercise restraint with genuine students and avoid indiscriminate cases against them. \u2022 Anyone associated with political parties who participated in unlawful activity should be identified and prosecuted strictly according to law. \u2022 Publish an official, verified tally of injuries, arrests, and detentions. There is already a massive wave of propaganda and conflicting claims.",
       "link": "https://nitter.net/elitepredatorss/status/2079255171826372832#m",
       "source": "Elite Predators",
@@ -1042,6 +1091,16 @@
       "author": "@Goreunit"
     },
     {
+      "title": "RT by @OsintTV: Kanyakumari to Kashmir. 5,000 km. \ud83c\uddee\ud83c\uddf3 Sufiya Sufi dedicates her extraordinary run across India to the brave Indian Armed Forces. Salute to her determination and patriotism. Jai Hind.",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2079180886881550546#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-20T17:55:27+05:30",
+      "time": "20 Jul, 05:55 PM",
+      "type": "tweets",
+      "content": "<p>Kanyakumari to Kashmir. 5,000 km. \ud83c\uddee\ud83c\uddf3<br />\n<br />\nSufiya Sufi dedicates her extraordinary run across India to the brave Indian Armed Forces.<br />\n<br />\nSalute to her determination and patriotism. Jai Hind.</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2079180886881550546#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079180607385370624%2Fimg%2FiD23UWQj4LKhWnqT.jpg\" />\n</a>",
+      "author": "@MikeLimaBravo12"
+    },
+    {
       "title": "Those who thought ballistic missiles aren\u2019t accurate. New satellite imagery reveals Iran's missile strike on Muwaffaq al-Salti Air Base in Jordan was larger and more precise Sat images analyzed by @EGYOSINT \u27a1\ufe0f Several additional aircraft hangars confirmed destroyed in the strike. \u27a1\ufe0f At least 3\u20134 hangars used to house US MQ-9 drones were destroyed. \u27a1\ufe0f US troop barracks were struck, with the imagery indicating American soldiers were killed.",
       "link": "https://nitter.net/alpha_defense/status/2079177817573724458#m",
       "source": "Alpha Defense",
@@ -1070,6 +1129,16 @@
       "type": "tweets",
       "content": "<p>Yes, dependence on the Israeli OEM for certain radar modes is a legitimate concern, and ideally the aircraft should have received the Uttam AESA from the outset. However, Uttam is planned for Batch 2, where it is also expected to feature GaN technology. Hopefully, once Virupaksha matures, we will see a GaN-based \u201csteering\u201d AESA transition for the Tejas Mk2 production standard as well.<br />\n<br />\nThat said, taunts like \u201changar beauty\u201d should be taken on the chin. Manufacturing and capability development is difficult to process for those who aren\u2019t associated with the domain. Let the import bahadurs win today\u2019s narrative so India can win more important war of Atmanirbharta.<br />\n<br />\nA year from now, the picture will likely look very different.</p>\n<img src=\"https://nitter.net/pic/media%2FHNq24OIasAASNRH.jpg\" />",
       "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @OsintTV: \ud83d\udea8 Breaking News A report circulating from Pakistan claims that on July 8, a Pakistani Army convoy traveling from Balochistan carrying 250 soldiers was ambushed, allegedly resulting in 106 casualties, with 14 additional casualties reported later. The report further alleges that these casualty figures were withheld from the public and media, and were never officially disclosed as face saving. Source: Claims made by Shehbaz Gill. These claims have not been independently verified, and there has been no official confirmation of these figures.",
+      "link": "https://nitter.net/Drishti_K47/status/2079166444458365310#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-20T16:58:04+05:30",
+      "time": "20 Jul, 04:58 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Breaking News<br />\n<br />\nA report circulating from Pakistan claims that on July 8, a Pakistani Army convoy traveling from Balochistan carrying 250 soldiers was ambushed, allegedly resulting in 106 casualties, with 14 additional casualties reported later.<br />\n<br />\nThe report further alleges that these casualty figures were withheld from the public and media, and were never officially disclosed as face saving.<br />\n<br />\nSource: Claims made by Shehbaz Gill. These claims have not been independently verified, and there has been no official confirmation of these figures.</p>\n<a href=\"https://nitter.net/Drishti_K47/status/2079166444458365310#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079166222890147840%2Fimg%2F7wvfKjyDKTQoUe9j.jpg\" />\n</a>",
+      "author": "@Drishti_K47"
     },
     {
       "title": "Multiple Delhi police personnel injured including SI rank officer when the protestors started pelting stones.",
@@ -1170,6 +1239,16 @@
       "type": "tweets",
       "content": "<p>Jantar Mantar protests New Delhi <br />\n<br />\nLathi charge on CJP protestors by RPF</p>\n<a href=\"https://nitter.net/Goreunit/status/2079083939927654595#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079083918553497601%2Fimg%2FEpiUkZttozszH01E.jpg\" />\n</a>",
       "author": "@Goreunit"
+    },
+    {
+      "title": "Welcome to the future, Pakistani style. The world is building flying ICUs. Karachi's mayor is launching a cycle ambulance. Only in Pakistan.",
+      "link": "https://nitter.net/OsintTV/status/2079064686125842560#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-20T10:13:42+05:30",
+      "time": "20 Jul, 10:13 AM",
+      "type": "tweets",
+      "content": "<p>Welcome to the future, Pakistani style.<br />\n<br />\nThe world is building flying ICUs. Karachi's mayor is launching a cycle ambulance.<br />\n<br />\nOnly in Pakistan.</p>\n<a href=\"https://nitter.net/OsintTV/status/2079064686125842560#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079064587912073216%2Fimg%2FgOXHhU6sUQVRHLkE.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "The Indian Air Force has issued a Request for Information (RFI) under the Make in India initiative for the procurement of Man-Portable Loitering Munitions. The system is expected to feature a minimum range of 40 km, endurance exceeding 2 hours, and the capability to carry HE/HEAT warheads, enhancing precision strike capabilities. \ud83d\udcf8 For Representation",
@@ -1294,6 +1373,15 @@
   ],
   "youtube": [
     {
+      "title": "World's Most Advanced FICV?,Indian Doomsday Plane,Tejas Mk1A Finally Back on Track,Pak New Submarine",
+      "link": "https://www.youtube.com/watch?v=sJlUkl6exQE",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-21T21:30:01+05:30",
+      "time": "21 Jul, 09:30 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/sJlUkl6exQE/mqdefault.jpg"
+    },
+    {
       "title": "Indian Defence Updates : IAF Doomsday Plane,Saudi Astra Order,AMCA Stealthy Skin,Tejas Mk2 Boost",
       "link": "https://www.youtube.com/watch?v=KDlwjtHkftE",
       "source": "Indian Defence Updates",
@@ -1328,27 +1416,9 @@
       "time": "20 Jul, 04:50 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/6IeCfzrF2IY/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Iran Strike US Base, China New Drone Carrier, BSF Fencing Near Bangladesh",
-      "link": "https://www.youtube.com/watch?v=fga301LCdJo",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-19T22:07:31+05:30",
-      "time": "19 Jul, 10:07 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/fga301LCdJo/mqdefault.jpg"
-    },
-    {
-      "title": "No More Dogfights? Indian Air Force's Biggest Future Plan,Laser Weapon In INS Kolkatta,Ai-Drones",
-      "link": "https://www.youtube.com/watch?v=LHvu4h26qf0",
-      "source": "Indian Defense News",
-      "sort_key": "2026-07-19T22:00:06+05:30",
-      "time": "19 Jul, 10:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/LHvu4h26qf0/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
