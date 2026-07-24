@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "India slams Pakistan at UNSC over remarks on Jammu and Kashmir",
+      "link": "https://newsonair.gov.in/india-slams-pakistan-at-unsc-over-remarks-on-jammu-and-kashmir/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-24T12:53:56+05:30",
+      "time": "24 Jul, 12:53 PM",
+      "type": "news",
+      "description": "India has strongly criticised Pakistan at the United Nations Security Council (UNSC), accusing it of systematically suppressing the rights of people i..."
+    },
+    {
       "title": "DRDO Successfully Tests Long-Range Air Defence Missile System 'Kusha'",
       "link": "https://www.deccanchronicle.com/nation/drdo-successfully-tests-long-range-air-defence-missile-system-kusha-1973518",
       "source": "Deccan Chronicle",
@@ -80,33 +89,6 @@
       "time": "24 Jul, 09:05 AM",
       "type": "news",
       "description": "The US military carried out a 13th consecutive night of strikes on Iran, saying the attacks are aimed at degrading Tehran&#8217;s ability to threaten ..."
-    },
-    {
-      "title": "US military launches new strikes on Iran as clashes escalate over shipping routes",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/24/us-military-launches-new-strikes-on-iran-as-clashes-escalate-over-shipping-routes-2",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-24T08:55:38+05:30",
-      "time": "24 Jul, 08:55 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "214 anti-poaching camps, 1,000 security personnel to protect STR in monsoon",
-      "link": "https://www.newindianexpress.com/states/odisha/2026/Jul/24/214-anti-poaching-camps-1000-security-personnel-to-protect-str-in-monsoon",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-24T08:47:19+05:30",
-      "time": "24 Jul, 08:47 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Terrorists\u2019 houses razed after killing of Kashmir cop, 2.5k suspects held",
-      "link": "https://www.newindianexpress.com/india/2026/Jul/24/terrorists-houses-razed-after-killing-of-kashmir-cop-25k-suspects-held",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-24T08:39:47+05:30",
-      "time": "24 Jul, 08:39 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "India and Romania sign three agreements in the fields of Science and Technology, Education and Sports",
@@ -451,15 +433,6 @@
       "description": "The US House of Representatives today passed a record 1.15 trillion US dollars defence policy bill that includes a plan to strengthen military integra..."
     },
     {
-      "title": "US launches 12th consecutive night of strikes against Iran as both sides continue to target civilian infrastructure",
-      "link": "https://newsonair.gov.in/us-launches-12th-consecutive-night-of-strikes-against-iran-as-both-sides-continue-to-target-civilian-infrastructure/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-23T11:22:53+05:30",
-      "time": "23 Jul, 11:22 AM",
-      "type": "news",
-      "description": "The US military carried out 12th consecutive night of strikes against Iran as both sides increasingly targeted civilian infrastructure. \u00a0 US Central C..."
-    },
-    {
       "title": "Airbus elevates hybrid-electric integration with LEIA Project",
       "link": "https://www.indiastrategic.in/airbus-elevates-hybrid-electric-integration-with-leia-project/",
       "source": "India Strategic",
@@ -512,15 +485,6 @@
       "time": "23 Jul, 08:18 AM",
       "type": "news",
       "description": "Adani Defence Systems and Technologies Ltd (ADSTL) has been selected as the Development-cum-Production Partner (DcPP) for the mission systems of the A..."
-    },
-    {
-      "title": "CJP protest LIVE: CJP calls for nationwide protest on Friday; security tightened",
-      "link": "https://www.tribuneindia.com/delhi/cjp-protest-16-delhi-metro-stations-closed-due-to-security-reasons",
-      "source": "The Tribune",
-      "sort_key": "2026-07-23T08:15:56+05:30",
-      "time": "23 Jul, 08:15 AM",
-      "type": "news",
-      "description": "The Cockroach Janta Party (CJP) on Thursday gave a nationwide call for peaceful protests on July 24 and urged people to hold demonstrations in every d..."
     },
     {
       "title": "STRATA, Embraer sign pact to explore composite aerostructures collaboration",
@@ -746,63 +710,59 @@
       "time": "22 Jul, 01:30 PM",
       "type": "news",
       "description": "Brokerage firm JM Financial noted in an update that news sources suggest Data Patterns\u2019 bid value stands at \u20b91,298.3 crore (around \u20b91,300 crore) for t..."
-    },
-    {
-      "title": "Future wars cannot be fought by individual services: Air Chief Marshal A P Singh",
-      "link": "https://economictimes.indiatimes.com/news/defence/future-wars-cannot-be-fought-by-individual-services-air-chief-marshal-a-p-singh/articleshow/132554049.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-22T13:21:53+05:30",
-      "time": "22 Jul, 01:21 PM",
-      "type": "news",
-      "description": "To navigate the complexities of future conflicts, military services must work cohesively for the nation to thrive. The Indian Air Force's commitment t..."
-    },
-    {
-      "title": "Bharat Forge, Flying Whales team up to build heavy-lift airships in India",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/bharat-forge-flying-whales-team-up-to-build-heavy-lift-airships-in-india/132554030",
-      "source": "Economic Times",
-      "sort_key": "2026-07-22T13:16:49+05:30",
-      "time": "22 Jul, 01:16 PM",
-      "type": "news",
-      "description": "The partnership will localise production of the LCA60T airship in India to support defence logistics, ISR, disaster response and exports."
-    },
-    {
-      "title": "Why Pakistan is asking the US for a $10-billion lifeline after its Iran diplomacy",
-      "link": "https://indianexpress.com/article/world/pakistan-seeks-10-billion-us-fund-iran-talks-10797931/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-22T13:10:19+05:30",
-      "time": "22 Jul, 01:10 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "INS Malvan's 80% indigenous content boosts Atmanirbhar Bharat: Air Chief Marshal AP Singh",
-      "link": "https://economictimes.indiatimes.com/news/defence/ins-malvans-80-indigenous-content-boosts-atmanirbhar-bharat-air-chief-marshal-ap-singh/videoshow/132553433.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-22T12:50:40+05:30",
-      "time": "22 Jul, 12:50 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Mykhailo Drapatyi, battle-hardened general, becomes war-torn Ukraine's new military chief",
-      "link": "https://economictimes.indiatimes.com/news/defence/mykhailo-drapatyi-battle-hardened-general-becomes-war-torn-ukraines-new-military-chief/articleshow/132553137.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-22T12:39:51+05:30",
-      "time": "22 Jul, 12:39 PM",
-      "type": "news",
-      "description": "Ukraine has appointed Mykhailo Drapatyi as the new commander-in-chief of its armed forces following significant dissatisfaction with the former leader..."
-    },
-    {
-      "title": "Apollo Micro Systems gets Indian Navy order for underwater warfare prototype",
-      "link": "https://economictimes.indiatimes.com/news/defence/apollo-micro-systems-gets-indian-navy-order-for-underwater-warfare-prototype/articleshow/132552961.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-22T12:24:47+05:30",
-      "time": "22 Jul, 12:24 PM",
-      "type": "news",
-      "description": "Apollo Micro Systems has secured a crucial contract with the Indian Navy for a cutting-edge autonomous maritime platform. This unmanned vessel will un..."
     }
   ],
   "tweets": [
+    {
+      "title": "MeA MoS Kirti Vardhan Singh at SCO FMs meet in Kyrgystan",
+      "link": "https://nitter.net/sidhant/status/2080559408149581956#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-24T13:13:12+05:30",
+      "time": "24 Jul, 01:13 PM",
+      "type": "tweets",
+      "content": "<p>MeA MoS Kirti Vardhan Singh at SCO FMs meet in Kyrgystan</p>\n<img src=\"https://nitter.net/pic/media%2FHN-hvBzaMAAlQ0D.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Let us make BRICS not only an engine of economic growth, but also a global model in disaster prevention, protection of critical infrastructure, and safeguarding human lives, says Iran interior minister Dr. Eskandar Momeni at BRICS interior minister meet in Delhi",
+      "link": "https://nitter.net/sidhant/status/2080559188267462666#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-24T13:12:20+05:30",
+      "time": "24 Jul, 01:12 PM",
+      "type": "tweets",
+      "content": "<p>Let us make BRICS not only an engine of economic growth, but also a global model in disaster prevention, protection of critical infrastructure, and safeguarding human lives, says Iran interior minister Dr. Eskandar Momeni at BRICS interior minister meet in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2080559188267462666#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080559123356377088%2Fimg%2F8okzFQYwCWAYhfU2.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"Aggression against territory of the Islamic Republic of Iran, the violation of the country's integrity... are a clear manifestation of disregard for all international documents, including the United Nations Charter\", says Iran interior minister Dr. Eskandar Momeni",
+      "link": "https://nitter.net/sidhant/status/2080558705691775252#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-24T13:10:25+05:30",
+      "time": "24 Jul, 01:10 PM",
+      "type": "tweets",
+      "content": "<p>\"Aggression against territory of the Islamic Republic of Iran, the violation of the country's integrity... are a clear manifestation of disregard for all international documents, including the United Nations Charter\", says Iran interior minister Dr. Eskandar Momeni</p>\n<img src=\"https://nitter.net/pic/media%2FHN-hHEwbUAAdBdF.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "I have been in this game for far too long to understand when things are not normal. As rightly pointed out by @achinamayya. Meta will restore the feed now because they knew their chance of brewing a revolution is now over. You can't convince me that they have not tempered the algorithm. But this should not go unanswered. @AshwiniVaishnaw @AmitShah You guys can start with a report proving feed manipulation and drag these Meta guys to court. It leads to multiple levers, including a few in the upcoming data centre in Gujarat.",
+      "link": "https://nitter.net/elitepredatorss/status/2080555976676262313#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-24T12:59:34+05:30",
+      "time": "24 Jul, 12:59 PM",
+      "type": "tweets",
+      "content": "<p>I have been in this game for far too long to understand when things are not normal. As rightly pointed out by <a href=\"https://nitter.net/achinamayya\" title=\"Achina\">@achinamayya</a>.<br />\n<br />\nMeta will restore the feed now because they knew their chance of brewing a revolution is now over. You can't convince me that they have not tempered the algorithm.<br />\n<br />\nBut this should not go unanswered. <a href=\"https://nitter.net/AshwiniVaishnaw\" title=\"Ashwini Vaishnaw\">@AshwiniVaishnaw</a> <a href=\"https://nitter.net/AmitShah\" title=\"Amit Shah\">@AmitShah</a> <br />\n<br />\nYou guys can start with a report proving feed manipulation and drag these Meta guys to court. It leads to multiple levers, including a few in the upcoming data centre in Gujarat.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2080555976676262313#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080554081232490496%2Fimg%2FhoJOD99V6wU4gvDv.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Someone from the government needs to sit down with Meta for better transparency in how the platform is responding to certain things.<br />\n<br />\nIt is abnormal. I understand people's sentiment overflowing from the past few hours, but something is really off.<br />\n<br />\nI did a quick background check on their key executives; very interesting appointments by Meta for their content policy and public policy executives.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2079446274550497650#m\">https://nitter.net/elitepredatorss/status/2079446274550497650#m</a>\n</footer>\n</blockquote>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "NSG at Jagannath Temple",
+      "link": "https://nitter.net/Goreunit/status/2080546736196485532#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-24T12:22:51+05:30",
+      "time": "24 Jul, 12:22 PM",
+      "type": "tweets",
+      "content": "<p>NSG at Jagannath Temple</p>\n<img src=\"https://nitter.net/pic/media%2FHN-WOFjawAEGfgm.jpg\" />",
+      "author": "@Goreunit"
+    },
     {
       "title": "Delhi Police Mobile Command & Control vehicle ! Mistral is the company which manufactures such specialized vehicles. Very basic setup though !",
       "link": "https://nitter.net/elitepredatorss/status/2080529455119036809#m",
@@ -1084,16 +1044,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @OsintTV: More strict actions against paper leaks to come in tomorrow\u2019s Cabinet!",
-      "link": "https://nitter.net/narendramodi/status/2080357811662492096#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T23:52:08+05:30",
-      "time": "23 Jul, 11:52 PM",
-      "type": "tweets",
-      "content": "<p>More strict actions against paper leaks to come in tomorrow\u2019s Cabinet!</p>\n<a href=\"https://nitter.net/narendramodi/status/2080357811662492096#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080356781184917504%2Fimg%2FpsFhIvIwrAcY1cnJ.jpg\" />\n</a>",
-      "author": "@narendramodi"
-    },
-    {
       "title": "R to @elitepredatorss: Marked community notes on my post helpful, my bad I missed these guys \ud83d\ude05",
       "link": "https://nitter.net/elitepredatorss/status/2080350748697936266#m",
       "source": "Elite Predators",
@@ -1132,16 +1082,6 @@
       "type": "tweets",
       "content": "<p>USTR Jamison Greer will make an announcement on tariffs issue later today</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Temporary 10% global US tariff (Section 122 surcharge) is set to expire tomm. Without replacement measures, many exports would face only standard Most Favored Nation (MFN) tariffs, though US could roll out new tariff regime.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2080207023279620575#m\">https://nitter.net/sidhant/status/2080207023279620575#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
-    },
-    {
-      "title": "\ud83d\udea8\ud83c\uddf5\ud83c\uddf0\ud83e\ude96\ud83d\udca5 Just In: Explosion followed by heavy gunfire has been reported during a coordinated attack on a joint Army and Police checkpost in Manjhi, Dera Ismail Khan, KP Pakistan. Local sources indicate a VBIED strike. The TTP has claimed responsibility, stating it launched a large scale assault on the checkpost. Further details are awaited.",
-      "link": "https://nitter.net/OsintTV/status/2080339538929647971#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T22:39:31+05:30",
-      "time": "23 Jul, 10:39 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8\ud83c\uddf5\ud83c\uddf0\ud83e\ude96\ud83d\udca5 Just In:<br />\n<br />\nExplosion followed by heavy gunfire has been reported during a coordinated attack on a joint Army and Police checkpost in Manjhi, Dera Ismail Khan, KP Pakistan.<br />\n<br />\nLocal sources indicate a VBIED strike. The TTP has claimed responsibility, stating it launched a large scale assault on the checkpost.<br />\n<br />\nFurther details are awaited.</p>",
-      "author": "@OsintTV"
     },
     {
       "title": "\"While at Jantar Mantar the protests remain peaceful I\u2019m pained to learn that elsewhere some antisocial elements are taking advantage of the peaceful protests to provoke violence. No matter what the other side does our response must only be flowers. Please keep this tradition at all costs.\" -SONAM WANGCHUK LATEST STATEMENT.",
@@ -1272,16 +1212,6 @@
       "type": "tweets",
       "content": "<p>The first 350kg thrust-class Expendable Turbojet Engine, designed by DRDO's GTRE and manufactured by <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AzadEngineering\">#AzadEngineering</a>, has bn successfully deliverd.<br />\nThe achievement reflects the growing maturity of India's aerospace industry in one of the world's most complex engineering domains.</p>\n<img src=\"https://nitter.net/pic/media%2FHN7GdiYbYAEexc7.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "India invites Bangladesh PM Tarique Rahman to BRICS Summit Reporting: https://www.wionews.com/india-news/india-invites-bangladesh-pm-tarique-rahman-to-brics-summit-1784816990980",
-      "link": "https://nitter.net/sidhant/status/2080317971382321512#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-23T21:13:49+05:30",
-      "time": "23 Jul, 09:13 PM",
-      "type": "tweets",
-      "content": "<p>India invites Bangladesh PM Tarique Rahman to BRICS Summit<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/india-invites-bangladesh-pm-tarique-rahman-to-brics-summit-1784816990980\">wionews.com/india-news/india\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/india-invites-bangladesh-pm-tarique-rahman-to-brics-summit-1784816990980\">\n<img src=\"https://nitter.net/pic/card_img%2F2080305228629610496%2F7kk-Gqja%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India invites Bangladesh PM Tarique Rahman to BRICS Summit</b>\n</a>\n<p>Prime Minister Narendra Modi has invited Bangladesh Prime Minister Tarique Rahman to attend the 18th BRICS Summit in New Delhi, signalling India&apos;s efforts to strengthen ties with Dhaka through...</p>\n<small><a href=\"https://www.wionews.com/india-news/india-invites-bangladesh-pm-tarique-rahman-to-brics-summit-1784816990980\">wionews.com</a></small>",
-      "author": "@sidhant"
     },
     {
       "title": "Another gust of fresh air !",
@@ -1424,16 +1354,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Pakistan's terror infrastructure never disappears. It simply changes its face. Senior Lashkar-E-Taiba/ PMML leaders, Chaudhry Shafiq ur Rehman Warraich, Yasir Arif Butt, and Inam ur Rehman Kamboh, met former PoJK PM Sardar Tanveer Ilyas to offer condolences after the attack on his convoy that killed his former SSG commando and personal security guard, Muhammad Asif. When the political face of Lashkar e Taiba openly meets a former PoJK PM, Pakistan still expects the world to believe its terror networks have been dismantled.",
-      "link": "https://nitter.net/OsintTV/status/2080265140302127354#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T17:43:53+05:30",
-      "time": "23 Jul, 05:43 PM",
-      "type": "tweets",
-      "content": "<p>Pakistan's terror infrastructure never disappears. It simply changes its face.<br />\n<br />\nSenior Lashkar-E-Taiba/ PMML leaders, Chaudhry Shafiq ur Rehman Warraich, Yasir Arif Butt, and Inam ur Rehman Kamboh, met former PoJK PM Sardar Tanveer Ilyas to offer condolences after the attack on his convoy that killed his former SSG commando and personal security guard, Muhammad Asif.<br />\n<br />\nWhen the political face of Lashkar e Taiba openly meets a former PoJK PM, Pakistan still expects the world to believe its terror networks have been dismantled.</p>\n<a href=\"https://nitter.net/OsintTV/status/2080265140302127354#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080264935905361920%2Fimg%2FZkoUTgWsi_hhxM5x.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "RT by @NetramDefence: Early this morning, explosions were reported at the Iranian Navy\u2019s Second Naval District (Velayat), and at Shohadaye 7 Azar Airport in the southern Iranian port city of Jask. Dark smoke rose over the area, which occurred ~5:10 am local time.",
       "link": "https://nitter.net/Globalwatchh/status/2080264680246071648#m",
       "source": "Netram Defense",
@@ -1524,16 +1444,6 @@
       "author": "@MythbusterXX"
     },
     {
-      "title": "So the price tag of this performance: $10 billion....",
-      "link": "https://nitter.net/OsintTV/status/2080191157544300602#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T12:49:54+05:30",
-      "time": "23 Jul, 12:49 PM",
-      "type": "tweets",
-      "content": "<p>So the price tag of this performance: $10 billion....</p>\n<a href=\"https://nitter.net/OsintTV/status/2080191157544300602#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080191090427064320%2Fimg%2F07XIlPj9sqijb5jr.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "RT by @NetramDefence: Historic Moment for Indian Fencing! \ud83c\uddee\ud83c\uddf3\ud83e\udd3a In a landmark achievement for Indian sport, #IndianNavy's Taniksha Khatri, CPO and Prachi Lohan, PO, have become the first-ever Indian women \u00c9p\u00e9e fencers to reach the prestigious Main Table of 64 at the Senior World Fencing Championships in Hong Kong. Reaching the Table of 64 (Direct Elimination Round) against the world's elite marks an unprecedented milestone for the Nation and the Navy. Our best wishes to both fencers for the next round! #Fencing #WorldChampionships #WomenInSports @DefenceMinIndia @IndiaSports",
       "link": "https://nitter.net/indiannavy/status/2080175022652752268#m",
       "source": "Netram Defense",
@@ -1574,16 +1484,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @OsintTV: J&K Police Zindabad! \ud83c\uddee\ud83c\uddf3 A force built on courage, duty, and sacrifice. The nation stands forever indebted to every braveheart of @JmuKmrPolice who laid down their life in the line of duty. Their sacrifice will never be forgotten. Their legacy will always live on.",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2080167077781086285#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T11:14:13+05:30",
-      "time": "23 Jul, 11:14 AM",
-      "type": "tweets",
-      "content": "<p>J&amp;K Police Zindabad! \ud83c\uddee\ud83c\uddf3 <br />\n<br />\nA force built on courage, duty, and sacrifice. The nation stands forever indebted to every braveheart of <a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a> who laid down their life in the line of duty.<br />\n<br />\nTheir sacrifice will never be forgotten. Their legacy will always live on.</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2080167077781086285#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080167003445411840%2Fimg%2F_6W82QaxY6s9bWYj.jpg\" />\n</a>",
-      "author": "@MikeLimaBravo12"
-    },
-    {
       "title": "Systems from GAETEC, DRDO",
       "link": "https://nitter.net/alpha_defense/status/2080153378295050618#m",
       "source": "Alpha Defense",
@@ -1602,16 +1502,6 @@
       "type": "tweets",
       "content": "<p>\ud835\uddd9\ud835\uddfc\ud835\uddff\ud835\uddf4\ud835\uddf2\ud835\uddf1 \ud835\uddf3\ud835\uddff\ud835\uddfc\ud835\uddfa \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\ude00\ud835\uddf5\ud835\uddee\ud835\uddf1\ud835\uddfc\ud835\ude04\ud835\ude00 \ud835\uddfc\ud835\uddf3 \ud835\uddf9\ud835\uddf2\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\uddf1 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddef\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\ude01 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddf1\ud835\uddf2\ud835\uddf0\ud835\uddf6\ud835\ude00\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddee\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb. \ud83c\uddee\ud83c\uddf3\u2693<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%2322Jul\">#22Jul</a> 2026 marked the commissioning of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23INSMalvan\">#INSMalvan</a>, our newest Mahe-class Anti-Submarine Warfare Shallow Water Craft. Bearing a crest inspired by the historic '\ud835\ude3d\ud835\ude56\ud835\ude5c\ud835\ude5d \ud835\ude49\ud835\ude56\ud835\ude60\ud835\ude5d\ud835\ude56' and a motto of \"\ud835\udde6\ud835\uddf6\ud835\uddf9\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd6\ud835\uddf9\ud835\uddee\ud835\ude04\ud835\ude00,\" she stands as a testament to indigenous engineering and the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AatmanirbharBharat\">#AatmanirbharBharat</a> vision.<br />\n<br />\nWatch the inspiring journey of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23INSMalvan\">#INSMalvan</a> from a resolute vision to a lethal reality on the waves, brought to life by the unwavering dedication of her planners, designers, makers, and crew.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianNavy\">#IndianNavy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Aatmanirbhar\">#Aatmanirbhar</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MaritimeSecurity\">#MaritimeSecurity</a></p>\n<a href=\"https://nitter.net/indiannavy/status/2080153211839934661#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080152939453407232%2Fimg%2F37hefCfiWUJGCLcV.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>SpokespersonNavy (@indiannavy)</b>\n<p>\n<p>New incarnation. Historic namesake. <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23INSMalvan\">#INSMalvan</a> returns, carrying forward a distinguished legacy of honour and service.<br />\n<br />\nThe <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianNavy\">#IndianNavy</a> commissioned <a href=\"https://nitter.net/search?f=tweets&amp;q=%23INSMalvan\">#INSMalvan</a>, the second of the indigenous Mahe-class ASW-SWC, at Karwar on 22 Jul 26. <br />\n<br />\nThe ceremony was presided over by Air Chief Marshal AP Singh <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CAS\">#CAS</a> in presence of VAdm Sanjay Vatsayan <a href=\"https://nitter.net/search?f=tweets&amp;q=%23FOCINC\">#FOCINC</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23WNC\">#WNC</a>.<br />\n<br />\nEquipped with cutting-edge sensors and weapons, the ship significantly enhances the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianNavy\">#IndianNavy</a>'s coastal and shallow-water operational capabilities and highlights the continued induction of a new generation of indigenous shallow-water warriors - sleek, swift and proudly Indian.<br />\n<br />\nRead More<br />\n\u2b07\ufe0f<br />\n<a href=\"https://pib.gov.in/PressReleasePage.aspx?PRID=2287788\">pib.gov.in/PressReleasePage.\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23MakeInIndia\">#MakeInIndia</a> <br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23AatmanirbharBharat\">#AatmanirbharBharat</a> <br />\n<br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/IN_WNC\" title=\"Western Naval Command\">@IN_WNC</a><br />\n<a href=\"https://nitter.net/cslcochin\" title=\"Cochin Shipyard Limited\">@cslcochin</a></p>\n<img src=\"https://nitter.net/pic/media%2FHN1LKTnbcAAKD1n.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHN1LPUGaAAApbUw.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHN1LeWhaQAA7HEZ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHN1Lkj3bAAAAcwq.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/indiannavy/status/2079902894879617042#m\">https://nitter.net/indiannavy/status/2079902894879617042#m</a>\n</footer>\n</blockquote>",
       "author": "@indiannavy"
-    },
-    {
-      "title": "Pakistanis often reject the \u201cbeggar\u201d label, but this discussion tells a different story. Anchor: Pakistan has demanded a $10 billion brokerage fee from the US (for brokering a deal between the US and Iran) Guest 1: \u201cBohot, bohot acha kiya Pakistan ne unse maang kar.\u201d I hope Pakistan has no intention of returning this money. This is the least the world owes us. If we ask America today, not just $10 billion, we might get a lot more. We should demand money from other countries too. Guest 2: \u201cAmericans, every bill is accounted for.\u201d People ask, what are we getting in return for this mediation? If we are putting in so much effort, what are we getting back? A mediation role comes with a price tag now. ..\ud83d\ude04 Video Courtesy: Hum news",
-      "link": "https://nitter.net/OsintTV/status/2080149235563999687#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T10:03:19+05:30",
-      "time": "23 Jul, 10:03 AM",
-      "type": "tweets",
-      "content": "<p>Pakistanis often reject the \u201cbeggar\u201d label, but this discussion tells a different story.<br />\n<br />\nAnchor: Pakistan has demanded a $10 billion brokerage fee from the US (for brokering a deal between the US and Iran)<br />\n<br />\nGuest 1: \u201cBohot, bohot acha kiya Pakistan ne unse maang kar.\u201d I hope Pakistan has no intention of returning this money. This is the least the world owes us. If we ask America today, not just $10 billion, we might get a lot more. We should demand money from other countries too.<br />\n<br />\nGuest 2: \u201cAmericans, every bill is accounted for.\u201d People ask, what are we getting in return for this mediation? If we are putting in so much effort, what are we getting back?<br />\n<br />\nA mediation role comes with a price tag now. ..\ud83d\ude04<br />\n<br />\nVideo Courtesy: Hum news</p>\n<a href=\"https://nitter.net/OsintTV/status/2080149235563999687#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080149040918888449%2Fimg%2FIKouAnBblnKKJir6.jpg\" />\n</a>",
-      "author": "@OsintTV"
     },
     {
       "title": "Trials going on for LCA MK-1A 's AESA and IRST for MK2.",
@@ -1672,26 +1562,6 @@
       "type": "tweets",
       "content": "<p>Most police forces in the country are overworked, underequipped, and outnumbered.<br />\n<br />\nDelhi Police is outnumbered when it comes to tackling a protest of 1 lakh+ people, which is now growing every day. The total strength of Delhi Police is around 83,000 personnel, responsible for policing 1,484 square kilometres.<br />\n<br />\nIn peacetime, one Delhi Police personnel is outnumbered by approximately 259 civilians, let alone during a protest of this scale.<br />\n<br />\nA mob tends to develop a mentality to flank and attack when it sees security forces being outnumbered.<br />\n<br />\nTo assert control when outnumbered, they have to use force.<br />\n<br />\nAdditional reinforcement from the CRPF now seems necessary to control the situation, considering that everything is happening in a highly sensitive zone of the country.</p>\n<img src=\"https://nitter.net/pic/media%2FHN3k6ZqaIAAOhrl.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Every sacrifice will be accounted for. Not just the terrorists.... Every handler, every facilitator, every supporter, and every mastermind behind them will be held to account... The blood of our braveheart will not be forgotten. Justice may take time, but it will come... Just wait and watch....",
-      "link": "https://nitter.net/OsintTV/status/2080012630392242274#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T01:00:30+05:30",
-      "time": "23 Jul, 01:00 AM",
-      "type": "tweets",
-      "content": "<p>Every sacrifice will be accounted for.<br />\n<br />\nNot just the terrorists....<br />\n<br />\nEvery handler, every facilitator, every supporter, and every mastermind behind them will be held to account...<br />\n<br />\nThe blood of our braveheart will not be forgotten. Justice may take time, but it will come...<br />\n<br />\nJust wait and watch....</p>\n<img src=\"https://nitter.net/pic/media%2FHN2wZDZWcAANhD1.jpg\" />\n\n<hr />\n<blockquote>\n<b>Zenith Horizons (@Zenithhorizons2)</b>\n<p>\n<p>Another false flag from the Indians to start fight with Pakistan due soon? \ud83e\udd14</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Zenithhorizons2/status/2080009287040991364#m\">https://nitter.net/Zenithhorizons2/status/2080009287040991364#m</a>\n</footer>\n</blockquote>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Leading from the front, DGP J&K Nalin Prabhat IPS reaches the Anantnag attack site to personally oversee the response. A clear message to terrorists and their ISI handlers, every drop of innocent blood will be avenged through relentless operations. There will be no safe haven.",
-      "link": "https://nitter.net/OsintTV/status/2080001968827716079#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T00:18:08+05:30",
-      "time": "23 Jul, 12:18 AM",
-      "type": "tweets",
-      "content": "<p>Leading from the front, DGP J&amp;K Nalin Prabhat IPS reaches the Anantnag attack site to personally oversee the response. A clear message to terrorists and their ISI handlers, every drop of innocent blood will be avenged through relentless operations. There will be no safe haven.</p>\n<img src=\"https://nitter.net/pic/media%2FHN2moWtWwAAX6MJ.jpg\" />",
-      "author": "@OsintTV"
     },
     {
       "title": "Leadership is tested in moments like these. DGP J&K Nalin Prabhat IPS at the attack site. To the terrorists and their ISI sponsors: your cowardice will not intimidate us. It will only accelerate your downfall and the dismantling of your terror network.",
@@ -1804,26 +1674,6 @@
       "author": "@indiannavy"
     },
     {
-      "title": "Pakistan seeks $10 billion fund from US after mediating Iran talks : Reuters",
-      "link": "https://nitter.net/OsintTV/status/2079889753059524723#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-22T16:52:14+05:30",
-      "time": "22 Jul, 04:52 PM",
-      "type": "tweets",
-      "content": "<p>Pakistan seeks $10 billion fund from US after mediating Iran talks : Reuters</p>\n<img src=\"https://nitter.net/pic/media%2FHN1Arm5WcAANIuy.jpg\" />",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT by @OsintTV: TTP has claimed responsibility for the attack and has released images purportedly showing the deceased personnel. The group further states that video footage of the attack will be released soon.",
-      "link": "https://nitter.net/ShadowIND_IN/status/2079872064190874039#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-22T15:41:56+05:30",
-      "time": "22 Jul, 03:41 PM",
-      "type": "tweets",
-      "content": "<p>TTP has claimed responsibility for the attack and has released images purportedly showing the deceased personnel. The group further states that video footage of the attack will be released soon.</p>\n<img src=\"https://nitter.net/pic/media%2FHN0wd6tbUAAWm2l.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHN0wgmAbgAAoyLe.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHN0wit3bQAA7NUI.jpg\" />\n\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>At least three Pakistani soldiers were killed and several critically injured after a bomb disposal squad was targeted in an IED attack in Mamad Gat, Mohmand Dist, KP, Pakistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHN0IASKWgAA6Wri.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHN0IASLWIAAVL21.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2079827454227546133#m\">https://nitter.net/OsintTV/status/2079827454227546133#m</a>\n</footer>\n</blockquote>",
-      "author": "@ShadowIND_IN"
-    },
-    {
       "title": "Anantnag Police Cautions Against Sharing Unauthorised Visuals of Terror Incident, Warns of Strict Action",
       "link": "https://nitter.net/Goreunit/status/2079865868821950892#m",
       "source": "War & Gore",
@@ -1842,70 +1692,101 @@
       "type": "tweets",
       "content": "<p>Anantnag attack:<br />\n<br />\nInjured JKP personnel attained Veergati after succumbing to injuries <br />\n<br />\nOm shanti \ud83e\ude94\ud83d\ude4f\ud83c\udffb</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Anantnag attack:<br />\n<br />\nFirst offensive attack since 22 April 2025</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2079833300622065700#m\">https://nitter.net/Goreunit/status/2079833300622065700#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Anantnag attack: First offensive attack since 22 April 2025",
-      "link": "https://nitter.net/Goreunit/status/2079833300622065700#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-22T13:07:54+05:30",
-      "time": "22 Jul, 01:07 PM",
-      "type": "tweets",
-      "content": "<p>Anantnag attack:<br />\n<br />\nFirst offensive attack since 22 April 2025</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Falcon squad of TRF has taken responsibility of the lone wolf attack in Anantnag J&amp;K</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2079832978419839381#m\">https://nitter.net/Goreunit/status/2079832978419839381#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Falcon squad of TRF has taken responsibility of the lone wolf attack in Anantnag J&K",
-      "link": "https://nitter.net/Goreunit/status/2079832978419839381#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-22T13:06:38+05:30",
-      "time": "22 Jul, 01:06 PM",
-      "type": "tweets",
-      "content": "<p>Falcon squad of TRF has taken responsibility of the lone wolf attack in Anantnag J&amp;K</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Reportedly one JKP personnel injured in Anantnag</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2079830947504267651#m\">https://nitter.net/Goreunit/status/2079830947504267651#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Reportedly one JKP personnel injured in Anantnag",
-      "link": "https://nitter.net/Goreunit/status/2079830947504267651#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-22T12:58:33+05:30",
-      "time": "22 Jul, 12:58 PM",
-      "type": "tweets",
-      "content": "<p>Reportedly one JKP personnel injured in Anantnag</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Big breaking <br />\n<br />\nGunshots heard in Anantnag district of South Kashmir.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2079828644915220723#m\">https://nitter.net/Goreunit/status/2079828644915220723#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Gunshots heard in Anantnag district of South Kashmir : IANS report",
-      "link": "https://nitter.net/OsintTV/status/2079829125720571929#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-22T12:51:19+05:30",
-      "time": "22 Jul, 12:51 PM",
-      "type": "tweets",
-      "content": "<p>Gunshots heard in Anantnag district of South Kashmir : IANS report</p>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Big breaking Gunshots heard in Anantnag district of South Kashmir.",
-      "link": "https://nitter.net/Goreunit/status/2079828644915220723#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-22T12:49:24+05:30",
-      "time": "22 Jul, 12:49 PM",
-      "type": "tweets",
-      "content": "<p>Big breaking <br />\n<br />\nGunshots heard in Anantnag district of South Kashmir.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "At least three Pakistani soldiers were killed and several critically injured after a bomb disposal squad was targeted in an IED attack in Mamad Gat, Mohmand Dist, KP, Pakistan.",
-      "link": "https://nitter.net/OsintTV/status/2079827454227546133#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-22T12:44:41+05:30",
-      "time": "22 Jul, 12:44 PM",
-      "type": "tweets",
-      "content": "<p>At least three Pakistani soldiers were killed and several critically injured after a bomb disposal squad was targeted in an IED attack in Mamad Gat, Mohmand Dist, KP, Pakistan.</p>\n<img src=\"https://nitter.net/pic/media%2FHN0IASKWgAA6Wri.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHN0IASLWIAAVL21.jpg\" />",
-      "author": "@OsintTV"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Lets Solve the \u201cMystery\u201d: M1 or M2",
+      "link": "https://www.youtube.com/watch?v=5JYGPHihxhA",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-07-24T07:30:30+05:30",
+      "time": "24 Jul, 07:30 AM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/5JYGPHihxhA/mqdefault.jpg"
+    },
+    {
+      "title": "DRDO Ka Sabse Bada Surprise! , Duniya Dekhegi Secret Missile , NETRA Mk1 Upgrade | Laser Weapon",
+      "link": "https://www.youtube.com/watch?v=MKE8sBOmc1M",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-23T23:05:28+05:30",
+      "time": "23 Jul, 11:05 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/MKE8sBOmc1M/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - Desi S400 First Test, India Artillery Gun Problem, IAF Next-Gen AWACS",
+      "link": "https://www.youtube.com/watch?v=LsVhtO4YyNg",
+      "source": "Defense Squad",
+      "sort_key": "2026-07-23T22:16:21+05:30",
+      "time": "23 Jul, 10:16 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/LsVhtO4YyNg/mqdefault.jpg"
+    },
+    {
+      "title": "Big: Kusha Air Defence Successful",
+      "link": "https://www.youtube.com/watch?v=FfSzE7t2MnI",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-07-23T20:17:18+05:30",
+      "time": "23 Jul, 08:17 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/FfSzE7t2MnI/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Tejas Mk2 1st Flight,6 Netra Mk2 Signed,10 New MALE Drones,Savior ASW Order",
+      "link": "https://www.youtube.com/watch?v=jfi_q1J_fu4",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-07-23T18:13:21+05:30",
+      "time": "23 Jul, 06:13 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/jfi_q1J_fu4/mqdefault.jpg"
+    },
+    {
+      "title": "Not everything is a conspiracy.",
+      "link": "https://www.youtube.com/shorts/kZTNUhSzv-k",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-23T15:48:25+05:30",
+      "time": "23 Jul, 03:48 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
+    },
+    {
+      "title": "Bharat Ka Secret Quantum Radar!,J-20 Ka Game Khatam?,Tejas Mk2 delay,Kaveri Big reveal.!",
+      "link": "https://www.youtube.com/watch?v=vUtA9kY6mJc",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-22T22:11:06+05:30",
+      "time": "22 Jul, 10:11 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/vUtA9kY6mJc/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - J&K Attack, GE Update On Tejas Engine, No 5th Gen For Pakistan",
+      "link": "https://www.youtube.com/watch?v=ZM7lxCPsHUs",
+      "source": "Defense Squad",
+      "sort_key": "2026-07-22T22:07:37+05:30",
+      "time": "22 Jul, 10:07 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/ZM7lxCPsHUs/mqdefault.jpg"
+    },
+    {
+      "title": "New LCA Mk1A Squadron Loading",
+      "link": "https://www.youtube.com/watch?v=E0ZgxU7wGJc",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-07-22T19:19:07+05:30",
+      "time": "22 Jul, 07:19 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/E0ZgxU7wGJc/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : New Tejas MK1B,EJ-200 Engine Offer,12 Super Sukhoi by 2028,GCAP New Partner",
+      "link": "https://www.youtube.com/watch?v=bxjOWs41SHo",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-07-22T17:45:18+05:30",
+      "time": "22 Jul, 05:45 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/bxjOWs41SHo/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
