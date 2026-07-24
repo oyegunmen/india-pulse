@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Government asks GitHub to remove Bluetooth-based chat app Bitchat over security concerns",
+      "link": "https://www.tribuneindia.com/news/top-headlines/government-asks-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns",
+      "source": "The Tribune",
+      "sort_key": "2026-07-24T22:07:39+05:30",
+      "time": "24 Jul, 10:07 PM",
+      "type": "news",
+      "description": "Bluetooth messaging application Bitchat, extensively used by protesting students during the ongoing NEET paper leak agitation amid internet curbs, was..."
+    },
+    {
+      "title": "India rejects Pakistan's flood claims; says Chenab water rise caused by heavy monsoon rains",
+      "link": "https://www.newindianexpress.com/india/2026/Jul/24/india-rejects-pakistans-flood-claims-says-chenab-water-rise-caused-by-heavy-monsoon-rains",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-24T21:58:11+05:30",
+      "time": "24 Jul, 09:58 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "India committed to create modern, transparent & compatible legal environment, says EAM S Jaishankar",
       "link": "https://newsonair.gov.in/india-committed-to-create-modern-transparent-compatible-legal-environment-says-eam-s-jaishankar/",
       "source": "All India Radio",
@@ -8,6 +26,24 @@
       "time": "24 Jul, 09:19 PM",
       "type": "news",
       "description": "External Affairs Minister Dr S. Jaishankar today emphasized India&#8217;s unwavering commitment to create a modern, transparent and internationally co..."
+    },
+    {
+      "title": "Indian Army, Assam Rifles, Manipur Police apprehend senior United Kuki National Army cadre",
+      "link": "https://economictimes.indiatimes.com/news/defence/indian-army-assam-rifles-manipur-police-apprehend-senior-united-kuki-national-army-cadre/articleshow/132609658.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-24T21:16:39+05:30",
+      "time": "24 Jul, 09:16 PM",
+      "type": "news",
+      "description": "In a major operation, security forces successfully captured a top ranking member of the United Kuki National Army, identified as the Finance Secretary..."
+    },
+    {
+      "title": "\"Hope to continue to build relationships\": MEA reaffirms Saudi strategic ties after NSA Doval's Riyadh visit",
+      "link": "https://economictimes.indiatimes.com/news/defence/hope-to-continue-to-build-relationships-mea-reaffirms-saudi-strategic-ties-after-nsa-dovals-riyadh-visit/articleshow/132609557.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-24T21:10:39+05:30",
+      "time": "24 Jul, 09:10 PM",
+      "type": "news",
+      "description": "India reaffirmed its commitment to strengthening strategic ties with Saudi Arabia. National Security Advisor Ajit Doval recently visited Riyadh for hi..."
     },
     {
       "title": "Farrukh Dhondy | A Stormy Reign Ahead for Andy As \u2018King of the North\u2019 Crowned",
@@ -53,6 +89,15 @@
       "time": "24 Jul, 07:59 PM",
       "type": "news",
       "description": "President Droupadi Murmu met Romanian Prime Minister Ilie Bolojan in Bucharest today and held fruitful discussions on advancing the India-Romania part..."
+    },
+    {
+      "title": "15 security personnel killed, 12 militants dead in suicide attack on Pakistan check post",
+      "link": "https://www.newindianexpress.com/world/2026/Jul/24/15-security-personnel-killed-12-militants-dead-in-suicide-attack-on-pakistan-check-post",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-24T19:57:52+05:30",
+      "time": "24 Jul, 07:57 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "India has the talent. So why do so many still choose to build elsewhere?",
@@ -181,15 +226,6 @@
       "description": "<p>By R Chandrakanth Performance-based agreements for Apache, Chinook and P-8I fleets to boost operational readiness Boeing expands local supply chain..."
     },
     {
-      "title": "Israeli military kills 4 Palestinians after settler killed in West Bank",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/24/israeli-military-kills-4-palestinians-after-settler-killed-in-west-bank",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-24T17:14:44+05:30",
-      "time": "24 Jul, 05:14 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Delhi HC dismisses plea seeking anti-terror probe into July 20 \u2018Sansad Chalo\u2019 protest over NEET leak",
       "link": "https://www.tribuneindia.com/news/delhi/delhi-hc-shuts-down-plea-for-anti-terror-probe-into-july-20-sansad-chalo-protest-over-neet-leak",
       "source": "The Tribune",
@@ -206,15 +242,6 @@
       "time": "24 Jul, 04:09 PM",
       "type": "news",
       "description": "In its notice, I4C said that the app enables communication even during network restrictions and creates a substantial risk of misuse by anti-national ..."
-    },
-    {
-      "title": "India, Pakistan get direct quarterfinal entry in Asian Games cricket draw",
-      "link": "https://www.newindianexpress.com/sport/2026/Jul/24/india-pakistan-get-direct-quarterfinal-entry-in-asian-games-cricket-draw-2",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-24T15:28:42+05:30",
-      "time": "24 Jul, 03:28 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "DRDO conducts maiden flight-test of Kusha long-range air defence missile",
@@ -665,36 +692,19 @@
       "time": "22 Jul, 11:30 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Zen Technologies bags \u20b9177.5 crore MoD order for integrated T-90 crew training simulator",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/zen-technologies-bags-177-5-crore-mod-order-for-integrated-t-90-crew-training-simulator/132563563",
-      "source": "Economic Times",
-      "sort_key": "2026-07-22T22:06:03+05:30",
-      "time": "22 Jul, 10:06 PM",
-      "type": "news",
-      "description": "The order covers the upgrade and integration of T-90 driving and crew gunnery simulators into India&#039;s first integrated virtual training platform ..."
-    },
-    {
-      "title": "DRDO partners with AIESL, Adani Defence for new surveillance aircraft",
-      "link": "https://economictimes.indiatimes.com/news/defence/drdo-partners-with-aiesl-adani-defence-for-new-surveillance-aircraft/articleshow/132562887.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-22T21:38:36+05:30",
-      "time": "22 Jul, 09:38 PM",
-      "type": "news",
-      "description": "The DRDO signed agreements for converting six A321 aircraft to a green configuration. This conversion will support the development and production of t..."
-    },
-    {
-      "title": "HAL, French major Safran sign contract for engine turbine forgings",
-      "link": "https://economictimes.indiatimes.com/news/defence/hal-french-major-safran-sign-contract-for-engine-turbine-forgings/articleshow/132562528.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-22T21:25:06+05:30",
-      "time": "22 Jul, 09:25 PM",
-      "type": "news",
-      "description": "Hindustan Aeronautics Limited has signed a long-term agreement with Safran Aircraft Engines.  This pact involves producing and supplying turbine ring ..."
     }
   ],
   "tweets": [
+    {
+      "title": "Breaking: India says one of its national died after an attack on commercial vessel MV OMORFI on 18th July while transiting the Black Sea, reportedly in Russian territorial waters. Indian Mission in Russia has reached out to the relevant authorities",
+      "link": "https://nitter.net/sidhant/status/2080693535515541797#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-24T22:06:10+05:30",
+      "time": "24 Jul, 10:06 PM",
+      "type": "tweets",
+      "content": "<p>Breaking: <br />\n<br />\nIndia says one of its national died after an attack on commercial vessel MV OMORFI on 18th July while transiting the Black Sea, reportedly in Russian territorial waters.<br />\n<br />\nIndian Mission in Russia has reached out to the relevant authorities</p>\n<img src=\"https://nitter.net/pic/media%2FHOAbvXAbAAYLDoO.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Geography often dictates geopolitical destiny of Nations. For India it is Siliguri Corridor, it is mere 22km wide, yet it anchors the economic and strategic fate of 45 million citizens in India's Northeast. It stands as a stark reminder of how critical domestic infrastructure vulnerabilities can intersect directly with complex international frontiers.",
       "link": "https://nitter.net/NetramDefence/status/2080681334608175488#m",
@@ -1016,16 +1026,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Iran's interior minister Momeni urges BRICS to take clear stand against attacks on its territory during Delhi meet Reporting: https://www.wionews.com/world/iran-s-interior-minister-momeni-urges-brics-to-take-clear-stand-against-attacks-on-its-territory-during-delhi-meet-1784884033241",
-      "link": "https://nitter.net/sidhant/status/2080584286298943870#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-24T14:52:03+05:30",
-      "time": "24 Jul, 02:52 PM",
-      "type": "tweets",
-      "content": "<p>Iran's interior minister Momeni urges BRICS to take clear stand against attacks on its territory during Delhi meet<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/world/iran-s-interior-minister-momeni-urges-brics-to-take-clear-stand-against-attacks-on-its-territory-during-delhi-meet-1784884033241\">wionews.com/world/iran-s-int\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/iran-s-interior-minister-momeni-urges-brics-to-take-clear-stand-against-attacks-on-its-territory-during-delhi-meet-1784884033241\">\n<img src=\"https://nitter.net/pic/card_img%2F2080584066857046016%2F40f3DIwC%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Iran&apos;s interior minister Momeni urges BRICS to take clear stand against attacks on its territory...</b>\n</a>\n<p>The remarks come against the backdrop of an ongoing conflict involving Iran that began earlier this year with strikes on Iranian targets by the US and Israel.</p>\n<small><a href=\"https://www.wionews.com/world/iran-s-interior-minister-momeni-urges-brics-to-take-clear-stand-against-attacks-on-its-territory-during-delhi-meet-1784884033241\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Telangana HC Orders Army to Guard Disputed Land In an extraordinary order, the Telangana High Court directed the Indian Army to deploy personnel to protect a 40-acre disputed property after alleging repeated violations of court orders by HYDRAA. Justice Anil Kumar said the court had \"lost faith in the state and its instrumentalities\" and asked the Registrar General to coordinate with the Army for the deployment of 10 personnel. The court also warned that HYDRAA Commissioner A. Ranganath could face custody for alleged repeated contempt of court. The State government has denied the allegations, and the land ownership dispute remains pending before the court.",
       "link": "https://nitter.net/NetramDefence/status/2080581247072686245#m",
       "source": "Netram Defense",
@@ -1336,6 +1336,16 @@
       "author": "@alpha_defense"
     },
     {
+      "title": "RT by @notam_in: Maiden flight-test of \u2018Kusha\u2019 Long-Range Surface-to-Air Missile was successfully conducted from the APJ Abdul Kalam Island off the coast of Odisha today. This test was conducted against an electronic target simulating high-speed and high-altitude aerial threat which was successfully intercepted by the missile system.",
+      "link": "https://nitter.net/DRDO_India/status/2080320592587399172#m",
+      "source": "Notam India",
+      "sort_key": "2026-07-23T21:24:14+05:30",
+      "time": "23 Jul, 09:24 PM",
+      "type": "tweets",
+      "content": "<p>Maiden flight-test of \u2018Kusha\u2019 Long-Range Surface-to-Air Missile was successfully conducted from the APJ Abdul Kalam Island off the coast of Odisha today. This test was conducted against an electronic target simulating high-speed and high-altitude aerial threat which was successfully intercepted by the missile system.</p>\n<a href=\"https://nitter.net/DRDO_India/status/2080320592587399172#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080320549159641089%2Fimg%2FjqDQ9HzXCEnfHrOw.jpg\" />\n</a>",
+      "author": "@DRDO_India"
+    },
+    {
       "title": "DRDO\u2019s GTRE has successfully developed India\u2019s first indigenous Expendable Turbo Jet Engine in the 350 kg thrust class. Manufactured and assembled by industry partner Azad Engineering,",
       "link": "https://nitter.net/alpha_defense/status/2080320581640290439#m",
       "source": "Alpha Defense",
@@ -1634,29 +1644,27 @@
       "type": "tweets",
       "content": "<p>DRDO has partnered with AI Engineering Services Ltd. (AIESL) and Adani Defence Services &amp; Technologies Ltd. (<a href=\"https://nitter.net/search?f=tweets&amp;q=%23ADSTL\">#ADSTL</a>) for the development and production of the AEW&amp;C Mk-II system, marking another milestone in India's journey towards self-reliance in advanced defence technologies.</p>\n<img src=\"https://nitter.net/pic/media%2FHN2N53qbYAAzU0N.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "One more video of Protestors beating Delhi police personnel at Jantar Mantar",
-      "link": "https://nitter.net/Goreunit/status/2079967565456257209#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-22T22:01:26+05:30",
-      "time": "22 Jul, 10:01 PM",
-      "type": "tweets",
-      "content": "<p>One more video of Protestors beating Delhi police personnel at Jantar Mantar</p>\n<a href=\"https://nitter.net/Goreunit/status/2079967565456257209#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079967453732626433%2Fimg%2FaOlMmsrAo31cthUj.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Protestors beat the police personnel again.<br />\n<br />\nLocation - Jantar Mantar <br />\n8:20 PM</p>\n<a href=\"https://nitter.net/Goreunit/status/2079965543508095377#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079965449266302976%2Fimg%2FI93DnTJEu0BqO9wn.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2079965543508095377#m\">https://nitter.net/Goreunit/status/2079965543508095377#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Protestors beat the police personnel again. Location - Jantar Mantar 8:20 PM",
-      "link": "https://nitter.net/Goreunit/status/2079965543508095377#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-22T21:53:24+05:30",
-      "time": "22 Jul, 09:53 PM",
-      "type": "tweets",
-      "content": "<p>Protestors beat the police personnel again.<br />\n<br />\nLocation - Jantar Mantar <br />\n8:20 PM</p>\n<a href=\"https://nitter.net/Goreunit/status/2079965543508095377#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2079965449266302976%2Fimg%2FI93DnTJEu0BqO9wn.jpg\" />\n</a>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
+    {
+      "title": "DRDO Ka Project Kusha S-400 Se Kitna Alag,Su-57 Crash Mystery ,Tejas Mk1A Gets Double Astra Missiles",
+      "link": "https://www.youtube.com/watch?v=TS94XeDQqEc",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-24T22:01:16+05:30",
+      "time": "24 Jul, 10:01 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/TS94XeDQqEc/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - India MALE UAV, Pakistan In CJP Protest, Bhargavastra Anti Drone, M1 Kusha Test",
+      "link": "https://www.youtube.com/watch?v=_9OzPijbIWA",
+      "source": "Defense Squad",
+      "sort_key": "2026-07-24T21:39:51+05:30",
+      "time": "24 Jul, 09:39 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/_9OzPijbIWA/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Su-57 Big Crash,DRDO Kusha Fired,Bhargavastra Unveiled,Netra To Indonesia",
       "link": "https://www.youtube.com/watch?v=G9F14_Z4Qgc",
@@ -1719,27 +1727,9 @@
       "time": "23 Jul, 03:48 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
-    },
-    {
-      "title": "Bharat Ka Secret Quantum Radar!,J-20 Ka Game Khatam?,Tejas Mk2 delay,Kaveri Big reveal.!",
-      "link": "https://www.youtube.com/watch?v=vUtA9kY6mJc",
-      "source": "Indian Defense News",
-      "sort_key": "2026-07-22T22:11:06+05:30",
-      "time": "22 Jul, 10:11 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/vUtA9kY6mJc/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - J&K Attack, GE Update On Tejas Engine, No 5th Gen For Pakistan",
-      "link": "https://www.youtube.com/watch?v=ZM7lxCPsHUs",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-22T22:07:37+05:30",
-      "time": "22 Jul, 10:07 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/ZM7lxCPsHUs/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
