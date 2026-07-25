@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "SpaceX\u2019s giant Starship rocket completes successful test flight, deploys 20 Starlink satellites",
+      "link": "https://newsonair.gov.in/spacexs-giant-starship-rocket-completes-successful-test-flight-deploys-20-starlink-satellites/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-25T13:00:16+05:30",
+      "time": "25 Jul, 01:00 PM",
+      "type": "news",
+      "description": "SpaceX\u2019s giant Starship rocket successfully completed its latest test flight travelling halfway around the world and deploying 20 advanced Starlink sa..."
+    },
+    {
+      "title": "Russian strikes kill 15 in Ukraine, nearly 100 injured",
+      "link": "https://newsonair.gov.in/russian-strikes-kill-15-in-ukraine-nearly-100-injured/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-25T12:52:14+05:30",
+      "time": "25 Jul, 12:52 PM",
+      "type": "news",
+      "description": "At least 15 people have been killed in Russian attacks across Ukraine, and around 100 others were injured in ballistic missile strikes on an exhibitio..."
+    },
+    {
+      "title": "Bihar bandh over NEET protests sees demonstrations across districts, security stepped up",
+      "link": "https://www.newindianexpress.com/states/bihar/2026/Jul/25/bihar-bandh-over-neet-protests-sees-demonstrations-across-districts-security-stepped-up",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-25T12:01:39+05:30",
+      "time": "25 Jul, 12:01 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Severe wildfires in Spain and France force mass evacuations",
       "link": "https://newsonair.gov.in/severe-wildfires-in-spain-and-france-force-mass-evacuations/",
       "source": "All India Radio",
@@ -55,7 +82,7 @@
       "description": "The US has expanded its air campaign against Iran over the past two weeks after a ceasefire collapsed amid renewed fighting over the Strait of Hormuz...."
     },
     {
-      "title": "CJP protest LIVE updates: 18 Delhi Metro stations remain shut for 4th straight day",
+      "title": "CJP protest LIVE updates: &#8216;No point in talking if no resignation&#8217;: CJP hours before 3rd round of talks",
       "link": "https://www.tribuneindia.com/liveblog/delhi/cjp-protest-live-updates-no-deal-with-centre-ended-fast-fearing-crackdown-like-ladakh-says-sonam-wangchuk",
       "source": "The Tribune",
       "sort_key": "2026-07-25T08:02:53+05:30",
@@ -235,15 +262,6 @@
       "description": "<p>Farnborough. State-owned special alloys manufacturer Mishra Dhatu Nigam Limited (MIDHANI) is targeting a significant expansion of its global busine..."
     },
     {
-      "title": "Experts opine, US imposes new tariff on imports to protect domestic manufacturing",
-      "link": "https://newsonair.gov.in/experts-opine-us-imposes-new-tariff-on-imports-to-protect-domestic-manufacturing/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-24T19:45:02+05:30",
-      "time": "24 Jul, 07:45 PM",
-      "type": "news",
-      "description": "The United States has imposed new tariffs of up to 12.5 percent on imports from 60 trading partners, including China, the European Union and the UK. T..."
-    },
-    {
       "title": "HAL Chief Ravi Kota Outlines Roadmap Beyond Tejas Engine Delays",
       "link": "https://www.indiastrategic.in/hal-chief-ravi-kota-outlines-roadmap-beyond-tejas-engine-delays/",
       "source": "India Strategic",
@@ -251,15 +269,6 @@
       "time": "24 Jul, 07:42 PM",
       "type": "news",
       "description": "<p>By R Chandrakanth Farnborough. The delays in the delivery of the Tejas Mk1A have largely been driven by disruptions in the supply of F404 engines f..."
-    },
-    {
-      "title": "Pakistan Human Right Commission raises concern over increasing media restrictions",
-      "link": "https://newsonair.gov.in/pakistan-human-right-commission-raises-concern-over-increasing-media-restrictions/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-24T19:28:32+05:30",
-      "time": "24 Jul, 07:28 PM",
-      "type": "news",
-      "description": "The Human Rights Commission of Pakistan (HRCP) has voiced serious concern over the deteriorating state of freedom of expression in the country, warnin..."
     },
     {
       "title": "General Atomics Expands Its Strategic Vision for India Beyond the MQ-9B",
@@ -611,54 +620,89 @@
       "time": "23 Jul, 01:48 PM",
       "type": "news",
       "description": "The Delhi Police Commissioner received NSA detaining authority powers for three months. This authorisation is a routine quarterly extension, not linke..."
-    },
-    {
-      "title": "2002 Batch IPS Asif Jalal To Head BSF's Sensitive Jammu Frontier",
-      "link": "https://www.republicworld.com/defence/2002-batch-ips-asif-jalal-to-head-bsf-s-sensitive-jammu-frontier-2026-07-23-133197",
-      "source": "Republic World",
-      "sort_key": "2026-07-23T13:17:10+05:30",
-      "time": "23 Jul, 01:17 PM",
-      "type": "news",
-      "description": "Asif Jalal was appointed as Inspector General in Border Security Force in February 2002 by Ministry of Home Affairs (MHA) and his tenure was extended ..."
-    },
-    {
-      "title": "FBI arrests Indian man Harmanveer Singh in California in drug trafficking case",
-      "link": "https://indianexpress.com/article/world/fbi-arrests-indian-national-harmanveer-singh-california-drug-trafficking-10799567/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-23T13:12:22+05:30",
-      "time": "23 Jul, 01:12 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Iran Claims Strikes on US Military Bases in Jordan, Kuwait",
-      "link": "https://www.deccanchronicle.com/world/iran-claims-strikes-on-us-military-bases-in-jordan-kuwait-1973257",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-23T13:12:18+05:30",
-      "time": "23 Jul, 01:12 PM",
-      "type": "news",
-      "description": "Revolutionary Guards say key American defence systems and military facilities were targeted following recent US attacks on Iran."
-    },
-    {
-      "title": "PTC Industries bags DRDO order to design titanium cradle for Indian Light Tank",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/ptc-industries-secures-drdo-contract-to-design-advanced-titanium-cradle-for-indian-light-tank/132574330",
-      "source": "Economic Times",
-      "sort_key": "2026-07-23T12:49:20+05:30",
-      "time": "23 Jul, 12:49 PM",
-      "type": "news",
-      "description": "The order marks a shift beyond build-to-print manufacturing, with PTC to co-develop the critical titanium component for the 105 mm tank."
-    },
-    {
-      "title": "Houses of Two LeT Militants Demolished After Policeman's Killing in Anantnag",
-      "link": "https://www.deccanchronicle.com/nation/houses-of-two-let-militants-demolished-after-policemans-killing-in-anantnag-1973246",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-23T12:46:49+05:30",
-      "time": "23 Jul, 12:46 PM",
-      "type": "news",
-      "description": "Security forces detain over 2,000 suspected militant associates as Valley-wide crackdown intensifies following the terror attack."
     }
   ],
   "tweets": [
+    {
+      "title": "India, Israel hold 2nd round of FTA talks in Delhi",
+      "link": "https://nitter.net/sidhant/status/2080920086978949596#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-25T13:06:25+05:30",
+      "time": "25 Jul, 01:06 PM",
+      "type": "tweets",
+      "content": "<p>India, Israel hold 2nd round of FTA talks in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHODpyalbgAAru5l.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"Incumbent on security forces to ensure rights are protected\", UN reacts to protests in Delhi First reaction by any international body on protests in the Indian national capital",
+      "link": "https://nitter.net/sidhant/status/2080917168729063691#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-25T12:54:49+05:30",
+      "time": "25 Jul, 12:54 PM",
+      "type": "tweets",
+      "content": "<p>\"Incumbent on security forces to ensure rights are protected\", UN reacts to protests in Delhi<br />\n<br />\nFirst reaction by any international body on protests in the Indian national capital</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>BREAKING: UN reacts to protests in Delhi.  <br />\n<br />\nUN Spox St\u00e9phane Dujarric, in response to a question says, \"important that people wishing to protest peacefully be allowed to do so without the fear of harassment, the fear of arrest, or the fear of injury\"</p>\n<a href=\"https://nitter.net/sidhant/status/2080916547460374699#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080916511326380032%2Fimg%2F3Nj-gtO2n0O6o2B6.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2080916547460374699#m\">https://nitter.net/sidhant/status/2080916547460374699#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: Transcript:",
+      "link": "https://nitter.net/sidhant/status/2080916758198911296#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-25T12:53:11+05:30",
+      "time": "25 Jul, 12:53 PM",
+      "type": "tweets",
+      "content": "<p>Transcript:</p>\n<img src=\"https://nitter.net/pic/media%2FHODmwrLaEAE9fKT.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BREAKING: UN reacts to protests in Delhi. UN Spox St\u00e9phane Dujarric, in response to a question says, \"important that people wishing to protest peacefully be allowed to do so without the fear of harassment, the fear of arrest, or the fear of injury\"",
+      "link": "https://nitter.net/sidhant/status/2080916547460374699#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-25T12:52:21+05:30",
+      "time": "25 Jul, 12:52 PM",
+      "type": "tweets",
+      "content": "<p>BREAKING: UN reacts to protests in Delhi.  <br />\n<br />\nUN Spox St\u00e9phane Dujarric, in response to a question says, \"important that people wishing to protest peacefully be allowed to do so without the fear of harassment, the fear of arrest, or the fear of injury\"</p>\n<a href=\"https://nitter.net/sidhant/status/2080916547460374699#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080916511326380032%2Fimg%2F3Nj-gtO2n0O6o2B6.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "ACM AP Singh took to the skies in a MiG-29KUB from INS Vikramaditya during the commissioning of #INSMalvan. The sortie underscored the growing joint ops integration b/w the IAF and the Navy, strengthening interoperability and enhancing India's maritime security capabilities.",
+      "link": "https://nitter.net/DefenceDecode/status/2080913593437159652#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-07-25T12:40:36+05:30",
+      "time": "25 Jul, 12:40 PM",
+      "type": "tweets",
+      "content": "<p>ACM AP Singh took to the skies in a MiG-29KUB from INS Vikramaditya during the commissioning of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23INSMalvan\">#INSMalvan</a>.<br />\n<br />\nThe sortie underscored the growing joint ops integration b/w the IAF and the Navy, strengthening interoperability and enhancing India's maritime security capabilities.</p>\n<img src=\"https://nitter.net/pic/media%2FHODjfUfakAA3-pf.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "DRDO's #DMRL has transferred three advanced steel technologies to SAIL for the production of DMR-249A, DMR-249BK billets and DMR-249B steel plates - critical materials used in the construction of #IndianNavy warships and submarines.",
+      "link": "https://nitter.net/DefenceDecode/status/2080911715357860220#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-07-25T12:33:09+05:30",
+      "time": "25 Jul, 12:33 PM",
+      "type": "tweets",
+      "content": "<p>DRDO's <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DMRL\">#DMRL</a> has transferred three advanced steel technologies to SAIL for the production of DMR-249A, DMR-249BK billets and DMR-249B steel plates - critical materials used in the construction of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianNavy\">#IndianNavy</a> warships and submarines.</p>\n<img src=\"https://nitter.net/pic/media%2FHODiHlpa4AAm6sH.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHODiHllbcAAtQF5.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "A moment that truly touched our hearts. One of our OsintTV followers and well wishers visited the Shri Jagannath Rath Yatra and remembered our channel in his prayers. He sent us this beautiful video captured in front of the divine Jagannath Rath. It is difficult to express what this means to us. Knowing that someone, miles away, took a moment from a sacred journey to pray for OsintTV is deeply humbling. OsintTV is built on the love, trust, and support of our incredible subscribers. Every message, every prayer, and every gesture reminds us that this journey belongs to all of you. Thank you for keeping us in your prayers. Your support gives us strength to continue this mission with sincerity and dedication. \ud83d\ude4f",
+      "link": "https://nitter.net/OsintTV/status/2080911298603196640#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-25T12:31:29+05:30",
+      "time": "25 Jul, 12:31 PM",
+      "type": "tweets",
+      "content": "<p>A moment that truly touched our hearts.<br />\n<br />\nOne of our OsintTV followers and well wishers visited the Shri Jagannath Rath Yatra and remembered our channel in his prayers. He sent us this beautiful video captured in front of the divine Jagannath Rath.<br />\n<br />\nIt is difficult to express what this means to us. Knowing that someone, miles away, took a moment from a sacred journey to pray for OsintTV is deeply humbling.<br />\n<br />\nOsintTV is built on the love, trust, and support of our incredible subscribers. Every message, every prayer, and every gesture reminds us that this journey belongs to all of you.<br />\n<br />\nThank you for keeping us in your prayers. Your support gives us strength to continue this mission with sincerity and dedication. \ud83d\ude4f</p>\n<a href=\"https://nitter.net/OsintTV/status/2080911298603196640#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080911196501192704%2Fimg%2F5xA0havd22sxX6K7.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "The Indian Army rescued 57 people, including women and children, from flood-hit areas of Navsari district, Gujarat, as heavy rainfall continued to inundate parts of South Gujarat. Army rescue teams, working alongside civil authorities and other disaster response agencies, carried out evacuation operations to move stranded residents to safety amid rising floodwaters.",
+      "link": "https://nitter.net/NetramDefence/status/2080910516755820873#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-25T12:28:23+05:30",
+      "time": "25 Jul, 12:28 PM",
+      "type": "tweets",
+      "content": "<p>The Indian Army rescued 57 people, including women and children, from flood-hit areas of Navsari district, Gujarat, as heavy rainfall continued to inundate parts of South Gujarat.<br />\n<br />\nArmy rescue teams, working alongside civil authorities and other disaster response agencies, carried out evacuation operations to move stranded residents to safety amid rising floodwaters.</p>\n<img src=\"https://nitter.net/pic/media%2FHODhEhvbIAEZBxF.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "Behind the scene, earlier last week, conversation with Panama foreign minister Javier Mart\u00ednez-Acha @javierachapma",
       "link": "https://nitter.net/sidhant/status/2080904247067967650#m",
@@ -980,16 +1024,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "R to @sidhant: On Pak Claims on Flooding India statement Pakistani media reports alleging that India is deliberately causing flooding is baseless and contrary to the facts. The recent increase in flows in the River Chenab is a direct consequence of intense monsoon rainfall over Jammu and adjoining catchment areas during 20\u201323 July 2026. Significantly, Pakistan's own Flood Forecasting Division, Lahore, in its Flood Advisory issued on 22 July 2026 (1718 PST), attributed the high flood levels in the River Chenab to heavy rainfall over the upper catchment and stated that high flows at Marala were expected to persist before gradually receding as rainfall over the catchment decreased. The rise in river flows is, therefore, a natural hydrological response to heavy monsoon rainfall and not the result of any deliberate action by India. Attempts to portray a weather-driven flood event as an upstream intervention are factually incorrect, technically untenable, and contradicted by Pakistan's own official flood advisories. As regards allegations relating to flood warnings, the river flows during this period did not reach extraordinary discharge levels requiring the issuance of special flood warnings. The observed flows were consistent with prevailing monsoon conditions over the upper catchments, as acknowledged by Pakistan's own flood forecasting authorities. Any suggestion that India deliberately withheld flood-related information is, therefore, without factual basis. Nevertheless, like last year, India will share high-flood data with Pakistan on humanitarian grounds, through diplomatic channels as and when a situation arises.",
-      "link": "https://nitter.net/sidhant/status/2080635223654703527#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-24T18:14:28+05:30",
-      "time": "24 Jul, 06:14 PM",
-      "type": "tweets",
-      "content": "<p>On Pak Claims on Flooding <br />\n<br />\nIndia statement<br />\n<br />\nPakistani media reports alleging that India is deliberately causing flooding is baseless and contrary to the facts. The recent increase in flows in the River Chenab is a direct consequence of intense monsoon rainfall over Jammu and adjoining catchment areas during 20\u201323 July 2026.<br />\n<br />\nSignificantly, Pakistan's own Flood Forecasting Division, Lahore, in its Flood Advisory issued on 22 July 2026 (1718 PST), attributed the high flood levels in the River Chenab to heavy rainfall over the upper catchment and stated that high flows at Marala were expected to persist before gradually receding as rainfall over the catchment decreased.<br />\n<br />\nThe rise in river flows is, therefore, a natural hydrological response to heavy monsoon rainfall and not the result of any deliberate action by India. Attempts to portray a weather-driven flood event as an upstream intervention are factually incorrect, technically untenable, and contradicted by Pakistan's own official flood advisories.<br />\n<br />\nAs regards allegations relating to flood warnings, the river flows during this period did not reach extraordinary discharge levels requiring the issuance of special flood warnings. The observed flows were consistent with prevailing monsoon conditions over the upper catchments, as acknowledged by Pakistan's own flood forecasting authorities. Any suggestion that India deliberately withheld flood-related information is, therefore, without factual basis.<br />\nNevertheless, like last year, India will share high-flood data with Pakistan on humanitarian grounds, through diplomatic channels as and when a situation arises.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Following the confusion created after Vice Admiral Puri\u2019s remarks, we\u2019ve decided to do the difficult but necessary work through the Astra Kosh Initiative. The goal is to build a comprehensive, collaborative encyclopedia of Indian weapon systems. An organized reference where contributors can add, verify, and refine information over time. The idea is simple: make facts clear, well-documented, and easily accessible so discussions are based on evidence rather than fragmented or conflicting information. Over the coming weeks, I\u2019ll be reaching out to many of you for technical inputs, historical details, and source material. Together, we can build a reliable reference for the entire defence community. Further request to veterans in this field (tagged - Though I don\u2019t like tagging): if a few of you could help guide and mentor this effort (information part - just the guidance what we should refer), it would make the project far stronger and benefit the wider defence community. @sanjeev__kapoor @GauravT71548031 @AnchitGupta9 @shiv_cybersurg @Indrani1_Roy @Firezstarter1 @KesariDhwaj @ReviewVayu @hellfire_81 And then entire DefTwitter : We cannot do anything without your support so will you please help ? As of now we have skeleton in place and information is based on popular belief (without vetting).",
       "link": "https://nitter.net/alpha_defense/status/2080635167140430181#m",
       "source": "Alpha Defense",
@@ -998,46 +1032,6 @@
       "type": "tweets",
       "content": "<p>Following the confusion created after Vice Admiral Puri\u2019s remarks, we\u2019ve decided to do the difficult but necessary work through the Astra Kosh Initiative.<br />\n<br />\nThe goal is to build a comprehensive, collaborative encyclopedia of Indian weapon systems. An organized reference where contributors can add, verify, and refine information over time.<br />\n<br />\nThe idea is simple: make facts clear, well-documented, and easily accessible so discussions are based on evidence rather than fragmented or conflicting information.<br />\n<br />\nOver the coming weeks, I\u2019ll be reaching out to many of you for technical inputs, historical details, and source material. Together, we can build a reliable reference for the entire defence community.<br />\n<br />\nFurther request to veterans in this field (tagged - Though I don\u2019t like tagging): if a few of you could help guide and mentor this effort (information part - just the guidance what we should refer), it would make the project far stronger and benefit the wider defence community.<br />\n<br />\n<a href=\"https://nitter.net/sanjeev__kapoor\" title=\"Sanjeev Kapoor\">@sanjeev__kapoor</a> <a href=\"https://nitter.net/GauravT71548031\" title=\"Gaurav M Tripathi\">@GauravT71548031</a> <a href=\"https://nitter.net/AnchitGupta9\" title=\"Anchit Gupta\">@AnchitGupta9</a> <a href=\"https://nitter.net/shiv_cybersurg\" title=\"shiv_cybersurg\">@shiv_cybersurg</a> <a href=\"https://nitter.net/Indrani1_Roy\" title=\"Indranil Roy\">@Indrani1_Roy</a> <a href=\"https://nitter.net/Firezstarter1\" title=\"Firestarter\">@Firezstarter1</a> <a href=\"https://nitter.net/KesariDhwaj\" title=\"VatsRohit\">@KesariDhwaj</a> <a href=\"https://nitter.net/ReviewVayu\" title=\"Vayu Aerospace Review\">@ReviewVayu</a> <a href=\"https://nitter.net/hellfire_81\" title=\"\ud835\udd73\ud835\udd8a\ud835\udd91\ud835\udd91\ud835\udd8b\ud835\udd8e\ud835\udd97\ud835\udd8a\ud83c\uddee\ud83c\uddf3\">@hellfire_81</a> <br />\n<br />\nAnd then entire DefTwitter : We cannot do anything without your support so will you please help ?<br />\n<br />\nAs of now we have skeleton in place and information is based on popular belief (without vetting).</p>\n<img src=\"https://nitter.net/pic/media%2FHN_mpp1a4AA8YqH.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "R to @sidhant: Transcript: EAM said that when it comes to sovereignty issues, it is actually India that should be and is raising them. India does not violate China\u2019s sovereignty in any manner and has been consistent. But China is in illegal occupation of Indian territory in Jammu & Kashmir and Ladakh since 1963, where India\u2019s right is officially acknowledged even by China. Also, there are Chinese projects on territories in Jammu and Kashmir that belong to India, and we object to that.",
-      "link": "https://nitter.net/sidhant/status/2080634879633719533#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-24T18:13:06+05:30",
-      "time": "24 Jul, 06:13 PM",
-      "type": "tweets",
-      "content": "<p>Transcript:<br />\n<br />\nEAM said that when it comes to sovereignty issues, it is actually India that should be and is raising them. India does not violate China\u2019s sovereignty in any manner and has been consistent. But China is in illegal occupation of Indian territory in Jammu & Kashmir and Ladakh since 1963, where India\u2019s right is officially acknowledged even by China. Also, there are Chinese projects on territories in Jammu and Kashmir that belong to India, and we object to that.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Baseless, says India on Pakistan media reports that Indian side is responsible for floods in the country; details about flood alerts in the country itself.",
-      "link": "https://nitter.net/sidhant/status/2080634788470501470#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-24T18:12:44+05:30",
-      "time": "24 Jul, 06:12 PM",
-      "type": "tweets",
-      "content": "<p>Baseless, says India on Pakistan media reports that Indian side is responsible for floods in the country; details about flood alerts in the country itself.</p>\n<a href=\"https://nitter.net/sidhant/status/2080634788470501470#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080634571687878656%2Fimg%2Fy7BBczA1YkDvn7Wx.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indus water treaty remains in Abeyance says MEA Spox",
-      "link": "https://nitter.net/sidhant/status/2080634592894357676#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-24T18:11:57+05:30",
-      "time": "24 Jul, 06:11 PM",
-      "type": "tweets",
-      "content": "<p>Indus water treaty remains in Abeyance says MEA Spox</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "China is in illegal occupation of Indian territories in J&K, says MEA Spox",
-      "link": "https://nitter.net/sidhant/status/2080634341785506240#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-24T18:10:58+05:30",
-      "time": "24 Jul, 06:10 PM",
-      "type": "tweets",
-      "content": "<p>China is in illegal occupation of Indian territories in J&amp;K, says MEA Spox</p>\n<a href=\"https://nitter.net/sidhant/status/2080634341785506240#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080634264870326272%2Fimg%2FgYJBi0Vw-R8uL_tP.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "R to @NetramDefence: 14/ A Lesson in Geopolitics The Siliguri Corridor illustrates one of geopolitics\u2019 oldest realities: geography shapes strategy. A strip of land barely 20 km wide influences military planning, infrastructure development, diplomacy, disaster management, economic resilience and national security for an entire region",
@@ -1098,6 +1092,16 @@
       "type": "tweets",
       "content": "<p>\u092e\u093f\u0932\u093f\u091f\u094d\u0930\u0940 \u0907\u0902\u091f\u0947\u0932\u093f\u091c\u0947\u0902\u0938 \u0915\u0947 \u0907\u0928\u092a\u0941\u091f \u092a\u0930 \u092c\u0940\u0915\u093e\u0928\u0947\u0930 \u092e\u0947\u0902 \u092c\u0921\u093c\u0940 \u0915\u093e\u0930\u094d\u0930\u0935\u093e\u0908, \u0921\u0940\u090f\u0938\u091f\u0940 \u0914\u0930 \u0938\u0926\u0930 \u0925\u093e\u0928\u093e \u092a\u0941\u0932\u093f\u0938 \u0928\u0947 \u0926\u094b \u092e\u093e\u0926\u0915 \u092a\u0926\u093e\u0930\u094d\u0925 \u0924\u0938\u094d\u0915\u0930\u094b\u0902 \u0915\u094b \u0926\u092c\u094b\u091a\u093e, 106 \u0917\u094d\u0930\u093e\u092e \u090f\u092e\u0921\u0940\u090f\u092e\u090f \u092c\u0930\u093e\u092e\u0926, \u0926\u094b \u0932\u093e\u0916 \u0930\u0941\u092a\u092f\u0947 \u0938\u0947 \u0905\u0927\u093f\u0915 \u0915\u0940 \u0921\u094d\u0930\u0917\u094d\u0938 \u091c\u092c\u094d\u0924, \u092a\u0942\u0930\u0947 \u0924\u0938\u094d\u0915\u0930\u0940 \u0928\u0947\u091f\u0935\u0930\u094d\u0915 \u0914\u0930 \u0938\u092a\u094d\u0932\u093e\u0908 \u091a\u0947\u0928 \u0915\u0940 \u091c\u093e\u0902\u091a \u0924\u0947\u091c<br />\nMilitary Intelligence-Led Operation Busts MDMA Racket in Bikaner, Two Attested <br />\nActing on intelligence inputs from Military Intelligence, a joint team of Military Intelligence, the District Special Team (DST), and Sadar Police arrested two alleged drug traffickers in Bikaner. Around 106 grams of MDMA, valued at over \u20b92 lakh, was seized during the operation. Police are now probing the wider drug supply network and possible links to other suspects.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23Bikaner\">#Bikaner</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MilitaryIntelligence\">#MilitaryIntelligence</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MDMA\">#MDMA</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DrugBust\">#DrugBust</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Narcotics\">#Narcotics</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DrugTrafficking\">#DrugTrafficking</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RajasthanPolice\">#RajasthanPolice</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DST\">#DST</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SadarPolice\">#SadarPolice</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CrimeNews\">#CrimeNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndiaNews\">#IndiaNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BreakingNews\">#BreakingNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LawEnforcement\">#LawEnforcement</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Operation\">#Operation</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AntiDrugCampaign\">#AntiDrugCampaign</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Security\">#Security</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DrugFreeIndia\">#DrugFreeIndia</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TINNetwork\">#TINNetwork</a></p>\n<img src=\"https://nitter.net/pic/media%2FHN_BvcNbYAAVx9T.jpg\" />",
       "author": "@DefenceSahil"
+    },
+    {
+      "title": "RT by @NetramDefence: Pakistan's military leadership has brokered a secret ceasefire to shield Saudi Arabia from Iranian attacks using a covert oil smuggling deal as leverage. Pak Army Chief & IRGC head run a joint off-the-books oil transport venture bypassing blockades. The venture's continued operation was used as leverage to halt Iranian missile fire on Saudi territory. Pakistan's military leadership is profiting from a lucrative, off-the-books oil smuggling ring with Iran. According to new reports, Army Chief Asim Munir used this covert joint venture as leverage to shield Saudi Arabia from Iranian missiles. The deal effectively secures massive private dividends for the generals and diplomatic points for the military.",
+      "link": "https://nitter.net/NetramDefence/status/2080594577900363884#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-24T15:32:57+05:30",
+      "time": "24 Jul, 03:32 PM",
+      "type": "tweets",
+      "content": "<p>Pakistan's military leadership has brokered a secret ceasefire to shield Saudi Arabia from Iranian attacks using a covert oil smuggling deal as leverage.<br />\n<br />\nPak Army Chief & IRGC head run a joint off-the-books oil transport venture bypassing blockades. The venture's continued operation was used as leverage to halt Iranian missile fire on Saudi territory.<br />\n<br />\nPakistan's military leadership is profiting from a lucrative, off-the-books oil smuggling ring with Iran.<br />\n<br />\nAccording to new reports, Army Chief Asim Munir used this covert joint venture as leverage to shield Saudi Arabia from Iranian missiles. The deal effectively secures massive private dividends for the generals and diplomatic points for the military.</p>\n<img src=\"https://nitter.net/pic/media%2FHN_BrUGbsAAxiyF.jpg\" />",
+      "author": "@NetramDefence"
     },
     {
       "title": "Pre-emptive strike needed here, I am warning you. They have started mounting the narrative, don't be lathargic. @MinOfCultureGoI",
@@ -1478,20 +1482,92 @@
       "type": "tweets",
       "content": "<p>It seems religious mobilisation will start now :<br />\n<br />\nThe last three times Churches joined any major protest :<br />\n<br />\n- Against the CAA protest.<br />\n- Against some disruption in the Christmas celebration.<br />\n- For Christan getting attacked in Manipur.<br />\n<br />\nThey usually don't get involved in matters like education, agriculture, or the economy.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2080233465518363056#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080232332813111296%2Fimg%2FTBnrVvByy_nukqIP.jpg\" />\n</a>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "So the price tag of this performance: $10 billion....",
-      "link": "https://nitter.net/OsintTV/status/2080191157544300602#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-23T12:49:54+05:30",
-      "time": "23 Jul, 12:49 PM",
-      "type": "tweets",
-      "content": "<p>So the price tag of this performance: $10 billion....</p>\n<a href=\"https://nitter.net/OsintTV/status/2080191157544300602#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080191090427064320%2Fimg%2F07XIlPj9sqijb5jr.jpg\" />\n</a>",
-      "author": "@OsintTV"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "DRDO Ka Project Kusha S-400 Se Kitna Alag,Su-57 Crash Mystery ,Tejas Mk1A Gets Double Astra Missiles",
+      "link": "https://www.youtube.com/watch?v=TS94XeDQqEc",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-24T22:01:16+05:30",
+      "time": "24 Jul, 10:01 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/TS94XeDQqEc/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - Bhargavastra New Weapon, M1 Kusha Test, India MALE UAV, Pakistan In CJP Protest",
+      "link": "https://www.youtube.com/watch?v=_9OzPijbIWA",
+      "source": "Defense Squad",
+      "sort_key": "2026-07-24T21:39:51+05:30",
+      "time": "24 Jul, 09:39 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/_9OzPijbIWA/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Su-57 Crash,Kusha M1 Fired,Netra Mk1 To Indonesia,Bhargavastra Launch",
+      "link": "https://www.youtube.com/watch?v=G9F14_Z4Qgc",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-07-24T18:11:03+05:30",
+      "time": "24 Jul, 06:11 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/G9F14_Z4Qgc/mqdefault.jpg"
+    },
+    {
+      "title": "Lets Solve the \u201cMystery\u201d: M1 or M2",
+      "link": "https://www.youtube.com/watch?v=5JYGPHihxhA",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-07-24T07:30:30+05:30",
+      "time": "24 Jul, 07:30 AM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/5JYGPHihxhA/mqdefault.jpg"
+    },
+    {
+      "title": "DRDO Ka Sabse Bada Surprise! , Duniya Dekhegi Secret Missile , NETRA Mk1 Upgrade | Laser Weapon",
+      "link": "https://www.youtube.com/watch?v=MKE8sBOmc1M",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-23T23:05:28+05:30",
+      "time": "23 Jul, 11:05 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/MKE8sBOmc1M/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - Desi S400 First Test, India Artillery Gun Problem, IAF Next-Gen AWACS",
+      "link": "https://www.youtube.com/watch?v=LsVhtO4YyNg",
+      "source": "Defense Squad",
+      "sort_key": "2026-07-23T22:16:21+05:30",
+      "time": "23 Jul, 10:16 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/LsVhtO4YyNg/mqdefault.jpg"
+    },
+    {
+      "title": "Big: Kusha Air Defence Successful",
+      "link": "https://www.youtube.com/watch?v=FfSzE7t2MnI",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-07-23T20:17:18+05:30",
+      "time": "23 Jul, 08:17 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/FfSzE7t2MnI/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Tejas Mk2 1st Flight,6 Netra Mk2 Signed,10 New MALE Drones,Savior ASW Order",
+      "link": "https://www.youtube.com/watch?v=jfi_q1J_fu4",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-07-23T18:13:21+05:30",
+      "time": "23 Jul, 06:13 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/jfi_q1J_fu4/mqdefault.jpg"
+    },
+    {
+      "title": "Not everything is a conspiracy.",
+      "link": "https://www.youtube.com/shorts/kZTNUhSzv-k",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-23T15:48:25+05:30",
+      "time": "23 Jul, 03:48 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
