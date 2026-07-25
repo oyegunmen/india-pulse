@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "India and Tanzania review bilateral ties across diverse sectors",
+      "link": "https://newsonair.gov.in/india-and-tanzania-review-bilateral-ties-across-diverse-sectors/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-25T09:22:19+05:30",
+      "time": "25 Jul, 09:22 AM",
+      "type": "news",
+      "description": "India and Tanzania have reviewed bilateral ties across diverse sectors, including trade and investment, development partnership, defence and security ..."
+    },
+    {
+      "title": "Indus Waters Treaty remains in abeyance until Islamabad abjures support for cross-border terrorism: Govt",
+      "link": "https://newsonair.gov.in/indus-waters-treaty-remains-in-abeyance-until-islamabad-abjures-support-for-cross-border-terrorism-govt/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-25T08:46:46+05:30",
+      "time": "25 Jul, 08:46 AM",
+      "type": "news",
+      "description": "The government has said that Indus Waters Treaty remains in abeyance until Islamabad abjures support for cross-border terrorism. Briefing media in New..."
+    },
+    {
       "title": "US gradually expands the scope of its attacks on Iran",
       "link": "https://economictimes.indiatimes.com/news/defence/us-gradually-expands-the-scope-of-its-attacks-on-iran/articleshow/132617914.cms",
       "source": "Economic Times",
@@ -415,24 +433,6 @@
       "description": "More than 20,000 residents and tourists have been evacuated as a fast-moving wildfire swept through southwest France, burning around 3,400 hectares of..."
     },
     {
-      "title": "US carries out fresh strikes on Iran; tensions escalate in the region",
-      "link": "https://newsonair.gov.in/us-carries-out-fresh-strikes-on-iran-tensions-escalate-in-the-region/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-24T09:05:03+05:30",
-      "time": "24 Jul, 09:05 AM",
-      "type": "news",
-      "description": "The US military carried out a 13th consecutive night of strikes on Iran, saying the attacks are aimed at degrading Tehran&#8217;s ability to threaten ..."
-    },
-    {
-      "title": "India and Romania sign three agreements in the fields of Science and Technology, Education and Sports",
-      "link": "https://newsonair.gov.in/india-and-romania-sign-three-agreements-in-the-fields-of-science-and-technology-education-and-sports/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-24T07:48:05+05:30",
-      "time": "24 Jul, 07:48 AM",
-      "type": "news",
-      "description": "India and Romania have signed three agreements for cooperation in the fields of Science and Technology, Education and Sports. The agreements were sign..."
-    },
-    {
       "title": "US imposes 10% tariff on Indian goods over forced labour",
       "link": "https://indianexpress.com/article/world/india-lower-10-percent-us-tariff-forced-labour-10800914/",
       "source": "The Indian Express",
@@ -686,6 +686,26 @@
     }
   ],
   "tweets": [
+    {
+      "title": "Pakistan launches its first AI data centre, Sky47 Karakoram One in Islamabad, claiming it will give tough competition to India's massive data centre giants like Yotta, CtrlS, STT GDC, NTT, AdaniConneX, along with global cloud giants. The project comes from Mari Technologies under the Fauji Foundation umbrella. PM Shehbaz Sharif inaugurated the facility, while Army Chief Asim Munir attended the event. A data centre launch, or a Fauji Foundation showcase? VC : NUP",
+      "link": "https://nitter.net/OsintTV/status/2080858075112821120#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-25T09:00:00+05:30",
+      "time": "25 Jul, 09:00 AM",
+      "type": "tweets",
+      "content": "<p>Pakistan launches its first AI data centre, Sky47 Karakoram One in Islamabad, claiming it will give tough competition to India's massive data centre giants like Yotta, CtrlS, STT GDC, NTT, AdaniConneX, along with global cloud giants.<br />\n<br />\nThe project comes from Mari Technologies under the Fauji Foundation umbrella. PM Shehbaz Sharif inaugurated the facility, while Army Chief Asim Munir attended the event. A data centre launch, or a Fauji Foundation showcase?<br />\n<br />\nVC : NUP</p>\n<a href=\"https://nitter.net/OsintTV/status/2080858075112821120#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080759696131084288%2Fimg%2Fw_EMBja0a3HSEjKN.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "A Domino's delivery agent was mobbed and robbed by a group of protestors yesterday. Delivery agent kept requesting them to not rob him...",
+      "link": "https://nitter.net/Goreunit/status/2080853491862675778#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-25T08:41:47+05:30",
+      "time": "25 Jul, 08:41 AM",
+      "type": "tweets",
+      "content": "<p>A Domino's delivery agent was mobbed and robbed by a group of protestors yesterday.<br />\nDelivery agent kept requesting them to not rob him...</p>\n<a href=\"https://nitter.net/Goreunit/status/2080853491862675778#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080707591509057536%2Fimg%2FtnacrwipFy4gMKG8.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
     {
       "title": "Solar Defence and Aerospace Ltd. (SDAL) showcased its indigenous Bhargavastra vehicle-mounted Counter-Swarm Drone System to the Indian Army, Indian Navy, and Indian Air Force at its Nagpur facility on July 23\u201324. Designed as a cost-effective hard-kill solution, Bhargavastra is capable of neutralising both individual drones and large autonomous swarms through a multi-layer engagement architecture. The system uses indigenously developed unguided rockets and precision micro-missiles, offering an economical and scalable capability against evolving UAV threats.",
       "link": "https://nitter.net/NetramDefence/status/2080838916345843759#m",
@@ -1155,16 +1175,6 @@
       "type": "tweets",
       "content": "<p>NSG at Jagannath Temple</p>\n<img src=\"https://nitter.net/pic/media%2FHN-WOFjawAEGfgm.jpg\" />",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Delhi Police Mobile Command & Control vehicle ! Mistral is the company which manufactures such specialized vehicles. Very basic setup though !",
-      "link": "https://nitter.net/elitepredatorss/status/2080529455119036809#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-24T11:14:11+05:30",
-      "time": "24 Jul, 11:14 AM",
-      "type": "tweets",
-      "content": "<p>Delhi Police Mobile Command &amp; Control vehicle !<br />\n<br />\nMistral is the company which manufactures such specialized vehicles.<br />\n<br />\nVery basic setup though !</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2080529455119036809#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080529403482914816%2Fimg%2FDxaSy4VIt-EP7NPC.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
     },
     {
       "title": "Jeremy, your police caught picking the victim instead of the attackers in cases of clear assault, and you are lecturing us? I have seen the whole police department defending that boomer cop of yours. Fix your house before poking into ours.",
@@ -1681,6 +1691,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
