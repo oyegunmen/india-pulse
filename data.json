@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Saudi downs drones fired by Iran-backed militias in Iraq amid US-Tehran lull",
+      "link": "https://economictimes.indiatimes.com/news/defence/saudi-downs-drones-fired-by-iran-backed-militias-in-iraq-amid-us-tehran-lull/articleshow/132663078.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-27T19:17:51+05:30",
+      "time": "27 Jul, 07:17 PM",
+      "type": "news",
+      "description": "Saudi Arabia intercepted drones launched by Iran-backed militias in Iraq. Mediators are pushing to revive diplomacy and restore an interim ceasefire a..."
+    },
+    {
       "title": "Zen Technologies unveils indigenous portable anti-drone system for high-altitude operations",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/zen-technologies-unveils-indigenous-portable-anti-drone-system-for-high-altitude-operations/132662000",
       "source": "Economic Times",
@@ -8,6 +17,15 @@
       "time": "27 Jul, 06:11 PM",
       "type": "news",
       "description": "Designed for deployment in difficult terrain, the system supports swarm detection and all-weather operations while being transportable by soldiers, AT..."
+    },
+    {
+      "title": "518 million years ago, one tiny sea creature may have started the evolution of the fangs",
+      "link": "https://timesofindia.indiatimes.com/world/china/518-million-years-ago-one-tiny-sea-creature-may-have-started-the-evolution-of-the-fangs-seen-in-spiders-today/articleshow/132660572.cms",
+      "source": "Times of India",
+      "sort_key": "2026-07-27T18:00:00+05:30",
+      "time": "27 Jul, 06:00 PM",
+      "type": "news",
+      "description": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132660572.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />"
     },
     {
       "title": "Sensex gains 776 points, crude oil prices fall 7% as US-Iran pause military strikes",
@@ -73,15 +91,6 @@
       "description": "Union Home Minister Amit Shah praised the Central Reserve Police Force on its raising day. He highlighted the force's significant contributions to Ind..."
     },
     {
-      "title": "Ukraine's Foreign Minister condoles loss of lives of Indian seafarers in Black Sea amid volatile security situation",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/27/ukraines-foreign-minister-condoles-loss-of-lives-of-indian-seafarers-in-black-sea-amid-volatile-security-situation",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-27T14:19:22+05:30",
-      "time": "27 Jul, 02:19 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "CRPF to Conduct \u2018Post-Event Assessment\u2019 After Pellet Gun Use Allegations",
       "link": "https://www.deccanchronicle.com/nation/current-affairs/crpf-to-conduct-post-event-assessment-after-pellet-gun-use-allegations-1974275",
       "source": "Deccan Chronicle",
@@ -134,15 +143,6 @@
       "time": "27 Jul, 11:44 AM",
       "type": "news",
       "description": "<p>By R Anil Kumar Bengaluru, July 27, 2026. The Third India\u2013Australia Annual Summit, held in Melbourne on July 9, 2026, marked a significant mileston..."
-    },
-    {
-      "title": "'We are planning for it': Abhijeet Dipke says CJP will address alleged Punjab paper leak issue",
-      "link": "https://www.indiatvnews.com/news/india/we-are-planning-for-it-abhijeet-dipke-says-cjp-will-address-alleged-punjab-paper-leak-issue-latest-updates-2026-07-27-1049501",
-      "source": "India TV",
-      "sort_key": "2026-07-27T11:25:18+05:30",
-      "time": "27 Jul, 11:25 AM",
-      "type": "news",
-      "description": "Cockroach Janata Party (CJP) founder Abhijeet Dipke said they will examine the alleged examination paper leak issue in Punjab and announce their next ..."
     },
     {
       "title": "Sigma Advanced Systems bags Rs 1,013 crore export order for 155mm artillery shell bodies",
@@ -710,36 +710,38 @@
       "time": "25 Jul, 08:26 PM",
       "type": "news",
       "description": "US intelligence agencies assess Iran's new Supreme Leader is more open to nuclear arms.  Mojtaba Khamenei displays fewer reservations than his predece..."
-    },
-    {
-      "title": "What is Dhanush artillery gun? Indigenous 155mm howitzer whose delay has drawn PAC\u2019s criticism",
-      "link": "https://economictimes.indiatimes.com/news/defence/what-is-dhanush-artillery-gun-indigenous-155mm-howitzer-whose-delay-has-drawn-pacs-criticism/articleshow/132626330.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-25T19:06:54+05:30",
-      "time": "25 Jul, 07:06 PM",
-      "type": "news",
-      "description": "The Public Accounts Committee criticized the Ministry of Defence for procurement delays.  This resulted in the Army using aging Bofors guns for decade..."
-    },
-    {
-      "title": "US court rejects Trump\u2019s $100,000 H-1B visa fee: What it means for Indians",
-      "link": "https://indianexpress.com/article/world/us-court-strikes-down-donald-trump-100000-h1b-visa-fee-affect-on-indians-10803386/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-25T18:34:29+05:30",
-      "time": "25 Jul, 06:34 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
     {
-      "title": "\ud83d\udea8People of PoJK have completely boycotted the elections leaving Pakistani establishment baffled!! Voting for the first election phase began at 7:00 AM today in Mirpur Division, Pakistan-occupied Kashmir (PoK). Amid the ongoing uprising, residents boycotted the polls, leaving many stations deserted...",
-      "link": "https://nitter.net/Goreunit/status/2081703347191750817#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-27T16:58:48+05:30",
-      "time": "27 Jul, 04:58 PM",
+      "title": "India summons Ukraine ambassador in connection with the attack on the commercial vessel MV OMORFI, which resulted in the tragic death of an Indian national. Reporting:",
+      "link": "https://nitter.net/sidhant/status/2081735911029780651#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-27T19:08:12+05:30",
+      "time": "27 Jul, 07:08 PM",
       "type": "tweets",
-      "content": "<p>\ud83d\udea8People of PoJK have completely boycotted the elections leaving Pakistani establishment baffled!!<br />\n<br />\nVoting for the first election phase began at 7:00 AM today in Mirpur Division, Pakistan-occupied Kashmir (PoK). Amid the ongoing uprising, residents boycotted the polls, leaving many stations deserted...</p>\n<a href=\"https://nitter.net/Goreunit/status/2081703347191750817#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081703078475235328%2Fimg%2Fc6M-02t-O6PHquj4.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2081703347191750817#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081703140316139520%2Fimg%2FKNME4DyZLnIyLron.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2081703347191750817#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081703272805810176%2Fimg%2Fr2vAp4SLu74jJN2y.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8PoJK update...<br />\nTalks between JAAC and Pak Govt has failed,<br />\n <br />\nOn 27 July, Thousands of protestors from Mirpur will join the protestors in Rawalakot who have been protesting for 50 days now!<br />\n<br />\nThere will be a long march from Rawalakot to Muzaffarabad by the people of PoJK against the Shehbaz- Munir \ud83c\uddf5\ud83c\uddf0 Regime..</p>\n<a href=\"https://nitter.net/Goreunit/status/2081647017764557270#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081646625085370368%2Fimg%2FRQlNO4KFuhRfW8r4.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2081647017764557270#m\">https://nitter.net/Goreunit/status/2081647017764557270#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
+      "content": "<p>India summons Ukraine ambassador in connection with the attack on the commercial vessel MV OMORFI, which resulted in the tragic death of an Indian national.<br />\n<br />\nReporting:</p>\n<a href=\"https://nitter.net/sidhant/status/2081735911029780651#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081729783403298816%2Fimg%2FBrgTpi418otDpqS4.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @sidhant: #WIONDispatch | India summons Ukraine envoy over Indian seafarer's death India summons Ukraine ambassador @ShreyaOpines gets you this report by @sidhant",
+      "link": "https://nitter.net/WIONews/status/2081732707852460537#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-27T18:55:28+05:30",
+      "time": "27 Jul, 06:55 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONDispatch\">#WIONDispatch</a> | India summons Ukraine envoy over Indian seafarer's death<br />\n<br />\nIndia summons Ukraine ambassador<br />\n<br />\n<a href=\"https://nitter.net/ShreyaOpines\" title=\"Shreya Upadhyaya\">@ShreyaOpines</a> gets you this report by <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2081732707852460537#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081729783403298816%2Fimg%2FBrgTpi418otDpqS4.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "Aaaand Forces.....",
+      "link": "https://nitter.net/OsintTV/status/2081731471421694455#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-27T18:50:34+05:30",
+      "time": "27 Jul, 06:50 PM",
+      "type": "tweets",
+      "content": "<p>Aaaand Forces.....</p>\n<a href=\"https://nitter.net/OsintTV/status/2081731471421694455#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081731363527327744%2Fimg%2Fa7cgtZC4nc1zmdPA.jpg\" />\n</a>",
+      "author": "@OsintTV"
     },
     {
       "title": "Foreign Secretary Vikram Misri in Beijing. Meets Vice Minister of the International Department of the Central Committee of the Communist Party of China, Sun Haiyan",
@@ -800,16 +802,6 @@
       "type": "tweets",
       "content": "<p>Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHOOr_eAa8AAz5kg.jpg\" />",
       "author": "@sidhant"
-    },
-    {
-      "title": "The march against \ud83c\uddf5\ud83c\uddf0 occupation begins! More power to people of PoJK \ud83d\udd25",
-      "link": "https://nitter.net/Goreunit/status/2081695131812687979#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-27T16:26:10+05:30",
-      "time": "27 Jul, 04:26 PM",
-      "type": "tweets",
-      "content": "<p>The march against \ud83c\uddf5\ud83c\uddf0 occupation begins!<br />\nMore power to people of PoJK \ud83d\udd25</p>\n<a href=\"https://nitter.net/Goreunit/status/2081695131812687979#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081694749321527296%2Fimg%2F4-DXIQl7lO3fcbcd.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/Goreunit/status/2081695131812687979#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081694843458523136%2Fimg%2Fwci9r39K_EqVNA4c.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8PoJK update...<br />\nTalks between JAAC and Pak Govt has failed,<br />\n <br />\nOn 27 July, Thousands of protestors from Mirpur will join the protestors in Rawalakot who have been protesting for 50 days now!<br />\n<br />\nThere will be a long march from Rawalakot to Muzaffarabad by the people of PoJK against the Shehbaz- Munir \ud83c\uddf5\ud83c\uddf0 Regime..</p>\n<a href=\"https://nitter.net/Goreunit/status/2081647017764557270#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081646625085370368%2Fimg%2FRQlNO4KFuhRfW8r4.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2081647017764557270#m\">https://nitter.net/Goreunit/status/2081647017764557270#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     },
     {
       "title": "India summons Ukraine Ambassador Dr. Oleksandr Polishchuk after attack on vessel killed Indian seafarer Reporting https://www.wionews.com/india-news/india-summons-ukraine-ambassador-dr-oleksandr-polishchuk-after-attack-on-vessel-killed-indian-seafarer-1785146336433",
@@ -922,16 +914,6 @@
       "author": "@ImphalWarrior"
     },
     {
-      "title": "PoJK protests are going on for almost two months now.... There has been minimal coverage by international media while thousands of protestors keep on demanding basic rights from an occupying state\ud83c\uddf5\ud83c\uddf0",
-      "link": "https://nitter.net/Goreunit/status/2081658230313545988#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-27T13:59:32+05:30",
-      "time": "27 Jul, 01:59 PM",
-      "type": "tweets",
-      "content": "<p>PoJK protests are going on for almost two months now....<br />\nThere has been minimal coverage by international media while thousands of protestors keep on demanding basic rights from an occupying state\ud83c\uddf5\ud83c\uddf0</p>\n<a href=\"https://nitter.net/Goreunit/status/2081658230313545988#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081658093654687744%2Fimg%2Fli-NrEIuCPrbMdrU.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8PoJK update...<br />\nTalks between JAAC and Pak Govt has failed,<br />\n <br />\nOn 27 July, Thousands of protestors from Mirpur will join the protestors in Rawalakot who have been protesting for 50 days now!<br />\n<br />\nThere will be a long march from Rawalakot to Muzaffarabad by the people of PoJK against the Shehbaz- Munir \ud83c\uddf5\ud83c\uddf0 Regime..</p>\n<a href=\"https://nitter.net/Goreunit/status/2081647017764557270#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081646625085370368%2Fimg%2FRQlNO4KFuhRfW8r4.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2081647017764557270#m\">https://nitter.net/Goreunit/status/2081647017764557270#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
       "title": "RT by @alpha_defense: My online presentation to a Veteran Organisation in Chandigarh on the eve of Kargil Divas 2026.",
       "link": "https://nitter.net/Nambitiger1/status/2081653174990229952#m",
       "source": "Alpha Defense",
@@ -960,16 +942,6 @@
       "type": "tweets",
       "content": "<p>Ukraine extends its \"profound sympathy to the families of the Indian seafarers who lost their lives as a result of the deteriorating security situation in the Black Sea\", says Ukraine statement</p>\n<img src=\"https://nitter.net/pic/media%2FHOOAUGjbwAI3NCn.jpg\" />",
       "author": "@sidhant"
-    },
-    {
-      "title": "\ud83d\udea8PoJK update... Talks between JAAC and Pak Govt has failed, On 27 July, Thousands of protestors from Mirpur will join the protestors in Rawalakot who have been protesting for 50 days now! There will be a long march from Rawalakot to Muzaffarabad by the people of PoJK against the Shehbaz- Munir \ud83c\uddf5\ud83c\uddf0 Regime..",
-      "link": "https://nitter.net/Goreunit/status/2081647017764557270#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-27T13:14:58+05:30",
-      "time": "27 Jul, 01:14 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8PoJK update...<br />\nTalks between JAAC and Pak Govt has failed,<br />\n <br />\nOn 27 July, Thousands of protestors from Mirpur will join the protestors in Rawalakot who have been protesting for 50 days now!<br />\n<br />\nThere will be a long march from Rawalakot to Muzaffarabad by the people of PoJK against the Shehbaz- Munir \ud83c\uddf5\ud83c\uddf0 Regime..</p>\n<a href=\"https://nitter.net/Goreunit/status/2081647017764557270#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081646625085370368%2Fimg%2FRQlNO4KFuhRfW8r4.jpg\" />\n</a>",
-      "author": "@Goreunit"
     },
     {
       "title": "RT by @NetramDefence: Manipur | A large cache of arms and ammunition was recovered from Wakha Hill in Imphal East. Acting on intelligence about armed movement, Special Commando Unit and 6th IRB teams launched a search operation, recovering 29 firearms along with magazines from four plastic bags.",
@@ -1030,26 +1002,6 @@
       "type": "tweets",
       "content": "<p>On expected lines, Pakistan miffed over remarks by Indian Defence Minister:</p>\n<img src=\"https://nitter.net/pic/media%2FHONfnxXa4AA52hi.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India will respond to any misadventure of Pakistan, says India's defence minister Rajnath Singh on the anniversary of Kargil victory day</p>\n<a href=\"https://nitter.net/sidhant/status/2081255503066476830#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081255427321552896%2Fimg%2FzcJHXTbBwjSdJ6hq.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2081255503066476830#m\">https://nitter.net/sidhant/status/2081255503066476830#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
-    },
-    {
-      "title": "A simple question: Why was an AI-generated video of Randhir Jaiswal been circulated? Sidhant asked that question. The ecosystem didn\u2019t answer it. Instead, it chose\"cancelling \" his credibility and personal attacks. @sidhant is one of the most credible journalists in India. Many \"students\" rely on him for credible current affairs and updates. Him being hounded by a certain ecosystem for fact checking a disinformation tweet is sad. More power to Sidhant aka Batman !",
-      "link": "https://nitter.net/Goreunit/status/2081610814755074215#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-27T10:51:07+05:30",
-      "time": "27 Jul, 10:51 AM",
-      "type": "tweets",
-      "content": "<p>A simple question:<br />\n<br />\nWhy was an AI-generated video of Randhir Jaiswal been circulated?<br />\n<br />\nSidhant asked that question.<br />\n<br />\nThe ecosystem didn\u2019t answer it. Instead, it chose\"cancelling \" his credibility and personal attacks.<br />\n<br />\n <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> is one of the most credible journalists in India. Many \"students\" rely on him for credible current affairs and updates. Him being hounded by a certain ecosystem for fact checking a disinformation tweet is sad.<br />\nMore power to Sidhant aka Batman !</p>\n<hr />\n<blockquote>\n<b>Dr Nimo Yadav 2.0 (@DrNimoYadav)</b>\n<p>\n<p>Siddhant, please speak responsibly. You\u2019re the media, not the govt.<br />\n<br />\nThe way things are going, don\u2019t be surprised if the next protest is against the media itself.<br />\n<br />\nPeople are documenting everything.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DrNimoYadav/status/2081320417038663813#m\">https://nitter.net/DrNimoYadav/status/2081320417038663813#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @Goreunit: The ecosystem\u2019s playbook is predictable. The moment someone questions their narrative, they stop debating the issue and start targeting the person. @sidhant questioned an account on X for spreading an AI-generated video of Randhir Jaiswal. He also questioned why a CJP spokesperson was appearing on TV after the same ecosystem spent days attacking and demonizing the TV media throughout the protest. That was enough. \u201cTweet Pelting\u201d has been started against him. If you don\u2019t echo their narrative, you\u2019re branded the enemy. That\u2019s how the ecosystem operates. More power to Sidhant. \ud83d\ude4c\ud83c\udffb",
-      "link": "https://nitter.net/shivank_8mishra/status/2081606693335839221#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-27T10:34:44+05:30",
-      "time": "27 Jul, 10:34 AM",
-      "type": "tweets",
-      "content": "<p>The ecosystem\u2019s playbook is predictable. The moment someone questions their narrative, they stop debating the issue and start targeting the person.<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> questioned an account on X for spreading an AI-generated video of Randhir Jaiswal.<br />\n<br />\nHe also questioned why a CJP spokesperson was appearing on TV after the same ecosystem spent days attacking and demonizing the TV media throughout the protest.<br />\n<br />\nThat was enough. \u201cTweet Pelting\u201d has been started against him. If you don\u2019t echo their narrative, you\u2019re branded the enemy. That\u2019s how the ecosystem operates.<br />\n<br />\nMore power to Sidhant. \ud83d\ude4c\ud83c\udffb</p>",
-      "author": "@shivank_8mishra"
     },
     {
       "title": "India aims for \u20b950,000 crore in defence exports by 2030 Defence Secretary Rajesh Kumar Singh says the target is \u201ceasily achievable\u201d after exports reached \u20b938,424 crore in FY26, up from just \u20b9686 crore in FY14. \u2022 145 Indian companies currently export defence equipment \u2022 1,800 export authorisations issued to 100+ countries in FY26 \u2022 Products range from helmets & ammunition to BrahMos and Akash missiles \u2022 Indonesia & Vietnam are reportedly close to finalising BrahMos contracts \u2022 Around 65% of India\u2019s defence equipment is now produced domestically",
@@ -1182,26 +1134,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Iran's Tasnim news agency says oil tanker violating Iran\u2019s announced navigation route in Hormuz exploded after striking a naval mine.",
-      "link": "https://nitter.net/sidhant/status/2081415497913086462#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-26T21:55:00+05:30",
-      "time": "26 Jul, 09:55 PM",
-      "type": "tweets",
-      "content": "<p>Iran's Tasnim news agency says oil tanker violating Iran\u2019s announced navigation route in Hormuz exploded after striking a naval mine.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Kuwait\u2019s official gazette, Kuwait Alyawm releases the framework on defence signed between Kuwait, Pakistan in 2023; It focuses on military training, defence, intel cooperation, tech exchanges.",
-      "link": "https://nitter.net/sidhant/status/2081415136917791215#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-26T21:53:34+05:30",
-      "time": "26 Jul, 09:53 PM",
-      "type": "tweets",
-      "content": "<p>Kuwait\u2019s official gazette, Kuwait Alyawm releases the framework on defence signed between Kuwait, Pakistan in 2023; It focuses on military training, defence, intel cooperation, tech exchanges.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT @SilentBriefHQ1: Convoys from the Mirpur Division are reportedly heading toward Rawalakot ahead of a planned march to Muzaffarabad tomor\u2026",
       "link": "https://nitter.net/OsintTV/status/2081402374325760237#m",
       "source": "Osint TV",
@@ -1300,16 +1232,6 @@
       "type": "tweets",
       "content": "<p>If she'd swapped her adult video tabs for actual news archives, she'd know Jaish-e-Mohammed supplied the RDX for Pulwama.<br />\n<br />\nEvidence, arrests, and intelligence trails have been public for years.</p>\n<hr />\n<blockquote>\n<b>Dee\ud83c\udf47 (@deebayleaf)</b>\n<p>\n<p>Instagram is already winning. \ud83d\udc51</p>\n<img src=\"https://nitter.net/pic/media%2FHODleTuaQAAEY9B.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/deebayleaf/status/2080915343791513866#m\">https://nitter.net/deebayleaf/status/2080915343791513866#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Kargil Vijay Diwas \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/Goreunit/status/2081335227633606844#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-26T16:36:02+05:30",
-      "time": "26 Jul, 04:36 PM",
-      "type": "tweets",
-      "content": "<p>Kargil Vijay Diwas \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/Goreunit/status/2081335227633606844#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081335158628818944%2Fimg%2FxjfDKiUuLSgW8vrA.jpg\" />\n</a>",
-      "author": "@Goreunit"
     },
     {
       "title": "RT by @OsintTV: \ud83d\udea8 Terror circles are in panic after floodwaters submerged a graveyard in Muridke where several senior Lashkar e Taiba terrorists are buried. The cemetery reportedly contains the graves of LeT founder Abdul Rahman Makki, Hafiz Abdul Salam bin Muhammad Bhutvi,and other deceased LeT leaders. For once, the loudest voices are not coming from Muridke. They are coming from those worried that the flood might erase what they wanted preserved forever. According to sources the flood intensity increased in Muridke.",
@@ -1500,46 +1422,6 @@
       "type": "tweets",
       "content": "<p>RCI has floated an RFP for modification & refurbishment of the 8x8 PRAHAR launcher to integrate a full communication suite for PRALAY missile launch operations <br />\n\u2705 Scope covers 2 new EMI/EMC-shielded shelters one for SATCOM/LoS/Voice/Network gear, one for UPS & battery banks <br />\n\u2705 Telescopic LoS mast + SATCOM antenna to be mechanically integrated onto the launcher\u2019s driver cabin <br />\n\u2705 RCI to supply SATCOM/LoS/network hardware (antennas, BUCs, modems, routers, radios); firm handles integration, cabling & platform strengthening <br />\n\u2705 Comms link to BCC established over SATCOM, LoS radio & fibre-optic, validated via trials at RCI Hyderabad and 2 flight trials at ITR Chandipur <br />\n\u2705 Delivery timeline: 2 months from PO</p>\n<img src=\"https://nitter.net/pic/media%2FHOFRLunasAAmxXX.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "Prahlad Joshi has been assigned as new education minister.",
-      "link": "https://nitter.net/Goreunit/status/2081030413649313880#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-25T20:24:48+05:30",
-      "time": "25 Jul, 08:24 PM",
-      "type": "tweets",
-      "content": "<p>Prahlad Joshi has been assigned as new education minister.</p>\n<img src=\"https://nitter.net/pic/media%2FHOFOH2ub0AAEf8x.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOFOIRea4AAb-Ym.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "10 SF Pic by VXTOR.OPS",
-      "link": "https://nitter.net/Goreunit/status/2081026252790788606#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-25T20:08:16+05:30",
-      "time": "25 Jul, 08:08 PM",
-      "type": "tweets",
-      "content": "<p>10 SF<br />\nPic by VXTOR.OPS</p>\n<img src=\"https://nitter.net/pic/media%2FHOFKWClaIAAEKAu.jpg\" />",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Combat archive video 1: Trench clearing fight in Ukraine war",
-      "link": "https://nitter.net/Goreunit/status/2081022039293575457#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-25T19:51:32+05:30",
-      "time": "25 Jul, 07:51 PM",
-      "type": "tweets",
-      "content": "<p>Combat archive video 1:<br />\nTrench clearing fight in Ukraine war</p>\n<a href=\"https://nitter.net/Goreunit/status/2081022039293575457#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081021985409417216%2Fimg%2Fgb8eB0SLZUGLd0Bp.jpg\" />\n</a>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83d\udea8\ud83c\uddf0Pakistan\u2019s Nuclear Expansion Raises Fresh Questions. Pakistan\u2019s Nuclear Regulatory Authority (PNRA) has issued new licenses for nuclear protection systems and Type B(U) transport packages used for radioactive material movement. Islamabad claims the move will boost local nuclear engineering and reduce foreign dependency. The latest development comes as Pakistan continues to expand its nuclear technology infrastructure, bringing renewed focus on transparency, safety standards, and regional security concerns. VC : ARY News",
-      "link": "https://nitter.net/OsintTV/status/2081010982143373686#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-25T19:07:36+05:30",
-      "time": "25 Jul, 07:07 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8\ud83c\uddf0Pakistan\u2019s Nuclear Expansion Raises Fresh Questions.<br />\n<br />\nPakistan\u2019s Nuclear Regulatory Authority (PNRA) has issued new licenses for nuclear protection systems and Type B(U) transport packages used for radioactive material movement.<br />\n<br />\nIslamabad claims the move will boost local nuclear engineering and reduce foreign dependency.<br />\n<br />\nThe latest development comes as Pakistan continues to expand its nuclear technology infrastructure, bringing renewed focus on transparency, safety standards, and regional security concerns.<br />\n<br />\nVC : ARY News</p>\n<a href=\"https://nitter.net/OsintTV/status/2081010982143373686#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081010801284886529%2Fimg%2FZKthuRBpRRmdUYLe.jpg\" />\n</a>",
-      "author": "@OsintTV"
     }
   ],
   "youtube": [
@@ -1608,6 +1490,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
