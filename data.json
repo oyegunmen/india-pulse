@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "How a new US bill could ease green card path for Indian H-1B visa holders",
+      "link": "https://indianexpress.com/article/world/us-green-card-bill-alex-padilla-h1b-visa-holders-backlog-indians-10807960/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-28T23:15:04+05:30",
+      "time": "28 Jul, 11:15 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Modi govt will root out paper leak like terrorism, Naxalism; Anurag Thakur",
+      "link": "https://www.tribuneindia.com/news/india/modi-govt-will-root-out-paper-leak-like-terrorism-naxalism-anurag-thakur",
+      "source": "The Tribune",
+      "sort_key": "2026-07-28T22:27:17+05:30",
+      "time": "28 Jul, 10:27 PM",
+      "type": "news",
+      "description": "BJP MP Anurag Thakur on Tuesday asserted that the government led by Prime Minister Narendra Modi will eradicate the menace of paper leak &#8220;once a..."
+    },
+    {
       "title": "India\u2019s Gen Z want Pakistan to end cross-border terrorism: MEA",
       "link": "https://www.tribuneindia.com/news/delhi/indias-gen-z-want-pakistan-to-end-cross-border-terrorism-mea",
       "source": "The Tribune",
@@ -28,6 +46,15 @@
       "description": "India and China have reaffirmed the importance of maintaining peace and tranquillity along the Line of Actual Control (LAC) as Foreign Secretary Vikra..."
     },
     {
+      "title": "What a Powerful El Ni\u00f1o Means for the World",
+      "link": "https://foreignpolicy.com/2026/07/28/el-nino-economy-agriculture-weather/",
+      "source": "Foreign Policy",
+      "sort_key": "2026-07-28T20:46:54+05:30",
+      "time": "28 Jul, 08:46 PM",
+      "type": "news",
+      "description": "Governments are bracing for the fallout of the intense weather phenomenon."
+    },
+    {
       "title": "Did US bombers use Israeli bases to strike Iran? Israel Katz drops a bombshell claim",
       "link": "https://economictimes.indiatimes.com/news/defence/did-us-bombers-use-israeli-bases-to-launch-strikes-on-iran-israel-katz-lifts-the-lid/articleshow/132687484.cms",
       "source": "Economic Times",
@@ -46,22 +73,13 @@
       "description": "D-Propulse successfully demonstrated India's first indigenous 5 kN air-breathing RDE. This engine uses pressure-gain combustion for improved efficienc..."
     },
     {
-      "title": "Japan: Powerful earthquake leads to power crisis, ruptured roads, stranded people inside collapsed mall",
+      "title": "Japan: Powerful earthquake leads to power crisis, ruptured roads,  people stranded inside collapsed mall",
       "link": "https://newsonair.gov.in/7-1-magnitude-earthquake-hits-southern-japan-tsunami-advisory-issued/",
       "source": "All India Radio",
       "sort_key": "2026-07-28T19:17:22+05:30",
       "time": "28 Jul, 07:17 PM",
       "type": "news",
       "description": "In Japan, a powerful 7.1 magnitude earthquake struck southern Kumamoto Prefecture, knocking out power to thousands of homes, rupturing roads, and inju..."
-    },
-    {
-      "title": "India blasts PoK polls as Pakistan's 'cosmetic exercise' to mask its illegal occupation",
-      "link": "https://www.newindianexpress.com/india/2026/Jul/28/india-blasts-pok-polls-as-pakistans-cosmetic-exercise-to-mask-its-illegal-occupation",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-28T18:34:01+05:30",
-      "time": "28 Jul, 06:34 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "'Attempt to camouflage Pakistan's illegal occupation': MEA slams 'cosmetic' PoK polls as 14 killed in clashes",
@@ -71,15 +89,6 @@
       "time": "28 Jul, 06:23 PM",
       "type": "news",
       "description": "The Ministry of External Affairs (MEA) on Tuesday hit out at Pakistan for the &quot;cosmetic&quot; elections in the Pakistan-occupied Jammu and Kashmi..."
-    },
-    {
-      "title": "14 Joint Awami Action Committee  activists killed in major clashes with security personnel in PoK",
-      "link": "https://www.newindianexpress.com/world/2026/Jul/28/14-joint-awami-action-committee-activists-killed-in-major-clashes-with-security-personnel-in-pok",
-      "source": "New Indian Express",
-      "sort_key": "2026-07-28T18:11:48+05:30",
-      "time": "28 Jul, 06:11 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "More opportunities for women in Coast Guard; policy reforms also to benefit kin of those missing at sea",
@@ -179,15 +188,6 @@
       "time": "28 Jul, 03:10 PM",
       "type": "news",
       "description": "<p>New Delhi, July 28, 2026. Defence propulsion startup D-Propulse has successfully demonstrated India&#8217;s first indigenous 5 kN air-breathing Rot..."
-    },
-    {
-      "title": "Garlanded Dharmendra Pradhan like he had 'returned from war in Pakistan': Gaurav Gogoi on anti-paper leak bill",
-      "link": "https://www.indiatvnews.com/news/india/gaurav-gogoi-opens-opposition-debate-on-anti-paper-leak-bill-in-lok-sabha-says-govt-not-serious-about-paper-leaks-2026-07-28-1049629",
-      "source": "India TV",
-      "sort_key": "2026-07-28T14:48:45+05:30",
-      "time": "28 Jul, 02:48 PM",
-      "type": "news",
-      "description": "Congress MP Gaurav Gogoi, who opened the Opposition's debate on the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026 in the Lok S..."
     },
     {
       "title": "Air India launches Easy Connect service from Amritsar to 27 global destinations",
@@ -665,27 +665,49 @@
       "time": "26 Jul, 11:52 PM",
       "type": "news",
       "description": "Defence Minister Rajnath Singh stated no talks with Pakistan beyond Pakistan-occupied Kashmir.  He emphasized India's capability to counter any Pakist..."
-    },
-    {
-      "title": "C\u2019garh; 37 Schools In South Bastar, Once Maoist Stronghold, Reopen After 21 Years",
-      "link": "https://www.deccanchronicle.com/nation/cgarh-37-schools-in-south-bastar-once-maoist-stronghold-reopen-after-21-years-1974155",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-26T23:00:43+05:30",
-      "time": "26 Jul, 11:00 PM",
-      "type": "news",
-      "description": "As many as 37 schools, closed down 21 years ago due to Maoist violence: Officer"
-    },
-    {
-      "title": "Trump Halts Attacks, Iran Follows Suit",
-      "link": "https://www.deccanchronicle.com/world/trump-halts-attacks-iran-follows-suit-1974145",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-07-26T22:38:53+05:30",
-      "time": "26 Jul, 10:38 PM",
-      "type": "news",
-      "description": "US media reports said concerns over missile-defence stocks and the risks of further escalation had influenced Trump\u2019s decision"
     }
   ],
   "tweets": [
+    {
+      "title": "\ud83d\udea8 Massive Pakistani Military Convoy Moves Towards Rawalakot According to sources, a large Pakistani military convoy has been spotted advancing from Holar towards Rawalakot with heavy security deployment and strict arrangements in place.",
+      "link": "https://nitter.net/OsintTV/status/2082160383536529438#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-28T23:14:54+05:30",
+      "time": "28 Jul, 11:14 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Massive Pakistani Military Convoy Moves Towards Rawalakot<br />\n<br />\nAccording to sources, a large Pakistani military convoy has been spotted advancing from Holar towards Rawalakot with heavy security deployment and strict arrangements in place.</p>\n<a href=\"https://nitter.net/OsintTV/status/2082160383536529438#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082160361130663936%2Fimg%2FiqQhskeZpZrI3XIR.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "While the Pakistanis were making tonnes of reels for the CJP protest. You will find hardly any creator in India who is clueless about what is happening in POJK. Some are still covering it, but it's not enough. Reason: They might upset their Pakistani fans if they talk about the issues of Pakistan. They also will have to comment on the POJK. You can't have the comfort of not choosing a side when it comes to country in a real issue. But now none of these fuckers can claim they are apolitical since the mask is off. If this establishment had been smart enough, they would have made these creators make videos/stories/post on the atrocities in the POJK, but I should not expect much. This is such a golden opportunity to turn everyone's head around the POJK.",
+      "link": "https://nitter.net/elitepredatorss/status/2082154139338092573#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-28T22:50:06+05:30",
+      "time": "28 Jul, 10:50 PM",
+      "type": "tweets",
+      "content": "<p>While the Pakistanis were making tonnes of reels for the CJP protest.<br />\n<br />\nYou will find hardly any creator in India who is clueless about what is happening in POJK. Some are still covering it, but it's not enough.<br />\n<br />\nReason: They might upset their Pakistani fans if they talk about the issues of Pakistan. They also will have to comment on the POJK. You can't have the comfort of not choosing a side when it comes to country in a real issue.<br />\n<br />\nBut now none of these fuckers can claim they are apolitical since the mask is off.<br />\n<br />\nIf this establishment had been smart enough, they would have made these creators make videos/stories/post on the atrocities in the POJK, but I should not expect much.<br />\n<br />\nThis is such a golden opportunity to turn everyone's head around the POJK.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Daily US-Israel-Iran War Brief: 28th Jul 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf Israeli Defense Minister Israel Katz claimed that American fighter jets are utilizing Israeli bases to launch attacks against Iran. Katz stated that Israel strongly desires to strike Iranian energy targets, but Washington opposes the plan at this stage. \u25cf Katz warned that Israel is prepared to retaliate with full force and strike Iran independently if targeted. He also claimed the US President understands Israel will not withdraw its forces from \"buffer zones\" situated in Lebanon, Gaza, and Syria. \u25cf The Strait of Hormuz remains closed, with Iran maintaining full control over the waterway's entry and exit points. Efforts by the United States to reopen the strait through military intervention have reportedly reached a deadlock. \u25cf Oman submitted a proposed framework to Iran regarding the future governance of the Strait of Hormuz, a plan that has been endorsed by other Gulf Cooperation Council states. The proposal suggests establishing a regional consortium to manage maritime traffic, creating three designated shipping lanes, and implementing a \"voluntary service fee\" for environmental protection instead of a toll. Under this plan, Iran would take on the responsibility of mine clearance in the international shipping lane. \u25cf Gulf Cooperation Council foreign ministers convened via video conference to coordinate on regional developments and discuss strategies to ensure the freedom and safety of navigation in the Strait of Hormuz. \u25cf The United States and Iran are exchanging messages aimed at halting attacks on commercial shipping across both the Strait of Hormuz and the Red Sea. The scope of these contacts has expanded to address the blockade recently declared by Houthi rebels. \u25cf The foreign minister-designate of Yemen's internationally recognized government stated that the Houthis are attempting to replicate Iran's strategy for the Strait of Hormuz to impose control over shipping in the Bab el-Mandeb strait. \u25cf Pakistan has become more deeply involved in the regional crisis beyond its initial role as a mediator. Following the announcement of the Houthi blockade, Pakistan warned the rebels against attacking its vessels and acknowledged its mutual defense pact with Saudi Arabia could draw it further into the conflict. \u25cf Amnesty International accused the Iranian government of intensifying domestic repression under the pretext of wartime conditions, citing a recent escalation in the executions of protesters and dissidents since the US-Israeli attacks began earlier in the year. END OF THE BRIEF",
+      "link": "https://nitter.net/NetramDefence/status/2082153107019207040#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-28T22:45:59+05:30",
+      "time": "28 Jul, 10:45 PM",
+      "type": "tweets",
+      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n28th Jul 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n  <br />\n\u25cf Israeli Defense Minister Israel Katz claimed that American fighter jets are utilizing Israeli bases to launch attacks against Iran. Katz stated that Israel strongly desires to strike Iranian energy targets, but Washington opposes the plan at this stage.<br />\n <br />\n\u25cf Katz warned that Israel is prepared to retaliate with full force and strike Iran independently if targeted. He also claimed the US President understands Israel will not withdraw its forces from \"buffer zones\" situated in Lebanon, Gaza, and Syria.<br />\n <br />\n\u25cf The Strait of Hormuz remains closed, with Iran maintaining full control over the waterway's entry and exit points. Efforts by the United States to reopen the strait through military intervention have reportedly reached a deadlock.<br />\n <br />\n\u25cf Oman submitted a proposed framework to Iran regarding the future governance of the Strait of Hormuz, a plan that has been endorsed by other Gulf Cooperation Council states. The proposal suggests establishing a regional consortium to manage maritime traffic, creating three designated shipping lanes, and implementing a \"voluntary service fee\" for environmental protection instead of a toll. Under this plan, Iran would take on the responsibility of mine clearance in the international shipping lane.<br />\n <br />\n\u25cf Gulf Cooperation Council foreign ministers convened via video conference to coordinate on regional developments and discuss strategies to ensure the freedom and safety of navigation in the Strait of Hormuz.<br />\n <br />\n\u25cf The United States and Iran are exchanging messages aimed at halting attacks on commercial shipping across both the Strait of Hormuz and the Red Sea. The scope of these contacts has expanded to address the blockade recently declared by Houthi rebels.<br />\n <br />\n\u25cf The foreign minister-designate of Yemen's internationally recognized government stated that the Houthis are attempting to replicate Iran's strategy for the Strait of Hormuz to impose control over shipping in the Bab el-Mandeb strait.<br />\n <br />\n\u25cf Pakistan has become more deeply involved in the regional crisis beyond its initial role as a mediator. Following the announcement of the Houthi blockade, Pakistan warned the rebels against attacking its vessels and acknowledged its mutual defense pact with Saudi Arabia could draw it further into the conflict.<br />\n <br />\n\u25cf Amnesty International accused the Iranian government of intensifying domestic repression under the pretext of wartime conditions, citing a recent escalation in the executions of protesters and dissidents since the US-Israeli attacks began earlier in the year.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHOVLKlfaUAAT96j.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n27th Jul 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n  <br />\n\u25cf Saudi Arabia's MoD reported that its air defenses intercepted and destroyed several drones launched from Iraqi territory by Iranian-backed militias today.<br />\n<br />\n\u25cf Iran FM spokesman Esmaeil Baghaei said Bulgarian officials must answer for decision that could make the country complicit in US and Israeli strikes on Iran, and warned Bulgaria over deployment of a US Air Force refueling aircraft at an air base on its land.<br />\n<br />\n\u25cf The Iranian foreign ministry spokesman said on Monday that a Ukrainian attack on an Iranian vessel would not go unanswered, describing it as illegal and \u201cdangerous adventurism.\u201d<br />\n<br />\n\u25cf Iran rejected two \"extreme\" US demands during talks in Islamabad after Washington warned negotiations would fail if Tehran refused to accept them, Dy FM Kazem Gharibabadi said.<br />\n<br />\n\u25cf Yemen's Houthis claimed drone strikes on crude oil transit sites linking eastern Saudi Arabia to the Red Sea port of Yanbu.<br />\n<br />\n\u25cf CENTCOM has redirected 17 commercial vessels, disabled 2, and boarded 2 to ensure compliance.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHOQC3brakAAsOrY.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2081792125352718787#m\">https://nitter.net/NetramDefence/status/2081792125352718787#m</a>\n</footer>\n</blockquote>",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "\ud83d\udea8 Update : Death toll rises to 27 in Rawalakot in yesterday's firing by Pakistani forces.",
+      "link": "https://nitter.net/OsintTV/status/2082150830854037660#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-28T22:36:57+05:30",
+      "time": "28 Jul, 10:36 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Update :<br />\n<br />\nDeath toll rises to 27 in Rawalakot in yesterday's firing by Pakistani forces.</p>",
+      "author": "@OsintTV"
+    },
     {
       "title": "\ud83d\udea8 Protesters\u2019 ultimatum to Pak Army: \u201cGiving 30 minutes to clear the road!\u201d Massive face-off erupts in PoJK as angry locals stand their ground against Pakistani forces. The streets echo with defiance as protesters challenge the establishment, demanding an end to the crackdown. Rising public anger puts the authorities under pressure as tensions escalate.",
       "link": "https://nitter.net/OsintTV/status/2082143788533731756#m",
@@ -713,7 +735,7 @@
       "sort_key": "2026-07-28T21:42:47+05:30",
       "time": "28 Jul, 09:42 PM",
       "type": "tweets",
-      "content": "<p>For more such updates pls subscribe to our TG channel \ud83d\udc47<br />\n<br />\n<a href=\"https://t.me/OsntTV/42520\">t.me/OsntTV/42520</a><br />\n<br />\n...</p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://t.me/OsntTV/42520\">\n<b>OsntTV \ud83d\udcfa\ufe0f</b>\n</a>\n<p>\ud83d\udea8 \u201cHum kya chahte? Azadi! Leke rahenge azadi!\u201d echoes in Sharda, PoJK. Raw ground visuals from Sharda, Neelum Valley capture intense public anger and anti-establishment slogans as locals openly...</p>\n<small><a href=\"https://t.me/OsntTV/42520\">t.me</a></small>",
+      "content": "<p>For more such updates pls subscribe to our TG channel \ud83d\udc47<br />\n<br />\n<a href=\"https://t.me/OsntTV/42520\">t.me/OsntTV/42520</a><br />\n<br />\n...</p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://t.me/OsntTV/42520\">\n<img src=\"https://nitter.net/pic/card_img%2F2082137182353965056%2Fm3LfK5BU%3Fformat%3Djpg%26name%3D280x280_2\" />\n<br />\n<b>OsntTV \ud83d\udcfa\ufe0f</b>\n</a>\n<p>\ud83d\udea8 \u201cHum kya chahte? Azadi! Leke rahenge azadi!\u201d echoes in Sharda, PoJK. Raw ground visuals from Sharda, Neelum Valley capture intense public anger and anti-establishment slogans as locals openly...</p>\n<small><a href=\"https://t.me/OsntTV/42520\">t.me</a></small>",
       "author": "@OsintTV"
     },
     {
@@ -745,16 +767,6 @@
       "type": "tweets",
       "content": "<p>Seaman's union appeals urgently for the safety of 13 Indian seafarers aboard MV AMIR1 trapped at Ukraine's Chornomorsk port; cites drone and missile attacks on the vessel</p>\n<img src=\"https://nitter.net/pic/media%2FHOUvLNtbYAEaSGl.jpg\" />\n\n<a href=\"https://nitter.net/sidhant/status/2082130348499226983#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082122272446599168%2Fimg%2FZH3Y9pNkkNZ55QG3.jpg\" />\n</a>",
       "author": "@sidhant"
-    },
-    {
-      "title": "RT by @OsintTV: Khawaja Asif says all Kashmiris in POK are Indians & he consider them as enemies.",
-      "link": "https://nitter.net/DfIlite/status/2082126930829337076#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-28T21:01:59+05:30",
-      "time": "28 Jul, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>Khawaja Asif says all Kashmiris in POK are Indians &amp; he consider them as enemies.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\"I put the protesters of PojK in the same category as India and consider them  as enemies\": Pak Def Min Khawaja Asif</p>\n<a href=\"https://nitter.net/OsintTV/status/2082098148495773699#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082097691266322432%2Fimg%2FwnPpjzU36EIZPBAE.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2082098148495773699#m\">https://nitter.net/OsintTV/status/2082098148495773699#m</a>\n</footer>\n</blockquote>",
-      "author": "@DfIlite"
     },
     {
       "title": "Joint Awami Action Committee - Party that is leading the PoJK protests officially calls PoJK an Occupied territory \ud83d\udd25 The stage has been set- 'Azadi' !",
@@ -1187,16 +1199,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @OsintTV: Heavy shelling and firing by Rangers continues in Mirpur, Kashmir. \ud83d\udc94 The video appears to show Pak forces opening fire on Kashmir civilians. Bodies, injured people, can be seen lying on the roads. Pak forces\u2019 brutality and oppression on Kashmiri civilians is worse than even Israel\u2019s.",
-      "link": "https://nitter.net/burhan_uddin_0/status/2082023795993477326#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-28T14:12:09+05:30",
-      "time": "28 Jul, 02:12 PM",
-      "type": "tweets",
-      "content": "<p>Heavy shelling and firing by Rangers continues in Mirpur, Kashmir. \ud83d\udc94<br />\n<br />\nThe video appears to show Pak forces opening fire on Kashmir civilians.<br />\n<br />\nBodies, injured people, can be seen lying on the roads.<br />\n<br />\nPak forces\u2019 brutality and oppression on Kashmiri civilians is worse than even Israel\u2019s.</p>\n<a href=\"https://nitter.net/burhan_uddin_0/status/2082023795993477326#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082023692222214144%2Fimg%2FleXf9d-8hABODU-5.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/burhan_uddin_0/status/2082023795993477326#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082023749709434881%2Fimg%2F-ThQWqopLdRIBPHO.jpg\" />\n</a>",
-      "author": "@burhan_uddin_0"
-    },
-    {
       "title": "R to @Goreunit: People*",
       "link": "https://nitter.net/Goreunit/status/2082021990291087682#m",
       "source": "War & Gore",
@@ -1507,16 +1509,6 @@
       "author": "@DefenceDecode"
     },
     {
-      "title": "RT by @NetramDefence: IAF initiates process for SDR integration on 36 MiG-29 aircraft (29 fighters, 7 trainers). \u2705 SDR (Netcor 1 & 2) to interface via MIL-1553 bus for NCO capability \u2705 Integration sites: AFS Adampur, AFS Srinagar, 11 BRD Nasik \u2705 Delivery to be executed in 8 staggered batches over 18 months \u2705 EW systems (D-29RWJ/Talisman NTE-29) to remain unaffected by integration",
-      "link": "https://nitter.net/alpha_defense/status/2081583862639952130#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-27T09:04:01+05:30",
-      "time": "27 Jul, 09:04 AM",
-      "type": "tweets",
-      "content": "<p>IAF initiates process for SDR integration on 36 MiG-29 aircraft (29 fighters, 7 trainers).<br />\n\u2705 SDR (Netcor 1 & 2) to interface via MIL-1553 bus for NCO capability<br />\n\u2705 Integration sites: AFS Adampur, AFS Srinagar, 11 BRD Nasik<br />\n\u2705 Delivery to be executed in 8 staggered batches over 18 months<br />\n\u2705 EW systems (D-29RWJ/Talisman NTE-29) to remain unaffected by integration</p>\n<img src=\"https://nitter.net/pic/media%2FHONFffbWAAA1_3K.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "IAF initiates process for SDR integration on 36 MiG-29 aircraft (29 fighters, 7 trainers). \u2705 SDR (Netcor 1 & 2) to interface via MIL-1553 bus for NCO capability \u2705 Integration sites: AFS Adampur, AFS Srinagar, 11 BRD Nasik \u2705 Delivery to be executed in 8 staggered batches over 18 months \u2705 EW systems (D-29RWJ/Talisman NTE-29) to remain unaffected by integration",
       "link": "https://nitter.net/alpha_defense/status/2081583862639952130#m",
       "source": "Alpha Defense",
@@ -1558,6 +1550,15 @@
     }
   ],
   "youtube": [
+    {
+      "title": "China Deployed J-20 Near LAC,Kya Ab India GCAP Join Karega?,DRDO SAAW 1st Combat Use Against PAK?",
+      "link": "https://www.youtube.com/watch?v=2AD5QDa4KgA",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-28T22:46:44+05:30",
+      "time": "28 Jul, 10:46 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/2AD5QDa4KgA/mqdefault.jpg"
+    },
     {
       "title": "Defence Updates - 7 Tejas MK2 Ready, DRDO Data Leak, IAF Weapon Kit,  AMCA 1st Flight By 2028",
       "link": "https://www.youtube.com/watch?v=1hwa4wW5HQg",
@@ -1605,6 +1606,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
