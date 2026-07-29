@@ -1,7 +1,16 @@
 {
   "news": [
     {
-      "title": "Three Indians lured by holiday offer, kidnapped in Thailand; police allege Pakistani mastermind",
+      "title": "Rajnath Singh launches India's first military medicine facility to bolster defences against 'emerging threats'",
+      "link": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-launches-indias-first-military-medicine-facility-to-bolster-defences-against-emerging-threats/articleshow/132711503.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-29T17:33:03+05:30",
+      "time": "29 Jul, 05:33 PM",
+      "type": "news",
+      "description": "The defence minister virtually inaugurated the Department of Military Medicine at the Command Hospital (Central Command) in Lucknow, asserting it will..."
+    },
+    {
+      "title": "5 Indians held in Thailand for kidnapping Indian tourists; cops allege Pakistani link",
       "link": "https://indianexpress.com/article/world/5-indians-arrested-thailand-pattaya-kidnapping-dubai-mastermind-ransom-10808921/",
       "source": "The Indian Express",
       "sort_key": "2026-07-29T17:15:10+05:30",
@@ -19,13 +28,13 @@
       "description": "As unrest in Pakistan-occupied Jammu and Kashmir (PoJK) continues to escalate, a human rights body has called on the Office of the United Nations High..."
     },
     {
-      "title": "Pakistan defence minister says PoK protesters &#8216;enemies&#8217; like India, rules out dialogue",
+      "title": "Pak defence minister says PoK protesters &#8216;enemies&#8217; like India; rules out dialogue as toll rises to 37",
       "link": "https://www.tribuneindia.com/news/pakistan/pakistan-defence-minister-says-pok-protesters-enemies-like-india-rules-out-dialogue",
       "source": "The Tribune",
       "sort_key": "2026-07-29T16:32:33+05:30",
       "time": "29 Jul, 04:32 PM",
       "type": "news",
-      "description": "Terming protesters in Pakistan-occupied Kashmir (PoK) as &#8220;enemies&#8221; like India, Pakistan&#8217;s Defence Minister Khawaja Asif has said the..."
+      "description": "Pakistan Defence Minister Khawaja Asif has termed the protesters in Pakistan-occupied Kashmir as &#8220;enemies&#8221; like India and ruled out dialog..."
     },
     {
       "title": "Eight Jharkhand-Based Naxalites Surrender in Bijapur",
@@ -656,27 +665,49 @@
       "time": "27 Jul, 07:17 PM",
       "type": "news",
       "description": "Saudi Arabia intercepted drones launched by Iran-backed militias in Iraq. Mediators are pushing to revive diplomacy and restore an interim ceasefire a..."
-    },
-    {
-      "title": "Zen Technologies unveils indigenous portable anti-drone system for high-altitude operations",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/zen-technologies-unveils-indigenous-portable-anti-drone-system-for-high-altitude-operations/132662000",
-      "source": "Economic Times",
-      "sort_key": "2026-07-27T18:11:05+05:30",
-      "time": "27 Jul, 06:11 PM",
-      "type": "news",
-      "description": "Designed for deployment in difficult terrain, the system supports swarm detection and all-weather operations while being transportable by soldiers, AT..."
-    },
-    {
-      "title": "518 million years ago, one tiny sea creature may have started the evolution of the fangs",
-      "link": "https://timesofindia.indiatimes.com/world/china/518-million-years-ago-one-tiny-sea-creature-may-have-started-the-evolution-of-the-fangs-seen-in-spiders-today/articleshow/132660572.cms",
-      "source": "Times of India",
-      "sort_key": "2026-07-27T18:00:00+05:30",
-      "time": "27 Jul, 06:00 PM",
-      "type": "news",
-      "description": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/132660572.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />"
     }
   ],
   "tweets": [
+    {
+      "title": "Delhi in Quotes",
+      "link": "https://nitter.net/sidhant/status/2082443905019343015#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-29T18:01:31+05:30",
+      "time": "29 Jul, 06:01 PM",
+      "type": "tweets",
+      "content": "<p>Delhi in Quotes</p>\n<img src=\"https://nitter.net/pic/media%2FHOZTrtQa0AAGegz.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Some lads with their stories of \"View from office\" are crazy.",
+      "link": "https://nitter.net/elitepredatorss/status/2082443875868881074#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-07-29T18:01:24+05:30",
+      "time": "29 Jul, 06:01 PM",
+      "type": "tweets",
+      "content": "<p>Some lads with their stories of \"View from office\" are crazy.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2082443875868881074#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082443851189612544%2Fimg%2F5kCd7T_QCerV6CRx.jpg\" />\n</a>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Dhaka: India's high commissioner to Bangladesh Dinesh Trivedi meets Bangladesh foreign minister Khalilur Rahman",
+      "link": "https://nitter.net/sidhant/status/2082436918613266624#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-29T17:33:45+05:30",
+      "time": "29 Jul, 05:33 PM",
+      "type": "tweets",
+      "content": "<p>Dhaka: India's high commissioner to Bangladesh Dinesh Trivedi meets Bangladesh foreign minister Khalilur Rahman</p>\n<img src=\"https://nitter.net/pic/media%2FHOZNVo4bUAAssLz.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Ukraine embassy in Delhi says its request for talks between Ukraine\u2019s Foreign Minister & India\u2019s External Affairs Minister on \"security in the Black Sea remains unanswered\"",
+      "link": "https://nitter.net/sidhant/status/2082434658743308765#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-29T17:24:47+05:30",
+      "time": "29 Jul, 05:24 PM",
+      "type": "tweets",
+      "content": "<p>Ukraine embassy in Delhi says its request for talks between Ukraine\u2019s Foreign Minister &amp; India\u2019s External Affairs Minister on \"security in the Black Sea remains unanswered\"</p>\n<hr />\n<blockquote>\n<b>Ukraine in India (@UkrembInd)</b>\n<p>\n<p>Disturbing news continues to emerge from Ukraine\u2019s Black Sea ports as Russia intensifies its attacks on civilian vessels and port infrastructure.<br />\n<br />\nThirteen Indian seafarers remain stranded aboard MV AMIR 1 in the Port of Chornomorsk, under the continuing threat of Russian missile and drone attacks. Russia\u2019s actions have already caused deaths and injuries among Indian seafarers in the Black Sea.<br />\n<br />\nUkrainian authorities are providing all possible assistance and remain in close contact with the Embassy of India in Ukraine regarding the affected seafarers.<br />\n<br />\nWe regret that our request to arrange a telephone conversation between Ukraine\u2019s Foreign Minister and India\u2019s External Affairs Minister on security in the Black Sea remains unanswered.<br />\n<br />\nThe situation also calls for a closer comparison of the two security advisories issued by <a href=\"https://nitter.net/dgshipping_IN\" title=\"Directorate General of Shipping, Govt. of India\">@dgshipping_IN</a> India\u2019s Directorate General of Maritime Administration regarding the Strait of Hormuz on 15 July 2026 and the Black Sea on 23 July 2026.<br />\n<br />\nSuch a comparison raises serious questions as to whether the measures recommended for the Black Sea correspond to the level of risk faced by Indian seafarers, particularly in light of the repeated Russian attacks on civilian vessels and the loss of Indian lives.<br />\n<br />\nWe took note of the recent statement by the Forward Seamen\u2019s Union of India calling for stronger measures to protect Indian seafarers operating in high-risk maritime areas. We share its concerns and expect that our repeated warnings regarding the deteriorating security situation in the Black Sea, together with these calls from India\u2019s maritime community, will prompt appropriate preventive measures by the Ministry of External Affairs of India and the Directorate General of Maritime Administration to better ensure the safety and protection of Indian seafarers.<br />\n<br />\nThe Russian Charg\u00e9 d\u2019Affaires was summoned to the Ministry of External Affairs following the attack on the MV Golden Leo, which claimed four Indian lives. As Russian attacks continue to endanger Indian seafarers, will MEA summon the Russian representative once again for further explanations?</p>\n<img src=\"https://nitter.net/pic/media%2FHOZH67SbAAAGcJ7.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/UkrembInd/status/2082433442856448251#m\">https://nitter.net/UkrembInd/status/2082433442856448251#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "PAK DEFENCE MINISTER CALLS PoK PROTESTERS \u2018ENEMIES\u2019 Pakistan Defence Minister Khawaja Asif has branded protesters in Pakistan-occupied Kashmir as \u201cenemies\u201d comparable to India, declaring there will be no dialogue with them. \u201cI put them in the same category as India and consider them enemies of Pakistan.\u201d - Khawaja Asif The remarks come amid escalating unrest in PoK, where the JAAC says at least 20 protesters have been killed and dozens injured in clashes with security forces since Monday. Authorities dispute the casualty figures and accuse protesters of firing on security personnel. Internet services remain suspended, while protests continue amid allegations of political manipulation, denial of rights and economic grievances.",
       "link": "https://nitter.net/NetramDefence/status/2082432443567513858#m",
@@ -884,7 +915,7 @@
       "sort_key": "2026-07-29T11:14:55+05:30",
       "time": "29 Jul, 11:14 AM",
       "type": "tweets",
-      "content": "<p>Simplified AHTAEP - It is a positive step in right direction.<br />\n<a href=\"https://piped.video/watch?v=r9pjLBcKOXQ\">piped.video/watch?v=r9pjLBcK\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/watch?v=r9pjLBcKOXQ\">\n<img src=\"https://nitter.net/pic/card_img%2F2082341586604826624%2F9MDqX3WN%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India\u2019s High Thrust Aero Engine Program</b>\n</a>\n<p>https://discord.gg/e98b5WydVpOur Web:https://alphadefense.in\u200b\u200b\u200b\u200b\u200b\u200b...</p>\n<small><a href=\"https://piped.video/watch?v=r9pjLBcKOXQ\">youtube.com</a></small>",
+      "content": "<p>Simplified AHTAEP - It is a positive step in right direction.<br />\n<a href=\"https://piped.video/watch?v=r9pjLBcKOXQ\">piped.video/watch?v=r9pjLBcK\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/watch?v=r9pjLBcKOXQ\">\n<b>India\u2019s High Thrust Aero Engine Program</b>\n</a>\n<p>https://discord.gg/e98b5WydVpOur Web:https://alphadefense.in\u200b\u200b\u200b\u200b\u200b\u200b...</p>\n<small><a href=\"https://piped.video/watch?v=r9pjLBcKOXQ\">youtube.com</a></small>",
       "author": "@alpha_defense"
     },
     {
@@ -1288,36 +1319,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "India is looking to purchase liquefied natural gas (LNG) produced in the Russian Arctic, says Russian Deputy Foreign Minister Andrey Rudenko in an interview with Russian Arctic and Far East Development portal.",
-      "link": "https://nitter.net/sidhant/status/2082104866567237765#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-28T19:34:18+05:30",
-      "time": "28 Jul, 07:34 PM",
-      "type": "tweets",
-      "content": "<p>India is looking to purchase liquefied natural gas (LNG) produced in the Russian Arctic, says Russian Deputy Foreign Minister Andrey Rudenko in an interview with Russian Arctic and Far East Development portal.</p>\n<img src=\"https://nitter.net/pic/media%2FHOUfVgmbsAEJAif.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "20 dead in Pakistan occupied Kashmir violence, say reports",
-      "link": "https://nitter.net/sidhant/status/2082103171095359863#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-28T19:27:34+05:30",
-      "time": "28 Jul, 07:27 PM",
-      "type": "tweets",
-      "content": "<p>20 dead in Pakistan occupied Kashmir violence, say reports</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Eyewitness reports casualties in Rawalakot, Pakistan occupied Kashmir</p>\n<a href=\"https://nitter.net/sidhant/status/2081786494394728530#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081786456327225344%2Fimg%2FgvnkziHOERV9nUKX.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2081786494394728530#m\">https://nitter.net/sidhant/status/2081786494394728530#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Trump to meet Zelenskyy, Netanyahu later today",
-      "link": "https://nitter.net/sidhant/status/2082102069490827533#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-28T19:23:11+05:30",
-      "time": "28 Jul, 07:23 PM",
-      "type": "tweets",
-      "content": "<p>Trump to meet Zelenskyy, Netanyahu later today</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: \"I put the protesters of PojK in the same category as India and consider them as enemies\": Pak Def Min Khawaja Asif",
       "link": "https://nitter.net/OsintTV/status/2082098148495773699#m",
       "source": "Osint TV",
@@ -1610,6 +1611,15 @@
   ],
   "youtube": [
     {
+      "title": "Indian Defence Updates : GTRE New 110 Kn Engine,GCAP Last Chance,16000Cr Drone Order,Nagpaash Jammer",
+      "link": "https://www.youtube.com/watch?v=ToUMBlV2NbM",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-07-29T18:05:33+05:30",
+      "time": "29 Jul, 06:05 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/ToUMBlV2NbM/mqdefault.jpg"
+    },
+    {
       "title": "India\u2019s Advance High Thrust Engine",
       "link": "https://www.youtube.com/watch?v=xxFMDv5J0bk",
       "source": "Alpha Defense - Hindi",
@@ -1662,18 +1672,9 @@
       "time": "27 Jul, 09:03 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/Ptjk3I5HJvo/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : 130 Kn AMCA Engine Offer,New Rudram-4 Spotted,114 Rafale Deal Breaker",
-      "link": "https://www.youtube.com/watch?v=DbFwvb5_nH8",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-07-27T17:41:59+05:30",
-      "time": "27 Jul, 05:41 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/DbFwvb5_nH8/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
