@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "US Senate clears Russia sanctions bill which calls for 100% tariffs, India among countries at risk",
+      "link": "https://indianexpress.com/article/world/us-senate-clears-russia-sanctions-bill-100-tariffs-lindsey-graham-india-among-countries-at-risk-10808287/",
+      "source": "The Indian Express",
+      "sort_key": "2026-07-29T08:45:35+05:30",
+      "time": "29 Jul, 08:45 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Iran to receive Chinese air-defence missiles within weeks: Report",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-to-receive-chinese-air-defence-missiles-within-weeks-report/articleshow/132698998.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-29T08:41:55+05:30",
+      "time": "29 Jul, 08:41 AM",
+      "type": "news",
+      "description": "Iran is expected to receive Chinese-made air-defence missile launchers within weeks.  This purchase aims to bolster Iran's defenses after recent milit..."
+    },
+    {
       "title": "Iran proposes temporary Hormuz plan to Oman, giving itself greater control over transit lines",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-proposes-temporary-hormuz-plan-to-oman-giving-itself-greater-control-over-transit-lines/articleshow/132697446.cms",
       "source": "Economic Times",
@@ -28,7 +46,7 @@
       "description": "US Iran war news: Saudi Arabia and U.S. CENTCOM conducted targeted strikes against Iran-backed groups in Iraq. These groups were blamed for recent dro..."
     },
     {
-      "title": "US, Saudi military shoots down Iranian attacks as Mideast tensions escalate",
+      "title": "US shoots down Iranian missile as Saudi joins strikes against Iran-backed militias",
       "link": "https://economictimes.indiatimes.com/news/defence/us-military-shoots-down-iranian-ballistic-missiles-targeting-its-middle-east-forces/articleshow/132697119.cms",
       "source": "Economic Times",
       "sort_key": "2026-07-29T06:28:17+05:30",
@@ -656,18 +674,69 @@
       "time": "27 Jul, 10:14 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "CENTCOM chief advised halting Hormuz strikes before Trump paused Iran campaign: Report",
-      "link": "https://economictimes.indiatimes.com/news/defence/centcom-chief-advised-halting-hormuz-strikes-before-trump-paused-iran-campaign-report/articleshow/132651886.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-27T09:20:05+05:30",
-      "time": "27 Jul, 09:20 AM",
-      "type": "news",
-      "description": "US Central Command chief advised stopping strikes near Strait of Hormuz due to limited effectiveness. President Trump halted American military strikes..."
     }
   ],
   "tweets": [
+    {
+      "title": "RT @OsintTV: \ud83d\udea8 Exclusive hospital visuals from Mang, PoJK. Retired Pakistan Army SSG commando Farooq Sudhan, accused of training terrorist\u2026",
+      "link": "https://nitter.net/OsintTV/status/2082309596991967669#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-29T09:07:50+05:30",
+      "time": "29 Jul, 09:07 AM",
+      "type": "tweets",
+      "content": "<p>RT <a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a>: \ud83d\udea8 Exclusive hospital visuals from Mang, PoJK.<br />\n<br />\nRetired Pakistan Army SSG commando Farooq Sudhan, accused of training terrorist\u2026</p>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "India condemns attacks by Houthis on maritime navigation, says Indian Ambassador to UN Parvathaneni Harish",
+      "link": "https://nitter.net/sidhant/status/2082308817619153216#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-29T09:04:44+05:30",
+      "time": "29 Jul, 09:04 AM",
+      "type": "tweets",
+      "content": "<p>India condemns attacks by Houthis on maritime navigation, says Indian Ambassador to UN Parvathaneni Harish</p>\n<a href=\"https://nitter.net/sidhant/status/2082308817619153216#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082308719325642752%2Fimg%2FmNI37kxRYewvG0EW.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Sovereignty, independence, unity & territorial integrity of Syria must remain central to all efforts, says Indian Ambassador to UN Parvathaneni Harish",
+      "link": "https://nitter.net/sidhant/status/2082308445794116051#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-29T09:03:15+05:30",
+      "time": "29 Jul, 09:03 AM",
+      "type": "tweets",
+      "content": "<p>Sovereignty, independence, unity &amp; territorial integrity of Syria must remain central to all efforts, says Indian Ambassador to UN Parvathaneni Harish</p>\n<a href=\"https://nitter.net/sidhant/status/2082308445794116051#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082308375581462528%2Fimg%2FFLfz6LJCfEDZgqwt.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India has strongly condemned all attacks on UNIFIL peacekeepers in Lebanon, says Indian Ambassador to UN Parvathaneni Harish",
+      "link": "https://nitter.net/sidhant/status/2082308132555137155#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-29T09:02:00+05:30",
+      "time": "29 Jul, 09:02 AM",
+      "type": "tweets",
+      "content": "<p>India has strongly condemned all attacks on UNIFIL peacekeepers in Lebanon, says Indian Ambassador to UN Parvathaneni Harish</p>\n<a href=\"https://nitter.net/sidhant/status/2082308132555137155#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082308042025254912%2Fimg%2FrpJQAHw-lZfV-6IY.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We strongly condemn the recent attacks on several vessels, GFS Galaxy, MT Al Bahiyah and MT Mombasa among them, during their transit through the Strait of Hormuz, this month says Indian Ambassador to UN @AmbHarishP",
+      "link": "https://nitter.net/sidhant/status/2082307646229811490#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-29T09:00:04+05:30",
+      "time": "29 Jul, 09:00 AM",
+      "type": "tweets",
+      "content": "<p>We strongly condemn the recent attacks on several vessels, GFS Galaxy, MT Al Bahiyah and MT Mombasa among them, during their transit through the Strait of Hormuz, this month says Indian Ambassador to UN <a href=\"https://nitter.net/AmbHarishP\" title=\"Parvathaneni Harish\">@AmbHarishP</a></p>\n<a href=\"https://nitter.net/sidhant/status/2082307646229811490#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082307514373459968%2Fimg%2F1BeL6z-zER-3TpeN.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\ud83d\udea8 Exclusive hospital visuals from Mang, PoJK. Retired Pakistan Army SSG commando Farooq Sudhan, accused of training terrorists to wage attacks against India in Jammu and Kashmir, is reportedly undergoing treatment after being critically injured in firing by Pakistani forces while protesting against Pakistan. \ud83d\udea8Viewers Discretion Advised",
+      "link": "https://nitter.net/OsintTV/status/2082306009838547441#m",
+      "source": "Osint TV",
+      "sort_key": "2026-07-29T08:53:34+05:30",
+      "time": "29 Jul, 08:53 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Exclusive hospital visuals from Mang, PoJK.<br />\n<br />\nRetired Pakistan Army SSG commando Farooq Sudhan, accused of training terrorists to wage attacks against India in Jammu and Kashmir, is reportedly undergoing treatment after being critically injured in firing by Pakistani forces while protesting against Pakistan.<br />\n<br />\n\ud83d\udea8Viewers Discretion Advised</p>\n<a href=\"https://nitter.net/OsintTV/status/2082306009838547441#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082305911888961536%2Fimg%2FrL-sSTONFFZsnU1S.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 Sources says retired Pakistan Army SSG commando Farooq Sudhan, who trained terrorists targeting India with ISI support, has been injured in firing by Pakistani forces during the unrest in PoJK.<br />\n<br />\nHe has been shifted to Mang / Mung Hospital for treatment.<br />\n<br />\nAur karo training, aur karo support, Karma doesn't miss.</p>\n<img src=\"https://nitter.net/pic/media%2FHOUJIOvXUAAZ_Xn.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2082081082359378323#m\">https://nitter.net/OsintTV/status/2082081082359378323#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
     {
       "title": "\"The need for comprehensive UN Security Council reforms cannot be more pronounced, & more urgent. It cannot be held hostage by the narrow, divisive interests of a select few Member States\", Indian envoy to UN Parvathaneni Harish",
       "link": "https://nitter.net/sidhant/status/2082179346131984449#m",
@@ -835,7 +904,7 @@
       "sort_key": "2026-07-28T20:53:12+05:30",
       "time": "28 Jul, 08:53 PM",
       "type": "tweets",
-      "content": "<p>Joint Awami Action Committee - Party that is leading the PoJK protests officially calls PoJK an Occupied territory \ud83d\udd25<br />\n<br />\nThe stage has been set- 'Azadi' !</p>\n<hr />\n<blockquote>\n<b>Awami Action Committe (@JAAC__Official)</b>\n<p>\n<p>\u0622\u0632\u0627\u062f \u06a9\u0634\u0645\u06cc\u0631 \u274c<br />\n\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u06cc \u0645\u0642\u0628\u0648\u0636\u06c1 \u06a9\u0634\u0645\u06cc\u0631 \u2705<br />\nAzad Kashmir \u274c<br />\nPakistani occupied Kashmir \u2705</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/JAAC__Official/status/2082049749335621752#m\">https://nitter.net/JAAC__Official/status/2082049749335621752#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Joint Awami Action Committee - Party that is leading the PoJK protests officially calls PoJK an Occupied territory \ud83d\udd25<br />\n<br />\nThe stage has been set- 'Azadi' !</p>\n<hr />\n<blockquote>\n<b>Rebel Pulse (@Rebel__Pulse)</b>\n<p>\n<p>\u0622\u0632\u0627\u062f \u06a9\u0634\u0645\u06cc\u0631 \u274c<br />\n\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u06cc \u0645\u0642\u0628\u0648\u0636\u06c1 \u06a9\u0634\u0645\u06cc\u0631 \u2705<br />\nAzad Kashmir \u274c<br />\nPakistani occupied Kashmir \u2705</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Rebel__Pulse/status/2082049749335621752#m\">https://nitter.net/Rebel__Pulse/status/2082049749335621752#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
     },
     {
@@ -869,7 +938,7 @@
       "author": "@Goreunit"
     },
     {
-      "title": "\ud83d\udccd@X algorithm sucks, especially when it comes to genuine updates on PoJK protest. Many ground reports and visuals are struggling to get the reach they deserve. Whether it is due to algorithmic limitations or content moderation issues, the result remains the same, important voices are getting buried. The same concerns are being raised about Meta platforms as well. A platform that claims to support free expression should ensure transparency and equal reach, especially during situations where people are trying to share information from the ground. Hamare Pradhan Mantri ka speech tak delete kar sakte hain, toh hum kis khet ki mooli hain. FYR: @elonmusk @lindayaX @Support @Safety @XEng @PIB_India @MIB_India @Gol_MeitY @mygovindia",
+      "title": "RT by @OsintTV: \ud83d\udccd@X algorithm sucks, especially when it comes to genuine updates on PoJK protest. Many ground reports and visuals are struggling to get the reach they deserve. Whether it is due to algorithmic limitations or content moderation issues, the result remains the same, important voices are getting buried. The same concerns are being raised about Meta platforms as well. A platform that claims to support free expression should ensure transparency and equal reach, especially during situations where people are trying to share information from the ground. Hamare Pradhan Mantri ka speech tak delete kar sakte hain, toh hum kis khet ki mooli hain. FYR: @elonmusk @lindayaX @Support @Safety @XEng @PIB_India @MIB_India @Gol_MeitY @mygovindia",
       "link": "https://nitter.net/OsintTV/status/2082114933068829159#m",
       "source": "Osint TV",
       "sort_key": "2026-07-28T20:14:18+05:30",
@@ -1025,7 +1094,7 @@
       "sort_key": "2026-07-28T17:35:37+05:30",
       "time": "28 Jul, 05:35 PM",
       "type": "tweets",
-      "content": "<p>Post from the civil society movement in Pakistan occupied Kashmir:</p>\n<hr />\n<blockquote>\n<b>Awami Action Committe (@JAAC__Official)</b>\n<p>\n<p>\u0622\u0632\u0627\u062f \u06a9\u0634\u0645\u06cc\u0631 \u274c<br />\n\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u06cc \u0645\u0642\u0628\u0648\u0636\u06c1 \u06a9\u0634\u0645\u06cc\u0631 \u2705<br />\nAzad Kashmir \u274c<br />\nPakistani occupied Kashmir \u2705</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/JAAC__Official/status/2082049749335621752#m\">https://nitter.net/JAAC__Official/status/2082049749335621752#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>Post from the civil society movement in Pakistan occupied Kashmir:</p>\n<hr />\n<blockquote>\n<b>Rebel Pulse (@Rebel__Pulse)</b>\n<p>\n<p>\u0622\u0632\u0627\u062f \u06a9\u0634\u0645\u06cc\u0631 \u274c<br />\n\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u06cc \u0645\u0642\u0628\u0648\u0636\u06c1 \u06a9\u0634\u0645\u06cc\u0631 \u2705<br />\nAzad Kashmir \u274c<br />\nPakistani occupied Kashmir \u2705</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Rebel__Pulse/status/2082049749335621752#m\">https://nitter.net/Rebel__Pulse/status/2082049749335621752#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1109,36 +1178,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Invitation has been extended to Nepal PM Balen Shah to visit India, says MEA Spox",
-      "link": "https://nitter.net/sidhant/status/2082057406352441364#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-28T16:25:43+05:30",
-      "time": "28 Jul, 04:25 PM",
-      "type": "tweets",
-      "content": "<p>Invitation has been extended to Nepal PM Balen Shah to visit India, says MEA Spox</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India's Gen Z wants Pakistan ends cross border terror, says MEA Spox on Pakistan's Gen Z appreciating India's Gen Z",
-      "link": "https://nitter.net/sidhant/status/2082056950540578992#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-28T16:23:54+05:30",
-      "time": "28 Jul, 04:23 PM",
-      "type": "tweets",
-      "content": "<p>India's Gen Z wants Pakistan ends cross border terror, says MEA Spox on Pakistan's Gen Z appreciating India's Gen Z</p>\n<a href=\"https://nitter.net/sidhant/status/2082056950540578992#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082056898942251008%2Fimg%2FfV4H2SFFNegkTJGs.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "6 Indians Vessels, 125 Indian sailors in Persian gulf, says MEA Spox",
-      "link": "https://nitter.net/sidhant/status/2082056630032843044#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-28T16:22:37+05:30",
-      "time": "28 Jul, 04:22 PM",
-      "type": "tweets",
-      "content": "<p>6 Indians Vessels, 125 Indian sailors in Persian gulf, says MEA Spox</p>\n<a href=\"https://nitter.net/sidhant/status/2082056630032843044#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082056513112379392%2Fimg%2FPQxKSngzMHkmySzP.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Pakistani security forces opened fire on Unarmed protesters in Mirpur, Pakistan Occupied Kashmir (PoK). Dozens of protesters have been reported killed or injured.",
       "link": "https://nitter.net/NetramDefence/status/2082056266592178459#m",
       "source": "Netram Defense",
@@ -1147,16 +1186,6 @@
       "type": "tweets",
       "content": "<p>Pakistani security forces opened fire on Unarmed protesters in Mirpur, Pakistan Occupied Kashmir (PoK). Dozens of protesters have been reported killed or injured.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2082056266592178459#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082055841335902208%2Fimg%2FD8EYQnlf3BjgHBZZ.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/NetramDefence/status/2082056266592178459#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082055841335914497%2Fimg%2F3WG-TZcmlNrOZtpn.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Latest visuals from Rawalakot Hospital, PoJK, where the protesters injured  by Pakistani security forces are being admitted.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2081993210961006811#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081992917321981952%2Fimg%2F480VrOmA-bikWEqh.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2081993210961006811#m\">https://nitter.net/NetramDefence/status/2081993210961006811#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "MEA Spox on India readout on Foreign Secretary Vikram Misri's Beijing visit:",
-      "link": "https://nitter.net/sidhant/status/2082055440482054254#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-28T16:17:54+05:30",
-      "time": "28 Jul, 04:17 PM",
-      "type": "tweets",
-      "content": "<p>MEA Spox on India readout on Foreign Secretary Vikram Misri's Beijing visit:</p>\n<a href=\"https://nitter.net/sidhant/status/2082055440482054254#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082055275130040320%2Fimg%2F8rBl9YsPkW0bqqpM.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "India restates its stance on SAARC:",
@@ -1177,16 +1206,6 @@
       "type": "tweets",
       "content": "<p>Cosmetic exercise, MEA Spox on so called elections in PoK</p>\n<a href=\"https://nitter.net/sidhant/status/2082054054478504136#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082053935158931456%2Fimg%2Fn6gzoaP2CE25j9zV.jpg\" />\n</a>",
       "author": "@sidhant"
-    },
-    {
-      "title": "RT by @OsintTV: Siliguri corridor ke India Bangladesh border par bhi karya pragati par hai. @BSF_India @SuvenduWB",
-      "link": "https://nitter.net/manishindiatv/status/2082052845893980179#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-28T16:07:35+05:30",
-      "time": "28 Jul, 04:07 PM",
-      "type": "tweets",
-      "content": "<p>Siliguri corridor ke India Bangladesh border par bhi karya pragati par hai. <br />\n<a href=\"https://nitter.net/BSF_India\" title=\"BSF\">@BSF_India</a> <a href=\"https://nitter.net/SuvenduWB\" title=\"Suvendu Adhikari\">@SuvenduWB</a></p>\n<img src=\"https://nitter.net/pic/media%2FHOTwBZRacAAxBG8.jpg\" />",
-      "author": "@manishindiatv"
     },
     {
       "title": "RT by @NetramDefence: Postal services in Manipur's Ukhrul have been suspended indefinitely after a mail van carrying consignments was allegedly intercepted by unidentified miscreants on NH-202. The destroyed consignments reportedly contained several essentials, including passports, ATM cards, etc.",
@@ -1257,16 +1276,6 @@
       "type": "tweets",
       "content": "<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 India-US strategic cooperation is set to expand further across defence, civil nuclear energy, AI and emerging technologies, according to US Assistant Secretary of State S. Paul Kapur.<br />\n<br />\nThe two countries are deepening defence interoperability across land, sea, air, space and cyberspace, while also strengthening critical supply chains and exploring greater civil nuclear collaboration.<br />\n<br />\nIndia already operates major US-origin platforms including Apache, Chinook, C-17, C-130J, P-8I and M777 systems.<br />\n<br />\nThe next phase of the partnership increasingly extends beyond defence procurement into technology, nuclear energy and trusted AI.</p>\n<img src=\"https://nitter.net/pic/media%2FHOTXYSqbMAAy3en.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "RT by @OsintTV: Heavy shelling and firing by Rangers continues in Mirpur, Kashmir. \ud83d\udc94 The video appears to show Pak forces opening fire on Kashmir civilians. Bodies, injured people, can be seen lying on the roads. Pak forces\u2019 brutality and oppression on Kashmiri civilians is worse than even Israel\u2019s.",
-      "link": "https://nitter.net/burhan_uddin_0/status/2082023795993477326#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-28T14:12:09+05:30",
-      "time": "28 Jul, 02:12 PM",
-      "type": "tweets",
-      "content": "<p>Heavy shelling and firing by Rangers continues in Mirpur, Kashmir. \ud83d\udc94<br />\n<br />\nThe video appears to show Pak forces opening fire on Kashmir civilians.<br />\n<br />\nBodies, injured people, can be seen lying on the roads.<br />\n<br />\nPak forces\u2019 brutality and oppression on Kashmiri civilians is worse than even Israel\u2019s.</p>\n<a href=\"https://nitter.net/burhan_uddin_0/status/2082023795993477326#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082023692222214144%2Fimg%2FleXf9d-8hABODU-5.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/burhan_uddin_0/status/2082023795993477326#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082023749709434881%2Fimg%2F-ThQWqopLdRIBPHO.jpg\" />\n</a>",
-      "author": "@burhan_uddin_0"
     },
     {
       "title": "R to @Goreunit: People*",
@@ -1357,16 +1366,6 @@
       "type": "tweets",
       "content": "<p>List of innocent civilians who were killed by Pakistan army yesterday during peaceful protest in Pakistan occupied Kashmir.<br />\nTotal 19 protestors have been killed. <br />\n<br />\n1. Usman Nazir \u2013 Rawalakot<br />\n2. Muhammad Muzammil Ali \u2013 Sojhal<br />\n3. Zargham Khalil \u2013 Drake<br />\n4. Contractor Naeem Butt \u2013 Kotli<br />\n5. Fida Hussain \u2013 Garala, Tarar Khel<br />\n6. Faheem Afzal \u2013 Chhota Gala<br />\n7. Kashif Yaqoob \u2013 Chhota Gala<br />\n8. Saqib Hanif \u2013 Rairh Ban, Rawalakot<br />\n9. Saqib Ishaq \u2013 Namb Gawara, Plandri<br />\n10. Nisar Dhaman \u2013 Pakhonar<br />\n11. Arif Asghar \u2013 Tatta Pani<br />\n12. Basit Shah \u2013 Hajira<br />\n13. Mushtaq Sahib\u2019s son \u2013 Hajira<br />\n14. Usman Gul \u2013 Drake Dhoke<br />\n15. Jaffair Pehlwan \u2013 Tarar Khel<br />\n16. Nisar Shaheen \u2013 Pakhonar<br />\n17. Unknown\u200c\u200c<br />\n<br />\nTranslation: mr-Latn-en<br />\nList of innocent civilians who were killed by Pakistan army yesterday during peaceful protest <br />\n<br />\n1. Usman Nazir \u2013 Rawalakot<br />\n2. Muhammad Muzammil Ali \u2013 Sojhal<br />\n3. Zargham Khalil \u2013 Drake<br />\n4. Contractor Naeem Butt \u2013 Kotli<br />\n5. Fida Hussain \u2013 Garala, Tarar Khel<br />\n6. Faheem Afzal \u2013 Chhota Gala<br />\n7. Kashif Yaqoob \u2013 Chhota Gala<br />\n8. Saqib Hanif \u2013 Rairh Ban, Rawalakot<br />\n9. Saqib Ishaq \u2013 Namb Gawara, Plandri<br />\n10. Nisar Dhaman \u2013 Pakhonar<br />\n11. Arif Asghar \u2013 Tatta Pani<br />\n12. Basit Shah \u2013 Hajira<br />\n13. Mushtaq Sahib's son \u2013 Hajira<br />\n14. Usman Gul \u2013 Drake Dhoke<br />\n15. Jaffair Pehlwan \u2013 Tarar Khel<br />\n16. Nisar Shaheen \u2013 Pakhonar<br />\n17. Unknown\u200c\u200c<a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/hrw\" title=\"Human Rights Watch\">@hrw</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/BBCHindi\" title=\"BBC News Hindi\">@BBCHindi</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/France24_ar\" title=\"\u0641\u0631\u0627\u0646\u0633\u00a024\u00a0/\u00a0FRANCE\u00a024\">@France24_ar</a></p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8 SHAMEFUL!<br />\n\ud83d\udc94An eyewitness's account of the massacre of innocent civilians by Pakistani forces!!<br />\nHe's pleading global human rights organisations to speak up for them...!! <br />\nHave some shame and atleast take cognizance of the \ud83c\uddf5\ud83c\uddf0 state enabled massacre of people of PoJK.<br />\nHow many human lives need to be lost for you guys to wake up??<br />\n<a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> <a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a> <a href=\"https://nitter.net/hrw\" title=\"Human Rights Watch\">@hrw</a> <a href=\"https://nitter.net/AJEnglish\" title=\"Al Jazeera English\">@AJEnglish</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a> <a href=\"https://nitter.net/washingtonpost\" title=\"The Washington Post\">@washingtonpost</a></p>\n<a href=\"https://nitter.net/Goreunit/status/2081945733339779203#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081944789357088768%2Fimg%2FRjSzF04LIfMaPohH.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2081945733339779203#m\">https://nitter.net/Goreunit/status/2081945733339779203#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "\ud83d\udea8 PoJK - Rawalakot Long March turns deadly. Reportedly, 19 protesters lost their lives in firing by Pakistani forces on 27 July 2026, according to sources. 1) Naeem Butt 2) Usman Nazir 3) Nisar Ahmad 4) Kashif Yaqoob 5) Sardar Fida Hussain 6) Muzammil Ali 7) Basit Shah 8) Fahim Afzal 9) Kamran Mushtaq 10) Zargham Khalil 11) Saqib Hanif 12) Saqib Ishaq 13) Ariel Asghar 14) Usman Gul 15) Jafir Pehlwan 16) Nisar Shehbaz 17) Ali Hussain 18) Khawaja Abrar Latif 19) Kamran Hafiz",
-      "link": "https://nitter.net/OsintTV/status/2081947428886806697#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-28T09:08:42+05:30",
-      "time": "28 Jul, 09:08 AM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 PoJK - Rawalakot Long March turns deadly. <br />\n<br />\nReportedly, 19 protesters lost their lives in firing by Pakistani forces on 27 July 2026, according to sources.<br />\n<br />\n1) Naeem Butt  <br />\n2) Usman Nazir  <br />\n3) Nisar Ahmad  <br />\n4) Kashif Yaqoob  <br />\n5) Sardar Fida Hussain  <br />\n6) Muzammil Ali  <br />\n7) Basit Shah  <br />\n8) Fahim Afzal  <br />\n9) Kamran Mushtaq  <br />\n10) Zargham Khalil  <br />\n11) Saqib Hanif  <br />\n12) Saqib Ishaq  <br />\n13) Ariel Asghar  <br />\n14) Usman Gul  <br />\n15) Jafir Pehlwan  <br />\n16) Nisar Shehbaz  <br />\n17) Ali Hussain  <br />\n18) Khawaja Abrar Latif  <br />\n19) Kamran Hafiz</p>",
-      "author": "@OsintTV"
     },
     {
       "title": "\ud83d\udea8 SHAMEFUL! \ud83d\udc94An eyewitness's account of the massacre of innocent civilians by Pakistani forces!! He's pleading global human rights organisations to speak up for them...!! Have some shame and atleast take cognizance of the \ud83c\uddf5\ud83c\uddf0 state enabled massacre of people of PoJK. How many human lives need to be lost for you guys to wake up?? @UN_HRC @UNHumanRights @EURightsAgency @hrw @AJEnglish @BBCWorld @washingtonpost",
@@ -1587,30 +1586,10 @@
       "type": "tweets",
       "content": "<p>Remembering <a href=\"https://nitter.net/search?f=tweets&amp;q=%23BharatRatna\">#BharatRatna</a> Dr. A.P.J. Abdul Kalam on his Punyatithi.<br />\nFrom pioneering indigenous missile programmes to inspiring millions as People's President, his legacy of innovation, humility and nation-building continues to guide \ud83c\uddee\ud83c\uddf3's march towards self-reliance and excellence.</p>\n<img src=\"https://nitter.net/pic/media%2FHONPPqRbAAA-4uY.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "IAF initiates process for SDR integration on 36 MiG-29 aircraft (29 fighters, 7 trainers). \u2705 SDR (Netcor 1 & 2) to interface via MIL-1553 bus for NCO capability \u2705 Integration sites: AFS Adampur, AFS Srinagar, 11 BRD Nasik \u2705 Delivery to be executed in 8 staggered batches over 18 months \u2705 EW systems (D-29RWJ/Talisman NTE-29) to remain unaffected by integration",
-      "link": "https://nitter.net/alpha_defense/status/2081583862639952130#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-27T09:04:01+05:30",
-      "time": "27 Jul, 09:04 AM",
-      "type": "tweets",
-      "content": "<p>IAF initiates process for SDR integration on 36 MiG-29 aircraft (29 fighters, 7 trainers).<br />\n\u2705 SDR (Netcor 1 & 2) to interface via MIL-1553 bus for NCO capability<br />\n\u2705 Integration sites: AFS Adampur, AFS Srinagar, 11 BRD Nasik<br />\n\u2705 Delivery to be executed in 8 staggered batches over 18 months<br />\n\u2705 EW systems (D-29RWJ/Talisman NTE-29) to remain unaffected by integration</p>\n<img src=\"https://nitter.net/pic/media%2FHONFffbWAAA1_3K.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "RT by @NetramDefence: The real hero \ud83d\ude4f\ud83c\udffb",
-      "link": "https://nitter.net/The_NehaJoshi/status/2081573730778833254#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-27T08:23:45+05:30",
-      "time": "27 Jul, 08:23 AM",
-      "type": "tweets",
-      "content": "<p>The real hero \ud83d\ude4f\ud83c\udffb</p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>In a profound act of humanity, the family of Naib Risaldar Virender Singh ingh donated his organs following his passing in line of duty, giving a fresh lease of life to six critically ill patients across the country.<br />\n<br />\nThe Armoured Corps JCO suffered a brain stroke while deployed at 16,000 feet in Ladakh. Despite swift aero-medical evacuation to Command Hospital, Chandimandir, he was declared brain dead on July 21. His wife, Kusum, volunteered to donate his vital organs.<br />\n<br />\nThrough a green corridor coordinated by Military Police and civil authorities, the organs were distributed nationwide:<br />\n\u25aa\ufe0f Lungs airlifted to KIMS Hyderabad<br />\n\u25aa\ufe0f Liver transferred to Army Hospital (R&amp;R), New Delhi<br />\n\u25aa\ufe0f Kidneys & corneas allocated to CH Chandimandir and SOTTO Haryana<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a><br />\n<a href=\"https://nitter.net/NorthernComd_IA\" title=\"NORTHERN COMMAND - INDIAN ARMY\">@NorthernComd_IA</a><br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a><br />\n<a href=\"https://nitter.net/westerncomd_IA\" title=\"Western Command - Indian Army\">@westerncomd_IA</a><br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a><br />\n<a href=\"https://nitter.net/easterncomd\" title=\"EasternCommand_IA\">@easterncomd</a><br />\n<a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a><br />\n<a href=\"https://nitter.net/IaSouthern\" title=\"Southern Command INDIAN ARMY\">@IaSouthern</a><br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a><br />\n<a href=\"https://nitter.net/IN_HQENC\" title=\"Eastern Naval Command \ud83c\uddee\ud83c\uddf3\">@IN_HQENC</a><br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a><br />\n<a href=\"https://nitter.net/IN_WNC\" title=\"Western Naval Command\">@IN_WNC</a><br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a><br />\n<a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a><br />\n<a href=\"https://nitter.net/rashtrapatibhvn\" title=\"President of India\">@rashtrapatibhvn</a></p>\n<img src=\"https://nitter.net/pic/media%2FHOJJUx9bcAAoyVH.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOJM4oBbIAA5ZOg.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2081310579097006349#m\">https://nitter.net/NetramDefence/status/2081310579097006349#m</a>\n</footer>\n</blockquote>",
-      "author": "@The_NehaJoshi"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
