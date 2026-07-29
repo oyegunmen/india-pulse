@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Iran proposes temporary Hormuz plan to Oman, giving itself greater control over transit lines",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-proposes-temporary-hormuz-plan-to-oman-giving-itself-greater-control-over-transit-lines/articleshow/132697446.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-29T07:51:02+05:30",
+      "time": "29 Jul, 07:51 AM",
+      "type": "news",
+      "description": "Iran proposed a temporary Strait of Hormuz arrangement to Oman.  This plan involves traffic passing through Iranian waters in both directions.  Tehran..."
+    },
+    {
+      "title": "Death toll in brutal crackdown by Pakistani forces in PoJK rises to 30 during past two days",
+      "link": "https://newsonair.gov.in/death-toll-in-brutal-crackdown-by-pakistani-forces-in-pojk-rises-to-30-during-past-two-days/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-29T07:46:52+05:30",
+      "time": "29 Jul, 07:46 AM",
+      "type": "news",
+      "description": "The PoJK is currently engulfed with a wave of protests against the Pakistani authorities since months. Pakistan&#8217;s military and authority has bee..."
+    },
+    {
+      "title": "Saudi Arabia says it struck Iran-backed groups in Iraq with US coordination",
+      "link": "https://economictimes.indiatimes.com/news/defence/saudi-arabia-says-it-struck-iran-backed-groups-in-iraq-with-us-coordination/articleshow/132697533.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-29T07:24:33+05:30",
+      "time": "29 Jul, 07:24 AM",
+      "type": "news",
+      "description": "US Iran war news: Saudi Arabia and U.S. CENTCOM conducted targeted strikes against Iran-backed groups in Iraq. These groups were blamed for recent dro..."
+    },
+    {
+      "title": "US, Saudi military shoots down Iranian attacks as Mideast tensions escalate",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-military-shoots-down-iranian-ballistic-missiles-targeting-its-middle-east-forces/articleshow/132697119.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-29T06:28:17+05:30",
+      "time": "29 Jul, 06:28 AM",
+      "type": "news",
+      "description": "US Iran war news: United States forces intercepted an Iranian ballistic missile attack targeting American troops.  US and Saudi Arabia forces then str..."
+    },
+    {
       "title": "C\u2019garh\u2019s Proposal To Create Bastar Regiment In Indian Army Under Examination, Says Rajnath Singh",
       "link": "https://www.deccanchronicle.com/nation/cgarhs-proposal-to-create-bastar-regiment-in-indian-army-under-examination-says-rajnath-singh-1974773",
       "source": "Deccan Chronicle",
@@ -143,15 +179,6 @@
       "time": "28 Jul, 05:55 PM",
       "type": "news",
       "description": "India&#8217;s first-ever direct commercial container freight train has reached Nepal, marking a new chapter in rail-based cross-border freight movemen..."
-    },
-    {
-      "title": "'Are they terrorists?' Priyanka Gandhi questions pellet gun use on students, demands answer from PM, Amit Shah",
-      "link": "https://www.indiatvnews.com/news/india/are-they-terrorists-priyanka-gandhi-questions-pellet-gun-use-on-students-demands-answer-from-pm-amit-shah-2026-07-28-1049645",
-      "source": "India TV",
-      "sort_key": "2026-07-28T17:26:23+05:30",
-      "time": "28 Jul, 05:26 PM",
-      "type": "news",
-      "description": "Congress MP Priyanka Gandhi Vadra on Tuesday mounted a sharp attack on the Centre during the <a href=\"https://www.indiatvnews.com/news/india/parliamen..."
     },
     {
       "title": "France evacuates around 4000 people from tourist areas on Atlantic coast amid wildfire",
@@ -550,15 +577,6 @@
       "description": "Several protestors claimed to have suffered grievous injuries due to the use of pellet guns as part of the action taken by the RAF and the Delhi Polic..."
     },
     {
-      "title": "22nd Commonwealth Table Tennis Championship begins in New Delhi",
-      "link": "https://newsonair.gov.in/22nd-commonwealth-table-tennis-championship-begins-in-new-delhi/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-27T12:54:26+05:30",
-      "time": "27 Jul, 12:54 PM",
-      "type": "news",
-      "description": "The 22nd Commonwealth Table Tennis Championship 2026 commenced today in New Delhi.\u00a0 Addressing the inaugural ceremony of the event Delhi Chief Ministe..."
-    },
-    {
       "title": "Ukraine wants prototype of European missile defence system by mid-2027, official says",
       "link": "https://economictimes.indiatimes.com/news/defence/ukraine-wants-prototype-of-european-missile-defence-system-by-mid-2027-official-says/articleshow/132654777.cms",
       "source": "Economic Times",
@@ -647,24 +665,6 @@
       "time": "27 Jul, 09:20 AM",
       "type": "news",
       "description": "US Central Command chief advised stopping strikes near Strait of Hormuz due to limited effectiveness. President Trump halted American military strikes..."
-    },
-    {
-      "title": "Donald Trump dismisses concerns over US missile stockpiles amid Iran conflict",
-      "link": "https://economictimes.indiatimes.com/news/defence/donald-trump-dismisses-concerns-over-us-missile-stockpiles-amid-iran-conflict/articleshow/132650605.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-27T06:55:57+05:30",
-      "time": "27 Jul, 06:55 AM",
-      "type": "news",
-      "description": "US President Donald Trump has dismissed concerns that the United States is running low on critical missile interceptors amid its conflict with Iran, i..."
-    },
-    {
-      "title": "Syria seeks security pact with Israel, says President Sharaa",
-      "link": "https://economictimes.indiatimes.com/news/defence/syria-seeks-security-pact-with-israel-says-president-sharaa/articleshow/132650460.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-27T06:27:37+05:30",
-      "time": "27 Jul, 06:27 AM",
-      "type": "news",
-      "description": "Syrian President Ahmed al-Sharaa seeks a security agreement with Israel for peace.  Israel seized strategic territories after Bashar Al Assad fell to ..."
     }
   ],
   "tweets": [
@@ -1607,75 +1607,10 @@
       "type": "tweets",
       "content": "<p>The real hero \ud83d\ude4f\ud83c\udffb</p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>In a profound act of humanity, the family of Naib Risaldar Virender Singh ingh donated his organs following his passing in line of duty, giving a fresh lease of life to six critically ill patients across the country.<br />\n<br />\nThe Armoured Corps JCO suffered a brain stroke while deployed at 16,000 feet in Ladakh. Despite swift aero-medical evacuation to Command Hospital, Chandimandir, he was declared brain dead on July 21. His wife, Kusum, volunteered to donate his vital organs.<br />\n<br />\nThrough a green corridor coordinated by Military Police and civil authorities, the organs were distributed nationwide:<br />\n\u25aa\ufe0f Lungs airlifted to KIMS Hyderabad<br />\n\u25aa\ufe0f Liver transferred to Army Hospital (R&amp;R), New Delhi<br />\n\u25aa\ufe0f Kidneys & corneas allocated to CH Chandimandir and SOTTO Haryana<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a><br />\n<a href=\"https://nitter.net/NorthernComd_IA\" title=\"NORTHERN COMMAND - INDIAN ARMY\">@NorthernComd_IA</a><br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a><br />\n<a href=\"https://nitter.net/westerncomd_IA\" title=\"Western Command - Indian Army\">@westerncomd_IA</a><br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a><br />\n<a href=\"https://nitter.net/easterncomd\" title=\"EasternCommand_IA\">@easterncomd</a><br />\n<a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a><br />\n<a href=\"https://nitter.net/IaSouthern\" title=\"Southern Command INDIAN ARMY\">@IaSouthern</a><br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a><br />\n<a href=\"https://nitter.net/IN_HQENC\" title=\"Eastern Naval Command \ud83c\uddee\ud83c\uddf3\">@IN_HQENC</a><br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a><br />\n<a href=\"https://nitter.net/IN_WNC\" title=\"Western Naval Command\">@IN_WNC</a><br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a><br />\n<a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a><br />\n<a href=\"https://nitter.net/rashtrapatibhvn\" title=\"President of India\">@rashtrapatibhvn</a></p>\n<img src=\"https://nitter.net/pic/media%2FHOJJUx9bcAAoyVH.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOJM4oBbIAA5ZOg.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2081310579097006349#m\">https://nitter.net/NetramDefence/status/2081310579097006349#m</a>\n</footer>\n</blockquote>",
       "author": "@The_NehaJoshi"
-    },
-    {
-      "title": "Houthi forces claim to have shot down a Saudi-operated Bayraktar Ak\u0131nc\u0131 UCAV over Al Jawf province \u2705 Houthi spokesman Yahya Saree says it was struck with \u201can appropriate weapon\u201d \u2705 Sanaa-based forces released wreckage footage; claim so far unconfirmed by Saudi Arabia \u2705 Incident follows escalation since July 20 Houthi-declared blockade on Saudi shipping",
-      "link": "https://nitter.net/alpha_defense/status/2081564964180091002#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-27T07:48:55+05:30",
-      "time": "27 Jul, 07:48 AM",
-      "type": "tweets",
-      "content": "<p>Houthi forces claim to have shot down a Saudi-operated Bayraktar Ak\u0131nc\u0131 UCAV over Al Jawf province<br />\n\u2705 Houthi spokesman Yahya Saree says it was struck with \u201can appropriate weapon\u201d<br />\n\u2705 Sanaa-based forces released wreckage footage; claim so far unconfirmed by Saudi Arabia<br />\n\u2705 Incident follows escalation since July 20 Houthi-declared blockade on Saudi shipping</p>\n<a href=\"https://nitter.net/alpha_defense/status/2081564964180091002#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081564815882059776%2Fimg%2F8zWYHS935cxsX94U.jpg\" />\n</a>",
-      "author": "@alpha_defense"
     }
   ],
-  "youtube": [
-    {
-      "title": "China Deployed J-20 Near LAC,Kya Ab India GCAP Join Karega?,DRDO SAAW 1st Combat Use Against PAK?",
-      "link": "https://www.youtube.com/watch?v=2AD5QDa4KgA",
-      "source": "Indian Defense News",
-      "sort_key": "2026-07-28T22:46:44+05:30",
-      "time": "28 Jul, 10:46 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/2AD5QDa4KgA/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - 7 Tejas MK2 Ready, DRDO Data Leak, IAF Weapon Kit,  AMCA 1st Flight By 2028",
-      "link": "https://www.youtube.com/watch?v=1hwa4wW5HQg",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-28T22:07:41+05:30",
-      "time": "28 Jul, 10:07 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/1hwa4wW5HQg/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : Su-57 Dropped,11 J-20 Near India,AMCA Delayed,1013 Crore Export Order",
-      "link": "https://www.youtube.com/watch?v=lH7Kfu4z5eY",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-07-28T17:28:57+05:30",
-      "time": "28 Jul, 05:28 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/lH7Kfu4z5eY/mqdefault.jpg"
-    },
-    {
-      "title": "DRDO Ka Secret Missile Leak?,Indian Offset policy Failed!,Super Mig-29 Upgrade,Pralay Missile ready!",
-      "link": "https://www.youtube.com/watch?v=Oqt8v_aJK3Y",
-      "source": "Indian Defense News",
-      "sort_key": "2026-07-28T06:30:04+05:30",
-      "time": "28 Jul, 06:30 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/Oqt8v_aJK3Y/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - India Tridon Mk 2 Air-Defence System, Indian Army Drone Radar, IAF Sureshastra Mk1",
-      "link": "https://www.youtube.com/watch?v=Ptjk3I5HJvo",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-27T21:03:16+05:30",
-      "time": "27 Jul, 09:03 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/Ptjk3I5HJvo/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : 130 Kn AMCA Engine Offer,New Rudram-4 Spotted,114 Rafale Deal Breaker",
-      "link": "https://www.youtube.com/watch?v=DbFwvb5_nH8",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-07-27T17:41:59+05:30",
-      "time": "27 Jul, 05:41 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/DbFwvb5_nH8/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
