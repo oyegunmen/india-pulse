@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Drone strike hits LNG vessel at Egypt's Damietta Port",
+      "link": "https://economictimes.indiatimes.com/news/defence/drone-strike-hits-lng-vessel-at-egypts-damietta-port/articleshow/132724860.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-30T07:29:12+05:30",
+      "time": "30 Jul, 07:29 AM",
+      "type": "news",
+      "description": "An explosion rocked an LNG vessel at Egypt's Damietta Port after a drone strike. This incident raises fears of conflict spreading to energy hubs. US a..."
+    },
+    {
+      "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-strikes-58-6-billion-patriot-missile-deal-amid-rising-stockpile-concerns-lockheed-martin/articleshow/132724764.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-30T07:23:49+05:30",
+      "time": "30 Jul, 07:23 AM",
+      "type": "news",
+      "description": "The US Army awarded Lockheed Martin a significant contract for Patriot interceptor missiles. This deal aims to bolster depleted weapons stockpiles due..."
+    },
+    {
       "title": "Salman Rushdie Attacker Convicted of Terrorism Charges: US Justice Dept",
       "link": "https://www.deccanchronicle.com/world/americas/salman-rushdie-attacker-convicted-of-terrorism-charges-us-justice-dept-1975095",
       "source": "Deccan Chronicle",
@@ -719,24 +737,6 @@
       "time": "28 Jul, 08:25 AM",
       "type": "news",
       "description": "Iranian drones struck multiple locations in Iraq's Erbil region early Tuesday.  These attacks triggered large fires and several explosions near the US..."
-    },
-    {
-      "title": "Trump says US isn't involved in Houthis-Saudi Arabia conflict, but it 'may' step in",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-us-isnt-involved-in-houthis-saudi-arabia-conflict-but-it-may-step-in/articleshow/132673834.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-28T08:22:15+05:30",
-      "time": "28 Jul, 08:22 AM",
-      "type": "news",
-      "description": "President Trump stated the United States is not currently involved in the Saudi-Houthi conflict.  He mentioned ongoing negotiations with Saudi Arabia ..."
-    },
-    {
-      "title": "US begins review of force presence in Europe",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-begins-review-of-force-presence-in-europe/articleshow/132673567.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-28T07:53:02+05:30",
-      "time": "28 Jul, 07:53 AM",
-      "type": "news",
-      "description": "The United States is reviewing its military presence in Europe.  This analysis aims to ensure Europe takes primary responsibility for its defense.  US..."
     }
   ],
   "tweets": [
@@ -1583,6 +1583,15 @@
   ],
   "youtube": [
     {
+      "title": "Su-57 Ka Naya Killer Missile! \ud83d\ude33 ,Tejas Mk2 Fir Delay Risk ? ,INS Vishal Cancel?",
+      "link": "https://www.youtube.com/watch?v=pwCFGogkNOI",
+      "source": "Indian Defense News",
+      "sort_key": "2026-07-30T07:30:34+05:30",
+      "time": "30 Jul, 07:30 AM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/pwCFGogkNOI/mqdefault.jpg"
+    },
+    {
       "title": "Defence Updates - Indian Army \u20b916000 Crore UAV, Tejas MK1A Radome, Department Of Military Medicine",
       "link": "https://www.youtube.com/watch?v=88_yvzmtgzA",
       "source": "Defense Squad",
@@ -1638,6 +1647,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
