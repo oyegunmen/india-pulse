@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Indian-origin lawyer fined for filing fraudulent asylum claims in United States",
+      "link": "https://www.tribuneindia.com/news/india/indian-origin-lawyer-fined-for-filing-fraudulent-asylum-claims-in-united-states",
+      "source": "The Tribune",
+      "sort_key": "2026-07-30T21:21:42+05:30",
+      "time": "30 Jul, 09:21 PM",
+      "type": "news",
+      "description": "The US has imposed a fine of USD 4.7 lakh on an Indian-origin lawyer for allegedly filing false asylum claims on behalf of his clients, a statement by..."
+    },
+    {
+      "title": "Iran claims to destroy three F-35 jets, damage 3 more in Jordan after US attack",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-claims-to-destroy-three-f-35-jets-damage-3-more-in-jordan-after-us-attack/articleshow/132743529.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-07-30T20:27:10+05:30",
+      "time": "30 Jul, 08:27 PM",
+      "type": "news",
+      "description": "Iran stated it destroyed three US F-35 jets at Jordan's Al-Azraq Air Base. This action was a direct response to American airstrikes on Qeshm Island. U..."
+    },
+    {
+      "title": "Protests continue across PoJK amid deadly crackdown by Pakistani forces",
+      "link": "https://newsonair.gov.in/death-toll-reaches-40-in-pok-following-brutal-crackdown-by-pakistani-forces/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-30T20:10:52+05:30",
+      "time": "30 Jul, 08:10 PM",
+      "type": "news",
+      "description": "Protests continued in Pakistan-occupied Jammu and Kashmir (PoJK) today following a brutal crackdown by Pakistani security forces on civilians earlier ..."
+    },
+    {
       "title": "PM Modi chairs fourth CCS meet on West Asia crisis, stresses energy self-reliance",
       "link": "https://www.indiatvnews.com/news/india/pm-modi-chairs-fourth-ccs-meet-on-west-asia-crisis-stresses-energy-self-reliance-2026-07-30-1049906",
       "source": "India TV",
@@ -8,15 +35,6 @@
       "time": "30 Jul, 07:40 PM",
       "type": "news",
       "description": "<a href=\"https://www.indiatvnews.com/news/india/in-new-video-pm-modi-announces-nandan-nilekani-led-high-powered-task-force-for-exam-reforms-2026-07-26..."
-    },
-    {
-      "title": "Protests continue in PoJK over brutal crackdown by Pak forces on peaceful protestors",
-      "link": "https://newsonair.gov.in/death-toll-reaches-40-in-pok-following-brutal-crackdown-by-pakistani-forces/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-30T19:35:52+05:30",
-      "time": "30 Jul, 07:35 PM",
-      "type": "news",
-      "description": "Protests continued in Pakistan-occupied Jammu and Kashmir (PoJK) today following a brutal crackdown by Pakistani forces on peaceful demonstrations ear..."
     },
     {
       "title": "Cabinet Committee on Security discusses global security situation, supply chain constraints",
@@ -37,7 +55,7 @@
       "description": ""
     },
     {
-      "title": "Pakistan police post attack: How militants used quadcopters to kill 11 officers",
+      "title": "How Pakistan militants used explosive-laden quadcopters before killing 11 police officers",
       "link": "https://indianexpress.com/article/world/pakistan-khyber-pakhtunkhwa-hangu-police-attack-quadcopters-dead-afghanistan-ttp-taliban-10810748/",
       "source": "The Indian Express",
       "sort_key": "2026-07-30T18:55:12+05:30",
@@ -116,24 +134,6 @@
       "time": "30 Jul, 04:25 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "India-UK FTA\u00a0could make UK plants &#8216;unsustainable&#8217;, cautions Tata Steel",
-      "link": "https://www.tribuneindia.com/news/india/india-uk-fta-could-make-uk-plants-unsustainable-cautions-tata-steel",
-      "source": "The Tribune",
-      "sort_key": "2026-07-30T15:44:33+05:30",
-      "time": "30 Jul, 03:44 PM",
-      "type": "news",
-      "description": "Tata Steel UK, a subsidiary of parent company Tata Steel that comes under Indian conglomerate Tata Group, has reportedly warned the UK Government that..."
-    },
-    {
-      "title": "Money laundering case: ED conducts searches at 16 locations across Tamil Nadu, Hyderabad &#038; Mumbai",
-      "link": "https://www.tribuneindia.com/news/india/money-laundering-case-ed-conducts-searches-at-16-locations-across-tamil-nadu-hyderabad-mumbai",
-      "source": "The Tribune",
-      "sort_key": "2026-07-30T15:41:40+05:30",
-      "time": "30 Jul, 03:41 PM",
-      "type": "news",
-      "description": "The Directorate of Enforcement (ED) on Thursday conducted searches at 16 locations across Chennai, Coimbatore, Hyderabad and Mumbai in connection with..."
     },
     {
       "title": "Rajnath Singh felicitates tri-service women sailors after historic global circumnavigation",
@@ -305,15 +305,6 @@
       "time": "30 Jul, 10:06 AM",
       "type": "news",
       "description": "<p>DALLAS. On July 29, 2026, the US government awarded Lockheed Martin a seven-year undefinitized contract action (UCA) modification for up to $53.86 ..."
-    },
-    {
-      "title": "West Asia War Live Updates: Iran\u2019s Revolutionary Guard claims attack on US military base in Kuwait",
-      "link": "https://indianexpress.com/article/world/us-iran-war-live-updates-us-strikes-iran-qeshm-bandar-abbas-to-retaliate-attack-on-jordan-egypt-10809850/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-30T09:40:57+05:30",
-      "time": "30 Jul, 09:40 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Russia charges Telegram founder Pavel Durov with facilitating terrorist activities",
@@ -800,27 +791,59 @@
       "time": "28 Jul, 11:15 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "What a Powerful El Ni\u00f1o Means for the World",
-      "link": "https://foreignpolicy.com/2026/07/28/el-nino-economy-agriculture-weather/",
-      "source": "Foreign Policy",
-      "sort_key": "2026-07-28T20:46:54+05:30",
-      "time": "28 Jul, 08:46 PM",
-      "type": "news",
-      "description": "Governments are bracing for the fallout of the intense weather phenomenon."
-    },
-    {
-      "title": "Did US bombers use Israeli bases to strike Iran? Israel Katz drops a bombshell claim",
-      "link": "https://economictimes.indiatimes.com/news/defence/did-us-bombers-use-israeli-bases-to-launch-strikes-on-iran-israel-katz-lifts-the-lid/articleshow/132687484.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-28T20:23:34+05:30",
-      "time": "28 Jul, 08:23 PM",
-      "type": "news",
-      "description": "Israeli Defense Minister Israel Katz stated US warplanes used Israeli bases for strikes. He warned Israel would respond with full force if attacked. H..."
     }
   ],
   "tweets": [
+    {
+      "title": "PM MODI CHAIRS 4TH SPECIAL CCS MEETING ON WEST ASIA CONFLICT PM Narendra Modi chaired the Cabinet Committee on Security (CCS) to review the ongoing West Asia conflict and its impact on India. Outcomes: \u25aa\ufe0f Create a unified mechanism for continuous crisis monitoring \u25aa\ufe0f Ensure uninterrupted oil, LPG/LNG & fertilizer supplies \u25aa\ufe0f Establish support mechanism for Indian seafarers & families \u25aa\ufe0f Safeguard Indian citizens and diaspora \u25aa\ufe0f Accelerate renewable energy & energy independence Government says India's crude oil and major petroleum product supplies remain adequate, with CPSE refineries operating above 100% utilisation.",
+      "link": "https://nitter.net/NetramDefence/status/2082848472668176895#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-30T20:49:07+05:30",
+      "time": "30 Jul, 08:49 PM",
+      "type": "tweets",
+      "content": "<p>PM MODI CHAIRS 4TH SPECIAL CCS MEETING ON WEST ASIA CONFLICT<br />\n<br />\nPM Narendra Modi chaired the Cabinet Committee on Security (CCS) to review the ongoing West Asia conflict and its impact on India.<br />\n<br />\nOutcomes:<br />\n\u25aa\ufe0f Create a unified mechanism for continuous crisis monitoring<br />\n\u25aa\ufe0f Ensure uninterrupted oil, LPG/LNG & fertilizer supplies<br />\n\u25aa\ufe0f Establish support mechanism for Indian seafarers & families<br />\n\u25aa\ufe0f Safeguard Indian citizens and diaspora<br />\n\u25aa\ufe0f Accelerate renewable energy & energy independence<br />\n<br />\nGovernment says India's crude oil and major petroleum product supplies remain adequate, with CPSE refineries operating above 100% utilisation.</p>\n<img src=\"https://nitter.net/pic/media%2FHOfDpCRbUAARzCK.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "Just in: EAM Jaishankar, Ukraine FM Andrii Sybiha hold talks. Talks come in the backdrop of concerns over safety of Indian sailors in black sea.",
+      "link": "https://nitter.net/sidhant/status/2082846426179195359#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-30T20:41:00+05:30",
+      "time": "30 Jul, 08:41 PM",
+      "type": "tweets",
+      "content": "<p>Just in: EAM Jaishankar, Ukraine FM<br />\nAndrii Sybiha hold talks. Talks come in the backdrop of concerns over safety of Indian sailors in black  sea.</p>\n<hr />\n<blockquote>\n<b>Andrii Sybiha \ud83c\uddfa\ud83c\udde6 (@andrii_sybiha)</b>\n<p>\n<p>As part of our continued dialogue, I had a good call with Indian External Affairs Minister <a href=\"https://nitter.net/DrSJaishankar\" title=\"Dr. S. Jaishankar\">@DrSJaishankar</a>. <br />\n<br />\nWe exchanged updates on our recent international contacts and I briefed my Indian colleague on the outcomes  of President <a href=\"https://nitter.net/ZelenskyyUa\" title=\"Volodymyr Zelenskyy / \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439\">@ZelenskyyUa</a>\u2019s recent visit to Washington, D.C.<br />\n<br />\nI stressed that the consequences of Russian aggression extend far beyond Ukraine's borders. By attacking civilian vessels in the Black Sea, Russia undermines freedom of navigation and puts global food security at risk. At the same time, its continued war fuels instability in global energy markets, affecting countries far beyond our region.<br />\n<br />\nI reaffirmed Ukraine's commitment to achieving a comprehensive and lasting peace and encouraged India to play an active role in peace efforts. We agreed to remain in close contact.</p>\n<img src=\"https://nitter.net/pic/media%2FHOfAg7EWsAACfDU.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/andrii_sybiha/status/2082845074287702210#m\">https://nitter.net/andrii_sybiha/status/2082845074287702210#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Astra Microwave has secured a \u20b92,205.23 crore order for 122 Active Antenna Array Units and 121 Interface Frames for the Uttam #AESA Radar, underscoring the transition of India's indigenous fighter radar into large-scale production.",
+      "link": "https://nitter.net/DefenceDecode/status/2082845477494722704#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-07-30T20:37:13+05:30",
+      "time": "30 Jul, 08:37 PM",
+      "type": "tweets",
+      "content": "<p>Astra Microwave has secured a \u20b92,205.23 crore order for 122 Active Antenna Array Units and 121 Interface Frames for the Uttam <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AESA\">#AESA</a> Radar, underscoring the transition of India's indigenous fighter radar into large-scale production.</p>\n<hr />\n<blockquote>\n<b>Defence Decode\u00ae (@DefenceDecode)</b>\n<p>\n<p>Starting from the 41st unit, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Uttam\">#Uttam</a> AESA will replace the ELM\u20112052 on LCA Tejas.<br />\nTR modules boosted from ~720 to 912+ for superior range &amp; tracking.<br />\nGaN-based version ordered by DRDO (Mar 2025) from AMPL, aligned with LCA Mk2 rollout.</p>\n<img src=\"https://nitter.net/pic/media%2FGtH0kYEWwAAuQyh.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceDecode/status/1932594627477189082#m\">https://nitter.net/DefenceDecode/status/1932594627477189082#m</a>\n</footer>\n</blockquote>",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "High Commissioner of Seychelles to India Lalatiana Accouche, at Seychelles National Day celebrations, points to security issues in Indian Ocean. MoS MEA Kirti Vardhan Singh emphasises on Seychelles having central role in India's Mahasagar policy.",
+      "link": "https://nitter.net/sidhant/status/2082844741184741385#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-30T20:34:18+05:30",
+      "time": "30 Jul, 08:34 PM",
+      "type": "tweets",
+      "content": "<p>High Commissioner of Seychelles to India Lalatiana Accouche, at Seychelles National Day celebrations, points to security issues in Indian Ocean. MoS MEA Kirti Vardhan Singh emphasises on Seychelles having central role in India's Mahasagar policy.</p>\n<img src=\"https://nitter.net/pic/media%2FHOfALm8bQAAHBlw.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Morocco national day celebrated in Delhi. Ambassador of Morocco to India Mohamed Maliki mentions about firming up Defence, Economic ties with India. Also recalls Ibn Battuta's India connect.",
+      "link": "https://nitter.net/sidhant/status/2082843801069248963#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-07-30T20:30:34+05:30",
+      "time": "30 Jul, 08:30 PM",
+      "type": "tweets",
+      "content": "<p>Morocco national day celebrated in Delhi. Ambassador of Morocco to India Mohamed Maliki mentions about firming up Defence, Economic ties with India. Also recalls Ibn Battuta's India connect.</p>\n<img src=\"https://nitter.net/pic/media%2FHOe_TkOa0AEb2xv.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Foreign secretary Vikram Misri in Bhutan. Co-chairs 5th India, Bhutan Development Cooperation Talks on Bhutan\u2019s 13th Five Year Plan with Bhutanese counter part",
       "link": "https://nitter.net/sidhant/status/2082829442947399922#m",
@@ -1092,26 +1115,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "\"Despite the closure of the Strait of Hormuz, we were able to buy and import from other source countries, such as Japan, South Korea, Oman, India, even from Russia, and also from China\", Philippines President in his address to the nation this week",
-      "link": "https://nitter.net/sidhant/status/2082736820690067682#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-30T13:25:28+05:30",
-      "time": "30 Jul, 01:25 PM",
-      "type": "tweets",
-      "content": "<p>\"Despite the closure of the Strait of Hormuz, we were able to buy and import from other source countries, such as Japan, South Korea, Oman, India, even from Russia, and also from China\", Philippines President in his address to the nation this week</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "No information, Chinese foreign ministry Spox on Chinese President Xi Jinping's India visit for BRICS summit; Emphasises on the importance of BRICS, & recalls Indian foreign secretary Vikram Misri's Beijing visit.",
-      "link": "https://nitter.net/sidhant/status/2082735848035098950#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-30T13:21:36+05:30",
-      "time": "30 Jul, 01:21 PM",
-      "type": "tweets",
-      "content": "<p>No information, Chinese foreign ministry Spox on Chinese President Xi Jinping's India visit for BRICS summit; Emphasises on the importance of BRICS, &amp; recalls Indian foreign secretary Vikram Misri's Beijing visit.</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Over the last decade, India's Military posture has shifted from strategic restraint to multi-domain deterrence. Driven by progress toward military theaterization, increased focus on the LAC, indigenous aerospace shields (Akashteer/Kusha), nuclear triad expansion, and record defense exports. Read in detail about these historic changes in the following thread.",
       "link": "https://nitter.net/NetramDefence/status/2082734622241378547#m",
       "source": "Netram Defense",
@@ -1132,16 +1135,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @sidhant: The cockroach has crossed the border, but can it survive Rawalpindi? India\u2019s CJP marched towards Parliament. Pakistan\u2019s Cockroach Awami Party may first need an NOC to post a meme. Because in Pakistani politics, even the algorithm knows when to salute. Watch my latest satire #vlog.",
-      "link": "https://nitter.net/rsrobin1/status/2082730413894803873#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-30T13:00:00+05:30",
-      "time": "30 Jul, 01:00 PM",
-      "type": "tweets",
-      "content": "<p>The cockroach has crossed the border, but can it survive Rawalpindi?<br />\nIndia\u2019s CJP marched towards Parliament. Pakistan\u2019s Cockroach Awami Party may first need an NOC to post a meme.<br />\nBecause in Pakistani politics, even the algorithm knows when to salute.<br />\nWatch my latest satire <a href=\"https://nitter.net/search?f=tweets&amp;q=%23vlog\">#vlog</a>.</p>\n<a href=\"https://nitter.net/rsrobin1/status/2082730413894803873#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2081974183362473984%2Fimg%2F1ZdOy7DON-qPqRLf.jpg\" />\n</a>",
-      "author": "@rsrobin1"
-    },
-    {
       "title": "RT by @NetramDefence: 2 women arrested for \u2018transporting\u2019 explosives, one militant held in Manipur",
       "link": "https://nitter.net/ImphalWarrior/status/2082720571419414819#m",
       "source": "Netram Defense",
@@ -1150,6 +1143,16 @@
       "type": "tweets",
       "content": "<p>2 women arrested for \u2018transporting\u2019 explosives, one militant held in Manipur</p>\n<img src=\"https://nitter.net/pic/media%2FHOdPUNga8AEGVZq.png\" />",
       "author": "@ImphalWarrior"
+    },
+    {
+      "title": "Journalists are being detained and jailed just for covering 'protests' in \ud83c\uddf5\ud83c\uddf0",
+      "link": "https://nitter.net/Goreunit/status/2082705067946209662#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-30T11:19:17+05:30",
+      "time": "30 Jul, 11:19 AM",
+      "type": "tweets",
+      "content": "<p>Journalists are being detained and jailed just for covering 'protests' in \ud83c\uddf5\ud83c\uddf0</p>\n<hr />\n<blockquote>\n<b>CPJ Asia (@CPJAsia)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pakistan\">#Pakistan</a>: CPJ is deeply concerned about the deteriorating health of Times of Kashmir journalist Syed Farhad Ali Shah, who has been detained since June 20 under the Maintenance of Public Order Ordinance after covering protests in Pakistan-administered Kashmir.<br />\n<br />\nHeld for more than a month without charge or judicial proceedings, Shah began a hunger strike on Tuesday, July 28, to protest his arbitrary detention. Authorities must ensure he receives urgent and adequate medical care and immediately and unconditionally release him.<br />\n<br />\n<a href=\"https://cpj.org/2026/07/journalist-syed-farhad-ali-shah-detained-without-charge-over-kashmir-protest-coverage/\">cpj.org/2026/07/journalist-s\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PressFreedom\">#PressFreedom</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23JournalismIsNotACrime\">#JournalismIsNotACrime</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kashmir\">#Kashmir</a> <br />\n<br />\n<a href=\"https://nitter.net/CMShehbaz\" title=\"Shehbaz Sharif\">@CMShehbaz</a> <a href=\"https://nitter.net/PMofAJK\" title=\"Faisal Mumtaz Rathore\">@PMofAJK</a> <a href=\"https://nitter.net/PakPMO\" title=\"Prime Minister&apos;s Office\">@PakPMO</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://cpj.org/2026/07/journalist-syed-farhad-ali-shah-detained-without-charge-over-kashmir-protest-coverage/\">\n<img src=\"https://nitter.net/pic/card_img%2F2082419016631779328%2FlSZ1Rw0e%3Fformat%3Dpng%26name%3D800x419\" />\n<br />\n<b>Journalist Syed Farhad Ali Shah detained without charge over Kashmir protest coverage - Committee...</b>\n</a>\n<p>New York, July 8, 2026\u2014Authorities in Pakistan-administered Kashmir must immediately and unconditionally release journalist Syed Farhad Ali Shah, who was detained by police after covering demonstra...</p>\n<small><a href=\"https://cpj.org/2026/07/journalist-syed-farhad-ali-shah-detained-without-charge-over-kashmir-protest-coverage/\">cpj.org</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/CPJAsia/status/2082505088728473710#m\">https://nitter.net/CPJAsia/status/2082505088728473710#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
     },
     {
       "title": "Kaha se aata hai itna confidence yar \ud83e\udd23",
@@ -1170,6 +1173,16 @@
       "type": "tweets",
       "content": "<p>Iran Set to Receive Hundreds of Chinese MANPADS<br />\n<br />\nIran is preparing to receive 300\u2013400 Chinese QW/FN-series man-portable air-defence missiles in the coming weeks.<br />\n<br />\nThe shipment, estimated at $60\u201370 million, would strengthen Iran\u2019s short-range air-defence capability against drones, helicopters and low-flying aircraft.<br />\n<br />\nThe Chinese delivery comes alongside Iran\u2019s planned procurement of 500 Russian Verba MANPADS launchers and 2,500 missiles, potentially adding another layer to Tehran\u2019s air-defence network.</p>\n<img src=\"https://nitter.net/pic/media%2FHOcqr8ObUAAzwIA.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "Markhor DJ ISPR",
+      "link": "https://nitter.net/Goreunit/status/2082671279954653216#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-30T09:05:01+05:30",
+      "time": "30 Jul, 09:05 AM",
+      "type": "tweets",
+      "content": "<p>Markhor DJ ISPR</p>\n<img src=\"https://nitter.net/pic/media%2FHOcifAlbEAAdVyp.jpg\" />\n\n<hr />\n<blockquote>\n<b>Rodium-A (@RodiumInsights)</b>\n<p>\n<p>\u0635\u0631\u0641 \u0641\u0648\u062c \u06c1\u06cc \u0646\u0627\u0632\u06a9 \u062f\u0648\u0631 \u0633\u06d2 \u0646\u06c1\u06cc\u06ba \u06af\u0630\u0631 \u0631\u06c1\u06cc \u0628\u0644\u06a9\u06c1 \u0688\u06cc \u062c\u06cc \u0622\u0626\u06cc \u0627\u06cc\u0633 \u067e\u06cc \u0622\u0631 \u06a9\u06cc \u067e\u0631\u0627\u0688\u06a9\u0634\u0646 \u06a9\u0645\u067e\u0646\u06cc \u0628\u06be\u06cc \u0632\u0648\u0627\u0644 \u0633\u06d2 \u06af\u0630\u0631 \u0631\u06c1\u06cc \u06c1\u06d2 \ud83d\ude1d</p>\n<a href=\"https://nitter.net/RodiumInsights/status/2082585777427321222#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082585722200985602%2Fimg%2Fkn_2tx2tJrYWRI11.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/RodiumInsights/status/2082585777427321222#m\">https://nitter.net/RodiumInsights/status/2082585777427321222#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
     },
     {
       "title": "\ud83d\udea8Report A major attack targeted Pak Counter Terrorism Department (CTD) camp in the Matta area of Swat district, Khyber Pakhtunkhwa. According to police sources, more than five security personnel were killed and over 20 injured, while four rebels were also killed in the ensuing clashes. Earlier, Tehrik e Taliban Pakistan (TTP) claimed it had destroyed at least three police vehicles, detained seven police personnel, and seized weapons. The group later released photographs purportedly showing police personnel killed or injured in the attack. Reports that injured DSP Dyar Khan later succumbed to his wounds remain unconfirmed. Uncensored pics shared on our TG channel \ud83d\udc47 https://t.me/OsntTV/42539",
@@ -1302,6 +1315,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "Pak forces are murderers, thieves and robbers..... everything except what they're meant to be- Law enforcement! What a clown country..",
+      "link": "https://nitter.net/Goreunit/status/2082449765921636584#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-29T18:24:48+05:30",
+      "time": "29 Jul, 06:24 PM",
+      "type": "tweets",
+      "content": "<p>Pak forces are murderers, thieves and robbers..... everything except what they're meant to be- Law enforcement!<br />\nWhat a clown country..</p>\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>\ud83d\udea8 CCTV footage of the looting by Pakistani Rangers and PoK Police after they gunned down seven protesters in Mirpur yesterday.<br />\n<br />\nThey looted bottles and ice cream. Everything is clearly visible in the footage.</p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2082432750594961478#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082432710405197825%2Fimg%2FlqFFuW7MJ20YyXXa.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2082432750594961478#m\">https://nitter.net/shivank_8mishra/status/2082432750594961478#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
       "title": "Some lads with their stories of \"View from office\" are crazy.",
       "link": "https://nitter.net/elitepredatorss/status/2082443875868881074#m",
       "source": "Elite Predators",
@@ -1342,6 +1365,36 @@
       "author": "@DefenceSahil"
     },
     {
+      "title": "R to @Goreunit: Via - @shivank_8mishra",
+      "link": "https://nitter.net/Goreunit/status/2082373337930666218#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-29T13:21:07+05:30",
+      "time": "29 Jul, 01:21 PM",
+      "type": "tweets",
+      "content": "<p>Via - <a href=\"https://nitter.net/shivank_8mishra\" title=\"Shivank Mishra\">@shivank_8mishra</a></p>\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>Mohammad Osama, seen in the yellow shirt chanting \u201cSarfaroshi Ki Tamanna\u201d on 6 July 2026, was killed by Pakistani Rangers at Chinar Chowk while marching towards Muzaffarabad on 28 July 2026.</p>\n<img src=\"https://nitter.net/pic/media%2FHOYNZcWW8AAaxCO.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2082366619276235196#m\">https://nitter.net/shivank_8mishra/status/2082366619276235196#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "\ud83d\udea8 PAKISTANI ATROCITIES IN POJK Mohammad Osama, seen in the yellow shirt chanting \u201cSarfaroshi Ki Tamanna\u201d on 6 July 2026, was killed by Pakistani Rangers at Chinar Chowk while marching towards Muzaffarabad on 28 July 2026. He was pursuing Ph.D in Qaid e Azam University, Islamabad. @UNHumanRights @UN_HRC @AJEnglish @BBCWorld @hrw @Reuters @EURightsAgency",
+      "link": "https://nitter.net/Goreunit/status/2082373081017016681#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-29T13:20:05+05:30",
+      "time": "29 Jul, 01:20 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 PAKISTANI ATROCITIES IN POJK<br />\n<br />\nMohammad Osama, seen in the yellow shirt chanting \u201cSarfaroshi Ki Tamanna\u201d on 6 July 2026, was killed by Pakistani Rangers at Chinar Chowk while marching towards Muzaffarabad on 28 July 2026.<br />\nHe was pursuing Ph.D in Qaid e Azam University, Islamabad.<br />\n<a href=\"https://nitter.net/UNHumanRights\" title=\"UN Human Rights\">@UNHumanRights</a> <a href=\"https://nitter.net/UN_HRC\" title=\"UN Human Rights Council\">@UN_HRC</a> <a href=\"https://nitter.net/AJEnglish\" title=\"Al Jazeera English\">@AJEnglish</a> <a href=\"https://nitter.net/BBCWorld\" title=\"BBC News (World)\">@BBCWorld</a> <a href=\"https://nitter.net/hrw\" title=\"Human Rights Watch\">@hrw</a> <a href=\"https://nitter.net/Reuters\" title=\"Reuters\">@Reuters</a> <a href=\"https://nitter.net/EURightsAgency\" title=\"EU Fundamental Rights \u27a1\ufe0f #HumanRights\">@EURightsAgency</a></p>\n<img src=\"https://nitter.net/pic/media%2FHOYTRziasAAHORy.jpg\" />\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8POJK PROTESTS:<br />\n'Sarfaroshi ki tamanna ab hamare Dil me hai....\" \ud83d\udd25<br />\nThousands of people gathered at the Rawalakot bus stand and echoed the famous Indian revolutionary anthem by Freedom fighter Pt. Ram Prasad Bismil.<br />\nPeople of PoJK want complete liberation from the tyranny of Pak army.</p>\n<a href=\"https://nitter.net/Goreunit/status/2074067096460484974#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2074066730662637568%2Fimg%2FLWEd2QvpouscIus8.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2074067096460484974#m\">https://nitter.net/Goreunit/status/2074067096460484974#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "\ud83d\udea8Women have joined the ongoing protests in PoJK in large numbers!! The resolve of the people against the Pakistani occupation is stronger than ever!",
+      "link": "https://nitter.net/Goreunit/status/2082371388736979427#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-29T13:13:22+05:30",
+      "time": "29 Jul, 01:13 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8Women have joined the ongoing protests in PoJK in large numbers!!<br />\nThe resolve of the people against the Pakistani occupation is stronger than ever!</p>\n<a href=\"https://nitter.net/Goreunit/status/2082371388736979427#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082368092710256640%2Fimg%2F5lyge6-_pKARtMws.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
       "title": "\ud83d\udea8Mhd Osama Jameel, a PhD Scholar Who Joined the Muzaffarabad March, Killed at Chinar Chowk Mohammad Osama Jameel, a PhD scholar at Quaid-i-Azam University, seen chanting the iconic song in a yellow dress on 6 July 2026, was reportedly killed by Pakistani Rangers at Chinar Chowk on 28 July 2026 while marching towards Muzaffarabad. A young scholar\u2019s life ended amid the ongoing unrest in PoJK. Tip @shivank_8mishra",
       "link": "https://nitter.net/OsintTV/status/2082371061153141220#m",
       "source": "Osint TV",
@@ -1360,6 +1413,26 @@
       "type": "tweets",
       "content": "<p>The tables turned in PoK.<br />\n<br />\nSurrounded from all directions, Pakistani forces were forced to retreat as local resistance grew stronger.<br />\n<br />\nA new chapter of resistance is being written.</p>\n<a href=\"https://nitter.net/OsintTV/status/2082365153648030034#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082365009846272000%2Fimg%2FGbj1VZSHmo-kgP8x.jpg\" />\n</a>",
       "author": "@OsintTV"
+    },
+    {
+      "title": "A Kashmiri woman from the POJK is appealing for assistance from the Indian Army, alleging that Pakistani forces are killing innocent civilians and that a massacre is underway in the region.",
+      "link": "https://nitter.net/Goreunit/status/2082342718001619041#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-29T11:19:26+05:30",
+      "time": "29 Jul, 11:19 AM",
+      "type": "tweets",
+      "content": "<p>A Kashmiri woman from the POJK is appealing for assistance from the Indian Army, alleging that Pakistani forces are killing innocent civilians and that a massacre is underway in the region.</p>\n<a href=\"https://nitter.net/Goreunit/status/2082342718001619041#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082342694068822016%2Fimg%2FSLwH8VueCpAWtUdS.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "RT @BDUTT: Images coming out of POK are horrific as protesters are shot at and bodies lay strewn on the streets",
+      "link": "https://nitter.net/Goreunit/status/2082342304258605397#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-29T11:17:48+05:30",
+      "time": "29 Jul, 11:17 AM",
+      "type": "tweets",
+      "content": "<p>RT <a href=\"https://nitter.net/BDUTT\" title=\"barkha dutt\">@BDUTT</a>: Images coming out of POK are horrific as protesters are shot at and bodies lay strewn on the streets</p>",
+      "author": "@Goreunit"
     },
     {
       "title": "Simplified AHTAEP - It is a positive step in right direction. https://www.youtube.com/watch?v=r9pjLBcKOXQ",
@@ -1390,6 +1463,16 @@
       "type": "tweets",
       "content": "<p>Genocide is the intentional and systematic destruction of a national, ethnic, racial, or religious group, in whole or in part of an region.<br />\n~ Wikipedia <br />\nFYI (<a href=\"https://nitter.net/OfficialDGISPR\" title=\"DG ISPR\">@OfficialDGISPR</a>)</p>\n<hr />\n<blockquote>\n<b>Mumtaz Safi (@msafi82)</b>\n<p>\n<p>\u0645\u06cc\u0631\u067e\u0648\u0631 \u06a9\u0634\u0645\u06cc\u0631 \u06a9\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644 \u0627\u0646\u062a\u06c1\u0627\u0626\u06cc \u062a\u0634\u0648\u06cc\u0634 \u0646\u0627\u06a9 \u0628\u062a\u0627\u0626\u06cc \u06c1\u06d2\u06d4 \u062f\u0631\u062c\u0646\u0648\u06ba \u0644\u0627\u0634\u06cc\u06ba \u067e\u0691\u06cc \u06c1\u06cc\u06ba\u060c \u0633\u06cc\u06a9\u06cc\u0648\u0631\u0679\u06cc \u0641\u0648\u0631\u0633\u0632 \u06a9\u06cc \u06a9\u0627\u0631\u0631\u0648\u0627\u0626\u06cc \u0645\u06cc\u06ba \u0645\u0627\u0631\u06d2 \u06af\u0626\u06d2 \u06c1\u06cc\u06ba\u06d4 <a href=\"https://nitter.net/search?f=tweets&amp;q=%23\u06a9\u0634\u0645\u06cc\u0631\">#\u06a9\u0634\u0645\u06cc\u0631</a></p>\n<a href=\"https://nitter.net/msafi82/status/2082041527107518550#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082041360253890560%2Fimg%2Ff9FOvbSi6A82DAD6.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/msafi82/status/2082041527107518550#m\">https://nitter.net/msafi82/status/2082041527107518550#m</a>\n</footer>\n</blockquote>",
       "author": "@alpha_defense"
+    },
+    {
+      "title": "\"No space for Pakistan in PoJK\"\ud83d\udd25 JAAC leader Sardar Aman Khan makes it clear to the Pakistani army and establishment!",
+      "link": "https://nitter.net/Goreunit/status/2082320722635133386#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-29T09:52:02+05:30",
+      "time": "29 Jul, 09:52 AM",
+      "type": "tweets",
+      "content": "<p>\"No space for Pakistan in PoJK\"\ud83d\udd25<br />\nJAAC leader Sardar Aman Khan makes it clear to the Pakistani army and establishment!</p>\n<a href=\"https://nitter.net/Goreunit/status/2082320722635133386#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082141491976392704%2Fimg%2FjMDgF8fH76xknLwu.jpg\" />\n</a>",
+      "author": "@Goreunit"
     },
     {
       "title": "R to @OsintTV: Source \ud83d\udc47",
@@ -1538,6 +1621,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
