@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "US sanctions India, China, Russia entities over alleged support to Iran's Mahan Air, IRGC",
+      "link": "https://www.newindianexpress.com/india/2026/Jul/31/us-sanctions-india-china-russia-entities-over-alleged-support-to-irans-mahan-air-irgc",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-31T08:52:51+05:30",
+      "time": "31 Jul, 08:52 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Saudi Arabia & 13 other countries announce maritime defence alliance to protect shipping in key waterways of West Asia",
+      "link": "https://newsonair.gov.in/saudi-arabia-13-other-countries-announce-maritime-defence-alliance-to-protect-shipping-in-key-waterways-of-west-asia/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-31T08:32:24+05:30",
+      "time": "31 Jul, 08:32 AM",
+      "type": "news",
+      "description": "Saudi Arabia and 13 other countries have established a maritime defence coalition aimed at protecting shipping in key waterways of West Asia. The anno..."
+    },
+    {
+      "title": "US President Trump announces deal for complete disarmament of Hamas and other armed groups in Gaza",
+      "link": "https://newsonair.gov.in/us-president-trump-announces-deal-for-complete-disarmament-of-hamas-and-other-armed-groups-in-gaza/",
+      "source": "All India Radio",
+      "sort_key": "2026-07-31T08:30:07+05:30",
+      "time": "31 Jul, 08:30 AM",
+      "type": "news",
+      "description": "US President Donald Trump has said that the Board of Peace has reached an agreement for the complete disarmament of Hamas and other armed groups in Ga..."
+    },
+    {
       "title": "Iran urges Bulgaria to reconsider hosting US military aircraft",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-urges-bulgaria-to-reconsider-hosting-us-military-aircraft/articleshow/132753667.cms",
       "source": "Economic Times",
@@ -28,24 +55,6 @@
       "description": ""
     },
     {
-      "title": "US President Trump announces deal for complete disarmament of Hamas and other armed groups in Gaza",
-      "link": "https://newsonair.gov.in/us-president-trump-announces-deal-for-complete-disarmament-of-hamas-and-other-armed-groups-in-gaza/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-31T07:33:07+05:30",
-      "time": "31 Jul, 07:33 AM",
-      "type": "news",
-      "description": "US President Donald Trump has said that the Board of Peace has reached an agreement for the complete disarmament of Hamas and other armed groups in Ga..."
-    },
-    {
-      "title": "Saudi Arabia & 13 other countries announce maritime defence alliance to protect shipping in key waterways of West Asia",
-      "link": "https://newsonair.gov.in/saudi-arabia-13-other-countries-announce-maritime-defence-alliance-to-protect-shipping-in-key-waterways-of-west-asia/",
-      "source": "All India Radio",
-      "sort_key": "2026-07-31T07:05:24+05:30",
-      "time": "31 Jul, 07:05 AM",
-      "type": "news",
-      "description": "Saudi Arabia and 13 other countries have established a maritime defence coalition aimed at protecting shipping in key waterways of West Asia. The anno..."
-    },
-    {
       "title": "Iran claims to destroy drone hangars, fuel depot destroyed at US base in Kuwait",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-claims-to-destroy-drone-hangars-fuel-depot-destroyed-at-us-base-in-kuwait-war/articleshow/132753113.cms",
       "source": "Economic Times",
@@ -64,7 +73,7 @@
       "description": "The move comes after Yemen's Iran-backed Houthis said last week they were imposing a maritime embargo on Saudi Arabia, the world's top oil exporter, a..."
     },
     {
-      "title": "Coal mine blast in Pakistan kills at least 32 miners, traps 10 others",
+      "title": "What caused the Pakistan coal mine blast that killed 32 miners?",
       "link": "https://indianexpress.com/article/world/pakistan-coal-mine-blast-quetta-miners-killed-10811363/",
       "source": "The Indian Express",
       "sort_key": "2026-07-31T06:47:48+05:30",
@@ -107,6 +116,15 @@
       "time": "31 Jul, 01:11 AM",
       "type": "news",
       "description": "The availability of fertilisers for the ensuing rabi sowing season and the safety of Indian seafarers came up prominently at a meeting of the Cabinet ..."
+    },
+    {
+      "title": "Coal mine blast in Pakistan kills at least 32 miners and traps 10 others",
+      "link": "https://www.newindianexpress.com/world/2026/Jul/30/coal-mine-blast-in-pakistan-kills-at-least-32-miners-and-traps-10-others",
+      "source": "New Indian Express",
+      "sort_key": "2026-07-31T00:44:52+05:30",
+      "time": "31 Jul, 12:44 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "Iran war: Why Gulf nations are turning to China, not US, to reopen Strait of Hormuz",
@@ -179,15 +197,6 @@
       "time": "30 Jul, 09:47 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Indian-origin lawyer fined for filing fraudulent asylum claims in United States",
-      "link": "https://www.tribuneindia.com/news/india/indian-origin-lawyer-fined-for-filing-fraudulent-asylum-claims-in-united-states",
-      "source": "The Tribune",
-      "sort_key": "2026-07-30T21:21:42+05:30",
-      "time": "30 Jul, 09:21 PM",
-      "type": "news",
-      "description": "The US has imposed a fine of USD 4.7 lakh on an Indian-origin lawyer for allegedly filing false asylum claims on behalf of his clients, a statement by..."
     },
     {
       "title": "Iran claims to destroy three F-35 jets, damage 3 more in Jordan after US attack",
@@ -827,27 +836,29 @@
       "time": "29 Jul, 09:53 AM",
       "type": "news",
       "description": "Escalating tensions with Iran have severely drained the stock of U.S. missile interceptors, notably affecting the inventory levels of Patriot and THAA..."
-    },
-    {
-      "title": "US Senate clears Russia sanctions bill: India among top countries facing 100% tariffs",
-      "link": "https://indianexpress.com/article/world/us-senate-clears-russia-sanctions-bill-100-tariffs-lindsey-graham-india-among-countries-at-risk-10808287/",
-      "source": "The Indian Express",
-      "sort_key": "2026-07-29T08:45:35+05:30",
-      "time": "29 Jul, 08:45 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Iran to receive Chinese air-defence missiles within weeks: Report",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-to-receive-chinese-air-defence-missiles-within-weeks-report/articleshow/132698998.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-29T08:41:55+05:30",
-      "time": "29 Jul, 08:41 AM",
-      "type": "news",
-      "description": "Iran is expected to receive Chinese-made air-defence missile launchers within weeks.  This purchase aims to bolster Iran's defenses after recent milit..."
     }
   ],
   "tweets": [
+    {
+      "title": "Chinese PLA soldiers and Indian army jawans spending time together somewhere at Line of actual control (LAC).",
+      "link": "https://nitter.net/Goreunit/status/2083034231400452143#m",
+      "source": "War & Gore",
+      "sort_key": "2026-07-31T09:07:16+05:30",
+      "time": "31 Jul, 09:07 AM",
+      "type": "tweets",
+      "content": "<p>Chinese PLA soldiers and Indian army jawans spending time together somewhere at Line of actual control (LAC).</p>\n<a href=\"https://nitter.net/Goreunit/status/2083034231400452143#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082900644399353856%2Fimg%2F4Ot3ffRq4DXmXhi1.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "India-Germany \u20b990,000 Cr Submarine Deal Nears Finalisation India and Germany are expected to soon finalise Project-75I, an estimated \u20b990,000+ crore (\u20ac8 billion) programme to build six next-generation conventional submarines for the Indian Navy in India. German Ambassador Philipp Ackermann says the agreement could be finalised as early as August 2026. The project is expected to involve Mazagon Dock Shipbuilders (MDL) and Germany\u2019s TKMS, with the Type 214 design forming the basis of the new submarines. Key features include Air Independent Propulsion (AIP) for extended submerged operations, reduced acoustic signatures, advanced sonar and combat systems, and heavyweight torpedo/anti-ship missile capability.",
+      "link": "https://nitter.net/NetramDefence/status/2083033090918854676#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-07-31T09:02:44+05:30",
+      "time": "31 Jul, 09:02 AM",
+      "type": "tweets",
+      "content": "<p>India-Germany \u20b990,000 Cr Submarine Deal Nears Finalisation<br />\n<br />\nIndia and Germany are expected to soon finalise Project-75I, an estimated \u20b990,000+ crore (\u20ac8 billion) programme to build six next-generation conventional submarines for the Indian Navy in India. German Ambassador Philipp Ackermann says the agreement could be finalised as early as August 2026.<br />\n<br />\nThe project is expected to involve Mazagon Dock Shipbuilders (MDL) and Germany\u2019s TKMS, with the Type 214 design forming the basis of the new submarines.<br />\n<br />\nKey features include Air Independent Propulsion (AIP) for extended submerged operations, reduced acoustic signatures, advanced sonar and combat systems, and heavyweight torpedo/anti-ship missile capability.</p>\n<img src=\"https://nitter.net/pic/media%2FHOhri0BagAECM6P.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "\u201cTechnology delayed is technology denied\u201d \u2014 IAF Chief Air Chief Marshal A.P. Singh has called for faster development and induction of indigenous defence technologies, particularly drones, counter-drone systems, secure networks and AI. He stressed that genuine Aatmanirbharta requires critical components and technologies to be developed in India, warning that dependence on foreign suppliers creates strategic vulnerabilities.",
       "link": "https://nitter.net/NetramDefence/status/2083013057215946905#m",
@@ -1059,7 +1070,7 @@
       "author": "@OsintTV"
     },
     {
-      "title": "PM MODI CHAIRS 4TH SPECIAL CCS MEETING ON WEST ASIA CONFLICT PM Narendra Modi chaired the Cabinet Committee on Security (CCS) to review the ongoing West Asia conflict and its impact on India. Outcomes: \u25aa\ufe0f Create a unified mechanism for continuous crisis monitoring \u25aa\ufe0f Ensure uninterrupted oil, LPG/LNG & fertilizer supplies \u25aa\ufe0f Establish support mechanism for Indian seafarers & families \u25aa\ufe0f Safeguard Indian citizens and diaspora \u25aa\ufe0f Accelerate renewable energy & energy independence Government says India's crude oil and major petroleum product supplies remain adequate, with CPSE refineries operating above 100% utilisation.",
+      "title": "RT by @NetramDefence: PM MODI CHAIRS 4TH SPECIAL CCS MEETING ON WEST ASIA CONFLICT PM Narendra Modi chaired the Cabinet Committee on Security (CCS) to review the ongoing West Asia conflict and its impact on India. Outcomes: \u25aa\ufe0f Create a unified mechanism for continuous crisis monitoring \u25aa\ufe0f Ensure uninterrupted oil, LPG/LNG & fertilizer supplies \u25aa\ufe0f Establish support mechanism for Indian seafarers & families \u25aa\ufe0f Safeguard Indian citizens and diaspora \u25aa\ufe0f Accelerate renewable energy & energy independence Government says India's crude oil and major petroleum product supplies remain adequate, with CPSE refineries operating above 100% utilisation.",
       "link": "https://nitter.net/NetramDefence/status/2082848472668176895#m",
       "source": "Netram Defense",
       "sort_key": "2026-07-30T20:49:07+05:30",
@@ -1239,7 +1250,7 @@
       "author": "@sidhant"
     },
     {
-      "title": "\"Securing defense networks requires more than just hardware, it demands sovereign tech stacks, full IP rights, and indigenous AI algorithms. True operational control and data privacy depend on complete self-reliance (Atmanirbharta) in our cyber capabilities.\" - Air Chief Marshal AP Singh",
+      "title": "RT by @NetramDefence: \"Securing defense networks requires more than just hardware, it demands sovereign tech stacks, full IP rights, and indigenous AI algorithms. True operational control and data privacy depend on complete self-reliance (Atmanirbharta) in our cyber capabilities.\" - Air Chief Marshal AP Singh",
       "link": "https://nitter.net/NetramDefence/status/2082761931727700354#m",
       "source": "Netram Defense",
       "sort_key": "2026-07-30T15:05:15+05:30",
@@ -1379,16 +1390,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Daily US-Israel-Iran War Brief: 28th Jul 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf US military successfully thwarted an attempted surprise attack by Iran's IRGC, which launched a heavy ballistic missile barrage targeting US forces. \u25cf CENTCOM & Saudi forces conducted precision strikes in eastern Iraq against IRGC-directed terrorists. \u25cf Iraqi PM Ali al-Zaidi has postponed his planned visit to Saudi Arabia after overnight Saudi US strikes on pro-Iranian militias in Iraq. \u25cf Hezbollah launched an explosive drone toward an IDF engineering vehicle in the area of Ali al-taher Ridge within the Security Zone. \u25cf An underground tunnel route that served as a headquarters for Hezbollah, located ~300 meters from a UNIFIL building, beneath a factory producing construction materials, was dismantled. \u25cf Iran is expected to receive up to 400 Chinese-made QW-12 and FN-16 MANPADS in the coming weeks, marking a significant boost to its short-range air defenses. END OF THE BRIEF",
-      "link": "https://nitter.net/NetramDefence/status/2082518696095011105#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-29T22:58:43+05:30",
-      "time": "29 Jul, 10:58 PM",
-      "type": "tweets",
-      "content": "<p>Daily US-Israel-Iran War Brief:<br />\n28th Jul 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n  <br />\n \u25cf US military successfully thwarted an attempted surprise attack by Iran's IRGC, which launched a heavy ballistic missile barrage targeting US forces.<br />\n<br />\n\u25cf CENTCOM & Saudi forces conducted precision strikes in eastern Iraq against IRGC-directed terrorists.<br />\n<br />\n\u25cf Iraqi PM Ali al-Zaidi has postponed his planned visit to Saudi Arabia after overnight Saudi US strikes on pro-Iranian militias in Iraq.<br />\n<br />\n\u25cf Hezbollah launched an explosive drone toward an IDF engineering vehicle in the area of Ali al-taher Ridge within the Security Zone.<br />\n<br />\n\u25cf An underground tunnel route that served as a headquarters for Hezbollah, located ~300 meters from a UNIFIL building, beneath a factory producing construction materials, was dismantled.<br />\n<br />\n\u25cf Iran is expected to receive up to 400 Chinese-made QW-12 and FN-16 MANPADS in the coming weeks, marking a significant boost to its short-range air defenses.<br />\n<br />\nEND OF THE BRIEF</p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n28th Jul 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n  <br />\n\u25cf Israeli Defense Minister Israel Katz claimed that American fighter jets are utilizing Israeli bases to launch attacks against Iran. Katz stated that Israel strongly desires to strike Iranian energy targets, but Washington opposes the plan at this stage.<br />\n <br />\n\u25cf Katz warned that Israel is prepared to retaliate with full force and strike Iran independently if targeted. He also claimed the US President understands Israel will not withdraw its forces from \"buffer zones\" situated in Lebanon, Gaza, and Syria.<br />\n <br />\n\u25cf The Strait of Hormuz remains closed, with Iran maintaining full control over the waterway's entry and exit points. Efforts by the United States to reopen the strait through military intervention have reportedly reached a deadlock.<br />\n <br />\n\u25cf Oman submitted a proposed framework to Iran regarding the future governance of the Strait of Hormuz, a plan that has been endorsed by other Gulf Cooperation Council states. The proposal suggests establishing a regional consortium to manage maritime traffic, creating three designated shipping lanes, and implementing a \"voluntary service fee\" for environmental protection instead of a toll. Under this plan, Iran would take on the responsibility of mine clearance in the international shipping lane.<br />\n <br />\n\u25cf Gulf Cooperation Council foreign ministers convened via video conference to coordinate on regional developments and discuss strategies to ensure the freedom and safety of navigation in the Strait of Hormuz.<br />\n <br />\n\u25cf The United States and Iran are exchanging messages aimed at halting attacks on commercial shipping across both the Strait of Hormuz and the Red Sea. The scope of these contacts has expanded to address the blockade recently declared by Houthi rebels.<br />\n <br />\n\u25cf The foreign minister-designate of Yemen's internationally recognized government stated that the Houthis are attempting to replicate Iran's strategy for the Strait of Hormuz to impose control over shipping in the Bab el-Mandeb strait.<br />\n <br />\n\u25cf Pakistan has become more deeply involved in the regional crisis beyond its initial role as a mediator. Following the announcement of the Houthi blockade, Pakistan warned the rebels against attacking its vessels and acknowledged its mutual defense pact with Saudi Arabia could draw it further into the conflict.<br />\n <br />\n\u25cf Amnesty International accused the Iranian government of intensifying domestic repression under the pretext of wartime conditions, citing a recent escalation in the executions of protesters and dissidents since the US-Israeli attacks began earlier in the year.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHOVLKlfaUAAT96j.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2082153107019207040#m\">https://nitter.net/NetramDefence/status/2082153107019207040#m</a>\n</footer>\n</blockquote>",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "RT by @OsintTV: These fighters are no fighters. They are protesting.",
       "link": "https://nitter.net/LtGenDPPandey/status/2082515443705958492#m",
       "source": "Osint TV",
@@ -1397,16 +1398,6 @@
       "type": "tweets",
       "content": "<p>These fighters are no fighters. They are protesting.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 Rana Sanaullah\u2019s Explosive Admission on PoJK Protests.<br />\n<br />\nPakistan\u2019s own minister claims armed groups are involved in the PoJK unrest, saying:<br />\n<br />\n\"These are the same people we once trained as Mujahideen. We sent them to fight, and today they are hanging around our necks.\"<br />\n<br />\nThe fighters once trained for the battlefield are now standing at Pakistan\u2019s own doorstep<br />\n<br />\nVideo Courtesy: Geo News</p>\n<a href=\"https://nitter.net/OsintTV/status/2082477083578511521#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082476444819562496%2Fimg%2F1hm5a-nX8QoiPfUs.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2082477083578511521#m\">https://nitter.net/OsintTV/status/2082477083578511521#m</a>\n</footer>\n</blockquote>",
       "author": "@LtGenDPPandey"
-    },
-    {
-      "title": "RT by @NetramDefence: A really good thread... Check out",
-      "link": "https://nitter.net/Mrsinha/status/2082500387190497702#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-29T21:45:57+05:30",
-      "time": "29 Jul, 09:45 PM",
-      "type": "tweets",
-      "content": "<p>A really good thread... Check out</p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>THREAD \ud83e\uddf5<br />\n<br />\nThe Evolution of India\u2019s Military Posture: A Decade of Strategic Transformation<br />\n<br />\nOver the past decade (2016\u20132026), India\u2019s military posture has undergone a profound structural  realignment. We are witnessing a definitive shift from a historical legacy of \"strategic restraint\"  to a proactive doctrine of multi-domain compellence and deterrence. This transformation,  catalyzed by the realities of asymmetric proxy warfare and the defining 2020 Galwan Valley  clashes, encompasses doctrinal shifts, theaterization, and an aggressive push for indigenous  modernization. Let's break down the key components of this transition: \ud83d\udc47<br />\n<br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/AN_Command\" title=\"Andaman &amp; Nicobar Command\">@AN_Command</a> <br />\n<a href=\"https://nitter.net/NorthernComd_IA\" title=\"NORTHERN COMMAND - INDIAN ARMY\">@NorthernComd_IA</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/westerncomd_IA\" title=\"Western Command - Indian Army\">@westerncomd_IA</a>  <br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/easterncomd\" title=\"EasternCommand_IA\">@easterncomd</a> <br />\n<a href=\"https://nitter.net/official_dgar\" title=\"The Assam Rifles\">@official_dgar</a> <br />\n<a href=\"https://nitter.net/IaSouthern\" title=\"Southern Command INDIAN ARMY\">@IaSouthern</a> <br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <br />\n<a href=\"https://nitter.net/IN_HQENC\" title=\"Eastern Naval Command \ud83c\uddee\ud83c\uddf3\">@IN_HQENC</a> <br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/IN_WNC\" title=\"Western Naval Command\">@IN_WNC</a> <br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <br />\n<a href=\"https://nitter.net/rajnathsingh\" title=\"Rajnath Singh\">@rajnathsingh</a><br />\n<a href=\"https://nitter.net/rashtrapatibhvn\" title=\"President of India\">@rashtrapatibhvn</a><br />\n<br />\n1/10</p>\n<img src=\"https://nitter.net/pic/media%2FHOZhWOTaAAAyFpR.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2082458937022922937#m\">https://nitter.net/NetramDefence/status/2082458937022922937#m</a>\n</footer>\n</blockquote>",
-      "author": "@Mrsinha"
     },
     {
       "title": "RT by @OsintTV: You can't keep snakes (JKLF & HM) in your backyard and expect them to only bite your neighbours, @RanaSanaullahPK. For all those who needed the context on the tanzeems that Rana Sanaullah mentioned : 1. JKLF which was launched by the ISI in 1977 and whose cadres were trained in the '80s and '90s for terror attacks in India that is now supporting and top PoK-based leaders are taking part in the Rawalakot 2026 Uprising. 2. Uprising also includes over 17 former Hizbul Mujahideen terror commanders who were once trained by the ISI and the Army against India at the Khalid Bin Waleed Camp in Kotli. @OsintTV \ud83d\ude4c\ud83c\udffb",
@@ -1457,26 +1448,6 @@
       "type": "tweets",
       "content": "<p>Misleading and incorrect headline by <a href=\"https://nitter.net/nytimes\" title=\"The New York Times\">@nytimes</a>.  There is no Pakistani Kashmir, only Pakistan occupied Kashmir. <br />\n<br />\nThe Union Territories of Jammu & Kashmir and Ladakh, have been, are and will always remain an integral and inalienable part of India. Pakistan has illegally occupied parts of these territories and is now using violence against the occupied people.<br />\n<br />\n<a href=\"https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html\">nytimes.com/2026/07/28/world\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/MEAIndia\" title=\"Randhir Jaiswal\">@MEAIndia</a> <a href=\"https://nitter.net/airnewsalerts\" title=\"All India Radio News\">@airnewsalerts</a> <a href=\"https://nitter.net/DDNewslive\" title=\"DD News\">@DDNewslive</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html\">\n<img src=\"https://nitter.net/pic/card_img%2F2082032230881198080%2FpPKazMgp%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Fresh Clashes Erupt in Pakistani Kashmir on First Day of Contested Vote</b>\n</a>\n<p>Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.</p>\n<small><a href=\"https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html\">nytimes.com</a></small>",
       "author": "@IndianEmbassyUS"
-    },
-    {
-      "title": "R to @NetramDefence: 10/10 Conclusion: India\u2019s strategic realignment over the last decade reflects a profound maturation of its geopolitical worldview. By meticulously synchronizing doctrinal updates, structural integration, and the cultivation of robust domestic manufacturing capabilities, New Delhi is building the precise instruments of statecraft required for sustained strategic autonomy. The ultimate goal is clear: establishing a self-reliant force capable of decisive multi-domain power projection in an increasingly volatile multipolar world.",
-      "link": "https://nitter.net/NetramDefence/status/2082459052488249415#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-29T19:01:42+05:30",
-      "time": "29 Jul, 07:01 PM",
-      "type": "tweets",
-      "content": "<p>10/10<br />\n<br />\nConclusion: India\u2019s strategic realignment over the last decade reflects a profound maturation of  its geopolitical worldview. By meticulously synchronizing doctrinal updates, structural  integration, and the cultivation of robust domestic manufacturing capabilities, New Delhi is  building the precise instruments of statecraft required for sustained strategic autonomy. The  ultimate goal is clear: establishing a self-reliant force capable of decisive multi-domain power  projection in an increasingly volatile multipolar world.</p>\n<img src=\"https://nitter.net/pic/media%2FHOZhd6KbAAAlBqg.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "R to @NetramDefence: 9/10 Aatmanirbhar Bharat mission, an ambitious push that is completely reshaping the national defense-industrial complex. By executing the long-awaited corporatization of the Ordnance Factory Board and enforcing aggressive indigenization mandates, the state has dramatically curbed foreign hardware dependencies. Innovation has simultaneously moved into the fast lane; deep-tech accelerators like the ADITI grants have energized private firms and aerospace startups. The payoff is substantial: India's defense exports exploded to an unprecedented \u20b938,424 Crore during FY 2025-26. This remarkable growth not only validates India's indigenous manufacturing ecosystem but firmly elevates the nation from a legacy arms importer into a trusted global defense exporter.",
-      "link": "https://nitter.net/NetramDefence/status/2082459040291127603#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-29T19:01:40+05:30",
-      "time": "29 Jul, 07:01 PM",
-      "type": "tweets",
-      "content": "<p>9/10<br />\n<br />\nAatmanirbhar Bharat mission, an ambitious push that is completely reshaping the national  defense-industrial complex. By executing the long-awaited corporatization of the Ordnance  Factory Board and enforcing aggressive indigenization mandates, the state has dramatically  curbed foreign hardware dependencies.  <br />\n<br />\nInnovation has simultaneously moved into the fast lane; deep-tech accelerators like the ADITI  grants have energized private firms and aerospace startups.   The payoff is substantial: India's defense exports exploded to an unprecedented \u20b938,424 Crore  during FY 2025-26. This remarkable growth not only validates India's indigenous manufacturing  ecosystem but firmly elevates the nation from a legacy arms importer into a trusted global  defense exporter.</p>\n<img src=\"https://nitter.net/pic/media%2FHOZhdNCbgAAmeP7.jpg\" />",
-      "author": "@NetramDefence"
     },
     {
       "title": "RT by @NetramDefence: THREAD \ud83e\uddf5 The Evolution of India\u2019s Military Posture: A Decade of Strategic Transformation Over the past decade (2016\u20132026), India\u2019s military posture has undergone a profound structural realignment. We are witnessing a definitive shift from a historical legacy of \"strategic restraint\" to a proactive doctrine of multi-domain compellence and deterrence. This transformation, catalyzed by the realities of asymmetric proxy warfare and the defining 2020 Galwan Valley clashes, encompasses doctrinal shifts, theaterization, and an aggressive push for indigenous modernization. Let's break down the key components of this transition: \ud83d\udc47 @adgpi @AN_Command @NorthernComd_IA @IAF_MCC @westerncomd_IA @indiannavy @easterncomd @official_dgar @IaSouthern @HQ_IDS_India @IN_HQENC @SpokespersonMoD @IN_WNC @DefenceMinIndia @rajnathsingh @rashtrapatibhvn 1/10",
@@ -1637,84 +1608,10 @@
       "type": "tweets",
       "content": "<p>\"No space for Pakistan in PoJK\"\ud83d\udd25<br />\nJAAC leader Sardar Aman Khan makes it clear to the Pakistani army and establishment!</p>\n<a href=\"https://nitter.net/Goreunit/status/2082320722635133386#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082141491976392704%2Fimg%2FjMDgF8fH76xknLwu.jpg\" />\n</a>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @OsintTV: 1/3 \ud83d\udea8\ud83c\uddee\ud83c\uddf3 India\u2019s \u20b91 lakh crore Medium Transport Aircraft (MTA) program is entering a decisive phase. The Ministry of Defence is preparing to issue the RFP for 80 aircraft, with one key focus beyond price: Technology Transfer (ToT). Three global contenders are in the race: \u2708\ufe0f C-130J Super Hercules \u2708\ufe0f A400M Atlas \u2708\ufe0f C-390 Millennium",
-      "link": "https://nitter.net/DefenseNewsIN/status/2082301242051866880#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-29T08:34:38+05:30",
-      "time": "29 Jul, 08:34 AM",
-      "type": "tweets",
-      "content": "<p>1/3 \ud83d\udea8\ud83c\uddee\ud83c\uddf3<br />\n<br />\nIndia\u2019s \u20b91 lakh crore Medium Transport Aircraft (MTA) program is entering a decisive phase.<br />\n<br />\nThe Ministry of Defence is preparing to issue the RFP for 80 aircraft, with one key focus beyond price: Technology Transfer (ToT).<br />\n<br />\nThree global contenders are in the race:<br />\n\u2708\ufe0f C-130J Super Hercules<br />\n\u2708\ufe0f A400M Atlas<br />\n\u2708\ufe0f C-390 Millennium</p>\n<img src=\"https://nitter.net/pic/media%2FHOXR8KCboAAY_oU.jpg\" />",
-      "author": "@DefenseNewsIN"
     }
   ],
-  "youtube": [
-    {
-      "title": "India Ka 6th Gen Fighter Ready?,Akash Missile Ka Global Dhamaka , C-295 P-8I Ko Replace Karega?",
-      "link": "https://www.youtube.com/watch?v=asz8JQV2-yU",
-      "source": "Indian Defense News",
-      "sort_key": "2026-07-30T23:00:17+05:30",
-      "time": "30 Jul, 11:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/asz8JQV2-yU/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Rafale Down China Spy Link, Su57 Export Offer, \u20b990000 Crore Submarine Deal, PoJK",
-      "link": "https://www.youtube.com/watch?v=NNGspeFflGo",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-30T22:41:42+05:30",
-      "time": "30 Jul, 10:41 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/NNGspeFflGo/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : Rafale Pilot Probe,6th Gen Fighter Deal,Akash-NG Secret Export,ISTAR Offer",
-      "link": "https://www.youtube.com/watch?v=J0RzKAwMtHY",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-07-30T18:25:33+05:30",
-      "time": "30 Jul, 06:25 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/J0RzKAwMtHY/mqdefault.jpg"
-    },
-    {
-      "title": "Su-57 Ka Naya Killer Missile! \ud83d\ude33 ,Tejas Mk2 Fir Delay Risk ? ,INS Vishal Cancel?",
-      "link": "https://www.youtube.com/watch?v=pwCFGogkNOI",
-      "source": "Indian Defense News",
-      "sort_key": "2026-07-30T07:30:34+05:30",
-      "time": "30 Jul, 07:30 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/pwCFGogkNOI/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Indian Army \u20b916000 Crore UAV, Tejas MK1A Radome, Department Of Military Medicine",
-      "link": "https://www.youtube.com/watch?v=88_yvzmtgzA",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-29T22:20:56+05:30",
-      "time": "29 Jul, 10:20 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/88_yvzmtgzA/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : GTRE New 110 Kn Engine,GCAP Last Chance,16000Cr Drone Order,Nagpaash Jammer",
-      "link": "https://www.youtube.com/watch?v=ToUMBlV2NbM",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-07-29T18:05:33+05:30",
-      "time": "29 Jul, 06:05 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/ToUMBlV2NbM/mqdefault.jpg"
-    },
-    {
-      "title": "India\u2019s Advance High Thrust Engine",
-      "link": "https://www.youtube.com/watch?v=xxFMDv5J0bk",
-      "source": "Alpha Defense - Hindi",
-      "sort_key": "2026-07-29T09:02:14+05:30",
-      "time": "29 Jul, 09:02 AM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/xxFMDv5J0bk/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
