@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "At least 14 killed in suicide bombing at peace rally in northwest Pakistan",
+      "link": "https://www.newindianexpress.com/world/2026/Aug/02/at-least-14-killed-in-suicide-bombing-at-peace-rally-in-northwest-pakistan",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-02T22:23:28+05:30",
+      "time": "02 Aug, 10:23 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "China: Four Killed, Two Injured in High-Rise Apartment Fire in Hunan Province",
+      "link": "https://newsonair.gov.in/china-four-killed-two-injured-in-high-rise-apartment-fire-in-hunan-province/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-02T22:02:57+05:30",
+      "time": "02 Aug, 10:02 PM",
+      "type": "news",
+      "description": "In China, four people were killed and two injured after a fire broke out at a high-rise apartment building in Changsha, Hunan Province today. Local fi..."
+    },
+    {
+      "title": "Ceuta Border Crisis Death Toll Rises to 72, Says Spain",
+      "link": "https://newsonair.gov.in/ceuta-border-crisis-death-toll-rises-to-72-says-spain/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-02T21:58:16+05:30",
+      "time": "02 Aug, 09:58 PM",
+      "type": "news",
+      "description": "Spain has said the death toll in the Ceuta border crisis with Morocco has risen to 72. The victims include migrants who drowned and others who died in..."
+    },
+    {
+      "title": "US: Washington Governor Declares Statewide Emergency as Wildfires Spread",
+      "link": "https://newsonair.gov.in/us-washington-governor-declares-statewide-emergency-as-wildfires-spread/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-02T21:48:15+05:30",
+      "time": "02 Aug, 09:48 PM",
+      "type": "news",
+      "description": "In the United States, Washington Governor Bob Ferguson has declared a statewide emergency and imposed a burn ban as fast-spreading wildfires, driven b..."
+    },
+    {
+      "title": "Iran rejects US President Trump\u2019s claim of requesting pause in military strikes",
+      "link": "https://newsonair.gov.in/iran-rejects-us-president-trumps-claim-of-requesting-pause-in-military-strikes/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-02T21:38:02+05:30",
+      "time": "02 Aug, 09:38 PM",
+      "type": "news",
+      "description": "Iran&#8217;s Acting Defence Minister, Brigadier General Seyyed Majid Ibn al-Reza, has said Tehran treats every threat from its adversaries as real and..."
+    },
+    {
+      "title": "OPEC plus countries agree to increase oil production by 188000 barrels per day from September",
+      "link": "https://newsonair.gov.in/opec-plus-countries-agree-to-increase-oil-production-by-188000-barrels-per-day-from-september/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-02T21:33:54+05:30",
+      "time": "02 Aug, 09:33 PM",
+      "type": "news",
+      "description": "The Organization of the Petroleum Exporting Countries plus (OPEC+) has agreed to increase oil production by 188 thousand barrels per day from Septembe..."
+    },
+    {
+      "title": "'Explain how terrorists entered J&K despite sealed borders': Farooq Abdullah",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/02/explain-how-terrorists-entered-jk-despite-sealed-borders-farooq-abdullah",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-02T21:15:07+05:30",
+      "time": "02 Aug, 09:15 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Hindu Rights Organisation Announces Outreach Campaign in Pakistan\u2019s Khyber Pakhtunkhwa",
       "link": "https://newsonair.gov.in/hindu-rights-organisation-announces-outreach-campaign-in-pakistans-khyber-pakhtunkhwa/",
       "source": "All India Radio",
@@ -82,15 +145,6 @@
       "description": "The Indian Army has introduced a new diesel fuel for extreme cold conditions. This specialized fuel ensures vehicle operations at minus 42 degrees Cel..."
     },
     {
-      "title": "Military courtesy at Attari-Wagah border: Pakistani Ranger salutes Indian Army officer amid tensions",
-      "link": "https://www.tribuneindia.com/news/trending/military-courtesy-at-attari-wagah-border-pakistani-ranger-salutes-indian-army-officer-amid-tensions",
-      "source": "The Tribune",
-      "sort_key": "2026-08-02T14:26:11+05:30",
-      "time": "02 Aug, 02:26 PM",
-      "type": "news",
-      "description": "A video has been doing rounds on social media, purportedly from the Attari-Wagah border crossing, wherein a Pakistani Ranger is seen saluting a senior..."
-    },
-    {
       "title": "Indian Navy launches 5th Diving Support Craft &#039;DSC A24&#039; in Kolkata",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indian-navy-launches-5th-diving-support-craft-dsc-a24-in-kolkata/132803751",
       "source": "Economic Times",
@@ -127,15 +181,6 @@
       "description": "NC chief questions source of terrorists, demands restoration of statehood and urges global attention to the situation in PoJK."
     },
     {
-      "title": "Documentation for Chinese nationals applying for Indian visas would be simplified: Ambassador Vikram Doraiswami",
-      "link": "https://newsonair.gov.in/documentation-for-chinese-nationals-applying-for-indian-visas-would-be-simplified-ambassador-vikram-doraiswami/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-02T12:56:45+05:30",
-      "time": "02 Aug, 12:56 PM",
-      "type": "news",
-      "description": "India&#8217;s Ambassador to China Vikram Doraiswami said documentation for Chinese nationals applying for Indian visas would be simplified from next w..."
-    },
-    {
       "title": "Russia Says Air Defences Down 635 Ukrainian Drones Overnight",
       "link": "https://www.deccanchronicle.com/world/russia-says-air-defences-down-635-ukrainian-drones-overnight-1975936",
       "source": "Deccan Chronicle",
@@ -143,33 +188,6 @@
       "time": "02 Aug, 11:40 AM",
       "type": "news",
       "description": "Moscow claims one of the largest overnight drone interception operations across multiple regions."
-    },
-    {
-      "title": "Russia: 3 killed and 21 others injured in bomb blast at restaurant in central Moscow",
-      "link": "https://newsonair.gov.in/russia-3-killed-and-21-others-injured-in-bomb-blast-at-restaurant-in-central-moscow/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-02T11:22:44+05:30",
-      "time": "02 Aug, 11:22 AM",
-      "type": "news",
-      "description": "In Russia, three people were killed and 21 injured after a homemade explosive device detonated at an Italian restaurant in Moscow. The blast happened ..."
-    },
-    {
-      "title": "Wildfire sweeps across northwest Spokane in Eastern Washington",
-      "link": "https://newsonair.gov.in/wildfire-sweeps-across-northwest-spokane-in-eastern-washington/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-02T11:14:01+05:30",
-      "time": "02 Aug, 11:14 AM",
-      "type": "news",
-      "description": "A fast-moving wildfire, fueled by strong winds and extreme heat, swept across northwest Spokane in Eastern Washington yesterday, before crossing the S..."
-    },
-    {
-      "title": "Leading human rights organisation says several Baloch civilians allegedly taken into custody",
-      "link": "https://newsonair.gov.in/leading-human-rights-organisation-says-several-baloch-civilians-allegedly-taken-into-custody/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-02T11:11:29+05:30",
-      "time": "02 Aug, 11:11 AM",
-      "type": "news",
-      "description": "Amid growing concerns over enforced disappearances of Baloch civilians across Pakistan, a leading human rights organisation has alleged that five more..."
     },
     {
       "title": "Bangladesh offered a place in US-India\u2019s Pax Silica; Will Rahman take the bait?",
@@ -188,15 +206,6 @@
       "time": "02 Aug, 09:39 AM",
       "type": "news",
       "description": "The Indus Water Treaty was signed in the spirit of goodwill and friendship, and Pakistan spent half a century dismantling it, India&#8217;s envoy to t..."
-    },
-    {
-      "title": "European Union to hold emergency talks to address migration crisis in Ceuta",
-      "link": "https://newsonair.gov.in/european-union-to-hold-emergency-talks-to-address-migration-crisis-in-ceuta/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-02T08:05:07+05:30",
-      "time": "02 Aug, 08:05 AM",
-      "type": "news",
-      "description": "The European Union will hold emergency talks on Aug 5 to address the migration crisis in Ceuta, following a dispute between Spain and some member stat..."
     },
     {
       "title": "Iran war: US may face tough missile defence choices as Gulf conflict depletes stockpiles, top commander says",
@@ -422,36 +431,39 @@
       "time": "01 Aug, 12:21 AM",
       "type": "news",
       "description": "Residents also sought fair compensation if acquisition becomes unavoidable."
-    },
-    {
-      "title": "Air Marshal A K Bharti, face of Operation Sindoor briefings, retires from IAF",
-      "link": "https://economictimes.indiatimes.com/news/defence/air-marshal-a-k-bharti-face-of-operation-sindoor-briefings-retires-from-iaf/articleshow/132774147.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-31T23:02:53+05:30",
-      "time": "31 Jul, 11:02 PM",
-      "type": "news",
-      "description": "Air Marshal A K Bharti retired from the Indian Air Force after a distinguished career. He served as Director General Air Operations during Operation S..."
-    },
-    {
-      "title": "Where Trump, Israel and Hamas stand on Gaza roadmap",
-      "link": "https://economictimes.indiatimes.com/news/defence/where-trump-israel-and-hamas-stand-on-gaza-roadmap/articleshow/132772966.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-31T22:20:35+05:30",
-      "time": "31 Jul, 10:20 PM",
-      "type": "news",
-      "description": "President Donald Trump announced a Gaza war breakthrough agreement for Hamas disarmament.  Major gaps persist regarding the implementation of this pro..."
-    },
-    {
-      "title": "Pakistan witnessed over 3,000 terror incidents this year: Army",
-      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-witnessed-over-3000-terror-incidents-this-year-army/articleshow/132772114.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-31T21:50:14+05:30",
-      "time": "31 Jul, 09:50 PM",
-      "type": "news",
-      "description": "Pakistan experienced over 3,000 terrorism incidents this year, resulting in 800 deaths.  As many as 2,084 terrorists were killed during this period.  ..."
     }
   ],
   "tweets": [
+    {
+      "title": "Tactical Chota Haathi ! Two things I love about America: Landscapes and their passion for firearms.",
+      "link": "https://nitter.net/elitepredatorss/status/2083960517652304275#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-08-02T22:28:00+05:30",
+      "time": "02 Aug, 10:28 PM",
+      "type": "tweets",
+      "content": "<p>Tactical Chota Haathi !<br />\n<br />\nTwo things I love about America: Landscapes and their passion for firearms.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2083960517652304275#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2083944895535087616%2Fimg%2FB1GOablYee1fosoC.jpg\" />\n</a>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @OsintTV: New CNAWS Assessment | LeT\u2019s Emerging Footprint in Lower Dir, Khyber Pakhtunkhwa Recent media reports described a newly constructed Lashkar-e-Tayyiba facility, reportedly named Markaz Jihad-e-Aqsa, in Kumban Maidan, Lower Dir. These reports portrayed the compound as part of a post-Operation Sindoor effort to relocate LeT\u2019s recruitment, indoctrination and training infrastructure deeper into Khyber Pakhtunkhwa and closer to Pakistan\u2019s western border. @mohitishpunyani conducted an independent geospatial and visual assessment of the reported location. Our analysis identifies a high-confidence match at 34\u00b057'30.50\"N, 71\u00b048'55.72\"E, adjoining the Jamia Ihya-us-Sunnah Ahle Hadith mosque complex in Kumban Maidan. However, the available evidence complicates the prevailing narrative. An architectural rendering associated with the site was publicly posted by a Peshawar-based design firm in August 2024, several months before Operation Sindoor. This indicates that the project\u2019s design, and potentially parts of its underlying infrastructure, predated the operation. Operation Sindoor may therefore have acted as an accelerant, expansion point or repurposing trigger, rather than the original cause of the facility\u2019s development. Our visual comparison also finds that footage circulated as evidence of a separate adjoining \u201ctraining centre\u201d appears more consistent with the mosque structure and its immediate construction area. The existence of a distinct training facility cannot presently be confirmed through publicly available imagery. Nevertheless, the site remains strategically significant. Its location is consistent with a broader east-to-west displacement of Pakistan-based militant infrastructure towards Khyber Pakhtunkhwa, where difficult terrain, proximity to the Afghan border and overlapping militant ecosystems may provide greater operational depth. The central question is therefore not simply whether LeT constructed an entirely new facility after Operation Sindoor, but whether an existing religious complex is being expanded, repurposed or integrated into a wider militant support corridor. Read the complete CNAWS geospatial assessment: #CNAWS #LashkarETayyiba #LowerDir #KhyberPakhtunkhwa #Pakistan #Terrorism #Counterterrorism #OSINT #GeospatialIntelligence #SouthAsiaSecurity",
+      "link": "https://nitter.net/CNAWS1/status/2083958817084305716#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-02T22:21:14+05:30",
+      "time": "02 Aug, 10:21 PM",
+      "type": "tweets",
+      "content": "<p>New CNAWS Assessment | LeT\u2019s Emerging Footprint in Lower Dir, Khyber Pakhtunkhwa<br />\n<br />\nRecent media reports described a newly constructed Lashkar-e-Tayyiba facility, reportedly named Markaz Jihad-e-Aqsa, in Kumban Maidan, Lower Dir. These reports portrayed the compound as part of a post-Operation Sindoor effort to relocate LeT\u2019s recruitment, indoctrination and training infrastructure deeper into Khyber Pakhtunkhwa and closer to Pakistan\u2019s western border.<br />\n<br />\n<a href=\"https://nitter.net/mohitishpunyani\" title=\"Mohit Ishpunyani\">@mohitishpunyani</a>  conducted an independent geospatial and visual assessment of the reported location.<br />\n<br />\nOur analysis identifies a high-confidence match at 34\u00b057'30.50\"N, 71\u00b048'55.72\"E, adjoining the Jamia Ihya-us-Sunnah Ahle Hadith mosque complex in Kumban Maidan.<br />\n<br />\nHowever, the available evidence complicates the prevailing narrative.<br />\n<br />\nAn architectural rendering associated with the site was publicly posted by a Peshawar-based design firm in August 2024, several months before Operation Sindoor. This indicates that the project\u2019s design, and potentially parts of its underlying infrastructure, predated the operation. Operation Sindoor may therefore have acted as an accelerant, expansion point or repurposing trigger, rather than the original cause of the facility\u2019s development.<br />\n<br />\nOur visual comparison also finds that footage circulated as evidence of a separate adjoining \u201ctraining centre\u201d appears more consistent with the mosque structure and its immediate construction area. The existence of a distinct training facility cannot presently be confirmed through publicly available imagery.<br />\n<br />\nNevertheless, the site remains strategically significant. Its location is consistent with a broader east-to-west displacement of Pakistan-based militant infrastructure towards Khyber Pakhtunkhwa, where difficult terrain, proximity to the Afghan border and overlapping militant ecosystems may provide greater operational depth.<br />\n<br />\nThe central question is therefore not simply whether LeT constructed an entirely new facility after Operation Sindoor, but whether an existing religious complex is being expanded, repurposed or integrated into a wider militant support corridor.<br />\n<br />\nRead the complete CNAWS geospatial assessment:<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23CNAWS\">#CNAWS</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LashkarETayyiba\">#LashkarETayyiba</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LowerDir\">#LowerDir</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23KhyberPakhtunkhwa\">#KhyberPakhtunkhwa</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pakistan\">#Pakistan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Terrorism\">#Terrorism</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Counterterrorism\">#Counterterrorism</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23OSINT\">#OSINT</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GeospatialIntelligence\">#GeospatialIntelligence</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SouthAsiaSecurity\">#SouthAsiaSecurity</a></p>\n<img src=\"https://nitter.net/pic/media%2FHOu1d1baYAAYakR.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOu1d1gaUAAC3vw.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOu1d1ja0AAepk7.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOu1d1ibMAAHWuO.jpg\" />",
+      "author": "@CNAWS1"
+    },
+    {
+      "title": "\"Believe it or not, the system we are living in has already collapsed\": Mohsin Naqvi Kabal, Swat, Pakistan. (Viewers Discretion Advised)",
+      "link": "https://nitter.net/OsintTV/status/2083946195043430410#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-02T21:31:05+05:30",
+      "time": "02 Aug, 09:31 PM",
+      "type": "tweets",
+      "content": "<p>\"Believe it or not, the system we are living in has already collapsed\": Mohsin Naqvi<br />\n<br />\nKabal, Swat, Pakistan. <br />\n(Viewers Discretion Advised)</p>\n<a href=\"https://nitter.net/OsintTV/status/2083946195043430410#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2083944154581676032%2Fimg%2FiKb0GBJYgjih1FCH.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
     {
       "title": "Protests in Rawalpindi, Islamabad over Pakistan occupied Kashmir unrest",
       "link": "https://nitter.net/sidhant/status/2083941026008629285#m",
@@ -1171,139 +1183,27 @@
       "type": "tweets",
       "content": "<p>Pakistan-sponsored terrorists carried out a cowardly attack on innocent non-local civilians in Kulgam, J&amp;K, while also issuing threats against DGP Nalin Prabhat on social media. This is the second time they have threatened him.<br />\n<br />\nRest assured, the roots of Pakistan/ISI-sponsored terrorism will be shaken by his relentless pursuit. Every attack only reinforces the determination to dismantle the terror ecosystem and bring those responsible to justice.</p>\n<img src=\"https://nitter.net/pic/media%2FHOkxISGWkAA0Adv.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "Shipping safety raised during EAM Jaishankar, Iran FM Araghchi talks Reporting: https://www.wionews.com/india-news/shipping-safety-raised-during-eam-jaishankar-iran-fm-araghchi-talks-1785517636108",
-      "link": "https://nitter.net/sidhant/status/2083249272313778559#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-31T23:21:46+05:30",
-      "time": "31 Jul, 11:21 PM",
-      "type": "tweets",
-      "content": "<p>Shipping safety raised during EAM Jaishankar, Iran FM Araghchi talks<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/shipping-safety-raised-during-eam-jaishankar-iran-fm-araghchi-talks-1785517636108\">wionews.com/india-news/shipp\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/shipping-safety-raised-during-eam-jaishankar-iran-fm-araghchi-talks-1785517636108\">\n<img src=\"https://nitter.net/pic/card_img%2F2083247537776152576%2F0QvLyXjN%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Shipping safety raised during EAM Jaishankar, Iran FM Araghchi talks</b>\n</a>\n<p>Indian seafarers have paid a particularly heavy price. In recent months, multiple incidents have left Indian crew members dead or injured. Overall, at least 8 Indian sailors have been killed and...</p>\n<small><a href=\"https://www.wionews.com/india-news/shipping-safety-raised-during-eam-jaishankar-iran-fm-araghchi-talks-1785517636108\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Kulgam attack: TRF ( Lashkar E TAIYYABA ) warns of further attacks on non locals and JKP.",
-      "link": "https://nitter.net/Goreunit/status/2083245387260002702#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-31T23:06:19+05:30",
-      "time": "31 Jul, 11:06 PM",
-      "type": "tweets",
-      "content": "<p>Kulgam attack:<br />\nTRF ( Lashkar E TAIYYABA ) warns of further attacks on non locals and JKP.</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Kulgam: Terrorists allegedly asked the migrant workers their names before opening fire on them. For them, it's always Kafirs vs. Muslims, it doesn't matter whether you're local or non-local.",
-      "link": "https://nitter.net/elitepredatorss/status/2083242122564788336#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-31T22:53:21+05:30",
-      "time": "31 Jul, 10:53 PM",
-      "type": "tweets",
-      "content": "<p>Kulgam: Terrorists allegedly asked the migrant workers their names before opening fire on them.<br />\n<br />\nFor them, it's always Kafirs vs. Muslims, it doesn't matter whether you're local or non-local.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "July 2026 in Indian diplomacy -Prez's visit to \ud83c\uddf2\ud83c\udde9\ud83c\uddf2\ud83c\uddf0\ud83c\uddf7\ud83c\uddf4 -PM Modi's Indo Pacific visit: \ud83c\uddee\ud83c\udde9\ud83c\udde6\ud83c\uddfa\ud83c\uddf3\ud83c\uddff -EAM Jaishankar's Gulf, Europe, NY, Manila visit -NSA Ajit Doval's Saudi Visit -BIMSTEC NSAs meet -MoS MEA Singh's \ud83c\uddf0\ud83c\uddecvisit for SCO -16th \ud83c\uddee\ud83c\uddf3\ud83c\uddef\ud83c\uddf5Annual Summit -\ud83c\uddee\ud83c\uddf3\ud83c\uddec\ud83c\udde7 trade deal in force",
-      "link": "https://nitter.net/sidhant/status/2083240753103569298#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-31T22:47:54+05:30",
-      "time": "31 Jul, 10:47 PM",
-      "type": "tweets",
-      "content": "<p>July 2026 in Indian diplomacy<br />\n-Prez's visit to \ud83c\uddf2\ud83c\udde9\ud83c\uddf2\ud83c\uddf0\ud83c\uddf7\ud83c\uddf4<br />\n-PM Modi's Indo Pacific visit: \ud83c\uddee\ud83c\udde9\ud83c\udde6\ud83c\uddfa\ud83c\uddf3\ud83c\uddff<br />\n-EAM Jaishankar's Gulf, Europe, NY, Manila visit<br />\n-NSA Ajit Doval's Saudi Visit<br />\n-BIMSTEC NSAs meet<br />\n-MoS MEA Singh's \ud83c\uddf0\ud83c\uddecvisit for SCO<br />\n-16th \ud83c\uddee\ud83c\uddf3\ud83c\uddef\ud83c\uddf5Annual Summit<br />\n-\ud83c\uddee\ud83c\uddf3\ud83c\uddec\ud83c\udde7 trade deal in force</p>\n<img src=\"https://nitter.net/pic/media%2FHOkoZpfaoAACAR7.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOkoZo2a8AAU51s.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOkoZouasAAvWGQ.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOkoZoxbwAAp7e7.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Kulgam attack: Pakistani terror organisation TRF(Lashkar e Taiyyaba) has taken responsibility of the attack.",
-      "link": "https://nitter.net/Goreunit/status/2083237879460008247#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-31T22:36:29+05:30",
-      "time": "31 Jul, 10:36 PM",
-      "type": "tweets",
-      "content": "<p>Kulgam attack:<br />\n<br />\nPakistani terror organisation TRF(Lashkar e Taiyyaba) has taken responsibility of the attack.</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Kulgam attack : <br />\n<br />\nDeepak Ratray s/o Uma Shankar Ratray R/O Chhatissgarh<br />\nAged 24 yrs<br />\n<br />\nBupender s/o Dasrat r/o Chatisgrah Aged about 28 years</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2083234510267924707#m\">https://nitter.net/Goreunit/status/2083234510267924707#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "Update: The injured worker has succumbed to his injuries. Deepak and Bhupender Kumar were targeted and killed in a terrorist attack in Kulgam, carried out by Pakistan-backed terrorists.",
-      "link": "https://nitter.net/elitepredatorss/status/2083235948251455685#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-07-31T22:28:49+05:30",
-      "time": "31 Jul, 10:28 PM",
-      "type": "tweets",
-      "content": "<p>Update: The injured worker has succumbed to his injuries.<br />\n<br />\nDeepak and Bhupender Kumar were targeted and killed in a terrorist attack in Kulgam, carried out by Pakistan-backed terrorists.</p>\n<hr />\n<blockquote>\n<b>Elite Predators (@elitepredatorss)</b>\n<p>\n<p>Target killing in Kulgam, J&amp;K.<br />\n<br />\nA terrorist opened fire on two non-local workers in Kulgam; one was killed and the other was seriously injured.<br />\n<br />\nMore details awaited.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/elitepredatorss/status/2083216070090072239#m\">https://nitter.net/elitepredatorss/status/2083216070090072239#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Kulgam attack : Deepak Ratray s/o Uma Shankar Ratray R/O Chhatissgarh Aged 24 yrs Bupender s/o Dasrat r/o Chatisgrah Aged about 28 years",
-      "link": "https://nitter.net/Goreunit/status/2083234510267924707#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-31T22:23:06+05:30",
-      "time": "31 Jul, 10:23 PM",
-      "type": "tweets",
-      "content": "<p>Kulgam attack : <br />\n<br />\nDeepak Ratray s/o Uma Shankar Ratray R/O Chhatissgarh<br />\nAged 24 yrs<br />\n<br />\nBupender s/o Dasrat r/o Chatisgrah Aged about 28 years</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Kulgam attack:<br />\n<br />\nIdentified as Deepak and Bupender kumar from chattisgarh. Deepak from Chatisgarh brought dead. <br />\n<br />\nBupender under treatment...</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2083219796678865335#m\">https://nitter.net/Goreunit/status/2083219796678865335#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "In 2026, around 28 suicide attacks have been carried out in Pakistan. -DG ISPR",
-      "link": "https://nitter.net/OsintTV/status/2083227637405626619#m",
-      "source": "Osint TV",
-      "sort_key": "2026-07-31T21:55:47+05:30",
-      "time": "31 Jul, 09:55 PM",
-      "type": "tweets",
-      "content": "<p>In 2026, around 28 suicide attacks have been carried out in Pakistan.<br />\n<br />\n-DG ISPR</p>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "Capt. Satyendera Pratap Master MT DESH VAIBHAV \"Being in Red Sea & almost 2500 NM from Indian Waters, the encouraging words of OIC of Indian Naval Warship that \u2018You can now be relaxed, your safety & security is now the responsibility of Indian Navy\u2019, were really the words of assurance for which we don\u2019t have enough words to be thankful for\"",
-      "link": "https://nitter.net/sidhant/status/2083225379897291063#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-31T21:46:49+05:30",
-      "time": "31 Jul, 09:46 PM",
-      "type": "tweets",
-      "content": "<p>Capt. Satyendera Pratap<br />\nMaster<br />\nMT DESH VAIBHAV<br />\n<br />\n\"Being in Red Sea & almost 2500 NM from Indian Waters, the encouraging words of OIC of Indian Naval Warship that \u2018You can now be relaxed, your safety & security  is now the responsibility of Indian Navy\u2019, were really the words of assurance for which we don\u2019t have enough words to be thankful for\"</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian authorities say 3 India flagged crude oil tankers Desh Vaibhav, Desh Vibhor &amp; Sanmar Herald with 8.6 Lakh MT of Cargo, 94 crew transit Hormuz</p>\n<img src=\"https://nitter.net/pic/media%2FHLRyfSqbEAAdShN.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2068404017932439606#m\">https://nitter.net/sidhant/status/2068404017932439606#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Kulgam terror attack: It is now being reported non locals have died in the attack.",
-      "link": "https://nitter.net/sidhant/status/2083222788580794434#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-07-31T21:36:31+05:30",
-      "time": "31 Jul, 09:36 PM",
-      "type": "tweets",
-      "content": "<p>Kulgam terror attack: It is now being reported non locals have died in the attack.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Just in: Two non-local civilians shot by terrorists in Kulgam, J&amp;K; one killed, one critically injured as security forces launch search.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2083217621953167822#m\">https://nitter.net/sidhant/status/2083217621953167822#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @alpha_defense: https://miar.reachdefence.com/blogs/posts/a-satellite-image-is-not-yet-intelligence/ We've been working on build imagery intelligence capabilities at http://miar.reachdefence.com, on the way learnt so much about how we perceive imagery, the layers that can be extracted out and so on. given two satellite images of the same military site, can we tell an analyst what changed? Read the blog to find out!",
-      "link": "https://nitter.net/rv_srivatsa/status/2083221649822986746#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-07-31T21:32:00+05:30",
-      "time": "31 Jul, 09:32 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://miar.reachdefence.com/blogs/posts/a-satellite-image-is-not-yet-intelligence/\">miar.reachdefence.com/blogs/\u2026</a> <br />\n<br />\nWe've been working on build imagery intelligence capabilities at <a href=\"http://miar.reachdefence.com\">miar.reachdefence.com</a>, on the way  learnt so much about how we perceive imagery, the layers that can be extracted out and so on. <br />\n<br />\ngiven two satellite images of the same military site, can we tell an analyst what changed? <br />\nRead the blog to find out!</p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://miar.reachdefence.com/blogs/posts/a-satellite-image-is-not-yet-intelligence/\">\n<img src=\"https://nitter.net/pic/card_img%2F2083182726379966464%2FmPnW4aAZ%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>A satellite image is not yet intelligence</b>\n</a>\n<p>The case for treating sensor limits, time, model output, analyst review, and provenance as one imagery-intelligence system.</p>\n<small><a href=\"https://miar.reachdefence.com/blogs/posts/a-satellite-image-is-not-yet-intelligence/\">miar.reachdefence.com</a></small>",
-      "author": "@rv_srivatsa"
-    },
-    {
-      "title": "RT by @NetramDefence: Great thread on Tibetan refugees and origin of Special Frontier Force ( SFF ). Must read !",
-      "link": "https://nitter.net/Manik_M_Jolly/status/2083220725440323965#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-07-31T21:28:19+05:30",
-      "time": "31 Jul, 09:28 PM",
-      "type": "tweets",
-      "content": "<p>Great thread on Tibetan refugees and origin of Special Frontier Force ( SFF ). <br />\n<br />\nMust read !</p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>THREAD \ud83e\uddf5<br />\n<br />\nThe Tibetan Exodus of 1959 and the Origins of the Special Frontier Force (SFF)<br />\n<br />\nOn 17 March 1959, a 23-year-old Dalai Lama disguised himself as a common soldier and slipped out of Lhasa under cover of darkness. His daring escape would transform Asian geopolitics and permanently reshape India-China relations. <br />\n<br />\n1/10</p>\n<img src=\"https://nitter.net/pic/media%2FHOjqZk3bIAAu0IB.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOjqbwGagAAZx0d.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOjqetJagAAIjxk.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOjqi_HbEAAY5yN.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2083176684400869880#m\">https://nitter.net/NetramDefence/status/2083176684400869880#m</a>\n</footer>\n</blockquote>",
-      "author": "@Manik_M_Jolly"
-    },
-    {
-      "title": "Kulgam attack: Identified as Deepak and Bupender kumar from chattisgarh. Deepak from Chatisgarh brought dead. Bupender under treatment...",
-      "link": "https://nitter.net/Goreunit/status/2083219796678865335#m",
-      "source": "War & Gore",
-      "sort_key": "2026-07-31T21:24:38+05:30",
-      "time": "31 Jul, 09:24 PM",
-      "type": "tweets",
-      "content": "<p>Kulgam attack:<br />\n<br />\nIdentified as Deepak and Bupender kumar from chattisgarh. Deepak from Chatisgarh brought dead. <br />\n<br />\nBupender under treatment...</p>\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>\ud83d\udea8 Targeted Terror Attack in Kulgam, J&amp;K:<br />\n<br />\nA terrorist opened fire on two non-local workers in Kulgam. One worker was killed, while the other sustained serious injuries.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2083216994141413485#m\">https://nitter.net/Goreunit/status/2083216994141413485#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
+    {
+      "title": "Defence Updates - 100 Su-57 Indian Air Force, China Secret Laser Weapon Use, DRDO 50 Swarm Drones",
+      "link": "https://www.youtube.com/watch?v=e2dUdNTXo50",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-02T22:04:11+05:30",
+      "time": "02 Aug, 10:04 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/e2dUdNTXo50/mqdefault.jpg"
+    },
+    {
+      "title": "Thailand Ne BrahMos Par Liya Bada Faisla?,JF-17 Reak cost exposed!!,F-35 Reliability exposed!!",
+      "link": "https://www.youtube.com/watch?v=YvWlw5wJQX8",
+      "source": "Indian Defense News",
+      "sort_key": "2026-08-02T22:00:28+05:30",
+      "time": "02 Aug, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/YvWlw5wJQX8/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : AMCA Full Scale Testing,J-10C Stolen,X-BAT UCAV Offer,Thailand Brahmos Deal",
       "link": "https://www.youtube.com/watch?v=g0dBzFLyu70",
@@ -1366,27 +1266,9 @@
       "time": "01 Aug, 01:15 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/IrMVDfeIhYY/mqdefault.jpg"
-    },
-    {
-      "title": "DRDO Ka DEADLY Drone Missile,Pakistan Ne Maani Indian Navy Ki Taaqat?,FMBT Russia-India Tank Project",
-      "link": "https://www.youtube.com/watch?v=uWcH1lENT2I",
-      "source": "Indian Defense News",
-      "sort_key": "2026-07-31T23:05:33+05:30",
-      "time": "31 Jul, 11:05 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/uWcH1lENT2I/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - PAK SPY Drone Shot Down, 5th Gen Jet Trials, IAF Helicopter New Missiles",
-      "link": "https://www.youtube.com/watch?v=29DSZcL6fXU",
-      "source": "Defense Squad",
-      "sort_key": "2026-07-31T21:54:11+05:30",
-      "time": "31 Jul, 09:54 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/29DSZcL6fXU/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
