@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Rs 10 lakh for migrants killed in terror attack, Omar says \u2018no compensation enough\u2019",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/02/rs-10-lakh-for-migrants-killed-in-terror-attack-omar-says-no-compensation-enough",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-02T08:08:42+05:30",
+      "time": "02 Aug, 08:08 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "European Union to hold emergency talks to address migration crisis in Ceuta",
+      "link": "https://newsonair.gov.in/european-union-to-hold-emergency-talks-to-address-migration-crisis-in-ceuta/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-02T08:05:07+05:30",
+      "time": "02 Aug, 08:05 AM",
+      "type": "news",
+      "description": "The European Union will hold emergency talks on Aug 5 to address the migration crisis in Ceuta, following a dispute between Spain and some member stat..."
+    },
+    {
+      "title": "US President Donald Trump threatens to intensify military action against Iran",
+      "link": "https://newsonair.gov.in/us-president-donald-trump-threatens-to-intensify-military-action-against-iran/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-02T08:01:32+05:30",
+      "time": "02 Aug, 08:01 AM",
+      "type": "news",
+      "description": "US President Donald Trump has threatened to intensify military action against Iran, warning that American strikes will continue until Tehran halts att..."
+    },
+    {
+      "title": "Iran war: US may face tough missile defence choices as Gulf conflict depletes stockpiles, top commander says",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-war-us-may-face-tough-missile-defence-choices-as-gulf-conflict-depletes-stockpiles-top-commander-says/articleshow/132799102.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-02T07:38:49+05:30",
+      "time": "02 Aug, 07:38 AM",
+      "type": "news",
+      "description": "US Iran war news: American military commanders warn of hard decisions regarding missile defense resources.  Ongoing conflict with Iran is heavily pres..."
+    },
+    {
       "title": "Army, Rajasthan cops bust combat uniform racket",
       "link": "https://www.tribuneindia.com/news/india/army-rajasthan-cops-bust-combat-uniform-racket",
       "source": "The Tribune",
@@ -262,15 +298,6 @@
       "description": "In Ukraine, three people were killed and over 12 others are injured after Russia launched an overnight missile and drone attack on Kyiv. Mayor of Kyiv..."
     },
     {
-      "title": "Iran warns of strikes on Israeli and US energy facilities if attacked",
-      "link": "https://newsonair.gov.in/iran-warns-of-strikes-on-israeli-and-us-energy-facilities-if-attacked/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-01T13:40:56+05:30",
-      "time": "01 Aug, 01:40 PM",
-      "type": "news",
-      "description": "Iran has warned that it is ready to strike key Israeli infrastructure and American energy facilities across the West Asia if it comes under attack. Ir..."
-    },
-    {
       "title": "PM Modi, UK PM Andy Burnham pledge to take India-UK strategic partnership to new heights",
       "link": "https://www.indiastrategic.in/pm-modi-uk-pm-andy-burnham-pledge-to-take-india-uk-strategic-partnership-to-new-heights/",
       "source": "India Strategic",
@@ -296,15 +323,6 @@
       "time": "01 Aug, 12:43 PM",
       "type": "news",
       "description": "<p>New Delhi, Aug 1. The government has appointed Air Marshal Sandeep Thareja, currently serving as Director General Medical Services (Air), as the ne..."
-    },
-    {
-      "title": "Earthquake of magnitude 5.8 hits northern Japan; no tsunami warning",
-      "link": "https://newsonair.gov.in/earthquake-of-magnitude-5-8-hits-northern-japan-no-tsunami-warning/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-01T11:14:10+05:30",
-      "time": "01 Aug, 11:14 AM",
-      "type": "news",
-      "description": "An earthquake of magnitude 5.8 struck off Aomori Prefecture in northern Japan today. Japan Meteorological Agency said, the quake occurred at a depth o..."
     },
     {
       "title": "Documentary on 'Operation Sindoor' Announced, to Premiere on August 15",
@@ -467,24 +485,6 @@
       "time": "31 Jul, 11:45 AM",
       "type": "news",
       "description": "Chinese military researchers are using U.S. AI model outputs to advance defense capabilities. This technique allows them to train specialized domestic..."
-    },
-    {
-      "title": "Mahindra Group incorporates step-down arm Novavayu Aerospace",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/mahindra-group-incorporates-step-down-arm-novavayu-aerospace/132754008",
-      "source": "Economic Times",
-      "sort_key": "2026-07-31T08:21:36+05:30",
-      "time": "31 Jul, 08:21 AM",
-      "type": "news",
-      "description": "The company will cater specifically to the defence industry&#039;s needs. Its headquarters will be located in Mumbai with an authorised capital of one..."
-    },
-    {
-      "title": "Iran urges Bulgaria to reconsider hosting US military aircraft",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-urges-bulgaria-to-reconsider-hosting-us-military-aircraft/articleshow/132753667.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-07-31T07:49:30+05:30",
-      "time": "31 Jul, 07:49 AM",
-      "type": "news",
-      "description": "Iran's Foreign Minister Abbas Araqchi has urged Bulgaria to reconsider its decision regarding US military aircraft. He stated that Sofia's approval fa..."
     }
   ],
   "tweets": [
@@ -1594,6 +1594,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
