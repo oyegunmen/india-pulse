@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Trump says Iran faces \u2018decapitation\u2019 if it doesn\u2019t strike deal",
+      "link": "https://www.indiastrategic.in/trump-says-iran-faces-decapitation-if-it-doesnt-strike-deal/",
+      "source": "India Strategic",
+      "sort_key": "2026-08-04T12:03:17+05:30",
+      "time": "04 Aug, 12:03 PM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar Washington/Teheran/ Bengaluru, August 3, 2026. US President Donald Trump on August 3, said Iran faced \u201cdecapitation\u201d if it did not ..."
+    },
+    {
+      "title": "CDS calls for greater military integration to prepare for future warfare",
+      "link": "https://www.indiastrategic.in/cds-calls-for-greater-military-integration-to-prepare-for-future-warfare/",
+      "source": "India Strategic",
+      "sort_key": "2026-08-04T11:41:25+05:30",
+      "time": "04 Aug, 11:41 AM",
+      "type": "news",
+      "description": "<p>New Delhi, Aug 3. Chief of Defence Staff (CDS) General NS Raja Subramani on August 3 underscored the need for the armed forces to adapt to the rapi..."
+    },
+    {
+      "title": "Lashkar leader admits Indian agents killed over 30 LeT operatives in Pakistan since 2020",
+      "link": "https://economictimes.indiatimes.com/news/defence/lashkar-leader-admits-indian-agents-killed-over-30-let-operatives-in-pakistan-since-2020/articleshow/132846894.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-04T11:41:13+05:30",
+      "time": "04 Aug, 11:41 AM",
+      "type": "news",
+      "description": "A Lashkar-e-Taiba operative has admitted to significant losses within the terror group.  Rizwan Hanif stated over thirty operatives were killed across..."
+    },
+    {
       "title": "Who was Sandhya? Faridabad school teacher stabbed 27 times to death inside Saraswati Senior Secondary School",
       "link": "https://www.tribuneindia.com/news/faridabad/who-was-sandhya-faridabad-school-teacher-stabbed-27-times-to-death-inside-saraswati-senior-secondary-school",
       "source": "The Tribune",
@@ -8,6 +35,15 @@
       "time": "04 Aug, 10:42 AM",
       "type": "news",
       "description": "Sandhya, a 29-year-old teacher at Saraswati Senior Secondary School in Sikrona village, Faridabad, was stabbed to death inside the school campus on Mo..."
+    },
+    {
+      "title": "Uganda's military unveils statue of Netanyahu's brother who died in 1976 Entebbe hostage rescue",
+      "link": "https://www.newindianexpress.com/world/2026/Aug/04/ugandas-military-unveils-statue-of-netanyahus-brother-who-died-in-1976-entebbe-hostage-rescue",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-04T10:21:04+05:30",
+      "time": "04 Aug, 10:21 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "NTR police review Dasara security at Durga temple",
@@ -422,18 +458,19 @@
       "time": "02 Aug, 01:34 PM",
       "type": "news",
       "description": "NC chief questions source of terrorists, demands restoration of statehood and urges global attention to the situation in PoJK."
-    },
-    {
-      "title": "Russia Says Air Defences Down 635 Ukrainian Drones Overnight",
-      "link": "https://www.deccanchronicle.com/world/russia-says-air-defences-down-635-ukrainian-drones-overnight-1975936",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-08-02T11:40:19+05:30",
-      "time": "02 Aug, 11:40 AM",
-      "type": "news",
-      "description": "Moscow claims one of the largest overnight drone interception operations across multiple regions."
     }
   ],
   "tweets": [
+    {
+      "title": "RAJNATH SINGH: DEEPER MILITARY\u2013CIVILIAN INTEGRATION KEY TO STRONGER DEFENCE Defence Minister Rajnath Singh has called for greater integration between the military and civilian wings of the Ministry of Defence, saying it is essential to build a more robust defence ecosystem capable of addressing evolving security and technological challenges. - Greater synergy between uniformed personnel and civilian officers for better decision-making. - More joint training and cross-exposure to strengthen mutual understanding. - Encouraged civilian officers to contribute to cyber capabilities, research, geostrategic thinking, and innovation. - Stressed that institutional memory and administrative expertise, combined with operational military experience, will enhance India's defence preparedness.",
+      "link": "https://nitter.net/NetramDefence/status/2084527360972619789#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-04T12:00:26+05:30",
+      "time": "04 Aug, 12:00 PM",
+      "type": "tweets",
+      "content": "<p>RAJNATH SINGH: DEEPER MILITARY\u2013CIVILIAN INTEGRATION KEY TO STRONGER DEFENCE<br />\n<br />\nDefence Minister Rajnath Singh has called for greater integration between the military and civilian wings of the Ministry of Defence, saying it is essential to build a more robust defence ecosystem capable of addressing evolving security and technological challenges. <br />\n<br />\n- Greater synergy between uniformed personnel and civilian officers for better decision-making.<br />\n<br />\n- More joint training and cross-exposure to strengthen mutual understanding.<br />\n<br />\n- Encouraged civilian officers to contribute to cyber capabilities, research, geostrategic thinking, and innovation.<br />\n<br />\n- Stressed that institutional memory and administrative expertise, combined with operational military experience, will enhance India's defence preparedness.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2084527360972619789#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084527165127987200%2Fimg%2FWnnf3sEClttyMS4u.jpg\" />\n</a>",
+      "author": "@NetramDefence"
+    },
     {
       "title": "Itna bhi sach bolna nahi chahiye tha......\ud83d\ude01 Al Jazeera's coverage of the so called PoJK election seems to have hit a nerve in Pakistan. The reaction? Al Jazeera banned in Pakistan?",
       "link": "https://nitter.net/OsintTV/status/2084505109828952515#m",
@@ -1297,6 +1334,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
