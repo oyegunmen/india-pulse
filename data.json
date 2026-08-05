@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Qatar says progress made toward US-Iran talks on ending war",
+      "link": "https://www.indiastrategic.in/qatar-says-progress-made-toward-us-iran-talks-on-ending-war/",
+      "source": "India Strategic",
+      "sort_key": "2026-08-05T10:48:56+05:30",
+      "time": "05 Aug, 10:48 AM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar Doha/Washington/New Delhi/Bengaluru, August 4, 2026. Qatar said on August 4, that efforts to end US-Iran war were making progress, ..."
+    },
+    {
+      "title": "Pakistan Tightens Control Over Foreign Journalists with New Media Rules",
+      "link": "https://newsonair.gov.in/pakistan-tightens-control-over-foreign-journalists-with-new-media-rules/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-05T10:44:00+05:30",
+      "time": "05 Aug, 10:44 AM",
+      "type": "news",
+      "description": "Pakistan has tightened its control over foreign media by introducing new rules that require foreign journalists to obtain prior government approval be..."
+    },
+    {
+      "title": "India-flagged ship sinks after attack in Red Sea; All 13 Indian sailors rescued",
+      "link": "https://newsonair.gov.in/indian-flagged-vessel-attacked-near-yemeni-waters-all-14-seafarers-rescued-safely/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-05T10:24:28+05:30",
+      "time": "05 Aug, 10:24 AM",
+      "type": "news",
+      "description": "An Indian-flagged commercial vessel, MSV Faize Noore Oliya, sank in the Red Sea after coming under attack off the coast of Yemen yesterday. All the 14..."
+    },
+    {
+      "title": "MEA calls Pakistan-occupied Kashmir elections a \u2018farce\u2019, urges global action over civilian killings",
+      "link": "https://www.indiastrategic.in/mea-calls-pakistan-occupied-kashmir-elections-a-farce-urges-global-action-over-civilian-killings/",
+      "source": "India Strategic",
+      "sort_key": "2026-08-05T10:23:12+05:30",
+      "time": "05 Aug, 10:23 AM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar New Delhi/Bengaluru, August 4, 2026. India on August 4, strongly criticised the recently conducted local elections in Pakistan-occu..."
+    },
+    {
       "title": "North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
       "link": "https://economictimes.indiatimes.com/news/defence/north-korean-missile-unit-deploys-in-russia-for-ukraine-war-kyiv-says/articleshow/132889591.cms",
       "source": "Economic Times",
@@ -8,15 +44,6 @@
       "time": "05 Aug, 09:46 AM",
       "type": "news",
       "description": "A North Korean missile unit is deploying to western Russia. This unit could be equipped with 120 ballistic missiles and six launchers. Ukraine faces a..."
-    },
-    {
-      "title": "India-flagged ship sinks after attack in Red Sea; All 13 Indian sailors rescued",
-      "link": "https://newsonair.gov.in/indian-flagged-vessel-attacked-near-yemeni-waters-all-14-seafarers-rescued-safely/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-05T08:25:28+05:30",
-      "time": "05 Aug, 08:25 AM",
-      "type": "news",
-      "description": "An Indian-flagged commercial vessel, MSV Faize Noore Oliya, sank in the Red Sea after coming under attack off the coast of Yemen yesterday. All the 14..."
     },
     {
       "title": "Kerala logs zero UAPA cases this year as terror, Maoist threats wane",
@@ -523,33 +550,6 @@
       "description": "Pakistan has deployed Chinese SH-15 artillery guns along its India-facing formations. These 155mm guns enhance Pakistan's conventional firepower and a..."
     },
     {
-      "title": "India hosts UN Delegation, Reinforces Vision of Inclusive Multilateralism",
-      "link": "https://www.indiastrategic.in/india-hosts-un-delegation-reinforces-vision-of-inclusive-multilateralism/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-03T13:46:12+05:30",
-      "time": "03 Aug, 01:46 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Bengaluru, August 3, 2026. India hosted a delegation of United Nations Permanent Representatives for a week-long familiarization vi..."
-    },
-    {
-      "title": "8 killed after Ukraine launches large-scale drone attack over Russia",
-      "link": "https://newsonair.gov.in/8-killed-after-ukraine-launches-large-scale-drone-attack-over-russia/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-03T13:41:56+05:30",
-      "time": "03 Aug, 01:41 PM",
-      "type": "news",
-      "description": "At least eight people were killed after Ukraine launched a large-scale overnight drone attack targeting military, energy, and civilian infrastructure ..."
-    },
-    {
-      "title": "Trump says Middle East allies have reached outlines of deal to end Iran war, says, US will not carry further strikes",
-      "link": "https://www.indiastrategic.in/trump-says-middle-east-allies-have-reached-outlines-of-deal-to-end-iran-war-says-us-will-not-carry-further-strikes/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-03T13:29:01+05:30",
-      "time": "03 Aug, 01:29 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar\u00a0\u00a0 WASHINGTON/BENGALURU, August 2, 2026. President\u00a0Donald Trump\u00a0in a Saturday, August 1, evening social media post claimed that Mide..."
-    },
-    {
       "title": "West Bengal STF arrests another suspected associate of Jaish operative Hamim Mondal from Howrah",
       "link": "https://economictimes.indiatimes.com/news/defence/west-bengal-stf-arrests-another-suspected-associate-of-jaish-operative-hamim-mondal-from-howrah/articleshow/132821837.cms",
       "source": "Economic Times",
@@ -557,27 +557,129 @@
       "time": "03 Aug, 12:02 PM",
       "type": "news",
       "description": "West Bengal STF arrested another suspected Jaish-e-Mohammed operative associate in Howrah.  The accused, Aditya Singh, was apprehended following leads..."
-    },
-    {
-      "title": "French pilot who claimed India lost Rafales against Pakistan during Op Sindoor caught spying for China",
-      "link": "https://economictimes.indiatimes.com/news/defence/french-pilot-who-claimed-india-lost-rafales-against-pakistan-during-op-sindoor-caught-spying-for-china/articleshow/132819763.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-03T11:21:06+05:30",
-      "time": "03 Aug, 11:21 AM",
-      "type": "news",
-      "description": "A former French Navy pilot faces investigation for allegedly sharing military information with China. Pierre-Henri Chuet is accused of unauthorized tr..."
-    },
-    {
-      "title": "Gorkha recruitment rests with Nepal, Agnipath only route to join Indian Army, says ex-CDS Chauhan",
-      "link": "https://theprint.in/off-the-cuff/gorkha-recruitment-rests-with-nepal-agnipath-only-route-to-join-indian-army-says-ex-cds-chauhan/3003784/",
-      "source": "The Print",
-      "sort_key": "2026-08-03T10:31:48+05:30",
-      "time": "03 Aug, 10:31 AM",
-      "type": "news",
-      "description": "Recruitment of Nepali Gorkhas into Indian Army is on hold since 2022 with Nepal viewing four-yr tenure of Agnipath scheme, among others, as inconsiste..."
     }
   ],
   "tweets": [
+    {
+      "title": "HAL completed the maiden flight of LCH fitted with indigenous flight control systems in December 2025.",
+      "link": "https://nitter.net/alpha_defense/status/2084875410718986323#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-05T11:03:27+05:30",
+      "time": "05 Aug, 11:03 AM",
+      "type": "tweets",
+      "content": "<p>HAL completed the maiden flight of LCH fitted with indigenous flight control systems in December 2025.</p>\n<img src=\"https://nitter.net/pic/media%2FHO73Im2bUAApnLA.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Attack on Indian vessel \"is part of a continuing pattern of crimes and assaults perpetrated by the Houthis\" says Yemen Govt in a statement; Extends solidarity with India",
+      "link": "https://nitter.net/sidhant/status/2084873790731989392#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:57:01+05:30",
+      "time": "05 Aug, 10:57 AM",
+      "type": "tweets",
+      "content": "<p>Attack on Indian vessel \"is part of a continuing pattern of crimes and assaults perpetrated by the Houthis\" says Yemen Govt in a statement; Extends solidarity with India</p>\n<img src=\"https://nitter.net/pic/media%2FHO71qEraEAEo-Xg.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian embassy in Yemen \"The Embassy of India in Riyadh is closely monitoring the situation regarding the safety and repatriation of the crew related to the vessel - MSV Faize Noore Oliya. All 13 Indian crew members have been safely rescued by the Yemeni authorities\"",
+      "link": "https://nitter.net/sidhant/status/2084870270368854353#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:43:02+05:30",
+      "time": "05 Aug, 10:43 AM",
+      "type": "tweets",
+      "content": "<p>Indian embassy in Yemen<br />\n<br />\n\"The Embassy of India in Riyadh is closely monitoring the situation regarding the safety and repatriation of the crew related to the vessel - MSV Faize Noore Oliya. All 13 Indian crew members have been safely rescued by the Yemeni authorities\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: \"The Embassy is in contact with the crew, their family members, and the Yemeni authorities, and is extending all possible assistance for their safe repatriation to India.\"",
+      "link": "https://nitter.net/sidhant/status/2084870272713449960#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:43:02+05:30",
+      "time": "05 Aug, 10:43 AM",
+      "type": "tweets",
+      "content": "<p>\"The Embassy is in contact with the crew, their family members, and the Yemeni authorities, and is extending all possible assistance for their safe repatriation to India.\"</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Africa day celebrations in Delhi today. EAM Jaishankar to be the chief guest at the celebrations.",
+      "link": "https://nitter.net/sidhant/status/2084869725629337933#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:40:52+05:30",
+      "time": "05 Aug, 10:40 AM",
+      "type": "tweets",
+      "content": "<p>Africa day celebrations in Delhi today. EAM Jaishankar to be the chief guest at the celebrations.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iran Seeks Greater Control Over Strait of Hormuz An Iranian official says Tehran is negotiating exclusively with Oman on a temporary 1\u20133 month arrangement that would give Iran primary control over security and maritime services in the Strait of Hormuz. Iran insists it is not negotiating the status of the strait with the United States, and says several issues must be resolved before broader progress is possible, including: - Implementation of previous commitments - Sanctions relief - Release of frozen Iranian assets - The situation in Lebanon Iranian officials also said the temporary shipping corridor under discussion with Oman would remain in place until a permanent arrangement is agreed.",
+      "link": "https://nitter.net/NetramDefence/status/2084869490412851475#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-05T10:39:56+05:30",
+      "time": "05 Aug, 10:39 AM",
+      "type": "tweets",
+      "content": "<p>Iran Seeks Greater Control Over Strait of Hormuz<br />\n<br />\nAn Iranian official says Tehran is negotiating exclusively with Oman on a temporary 1\u20133 month arrangement that would give Iran primary control over security and maritime services in the Strait of Hormuz.<br />\n<br />\nIran insists it is not negotiating the status of the strait with the United States, and says several issues must be resolved before broader progress is possible, including:<br />\n<br />\n- Implementation of previous commitments<br />\n<br />\n- Sanctions relief<br />\n<br />\n- Release of frozen Iranian assets<br />\n<br />\n- The situation in Lebanon<br />\n<br />\nIranian officials also said the temporary shipping corridor under discussion with Oman would remain in place until a permanent arrangement is agreed.</p>\n<img src=\"https://nitter.net/pic/media%2FHO7xuwvbcAAjT1h.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "UN Permanent Representatives (UN Envoys) from 17 countries are currently visiting India. Met EAM Jaishankar ystdy. This is a regular visit that India does every year.",
+      "link": "https://nitter.net/sidhant/status/2084869396187795661#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:39:33+05:30",
+      "time": "05 Aug, 10:39 AM",
+      "type": "tweets",
+      "content": "<p>UN Permanent Representatives (UN Envoys) from 17 countries are currently visiting India. Met EAM Jaishankar ystdy. This is a regular visit that India does every year.</p>\n<img src=\"https://nitter.net/pic/media%2FHO7xj44aIAASCPx.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian vessel sinks after Red Sea attack off Yemen; all crew rescued. The incident marks the first such attack on an Indian vessel in the Red Sea off Yemen, an area far from the Strait of Hormuz but long plagued by threats linked to Houthis. Reporting: https://www.wionews.com/india-news/indian-vessel-sinks-after-red-sea-attack-off-yemen-all-crew-rescued-1785870462603",
+      "link": "https://nitter.net/sidhant/status/2084869125097263163#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:38:29+05:30",
+      "time": "05 Aug, 10:38 AM",
+      "type": "tweets",
+      "content": "<p>Indian vessel sinks after Red Sea attack off Yemen; all crew rescued.<br />\n<br />\nThe incident marks the first such attack on an Indian vessel in the Red Sea off Yemen, an area far from the Strait of Hormuz but long plagued by threats linked to Houthis.<br />\n<br />\nReporting:<br />\n<a href=\"https://www.wionews.com/india-news/indian-vessel-sinks-after-red-sea-attack-off-yemen-all-crew-rescued-1785870462603\">wionews.com/india-news/india\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/indian-vessel-sinks-after-red-sea-attack-off-yemen-all-crew-rescued-1785870462603\">\n<img src=\"https://nitter.net/pic/card_img%2F2084805307235012609%2FwBwBZ2iU%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Indian vessel sinks after Red Sea attack off Yemen; all crew rescued</b>\n</a>\n<p>The mechanised sailing vessel MSV Faize Noore Oliya was hit by a projectile near Yemeni waters, causing it to capsize and sink, Shipping Minister Sarbananda Sonowal said. India\u2019s Ministry of External...</p>\n<small><a href=\"https://www.wionews.com/india-news/indian-vessel-sinks-after-red-sea-attack-off-yemen-all-crew-rescued-1785870462603\">wionews.com</a></small>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iranian (acting) science ministers Dr. Masoud Shamsh Bakhsh, deputy tech minister Dr. Mohammad Nabi Shahiki Tash arrive in New Delhi for 13th BRICS Education Ministers\u2019 Meeting in Bhubaneswar.",
+      "link": "https://nitter.net/sidhant/status/2084867950318948523#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:33:48+05:30",
+      "time": "05 Aug, 10:33 AM",
+      "type": "tweets",
+      "content": "<p>Iranian (acting) science ministers Dr. Masoud Shamsh Bakhsh, deputy tech minister Dr. Mohammad Nabi Shahiki Tash arrive in New Delhi for 13th BRICS Education Ministers\u2019 Meeting in Bhubaneswar.</p>\n<img src=\"https://nitter.net/pic/media%2FHO7wUVybsAAfaDz.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"We remember all those who lost their lives during the nationwide violence of July & August 2024- political activists, police, & innocent civilians. Every life lost was a tragedy, and every grieving family deserves our deepest sympathy says @sajeebwazed, son of Shiekh Hasina",
+      "link": "https://nitter.net/sidhant/status/2084867358108332043#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:31:27+05:30",
+      "time": "05 Aug, 10:31 AM",
+      "type": "tweets",
+      "content": "<p>\"We remember all those who lost their lives during the nationwide violence of July &amp; August 2024- political activists, police, &amp; innocent civilians. Every life lost was a tragedy, and every grieving family deserves our deepest sympathy says <a href=\"https://nitter.net/sajeebwazed\" title=\"Sajeeb Wazed\">@sajeebwazed</a>, son of Shiekh Hasina</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Visiting Uzbek foreign minister Saidov meets United States special envoy for South and Central Asian affairs (& US envoy to India) Sergio Gor in Delhi",
+      "link": "https://nitter.net/sidhant/status/2084866985486434457#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:29:58+05:30",
+      "time": "05 Aug, 10:29 AM",
+      "type": "tweets",
+      "content": "<p>Visiting Uzbek foreign minister Saidov meets United States special envoy for South and Central Asian affairs (&amp; US envoy to India) Sergio Gor in Delhi</p>\n<img src=\"https://nitter.net/pic/media%2FHO7vQ1ObkAAWRJr.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Assistant Secretary S. Paul Kapur is traveling to India, Uzbekistan, Kyrgyz Republic, and Kazakhstan, August 5-12: US statement",
+      "link": "https://nitter.net/sidhant/status/2084866374900621401#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-05T10:27:33+05:30",
+      "time": "05 Aug, 10:27 AM",
+      "type": "tweets",
+      "content": "<p>Assistant Secretary S. Paul Kapur is traveling to India, Uzbekistan, Kyrgyz Republic, and Kazakhstan, August 5-12: US statement</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "HAL spent \u20b92,794 Cr on R&D in FY26, 8.79% of turnover. Out of operating PAT, 15% (\u20b9945 Cr) was transferred to the R&D Reserve to fund future indigenous programmes including LCA Mk2, IMRH and new engine development.",
       "link": "https://nitter.net/alpha_defense/status/2084862701663371377#m",
@@ -749,16 +851,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "US Treasury Secretary Bessent claims that deal to open Hormuz could come as early as \u201ctoday or tomorrow\u201d",
-      "link": "https://nitter.net/sidhant/status/2084684824007295187#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T22:26:08+05:30",
-      "time": "04 Aug, 10:26 PM",
-      "type": "tweets",
-      "content": "<p>US Treasury Secretary Bessent claims that deal to open Hormuz could come as early as \u201ctoday or tomorrow\u201d</p>\n<a href=\"https://nitter.net/sidhant/status/2084684824007295187#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084608045741412352%2Fimg%2F0XneCwQGb3HFFC2W.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "J&K Ex CM Mehbooba Mufti disrespected the National Flag by holding the Tricolour upside down during her protest. Those who never miss an opportunity to lecture the nation on democracy should first learn to respect its National Flag. Holding the Tricolour upside down while calling August 5 a \u201cblack day\u201d is a glaring contradiction.",
       "link": "https://nitter.net/OsintTV/status/2084682778004894029#m",
       "source": "Osint TV",
@@ -799,46 +891,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "As the anniversary of removal of Art 370 comes tomm, social media gets flooded with fake news from across the border. India's foreign ministry acts:",
-      "link": "https://nitter.net/sidhant/status/2084658383244701806#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T20:41:04+05:30",
-      "time": "04 Aug, 08:41 PM",
-      "type": "tweets",
-      "content": "<p>As the anniversary of removal of Art 370 comes tomm, social media gets flooded with fake news from across the border. India's foreign ministry acts:</p>\n<hr />\n<blockquote>\n<b>MEA FactCheck (@MEAFactCheck)</b>\n<p>\n<p>Fake Alert!!! \ud83d\udea8\ud83d\udea8\ud83d\udea8<br />\n<br />\nWe caution against such malicious posts on social media platforms which use AI to create fake content!</p>\n<img src=\"https://nitter.net/pic/media%2FHO4UWn0bAAEbQbq.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/MEAFactCheck/status/2084626064123519037#m\">https://nitter.net/MEAFactCheck/status/2084626064123519037#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Bangladesh government urges media not to publicise statements by former PM Sheikh Hasina that will be given on 5th August",
-      "link": "https://nitter.net/sidhant/status/2084655801839550828#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T20:30:48+05:30",
-      "time": "04 Aug, 08:30 PM",
-      "type": "tweets",
-      "content": "<p>Bangladesh government urges media not to publicise statements by former PM Sheikh Hasina that will be given on 5th August</p>\n<img src=\"https://nitter.net/pic/media%2FHO4vZTAbgAESUrx.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "At country's national day celebrations in Delhi, Guyana High Commissioner Dharamkumar Seeraj raises territorial dispute with neighbouring Venezuela",
-      "link": "https://nitter.net/sidhant/status/2084651771109278187#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T20:14:47+05:30",
-      "time": "04 Aug, 08:14 PM",
-      "type": "tweets",
-      "content": "<p>At country's national day celebrations in Delhi, Guyana High Commissioner Dharamkumar Seeraj raises territorial dispute with neighbouring Venezuela</p>\n<a href=\"https://nitter.net/sidhant/status/2084651771109278187#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084646898263375872%2Fimg%2Fp1rb5NkDRQL5De9I.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India a valued partner, played key role in fulfilling our development priorities, says Guyana High Commissioner Dharamkumar Seeraj at country's national day celebrations in Delhi",
-      "link": "https://nitter.net/sidhant/status/2084651625520693380#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T20:14:13+05:30",
-      "time": "04 Aug, 08:14 PM",
-      "type": "tweets",
-      "content": "<p>India a valued partner, played key role in fulfilling our development priorities, says Guyana High Commissioner Dharamkumar Seeraj at country's national day celebrations in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2084651625520693380#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084646570801393664%2Fimg%2FJ1PqP5jypG7uveYn.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Hodeidah, Yemen FAIZE NOORE OLIYA, the Indian cargo ship that was attacked. Naval tracking websites confirmed the ship movement.",
       "link": "https://nitter.net/Goreunit/status/2084650876405518535#m",
       "source": "War & Gore",
@@ -869,26 +921,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "MoS MEA Pabitra Margherita represents India at Guyana national day celebrations in Delhi. Points to energy cooperation.",
-      "link": "https://nitter.net/sidhant/status/2084647893852618879#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T19:59:23+05:30",
-      "time": "04 Aug, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>MoS MEA Pabitra Margherita represents India at Guyana national day celebrations in Delhi. Points to energy cooperation.</p>\n<img src=\"https://nitter.net/pic/media%2FHO4oDVhaQAAl36q.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "At country's national day celebrations in Delhi, Guyana High Commissioner Dharamkumar Seeraj seeks support for Guyana's contender for the United Nation Secy Gen leadership Carolyn Rodrigues-Birkett. She is running to succeed Ant\u00f3nio Guterres as the next UN Secretary-General.",
-      "link": "https://nitter.net/sidhant/status/2084647831349125160#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T19:59:08+05:30",
-      "time": "04 Aug, 07:59 PM",
-      "type": "tweets",
-      "content": "<p>At country's national day celebrations in Delhi, Guyana High Commissioner Dharamkumar Seeraj seeks support for Guyana's contender for the United Nation Secy Gen leadership Carolyn Rodrigues-Birkett.<br />\n<br />\nShe is running to succeed Ant\u00f3nio Guterres as the next UN Secretary-General.</p>\n<a href=\"https://nitter.net/sidhant/status/2084647831349125160#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084647112541925376%2Fimg%2FEnWPhKx2CCjh6e30.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: They talk of providing security to two Gulf states, yet they can\u2019t even secure their own country. Always dragging India\u2019s name to hide their failures. Terrorism isn\u2019t imported it\u2019s the result of domestic neglect. When you deny people what they deserve, chaos follows. Shamshad Ahmad Khan",
       "link": "https://nitter.net/Drishti_K47/status/2084637585662750827#m",
       "source": "Osint TV",
@@ -897,26 +929,6 @@
       "type": "tweets",
       "content": "<p>They talk of providing security to two Gulf states, yet they can\u2019t even secure their own country.  <br />\n<br />\nAlways dragging India\u2019s name to hide their failures.  <br />\n<br />\nTerrorism isn\u2019t imported it\u2019s the result of domestic neglect.  When you deny people what they deserve, chaos follows.  <br />\n<br />\nShamshad Ahmad Khan</p>\n<a href=\"https://nitter.net/Drishti_K47/status/2084637585662750827#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084636942227181568%2Fimg%2Fw_qOoO80I5ANVD9T.jpg\" />\n</a>",
       "author": "@Drishti_K47"
-    },
-    {
-      "title": "Guyana, India to celebrate 60 years of ties in Delhi.",
-      "link": "https://nitter.net/sidhant/status/2084627790276780233#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T18:39:30+05:30",
-      "time": "04 Aug, 06:39 PM",
-      "type": "tweets",
-      "content": "<p>Guyana, India to celebrate 60 years of ties in Delhi.</p>\n<img src=\"https://nitter.net/pic/media%2FHO4V4XubgAA-Ntd.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Tomorrow, August 5, at 6:30 PM Bangladesh time (6:00 PM India time), Awami League President Sheikh Hasina will virtually join and address a press conference regarding the announcement of her return to Bangladesh: Awami League Statement",
-      "link": "https://nitter.net/sidhant/status/2084626097745142183#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T18:32:46+05:30",
-      "time": "04 Aug, 06:32 PM",
-      "type": "tweets",
-      "content": "<p>Tomorrow, August 5, at 6:30 PM Bangladesh time (6:00 PM India time), Awami League President Sheikh Hasina will virtually join and address a press conference regarding the announcement of her return to Bangladesh: Awami League Statement</p>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @Goreunit: Fake Alert!!! \ud83d\udea8\ud83d\udea8\ud83d\udea8 We caution against such malicious posts on social media platforms which use AI to create fake content!",
@@ -957,16 +969,6 @@
       "type": "tweets",
       "content": "<p>Listen to a distinguished Pakistani general on how Civil Societies are a new frontier of war wherein he quotes Obama and Doval to explain how it works.<br />\n<br />\nCorrelate his statements with what happened at Jantar Mantar.<br />\n<br />\nMake your own opinions.</p>\n<a href=\"https://nitter.net/desishitposterr/status/2084620882618814784#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084620039576227841%2Fimg%2FPp18hMLn3onQjEDT.jpg\" />\n</a>",
       "author": "@desishitposterr"
-    },
-    {
-      "title": "274 fugitive criminals were brought back to India from 36 countries between 2019 and 2026, says Indian Govt",
-      "link": "https://nitter.net/sidhant/status/2084612896454328362#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-04T17:40:19+05:30",
-      "time": "04 Aug, 05:40 PM",
-      "type": "tweets",
-      "content": "<p>274 fugitive criminals were brought back to India from 36 countries between 2019 and 2026, says Indian Govt</p>",
-      "author": "@sidhant"
     },
     {
       "title": "Have a look at this !",
@@ -1159,6 +1161,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "Non-axis symmetry and frequency selective radomes for AMCA and other Aerospace programs",
+      "link": "https://nitter.net/DefenceDecode/status/2084488168812712182#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-08-04T09:24:42+05:30",
+      "time": "04 Aug, 09:24 AM",
+      "type": "tweets",
+      "content": "<p>Non-axis symmetry and frequency selective radomes for AMCA and other Aerospace programs</p>\n<img src=\"https://nitter.net/pic/media%2FHO2W783bUAAZyhL.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
       "title": "RT by @OsintTV: INDIA\u2019S NEXT FIGHTER WILL BE INDIAN. 1/5 India\u2019s decision to move away from acquiring new foreign-origin Sukhoi variants is more than a procurement choice\u2014it\u2019s a strategic reset. Instead of funding another generation of imported heavy fighters, New Delhi is betting on the AMCA and an indigenous aerospace ecosystem. This is how long-term air power is built. \ud83c\uddee\ud83c\uddf3",
       "link": "https://nitter.net/DefenseNewsIN/status/2084485940878196812#m",
       "source": "Osint TV",
@@ -1349,6 +1361,16 @@
       "author": "@elitepredatorss"
     },
     {
+      "title": "Short Notice, Long range test",
+      "link": "https://nitter.net/DefenceDecode/status/2084267193542533510#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-08-03T18:46:37+05:30",
+      "time": "03 Aug, 06:46 PM",
+      "type": "tweets",
+      "content": "<p>Short Notice, Long range test</p>\n<hr />\n<blockquote>\n<b>Damien Symon (@detresfa_)</b>\n<p>\n<p>India updates a notification for a likely long range missile test in the Indian Ocean Region, the range has been extended &amp; now is near 3,760-km<br />\n  <br />\nDate | 06-07 August 2026</p>\n<img src=\"https://nitter.net/pic/media%2FHOzKX2sWwAMRLaI.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/detresfa_/status/2084263609899552984#m\">https://nitter.net/detresfa_/status/2084263609899552984#m</a>\n</footer>\n</blockquote>",
+      "author": "@DefenceDecode"
+    },
+    {
       "title": "Range Extended :)",
       "link": "https://nitter.net/alpha_defense/status/2084265796872900694#m",
       "source": "Alpha Defense",
@@ -1527,40 +1549,10 @@
       "type": "tweets",
       "content": "<p>For the past several years, MeitY's Work Based Learning programme at CERT-In has been open only to Women, SC, ST, and EWS candidates, excluding OBC and General (non-EWS) applicants.<br />\n<br />\nThe question is simple: Why should equally qualified General and OBC students be denied the opportunity to apply for government-funded skill development programmes? <br />\n<br />\nIf candidates are selected on the basis of category instead of skill, don't be surprised when cyberattacks, data breaches, ransomware incidents, and national security failures become more frequent.</p>\n<img src=\"https://nitter.net/pic/media%2FHOxolE_bsAAUCvm.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOxolFWaIAAJ9rR.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOxolE_aYAAaVrs.jpg\" />",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "Security Agencies Hunt For The Only Active Local Terrorist Left in J&K According to security agency records, only one active local terrorist remains in Jammu & Kashmir; Mohammed Lateef Bhat, who is currently the subject of an intensive manhunt. Officials say: - Local terrorist numbers have dropped from 50\u201360 five years ago to just one today. - Around 40\u201350 foreign terrorists are still believed to be operating in the Union Territory. - Bhat is suspected of involvement in the Kulgam migrant workers' killings, the July 22 killing of a J&K Police head constable, and an plot to target the Amarnath Yatra. Security agencies attribute the sharp decline in local recruitment to sustained counter-terror operations and action against terror financing networks. \u26a0\ufe0f The hunt for Mohammed Lateef Bhat remains ongoing.",
-      "link": "https://nitter.net/NetramDefence/status/2084152480879767961#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-03T11:10:47+05:30",
-      "time": "03 Aug, 11:10 AM",
-      "type": "tweets",
-      "content": "<p>Security Agencies Hunt For The Only Active Local Terrorist Left in J&amp;K<br />\n<br />\nAccording to security agency records, only one active local terrorist remains in Jammu & Kashmir; Mohammed Lateef Bhat, who is currently the subject of an intensive manhunt.<br />\n<br />\nOfficials say:<br />\n<br />\n- Local terrorist numbers have dropped from 50\u201360 five years ago to just one today.<br />\n<br />\n- Around 40\u201350 foreign terrorists are still believed to be operating in the Union Territory.<br />\n<br />\n- Bhat is suspected of involvement in the Kulgam migrant workers' killings, the July 22 killing of a J&amp;K Police head constable, and an plot to target the Amarnath Yatra.<br />\n<br />\nSecurity agencies attribute the sharp decline in local recruitment to sustained counter-terror operations and action against terror financing networks.<br />\n<br />\n\u26a0\ufe0f The hunt for Mohammed Lateef Bhat remains ongoing.</p>\n<img src=\"https://nitter.net/pic/media%2FHOxlmRBbwAAP3YY.png\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Pulwama: Security Forces apprehended Tausif Ahmad Dar near Pachaar Fruit Mandi. Anti-national posters and a hand grenade were recovered from his possession.",
-      "link": "https://nitter.net/elitepredatorss/status/2084150458797719772#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-03T11:02:45+05:30",
-      "time": "03 Aug, 11:02 AM",
-      "type": "tweets",
-      "content": "<p>Pulwama: Security Forces apprehended Tausif Ahmad Dar near Pachaar Fruit Mandi. Anti-national posters and a hand grenade were recovered from his possession.</p>\n<img src=\"https://nitter.net/pic/media%2FHOxjE-7bYAAAmHj.jpg\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "DSI :)",
-      "link": "https://nitter.net/alpha_defense/status/2084149118101062041#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-03T10:57:26+05:30",
-      "time": "03 Aug, 10:57 AM",
-      "type": "tweets",
-      "content": "<p>DSI :)</p>\n<hr />\n<blockquote>\n<b>Rethik (@Rethik_D)</b>\n<p>\n<p>Good paper :)</p>\n<img src=\"https://nitter.net/pic/media%2FHOvFREAXEAAQvWw.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Rethik_D/status/2083976164775797051#m\">https://nitter.net/Rethik_D/status/2083976164775797051#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
