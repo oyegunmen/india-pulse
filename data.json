@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Iran says Strait of Hormuz deal with Oman in final stage",
+      "link": "https://newsonair.gov.in/iran-says-strait-of-hormuz-deal-with-oman-in-final-stage/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-06T06:37:15+05:30",
+      "time": "06 Aug, 06:37 AM",
+      "type": "news",
+      "description": "Iran has said it is in the final stage of drafting an agreement with Oman over the Strait of Hormuz. US President Donald Trump has said a deal could b..."
+    },
+    {
+      "title": "Tanker reports explosions in Hormuz: Maritime agency",
+      "link": "https://economictimes.indiatimes.com/news/defence/tanker-reports-explosions-in-hormuz-maritime-agency/articleshow/132978897.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-06T06:37:12+05:30",
+      "time": "06 Aug, 06:37 AM",
+      "type": "news",
+      "description": "An oil tanker reported hearing two explosions while transiting the Hormuz Strait.  The incident occurred approximately ten miles southeast of Kumzar, ..."
+    },
+    {
       "title": "Security forces must exercise restraint even if protesting youth hurl stones: SC",
       "link": "https://www.tribuneindia.com/news/top-headlines/security-forces-must-exercise-restraint-even-if-protesting-youth-hurl-stones-sc",
       "source": "The Tribune",
@@ -55,24 +73,6 @@
       "description": "Ukraine's President Zelensky stated allies supplied one-third of air defence missiles for 2026.  Russia escalates attacks on Kyiv and southern ports, ..."
     },
     {
-      "title": "Ex-CDS Gen Chauhan flags white labelling in defence. What is it & why it undermines \u2018aatmanirbharta\u2019",
-      "link": "https://theprint.in/defence/ex-cds-gen-chauhan-flags-white-labelling-in-defence-what-is-it-why-it-undermines-aatmanirbharta/3006551/",
-      "source": "The Print",
-      "sort_key": "2026-08-05T21:22:13+05:30",
-      "time": "05 Aug, 09:22 PM",
-      "type": "news",
-      "description": "Remarks come at a time when govt has dramatically increased procurement from Indian industry, with private companies, start-ups emerging as major supp..."
-    },
-    {
-      "title": "CJP spokesperson Saurav Das alleges privacy breach after video of his Delhi residence surfaces online",
-      "link": "https://www.tribuneindia.com/news/delhi/cjp-spokesperson-saurav-das-alleges-privacy-breach-after-video-of-his-delhi-residence-surfaces-online",
-      "source": "The Tribune",
-      "sort_key": "2026-08-05T21:12:08+05:30",
-      "time": "05 Aug, 09:12 PM",
-      "type": "news",
-      "description": "Cockroach Janta Party (CJP) spokesperson Saurav Das has alleged that he and his family face a security threat after a video purportedly showing his De..."
-    },
-    {
       "title": "Russia strikes three more cargo vessels in Black Sea",
       "link": "https://economictimes.indiatimes.com/news/defence/russia-strikes-three-more-cargo-vessels-in-black-sea/articleshow/132943442.cms",
       "source": "Economic Times",
@@ -80,15 +80,6 @@
       "time": "05 Aug, 08:43 PM",
       "type": "news",
       "description": "Russian forces struck three more cargo vessels in the Black Sea on Wednesday. This escalation has forced up global wheat prices significantly. The Bla..."
-    },
-    {
-      "title": "CSIO develops acoustic anti-drone system, seeks industry partners for production",
-      "link": "https://www.tribuneindia.com/news/india/csio-develops-acoustic-anti-drone-system-seeks-industry-partners-for-production",
-      "source": "The Tribune",
-      "sort_key": "2026-08-05T20:31:29+05:30",
-      "time": "05 Aug, 08:31 PM",
-      "type": "news",
-      "description": "With the proliferation of drones and their growing sophistication emerging as a major security challenge, the Central Scientific Instruments Organisat..."
     },
     {
       "title": "VTDS Signs Strategic Technology Partnership With DEUS Automation",
@@ -602,15 +593,6 @@
       "time": "04 Aug, 11:41 AM",
       "type": "news",
       "description": "A Lashkar-e-Taiba operative has admitted to significant losses within the terror group.  Rizwan Hanif stated over thirty operatives were killed across..."
-    },
-    {
-      "title": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO",
-      "link": "https://economictimes.indiatimes.com/news/defence/former-ukrainian-top-commander-sees-no-prospect-of-kyiv-joining-nato/articleshow/132843827.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-04T07:19:58+05:30",
-      "time": "04 Aug, 07:19 AM",
-      "type": "news",
-      "description": "Ukraine's former top commander Valeriy Zaluzhnyi stated NATO membership is currently impossible. He cited the Ukrainian armed forces' development leve..."
     }
   ],
   "tweets": [
@@ -1325,6 +1307,16 @@
       "author": "@alpha_defense"
     },
     {
+      "title": "Non-axis symmetry and frequency selective radomes for AMCA and other Aerospace programs",
+      "link": "https://nitter.net/DefenceDecode/status/2084488168812712182#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-08-04T09:24:42+05:30",
+      "time": "04 Aug, 09:24 AM",
+      "type": "tweets",
+      "content": "<p>Non-axis symmetry and frequency selective radomes for AMCA and other Aerospace programs</p>\n<img src=\"https://nitter.net/pic/media%2FHO2W783bUAAZyhL.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
       "title": "RT by @OsintTV: INDIA\u2019S NEXT FIGHTER WILL BE INDIAN. 1/5 India\u2019s decision to move away from acquiring new foreign-origin Sukhoi variants is more than a procurement choice\u2014it\u2019s a strategic reset. Instead of funding another generation of imported heavy fighters, New Delhi is betting on the AMCA and an indigenous aerospace ecosystem. This is how long-term air power is built. \ud83c\uddee\ud83c\uddf3",
       "link": "https://nitter.net/DefenseNewsIN/status/2084485940878196812#m",
       "source": "Osint TV",
@@ -1430,6 +1422,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
