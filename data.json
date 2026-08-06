@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Govt plans trainer aircraft, seaplane manufacturing ecosystem to boost pilot training",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/govt-plans-trainer-aircraft-seaplane-manufacturing-ecosystem-to-boost-pilot-training/132986741",
+      "source": "Economic Times",
+      "sort_key": "2026-08-06T12:18:04+05:30",
+      "time": "06 Aug, 12:18 PM",
+      "type": "news",
+      "description": "Centre looks to expand domestic pilot training capacity as Indian airlines prepare to induct nearly 500 aircraft over the next five years"
+    },
+    {
+      "title": "PTC Industries arm Aerolloy signs Airbus deal for titanium castings",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/ptc-industries-arm-aerolloy-signs-airbus-deal-for-titanium-castings/132986336",
+      "source": "Economic Times",
+      "sort_key": "2026-08-06T12:09:21+05:30",
+      "time": "06 Aug, 12:09 PM",
+      "type": "news",
+      "description": "The deal spans A320neo, A330neo and A350 platforms, with serial production to begin after qualification milestones are met."
+    },
+    {
+      "title": "Swan Defence bags Rs 251-750 crore tug order from Denmark\u2019s Svitzer",
+      "link": "https://economictimes.indiatimes.com/news/defence/swan-defence-bags-rs-251-750-crore-tug-order-from-denmarks-svitzer/articleshow/132984383.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-06T12:04:57+05:30",
+      "time": "06 Aug, 12:04 PM",
+      "type": "news",
+      "description": "Swan Defence and Heavy Industries landed a big deal with Svitzer A/S, building four cutting-edge TRAnsverse 3200 tugs. These super-efficient, biofuel-..."
+    },
+    {
+      "title": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says",
+      "link": "https://www.indiastrategic.in/iran-and-oman-reach-understanding-on-coordinates-of-route-through-hormuz-iran-ministry-says/",
+      "source": "India Strategic",
+      "sort_key": "2026-08-06T11:46:05+05:30",
+      "time": "06 Aug, 11:46 AM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar Tehran/Washington/Bengaluru, August 6, 2026. Iran and Oman have reached an understanding on the geographic coordinates for a shippi..."
+    },
+    {
+      "title": "India hosts second BRICS Anti-Corruption Working Group Meeting, pushes stronger cooperation against cross-border corruption",
+      "link": "https://www.indiastrategic.in/india-hosts-second-brics-anti-corruption-working-group-meeting-pushes-stronger-cooperation-against-cross-border-corruption/",
+      "source": "India Strategic",
+      "sort_key": "2026-08-06T11:38:51+05:30",
+      "time": "06 Aug, 11:38 AM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar Hyderabad/Bengaluru August 5, 2026. India successfully hosted the Second Meeting of the BRICS Anti-Corruption Working Group and the..."
+    },
+    {
       "title": "Lockheed Martin and US Navy Demonstrate AI-Powered Submarine Hunter at RIMPAC 2026",
       "link": "https://www.indiastrategic.in/lockheed-martin-and-us-navy-demonstrate-ai-powered-submarine-hunter-at-rimpac-2026/",
       "source": "India Strategic",
@@ -25,7 +70,7 @@
       "sort_key": "2026-08-06T10:12:15+05:30",
       "time": "06 Aug, 10:12 AM",
       "type": "news",
-      "description": "The World is remembering today victims of atomic bombing of Hiroshima, Japan, which instantly killed thousands and resulted in 140,000 deaths by the e..."
+      "description": "The world is remembering today victims of atomic bombing of Hiroshima, Japan, which instantly killed thousands and resulted in 140,000 deaths by the e..."
     },
     {
       "title": "Pakistan: PTI vows to intensify campaign for Imran Khan's release after three years in prison",
@@ -145,15 +190,6 @@
       "description": "Bangladesh&#8217;s former prime minister Sheikh Hasina&#8217;s son, Sajeeb Wazed Joy, on Wednesday warned that Bangladesh was turning into &#8220;anot..."
     },
     {
-      "title": "SC asks Centre to frame welfare scheme for cadets medically discharged during training",
-      "link": "https://www.tribuneindia.com/news/india/sc-asks-centre-to-frame-welfare-scheme-for-cadets-medically-discharged-during-training",
-      "source": "The Tribune",
-      "sort_key": "2026-08-05T22:45:06+05:30",
-      "time": "05 Aug, 10:45 PM",
-      "type": "news",
-      "description": "The Supreme Court has asked the Centre to formulate a comprehensive welfare scheme for cadets medically discharged from military training institutes a..."
-    },
-    {
       "title": "SpaceX Falcon 9 rocket crashes on Moon, offers new insights into the surface",
       "link": "https://newsonair.gov.in/spacex-falcon-9-rocket-crashes-on-moon-offers-new-insights-into-the-surface/",
       "source": "All India Radio",
@@ -170,6 +206,15 @@
       "time": "05 Aug, 09:33 PM",
       "type": "news",
       "description": "Ukraine's President Zelensky stated allies supplied one-third of air defence missiles for 2026.  Russia escalates attacks on Kyiv and southern ports, ..."
+    },
+    {
+      "title": "Ex-CDS Gen Chauhan flags white labelling in defence. What is it & why it undermines \u2018aatmanirbharta\u2019",
+      "link": "https://theprint.in/defence/ex-cds-gen-chauhan-flags-white-labelling-in-defence-what-is-it-why-it-undermines-aatmanirbharta/3006551/",
+      "source": "The Print",
+      "sort_key": "2026-08-05T21:22:13+05:30",
+      "time": "05 Aug, 09:22 PM",
+      "type": "news",
+      "description": "Remarks come at a time when govt has dramatically increased procurement from Indian industry, with private companies, start-ups emerging as major supp..."
     },
     {
       "title": "Russia strikes three more cargo vessels in Black Sea",
@@ -532,15 +577,6 @@
       "description": "Qatar has confirmed its role as a mediator in the ongoing diplomatic interactions between the United States and Iran. These talks aim for a temporary ..."
     },
     {
-      "title": "IdeaForge receives TDB nod for Financial Assistance of \u20b9151 Crore Under RDI Scheme to Advance Heavy-Lift UAV Platform \u2018YETI\u2019",
-      "link": "https://www.indiastrategic.in/ideaforge-receives-tdb-nod-for-financial-assistance-of-%e2%82%b9151-crore-under-rdi-scheme-to-advance-heavy-lift-uav-platform-yeti/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-04T17:12:18+05:30",
-      "time": "04 Aug, 05:12 PM",
-      "type": "news",
-      "description": "<p>Bengaluru, August 3, 2026. ideaForge Technology Limited, India\u2019s leading manufacturer of unmanned aerial systems, receives Letter of Intent up to \u20b9..."
-    },
-    {
       "title": "Pakistan invites Iranian FM Abbas Araghchi for talks amid renewed US-Iran tensions",
       "link": "https://economictimes.indiatimes.com/news/defence/pakistan-invites-iranian-fm-abbas-araghchi-for-talks-amid-renewed-us-iran-tensions/articleshow/132859369.cms",
       "source": "Economic Times",
@@ -620,27 +656,19 @@
       "time": "04 Aug, 12:23 PM",
       "type": "news",
       "description": "Bharat Electronics Limited and Esri India have signed a Memorandum of Understanding. This collaboration focuses on defence projects involving advanced..."
-    },
-    {
-      "title": "Trump says Iran faces \u2018decapitation\u2019 if it doesn\u2019t strike deal",
-      "link": "https://www.indiastrategic.in/trump-says-iran-faces-decapitation-if-it-doesnt-strike-deal/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-04T12:03:17+05:30",
-      "time": "04 Aug, 12:03 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Washington/Teheran/ Bengaluru, August 3, 2026. US President Donald Trump on August 3, said Iran faced \u201cdecapitation\u201d if it did not ..."
-    },
-    {
-      "title": "Lashkar leader admits Indian agents killed over 30 LeT operatives in Pakistan since 2020",
-      "link": "https://economictimes.indiatimes.com/news/defence/lashkar-leader-admits-indian-agents-killed-over-30-let-operatives-in-pakistan-since-2020/articleshow/132846894.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-04T11:41:13+05:30",
-      "time": "04 Aug, 11:41 AM",
-      "type": "news",
-      "description": "A Lashkar-e-Taiba operative has admitted to significant losses within the terror group.  Rizwan Hanif stated over thirty operatives were killed across..."
     }
   ],
   "tweets": [
+    {
+      "title": "The Sri Lanka Navy launched a rescue operation after an Indian fishing trawler with roughly 11 fishermen aboard ran aground on a coastal reef off Delft Island",
+      "link": "https://nitter.net/elitepredatorss/status/2085252858602213433#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-08-06T12:03:18+05:30",
+      "time": "06 Aug, 12:03 PM",
+      "type": "tweets",
+      "content": "<p>The Sri Lanka Navy launched a rescue operation after an Indian fishing trawler with roughly 11 fishermen aboard ran aground on a coastal reef off Delft Island</p>",
+      "author": "@elitepredatorss"
+    },
     {
       "title": "You have thrown all kinds of buzzwords for safety and sovereignty, which is a great facade to show seriousness about your relationship with India. But before we come to this juvenile rant through a foreign ministry handle, which may have ramifications in future. Kindly let us know what Markazi Jamiat Ahl-e Hadis General Secretary Ibtisam Elahi Zaheer was doing in districts along the India-Bangladesh border, including Rangpur, Lalmonirhat and Nilphamari. I heard you let him land at Rajshahi airport, which is what, 15kms from the Indian border? You know he is a close aide of a globally designated terrorist, Hafiz Saeed, who happens to be the most wanted in India. Don't make us open Pandora's box of other activities of LeT and Jaish in Bangladesh. Your PM seems like a reasonable man.",
       "link": "https://nitter.net/elitepredatorss/status/2085236339461832814#m",
@@ -702,76 +730,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "EAM Jaishankar hopes India Africa summit will take place soon",
-      "link": "https://nitter.net/sidhant/status/2085077231358144537#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-06T00:25:25+05:30",
-      "time": "06 Aug, 12:25 AM",
-      "type": "tweets",
-      "content": "<p>EAM Jaishankar hopes India Africa summit will take place soon</p>\n<a href=\"https://nitter.net/sidhant/status/2085077231358144537#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085077203444994048%2Fimg%2FPRXkEE5Rg4RgbJTY.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Jaishankar points to India's investment, trade, human resource development in Africa",
-      "link": "https://nitter.net/sidhant/status/2085075504621846535#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-06T00:18:33+05:30",
-      "time": "06 Aug, 12:18 AM",
-      "type": "tweets",
-      "content": "<p>EAM Jaishankar points to India's investment, trade, human resource development in Africa</p>\n<a href=\"https://nitter.net/sidhant/status/2085075504621846535#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085075447487090689%2Fimg%2FrQYlm8UWAyhoTLmA.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "EAM Jaishankar hopes India Africa summit will take place soon",
-      "link": "https://nitter.net/sidhant/status/2085075417330073870#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-06T00:18:12+05:30",
-      "time": "06 Aug, 12:18 AM",
-      "type": "tweets",
-      "content": "<p>EAM Jaishankar hopes India Africa summit will take place soon</p>\n<a href=\"https://nitter.net/sidhant/status/2085075417330073870#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085075340339433472%2Fimg%2FIQIM9rgFI8flQ1gY.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "At Africa Day celerbration in Delhi, EAM Jaishankar points to defence cooperation with Africa, including capacity building",
-      "link": "https://nitter.net/sidhant/status/2085075364595020130#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-06T00:18:00+05:30",
-      "time": "06 Aug, 12:18 AM",
-      "type": "tweets",
-      "content": "<p>At Africa Day celerbration in Delhi, EAM Jaishankar points to defence cooperation with Africa, including capacity building</p>\n<a href=\"https://nitter.net/sidhant/status/2085075364595020130#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085075289978404864%2Fimg%2Fu14Mi5eQOEaIIl5K.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: META says",
-      "link": "https://nitter.net/sidhant/status/2085074828860797053#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-06T00:15:52+05:30",
-      "time": "06 Aug, 12:15 AM",
-      "type": "tweets",
-      "content": "<p>META says</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Breaking:<br />\n<br />\n\"I apologised to the minister on behalf of Meta for the error restricting PM Modi\u2019s post\", Joel Kaplan, chief global affairs officer at Meta says</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2084994405522636927#m\">https://nitter.net/sidhant/status/2084994405522636927#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: Zuckerberg apologises to Indian government over harmful content, platform errors amid PM video row Reporting: Full link https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619",
-      "link": "https://nitter.net/sidhant/status/2085074747348615575#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-06T00:15:33+05:30",
-      "time": "06 Aug, 12:15 AM",
-      "type": "tweets",
-      "content": "<p>Zuckerberg apologises to Indian government over harmful content, platform errors amid PM video row <br />\n<br />\nReporting:<br />\n<br />\nFull link <br />\n<a href=\"https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619\">wionews.com/india-news/mark-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619\">\n<img src=\"https://nitter.net/pic/card_img%2F2084984319819526144%2FbW__jxbW%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Mark Zuckerberg apologises to Indian government over harmful content, platform errors amid PM video...</b>\n</a>\n<p>Mark Zuckerberg apologised to the Indian government over harmful content and platform errors as Meta faced scrutiny over the temporary removal of Prime Minister Narendra Modi&apos;s video.</p>\n<small><a href=\"https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Sheikh Hasina's family connect with Delhi's Dargah Nizamuddin Aulia. My report from 2022 @WIONews",
-      "link": "https://nitter.net/sidhant/status/2085070936244707693#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-06T00:00:24+05:30",
-      "time": "06 Aug, 12:00 AM",
-      "type": "tweets",
-      "content": "<p>Sheikh Hasina's family connect with Delhi's Dargah Nizamuddin Aulia.<br />\n<br />\nMy report from 2022<br />\n<br />\n<a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<a href=\"https://nitter.net/sidhant/status/2085070936244707693#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085070669621108736%2Fimg%2FOLIJPE1XUaEl2bmr.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Fmr Bangladesh PM Hasina hopes to go Dargah Nizamuddin Aulia in Delhi, says its a custom. <br />\n<br />\nIn response to my question. <br />\n<br />\nBangladesh's Sheikh family has had a strong connect to the Dargah<br />\n<br />\n<a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<a href=\"https://nitter.net/sidhant/status/2085059569370403310#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085059524952801280%2Fimg%2FFPd4Ym7DOPgXYPT1.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2085059569370403310#m\">https://nitter.net/sidhant/status/2085059569370403310#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: 5th Aug 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf Commercial vessel traffic through Strait of Hormuz has increased since signing of the now-collapsed US-Iran MoU. Only 731 transits were recorded between the signing and July 29, compared to a pre-conflict average of around 138. \u25cf Houthis of Yemen said they will attack Saudi oil tankers in the northern Red Sea off the Yanbu area after vessels re-routed to avoid the Bab el-Mandeb strait. \u25cf One person was killed and 11 wounded in an Israeli strike on Tebnine, southern Lebanon. The area is separate from where the IDF issued an evacuation notice earlier. \u25cf Iranian and Omani negotiators finalized a draft deal to reopen the Strait of Hormuz, now awaiting final sign-off from Iran's supreme leader. \u25cf UKMTO reported an incident 95NM southeast of Aden, Yemen. A loud explosion in close proximity to the vessel was heard. All crew were safe, and there was no environmental impact. \u25cf The US Treasury Dept officially lifted counterterrorism sanctions from two aircraft and three airlines tied to IRGC. END OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2085068211209576789#m",
       "source": "Netram Defense",
@@ -780,106 +738,6 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief:<br />\n5th Aug 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n  <br />\n\u25cf Commercial vessel traffic through Strait of Hormuz has increased since signing of the now-collapsed US-Iran MoU. Only 731 transits were recorded between the signing and July 29, compared to a pre-conflict average of around 138.<br />\n<br />\n\u25cf Houthis of Yemen said they will attack Saudi oil tankers in the northern Red Sea off the Yanbu area after vessels re-routed to avoid the Bab el-Mandeb strait.<br />\n<br />\n\u25cf One person was killed and 11 wounded in an Israeli strike on Tebnine, southern Lebanon. The area is separate from where the IDF issued an evacuation notice earlier.<br />\n<br />\n\u25cf Iranian and Omani negotiators finalized a draft deal to reopen the Strait of Hormuz, now awaiting final sign-off from Iran's supreme leader.<br />\n<br />\n\u25cf UKMTO reported an incident 95NM southeast of Aden, Yemen. A loud explosion in close proximity to the vessel was heard. All crew were safe, and there was no environmental impact.<br />\n<br />\n\u25cf The US Treasury Dept officially lifted counterterrorism sanctions from two aircraft and three airlines tied to IRGC.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHO-meePaoAA7JkG.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief:<br />\n4th Aug 2026:<br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East<br />\n- \u2060Follow us for daily Brief<br />\n  <br />\n\u25cf Saudi Aramco is routing crude around the Strait of Hormuz via its East-West pipeline as the Iran-related crisis has cut shipping through the strait to a tenth of pre-conflict levels.<br />\n<br />\n\u25cf Qatar\u2019s PM and FM Sheikh Mohammed bin Abdulrahman Al Thani called on all parties to implement the US-Iran MoU, including its provision on freedom of navigation in the Strait of Hormuz, during a phone call with Russian FM Sergey Lavrov.<br />\n<br />\n\u25cf Iraq exported more than 30 million barrels of crude oil through the Strait of Hormuz between July 4 and Aug 4, down ~71% from its pre-war monthly average of 105 million barrels.<br />\n<br />\n\u25cf Indian cargo vessel MSV Faize Noore Oliya capsized and sank after being hit by a projectile near Yemeni waters. All seafarers were rescued by the Yemeni Coast Guard.<br />\n<br />\n\u25cf As of today, CENTCOM has redirected 45 commercial vessels, disabled two and boarded two as part of the naval blockade on Iran.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHO5ULHIbUAA-Pd9.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2084696241699766637#m\">https://nitter.net/NetramDefence/status/2084696241699766637#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "ISI has an open hand in Bangladesh says @sajeebwazed, son of fmr Bangladesh PM Hasina",
-      "link": "https://nitter.net/sidhant/status/2085067875774300309#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:48:14+05:30",
-      "time": "05 Aug, 11:48 PM",
-      "type": "tweets",
-      "content": "<p>ISI has an open hand in Bangladesh says <a href=\"https://nitter.net/sajeebwazed\" title=\"Sajeeb Wazed\">@sajeebwazed</a>, son of fmr Bangladesh PM Hasina</p>\n<a href=\"https://nitter.net/sidhant/status/2085067875774300309#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085067844837150720%2Fimg%2F1C_j4lOmrHZbx-8O.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Current US admin is focused on trade, not democracy, human rights, says @sajeebwazed, son of Shiekh Hasina",
-      "link": "https://nitter.net/sidhant/status/2085067580713349348#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:47:04+05:30",
-      "time": "05 Aug, 11:47 PM",
-      "type": "tweets",
-      "content": "<p>Current US admin is focused on trade, not democracy, human rights, says <a href=\"https://nitter.net/sajeebwazed\" title=\"Sajeeb Wazed\">@sajeebwazed</a>, son of Shiekh Hasina</p>\n<a href=\"https://nitter.net/sidhant/status/2085067580713349348#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085067547477708800%2Fimg%2F2KLpF9D5TXuNvu2q.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian govt treating Hasina very well, PM Modi's govt has shown utmost respect says @sajeebwazed , son of Shiekh Hasina",
-      "link": "https://nitter.net/sidhant/status/2085067430305607692#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:46:28+05:30",
-      "time": "05 Aug, 11:46 PM",
-      "type": "tweets",
-      "content": "<p>Indian govt treating Hasina very well, PM Modi's govt has shown utmost respect says <a href=\"https://nitter.net/sajeebwazed\" title=\"Sajeeb Wazed\">@sajeebwazed</a> , son of Shiekh Hasina</p>\n<a href=\"https://nitter.net/sidhant/status/2085067430305607692#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085067403797606400%2Fimg%2F_DDaCtAxcfXBGZJ3.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "India always has been a great friend, and I know, they will remain that, says Fmr Bangladesh PM Hasina; Recalls India's support during 1971 liberation war against Pakistani occupation",
-      "link": "https://nitter.net/sidhant/status/2085064899894686149#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:36:25+05:30",
-      "time": "05 Aug, 11:36 PM",
-      "type": "tweets",
-      "content": "<p>India always has been a great friend, and I know, they will remain that, says Fmr Bangladesh PM Hasina; Recalls India's support during 1971 liberation war against Pakistani occupation</p>\n<a href=\"https://nitter.net/sidhant/status/2085064899894686149#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085064864004001792%2Fimg%2FjUrqirdVYPg0aNVQ.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Fmr Bangladesh PM Hasina says, \"I will be going to Bangladesh in December. It will be our victory month\"; Adds, \"I believe in secular democratic system\"",
-      "link": "https://nitter.net/sidhant/status/2085064689449656690#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:35:35+05:30",
-      "time": "05 Aug, 11:35 PM",
-      "type": "tweets",
-      "content": "<p>Fmr Bangladesh PM Hasina says, \"I will be going to Bangladesh in December. It will be our victory month\"; Adds, \"I believe in secular democratic system\"</p>\n<a href=\"https://nitter.net/sidhant/status/2085064689449656690#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085064635070533632%2Fimg%2FTCoTJ2u4rqgz6qhR.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Fmr Bangladesh PM Hasina says, \"I am worried about future of Bangladesh\". Adds, that she wants a secular Bangladesh",
-      "link": "https://nitter.net/sidhant/status/2085062978991436116#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:28:47+05:30",
-      "time": "05 Aug, 11:28 PM",
-      "type": "tweets",
-      "content": "<p>Fmr Bangladesh PM Hasina says, \"I am worried about future of Bangladesh\". Adds, that she wants a secular Bangladesh</p>\n<a href=\"https://nitter.net/sidhant/status/2085062978991436116#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085062956770017280%2Fimg%2FhTFVlVte3Sc2zkki.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Fmr Bangladesh PM Hasina says,\"I will return to my people\". Adds, \"I may be detained, sent to prison...\"",
-      "link": "https://nitter.net/sidhant/status/2085062901497561283#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:28:28+05:30",
-      "time": "05 Aug, 11:28 PM",
-      "type": "tweets",
-      "content": "<p>Fmr Bangladesh PM Hasina says,\"I will return to my people\". Adds, \"I may be detained, sent to prison...\"</p>\n<a href=\"https://nitter.net/sidhant/status/2085062901497561283#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085062872548487168%2Fimg%2FlxEfBKbhu6gvRyWY.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Bangladesh frmr PM Hasina calls for lifting ban on her party Awami League",
-      "link": "https://nitter.net/sidhant/status/2085062873341214998#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:28:22+05:30",
-      "time": "05 Aug, 11:28 PM",
-      "type": "tweets",
-      "content": "<p>Bangladesh frmr PM Hasina calls for lifting ban on her party Awami League</p>\n<a href=\"https://nitter.net/sidhant/status/2085062873341214998#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085062816160157696%2Fimg%2FE_oBi3E7Hk8d9GBl.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Fmr Bangladesh PM Hasina says Bangladesh facing economic hardship, while under her leadership it was \"rising tiger of Asia\".",
-      "link": "https://nitter.net/sidhant/status/2085062775358005640#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:27:58+05:30",
-      "time": "05 Aug, 11:27 PM",
-      "type": "tweets",
-      "content": "<p>Fmr Bangladesh PM Hasina says Bangladesh facing economic hardship, while under her leadership it was \"rising tiger of Asia\".</p>\n<a href=\"https://nitter.net/sidhant/status/2085062775358005640#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085062731707944960%2Fimg%2F8lEGmJiEMVEzXpZs.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Fmr Bangladesh PM Hasina says Awami league members, minorities, ordinary people have perscuted. \"Attempts to remove the spirit of liberation war\"",
-      "link": "https://nitter.net/sidhant/status/2085062767892181135#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T23:27:57+05:30",
-      "time": "05 Aug, 11:27 PM",
-      "type": "tweets",
-      "content": "<p>Fmr Bangladesh PM Hasina says Awami league members, minorities, ordinary people have perscuted. \"Attempts to remove the spirit of liberation war\"</p>\n<a href=\"https://nitter.net/sidhant/status/2085062767892181135#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085062692260524032%2Fimg%2FxMyjjwVAXd4eHgXf.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "In its latest propaganda video, Tehrik-e-Taliban Pakistan (TTP) chief (Amir) Noor Wali Mehsud (Terrorist) openly expressed solidarity with terrorist groups operating in Kashmir. Pakistan accuses India of supporting TTP, but TTP is openly standing with Kashmir based terrorist groups. A contradiction Pakistan will have to explain. ...\ud83d\ude01",
@@ -902,16 +760,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "RT by @sidhant: Mark Zuckerberg apologises to Indian government over harmful content, platform errors amid PM video row Report by: @sidhant READ: https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619 https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619",
-      "link": "https://nitter.net/WIONews/status/2084984657431728280#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T18:17:34+05:30",
-      "time": "05 Aug, 06:17 PM",
-      "type": "tweets",
-      "content": "<p>Mark Zuckerberg apologises to Indian government over harmful content, platform errors amid PM video row<br />\n<br />\nReport by: <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> <br />\n<br />\nREAD: <a href=\"https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619\">wionews.com/india-news/mark-\u2026</a><br />\n<br />\n<a href=\"https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619\">wionews.com/india-news/mark-\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619\">\n<img src=\"https://nitter.net/pic/card_img%2F2084984319819526144%2FbW__jxbW%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Mark Zuckerberg apologises to Indian government over harmful content, platform errors amid PM video...</b>\n</a>\n<p>Mark Zuckerberg apologised to the Indian government over harmful content and platform errors as Meta faced scrutiny over the temporary removal of Prime Minister Narendra Modi&apos;s video.</p>\n<small><a href=\"https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619\">wionews.com</a></small>",
-      "author": "@WIONews"
-    },
-    {
       "title": "RT by @NetramDefence: This is huge !",
       "link": "https://nitter.net/Manik_M_Jolly/status/2084982466876752193#m",
       "source": "Netram Defense",
@@ -922,16 +770,6 @@
       "author": "@Manik_M_Jolly"
     },
     {
-      "title": "RT by @sidhant: #BREAKING | Mark Zuckerberg apologises to the Indian government Apology over deepfakes and platform errors Parliament panel gave ultimatum to Meta Chief @sidhant joins @BislaDiksha with more details",
-      "link": "https://nitter.net/WIONews/status/2084980065134330003#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T17:59:19+05:30",
-      "time": "05 Aug, 05:59 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BREAKING\">#BREAKING</a> | Mark Zuckerberg apologises to the Indian government <br />\n<br />\nApology over deepfakes and platform errors<br />\n<br />\nParliament panel gave ultimatum to Meta Chief<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> joins <a href=\"https://nitter.net/BislaDiksha\" title=\"Diksha Bisla\">@BislaDiksha</a> with more details</p>\n<a href=\"https://nitter.net/WIONews/status/2084980065134330003#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084978590488367104%2Fimg%2FGX9qlwOMsx2uPkyl.jpg\" />\n</a>",
-      "author": "@WIONews"
-    },
-    {
       "title": "RT by @NetramDefence: BREAKING: India may exchange territory with Myanmar; MEA says proposal under discussion The Ministry of External Affairs (MEA) has confirmed that India and Myanmar are discussing unresolved sections of their shared border, and a possible territorial exchange in Manipur. MEA spokesperson Randhir Jaiswal said discussions are ongoing to settle stretches of the border that remain undemarcated, but did not confirm any land-swap proposal. According to earlier reports, the proposal under discussion involves a small exchange of territory to complete border demarcation between Border Pillars 65 and 68 along the Manipur\u2013Myanmar border.",
       "link": "https://nitter.net/NetramDefence/status/2084978102737010998#m",
       "source": "Netram Defense",
@@ -940,26 +778,6 @@
       "type": "tweets",
       "content": "<p>BREAKING: India may exchange territory with Myanmar; MEA says proposal under discussion<br />\n<br />\nThe Ministry of External Affairs (MEA) has confirmed that India and Myanmar are discussing unresolved sections of their shared border, and a possible territorial exchange in Manipur.<br />\n<br />\nMEA spokesperson Randhir Jaiswal said discussions are ongoing to settle stretches of the border that remain undemarcated, but did not confirm any land-swap proposal.<br />\n<br />\nAccording to earlier reports, the proposal under discussion involves a small exchange of territory to complete border demarcation between Border Pillars 65 and 68 along the Manipur\u2013Myanmar border.</p>\n<img src=\"https://nitter.net/pic/media%2FHO9UFa1aYAAElhh.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Zuckerberg apologises to Indian government over harmful content, platform errors amid PM video row Reporting: https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619Mark",
-      "link": "https://nitter.net/sidhant/status/2084977915121525178#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T17:50:46+05:30",
-      "time": "05 Aug, 05:50 PM",
-      "type": "tweets",
-      "content": "<p>Zuckerberg apologises to Indian government over harmful content, platform errors amid PM video row<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/mark-zuckerberg-apologises-to-indian-government-over-harmful-content-platform-errors-amid-pm-video-row-1785931465619Mark\">wionews.com/india-news/mark-\u2026</a></p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: #BreakingNews \u092e\u093e\u0930\u094d\u0915 \u091c\u0915\u0930\u092c\u0930\u094d\u0917 \u0928\u0947 \u0938\u0930\u0915\u093e\u0930 \u0938\u0947 \u092e\u093e\u092b\u0940 \u092e\u093e\u0902\u0917\u0940 META \u092a\u094d\u0930\u092e\u0941\u0916 \u092e\u093e\u0930\u094d\u0915 \u091c\u0915\u0930\u092c\u0930\u094d\u0917 \u0928\u0947 \u092e\u093e\u092b\u0940\u0928\u093e\u092e\u093e \u092d\u0947\u091c\u093e PM \u092e\u094b\u0926\u0940 \u0915\u093e \u0935\u0940\u0921\u093f\u092f\u094b \u0939\u091f\u093e\u0928\u0947 \u0915\u093e \u092e\u093e\u092e\u0932\u093e \u091c\u093e\u0928\u093f\u090f \u092a\u0942\u0930\u0940 \u0916\u092c\u0930 @sidhant \u0938\u0947 #MarkZuckerberg #Meta #MetaIndia #ZuckerbergApology #MetaApology #PMModiVideo #PMModi",
-      "link": "https://nitter.net/ZeeBusiness/status/2084968189918912614#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-05T17:12:07+05:30",
-      "time": "05 Aug, 05:12 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23BreakingNews\">#BreakingNews</a> <br />\n<br />\n\u092e\u093e\u0930\u094d\u0915 \u091c\u0915\u0930\u092c\u0930\u094d\u0917 \u0928\u0947 \u0938\u0930\u0915\u093e\u0930 \u0938\u0947 \u092e\u093e\u092b\u0940 \u092e\u093e\u0902\u0917\u0940<br />\n<br />\nMETA \u092a\u094d\u0930\u092e\u0941\u0916 \u092e\u093e\u0930\u094d\u0915 \u091c\u0915\u0930\u092c\u0930\u094d\u0917 \u0928\u0947 \u092e\u093e\u092b\u0940\u0928\u093e\u092e\u093e \u092d\u0947\u091c\u093e<br />\n<br />\nPM \u092e\u094b\u0926\u0940 \u0915\u093e \u0935\u0940\u0921\u093f\u092f\u094b \u0939\u091f\u093e\u0928\u0947 \u0915\u093e \u092e\u093e\u092e\u0932\u093e<br />\n<br />\n\u091c\u093e\u0928\u093f\u090f \u092a\u0942\u0930\u0940 \u0916\u092c\u0930 <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> \u0938\u0947 <br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23MarkZuckerberg\">#MarkZuckerberg</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Meta\">#Meta</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MetaIndia\">#MetaIndia</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ZuckerbergApology\">#ZuckerbergApology</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MetaApology\">#MetaApology</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PMModiVideo\">#PMModiVideo</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PMModi\">#PMModi</a></p>\n<a href=\"https://nitter.net/ZeeBusiness/status/2084968189918912614#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/media%2FHO9NBjvaUAAHFWr.jpg\" />\n</a>",
-      "author": "@ZeeBusiness"
     },
     {
       "title": "Punjab Police Busted Pakistan-Backed Petrol Bomb Terror Plot Punjab Police have busted a module for planning petrol bomb attacks. According to the police, the suspects were trained through videos by Pakistan-based handlers, including an alleged ISI operative, conducted reconnaissance of security locations, and were supplied materials to prepare petrol bombs. The investigation is ongoing, and the evidence will be examined through the legal process. The allegations are yet to be tested in court.",
@@ -1354,6 +1172,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
