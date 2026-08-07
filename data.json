@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "'Islamic NATO' speculation grows as Turkiye, Saudi Arabia and Pakistan eye defence pact",
+      "link": "https://www.newindianexpress.com/world/2026/Aug/07/islamic-nato-speculation-grows-as-turkiye-saudi-arabia-and-pakistan-eye-defence-pact",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-07T09:12:53+05:30",
+      "time": "07 Aug, 09:12 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US President signs two executive orders aimed at restricting birthright citizenship & curbing birth tourism",
+      "link": "https://newsonair.gov.in/us-president-signs-two-executive-orders-aimed-at-restricting-birthright-citizenship-curbing-birth-tourism/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-07T08:30:07+05:30",
+      "time": "07 Aug, 08:30 AM",
+      "type": "news",
+      "description": "US President Donald Trump has signed two executive orders aimed at restricting birthright citizenship and curbing birth tourism. Speaking at the Oval ..."
+    },
+    {
       "title": "Trump's Iran dilemma: He's stuck in war with no exit in sight",
       "link": "https://economictimes.indiatimes.com/news/defence/trumps-iran-dilemma-hes-stuck-in-war-with-no-exit-in-sight/articleshow/133019042.cms",
       "source": "Economic Times",
@@ -80,15 +98,6 @@
       "time": "06 Aug, 09:58 PM",
       "type": "news",
       "description": "VTDS is licensed by the Ministry of Home Affairs for the manufacture and proof-testing of small arms and ammunition."
-    },
-    {
-      "title": "Permanent enmity with Pakistan, China not the solution: RSS chief Mohan Bhagwat",
-      "link": "https://www.tribuneindia.com/news/india/permanent-enmity-with-pakistan-china-not-the-solution-rss-chief-mohan-bhagwat",
-      "source": "The Tribune",
-      "sort_key": "2026-08-06T21:17:55+05:30",
-      "time": "06 Aug, 09:17 PM",
-      "type": "news",
-      "description": "RSS chief Mohan Bhagwat has said that conflict with Pakistan and China should not result in the permanent severing of people-to-people relations, argu..."
     },
     {
       "title": "India, Singapore review Comprehensive Strategic Partnership at Foreign Office Consultations",
@@ -514,15 +523,6 @@
       "description": "The partnership reinforces the growing strategic and defence relationship between India and the Czech Republic while supporting India's vision of buil..."
     },
     {
-      "title": "China announces countermeasures against six US entities",
-      "link": "https://newsonair.gov.in/china-announces-countermeasures-against-six-us-entities/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-05T19:20:34+05:30",
-      "time": "05 Aug, 07:20 PM",
-      "type": "news",
-      "description": "China has announced a series of economic measures against the United States, including export controls on drones and sanctions on six American entitie..."
-    },
-    {
       "title": "India rejects Pakistan\u2019s \u2018Youm-e-Istehsal\u2019 remarks, reaffirms J&K as integral part of country",
       "link": "https://www.indiastrategic.in/india-rejects-pakistans-youm-e-istehsal-remarks-reaffirms-jk-as-integral-part-of-country/",
       "source": "India Strategic",
@@ -674,18 +674,39 @@
       "time": "05 Aug, 09:46 AM",
       "type": "news",
       "description": "A North Korean missile unit is deploying to western Russia. This unit could be equipped with 120 ballistic missiles and six launchers. Ukraine faces a..."
-    },
-    {
-      "title": "\u2018When Pakistan sought ceasefire, we kept it waiting\u2019\u2014Gen Anil Chauhan reveals India\u2019s Op Sindoor flex",
-      "link": "https://theprint.in/defence/when-pakistan-sought-ceasefire-we-keep-it-waiting-gen-anil-chauhan-reveals-indias-op-sindoor-flex/3005478/",
-      "source": "The Print",
-      "sort_key": "2026-08-05T08:30:13+05:30",
-      "time": "05 Aug, 08:30 AM",
-      "type": "news",
-      "description": "Pakistan reached out to India around 9.30 am on 10 May 2025 but Indian DGMO spoke only in the afternoon, just retired Chief of Defence Staff Anil Chau..."
     }
   ],
   "tweets": [
+    {
+      "title": "Turkey, Saudi Arabia & Pakistan are set to sign a major joint defence agreement today in Saudi Arabia, according to reports. The deal would deepen military cooperation among the three countries, the exact scope and collective-defence commitments remain unclear.",
+      "link": "https://nitter.net/NetramDefence/status/2085573417982710142#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-07T09:17:05+05:30",
+      "time": "07 Aug, 09:17 AM",
+      "type": "tweets",
+      "content": "<p>Turkey, Saudi Arabia &amp; Pakistan are set to sign a major joint defence agreement today in Saudi Arabia, according to reports.<br />\n<br />\nThe deal would deepen military cooperation among the three countries, the exact scope and collective-defence commitments remain unclear.</p>\n<img src=\"https://nitter.net/pic/media%2FHPFxzbFbQAAH7Jf.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "JVPC with CISF Personnel",
+      "link": "https://nitter.net/alpha_defense/status/2085572156755497050#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-07T09:12:04+05:30",
+      "time": "07 Aug, 09:12 AM",
+      "type": "tweets",
+      "content": "<p>JVPC with CISF Personnel</p>\n<img src=\"https://nitter.net/pic/media%2FHPFw0RLaYAAyJmH.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "\ud83d\udea8 Pakistan\u2019s Biggest Administrative Shake-Up? 4 Provinces Could Become 15\u201318. Reports highlight proposals for a major provincial restructuring after Mohsin Naqvi\u2019s \u201csystem collapse\u201d remarks. How will splitting the country into multiple smaller provinces improve the system, and will this move really make Pakistan a superpower?",
+      "link": "https://nitter.net/OsintTV/status/2085569119743861072#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-07T09:00:00+05:30",
+      "time": "07 Aug, 09:00 AM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Pakistan\u2019s Biggest Administrative Shake-Up? 4 Provinces Could Become 15\u201318.<br />\n<br />\nReports highlight proposals for a major provincial restructuring after Mohsin Naqvi\u2019s \u201csystem collapse\u201d remarks.<br />\n<br />\nHow will splitting the country into multiple smaller provinces improve the system, and will this move really make Pakistan a superpower?</p>",
+      "author": "@OsintTV"
+    },
     {
       "title": "India Has Issued NOTAM For Surface & Sub-surface Firing Exercise In Northen-Arabian Sea Region Off Okha Coast. Area 1 From:06/08/2026 , 08:00 IST Until:10/08/2026 , 12:00 IST Area 2 From:07/08/2026 , 08:00 IST Until:11/08/2026 , 08:00 IST",
       "link": "https://nitter.net/notam_in/status/2085430378844852614#m",
@@ -727,16 +748,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @elitepredatorss: #Infographic \ud83c\uddee\ud83c\uddf3 NSG training with \ud83c\uddfa\ud83c\uddf8 1st SFG(A) Yes, the Americans are loaded. And yes... the NSG ends up looking like Nobita standing next to Suneo. The gap in equipment is purely bec of priorities and institutional mindset, not a lack of money.",
-      "link": "https://nitter.net/spadex950/status/2085397922909413617#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T21:39:44+05:30",
-      "time": "06 Aug, 09:39 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Infographic\">#Infographic</a> <br />\n<br />\n\ud83c\uddee\ud83c\uddf3 NSG training with \ud83c\uddfa\ud83c\uddf8 1st SFG(A)<br />\n<br />\nYes, the Americans are loaded. And yes... the NSG ends up looking like Nobita standing next to Suneo.<br />\n<br />\nThe gap in equipment is purely bec of priorities and institutional mindset, not a lack of money.</p>\n<img src=\"https://nitter.net/pic/media%2FHPDSVb7acAAUpr5.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPDSWKfbgAAx1tD.jpg\" />\n\n<hr />\n<blockquote>\n<b>Defence Matrix (@Defencematrix1)</b>\n<p>\n<p>First I saw those heavily equipped guys, and I was like NSG \ud83d\ude33, then the video played some more and I was like aah NSG \ud83d\ude10</p>\n<a href=\"https://nitter.net/Defencematrix1/status/2085292479264461072#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085233693631868929%2Fimg%2FQl0OFNOfZRKRmwu_.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Defencematrix1/status/2085292479264461072#m\">https://nitter.net/Defencematrix1/status/2085292479264461072#m</a>\n</footer>\n</blockquote>",
-      "author": "@spadex950"
-    },
-    {
       "title": "Indian, Israeli PMs discuss strategic partnership, West Asia situation. Reporting: https://www.wionews.com/india-news/indian-israeli-pms-discuss-strategic-partnership-west-asia-situation-1786027047834",
       "link": "https://nitter.net/sidhant/status/2085389457256337480#m",
       "source": "Sidhant Sibal",
@@ -767,16 +778,6 @@
       "author": "@detresfa_"
     },
     {
-      "title": "The timeline for removing unlawful content from social media has been reduced from 36 hours to 3 hours upon receiving a valid court order or government notice.",
-      "link": "https://nitter.net/elitepredatorss/status/2085388487403196710#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T21:02:14+05:30",
-      "time": "06 Aug, 09:02 PM",
-      "type": "tweets",
-      "content": "<p>The timeline for removing unlawful content from social media has been reduced from 36 hours to 3 hours upon receiving a valid court order or government notice.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
       "title": "RT by @OsintTV: Pakistan has long sheltered internationally designated terrorists, including Hafiz Saeed and Masood Azhar, while failing to extradite or prosecute them effectively. Yet you are lecturing others about extradition? Address the safe havens for UN-designated terrorists in your own country before accusing others of interference. @abasitpak1",
       "link": "https://nitter.net/MikeLimaBravo12/status/2085384078950609315#m",
       "source": "Osint TV",
@@ -795,16 +796,6 @@
       "type": "tweets",
       "content": "<p>BRICS industry ministers meet in Jaipur:</p>\n<img src=\"https://nitter.net/pic/media%2FHPDEgkaaIAEw-HU.jpg\" />",
       "author": "@sidhant"
-    },
-    {
-      "title": "They post this emergency alert every month, promise \u201cmore updates to follow,\u201d then forget the updates exist.",
-      "link": "https://nitter.net/elitepredatorss/status/2085377419247288646#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T20:18:15+05:30",
-      "time": "06 Aug, 08:18 PM",
-      "type": "tweets",
-      "content": "<p>They post this emergency alert every month, promise \u201cmore updates to follow,\u201d then forget the updates exist.</p>\n<hr />\n<blockquote>\n<b>PM's Office of Japan (@JPN_PMO)</b>\n<p>\n<p>[Emergency alert]<br />\nNorth Korea has launched a suspected ballistic missile. More updates to follow.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/JPN_PMO/status/2085278908816220490#m\">https://nitter.net/JPN_PMO/status/2085278908816220490#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     },
     {
       "title": "BREAKING: India's Strategic Forces Command successfully test-fired the nuclear-capable Agni-4 ballistic missile from the Integrated Test Range in Chandipur, Odisha.",
@@ -885,16 +876,6 @@
       "type": "tweets",
       "content": "<p>\"I have not seen the statement......We, of course, categorically reject any insinuation regarding the so-called role of the ISI in Bangladesh. India is paranoid about the ISI....\",Pakistan foreign ministry on Wazed's ISI remarks</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>ISI has an open hand in Bangladesh says <a href=\"https://nitter.net/sajeebwazed\" title=\"Sajeeb Wazed\">@sajeebwazed</a>, son of fmr Bangladesh PM Hasina</p>\n<a href=\"https://nitter.net/sidhant/status/2085067875774300309#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085067844837150720%2Fimg%2F1C_j4lOmrHZbx-8O.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2085067875774300309#m\">https://nitter.net/sidhant/status/2085067875774300309#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
-    },
-    {
-      "title": "Agni-4 Ballistic Missile successfully test-fired.",
-      "link": "https://nitter.net/elitepredatorss/status/2085362737182609489#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T19:19:55+05:30",
-      "time": "06 Aug, 07:19 PM",
-      "type": "tweets",
-      "content": "<p>Agni-4 Ballistic Missile successfully test-fired.</p>\n<img src=\"https://nitter.net/pic/media%2FHPCyV8SawAA2pMo.png\" />",
-      "author": "@elitepredatorss"
     },
     {
       "title": "Israel PM Netanyahu calls PM Modi; discuss ties, West Asia situation India Readout:",
@@ -1177,16 +1158,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Abaan Ahmed, the youngest son of slain gangster-politician Atiq Ahmed, died after the speeding car he was travelling in crashed into a divider in Uttar Pradesh's Jhansi.",
-      "link": "https://nitter.net/elitepredatorss/status/2085270591922487355#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T13:13:46+05:30",
-      "time": "06 Aug, 01:13 PM",
-      "type": "tweets",
-      "content": "<p>Abaan Ahmed, the youngest son of slain gangster-politician Atiq Ahmed, died after the speeding car he was travelling in crashed into a divider in Uttar Pradesh's Jhansi.</p>\n<img src=\"https://nitter.net/pic/media%2FHPBeaO9aoAA-19n.jpg\" />",
-      "author": "@elitepredatorss"
-    },
-    {
       "title": "RT by @OsintTV: \ud83d\udea8 Even Jaish-e-Mohammed chief Masood Azhar (Terrorist) sounds the alarm on PoJK Turmoil. In a statement, he said: \"The fire is blazing.\" \"The situation is quite dangerous.\" \"Even if suppressed temporarily, the fire of hatred will grow underground.\" The visuals from Khuiratta tell the same story. The hatred against Pakistan in PoJK is no longer hidden.",
       "link": "https://nitter.net/OsintTV/status/2085269986889617435#m",
       "source": "Osint TV",
@@ -1227,16 +1198,6 @@
       "author": "@Globalwatchh"
     },
     {
-      "title": "The Sri Lanka Navy launched a rescue operation after an Indian fishing trawler with roughly 11 fishermen aboard ran aground on a coastal reef off Delft Island",
-      "link": "https://nitter.net/elitepredatorss/status/2085252858602213433#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T12:03:18+05:30",
-      "time": "06 Aug, 12:03 PM",
-      "type": "tweets",
-      "content": "<p>The Sri Lanka Navy launched a rescue operation after an Indian fishing trawler with roughly 11 fishermen aboard ran aground on a coastal reef off Delft Island</p>",
-      "author": "@elitepredatorss"
-    },
-    {
       "title": "RT by @NetramDefence: Rafael ADS has successfully completed a trial of its SPYDER air defence system in Israel. They employed the extended-range I-DERBY ER & long-range I-DERBY LR missiles to achieve precise hit-to-kill intercepts against multiple simulated threats and low-radar-signature UAVs.",
       "link": "https://nitter.net/Globalwatchh/status/2085250859307581632#m",
       "source": "Netram Defense",
@@ -1245,16 +1206,6 @@
       "type": "tweets",
       "content": "<p>Rafael ADS has successfully completed a trial of its SPYDER air defence system in Israel.<br />\n<br />\nThey employed the extended-range I-DERBY ER &amp; long-range I-DERBY LR missiles to achieve precise hit-to-kill intercepts against multiple simulated threats and low-radar-signature UAVs.</p>\n<img src=\"https://nitter.net/pic/media%2FHPBMGjxaUAAdTMH.png\" />",
       "author": "@Globalwatchh"
-    },
-    {
-      "title": "You have thrown all kinds of buzzwords for safety and sovereignty, which is a great facade to show seriousness about your relationship with India. But before we come to this juvenile rant through a foreign ministry handle, which may have ramifications in future. Kindly let us know what Markazi Jamiat Ahl-e Hadis General Secretary Ibtisam Elahi Zaheer was doing in districts along the India-Bangladesh border, including Rangpur, Lalmonirhat and Nilphamari. I heard you let him land at Rajshahi airport, which is what, 15kms from the Indian border? You know he is a close aide of a globally designated terrorist, Hafiz Saeed, who happens to be the most wanted in India. Don't make us open Pandora's box of other activities of LeT and Jaish in Bangladesh. Your PM seems like a reasonable man.",
-      "link": "https://nitter.net/elitepredatorss/status/2085236339461832814#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T10:57:39+05:30",
-      "time": "06 Aug, 10:57 AM",
-      "type": "tweets",
-      "content": "<p>You have thrown all kinds of buzzwords for safety and sovereignty, which is a great facade to show seriousness about your relationship with India.<br />\n<br />\nBut before we come to this juvenile rant through a foreign ministry handle, which may have ramifications in future.<br />\n<br />\nKindly let us know what Markazi Jamiat Ahl-e Hadis General Secretary Ibtisam Elahi Zaheer was doing in districts along the India-Bangladesh border, including Rangpur, Lalmonirhat and Nilphamari.<br />\n<br />\nI heard you let him land at Rajshahi airport, which is what, 15kms from the Indian border?<br />\n<br />\nYou know he is a close aide of a globally designated terrorist, Hafiz Saeed, who happens to be the most wanted in India.<br />\n<br />\nDon't make us open Pandora's box of other activities of LeT and Jaish in Bangladesh. Your PM seems like a reasonable man.</p>\n<img src=\"https://nitter.net/pic/media%2FHPA-LEGbIAAga-A.png\" />\n\n<hr />\n<blockquote>\n<b>Ministry of Foreign Affairs (@BDMOFA)</b>\n<p>\n<p>Bangladesh is outraged that the absconding convicted genocider Sheikh Hasina was allowed this evening to engage in live interaction with the media in New Delhi where she and her henchmen launched venomous vitriol against the State of Bangladesh and her people.<br />\n<br />\nDhaka deeply regrets that in spite of concerns conveyed apriori to the Government of India about the likely ramifications of this event on the reset of our bilateral relations, this public event was permitted to be held.<br />\n<br />\nOn a day when the people of Bangladesh are observing the second anniversary of the July Revolution, this interaction by Sheikh Hasina on the Indian soil stands as an affront to the sovereignty of Bangladesh and a grievous insult to the martyrs of the July Revolution.<br />\n <br />\nThe denial of facts established by the United Nations, including gruesome killing of the innocent civilians including minor children during July-August 2024 by the fascist regime, stands as a futile attempt by the absconding convicted mass murderer Hasina and her criminal cohort to reverse the tide of history. The people of Bangladesh had already rejected such heinous attempts in the past and continue to do so now.<br />\n <br />\nUpholding the spirit of the July Revolution, our people have firmly resolved that our nation will never again go back to the dark days of fascism and that Bangladesh will never be a client State. Convicted mass murderer Hasina and her mafia enterprise will never have a place in the polity of Bangladesh.<br />\n<br />\nBangladesh desires to maintain a constructive, mutually beneficial, and forward-looking relationship with India based on sovereign equality, mutual respect, non-interference in each other's internal affairs, and national dignity. Regrettably, Bangladesh\u2019s repeated requests to the Government of India for returning convicted criminal Hasina to Bangladesh under the Extradition Treaty signed between Bangladesh and India in 2013, has not yet elicited a response. On the contrary, allowing her the opportunity to openly interact with the media under any pretext is deeply hurtful to our people\u2019s sentiment and detrimental to the development of harmonious bilateral relations between Bangladesh and India.</p>\n<img src=\"https://nitter.net/pic/media%2FHO-hGZBbYAAF44e.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/BDMOFA/status/2085062292740378992#m\">https://nitter.net/BDMOFA/status/2085062292740378992#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     },
     {
       "title": "\"The Kashmir protesters move toward Muzaffarabad, they will be dealt with using full force. There is no doubt that they are terrorists, and they will be treated like terrorists. It is true that the number of deaths is in double digits. The internet and other communication services will remain shut down.\" \u2013 Rana Sanaullah These pakis sold the churan of \"savior\" to Kashmiris for decades and now they're publically accepting that they're mass murdering people of PoJK and justifying it!",
@@ -1327,16 +1278,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Shotguns remains the most effective last options against FPVs targeting soldiers. That too a 20 inch one, not the under barrel masterkeys. The range matters here !",
-      "link": "https://nitter.net/elitepredatorss/status/2085028124505571449#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-05T21:10:17+05:30",
-      "time": "05 Aug, 09:10 PM",
-      "type": "tweets",
-      "content": "<p>Shotguns remains the most effective last options against FPVs targeting soldiers.<br />\n<br />\nThat too a 20 inch one, not the under barrel masterkeys. <br />\n<br />\nThe range matters here !</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2085028124505571449#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085028094252081152%2Fimg%2FEvTWrWL1AVXAxcYK.jpg\" />\n</a>",
-      "author": "@elitepredatorss"
-    },
-    {
       "title": "RT by @NetramDefence: This is huge !",
       "link": "https://nitter.net/Manik_M_Jolly/status/2084982466876752193#m",
       "source": "Netram Defense",
@@ -1357,16 +1298,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Punjab Police Busted Pakistan-Backed Petrol Bomb Terror Plot Punjab Police have busted a module for planning petrol bomb attacks. According to the police, the suspects were trained through videos by Pakistan-based handlers, including an alleged ISI operative, conducted reconnaissance of security locations, and were supplied materials to prepare petrol bombs. The investigation is ongoing, and the evidence will be examined through the legal process. The allegations are yet to be tested in court.",
-      "link": "https://nitter.net/NetramDefence/status/2084939762297909294#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-05T15:19:10+05:30",
-      "time": "05 Aug, 03:19 PM",
-      "type": "tweets",
-      "content": "<p>Punjab Police Busted Pakistan-Backed Petrol Bomb Terror Plot<br />\n<br />\nPunjab Police have busted a module for planning petrol bomb attacks. According to the police, the suspects were trained through videos by Pakistan-based handlers, including an alleged ISI operative, conducted reconnaissance of security locations, and were supplied materials to prepare petrol bombs.<br />\n<br />\nThe investigation is ongoing, and the evidence will be examined through the legal process. The allegations are yet to be tested in court.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2084939762297909294#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2084939569959698432%2Fimg%2FjDX1ZFi_A39jscSv.jpg\" />\n</a>",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "RT by @NetramDefence: 7 years since abrogation of article 370. Wonderful thread by @NetramDefence",
       "link": "https://nitter.net/Manik_M_Jolly/status/2084932980594868265#m",
       "source": "Netram Defense",
@@ -1375,16 +1306,6 @@
       "type": "tweets",
       "content": "<p>7 years since abrogation of article 370. <br />\n<br />\nWonderful thread by <a href=\"https://nitter.net/NetramDefence\" title=\"Netram Defence Review\">@NetramDefence</a></p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>THREAD \ud83e\uddf5<br />\n<br />\nJammu & Kashmir: 7 Years Since Abrogation of Article 370<br />\n<br />\nSeven years post-Article 370 (2019\u20132026), Jammu & Kashmir presents a complex matrix of deep structural transformation, economic revitalization, and governance reforms. A brief analytical thread on the region\u2019s current trajectory based on recent data. \ud83d\udc47</p>\n<img src=\"https://nitter.net/pic/media%2FHO8mllIbEAA4Y30.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2084929079615303808#m\">https://nitter.net/NetramDefence/status/2084929079615303808#m</a>\n</footer>\n</blockquote>",
       "author": "@Manik_M_Jolly"
-    },
-    {
-      "title": "Loving this ! I am assuming the old man is overseeing this personally.",
-      "link": "https://nitter.net/elitepredatorss/status/2084930276891984097#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-05T14:41:28+05:30",
-      "time": "05 Aug, 02:41 PM",
-      "type": "tweets",
-      "content": "<p>Loving this !<br />\n<br />\nI am assuming the old man is overseeing this personally.</p>\n<hr />\n<blockquote>\n<b>Rahul Shivshankar (@RShivshankar)</b>\n<p>\n<p>ZUCKERBERG'S HONCHOS : Joel Kaplan, chief global affairs officer, and Kevin Martin, vice-president and head of global policy ARE  BEING DELIVERED A 6-POINT ULTIMATUM EVEN AS WE SPEAK<br />\nSources have told <a href=\"https://nitter.net/payalmehta100\" title=\"\ud83e\udd8f Payal M/\u0aaa\u0abe\u0aaf\u0ab2 \u0aae\u0ac7\u0ab9\u0aa4\u0abe/ \u092a\u093e\u092f\u0932 \u092e\u0947\u0939\u0924\u093e/ \u09aa\u09be\u09af\u09c7\u09b2 \u09ae\u09c7\u09b9\u09a4\u09be\">@payalmehta100</a><br />\nthat:<br />\n1. Zuckerberg has been given three days to explain Meta's repeated actions that the NDA says have undermined Indian democracy, including the removal of Prime Minister Narendra Modi's video.<br />\n<br />\n2. Failure to respond will invite action: If Meta fails to provide a satisfactory explanation within three days, the NDA has demanded that the government revoke Meta's safe harbour protection and initiate legal proceedings against the company.<br />\n<br />\n3. Uniform rules for all platforms: META platforms must comply with Indian laws relating to Child Sexual Abuse Material (CSAM) and content violating laws protecting women.<br />\n<br />\n4. Three-day takedown timeline: Any content violating these laws must be taken down within three days. Failure to comply should result in the withdrawal of safe harbour protection for the concerned platform.<br />\n<br />\n5. Telangana Police: The NDA has sought immediate clearance for the Telangana Police to proceed with its action in the matter.<br />\n<br />\n6. FIR details: The NDA has also sought to know who filed the FIR against the social media platforms.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/RShivshankar/status/2084893986704245090#m\">https://nitter.net/RShivshankar/status/2084893986704245090#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     },
     {
       "title": "RT by @NetramDefence: THREAD \ud83e\uddf5 Jammu & Kashmir: 7 Years Since Abrogation of Article 370 Seven years post-Article 370 (2019\u20132026), Jammu & Kashmir presents a complex matrix of deep structural transformation, economic revitalization, and governance reforms. A brief analytical thread on the region\u2019s current trajectory based on recent data. \ud83d\udc47",
@@ -1429,6 +1350,6 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "08:24 AM IST"
+    "last_updated": "09:24 AM IST"
   }
 }
