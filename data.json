@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "2 drones spotted flying over German military base after drone with explosives found at cargo airport",
+      "link": "https://economictimes.indiatimes.com/news/defence/drones-spotted-over-german-military-base-amid-tensions-following-explosive-laden-drone-discovery-at-airport/articleshow/133054853.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-08T20:38:29+05:30",
+      "time": "08 Aug, 08:38 PM",
+      "type": "news",
+      "description": "Two drones were spotted flying over a German military base this week. This incident occurred just two days after a drone with explosives was found. Th..."
+    },
+    {
+      "title": "Four ULFA-I cadres surrender to Assam Rifles in Arunachal Pradesh",
+      "link": "https://economictimes.indiatimes.com/news/defence/four-ulfa-i-cadres-surrender-to-assam-rifles-in-arunachal-pradesh/articleshow/133054757.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-08T20:26:48+05:30",
+      "time": "08 Aug, 08:26 PM",
+      "type": "news",
+      "description": "A Defence spokesman said that the surrender of the four hardcore ULFA-I cadres was secured during a meticulously planned Intelligence-based operation ..."
+    },
+    {
       "title": "Iran committed to diplomacy, will not be forced to surrender: President Masoud Pezeshkian",
       "link": "https://newsonair.gov.in/iran-committed-to-diplomacy-will-not-be-forced-to-surrender-president-masoud-pezeshkian/",
       "source": "All India Radio",
@@ -100,15 +118,6 @@
       "description": "Yemeni forces launched a broad military operation targeting Houthi positions on multiple frontlines.  This action served as a direct response to recen..."
     },
     {
-      "title": "Social media and a suspicious mobile app: How an IAF officer was 'honey-trapped' by Pakistani operative",
-      "link": "https://www.indiatvnews.com/news/india/social-media-and-a-suspicious-mobile-app-how-an-iaf-officer-was-honey-trapped-by-pakistani-operative-2026-08-08-1050769",
-      "source": "India TV",
-      "sort_key": "2026-08-08T14:29:35+05:30",
-      "time": "08 Aug, 02:29 PM",
-      "type": "news",
-      "description": "A Wing Commander of the Indian Air Force (IAF) has been arrested by the Delhi Police for sharing classified and sensitive defence-related information ..."
-    },
-    {
       "title": "India begins efforts to join French-led sixth-generation fighter jet programme",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/india-begins-efforts-to-join-french-led-sixth-generation-fighter-jet-programme/133048515",
       "source": "Economic Times",
@@ -134,6 +143,15 @@
       "time": "08 Aug, 01:07 PM",
       "type": "news",
       "description": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/133048355.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />"
+    },
+    {
+      "title": "And it\u2019s official: India in talks with France to join 6th Gen fighter programme FCAS",
+      "link": "https://theprint.in/defence/and-its-official-india-in-talks-with-france-to-join-6th-gen-fighter-programme-fcas/3009124/",
+      "source": "The Print",
+      "sort_key": "2026-08-08T12:28:01+05:30",
+      "time": "08 Aug, 12:28 PM",
+      "type": "news",
+      "description": "In February this year, ThePrint reported that India is exploring the possibility of teaming up with France for co-development and co-manufacturing of ..."
     },
     {
       "title": "UN Chief Antonio Guterres calls for impartial inquiry into killings of protesters in PoJK",
@@ -208,15 +226,6 @@
       "description": "The final argument in the court in the case is scheduled to be held on August ten, government pleader Dinesh Panigrahi said."
     },
     {
-      "title": "MHA, defence nod mandatory for renewable projects near borders",
-      "link": "https://www.tribuneindia.com/news/india/mha-defence-nod-mandatory-for-renewable-projects-near-borders",
-      "source": "The Tribune",
-      "sort_key": "2026-08-08T01:00:02+05:30",
-      "time": "08 Aug, 01:00 AM",
-      "type": "news",
-      "description": "Renewable energy projects, including solar, wind and hybrid projects, proposed in sensitive areas within 50 km of the Line of Control (LoC), Line of A..."
-    },
-    {
       "title": "India begins efforts to join French-led sixth-generation fighter jet programme",
       "link": "https://economictimes.indiatimes.com/news/defence/india-begins-efforts-to-join-french-led-sixth-generation-fighter-jet-programme/articleshow/133041513.cms",
       "source": "Economic Times",
@@ -233,15 +242,6 @@
       "time": "08 Aug, 12:00 AM",
       "type": "news",
       "description": "India has begun efforts to join France's Future Combat Air System program. The Defence Ministry seeks a roadmap for acquiring sixth-generation fighter..."
-    },
-    {
-      "title": "India identifies 27 places, features in Arunachal Pradesh by their standard names on official map",
-      "link": "https://www.tribuneindia.com/news/india/india-identifies-27-places-features-in-arunachal-pradesh-by-their-standard-names-on-official-map",
-      "source": "The Tribune",
-      "sort_key": "2026-08-07T23:34:36+05:30",
-      "time": "07 Aug, 11:34 PM",
-      "type": "news",
-      "description": "With China repeatedly renaming some places in Arunachal Pradesh, India on Friday formally identified 27 places and features in the state by their stan..."
     },
     {
       "title": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament",
@@ -512,18 +512,59 @@
       "time": "06 Aug, 09:58 PM",
       "type": "news",
       "description": "VTDS is licensed by the Ministry of Home Affairs for the manufacture and proof-testing of small arms and ammunition."
-    },
-    {
-      "title": "Iran and Oman\u00a0 agree to reopen Strait of Hormuz for 60 days",
-      "link": "https://newsonair.gov.in/iran-says-strait-of-hormuz-deal-with-oman-in-final-stage/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-06T20:37:15+05:30",
-      "time": "06 Aug, 08:37 PM",
-      "type": "news",
-      "description": "Iran and Oman have reached an understanding\u00a0 to reopen the Strait of Hormuz for 60 days. According to the local media reports, the agreement, which st..."
     }
   ],
   "tweets": [
+    {
+      "title": "Damn that handle is now automated or something ? This is AI generated content, big loss for defence community.",
+      "link": "https://nitter.net/alpha_defense/status/2086110305218871506#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-08T20:50:29+05:30",
+      "time": "08 Aug, 08:50 PM",
+      "type": "tweets",
+      "content": "<p>Damn that handle is now automated or something ? This is AI generated content, big loss for defence community.</p>\n<hr />\n<blockquote>\n<b>Angad Singh (@zone5aviation)</b>\n<p>\n<p>With or without export demand, I'll keep saying this till it happens or I croak \u2014 the State needs to restrict itself to the enabling S&amp;T and infra that often has no ROI. <br />\n<br />\nThe moment a product emerges, the State must get out of the way and let industry run with the ball.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/zone5aviation/status/2086083222698668047#m\">https://nitter.net/zone5aviation/status/2086083222698668047#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "There is a reason I call it OperationSafedSagar - Chapter \u201cToni\u201d. Extract from the tweet : The biggest is the concentration of a very large part of the air war into No. 17 Squadron. No. 17 Squadron absolutely had an important role in the conflict. It flew fighter reconnaissance missions and, later in June, was involved in effective GPS-assisted night bombing. But it was one part of a much larger IAF effort involving several squadrons, aircraft types, bases, commanders and streams of innovation.",
+      "link": "https://nitter.net/alpha_defense/status/2086106367056859415#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-08T20:34:50+05:30",
+      "time": "08 Aug, 08:34 PM",
+      "type": "tweets",
+      "content": "<p>There is a reason I call it OperationSafedSagar - Chapter \u201cToni\u201d. <br />\n<br />\nExtract from the tweet : <br />\n<br />\nThe biggest is the concentration of a very large part of the air war into No. 17 Squadron. No. 17 Squadron absolutely had an important role in the conflict. It flew fighter reconnaissance missions and, later in June, was involved in effective GPS-assisted night bombing. But it was one part of a much larger IAF effort involving several squadrons, aircraft types, bases, commanders and streams of innovation.</p>\n<hr />\n<blockquote>\n<b>Anchit Gupta (@AnchitGupta9)</b>\n<p>\n<p>Just finished <a href=\"https://nitter.net/netflix\" title=\"Netflix\">@netflix</a> SafedSagar. The first attempt to put the IAF\u2019s Kargil story on a mainstream screen, and it is superb. It deserves cult classic status like Border. Yet it left me uneasy coz it risks repeating one of Border\u2019s most consequential mistakes. Let me explain.<br />\n<br />\nWhat makes SafedSagar exceptional is the extraordinary attention to historical detail. The names of officers, air bases, briefing rooms, charts, uniforms, vehicles, signboards and operational settings are deeply rooted in the reality of 1999. Much of what you see has clearly been reconstructed from the actual people, places and events of the Kargil War. Even several of the officers retain their real or nicknames. Where names have been changed, I assume there were reasons of consent or dramatic necessity.<br />\n<br />\nA caveat: the aircraft depictions (types, serial numbers) and CGI could have been much, much better, but recreating military aviation convincingly is hard for any filmmaker.<br />\n<br />\nBut the real achievement of the series is not merely visual authenticity. It is how simply it explains some very difficult aspects of air operations over Kargil.<br />\n<br />\nHigh-altitude bombing in 1999 was not a straightforward problem. Aircraft, weapons and procedures designed for very different conditions suddenly had to be adapted to targets at extraordinary elevations, in difficult terrain, with limited time and technology and Govt imposed restrictions. The IAF had to learn, improvise and find solutions while the war was underway.<br />\n<br />\nExplaining all this to a general audience without turning the series into a lecture is extremely difficult. SafedSagar manages it beautifully. Whoever was responsible for translating that operational complexity into cinema deserves enormous credit.<br />\n<br />\nIt also gets something else right: the texture of IAF life.<br />\n<br />\nThe squadron is not presented as a collection of larger-than-life superheroes. You see professional pride, rivalry, frustration, humour, families, friendships, uncertainty and the support system that surrounds flying operations. There are creative liberties, inevitably, but the people mostly remain recognisably human.<br />\n<br />\nThat, to me, is one of the series\u2019 greatest strengths. And it is precisely because SafedSagar is so good that the liberties it takes with history matter.<br />\n<br />\nThe biggest is the concentration of a very large part of the air war into No. 17 Squadron. No. 17 Squadron absolutely had an important role in the conflict. It flew fighter reconnaissance missions and, later in June, was involved in effective GPS-assisted night bombing. But it was one part of a much larger IAF effort involving several squadrons, aircraft types, bases, commanders and streams of innovation.<br />\n<br />\nThe series, understandably, needs a central unit around which to build its story. The danger is that cinematic compression gradually becomes historical attribution.<br />\n<br />\nThe handheld-GPS bombing solution is one example. The series appears to place its development very firmly within the world of No. 17 Squadron. The real history of how these innovations emerged across the IAF was more complex, and I would be very careful about attributing such developments to a single unit or group unless the documentary record supports it.<br />\n<br />\nThere are other moments where dramatic licence and historical memory sit uneasily together.<br />\n<br />\nThe sequence surrounding Sqn Ldr Ajay Ahuja is one. The essential truth must never be diluted: Ahuja ejected and was killed after coming down, and the evidence surrounding his death has long indicated brutal treatment. But the series adds considerable drama to the episode. It makes for powerful cinema, but invented detail around real officers and events can quickly become accepted as documented fact.<br />\n<br />\nLikewise, the suggestion that GPS problems or delays resulted from a deliberate American act goes much further than the historical basis appears to support.<br />\n<br />\nNormally, one might shrug and say: this is cinema. But SafedSagar is not an ordinary Bollywood war drama. <br />\n<br />\nIt is extraordinarily well made. It takes its history seriously. It uses real names, real units and real events. It has been received with considerable warmth and support from the IAF community. And because it feels so authentic, audiences will naturally assume that what they are watching is, in substance, what happened.<br />\n<br />\nThat gives the series enormous historical power.<br />\n<br />\nBorder did something similar for an earlier generation. It ensured that millions of Indians would remember Longewala. That was an extraordinary achievement. But it also fixed a particular cinematic version of the battle so deeply in popular memory that, for many people, separating the film from the actual course of events became almost impossible.<br />\n<br />\nMy fear is that SafedSagar could do the same. Not because it is careless with history. Almost the opposite.<br />\n<br />\nNone of this diminishes what the series has achieved. I hope and I encourage every Indian watches it. For once, a large audience will see the IAF\u2019s role in Kargil not as a footnote to the ground war, but as a complex campaign fought by aircrew, engineers, controllers, planners, technicians and families confronting problems for which there were no ready-made answers.<br />\n<br />\nThat story deserved to be told. SafedSagar tells it brilliantly.<br />\n<br />\nI only wish that a series with this much power to become our collective memory had been just a little more careful about where history ended and cinema began. Perhaps I am asking too much of a television series. But when a work is this good, and this important, it becomes worth asking.</p>\n<img src=\"https://nitter.net/pic/media%2FHPM3cjDbUAAB19U.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AnchitGupta9/status/2086073050106302572#m\">https://nitter.net/AnchitGupta9/status/2086073050106302572#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "TYTO 0.300 AAC \u201cBlack-Out\u201c Sniper Rifle",
+      "link": "https://nitter.net/alpha_defense/status/2086103758854136212#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-08T20:24:28+05:30",
+      "time": "08 Aug, 08:24 PM",
+      "type": "tweets",
+      "content": "<p>TYTO 0.300 AAC \u201cBlack-Out\u201c Sniper Rifle</p>\n<a href=\"https://nitter.net/alpha_defense/status/2086103758854136212#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2086071308098637824%2Fimg%2FFc1o2Okxs7t-QG-e.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Indian diplomat @eldosmp at the Arria Formula Meeting on Sudan points how India has provided prosthetic limb camp for 600 beneficiaries in the African country; calls for restoring education for children in Sudan",
+      "link": "https://nitter.net/sidhant/status/2086103464774672772#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-08T20:23:18+05:30",
+      "time": "08 Aug, 08:23 PM",
+      "type": "tweets",
+      "content": "<p>Indian diplomat <a href=\"https://nitter.net/eldosmp\" title=\"Eldos Mathew Punnoos\">@eldosmp</a> at the Arria Formula Meeting on Sudan points how India has provided prosthetic limb camp for 600 beneficiaries in the African country; calls for restoring education for children in Sudan</p>\n<a href=\"https://nitter.net/sidhant/status/2086103464774672772#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2086103401381957632%2Fimg%2FfNaRQFRGwMiz5QN7.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "RT by @alpha_defense: There are weapons built because a nation demanded them & there are others built because a nation could indeed The @sssdefence TYTO Covert Squad Sniper Rifle (CSSR) - Doubt was always imported, we are phasing that out next",
+      "link": "https://nitter.net/Viv_Krishnan/status/2086100317377372663#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-08T20:10:48+05:30",
+      "time": "08 Aug, 08:10 PM",
+      "type": "tweets",
+      "content": "<p>There are weapons built because a nation demanded them &amp; there are others built because a nation could indeed <br />\nThe <a href=\"https://nitter.net/sssdefence\" title=\"SSS Defence\">@sssdefence</a> TYTO Covert Squad Sniper Rifle (CSSR) - Doubt was always imported, we are phasing that out next</p>\n<hr />\n<blockquote>\n<b>SSS Defence (@sssdefence)</b>\n<p>\n<p>Silence officially has a new signature.<br />\n<br />\nThe TYTO Covert Squad Sniper Rifle (CSSR).  Headphones on. \ud83c\udfa7</p>\n<a href=\"https://nitter.net/sssdefence/status/2086071475405217952#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2086071308098637824%2Fimg%2FFc1o2Okxs7t-QG-e.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sssdefence/status/2086071475405217952#m\">https://nitter.net/sssdefence/status/2086071475405217952#m</a>\n</footer>\n</blockquote>",
+      "author": "@Viv_Krishnan"
+    },
     {
       "title": "India's peacock diplomacy at UN. Gives 5 peacocks \ud83e\udd9a-4 blue & one rare white (UN colors\ud83c\uddfa\ud83c\uddf3) to UN in Geneva:",
       "link": "https://nitter.net/sidhant/status/2086095298406002851#m",
@@ -1015,16 +1056,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "From the history books: Thr was once a Baghdad Pact, that came into being in 1955. It was dissolved in 1979. PS: During 1971 India Pak war, the group gave no to support Islamabad, that only hastened its termination (Turkish invasion of Cyprus, other issues as well)",
-      "link": "https://nitter.net/sidhant/status/2085704710523326575#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-07T17:58:48+05:30",
-      "time": "07 Aug, 05:58 PM",
-      "type": "tweets",
-      "content": "<p>From the history books:<br />\n<br />\nThr was once a Baghdad Pact, that came into being in 1955. It was dissolved in 1979.<br />\n<br />\nPS: During 1971 India Pak war, the group gave no to support Islamabad, that only hastened its termination (Turkish invasion of Cyprus, other issues as well)</p>\n<img src=\"https://nitter.net/pic/media%2FHPHpXf8bQAAjEMa.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>\"..Any armed attack against any one of the 3 states shall be regarded as an attack against them all..\"<br />\n<br />\nPakistan, Saudi Arabia, Turkiye annouce \"joint defence\"</p>\n<img src=\"https://nitter.net/pic/media%2FHPHTxZfaoAA984M.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2085680956418269611#m\">https://nitter.net/sidhant/status/2085680956418269611#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "R to @NetramDefence: 13/13 The Legacy Today, Hiroshima is rebuilt as a vibrant city, but the Hiroshima Peace Memorial (Genbaku Dome) stands as a reminder of the catastrophe. Every year, the city commemorates the victims and calls for a world free of nuclear weapons. Hiroshima remains not a symbol of victory, but a universal warning about the devastating human consequences of nuclear warfare.",
       "link": "https://nitter.net/NetramDefence/status/2085702052962066803#m",
       "source": "Netram Defense",
@@ -1243,36 +1274,6 @@
       "type": "tweets",
       "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Infographic\">#Infographic</a> <br />\n<br />\n\ud83c\uddee\ud83c\uddf3 NSG training with \ud83c\uddfa\ud83c\uddf8 1st SFG(A)<br />\n<br />\nYes, the Americans are loaded. And yes... the NSG ends up looking like Nobita standing next to Suneo.<br />\n<br />\nThe gap in equipment is purely bec of priorities and institutional mindset, not a lack of money.</p>\n<img src=\"https://nitter.net/pic/media%2FHPDSVb7acAAUpr5.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPDSWKfbgAAx1tD.jpg\" />\n\n<hr />\n<blockquote>\n<b>Defence Matrix (@Defencematrix1)</b>\n<p>\n<p>First I saw those heavily equipped guys, and I was like NSG \ud83d\ude33, then the video played some more and I was like aah NSG \ud83d\ude10</p>\n<a href=\"https://nitter.net/Defencematrix1/status/2085292479264461072#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085233693631868929%2Fimg%2FQl0OFNOfZRKRmwu_.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Defencematrix1/status/2085292479264461072#m\">https://nitter.net/Defencematrix1/status/2085292479264461072#m</a>\n</footer>\n</blockquote>",
       "author": "@spadex950"
-    },
-    {
-      "title": "RT by @alpha_defense: India announces the successful test-firing of the Agni-4 Medium Range Ballistic Missile on Aug 06, 2026 - below is a map of the tested range as per the test notification",
-      "link": "https://nitter.net/detresfa_/status/2085388774612103202#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-06T21:03:23+05:30",
-      "time": "06 Aug, 09:03 PM",
-      "type": "tweets",
-      "content": "<p>India announces the successful test-firing of the Agni-4 Medium Range Ballistic Missile on Aug 06, 2026 - below is a map of the tested range as per the test notification</p>\n<img src=\"https://nitter.net/pic/media%2FHPDJ6YVXMAAfmYz.jpg\" />",
-      "author": "@detresfa_"
-    },
-    {
-      "title": "The timeline for removing unlawful content from social media has been reduced from 36 hours to 3 hours upon receiving a valid court order or government notice.",
-      "link": "https://nitter.net/elitepredatorss/status/2085388487403196710#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T21:02:14+05:30",
-      "time": "06 Aug, 09:02 PM",
-      "type": "tweets",
-      "content": "<p>The timeline for removing unlawful content from social media has been reduced from 36 hours to 3 hours upon receiving a valid court order or government notice.</p>",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @OsintTV: Pakistan has long sheltered internationally designated terrorists, including Hafiz Saeed and Masood Azhar, while failing to extradite or prosecute them effectively. Yet you are lecturing others about extradition? Address the safe havens for UN-designated terrorists in your own country before accusing others of interference. @abasitpak1",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2085384078950609315#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-06T20:44:43+05:30",
-      "time": "06 Aug, 08:44 PM",
-      "type": "tweets",
-      "content": "<p>Pakistan has long sheltered internationally designated terrorists, including Hafiz Saeed and Masood Azhar, while failing to extradite or prosecute them effectively. Yet you are lecturing others about extradition? Address the safe havens for UN-designated terrorists in your own country before accusing others of interference. <a href=\"https://nitter.net/abasitpak1\" title=\"Abdul Basit\">@abasitpak1</a></p>\n<img src=\"https://nitter.net/pic/media%2FHPDFw3DakAAleAU.jpg\" />",
-      "author": "@MikeLimaBravo12"
     }
   ],
   "youtube": [
@@ -1341,6 +1342,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
