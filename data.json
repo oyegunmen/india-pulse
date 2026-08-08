@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "UN Chief Antonio Guterres calls for impartial inquiry into killings of protesters in PoJK",
+      "link": "https://newsonair.gov.in/un-chief-antonio-guterres-calls-for-impartial-inquiry-into-killings-of-protesters-in-pojk/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-08T12:05:10+05:30",
+      "time": "08 Aug, 12:05 PM",
+      "type": "news",
+      "description": "United Nations Secretary-General Antonio Guterres has called for an impartial inquiry into the killings of protesters in Pakistan-occupied Jammu and K..."
+    },
+    {
       "title": "IAF Wing Commander Arrested for Allegedly Leaking Defence Information",
       "link": "https://www.deccanchronicle.com/nation/current-affairs/iaf-wing-commander-arrested-for-allegedly-leaking-defence-information-1977583",
       "source": "Deccan Chronicle",
@@ -154,6 +163,15 @@
       "description": "The Patriot air defense system faces high demand amid global conflicts. Ukraine urgently needs interceptors to counter Russian missile strikes. Middle..."
     },
     {
+      "title": "Saudi, Turkey & Pakistan sign defence pact, committing to \u2018treat attack on one as attack on all\u2019",
+      "link": "https://theprint.in/diplomacy/saudi-turkey-pakistan-sign-defence-pact-committing-to-treat-attack-on-one-as-attack-on-all/3008624/",
+      "source": "The Print",
+      "sort_key": "2026-08-07T19:32:37+05:30",
+      "time": "07 Aug, 07:32 PM",
+      "type": "news",
+      "description": "Agreement follows nearly year of negotiations. Its signing in Mecca lends symbolic significance. Earlier reports had indicated Egypt too would sign it..."
+    },
+    {
       "title": "L&amp;T says unit that houses drones to see threefold revenue growth over five years",
       "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/lt-says-unit-that-houses-drones-to-see-threefold-revenue-growth-over-five-years/133035712",
       "source": "Economic Times",
@@ -242,6 +260,15 @@
       "time": "07 Aug, 04:39 PM",
       "type": "news",
       "description": "<p>Bengaluru, August 7, 2026. HAL Airport, Bengaluru, has become the first airport in India to operationalise the Required Navigation Performance \u2013 Ca..."
+    },
+    {
+      "title": "Exclusive: What Rafale plan looks like\u2014TATA, L&T, Mahindra and HAL",
+      "link": "https://theprint.in/defence/exclusive-what-rafale-plan-looks-like-tata-lt-mahindra-and-hal/3008247/",
+      "source": "The Print",
+      "sort_key": "2026-08-07T16:06:20+05:30",
+      "time": "07 Aug, 04:06 PM",
+      "type": "news",
+      "description": "French response to India's 114-Rafale proposal includes detailed industrial roadmap, with final assembly line proposed outside France for the first ti..."
     },
     {
       "title": "The message behind the missile: Six signals sent by Agni-IV test",
@@ -620,36 +647,69 @@
       "time": "06 Aug, 01:04 PM",
       "type": "news",
       "description": "In United Kingdom, Members of the British Kashmiri diaspora staged a demonstration in Bradford yesterday, expressing solidarity with the people of Pak..."
-    },
-    {
-      "title": "Govt plans trainer aircraft, seaplane manufacturing ecosystem to boost pilot training",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/govt-plans-trainer-aircraft-seaplane-manufacturing-ecosystem-to-boost-pilot-training/132986741",
-      "source": "Economic Times",
-      "sort_key": "2026-08-06T12:18:04+05:30",
-      "time": "06 Aug, 12:18 PM",
-      "type": "news",
-      "description": "Centre looks to expand domestic pilot training capacity as Indian airlines prepare to induct nearly 500 aircraft over the next five years"
-    },
-    {
-      "title": "PTC Industries arm Aerolloy signs Airbus deal for titanium castings",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/ptc-industries-arm-aerolloy-signs-airbus-deal-for-titanium-castings/132986336",
-      "source": "Economic Times",
-      "sort_key": "2026-08-06T12:09:21+05:30",
-      "time": "06 Aug, 12:09 PM",
-      "type": "news",
-      "description": "The deal spans A320neo, A330neo and A350 platforms, with serial production to begin after qualification milestones are met."
-    },
-    {
-      "title": "Swan Defence and Heavy Industries bags Rs 251-Rs 750 crore tug order from Denmark\u2019s Svitzer",
-      "link": "https://economictimes.indiatimes.com/news/defence/swan-defence-bags-rs-251-750-crore-tug-order-from-denmarks-svitzer/articleshow/132984383.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-06T12:04:57+05:30",
-      "time": "06 Aug, 12:04 PM",
-      "type": "news",
-      "description": "Swan Defence and Heavy Industries landed a big deal with Svitzer A/S, building four cutting-edge TRAnsverse 3200 tugs. These super-efficient, biofuel-..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @sidhant: From the history books: 45 years ago, then Indian PM Indira Gandhi sent a pair of peacocks to UN in Geneva from Delhi zoo.",
+      "link": "https://nitter.net/sidhant/status/2085978964196213086#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-08T12:08:35+05:30",
+      "time": "08 Aug, 12:08 PM",
+      "type": "tweets",
+      "content": "<p>From the history books:<br />\n45 years ago, then Indian PM Indira Gandhi sent a pair of peacocks to UN in Geneva from Delhi zoo.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India's Peacock diplomacy at UN India has presented 5 young peacocks, four blue and one rare white (UN colors), to the UN Office at Geneva. Handed over by Indian envoy to Geneva @IndiaUNGeneva @abagchimea to Director-General of UN Geneva Tatiana Valovaya pc ctsy: UN",
+      "link": "https://nitter.net/sidhant/status/2085978583634199020#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-08T12:07:04+05:30",
+      "time": "08 Aug, 12:07 PM",
+      "type": "tweets",
+      "content": "<p>India's Peacock diplomacy at UN<br />\n<br />\nIndia has presented 5 young peacocks, four blue and one rare white (UN colors), to the UN Office at Geneva. <br />\n<br />\nHanded over by Indian envoy to Geneva <a href=\"https://nitter.net/IndiaUNGeneva\" title=\"India at UN, Geneva\">@IndiaUNGeneva</a> <a href=\"https://nitter.net/abagchimea\" title=\"Arindam Bagchi\">@abagchimea</a> to Director-General of UN Geneva Tatiana Valovaya<br />\n<br />\npc ctsy: UN</p>\n<img src=\"https://nitter.net/pic/media%2FHPLf1sEacAA8MfD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPLg34vbMAA943r.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPLicQwbMAEaXUR.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPLicQqb0AAtHxc.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India's Seamen Union (FSUI) says Ukraine drone attacked Turkish-owned cargo vessel Yasar near Russia's Novorossiysk port on 3 August, with four Indian crew members among those on board; no casualties reported",
+      "link": "https://nitter.net/sidhant/status/2085974305989673222#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-08T11:50:04+05:30",
+      "time": "08 Aug, 11:50 AM",
+      "type": "tweets",
+      "content": "<p>India's Seamen Union (FSUI) says Ukraine drone attacked Turkish-owned cargo vessel Yasar near Russia's Novorossiysk port on 3 August, with four Indian crew members among those on board; no casualties reported</p>\n<a href=\"https://nitter.net/sidhant/status/2085974305989673222#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085963075115745281%2Fimg%2FbfR-_u6VZ94Cpw1X.jpg\" />\n</a>\n\n<a href=\"https://nitter.net/sidhant/status/2085974305989673222#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085963075132497920%2Fimg%2F4ChM-hoP8Epp8Iqv.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India sends military contingent to take part in C\u00f4te d\u2019Ivoire's Independence day celebrations. MEA MoS Kirti Vardhan Singh represents India at the celebrations in Abidjan.",
+      "link": "https://nitter.net/sidhant/status/2085973468143890627#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-08T11:46:44+05:30",
+      "time": "08 Aug, 11:46 AM",
+      "type": "tweets",
+      "content": "<p>India sends military contingent to take part in C\u00f4te d\u2019Ivoire's Independence day celebrations. MEA MoS Kirti Vardhan Singh represents India at the celebrations in Abidjan.</p>\n<a href=\"https://nitter.net/sidhant/status/2085973468143890627#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085955674824155136%2Fimg%2F94omRpMGCGiEPt_5.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "After Pahalgam attack, parliamentary committee has recommended an integrated security and surveillance framework for major tourist destinations across Jammu & Kashmir following the Pahalgam terror attack. Recommendations include: \u2022 Comprehensive CCTV coverage \u2022 Centralised monitoring centres \u2022 Regular vulnerability assessments & security audits \u2022 Clear inter-agency SOPs ahead of peak tourist season The move aims to prevent future attacks on J&K\u2019s vital tourism infrastructure.",
+      "link": "https://nitter.net/NetramDefence/status/2085970655619756342#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-08T11:35:34+05:30",
+      "time": "08 Aug, 11:35 AM",
+      "type": "tweets",
+      "content": "<p>After Pahalgam attack, parliamentary committee has recommended an integrated security and surveillance framework for major tourist destinations across Jammu & Kashmir following the Pahalgam terror attack.<br />\n<br />\nRecommendations include:<br />\n\u2022 Comprehensive CCTV coverage<br />\n\u2022 Centralised monitoring centres<br />\n\u2022 Regular vulnerability assessments & security audits<br />\n\u2022 Clear inter-agency SOPs ahead of peak tourist season<br />\n<br />\nThe move aims to prevent future attacks on J&amp;K\u2019s vital tourism infrastructure.</p>\n<img src=\"https://nitter.net/pic/media%2FHPLbLKhaIAAqTOf.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "The Government of India (GoI) has officially informed the Parliamentary Standing Committee on Defence (#SCOD) that it is actively taking steps to join the French-led FCAS program to develop a 6th-gen aircraft This collaboration is intended to run alongside India's AMCA program",
+      "link": "https://nitter.net/DefenceDecode/status/2085969813890105764#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-08-08T11:32:13+05:30",
+      "time": "08 Aug, 11:32 AM",
+      "type": "tweets",
+      "content": "<p>The Government of India (GoI) has officially informed the Parliamentary Standing Committee on Defence (<a href=\"https://nitter.net/search?f=tweets&amp;q=%23SCOD\">#SCOD</a>) that it is actively taking steps to join the French-led FCAS program to develop a 6th-gen aircraft<br />\nThis collaboration is intended to run alongside India's AMCA program</p>\n<img src=\"https://nitter.net/pic/media%2FHPLaYY4bgAAAGfY.jpg\" />",
+      "author": "@DefenceDecode"
+    },
     {
       "title": "\ud83d\udea8 Osint Report: LeT\u2019s \u201cMartyrs\u2019 Families\u201d Handler Drops Dead in Islamabad Mosque Senior Lashkar-e-Taiba cadre Qari Saeed Abdul Aziz reportedly had food at an undisclosed location before making his way to Quba Mosque for prayers. What happened next remains a mystery. He collapsed at the mosque entrance and died. Qari Saeed was Chief of department responsible for handling the families of LeT terrorists killed in encounters in J&K, India. Karma needs no appointment. Viewer discretion advised. Details: Open source",
       "link": "https://nitter.net/OsintTV/status/2085946896107921492#m",
@@ -871,7 +931,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "THREAD Nuclear Bomb Disaster: Story of Hiroshima & Nagasaki 81 years ago on August 6, 1945, the world entered the nuclear age. The United States of America dropped the uranium-based atomic bomb \u201cLittle Boy\u201d on Hiroshima, Japan, this decision would go on to shape geopolitics and the trajectory of many lives. 1/13",
+      "title": "RT by @NetramDefence: THREAD Nuclear Bomb Disaster: Story of Hiroshima & Nagasaki 81 years ago on August 6, 1945, the world entered the nuclear age. The United States of America dropped the uranium-based atomic bomb \u201cLittle Boy\u201d on Hiroshima, Japan, this decision would go on to shape geopolitics and the trajectory of many lives. 1/13",
       "link": "https://nitter.net/NetramDefence/status/2085702004001931716#m",
       "source": "Netram Defense",
       "sort_key": "2026-08-07T17:48:02+05:30",
@@ -978,46 +1038,6 @@
       "time": "07 Aug, 04:17 PM",
       "type": "tweets",
       "content": "<p>Regional situation was discussed, MEA Spox Randhir Jaiswal on PM Modi, PM Netanyahu talks</p>\n<a href=\"https://nitter.net/sidhant/status/2085679272895909992#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085679208924418048%2Fimg%2FBTu0mK5WI_VcXJqs.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "MEA Spox points how Indian govt is extending support to Indian sailors in Red Sea after an Indian vessel was attacked in the region",
-      "link": "https://nitter.net/sidhant/status/2085678494105636898#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-07T16:14:37+05:30",
-      "time": "07 Aug, 04:14 PM",
-      "type": "tweets",
-      "content": "<p>MEA Spox points how Indian govt is extending support to Indian sailors in Red Sea after an Indian vessel was attacked in the region</p>\n<a href=\"https://nitter.net/sidhant/status/2085678494105636898#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085678351952601090%2Fimg%2FSBNAIU288a2oE_I0.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Our Internal matter, MEA Spox on comments by US lawmaker on proposed FCRA amendment law; Points even US regulates foreign fundings",
-      "link": "https://nitter.net/sidhant/status/2085677994014818781#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-07T16:12:38+05:30",
-      "time": "07 Aug, 04:12 PM",
-      "type": "tweets",
-      "content": "<p>Our Internal matter, MEA Spox on comments by US lawmaker on proposed FCRA amendment law; Points even US regulates foreign fundings</p>\n<a href=\"https://nitter.net/sidhant/status/2085677994014818781#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085677917502414848%2Fimg%2F8zf1ctnjWnHlS0dG.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian govt doesnt endorse comments made at Bangladesh Fmr PM Hasina at FCC MEA Spox",
-      "link": "https://nitter.net/sidhant/status/2085677695879594198#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-07T16:11:27+05:30",
-      "time": "07 Aug, 04:11 PM",
-      "type": "tweets",
-      "content": "<p>Indian govt doesnt endorse comments made at Bangladesh Fmr PM Hasina at FCC<br />\n<br />\nMEA Spox</p>\n<a href=\"https://nitter.net/sidhant/status/2085677695879594198#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085677604460494848%2Fimg%2FPoJ9djZk_mdVqRqB.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Weekly MEA presser begins",
-      "link": "https://nitter.net/sidhant/status/2085675584730902853#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-07T16:03:04+05:30",
-      "time": "07 Aug, 04:03 PM",
-      "type": "tweets",
-      "content": "<p>Weekly MEA presser begins</p>\n<img src=\"https://nitter.net/pic/media%2FHPHO4t8a0AA5gIC.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -1351,16 +1371,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @NetramDefence: GAGANYAAN MISSION ON TRACK FOR 2027 CREWED FLIGHT The Government has informed Parliament that India's first crewed Gaganyaan mission remains targeted for 2027, with the first uncrewed experimental mission scheduled for Q4 2026. Developments: - Development and qualification of the Human Rated LVM3, Orbital Module, and Crew Escape System have seen major progress. - The TV-D2 Crew Escape System test is the next major milestone. - Vyommitra, ISRO's humanoid robot, will fly on the first uncrewed mission. - The selected Gaganyatris have completed generic training in Russia and are undergoing mission-specific training in Bengaluru. - The Bharatiya Antariksh Station (BAS) remains on track to become operational by 2035, with the first module already approved. This programme marks a major step toward India's long-term human spaceflight and indigenous space station ambitions.",
-      "link": "https://nitter.net/NetramDefence/status/2085314605673508948#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-06T16:08:39+05:30",
-      "time": "06 Aug, 04:08 PM",
-      "type": "tweets",
-      "content": "<p>GAGANYAAN MISSION ON TRACK FOR 2027 CREWED FLIGHT<br />\n<br />\nThe Government has informed Parliament that India's first crewed Gaganyaan mission remains targeted for 2027, with the first uncrewed experimental mission scheduled for Q4 2026.<br />\n<br />\nDevelopments: <br />\n<br />\n- Development and qualification of the Human Rated LVM3, Orbital Module, and Crew Escape System have seen major progress. <br />\n<br />\n- The TV-D2 Crew Escape System test is the next major milestone. <br />\n<br />\n- Vyommitra, ISRO's humanoid robot, will fly on the first uncrewed mission. <br />\n<br />\n- The selected Gaganyatris have completed generic training in Russia and are undergoing mission-specific training in Bengaluru. <br />\n<br />\n- The Bharatiya Antariksh Station (BAS) remains on track to become operational by 2035, with the first module already approved.<br />\n<br />\nThis programme marks a major step toward India's long-term human spaceflight and indigenous space station ambitions.</p>\n<img src=\"https://nitter.net/pic/media%2FHPCGj2vb0AAayck.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "RT by @alpha_defense: EV DOCTOR\u2122 got featured again, this time by NITI Aayog as a frontier indigenous technology. Grateful for the team behind it. Humbled. \ud83c\uddee\ud83c\uddf3\ud83d\ude80 @Ajayv93 @batteryoktech @NITIAayog @PMOIndia @narendramodi @Rao_InderjitS @MIB_India @PIB_India @DDNewslive @ashoklahiribjp @drrbalu",
       "link": "https://nitter.net/brahma_4u/status/2085298732074139798#m",
       "source": "Alpha Defense",
@@ -1381,16 +1391,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "RT by @NetramDefence: INDIA\u2013US SPECIAL FORCES CONDUCT JOINT COUNTER-TERROR DRILL IN PUNE The National Security Guard (NSG), alongside the U.S. Army Special Forces, conducted a high-intensity counter-terror mock drill at the Infosys Phase-2 Campus in Hinjawadi IT Park, Pune. - Over 100 NSG \"Black Cat\" commandos and 17 U.S. Special Forces personnel participated. - Teams slithered from Indian Air Force Mi-17 helicopters onto multi-level parking structures as part of the exercise. - The drill was conducted solely to test emergency response and preparedness protocols. Authorities confirmed there was no actual security threat to the Infosys campus or the public. Video Courtesy: PTI",
-      "link": "https://nitter.net/NetramDefence/status/2085293784854835684#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-06T14:45:55+05:30",
-      "time": "06 Aug, 02:45 PM",
-      "type": "tweets",
-      "content": "<p>INDIA\u2013US SPECIAL FORCES CONDUCT JOINT COUNTER-TERROR DRILL IN PUNE<br />\n<br />\nThe National Security Guard (NSG), alongside the U.S. Army Special Forces, conducted a high-intensity counter-terror mock drill at the Infosys Phase-2 Campus in Hinjawadi IT Park, Pune.<br />\n<br />\n- Over 100 NSG \"Black Cat\" commandos and 17 U.S. Special Forces personnel participated.<br />\n<br />\n- Teams slithered from Indian Air Force Mi-17 helicopters onto multi-level parking structures as part of the exercise.<br />\n<br />\n- The drill was conducted solely to test emergency response and preparedness protocols.<br />\n<br />\n Authorities confirmed there was no actual security threat to the Infosys campus or the public. <br />\n<br />\nVideo Courtesy: PTI</p>\n<a href=\"https://nitter.net/NetramDefence/status/2085293784854835684#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085293570291015680%2Fimg%2F1QxEGFkOid7zObkL.jpg\" />\n</a>",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Abaan Ahmed, the youngest son of slain gangster-politician Atiq Ahmed, died after the speeding car he was travelling in crashed into a divider in Uttar Pradesh's Jhansi.",
       "link": "https://nitter.net/elitepredatorss/status/2085270591922487355#m",
       "source": "Elite Predators",
@@ -1409,66 +1409,10 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 Even Jaish-e-Mohammed chief Masood Azhar (Terrorist) sounds the alarm on PoJK Turmoil.<br />\n<br />\nIn a statement, he said:<br />\n<br />\n\"The fire is blazing.\"<br />\n<br />\n\"The situation is quite dangerous.\"<br />\n<br />\n\"Even if suppressed temporarily, the fire of hatred will grow underground.\"<br />\n<br />\nThe visuals from Khuiratta tell the same story. The hatred against Pakistan in PoJK is no longer hidden.</p>\n<a href=\"https://nitter.net/OsintTV/status/2085269986889617435#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085269669619838977%2Fimg%2F1TX2ckdZoiVyIt3H.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "The Sri Lanka Navy launched a rescue operation after an Indian fishing trawler with roughly 11 fishermen aboard ran aground on a coastal reef off Delft Island",
-      "link": "https://nitter.net/elitepredatorss/status/2085252858602213433#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T12:03:18+05:30",
-      "time": "06 Aug, 12:03 PM",
-      "type": "tweets",
-      "content": "<p>The Sri Lanka Navy launched a rescue operation after an Indian fishing trawler with roughly 11 fishermen aboard ran aground on a coastal reef off Delft Island</p>",
-      "author": "@elitepredatorss"
     }
   ],
-  "youtube": [
-    {
-      "title": "ISLAMIC NATO 2.0? Saudi, Turkey & Pakistan\u2019s BIG Defence Deal!,Tejas Mk2 Se GUN Gayab!,Astra Mk-1",
-      "link": "https://www.youtube.com/watch?v=u32DYTz-GMM",
-      "source": "Indian Defense News",
-      "sort_key": "2026-08-07T22:30:19+05:30",
-      "time": "07 Aug, 10:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/u32DYTz-GMM/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - HAL+TATA Rafale, India Rocket Engine, Pakistan New Defence Pact",
-      "link": "https://www.youtube.com/watch?v=nbRO7RBPC1Q",
-      "source": "Defense Squad",
-      "sort_key": "2026-08-07T21:52:17+05:30",
-      "time": "07 Aug, 09:52 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/nbRO7RBPC1Q/mqdefault.jpg"
-    },
-    {
-      "title": "Why Pirates Fear India's MARCOS Commandos",
-      "link": "https://www.youtube.com/watch?v=P9bS-6xM28k",
-      "source": "Defense Squad",
-      "sort_key": "2026-08-07T13:15:07+05:30",
-      "time": "07 Aug, 01:15 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/P9bS-6xM28k/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Agni-4 Test, India 2700 New Drones, IAF Top Gun Female Pilot",
-      "link": "https://www.youtube.com/watch?v=JrRMX8Bd-Ag",
-      "source": "Defense Squad",
-      "sort_key": "2026-08-06T21:49:41+05:30",
-      "time": "06 Aug, 09:49 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/JrRMX8Bd-Ag/mqdefault.jpg"
-    },
-    {
-      "title": "Rafale Propaganda Ka Sach Aaya Bahar \ud83d\ude31 ,Tejas Ko Milega Deadly Upgrade , Prachand New Missile",
-      "link": "https://www.youtube.com/watch?v=P0PfpWvYy6w",
-      "source": "Indian Defense News",
-      "sort_key": "2026-08-06T18:30:30+05:30",
-      "time": "06 Aug, 06:30 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/P0PfpWvYy6w/mqdefault.jpg"
-    }
-  ],
+  "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
