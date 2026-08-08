@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Spain Imposes Border Controls on Travellers Arriving from Italy",
+      "link": "https://newsonair.gov.in/spain-imposes-border-controls-on-travellers-arriving-from-italy/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-08T21:34:45+05:30",
+      "time": "08 Aug, 09:34 PM",
+      "type": "news",
+      "description": "Spain has announced border controls on travellers arriving from Italy, in response to Rome\u2019s decision to impose restrictions on Spanish visitors, esca..."
+    },
+    {
+      "title": "IIT Ropar to help CISF airport personnel develop specialised cyber security capabilities",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/08/iit-ropar-to-help-cisf-airport-personnel-develop-specialised-cyber-security-capabilities",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-08T21:26:33+05:30",
+      "time": "08 Aug, 09:26 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "2 drones spotted flying over German military base after drone with explosives found at cargo airport",
       "link": "https://economictimes.indiatimes.com/news/defence/drones-spotted-over-german-military-base-amid-tensions-following-explosive-laden-drone-discovery-at-airport/articleshow/133054853.cms",
       "source": "Economic Times",
@@ -91,15 +109,6 @@
       "description": "The US Senate has confirmed Todd Blanche as Attorney General, giving President Donald Trump\u2019s former personal defence lawyer formal command of the Dep..."
     },
     {
-      "title": "IAF officer held for leaking military info after being honey-trapped by Pakistani intelligence operative",
-      "link": "https://www.newindianexpress.com/india/2026/Aug/08/iaf-officer-held-for-leaking-military-info-after-being-honey-trapped-by-pakistani-intelligence-operative",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-08T16:18:18+05:30",
-      "time": "08 Aug, 04:18 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "IAF espionage case: How the accused officer met Pakistani woman and what he allegedly shared",
       "link": "https://www.tribuneindia.com/news/india/iaf-espionage-case-how-the-accused-officer-met-pakistani-woman-and-what-he-allegedly-shared",
       "source": "The Tribune",
@@ -143,15 +152,6 @@
       "time": "08 Aug, 01:07 PM",
       "type": "news",
       "description": "<img align=\"left\" border=\"0\" hspace=\"10\" src=\"https://timesofindia.indiatimes.com/photo/133048355.cms\" style=\"margin-top: 3px; margin-right: 5px;\" />"
-    },
-    {
-      "title": "And it\u2019s official: India in talks with France to join 6th Gen fighter programme FCAS",
-      "link": "https://theprint.in/defence/and-its-official-india-in-talks-with-france-to-join-6th-gen-fighter-programme-fcas/3009124/",
-      "source": "The Print",
-      "sort_key": "2026-08-08T12:28:01+05:30",
-      "time": "08 Aug, 12:28 PM",
-      "type": "news",
-      "description": "In February this year, ThePrint reported that India is exploring the possibility of teaming up with France for co-development and co-manufacturing of ..."
     },
     {
       "title": "UN Chief Antonio Guterres calls for impartial inquiry into killings of protesters in PoJK",
@@ -206,15 +206,6 @@
       "time": "08 Aug, 07:55 AM",
       "type": "news",
       "description": "The US Senate voted overwhelmingly to approve a bill to punish Russia and key buyers of its petroleum products, such as China and India, claiming that..."
-    },
-    {
-      "title": "India reacts as Pakistan, Saudi, Turkiye sign vital defence agreement to protect each other",
-      "link": "https://www.tribuneindia.com/news/top-headlines/india-reacts-as-pakistan-saudi-turkiye-sign-vital-defence-agreement-to-protect-each-other",
-      "source": "The Tribune",
-      "sort_key": "2026-08-08T01:58:12+05:30",
-      "time": "08 Aug, 01:58 AM",
-      "type": "news",
-      "description": "Pakistan, Saudi Arabia and Turkiye on Friday signed a key joint defence agreement under which an attack against one of them will be treated as an atta..."
     },
     {
       "title": "Jeeram Ghati Naxal Attack Verdict Expected August 10 After 12-Year Trial",
@@ -503,18 +494,19 @@
       "time": "06 Aug, 11:52 PM",
       "type": "news",
       "description": "France has presented both technical and commercial proposals regarding India's acquisition of Rafale jets. This initiative significantly progresses th..."
-    },
-    {
-      "title": "Small-Calibre Ammunition To Be Made In India As VTDS Signs Technology Transfer Deal With Czech Firm DEUS Automation",
-      "link": "https://www.republicworld.com/defence/small-calibre-ammunition-to-be-made-in-india-as-vtds-signs-technology-transfer-deal-with-czech-firm-deus-automation-2026-08-06-134170",
-      "source": "Republic World",
-      "sort_key": "2026-08-06T21:58:41+05:30",
-      "time": "06 Aug, 09:58 PM",
-      "type": "news",
-      "description": "VTDS is licensed by the Ministry of Home Affairs for the manufacture and proof-testing of small arms and ammunition."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @sidhant: China readout:",
+      "link": "https://nitter.net/sidhant/status/2086121712756949343#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-08T21:35:49+05:30",
+      "time": "08 Aug, 09:35 PM",
+      "type": "tweets",
+      "content": "<p>China readout:</p>\n<img src=\"https://nitter.net/pic/media%2FHPNkn98a8AATOjz.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "Damn that handle is now automated or something ? This is AI generated content, big loss for defence community.",
       "link": "https://nitter.net/alpha_defense/status/2086110305218871506#m",
@@ -1036,16 +1028,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Breaking: India formally identifies 27 places and features in Arunachal Pradesh on official Survey of India maps. The list includes Longju & other sites to improve public recognition and awareness. This counters Chinese fictitious naming claims on Arunachal Pradesh.",
-      "link": "https://nitter.net/sidhant/status/2085731253161177223#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-07T19:44:16+05:30",
-      "time": "07 Aug, 07:44 PM",
-      "type": "tweets",
-      "content": "<p>Breaking: India formally identifies 27 places and features in Arunachal Pradesh on official Survey of India maps.<br />\n<br />\nThe list includes Longju &amp; other sites to improve public recognition and awareness. <br />\n<br />\nThis counters Chinese fictitious naming claims on Arunachal Pradesh.</p>\n<img src=\"https://nitter.net/pic/media%2FHPIBgs1bUAAdoNJ.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "\"Defence pact with Pakistan, Turkey not tied to nuclear ambitions\": Saudi Deputy Minister for Public Diplomacy Rayed Krimly",
       "link": "https://nitter.net/OsintTV/status/2085717524964880466#m",
       "source": "Osint TV",
@@ -1236,6 +1218,16 @@
       "author": "@Goreunit"
     },
     {
+      "title": "Breaking: India, China hold key border (WMCC) talks in Delhi Statement both sides, \"held detailed exchanges on issues related to boundary delimitation, border management, mechanism\u2011building and trans\u2011border cooperation.\"",
+      "link": "https://nitter.net/sidhant/status/2085605318931980297#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-07T11:23:51+05:30",
+      "time": "07 Aug, 11:23 AM",
+      "type": "tweets",
+      "content": "<p>Breaking:<br />\n<br />\nIndia, China hold key border (WMCC) talks in Delhi<br />\n<br />\nStatement both sides, \"held detailed exchanges on issues related to boundary delimitation, border management, mechanism\u2011building and trans\u2011border cooperation.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHPGOveIa0AAz9Uv.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
       "title": "JVPC with CISF Personnel",
       "link": "https://nitter.net/alpha_defense/status/2085572156755497050#m",
       "source": "Alpha Defense",
@@ -1264,19 +1256,18 @@
       "type": "tweets",
       "content": "<p>India Has Issued NOTAM For Surface &amp; Sub-surface Firing Exercise In Northen-Arabian Sea Region Off Okha Coast.      <br />\n<br />\nArea 1 <br />\nFrom:06/08/2026 , 08:00 IST         <br />\nUntil:10/08/2026 , 12:00 IST  <br />\n<br />\nArea 2 <br />\nFrom:07/08/2026 , 08:00 IST <br />\nUntil:11/08/2026 , 08:00 IST</p>\n<img src=\"https://nitter.net/pic/media%2FHPDvyVAaAAAyfir.jpg\" />",
       "author": "@notam_in"
-    },
-    {
-      "title": "RT by @elitepredatorss: #Infographic \ud83c\uddee\ud83c\uddf3 NSG training with \ud83c\uddfa\ud83c\uddf8 1st SFG(A) Yes, the Americans are loaded. And yes... the NSG ends up looking like Nobita standing next to Suneo. The gap in equipment is purely bec of priorities and institutional mindset, not a lack of money.",
-      "link": "https://nitter.net/spadex950/status/2085397922909413617#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-06T21:39:44+05:30",
-      "time": "06 Aug, 09:39 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Infographic\">#Infographic</a> <br />\n<br />\n\ud83c\uddee\ud83c\uddf3 NSG training with \ud83c\uddfa\ud83c\uddf8 1st SFG(A)<br />\n<br />\nYes, the Americans are loaded. And yes... the NSG ends up looking like Nobita standing next to Suneo.<br />\n<br />\nThe gap in equipment is purely bec of priorities and institutional mindset, not a lack of money.</p>\n<img src=\"https://nitter.net/pic/media%2FHPDSVb7acAAUpr5.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPDSWKfbgAAx1tD.jpg\" />\n\n<hr />\n<blockquote>\n<b>Defence Matrix (@Defencematrix1)</b>\n<p>\n<p>First I saw those heavily equipped guys, and I was like NSG \ud83d\ude33, then the video played some more and I was like aah NSG \ud83d\ude10</p>\n<a href=\"https://nitter.net/Defencematrix1/status/2085292479264461072#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085233693631868929%2Fimg%2FQl0OFNOfZRKRmwu_.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Defencematrix1/status/2085292479264461072#m\">https://nitter.net/Defencematrix1/status/2085292479264461072#m</a>\n</footer>\n</blockquote>",
-      "author": "@spadex950"
     }
   ],
   "youtube": [
+    {
+      "title": "Defence Updates - Japan F-2 Fighter Jet In India, India-France 6th Gen Jet, IAF Officer Honey Trap",
+      "link": "https://www.youtube.com/watch?v=VL5FKsRmRNw",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-08T22:10:22+05:30",
+      "time": "08 Aug, 10:10 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/VL5FKsRmRNw/mqdefault.jpg"
+    },
     {
       "title": "India's Secret Air Defence Shield #shorts #viralshorts #kusha #airdefence #viral #s400 #trending",
       "link": "https://www.youtube.com/shorts/kgMfwTQ7Ysw",
@@ -1330,18 +1321,9 @@
       "time": "07 Aug, 01:15 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/P9bS-6xM28k/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Agni-4 Test, India 2700 New Drones, IAF Top Gun Female Pilot",
-      "link": "https://www.youtube.com/watch?v=JrRMX8Bd-Ag",
-      "source": "Defense Squad",
-      "sort_key": "2026-08-06T21:49:41+05:30",
-      "time": "06 Aug, 09:49 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/JrRMX8Bd-Ag/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
