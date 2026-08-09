@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Pentagon orders US defense companies to accelerate weapons production and deliveries",
+      "link": "https://newsonair.gov.in/pentagon-orders-us-defense-companies-to-accelerate-weapons-production-and-deliveries/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-09T10:19:46+05:30",
+      "time": "09 Aug, 10:19 AM",
+      "type": "news",
+      "description": "The Pentagon has ordered US defense companies to accelerate weapons production and deliveries as the Iran war has depleted key US munitions stockpiles..."
+    },
+    {
+      "title": "China: Over 1,300 flights cancelled in Shanghai in view of Typhoon Dolphin",
+      "link": "https://newsonair.gov.in/china-over-1300-flights-cancelled-in-shanghai-in-view-of-typhoon-dolphin/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-09T10:17:41+05:30",
+      "time": "09 Aug, 10:17 AM",
+      "type": "news",
+      "description": "In China, Shanghai&#8217;s two airports cancelled more than 1,300 flights and authorities relocated over 3 lakh people in surrounding regions as the c..."
+    },
+    {
+      "title": "Iran says Hormuz won\u2019t reopen until US \u2018corrects\u2019 its behavior",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-says-hormuz-wont-reopen-until-us-corrects-its-behavior-uae-ship-targeted-and-other-middle-east-news/articleshow/133062017.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-09T09:29:39+05:30",
+      "time": "09 Aug, 09:29 AM",
+      "type": "news",
+      "description": "Iran issued new demands for the Strait of Hormuz reopening and the UAE reported an Iranian missile attack. Yemen's military launched attacks against I..."
+    },
+    {
       "title": "US criticises China\u2019s move at Scarborough Reef",
       "link": "https://newsonair.gov.in/us-criticises-chinas-move-at-scarborough-reef/",
       "source": "All India Radio",
@@ -226,15 +253,6 @@
       "description": "<p>Abu Dhabi, Aug 8 (IANS) The United Arab Emirates (UAE) on Saturday condemned the Iranian attack on an Abu Dhabi National Oil Company (ADNOC) tanker..."
     },
     {
-      "title": "US Senate Confirms Todd Blanche as Attorney General",
-      "link": "https://newsonair.gov.in/us-senate-confirms-todd-blanche-as-attorney-general/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-08T17:18:12+05:30",
-      "time": "08 Aug, 05:18 PM",
-      "type": "news",
-      "description": "The US Senate has confirmed Todd Blanche as Attorney General, giving President Donald Trump\u2019s former personal defence lawyer formal command of the Dep..."
-    },
-    {
       "title": "Yemeni armed forces launch multi-front operation against Houthis; warn against further escalation",
       "link": "https://economictimes.indiatimes.com/news/defence/yemeni-armed-forces-launch-multi-front-operation-against-houthis-warn-against-further-escalation/articleshow/133049981.cms",
       "source": "Economic Times",
@@ -251,15 +269,6 @@
       "time": "08 Aug, 01:19 PM",
       "type": "news",
       "description": "India has begun efforts to join France&#039;s sixth-generation fighter jet development program. This collaborative approach is seen as more feasible f..."
-    },
-    {
-      "title": "Thailand PM pledges stricter gun control laws after shooting attack near Bangkok leaves 8 dead",
-      "link": "https://newsonair.gov.in/thailand-pm-pledges-stricter-gun-control-laws-after-shooting-attack-near-bangkok-leaves-8-dead/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-08T13:16:05+05:30",
-      "time": "08 Aug, 01:16 PM",
-      "type": "news",
-      "description": "Thailand&#8217;s Prime Minister has Promised to introduce new gun control laws in the wake of a shooting by a teenager on the outskirts of Bangkok tha..."
     },
     {
       "title": "China\u2019s hanging coffins had no known builders. Ancient DNA points to Bo people",
@@ -673,16 +682,6 @@
       "time": "08 Aug, 07:24 PM",
       "type": "tweets",
       "content": "<p>Update: The freight train oil tanks were not loaded. This was an official trial run.<br />\n<br />\nApologies for the earlier mistake.</p>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "RT @OsintTV: \ud83d\udea8 Osint Report: LeT\u2019s \u201cMartyrs\u2019 Families\u201d Handler Drops Dead in Islamabad Mosque Senior Lashkar-e-Taiba cadre Qari Saeed Abd\u2026",
-      "link": "https://nitter.net/OsintTV/status/2086085349898432888#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-08T19:11:19+05:30",
-      "time": "08 Aug, 07:11 PM",
-      "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a>: \ud83d\udea8 Osint Report:<br />\n<br />\nLeT\u2019s \u201cMartyrs\u2019 Families\u201d Handler Drops Dead in Islamabad Mosque<br />\n<br />\nSenior Lashkar-e-Taiba cadre Qari Saeed Abd\u2026</p>",
       "author": "@OsintTV"
     },
     {
@@ -1381,6 +1380,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:24 AM IST"
+    "last_updated": "10:24 AM IST"
   }
 }
