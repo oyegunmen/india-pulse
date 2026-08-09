@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Ukraine's Zelenskiy says up to 50,000 North Korean troops to be deployed in Russia",
+      "link": "https://economictimes.indiatimes.com/news/defence/ukraines-zelenskiy-says-up-to-50000-north-korean-troops-to-be-deployed-in-russia/articleshow/133068141.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-09T18:43:33+05:30",
+      "time": "09 Aug, 06:43 PM",
+      "type": "news",
+      "description": "Ukrainian President Zelenskiy warned that North Korea plans to send up to fifty thousand troops, urging South Korea to enhance its air defense capabil..."
+    },
+    {
+      "title": "Pakistan says new defence pact with Saudi and Turkey is 'purely defensive' and open to others",
+      "link": "https://www.newindianexpress.com/world/2026/Aug/09/pakistan-says-new-defence-pact-with-saudi-and-turkey-is-purely-defensive-and-open-to-others",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-09T18:32:37+05:30",
+      "time": "09 Aug, 06:32 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "No Direct Talks with US, Exchange of messages through intermediaries: Iran",
       "link": "https://newsonair.gov.in/no-direct-talks-with-us-exchange-of-messages-through-intermediaries-iran/",
       "source": "All India Radio",
@@ -377,27 +395,29 @@
       "time": "07 Aug, 07:22 PM",
       "type": "news",
       "description": "Larsen &amp; Toubro expects revenue from its drone business to triple over the next five years and plans to expand manufacturing capacity to tap growi..."
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Defence Pact Amid Regional War",
-      "link": "https://www.deccanchronicle.com/world/asia/saudi-arabia-turkey-and-pakistan-sign-defence-pact-amid-regional-war-1977413",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-08-07T18:49:07+05:30",
-      "time": "07 Aug, 06:49 PM",
-      "type": "news",
-      "description": "The Pakistani foreign ministry said the pact meant an attack on any member would be regarded as an attack on all, adding it was \"intended to strengthe..."
-    },
-    {
-      "title": "How the Iran-backed Houthis' claims of deadly attacks are stoking fears of a wider regional conflict",
-      "link": "https://economictimes.indiatimes.com/news/defence/how-the-iran-backed-houthis-claims-of-deadly-attacks-are-stoking-fears-of-a-wider-regional-conflict/articleshow/133035027.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-07T18:47:18+05:30",
-      "time": "07 Aug, 06:47 PM",
-      "type": "news",
-      "description": "Yemen's Houthi rebels claimed responsibility for deadly attacks this week. These actions escalated the conflict and raised regional concerns about wid..."
     }
   ],
   "tweets": [
+    {
+      "title": "DSA will be releasing more 20 projects by November.",
+      "link": "https://nitter.net/alpha_defense/status/2086450183588741367#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-09T19:21:02+05:30",
+      "time": "09 Aug, 07:21 PM",
+      "type": "tweets",
+      "content": "<p>DSA will be releasing more 20 projects by November.</p>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Life Bangladeshis near Border: Cross the border, Die Repeat \ud83d\udd01",
+      "link": "https://nitter.net/Goreunit/status/2086447622261498023#m",
+      "source": "War & Gore",
+      "sort_key": "2026-08-09T19:10:52+05:30",
+      "time": "09 Aug, 07:10 PM",
+      "type": "tweets",
+      "content": "<p>Life Bangladeshis near Border:<br />\nCross the border, Die <br />\nRepeat \ud83d\udd01</p>",
+      "author": "@Goreunit"
+    },
     {
       "title": "Pakistan based news outlet Asia One's X account has been withheld in Turkiye now. It is already withheld in India.",
       "link": "https://nitter.net/sidhant/status/2086433963439251878#m",
@@ -1157,16 +1177,6 @@
       "type": "tweets",
       "content": "<p>Piglets on Instagram after few western accounts posted reels about IAF's Rafale participating in Exercise Pitch Black \ud83e\udd23</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2085732339913744607#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2085732302085378048%2Fimg%2Fez2oSbhp8pSObIov.jpg\" />\n</a>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "\"Defence pact with Pakistan, Turkey not tied to nuclear ambitions\": Saudi Deputy Minister for Public Diplomacy Rayed Krimly",
-      "link": "https://nitter.net/OsintTV/status/2085717524964880466#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-07T18:49:43+05:30",
-      "time": "07 Aug, 06:49 PM",
-      "type": "tweets",
-      "content": "<p>\"Defence pact with Pakistan, Turkey not tied to nuclear ambitions\": Saudi Deputy Minister for Public Diplomacy Rayed Krimly</p>",
-      "author": "@OsintTV"
     }
   ],
   "youtube": [
@@ -1244,6 +1254,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
