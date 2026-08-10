@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Indonesia: Efforts intensify to combat wildfires spread over more than 107,000 hectares",
+      "link": "https://newsonair.gov.in/indonesia-efforts-intensify-to-combat-wildfires-spread-over-more-than-107000-hectares/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-10T18:09:45+05:30",
+      "time": "10 Aug, 06:09 PM",
+      "type": "news",
+      "description": "Indonesia intensified efforts to combat wildfires that have burned more than 107,000 hectares, deploying hundreds of firefighters and helicopters as b..."
+    },
+    {
+      "title": "Lockheed Martin Partners with Australian Submarine Agency on Combat Systems Integration for Virginia-Class Fleet",
+      "link": "https://www.indiastrategic.in/lockheed-martin-partners-with-australian-submarine-agency-on-combat-systems-integration-for-virginia-class-fleet/",
+      "source": "India Strategic",
+      "sort_key": "2026-08-10T17:48:18+05:30",
+      "time": "10 Aug, 05:48 PM",
+      "type": "news",
+      "description": "<p>Bethesda, Md., August 10, 2026. The Australian Submarine Agency (ASA) has awarded Lockheed Martin (NYSE: LMT) a two-year AUD$26.5 million contract ..."
+    },
+    {
+      "title": "Sigma Advanced Systems raises Rs 460 crore via preferential allotment",
+      "link": "https://economictimes.indiatimes.com/news/defence/sigma-advanced-systems-raises-rs-460-crore-via-preferential-allotment/articleshow/133104041.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-10T17:41:07+05:30",
+      "time": "10 Aug, 05:41 PM",
+      "type": "news",
+      "description": "Sigma Advanced Systems secured Rs 460 crore through preferential allotment for expansion. Spark Capital led the fundraising, placing funds with family..."
+    },
+    {
+      "title": "From IRGC commander to Iran\u2019s security chief: Who is Mohsen Rezaei?",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-appoints-hardliner-mohsen-rezaei-as-key-security-chief-amid-us-conflict/articleshow/133102673.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-10T17:30:41+05:30",
+      "time": "10 Aug, 05:30 PM",
+      "type": "news",
+      "description": "Iran appointed Mohsen Rezaei as secretary of its Supreme National Security Council. Rezaei, a hardliner and close ally of Supreme Leader Ayatollah Moj..."
+    },
+    {
+      "title": "Poland and Baltics shield infrastructure, fearing a Russian false-flag strike",
+      "link": "https://economictimes.indiatimes.com/news/defence/poland-and-baltics-shield-infrastructure-fearing-a-russian-false-flag-strike/articleshow/133102720.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-10T17:26:16+05:30",
+      "time": "10 Aug, 05:26 PM",
+      "type": "news",
+      "description": "Baltic nations and Poland are increasing security around critical infrastructure. They fear Russia may stage false flag drone attacks to destabilize N..."
+    },
+    {
       "title": "Trump's Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
       "link": "https://economictimes.indiatimes.com/news/defence/trumps-gaza-plan-hinges-on-hamas-disarmament-israeli-withdrawals/articleshow/133101753.cms",
       "source": "Economic Times",
@@ -19,13 +64,13 @@
       "description": "Iranian Foreign Ministry spokesperson Esmaeil Baqaei said today that the Strait of Hormuz will not reopen until the US continues its naval blockade ag..."
     },
     {
-      "title": "\"Not discussing such details at this stage\": Iran's Foreign Ministry on Hormuz transit fees amid talks with Oman",
+      "title": "Iran's Foreign Ministry sidesteps Hormuz transit fee discussions during pivotal Oman negotiations",
       "link": "https://economictimes.indiatimes.com/news/defence/not-discussing-such-details-at-this-stage-irans-foreign-ministry-on-hormuz-transit-fees-amid-talks-with-oman/articleshow/133100739.cms",
       "source": "Economic Times",
       "sort_key": "2026-08-10T17:01:39+05:30",
       "time": "10 Aug, 05:01 PM",
       "type": "news",
-      "description": "Iran and Oman are negotiating new maritime security mechanisms for shipping. Discussions focus on safe passage and environmental cooperation through t..."
+      "description": "Iran is discussing transit fees and maritime mechanisms with Oman for a new shipping route. Discussions cover safe passage, environmental issues, and ..."
     },
     {
       "title": "Bharat Forge posts net loss of \u20b990 crore in Q1",
@@ -343,15 +388,6 @@
       "description": "INS Kalpeni sailed out from Kochi on Saturday night for the search operation, a defence spokesperson said in a statement"
     },
     {
-      "title": "China: Over 1,300 flights cancelled and 3 lakh people relocated ahead of Typhoon Dolphin",
-      "link": "https://newsonair.gov.in/china-over-1300-flights-cancelled-in-shanghai-in-view-of-typhoon-dolphin/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-09T13:41:41+05:30",
-      "time": "09 Aug, 01:41 PM",
-      "type": "news",
-      "description": "In China, Shanghai&#8217;s two airports cancelled more than 1,300 flights and authorities relocated over 3 lakh people in surrounding regions as the c..."
-    },
-    {
       "title": "Taiwan plans 16% defence spending hike for 2027",
       "link": "https://economictimes.indiatimes.com/news/defence/taiwan-plans-16-defence-spending-hike-for-2027/articleshow/133063932.cms",
       "source": "Economic Times",
@@ -467,36 +503,39 @@
       "time": "08 Aug, 06:40 PM",
       "type": "news",
       "description": "<p>New Delhi, Aug 8. India on August 8 launched E-Samudra, an integrated digital platform aimed at bringing maritime services for seafarers, shipping ..."
-    },
-    {
-      "title": "India, Russia step up industrial cooperation in key sectors",
-      "link": "https://www.indiastrategic.in/india-russia-step-up-industrial-cooperation-in-key-sectors/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-08T18:19:56+05:30",
-      "time": "08 Aug, 06:19 PM",
-      "type": "news",
-      "description": "<p>New Delhi, August 8. India and Russia on August 7 reviewed progress in industrial cooperation and explored new areas of collaboration in sectors in..."
-    },
-    {
-      "title": "India-Israel partnership evolves into wider regional strategic network: Report",
-      "link": "https://defencemonitor.in/india-israel-partnership-evolves-into-wider-regional-strategic-network-report/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-08-08T17:59:01+05:30",
-      "time": "08 Aug, 05:59 PM",
-      "type": "news",
-      "description": "<p>Athens, Aug 8 (IANS) India-Israel defence ties have evolved beyond a robust bilateral partnership into a broader, interest-driven strategic archite..."
-    },
-    {
-      "title": "Iran strikes UAE\u2019s tanker with missiles in Strait of Hormuz",
-      "link": "https://defencemonitor.in/iran-strikes-uaes-tanker-with-missiles-in-strait-of-hormuz/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-08-08T17:56:29+05:30",
-      "time": "08 Aug, 05:56 PM",
-      "type": "news",
-      "description": "<p>Abu Dhabi, Aug 8 (IANS) The United Arab Emirates (UAE) on Saturday condemned the Iranian attack on an Abu Dhabi National Oil Company (ADNOC) tanker..."
     }
   ],
   "tweets": [
+    {
+      "title": "Indian HC Dinesh Trivedi meets Bangladesh PM Rahman. Comes as Dhaka is \"outraged\" over Hasina virtual presser in Delhi & India inviting Bangladesh PM for BRICS summit as BIMSTEC Chair. Reporting.",
+      "link": "https://nitter.net/sidhant/status/2086789767329693862#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-10T17:50:25+05:30",
+      "time": "10 Aug, 05:50 PM",
+      "type": "tweets",
+      "content": "<p>Indian HC Dinesh Trivedi meets Bangladesh PM Rahman. Comes as Dhaka is \"outraged\" over Hasina virtual presser in Delhi &amp; India inviting Bangladesh PM for BRICS summit as BIMSTEC Chair.<br />\n<br />\nReporting.</p>\n<a href=\"https://nitter.net/sidhant/status/2086789767329693862#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2086725753241227264%2Fimg%2Fdkr8cpdI5i_xhXNo.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Vande Mataram to be sung at Red Fort at Independence day celebrations. Defence officials (since the I day Red Fort event comes under defence ministry), say it for the first time, Vande Mataram will be sung at Red Fort Independence Day Celebrations on August 15th.",
+      "link": "https://nitter.net/sidhant/status/2086788183845720169#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-10T17:44:08+05:30",
+      "time": "10 Aug, 05:44 PM",
+      "type": "tweets",
+      "content": "<p>Vande Mataram to be sung at Red Fort at Independence day celebrations.<br />\n<br />\nDefence officials (since the I day Red Fort event comes under defence ministry), say it for the first time, Vande Mataram will be sung at Red Fort Independence Day Celebrations on August 15th.</p>\n<img src=\"https://nitter.net/pic/media%2FHPXCyddaUAAxVGC.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>For the first time Vande Mataram will be played at Red Fort Independence day celebrations, says Defence officials</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2086778117725860351#m\">https://nitter.net/sidhant/status/2086778117725860351#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Chai till 3 AM",
+      "link": "https://nitter.net/alpha_defense/status/2086785029821321507#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-10T17:31:36+05:30",
+      "time": "10 Aug, 05:31 PM",
+      "type": "tweets",
+      "content": "<p>Chai till 3 AM</p>\n<img src=\"https://nitter.net/pic/media%2FHPW_7CIbkAAvZyC.jpg\" />",
+      "author": "@alpha_defense"
+    },
     {
       "title": "The Central Government is planning a \u20b92 trillion investment to build 5,000+ km of highways across India\u2019s border regions over the next 3\u20135 years. The strategic road network will strengthen military mobility and logistics along the China, Pakistan, Nepal, Bhutan & Myanmar fronts, while opening remote areas to trade, tourism and investment.",
       "link": "https://nitter.net/NetramDefence/status/2086780287099572520#m",
@@ -708,6 +747,16 @@
       "author": "@alpha_defense"
     },
     {
+      "title": "RT by @sidhant: Indian envoy meets Bangladesh PM; envoy held talks with Foreign Minister Khalilur Rahman on Sunday Envoy says that he is confident that talks would give solution @ShivanChanana has more with @sidhant",
+      "link": "https://nitter.net/WIONews/status/2086729427283820855#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-10T13:50:39+05:30",
+      "time": "10 Aug, 01:50 PM",
+      "type": "tweets",
+      "content": "<p>Indian envoy meets Bangladesh PM; envoy held talks with Foreign Minister Khalilur Rahman on Sunday<br />\n<br />\nEnvoy says that he is confident that talks would give solution<br />\n<br />\n<a href=\"https://nitter.net/ShivanChanana\" title=\"Shivan Chanana\">@ShivanChanana</a> has more with <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a></p>\n<a href=\"https://nitter.net/WIONews/status/2086729427283820855#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2086725753241227264%2Fimg%2Fdkr8cpdI5i_xhXNo.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
       "title": "Now Christian bodies and Mizoram CM make synchronous social media appeals to the Home Minister to roll back the FCRA Bill. Why are Christians more spooked by FCRA 2.0?",
       "link": "https://nitter.net/elitepredatorss/status/2086724505255485786#m",
       "source": "Elite Predators",
@@ -838,26 +887,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Indian Navy Chief's first foreign visit after taking charge: Indian Ocean country- Mauritius",
-      "link": "https://nitter.net/sidhant/status/2086681501622833277#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-10T10:40:13+05:30",
-      "time": "10 Aug, 10:40 AM",
-      "type": "tweets",
-      "content": "<p>Indian Navy Chief's first foreign visit after taking charge: Indian Ocean country- Mauritius</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Navy Chief Admiral Krishna Swaminathan on a 4 day visit to Mauritius</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2086662564566708532#m\">https://nitter.net/sidhant/status/2086662564566708532#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Watch: Russian cosmonauts, part of crew of the International Space Station extend congratulations to India over upcoming India\u2019s Independence celebrations. Point to India's self reliance in space sector, the Gaganyaan space mission & Yuri Gagarin's India visit.",
-      "link": "https://nitter.net/sidhant/status/2086680431324475736#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-10T10:35:58+05:30",
-      "time": "10 Aug, 10:35 AM",
-      "type": "tweets",
-      "content": "<p>Watch:<br />\n<br />\nRussian cosmonauts, part of crew of the International Space Station extend congratulations to India over upcoming India\u2019s Independence celebrations.<br />\n<br />\nPoint to India's self reliance in space sector, the Gaganyaan space mission &amp; Yuri Gagarin's India visit.</p>\n<a href=\"https://nitter.net/sidhant/status/2086680431324475736#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2086679946022592512%2Fimg%2FDFM02-ukPNRN_BRX.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: \ud83d\udea8 PAKISTANIS NOW CROSSING INTO AFGHANISTAN FOR BETTER PAY A video by Afghan vloggers shows Pakistani migrants working in Kabul and saying they earn more in Afghanistan than they could back home. A striking reversal as Pakistani workers now look towards Afghanistan for better wages and earning opportunities. Pakistan\u2019s economic crisis is hitting where it hurts most, the job market. Video credit to the respective owners",
       "link": "https://nitter.net/OsintTV/status/2086676704852885751#m",
       "source": "Osint TV",
@@ -896,16 +925,6 @@
       "type": "tweets",
       "content": "<p>DRDO\u2019s GTRE is reportedly redesigning the indigenous engine core to target up 55kN to 60kN of \"dry\" thrust and 90kN to 100kN of maximum \"wet\" thrust with an afterburner in Kaveri 2.0.<br />\n<a href=\"https://www.businesstoday.in/india/story/tejas-mk1a-upgrade-drdo-plans-90kn-kaveri-2-0-core-overhaul-to-replace-ge-engines-548189-2026-08-09\">businesstoday.in/india/story\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHPVPZiRbsAAlBg8.jpg\" />\n\n<hr />\n<blockquote>\n<b>Defence Decode\u00ae (@DefenceDecode)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23DRDO\">#DRDO</a>'s Gas Turbine Research Establishment is currently working towards certification of the GTX-35VS Kaveri in its 82 kN thrust class. Following certification of this baseline variant, discussions are underway to develop an upgraded Kaveri 2.0 with 85 kN+ thrust.: DR Ganesan, GTRE</p>\n<img src=\"https://nitter.net/pic/media%2FHD2XtDNboAMPoBq.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DefenceDecode/status/2034949467204723056#m\">https://nitter.net/DefenceDecode/status/2034949467204723056#m</a>\n</footer>\n</blockquote>",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "Navy Chief Admiral Krishna Swaminathan on a 4 day visit to Mauritius",
-      "link": "https://nitter.net/sidhant/status/2086662564566708532#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-10T09:24:58+05:30",
-      "time": "10 Aug, 09:24 AM",
-      "type": "tweets",
-      "content": "<p>Navy Chief Admiral Krishna Swaminathan on a 4 day visit to Mauritius</p>",
-      "author": "@sidhant"
     },
     {
       "title": "Daily US-Israel-Iran War Brief: 9th Aug 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf Yemen's Armed Forces said they hit Saudi Arabia's Aramco refinery in Jizan, describing the drone strike as precise and carried out in response to Saudi drone violations of Yemeni airspace. \u25cf Netanyahu rejected the Gaza Board of Peace\u2019s 15 point proposal, saying Israeli forces will remain in Gaza until Hamas is fully disarmed and will continue operations against any threats to Israel. \u25cf The IDF dismantled a Hezbollah underground tunnel shaft that was used to store weapons. \u25cf Iran\u2019s Supreme Leader Mojtaba Khamenei appointed Mohsen Rezaei as his representative to the Supreme National Security Council. \u25cf Netanyahu said Israel would prevent Iran from obtaining nuclear weapons regardless of the outcome of negotiations involving Washington and Arab states. END OF THE BRIEF",
@@ -1250,6 +1269,15 @@
   ],
   "youtube": [
     {
+      "title": "Indian Defence Updates : India-Israel 5th Gen Fighter,100kN Kaveri-2,AMCA 3D Scanner,Hypersonic Push",
+      "link": "https://www.youtube.com/watch?v=Z4RcZBMxb7Y",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-08-10T18:03:29+05:30",
+      "time": "10 Aug, 06:03 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/Z4RcZBMxb7Y/mqdefault.jpg"
+    },
+    {
       "title": "Kaveri 2.0 : New Life to Indian Jets",
       "link": "https://www.youtube.com/watch?v=UPfxmA-oKx8",
       "source": "Alpha Defense - Hindi",
@@ -1311,27 +1339,9 @@
       "time": "08 Aug, 10:10 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/VL5FKsRmRNw/mqdefault.jpg"
-    },
-    {
-      "title": "India's Secret Air Defence Shield #shorts #viralshorts #kusha #airdefence #viral #s400 #trending",
-      "link": "https://www.youtube.com/shorts/kgMfwTQ7Ysw",
-      "source": "Defense Squad",
-      "sort_key": "2026-08-08T18:00:06+05:30",
-      "time": "08 Aug, 06:00 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : India Joins FCAS,Rafale Dual Facility,Agni-5 Bunker Buster,Mecca Agreement",
-      "link": "https://www.youtube.com/watch?v=GCN1RrjY--g",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-08-08T17:33:54+05:30",
-      "time": "08 Aug, 05:33 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/GCN1RrjY--g/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
