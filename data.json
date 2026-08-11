@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Turkey\u2019s Parliament approves conditional pardon for thousands of Kurdish militants",
+      "link": "https://newsonair.gov.in/turkeys-parliament-approves-conditional-pardon-for-thousands-of-kurdish-militants/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-11T06:52:42+05:30",
+      "time": "11 Aug, 06:52 AM",
+      "type": "news",
+      "description": "Turkey&#8217;s Parliament has approved legislation providing for a conditional pardon for thousands of Kurdish militants, as part of the government&#8..."
+    },
+    {
       "title": "Citizens Clean Up HLC Canal In Anantapur",
       "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/citizens-clean-up-hlc-canal-in-anantapur-1978231",
       "source": "Deccan Chronicle",
@@ -458,15 +467,6 @@
       "time": "09 Aug, 06:05 PM",
       "type": "news",
       "description": "Iranian Foreign Minister Seyyed Abbas Araghchi today said, his country is not currently engaged in direct negotiations with the United States, while m..."
-    },
-    {
-      "title": "Over 3.8 Lakh People Affected by monsoon, cyclones in Philippines",
-      "link": "https://newsonair.gov.in/over-3-8-lakh-people-affected-by-monsoon-cyclones-in-philippines/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-09T16:47:03+05:30",
-      "time": "09 Aug, 04:47 PM",
-      "type": "news",
-      "description": "The enhanced southwest monsoon and tropical cyclones have affected more than 3.8 lakh people across eight regions in the Philippines. According to the..."
     },
     {
       "title": "Iran Guards say won't reopen Hormuz without US meeting all Tehran's conditions",
@@ -1280,6 +1280,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
