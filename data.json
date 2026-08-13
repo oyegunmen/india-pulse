@@ -1,13 +1,22 @@
 {
   "news": [
     {
+      "title": "Manipur IED Attack: NIA arrests \u2018Finance Head\u2019 of banned United Kuki National Army",
+      "link": "https://nenews.in/manipur/manipur-ied-attack-nia-arrests-finance-head-of-banned-united-kuki-national-army/60642/",
+      "source": "NE News",
+      "sort_key": "2026-08-13T11:23:13+05:30",
+      "time": "13 Aug, 11:23 AM",
+      "type": "news",
+      "description": "<p>Imphal: The National Investigation Agency (NIA) has arrested a suspected senior functionary of a banned outfit in connection with the April 7 IED a..."
+    },
+    {
       "title": "Liberia\u2019s Foreign Minister Sara Beysolow Nyanti arrives in New Delhi on two-day visit to India",
       "link": "https://newsonair.gov.in/liberias-foreign-minister-sara-beysolow-nyanti-arrives-in-new-delhi-on-two-day-visit-to-india/",
       "source": "All India Radio",
       "sort_key": "2026-08-13T11:08:07+05:30",
       "time": "13 Aug, 11:08 AM",
       "type": "news",
-      "description": "Minister of Foreign Affairs of Liberia Sara Beysolow Nyanti arrived in New Delhi this morning. He is on a two day visit to the country. He will meet F..."
+      "description": "Minister of Foreign Affairs of Liberia Sara Beysolow Nyanti arrived in New Delhi this morning. She is on a two day visit to the country. She will meet..."
     },
     {
       "title": "US Senator says Navy personel allegedly tried to jump of the USS Abraham Lincoln aircraft carrier deployed to fight Iran in Middle East",
@@ -62,15 +71,6 @@
       "time": "13 Aug, 07:43 AM",
       "type": "news",
       "description": "The Board of Control for Cricket in India (BCCI) and the Afghanistan Cricket Board (ACB) have confirmed that Afghanistan will host India for a three-m..."
-    },
-    {
-      "title": "Odisha to get anti-terrorist squad soon: DGP",
-      "link": "https://www.newindianexpress.com/states/odisha/2026/Aug/13/odisha-to-get-anti-terrorist-squad-soon-dgp",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-13T07:42:06+05:30",
-      "time": "13 Aug, 07:42 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "US Apache helicopter crashes in Texas, killing two American soldiers",
@@ -629,45 +629,49 @@
       "time": "11 Aug, 12:50 PM",
       "type": "news",
       "description": "In a significant step for Vietnam&#039;s aspirations in aerospace, VinSpace plans to launch its inaugural satellites in 2027 via SpaceX. This partners..."
-    },
-    {
-      "title": "Astrobase targets first orbital flight by Dec 2028, plans 50 rocket engines a year",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/astrobase-targets-first-orbital-flight-by-dec-2028-plans-50-rocket-engines-a-year/133144290",
-      "source": "Economic Times",
-      "sort_key": "2026-08-11T12:08:52+05:30",
-      "time": "11 Aug, 12:08 PM",
-      "type": "news",
-      "description": "Bengaluru-based space-tech startup plans to build and test around 20 EVEREST engines ahead of its maiden mission and develop an integrated manufacturi..."
-    },
-    {
-      "title": "GalaxEye acquires StarOps, looks to strengthen satellite engineering after Drishti setback",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/galaxeye-acquires-starops-looks-to-strengthen-satellite-engineering-after-drishti-setback/133144097",
-      "source": "Economic Times",
-      "sort_key": "2026-08-11T12:00:45+05:30",
-      "time": "11 Aug, 12:00 PM",
-      "type": "news",
-      "description": "Infosys-backed GalaxEye has acquired StarOps, strengthening its satellite engineering capabilities as the spacetech startup works to expand its satell..."
-    },
-    {
-      "title": "Anand Meets Former Maoists, Hears their Grievances in Mulugu",
-      "link": "https://www.deccanchronicle.com/southern-states/telangana/anand-meets-former-maoists-hears-their-grievances-in-mulugu-1978284",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-08-11T11:49:57+05:30",
-      "time": "11 Aug, 11:49 AM",
-      "type": "news",
-      "description": "\u201cI assured them that their concerns would be taken up with the government and that all possible support would be extended to them,\u201d Anand said"
-    },
-    {
-      "title": "Boeing to divest tech ventures to Archer Aviation in exchange for stake",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/boeing-to-divest-tech-ventures-to-archer-aviation-in-exchange-for-stake/133143624",
-      "source": "Economic Times",
-      "sort_key": "2026-08-11T11:24:46+05:30",
-      "time": "11 Aug, 11:24 AM",
-      "type": "news",
-      "description": "Boeing announced an agreement Monday to divest its air taxi and two other technology ventures to Archer Aviation for a stake in the startup. In its Ma..."
     }
   ],
   "tweets": [
+    {
+      "title": "This new requirement for 150 Stage-3 trainers actually opens up Pandora\u2019s box. Had Mk1A production been fully sorted, with HAL consistently churning out 24 jets/year, this could have been a straightforward Tejas SPORT/LIFT opportunity. But does this create a window for Kaveri? Is ~73 kN really inadequate if the airframe is trainer? More questions than answers.",
+      "link": "https://nitter.net/alpha_defense/status/2087788507653874112#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-13T11:59:04+05:30",
+      "time": "13 Aug, 11:59 AM",
+      "type": "tweets",
+      "content": "<p>This new requirement for 150 Stage-3 trainers actually opens up Pandora\u2019s box.<br />\n<br />\nHad Mk1A production been fully sorted, with HAL consistently churning out 24 jets/year, this could have been a straightforward Tejas SPORT/LIFT opportunity.<br />\n<br />\nBut does this create a window for Kaveri? Is ~73 kN really inadequate if the airframe is trainer?<br />\n<br />\nMore questions than answers.</p>\n<img src=\"https://nitter.net/pic/media%2FHPlQlE8a0AEchFr.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "R to @NetramDefence: 1947: The Modern Tiranga On July 22, 1947, the Constituent Assembly adopted the Swaraj flag as the Free India National Flag with one significant modification. Design: The deep saffron (Kesari), white, and dark green horizontal stripes were retained in equal proportion. Modification: The Charkha was replaced by the Ashoka Chakra (Dharma Chakra) in navy blue at the center of the white band. The 24 spokes of the Chakra represent the eternal wheel of law and continuous progress. 6/6",
+      "link": "https://nitter.net/NetramDefence/status/2087783327608766654#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-13T11:38:29+05:30",
+      "time": "13 Aug, 11:38 AM",
+      "type": "tweets",
+      "content": "<p>1947: The Modern Tiranga<br />\n<br />\nOn July 22, 1947, the Constituent Assembly adopted the Swaraj flag as the Free India National Flag with one significant modification.<br />\nDesign: The deep saffron (Kesari), white, and dark green horizontal stripes were retained in equal proportion.<br />\n<br />\nModification: The Charkha was replaced by the Ashoka Chakra (Dharma Chakra) in navy blue at the center of the white band. The 24 spokes of the Chakra represent the eternal wheel of law and continuous progress.<br />\n<br />\n6/6</p>\n<img src=\"https://nitter.net/pic/media%2FHPlKCsVawAAfx3U.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "R to @NetramDefence: 1931: The Swaraj Flag The year 1931 was a landmark in the history of the flag. A resolution was passed adopting a tricolor flag as the official flag of the Indian National Congress. Design: It featured three horizontal stripes of Saffron (top), White (middle), and Green (bottom). Symbols: Mahatma Gandhi's spinning wheel (Charkha) was placed in the center of the white stripe. The colors were officially interpreted as having no communal significance, saffron stood for courage and sacrifice, white for peace and truth, and green for faith and chivalry. 5/6",
+      "link": "https://nitter.net/NetramDefence/status/2087783323737456996#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-13T11:38:28+05:30",
+      "time": "13 Aug, 11:38 AM",
+      "type": "tweets",
+      "content": "<p>1931: The Swaraj Flag<br />\n<br />\nThe year 1931 was a landmark in the history of the flag. A resolution was passed adopting a tricolor flag as the official flag of the Indian National Congress.<br />\n<br />\nDesign: It featured three horizontal stripes of Saffron (top), White (middle), and Green (bottom).<br />\n<br />\nSymbols: Mahatma Gandhi's spinning wheel (Charkha) was placed in the center of the white stripe. The colors were officially interpreted as having no communal significance, saffron stood for courage and sacrifice, white for peace and truth, and green for faith and chivalry.<br />\n<br />\n5/6</p>\n<img src=\"https://nitter.net/pic/media%2FHPlJn3JbgAARFJi.png\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "THREAD \ud83e\uddf5 Evolution of Tiranga The Indian National Flag, known as the Tiranga, is a direct reflection of the country's trajectory toward independence. The design officially adopted in 1947 was not the first; rather, it was the culmination of a decades-long evolution that mirrored shifting political ideologies, freedom struggle, and the push for a unified national identity. From early grassroots movements in 1906 to the final resolution by the Constituent Assembly, tracing the various iterations of the flag provides a visual timeline of India's political awakening. Below is the history of Indian National Flag \ud83c\uddee\ud83c\uddf3\ud83d\udc47\ud83c\udffc. #HarGharTiranga @rashtrapatibhvn @PMOIndia @HMOIndia @DefenceMinIndia @SpokespersonMoD @adgpi @IAF_MCC @indiannavy @HQ_IDS_India @narendramodi 1/6",
+      "link": "https://nitter.net/NetramDefence/status/2087783310210871382#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-13T11:38:24+05:30",
+      "time": "13 Aug, 11:38 AM",
+      "type": "tweets",
+      "content": "<p>THREAD \ud83e\uddf5 <br />\n<br />\nEvolution of Tiranga <br />\n<br />\nThe Indian National Flag, known as the Tiranga, is a direct reflection of the country's trajectory toward independence. The design officially adopted in 1947 was not the first; rather, it was the culmination of a decades-long evolution that mirrored shifting political ideologies, freedom struggle, and the push for a unified national identity.<br />\n<br />\nFrom early grassroots movements in 1906 to the final resolution by the Constituent Assembly, tracing the various iterations of the flag provides a visual timeline of India's political awakening. Below is the history of Indian National Flag \ud83c\uddee\ud83c\uddf3\ud83d\udc47\ud83c\udffc.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23HarGharTiranga\">#HarGharTiranga</a><br />\n<a href=\"https://nitter.net/rashtrapatibhvn\" title=\"President of India\">@rashtrapatibhvn</a> <br />\n<a href=\"https://nitter.net/PMOIndia\" title=\"PMO India\">@PMOIndia</a> <br />\n<a href=\"https://nitter.net/HMOIndia\" title=\"\u0917\u0943\u0939\u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f, HMO India\">@HMOIndia</a> <br />\n<a href=\"https://nitter.net/DefenceMinIndia\" title=\"\u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f/ RMO India\">@DefenceMinIndia</a> <br />\n<a href=\"https://nitter.net/SpokespersonMoD\" title=\"Ministry of Defence, Government of India\">@SpokespersonMoD</a> <br />\n<a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a> <br />\n<a href=\"https://nitter.net/IAF_MCC\" title=\"Indian Air Force\">@IAF_MCC</a> <br />\n<a href=\"https://nitter.net/indiannavy\" title=\"SpokespersonNavy\">@indiannavy</a> <br />\n<a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <br />\n<a href=\"https://nitter.net/narendramodi\" title=\"Narendra Modi\">@narendramodi</a> <br />\n<br />\n1/6</p>\n<img src=\"https://nitter.net/pic/media%2FHPlKaiEb0AAfrN8.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "Liberia Foreign Minister Sara Beysolow Nyanti on India visit",
       "link": "https://nitter.net/sidhant/status/2087768780810395954#m",
@@ -1109,66 +1113,6 @@
       "author": "@Manik_M_Jolly"
     },
     {
-      "title": "BREAKING: West Bengal STF has arrested two men, including Pakistani national Rana Rauf alias Wahab Alam, in Bangaon, North 24 Parganas. Investigators suspect Rauf has links with Pakistan\u2019s intelligence agency ISI. Officials say he entered India illegally through Nepal in 2012 and had been tracking the movements of trains and armed forces. A second accused, arrested in Topsia, maintained direct contact with Rauf and assisted him. Investigators are now examining what information was collected, whether it was passed outside India, and whether others were involved.",
-      "link": "https://nitter.net/NetramDefence/status/2087468676903735652#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-12T14:48:10+05:30",
-      "time": "12 Aug, 02:48 PM",
-      "type": "tweets",
-      "content": "<p>BREAKING: West Bengal STF has arrested two men, including Pakistani national Rana Rauf alias Wahab Alam, in Bangaon, North 24 Parganas.<br />\n<br />\nInvestigators suspect Rauf has links with Pakistan\u2019s intelligence agency ISI. Officials say he entered India illegally through Nepal in 2012 and had been tracking the movements of trains and armed forces.<br />\n<br />\nA second accused, arrested in Topsia, maintained direct contact with Rauf and assisted him.<br />\n<br />\nInvestigators are now examining what information was collected, whether it was passed outside India, and whether others were involved.</p>\n<img src=\"https://nitter.net/pic/media%2FHPgtgdPbMAAr5XS.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "We\u2019re Hiring: AI Video Editor \ud83c\udfac If you are someone or know someone who\u2019s skilled at creating AI-based long-form videos and is interested in working on military/defence-related projects, please share their details with us. We\u2019re hiring for a permanent, full-time role. \ud83d\udccd Location: Gurgaon, Haryana \ud83d\udcbc Role: AI Video Editor / Long-Form Video Editor \ud83c\udf96\ufe0f Domain: Military & Defence Details: https://drive.google.com/file/d/1zT41hocHHLI1G6Ni-uu-9qYFoKjCQAe7/view?usp=sharing Please DM me or share this with someone who might be a good fit.",
-      "link": "https://nitter.net/NetramDefence/status/2087464983638806735#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-12T14:33:29+05:30",
-      "time": "12 Aug, 02:33 PM",
-      "type": "tweets",
-      "content": "<p>We\u2019re Hiring: AI Video Editor \ud83c\udfac<br />\n<br />\nIf you are someone or know someone who\u2019s skilled at creating AI-based long-form videos and is interested in working on military/defence-related projects, please share their details with us.<br />\n<br />\nWe\u2019re hiring for a permanent, full-time role.<br />\n<br />\n\ud83d\udccd Location: Gurgaon, Haryana<br />\n\ud83d\udcbc Role: AI Video Editor / Long-Form Video Editor<br />\n\ud83c\udf96\ufe0f Domain: Military & Defence<br />\n<br />\nDetails: <a href=\"https://drive.google.com/file/d/1zT41hocHHLI1G6Ni-uu-9qYFoKjCQAe7/view?usp=sharing\">drive.google.com/file/d/1zT4\u2026</a><br />\n<br />\nPlease DM me or share this with someone who might be a good fit.</p>\n<img src=\"https://nitter.net/pic/media%2FHPgqRwXbcAAP3gJ.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "NORTH KOREA FIRES BALLISTIC MISSILE AHEAD OF US\u2013SOUTH KOREA DRILLS North Korea launched a ballistic missile toward the Sea of Japan on August 12, with South Korea saying it flew more than 700 km. The launch comes just days before the annual Ulchi Freedom Shield exercises, scheduled to begin August 17. This is Pyongyang\u2019s second reported ballistic missile test in less than a week and its 11th ballistic missile test of 2026.",
-      "link": "https://nitter.net/NetramDefence/status/2087464247412523434#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-12T14:30:34+05:30",
-      "time": "12 Aug, 02:30 PM",
-      "type": "tweets",
-      "content": "<p>NORTH KOREA FIRES BALLISTIC MISSILE AHEAD OF US\u2013SOUTH KOREA DRILLS<br />\n<br />\nNorth Korea launched a ballistic missile toward the Sea of Japan on August 12, with South Korea saying it flew more than 700 km.<br />\n<br />\nThe launch comes just days before the annual Ulchi Freedom Shield exercises, scheduled to begin August 17.<br />\n<br />\nThis is Pyongyang\u2019s second reported ballistic missile test in less than a week and its 11th ballistic missile test of 2026.</p>\n<img src=\"https://nitter.net/pic/media%2FHPgphwrbwAAg7DA.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "RT by @NetramDefence: The famous battle of Dograi !",
-      "link": "https://nitter.net/Manik_M_Jolly/status/2087463474180063347#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-12T14:27:30+05:30",
-      "time": "12 Aug, 02:27 PM",
-      "type": "tweets",
-      "content": "<p>The famous battle of Dograi !</p>\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>8/12<br />\n<br />\nDuring the 1965 Indo-Pak War, Punjab Regiment battalions distinguished themselves in the battles of Dograi and Burki. Fighting across Pakistan\u2019s heavily fortified BRB (Ichhogil) Canal, they helped breach one of the strongest defensive obstacles protecting Lahore, opening the way for Indian advances.</p>\n<img src=\"https://nitter.net/pic/media%2FHPWSuOpbkAAXF1C.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2086736998552027430#m\">https://nitter.net/NetramDefence/status/2086736998552027430#m</a>\n</footer>\n</blockquote>",
-      "author": "@Manik_M_Jolly"
-    },
-    {
-      "title": "Taiwan launches its largest-ever Han Kuang war games to repel a simulated invasion. The 10-day drills test real combat readiness with live-fire on Penghu Islands and the first-ever intentional throttling of mobile internet to simulate cyber warfare.",
-      "link": "https://nitter.net/NetramDefence/status/2087460718220345435#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-12T14:16:33+05:30",
-      "time": "12 Aug, 02:16 PM",
-      "type": "tweets",
-      "content": "<p>Taiwan launches its largest-ever Han Kuang war games to repel a simulated invasion. The 10-day drills test real combat readiness with live-fire on Penghu Islands and the first-ever intentional throttling of mobile internet to simulate cyber warfare.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2087460718220345435#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2087460619759017984%2Fimg%2F0N4Yl4SHmkMocRM2.jpg\" />\n</a>",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Our community member, Dr. Rahul Kamble (@foxtrot_rahul), has contributed an insightful article to the Central Chronicle as part of NDR, highlighting the fragile situation in Pakistan-Occupied Kashmir (PoK), including human rights concerns, political suppression, resource exploitation, and the challenges faced by its people. We encourage everyone to read the article and learn more about the realities on the ground. On behalf of the entire NDR community, we sincerely thank Dr. Rahul Kamble for his valuable contribution. Jai Hind",
-      "link": "https://nitter.net/NetramDefence/status/2087439009798816088#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-12T12:50:17+05:30",
-      "time": "12 Aug, 12:50 PM",
-      "type": "tweets",
-      "content": "<p>Our community member, Dr. Rahul Kamble (<a href=\"https://nitter.net/foxtrot_rahul\" title=\"Rahul kamble\">@foxtrot_rahul</a>), has contributed an insightful article to the Central Chronicle as part of NDR, highlighting the fragile situation in Pakistan-Occupied Kashmir (PoK), including human rights concerns, political suppression, resource exploitation, and the challenges faced by its people.<br />\n<br />\nWe encourage everyone to read the article and learn more about the realities on the ground.<br />\n<br />\nOn behalf of the entire NDR community, we sincerely thank Dr. Rahul Kamble for his valuable contribution.<br />\n<br />\nJai Hind</p>\n<img src=\"https://nitter.net/pic/media%2FHPgSg1vbIAAY7PK.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Well guess the country !",
       "link": "https://nitter.net/elitepredatorss/status/2087434659990761869#m",
       "source": "Elite Predators",
@@ -1437,30 +1381,10 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 OSINT REPORT: <br />\n<br />\nMASOOD AZHAR RAISES THE ALARM OVER PoJK CRISIS<br />\n<br />\nJaish-e-Mohammed chief Masood Azhar has reportedly expressed extreme displeasure with the Pakistani establishment over its handling of the PoJK crisis, calling the situation \u201cextremely grim\u201d and \u201cout of control.\u201d<br />\n<br />\nHe reportedly admitted that rebuilding trust with PoJK Kashmiris has now become almost impossible.<br />\n<br />\nAccording to Jaish-e-Mohammed sources, peace talks between the JAAC and an ISI backed peace committee, which reportedly included Jaish commander Ilyas Kashmiri, have also miserably failed.<br />\n<br />\nDetails: Open source</p>\n<img src=\"https://nitter.net/pic/media%2FHPbGVvUXoAAq4Nc.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "IdeaForge enters Combat UAV solutions market. Illustration from their Proposed Partner Program presentation.",
-      "link": "https://nitter.net/alpha_defense/status/2087063335154094090#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-11T11:57:29+05:30",
-      "time": "11 Aug, 11:57 AM",
-      "type": "tweets",
-      "content": "<p>IdeaForge enters Combat UAV solutions market. Illustration from their Proposed Partner Program presentation.</p>\n<img src=\"https://nitter.net/pic/media%2FHPa9BUoboAEDbLx.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPa9B8EaUAAqhBf.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPa9CarawAADRIE.jpg\" />",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "Parliament\u2019s Standing Committee on Defence has recommended DRDO set clear KPIs and delivery timelines for its projects.",
-      "link": "https://nitter.net/alpha_defense/status/2087055552434372793#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-11T11:26:33+05:30",
-      "time": "11 Aug, 11:26 AM",
-      "type": "tweets",
-      "content": "<p>Parliament\u2019s Standing Committee on Defence has recommended DRDO set clear KPIs and delivery timelines for its projects.</p>\n<img src=\"https://nitter.net/pic/media%2FHPa19eTagAANucU.jpg\" />",
-      "author": "@alpha_defense"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
