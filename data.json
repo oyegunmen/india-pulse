@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "China stopped Army from patrolling certain Arunachal areas, claims Rahul",
+      "link": "https://www.tribuneindia.com/news/india/china-stopped-army-from-patrolling-certain-arunachal-areas-claims-rahul",
+      "source": "The Tribune",
+      "sort_key": "2026-08-14T01:18:42+05:30",
+      "time": "14 Aug, 01:18 AM",
+      "type": "news",
+      "description": "Congress leader Rahul Gandhi on Thursday alleged that China had stopped the Indian troops from patrolling certain areas along the Line of Actual Contr..."
+    },
+    {
       "title": "Pete Hegseth says reports about poor conditions aboard carrier are misrepresented",
       "link": "https://economictimes.indiatimes.com/news/defence/pete-hegseth-says-reports-about-poor-conditions-aboard-carrier-are-misrepresented/articleshow/133219570.cms",
       "source": "Economic Times",
@@ -62,15 +71,6 @@
       "time": "13 Aug, 08:40 PM",
       "type": "news",
       "description": "A terrorism monitoring team of the United Nations Security Council (UNSC) has declared the deadly Red Fort suicide car bombing in Delhi that killed 11..."
-    },
-    {
-      "title": "Act East gets military push as IAF drills in Malaysia, Army heads to Thailand",
-      "link": "https://www.newindianexpress.com/india/2026/Aug/13/act-east-gets-military-push-as-iaf-drills-in-malaysia-army-heads-to-thailand",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-13T20:32:25+05:30",
-      "time": "13 Aug, 08:32 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Two UP men arrested in Karnataka over alleged Pakistan and ISIS links; maps recovered from room",
@@ -260,6 +260,15 @@
       "time": "13 Aug, 10:43 AM",
       "type": "news",
       "description": "Concerns over the living conditions aboard the USS Abraham Lincoln have prompted US congressional Democrats to demand answers from the Navy. According..."
+    },
+    {
+      "title": "Red Fort blast carried out by Al-Qaida offshoot: UN report",
+      "link": "https://www.tribuneindia.com/news/delhi/red-fort-blast-carried-out-by-al-qaida-offshoot-un-report",
+      "source": "The Tribune",
+      "sort_key": "2026-08-13T10:17:34+05:30",
+      "time": "13 Aug, 10:17 AM",
+      "type": "news",
+      "description": "The November 2025 terror attack near Delhi\u2019s Red Fort was carried out by Al-Qaida in the Indian Subcontinent (AQIS), according to a latest report of t..."
     },
     {
       "title": "India, Malaysia commence bilateral exercise Udara Shakti 2026 at Subang Air Base",
@@ -602,15 +611,6 @@
       "time": "12 Aug, 10:13 AM",
       "type": "news",
       "description": "Pentagon assessments indicate 153 civilians died and 243 were injured by U.S. military actions in 2025.  These casualties primarily resulted from thre..."
-    },
-    {
-      "title": "Defence industry to showcase indigenous unmanned systems at Pokhran event",
-      "link": "https://economictimes.indiatimes.com/news/defence/defence-industry-to-showcase-indigenous-unmanned-systems-at-pokhran-event-indian-air-force/articleshow/133164825.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-12T01:09:40+05:30",
-      "time": "12 Aug, 01:09 AM",
-      "type": "news",
-      "description": "Indigenous unmanned systems will be showcased for the Indian Air Force next month. Long-range systems and swarm drones are a special focus for this ev..."
     }
   ],
   "tweets": [
@@ -1350,6 +1350,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "12:24 AM IST"
+    "last_updated": "01:24 AM IST"
   }
 }
