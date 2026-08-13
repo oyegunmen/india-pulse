@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Liberia\u2019s Foreign Minister Sara Beysolow Nyanti arrives in New Delhi on two-day visit to India",
+      "link": "https://newsonair.gov.in/liberias-foreign-minister-sara-beysolow-nyanti-arrives-in-new-delhi-on-two-day-visit-to-india/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-13T11:08:07+05:30",
+      "time": "13 Aug, 11:08 AM",
+      "type": "news",
+      "description": "Minister of Foreign Affairs of Liberia Sara Beysolow Nyanti arrived in New Delhi this morning. He is on a two day visit to the country. He will meet F..."
+    },
+    {
+      "title": "US Senator says Navy personel allegedly tried to jump of the USS Abraham Lincoln aircraft carrier deployed to fight Iran in Middle East",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-senator-says-navy-personel-allegedly-tried-to-jump-of-the-uss-abraham-lincoln-aircraft-carrier-deployed-to-fight-iran-in-middle-east/articleshow/133198028.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-13T10:43:51+05:30",
+      "time": "13 Aug, 10:43 AM",
+      "type": "news",
+      "description": "Concerns over the living conditions aboard the USS Abraham Lincoln have prompted US congressional Democrats to demand answers from the Navy. According..."
+    },
+    {
       "title": "Red Fort blast carried out by Al-Qaida offshoot: UN report",
       "link": "https://www.tribuneindia.com/news/delhi/red-fort-blast-carried-out-by-al-qaida-offshoot-un-report",
       "source": "The Tribune",
@@ -16,7 +34,7 @@
       "sort_key": "2026-08-13T10:11:29+05:30",
       "time": "13 Aug, 10:11 AM",
       "type": "news",
-      "description": "A recent report by a United Nations Security Council monitoring team has linked the November 2025 attack at Delhi's Red Fort to Al-Qaeda in the Indian..."
+      "description": "An offshoot of the Al-Qaeda terror group is behind the <a href=\"https://www.indiatvnews.com/news/india/red-fort-blast-case-accused-visited-lucknow-and..."
     },
     {
       "title": "India, Malaysia commence bilateral exercise Udara Shakti 2026 at Subang Air Base",
@@ -289,15 +307,6 @@
       "description": "The Indian and Australian navies held discussions in Sydney during the 17th Navy-to-Navy Staff Talks from August 11-12 to boost maritime cooperation a..."
     },
     {
-      "title": "Jinnah has been reborn as Rahul Gandhi: Nishikant Dubey launches scathing attack on Congress leader",
-      "link": "https://www.indiatvnews.com/news/india/jinnah-has-been-reborn-as-rahul-gandhi-nishikant-dubey-launches-scathing-attack-on-congress-leader-2026-08-12-1051144",
-      "source": "India TV",
-      "sort_key": "2026-08-12T15:53:06+05:30",
-      "time": "12 Aug, 03:53 PM",
-      "type": "news",
-      "description": "<a href=\"https://www.indiatvnews.com/news/india/nishikant-dubey-on-friend-revanth-reddy-he-speaks-on-rahul-gandhi-s-instructions-2026-07-31-1050006\" t..."
-    },
-    {
       "title": "Govt committed to phased implementation of 'PRAHAAR' strategy: MHA",
       "link": "https://economictimes.indiatimes.com/news/defence/govt-committed-to-phased-implementation-of-prahaar-strategy-mha/articleshow/133179000.cms",
       "source": "Economic Times",
@@ -505,15 +514,6 @@
       "description": "Hungary\u2019s parliament today elected former Supreme Court chief Andras Baka as the country\u2019s next President. Baka, who will serve in the largely ceremon..."
     },
     {
-      "title": "Death toll crosses 200 mark in Colombia earthquake",
-      "link": "https://newsonair.gov.in/7-4-magnitude-earthquake-strikes-western-colombia-death-toll-rises-to-132/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-11T20:57:57+05:30",
-      "time": "11 Aug, 08:57 PM",
-      "type": "news",
-      "description": "The death toll from the powerful earthquake that struck western Colombia yesterday has crossed 200 mark. Citing local authorities media reported that ..."
-    },
-    {
       "title": "Air Officer Commanding-in-Chief, Maintenance Command calls on Governor of Maharashtra",
       "link": "https://www.indiastrategic.in/air-officer-commanding-in-chief-maintenance-command-calls-on-governor-of-maharashtra/",
       "source": "India Strategic",
@@ -665,18 +665,19 @@
       "time": "11 Aug, 11:24 AM",
       "type": "news",
       "description": "Boeing announced an agreement Monday to divest its air taxi and two other technology ventures to Archer Aviation for a stake in the startup. In its Ma..."
-    },
-    {
-      "title": "Sigma Advanced Systems raises \u20b9460 crore via preferential allotment",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/sigma-advanced-systems-raises-460-crore-via-preferential-allotment/133142685",
-      "source": "Economic Times",
-      "sort_key": "2026-08-11T10:43:08+05:30",
-      "time": "11 Aug, 10:43 AM",
-      "type": "news",
-      "description": "Sigma Advanced Systems has raised \u20b9460 crore through a preferential allotment to fund capacity expansion and strengthen its global manufacturing footp..."
     }
   ],
   "tweets": [
+    {
+      "title": "Liberia Foreign Minister Sara Beysolow Nyanti on India visit",
+      "link": "https://nitter.net/sidhant/status/2087768780810395954#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-13T10:40:40+05:30",
+      "time": "13 Aug, 10:40 AM",
+      "type": "tweets",
+      "content": "<p>Liberia Foreign Minister Sara Beysolow Nyanti on India visit</p>\n<img src=\"https://nitter.net/pic/media%2FHPk-o0-asAAicTO.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "\"Until all conditions are met, the Strait will remain closed\": Iran's security council chief Mohsen Rezaei Iran's newly appointed head of the Supreme National Security Council (SNSC) Mohsen Rezaei warned that Tehran will not fully reopen the strategic Strait of Hormuz until the United States meets \"all the conditions.\"",
       "link": "https://nitter.net/NetramDefence/status/2087763125118628228#m",
@@ -708,6 +709,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "RT by @OsintTV: How very peaceful discussions.",
+      "link": "https://nitter.net/LtGenDPPandey/status/2087735343412056125#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-13T08:27:48+05:30",
+      "time": "13 Aug, 08:27 AM",
+      "type": "tweets",
+      "content": "<p>How very peaceful discussions.</p>\n<hr />\n<blockquote>\n<b>OsintTV \ud83d\udcfa (@OsintTV)</b>\n<p>\n<p>\ud83d\udea8 EXPOSED: \u201cI AM A FOLLOWER OF HAFIZ SAEED SAAB\u201d: PTI LEADER SHEIKH RASHEED\u2019S SHOCKING ADMISSION<br />\n<br />\nFormer Pakistani minister and Imran Khan ally Sheikh Rasheed openly declared himself a \u201cfollower and servant\u201d of Hafiz Saeed.<br />\n<br />\nHe claimed he was kicked out of the US because Hafiz Saeed\u2019s phone number was found on his phone.<br />\n<br />\nThen came a series of threats against India. Rasheed said that if India ever turns towards Pakistan, \u201cwe will crush and obliterate it.\u201d He further threatened that no bird would chirp in India, no bells would ring at Birla Mandir, and no work would take place in India that goes against Pakistan.<br />\n<br />\nIn the video Senior Lashkar leader Sandhu sitting on his right, while senior commander Sheikh Yaqoob sitting on his second left.</p>\n<a href=\"https://nitter.net/OsintTV/status/2087590984221929685#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2087590689513115648%2Fimg%2F6SceaIVc07Awavbu.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/OsintTV/status/2087590984221929685#m\">https://nitter.net/OsintTV/status/2087590984221929685#m</a>\n</footer>\n</blockquote>",
+      "author": "@LtGenDPPandey"
+    },
+    {
       "title": "UN report attributes November 2025 Red Fort attack in Delhi to Al-Qaida in the Indian Subcontinent:",
       "link": "https://nitter.net/sidhant/status/2087734470854254996#m",
       "source": "Sidhant Sibal",
@@ -716,6 +727,16 @@
       "type": "tweets",
       "content": "<p>UN report attributes November 2025 Red Fort attack in Delhi to Al-Qaida in the Indian Subcontinent:</p>\n<img src=\"https://nitter.net/pic/media%2FHPkfaePakAAXa0C.jpg\" />",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT by @alpha_defense: Covered a lot of ground (sea?!!!\ud83d\ude02) in this podcast with @chakranewz @SandeepUnnithan. We spoke about the past, the present and the future of naval innovation. Do watch and let me know your views. https://m.youtube.com/watch?v=QcqdiCij-zg&pp=0gcJCWgCo7VqN5tD&ra=m @CaptDKS @tarunsingha @cdf_23 @kartha_tara @MacaulaysMonkey @Firezstarter1",
+      "link": "https://nitter.net/Arun_Golaya/status/2087723388018331926#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-13T07:40:18+05:30",
+      "time": "13 Aug, 07:40 AM",
+      "type": "tweets",
+      "content": "<p>Covered a lot of ground (sea?!!!\ud83d\ude02) in this podcast with <a href=\"https://nitter.net/chakranewz\" title=\"chakranewz\">@chakranewz</a> <a href=\"https://nitter.net/SandeepUnnithan\" title=\"Sandeep\">@SandeepUnnithan</a>. We spoke about the past, the present and the future of naval innovation. Do watch and let me know your views. <br />\n<br />\n<a href=\"https://piped.video/watch?v=QcqdiCij-zg&amp;pp=0gcJCWgCo7VqN5tD&amp;ra=m\">piped.video/watch?v=QcqdiC\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/CaptDKS\" title=\"Captain DK Sharma\">@CaptDKS</a> <a href=\"https://nitter.net/tarunsingha\" title=\"Gp Capt Tarun Singha, VSM &amp; Bar (Retd)\">@tarunsingha</a> <a href=\"https://nitter.net/cdf_23\" title=\"Chakra Dialogues Foundation\">@cdf_23</a> <a href=\"https://nitter.net/kartha_tara\" title=\"Tara\">@kartha_tara</a> <a href=\"https://nitter.net/MacaulaysMonkey\" title=\"Atmanirbharta Bhakt\">@MacaulaysMonkey</a> <a href=\"https://nitter.net/Firezstarter1\" title=\"Firestarter\">@Firezstarter1</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/watch?v=QcqdiCij-zg&amp;pp=0gcJCWgCo7VqN5tD&amp;ra=m\">\n<img src=\"https://nitter.net/pic/card_img%2F2087592019912974336%2Fhw7_cWNV%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>The Navy Is Rethinking How Wars Are Fought | The Sandeep Unnithan Show Feat. Cdre Arun Golaya (R)</b>\n</a>\n<p>Why is the Indian Navy ahead of the other services when it comes to...</p>\n<small><a href=\"https://piped.video/watch?v=QcqdiCij-zg&amp;pp=0gcJCWgCo7VqN5tD&amp;ra=m\">youtube.com</a></small>",
+      "author": "@Arun_Golaya"
     },
     {
       "title": "R to @OsintTV: Video Date : 12-08-2026 Venue : All party meeting Location: Islamabad",
@@ -748,7 +769,17 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "\ud83d\udea8 EXPOSED: \u201cI AM A FOLLOWER OF HAFIZ SAEED SAAB\u201d: PTI LEADER SHEIKH RASHEED\u2019S SHOCKING ADMISSION Former Pakistani minister and Imran Khan ally Sheikh Rasheed openly declared himself a \u201cfollower and servant\u201d of Hafiz Saeed. He claimed he was kicked out of the US because Hafiz Saeed\u2019s phone number was found on his phone. Then came a series of threats against India. Rasheed said that if India ever turns towards Pakistan, \u201cwe will crush and obliterate it.\u201d He further threatened that no bird would chirp in India, no bells would ring at Birla Mandir, and no work would take place in India that goes against Pakistan. In the video Senior Lashkar leader Sandhu sitting on his right, while senior commander Sheikh Yaqoob sitting on his second left.",
+      "title": "RT by @alpha_defense: We are training state of the art Military object detection models for http://miar.reachdefence.com, while ingesting popular data sources is nearly complete, we're looking to collaborate with partners who can supply TB scale data for the below spec. Required Image Characteristics - Format: orthorectified GeoTIFF or COG. - Bands: 8-bit pansharpened RGB. - Native GSD: <= 1.0 m; ideally 0.3\u20130.5 m. - Cloud cover: <= 20%; ideally below 5%. - Off-nadir angle: ideally <= 30\u00b0. - Coverage: apron, shelters, taxiways, and parked aircraft, not a tightly cropped single aircraft. - Aircraft: preferably at least 5 clearly visible aircraft. - Georeferencing: valid CRS and raster transform embedded in the GeoTIFF. - Temporal pairs: same installation and overlapping footprint, preferably months apart. Sneak peek into what's cooking right now, if you're interested to contribute , DM.",
+      "link": "https://nitter.net/rv_srivatsa/status/2087596163650478576#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-12T23:14:45+05:30",
+      "time": "12 Aug, 11:14 PM",
+      "type": "tweets",
+      "content": "<p>We are training state of the art Military object detection  models for <a href=\"http://miar.reachdefence.com\">miar.reachdefence.com</a>, while ingesting popular data sources is nearly complete, we're looking to collaborate with partners who can supply TB scale data for the below spec. <br />\n<br />\nRequired Image Characteristics<br />\n- Format: orthorectified GeoTIFF or COG.<br />\n- Bands: 8-bit pansharpened RGB.<br />\n- Native GSD: &lt;= 1.0 m; ideally 0.3\u20130.5 m.<br />\n- Cloud cover: &lt;= 20%; ideally below 5%.<br />\n- Off-nadir angle: ideally &lt;= 30\u00b0.<br />\n- Coverage: apron, shelters, taxiways, and parked aircraft, not a tightly cropped single aircraft.<br />\n<br />\n- Aircraft: preferably at least 5 clearly visible aircraft.<br />\n- Georeferencing: valid CRS and raster transform embedded in the GeoTIFF.<br />\n<br />\n- Temporal pairs: same installation and overlapping footprint, preferably months apart.<br />\n<br />\nSneak peek into what's cooking right now, if you're interested to contribute , DM.</p>\n<img src=\"https://nitter.net/pic/media%2FHPihYXZaUAAQGdP.jpg\" />",
+      "author": "@rv_srivatsa"
+    },
+    {
+      "title": "RT by @OsintTV: \ud83d\udea8 EXPOSED: \u201cI AM A FOLLOWER OF HAFIZ SAEED SAAB\u201d: PTI LEADER SHEIKH RASHEED\u2019S SHOCKING ADMISSION Former Pakistani minister and Imran Khan ally Sheikh Rasheed openly declared himself a \u201cfollower and servant\u201d of Hafiz Saeed. He claimed he was kicked out of the US because Hafiz Saeed\u2019s phone number was found on his phone. Then came a series of threats against India. Rasheed said that if India ever turns towards Pakistan, \u201cwe will crush and obliterate it.\u201d He further threatened that no bird would chirp in India, no bells would ring at Birla Mandir, and no work would take place in India that goes against Pakistan. In the video Senior Lashkar leader Sandhu sitting on his right, while senior commander Sheikh Yaqoob sitting on his second left.",
       "link": "https://nitter.net/OsintTV/status/2087590984221929685#m",
       "source": "Osint TV",
       "sort_key": "2026-08-12T22:54:10+05:30",
@@ -834,7 +865,7 @@
       "sort_key": "2026-08-12T19:41:49+05:30",
       "time": "12 Aug, 07:41 PM",
       "type": "tweets",
-      "content": "<p>Philippines Ambassador Ignacio calls BrahMos deal \u2018real credible deterrence\u2019 amid South China Sea tensions<br />\n<br />\nHopes for cooperation with India \"which has a robust indigenous defence sector, to have a similar one in the Philippines\"<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/world/philippines-ambassador-ignacio-calls-brahmos-deal-real-credible-deterrence-amid-south-china-sea-tensions-1786542995676\">wionews.com/world/philippine\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/philippines-ambassador-ignacio-calls-brahmos-deal-real-credible-deterrence-amid-south-china-sea-tensions-1786542995676\">\n<b>Philippines Ambassador Ignacio calls BrahMos deal \u2018real credible deterrence\u2019 amid South China Sea...</b>\n</a>\n<p>Philippines Ambassador Josel F. Ignacio said the BrahMos missile deal with India provides \u201creal credible deterrence\u201d for Manila while strengthening its territorial defence and deepening India-Phili...</p>\n<small><a href=\"https://www.wionews.com/world/philippines-ambassador-ignacio-calls-brahmos-deal-real-credible-deterrence-amid-south-china-sea-tensions-1786542995676\">wionews.com</a></small>",
+      "content": "<p>Philippines Ambassador Ignacio calls BrahMos deal \u2018real credible deterrence\u2019 amid South China Sea tensions<br />\n<br />\nHopes for cooperation with India \"which has a robust indigenous defence sector, to have a similar one in the Philippines\"<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/world/philippines-ambassador-ignacio-calls-brahmos-deal-real-credible-deterrence-amid-south-china-sea-tensions-1786542995676\">wionews.com/world/philippine\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/philippines-ambassador-ignacio-calls-brahmos-deal-real-credible-deterrence-amid-south-china-sea-tensions-1786542995676\">\n<img src=\"https://nitter.net/pic/card_img%2F2087542232262029313%2F3qW4AhTz%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Philippines Ambassador Ignacio calls BrahMos deal \u2018real credible deterrence\u2019 amid South China Sea...</b>\n</a>\n<p>Philippines Ambassador Josel F. Ignacio said the BrahMos missile deal with India provides \u201creal credible deterrence\u201d for Manila while strengthening its territorial defence and deepening India-Phili...</p>\n<small><a href=\"https://www.wionews.com/world/philippines-ambassador-ignacio-calls-brahmos-deal-real-credible-deterrence-amid-south-china-sea-tensions-1786542995676\">wionews.com</a></small>",
       "author": "@sidhant"
     },
     {
@@ -938,7 +969,7 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Nepal has lost the original documents of the 1816 Sugauli Treaty. Nepal's Foreign Minister Shisir Khanal stated that the government cannot confirm if it possesses the original 1816 Sugauli Treaty. While secondary reference papers exist in the National Archives, extensive searches across state departments failed to locate the definitive, original signed document. The 1816 Sugauli Treaty, signed with British India after the Anglo-Nepal War, is the fundamental legal and historical basis for Nepal's modern territorial claims.",
+      "title": "RT by @NetramDefence: Nepal has lost the original documents of the 1816 Sugauli Treaty. Nepal's Foreign Minister Shisir Khanal stated that the government cannot confirm if it possesses the original 1816 Sugauli Treaty. While secondary reference papers exist in the National Archives, extensive searches across state departments failed to locate the definitive, original signed document. The 1816 Sugauli Treaty, signed with British India after the Anglo-Nepal War, is the fundamental legal and historical basis for Nepal's modern territorial claims.",
       "link": "https://nitter.net/NetramDefence/status/2087522877260349773#m",
       "source": "Netram Defense",
       "sort_key": "2026-08-12T18:23:32+05:30",
@@ -1036,16 +1067,6 @@
       "type": "tweets",
       "content": "<p>Philippines envoy to India says the deployment of the India-Russia BrahMos supersonic cruise missile system gives the Philippines \"credible deterrence\" in the South China Sea.</p>\n<img src=\"https://nitter.net/pic/media%2FHPhE7YAbgAARU_J.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "We want India to build our oil refinary, talks are ongoing says Timor-Leste Ambassador Karlito Nunes",
-      "link": "https://nitter.net/sidhant/status/2087492949181710594#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-12T16:24:37+05:30",
-      "time": "12 Aug, 04:24 PM",
-      "type": "tweets",
-      "content": "<p>We want India to build our oil refinary, talks are ongoing says Timor-Leste Ambassador Karlito Nunes</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Delhi: Timor-Leste Ambassador Karlito Nunes, &amp; Philippines Ambassador  Josel F. Ignacio address ORF</p>\n<img src=\"https://nitter.net/pic/media%2FHPg4wK5aIAAsBPU.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2087480837969485930#m\">https://nitter.net/sidhant/status/2087480837969485930#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @NetramDefence: Exercise #UdaraShakti 2026 The Indian Air Force and Royal Malaysian Air Force are conducting bilateral Exercise #UdaraShakti 2026 at Subang Airbase, Malaysia. Air Warriors from both nations are engaged in joint field training and Subject Matter Expert exchanges, focused on operational learning, exchange of best practices and enhancing interoperability. Train together. Learn together. Operate together. #IAF #IndiaMalaysiaFriendship #AirPower #IndianAirForce #UdaraShakti26 @hcikl @DefenceMinIndia @SpokespersonMoD @HQ_IDS_India @adgpi @indiannavy @CareerinIAF",
@@ -1156,16 +1177,6 @@
       "type": "tweets",
       "content": "<p>Well guess the country !</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2087434659990761869#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2087404200519151616%2Fimg%2FPp1P_CHMWUIVwVDi.jpg\" />\n</a>",
       "author": "@elitepredatorss"
-    },
-    {
-      "title": "PAKISTAN AIRFORCE STRIKES CIVILIAN AREAS IN BALOCHISTAN Pakistani military fighter jets carried out airstrikes on civilian areas in Gidar, Surab, last night. Local sources claim 27 people, including women and children, were killed, while several others were injured. Further details and independent verification of the reported casualties are awaited.",
-      "link": "https://nitter.net/NetramDefence/status/2087428611498443080#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-12T12:08:58+05:30",
-      "time": "12 Aug, 12:08 PM",
-      "type": "tweets",
-      "content": "<p>PAKISTAN AIRFORCE STRIKES CIVILIAN AREAS IN BALOCHISTAN<br />\n<br />\nPakistani military fighter jets carried out airstrikes on civilian areas in Gidar, Surab, last night.<br />\n<br />\nLocal sources claim 27 people, including women and children, were killed, while several others were injured.<br />\n<br />\nFurther details and independent verification of the reported casualties are awaited.</p>\n<img src=\"https://nitter.net/pic/media%2FHPgJQJzbIAANYQG.jpg\" />",
-      "author": "@NetramDefence"
     },
     {
       "title": "Nepal says it lost the documents of the Treaty of Sugauli The Nepal government cannot locate the original 1816 Sugauli treaty that established the Himalayan nation\u2019s boundary with British India: Foreign Minister Shisir Khanal.",
@@ -1446,20 +1457,10 @@
       "type": "tweets",
       "content": "<p>Parliament\u2019s Standing Committee on Defence has recommended DRDO set clear KPIs and delivery timelines for its projects.</p>\n<img src=\"https://nitter.net/pic/media%2FHPa19eTagAANucU.jpg\" />",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "I have one, deeply preserved, because it was a gift from a senior in college. Her brother flies Sukhoi today, and she herself dons the olive green. She was famous in college for her long hair, always left untied. And today, ma\u2019am has shorter hair than me. \ud83d\ude04",
-      "link": "https://nitter.net/alpha_defense/status/2087048067224916345#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-11T10:56:49+05:30",
-      "time": "11 Aug, 10:56 AM",
-      "type": "tweets",
-      "content": "<p>I have one, deeply preserved, because it was a gift from a senior in college. Her brother flies Sukhoi today, and she herself dons the olive green.<br />\n<br />\nShe was famous in college for her long hair, always left untied. And today, ma\u2019am has shorter hair than me. \ud83d\ude04</p>\n<img src=\"https://nitter.net/pic/media%2FHPavJtpagAAKmny.jpg\" />\n\n<hr />\n<blockquote>\n<b>Nitin Welde (@nitinwelde)</b>\n<p>\n<p>- We were issued these watches somewhere in late 90s.<br />\n- The aircrew watch and aircrew goggles is something that remained integral to being an Aircrew. Dono ko flaunt karne mein majja ata hain \ud83d\ude06\ud83d\ude06\ud83d\ude0e\ud83d\ude0e</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/nitinwelde/status/2087006693570031707#m\">https://nitter.net/nitinwelde/status/2087006693570031707#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "10:24 AM IST"
+    "last_updated": "11:24 AM IST"
   }
 }
