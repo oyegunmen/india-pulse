@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual war games",
+      "link": "https://economictimes.indiatimes.com/news/defence/taiwan-simulates-repelling-chinese-assault-to-slow-mobile-internet-in-annual-war-games/articleshow/133202809.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-13T12:30:38+05:30",
+      "time": "13 Aug, 12:30 PM",
+      "type": "news",
+      "description": "Taiwan's military simulated repelling a Chinese air landing assault on Penghu Islands. The annual Han Kuang exercise rehearses various scenarios shoul..."
+    },
+    {
       "title": "Manipur IED Attack: NIA arrests \u2018Finance Head\u2019 of banned United Kuki National Army",
       "link": "https://nenews.in/manipur/manipur-ied-attack-nia-arrests-finance-head-of-banned-united-kuki-national-army/60642/",
       "source": "NE News",
@@ -143,15 +152,6 @@
       "time": "12 Aug, 10:14 PM",
       "type": "news",
       "description": "China on Wednesday said the situation along its border with India is \u201cgenerally stable\u201d at the moment, citing the recent meeting of the border consult..."
-    },
-    {
-      "title": "India invites bids for 60 new military transport aircraft",
-      "link": "https://www.tribuneindia.com/news/india/india-invites-bids-for-60-new-military-transport-aircraft",
-      "source": "The Tribune",
-      "sort_key": "2026-08-12T21:22:53+05:30",
-      "time": "12 Aug, 09:22 PM",
-      "type": "news",
-      "description": "The Ministry of Defence today issued a tender worth around Rs 1 lakh crore for the acquisition of 60 multirole transport aircraft for the Indian Air F..."
     },
     {
       "title": "IAF Chief calls for faster indigenous defence technology, deeper integration",
@@ -611,27 +611,79 @@
       "time": "11 Aug, 01:41 PM",
       "type": "news",
       "description": "Ministry of Defence says that there is no evidence that sensitive data or military systems had been transmitted abroad via Chinese spy cameras in K3 s..."
-    },
-    {
-      "title": "China missile test deepens Pacific divide over growing militarisation",
-      "link": "https://economictimes.indiatimes.com/news/defence/china-missile-test-deepens-pacific-divide-over-growing-militarisation/articleshow/133143467.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-11T12:57:19+05:30",
-      "time": "11 Aug, 12:57 PM",
-      "type": "news",
-      "description": "China\u2019s July ballistic-missile test has exposed divisions among Pacific island nations over growing militarisation and competing U.S.-China influence...."
-    },
-    {
-      "title": "Vietnam&#039;s VinSpace signs deal with Elon Musk&#039;s SpaceX to launch its first satellites in 2027",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/vietnams-vinspace-signs-deal-with-elon-musks-spacex-to-launch-its-first-satellites-in-2027/133145922",
-      "source": "Economic Times",
-      "sort_key": "2026-08-11T12:50:46+05:30",
-      "time": "11 Aug, 12:50 PM",
-      "type": "news",
-      "description": "In a significant step for Vietnam&#039;s aspirations in aerospace, VinSpace plans to launch its inaugural satellites in 2027 via SpaceX. This partners..."
     }
   ],
   "tweets": [
+    {
+      "title": "14 instances of attack on Indian reported in US in 2025, maximum for any country From Parliament Papers:",
+      "link": "https://nitter.net/sidhant/status/2087803816301506764#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-13T12:59:53+05:30",
+      "time": "13 Aug, 12:59 PM",
+      "type": "tweets",
+      "content": "<p>14 instances of attack on Indian reported in US in 2025, maximum for any country<br />\n<br />\nFrom Parliament Papers:</p>\n<img src=\"https://nitter.net/pic/media%2FHPlegHQacAAwUqy.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India's contribution to United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) since October 2023: From Parliament Papers-",
+      "link": "https://nitter.net/sidhant/status/2087803132567060920#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-13T12:57:10+05:30",
+      "time": "13 Aug, 12:57 PM",
+      "type": "tweets",
+      "content": "<p>India's contribution to United Nations Relief and Works Agency for Palestine Refugees in the Near East\n(UNRWA) since October 2023:<br />\n<br />\nFrom Parliament Papers-</p>\n<img src=\"https://nitter.net/pic/media%2FHPld4W0asAETqlH.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Since the beginning of the conflict in October 2023, India has provided around 135 MT of humanitarian aid to Palestine: MEA",
+      "link": "https://nitter.net/sidhant/status/2087802794032120024#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-13T12:55:50+05:30",
+      "time": "13 Aug, 12:55 PM",
+      "type": "tweets",
+      "content": "<p>Since the beginning of the conflict in October 2023, India has provided around\n135 MT of humanitarian aid to Palestine: MEA</p>\n<img src=\"https://nitter.net/pic/media%2FHPldkivbMAAClBz.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Government of India continues to engage with the Government of Bangladesh on development of cross-border connectivity projects that would improve access to India\u2019s Northeastern states: MEA",
+      "link": "https://nitter.net/sidhant/status/2087802530529264073#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-13T12:54:47+05:30",
+      "time": "13 Aug, 12:54 PM",
+      "type": "tweets",
+      "content": "<p>Government of India continues to engage with the Government of Bangladesh on\ndevelopment of cross-border connectivity projects that would improve access to India\u2019s\nNortheastern states: MEA</p>\n<img src=\"https://nitter.net/pic/media%2FHPldVH8bEAAyttK.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Individuals who participate in Track-2 dialogues (with Pakistan) do in their private capacity, and their views do not reflect the views of the Government of India: MEA tells Parliamemt",
+      "link": "https://nitter.net/sidhant/status/2087802268926242920#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-13T12:53:45+05:30",
+      "time": "13 Aug, 12:53 PM",
+      "type": "tweets",
+      "content": "<p>Individuals who participate in Track-2 dialogues (with Pakistan) do in their private\ncapacity, and their views do not reflect the views of the Government of India: MEA tells Parliamemt</p>\n<img src=\"https://nitter.net/pic/media%2FHPldF0vboAAuPJC.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India has negotiated Migration and Mobility Partnership Agreements, Labour Mobility Agreements and Labour Welfare Agreements with 25 countries, MEA tells the Parliament",
+      "link": "https://nitter.net/sidhant/status/2087801929951010930#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-13T12:52:24+05:30",
+      "time": "13 Aug, 12:52 PM",
+      "type": "tweets",
+      "content": "<p>India has negotiated Migration and Mobility Partnership Agreements, Labour Mobility Agreements and<br />\nLabour Welfare Agreements with 25 countries, MEA tells the Parliament</p>\n<img src=\"https://nitter.net/pic/media%2FHPlcxHAbsAA9hpd.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The latest increase in passport fees, which has taken place after 14 years, is 67%, MEA tells the Parliament",
+      "link": "https://nitter.net/sidhant/status/2087801648219554077#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-13T12:51:17+05:30",
+      "time": "13 Aug, 12:51 PM",
+      "type": "tweets",
+      "content": "<p>The latest increase in passport fees, which has taken place after 14 years, is 67%, MEA tells the Parliament</p>\n<img src=\"https://nitter.net/pic/media%2FHPlch8QbsAAMXuM.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "This new requirement for 150 Stage-3 trainers actually opens up Pandora\u2019s box. Had Mk1A production been fully sorted, with HAL consistently churning out 24 jets/year, this could have been a straightforward Tejas SPORT/LIFT opportunity. But does this create a window for Kaveri? Is ~73 kN really inadequate if the airframe is trainer? More questions than answers.",
       "link": "https://nitter.net/alpha_defense/status/2087788507653874112#m",
@@ -923,26 +975,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "Brahmos project gives us real credible deterrence, says Philippines Ambassador to India Josel F. Ignacio @PHinIndia @joselignacioPHL",
-      "link": "https://nitter.net/sidhant/status/2087536407950787054#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-12T19:17:18+05:30",
-      "time": "12 Aug, 07:17 PM",
-      "type": "tweets",
-      "content": "<p>Brahmos project gives us real credible deterrence, says Philippines Ambassador to India  Josel F. Ignacio <a href=\"https://nitter.net/PHinIndia\" title=\"Philippine Embassy in India\">@PHinIndia</a> <a href=\"https://nitter.net/joselignacioPHL\" title=\"Josel Ignacio\">@joselignacioPHL</a></p>\n<a href=\"https://nitter.net/sidhant/status/2087536407950787054#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2087536271069679616%2Fimg%2FVrH_UtdSuFyds4dP.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We appreciated India for publicly supporting the 2016 Arbitral award, says Philippines Ambassador to India Josel F. Ignacio @PHinIndia @joselignacioPHL @WIONews",
-      "link": "https://nitter.net/sidhant/status/2087535958615073066#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-12T19:15:31+05:30",
-      "time": "12 Aug, 07:15 PM",
-      "type": "tweets",
-      "content": "<p>We appreciated India for publicly supporting the 2016 Arbitral award, says Philippines Ambassador to India Josel F. Ignacio <a href=\"https://nitter.net/PHinIndia\" title=\"Philippine Embassy in India\">@PHinIndia</a> <a href=\"https://nitter.net/joselignacioPHL\" title=\"Josel Ignacio\">@joselignacioPHL</a> <br />\n<br />\n<a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<a href=\"https://nitter.net/sidhant/status/2087535958615073066#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2087535824133074944%2Fimg%2FYZerneiGKey3zhkr.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "India issues Rs 1 lakh crore tender for 60 multirole transport aircraft; Tata, Mahindra, HAL in race By : @ajitkdubey https://aninews.in/news/national/general-news/india-issues-rs-1-lakh-crore-tender-for-60-multirole-transport-aircraft-tata-mahindra-hal-in-race20260812184137/",
       "link": "https://nitter.net/alpha_defense/status/2087532517410635939#m",
       "source": "Alpha Defense",
@@ -983,16 +1015,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Indian Navy Chief Adm Krishna Swaminathan meets Mauritius PM Dr Navinchandra Ramgoolam",
-      "link": "https://nitter.net/sidhant/status/2087513559085511053#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-12T17:46:31+05:30",
-      "time": "12 Aug, 05:46 PM",
-      "type": "tweets",
-      "content": "<p>Indian Navy Chief Adm Krishna Swaminathan meets Mauritius PM Dr Navinchandra Ramgoolam</p>\n<img src=\"https://nitter.net/pic/media%2FHPhWbzLa4AANLXf.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPhWd8_aMAAZKeD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPhWfdHbEAAiY2v.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @NetramDefence: Pakistanis getting arrested in West Bengal. Safe haven is not so safe now.",
       "link": "https://nitter.net/Manik_M_Jolly/status/2087512452829483220#m",
       "source": "Netram Defense",
@@ -1013,26 +1035,6 @@
       "author": "@alpha_defense"
     },
     {
-      "title": "Timor-Leste Ambassador Karlito Nunes sees direct flight between India, & his country very soon; Wants ITEC cooperation.",
-      "link": "https://nitter.net/sidhant/status/2087500611961192467#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-12T16:55:04+05:30",
-      "time": "12 Aug, 04:55 PM",
-      "type": "tweets",
-      "content": "<p>Timor-Leste Ambassador Karlito Nunes sees direct flight between India, &amp; his country very soon; Wants ITEC cooperation.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Delhi: Timor-Leste Ambassador Karlito Nunes, &amp; Philippines Ambassador  Josel F. Ignacio address ORF</p>\n<img src=\"https://nitter.net/pic/media%2FHPg4wK5aIAAsBPU.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2087480837969485930#m\">https://nitter.net/sidhant/status/2087480837969485930#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\"Deliveries are ongoing\", says Philippines Ambassador Josel F. Ignacio on Brahmos missiles from India",
-      "link": "https://nitter.net/sidhant/status/2087500381555466653#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-12T16:54:09+05:30",
-      "time": "12 Aug, 04:54 PM",
-      "type": "tweets",
-      "content": "<p>\"Deliveries are ongoing\", says Philippines Ambassador Josel F. Ignacio on Brahmos missiles from India</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Delhi: Timor-Leste Ambassador Karlito Nunes, &amp; Philippines Ambassador  Josel F. Ignacio address ORF</p>\n<img src=\"https://nitter.net/pic/media%2FHPg4wK5aIAAsBPU.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2087480837969485930#m\">https://nitter.net/sidhant/status/2087480837969485930#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @OsintTV: Many Indians are posting fake videos from Manipur as Chinese intrusion online. Many are saying \"we're better off being a Chinese state\", \"full support to Chinese\", \"Indian govt. has sold Arunachal to Chinese\"etc. and are earning. But yeah, go on, withhold my post..... \ud83d\udc4f\ud83d\udc4f\ud83e\udd73",
       "link": "https://nitter.net/Kyangs_Thang/status/2087498568945016846#m",
       "source": "Osint TV",
@@ -1041,26 +1043,6 @@
       "type": "tweets",
       "content": "<p>Many Indians are posting fake videos from Manipur as Chinese intrusion online.<br />\n<br />\nMany are saying \"we're better off being a Chinese state\", \"full support to Chinese\", \"Indian govt. has sold Arunachal to Chinese\"etc. and are earning.<br />\n<br />\nBut yeah, go on, withhold my post..... \ud83d\udc4f\ud83d\udc4f\ud83e\udd73</p>\n<img src=\"https://nitter.net/pic/media%2FHPhH5zhaAAEf8ds.png\" />",
       "author": "@Kyangs_Thang"
-    },
-    {
-      "title": "We have joint maneuvers with India, says Philippines amb on India defence ties",
-      "link": "https://nitter.net/sidhant/status/2087497310750322929#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-12T16:41:57+05:30",
-      "time": "12 Aug, 04:41 PM",
-      "type": "tweets",
-      "content": "<p>We have joint maneuvers with India, says Philippines amb on India defence ties</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Delhi: Timor-Leste Ambassador Karlito Nunes, &amp; Philippines Ambassador  Josel F. Ignacio address ORF</p>\n<img src=\"https://nitter.net/pic/media%2FHPg4wK5aIAAsBPU.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2087480837969485930#m\">https://nitter.net/sidhant/status/2087480837969485930#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Vietnam is the darling of the world, in terms of getting investment, tourims, says Philippines Ambassador Josel F. Ignacio at ORF",
-      "link": "https://nitter.net/sidhant/status/2087494451929510326#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-12T16:30:35+05:30",
-      "time": "12 Aug, 04:30 PM",
-      "type": "tweets",
-      "content": "<p>Vietnam is the darling of the world, in terms of getting investment, tourims, says Philippines Ambassador  Josel F. Ignacio at ORF</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Delhi: Timor-Leste Ambassador Karlito Nunes, &amp; Philippines Ambassador  Josel F. Ignacio address ORF</p>\n<img src=\"https://nitter.net/pic/media%2FHPg4wK5aIAAsBPU.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2087480837969485930#m\">https://nitter.net/sidhant/status/2087480837969485930#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "Philippines envoy to India says the deployment of the India-Russia BrahMos supersonic cruise missile system gives the Philippines \"credible deterrence\" in the South China Sea.",
@@ -1361,30 +1343,110 @@
       "type": "tweets",
       "content": "<p>Indian Navy \ud83c\uddee\ud83c\uddf3 \ud83c\udf0a issued <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RFI\">#RFI</a> for procurement of Loitering munitions Medium Range. <br />\n\u2757\ufe0fOperational perimeters:<br />\nDeployable from Ships.<br />\nRange-1000km.<br />\nLoitering time-9 hours.<br />\nCEP-1 meter.<br />\n<br />\nIn pic: Haroop \ud83d\udcf8</p>\n<img src=\"https://nitter.net/pic/media%2FHPbWHPKbAAALRl2.jpg\" />",
       "author": "@ConflictUpdatee"
-    },
-    {
-      "title": "RT by @NetramDefence: Russia is preparing formal agreements to bring Saudi Arabia and Qatar on board the International North-South Transport Corridor (INSTC). This expansion by the Russian Ministry of Transport stems from ongoing high-level diplomatic dialogues, such as President Vladimir Putin's discussions with the Emir of Qatar regarding the network's integration.",
-      "link": "https://nitter.net/NetramDefence/status/2087083447328338044#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-11T13:17:24+05:30",
-      "time": "11 Aug, 01:17 PM",
-      "type": "tweets",
-      "content": "<p>Russia is preparing formal agreements to bring Saudi Arabia and Qatar on board the International North-South Transport Corridor (INSTC). <br />\n<br />\nThis expansion by the Russian Ministry of Transport stems from ongoing high-level diplomatic dialogues, such as President Vladimir Putin's discussions with the Emir of Qatar regarding the network's integration.</p>\n<img src=\"https://nitter.net/pic/media%2FHPbPU5LaQAAiQAP.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "\ud83d\udea8 OSINT REPORT: MASOOD AZHAR RAISES THE ALARM OVER PoJK CRISIS Jaish-e-Mohammed chief Masood Azhar has reportedly expressed extreme displeasure with the Pakistani establishment over its handling of the PoJK crisis, calling the situation \u201cextremely grim\u201d and \u201cout of control.\u201d He reportedly admitted that rebuilding trust with PoJK Kashmiris has now become almost impossible. According to Jaish-e-Mohammed sources, peace talks between the JAAC and an ISI backed peace committee, which reportedly included Jaish commander Ilyas Kashmiri, have also miserably failed. Details: Open source",
-      "link": "https://nitter.net/OsintTV/status/2087073736994300063#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-11T12:38:49+05:30",
-      "time": "11 Aug, 12:38 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 OSINT REPORT: <br />\n<br />\nMASOOD AZHAR RAISES THE ALARM OVER PoJK CRISIS<br />\n<br />\nJaish-e-Mohammed chief Masood Azhar has reportedly expressed extreme displeasure with the Pakistani establishment over its handling of the PoJK crisis, calling the situation \u201cextremely grim\u201d and \u201cout of control.\u201d<br />\n<br />\nHe reportedly admitted that rebuilding trust with PoJK Kashmiris has now become almost impossible.<br />\n<br />\nAccording to Jaish-e-Mohammed sources, peace talks between the JAAC and an ISI backed peace committee, which reportedly included Jaish commander Ilyas Kashmiri, have also miserably failed.<br />\n<br />\nDetails: Open source</p>\n<img src=\"https://nitter.net/pic/media%2FHPbGVvUXoAAq4Nc.jpg\" />",
-      "author": "@OsintTV"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Defence Updates - HAL HLFT-42 The Storm, India Drone Power Near PAK, \u20b91 Lakh Crore Aircraft Deal",
+      "link": "https://www.youtube.com/watch?v=3AJkn0Ldj-0",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-12T22:13:46+05:30",
+      "time": "12 Aug, 10:13 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/3AJkn0Ldj-0/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Navy Ka Naya 1000 KM Weapon!,Indigenous Gas Turbine,Netra Mk II Radar Secret,IAC-2 Carrier",
+      "link": "https://www.youtube.com/watch?v=bU8hnKuhpLQ",
+      "source": "Indian Defense News",
+      "sort_key": "2026-08-12T22:00:12+05:30",
+      "time": "12 Aug, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/bU8hnKuhpLQ/mqdefault.jpg"
+    },
+    {
+      "title": "150 New Aircrafts for Indian Airforce",
+      "link": "https://www.youtube.com/watch?v=5eA62UiePvs",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-08-12T21:43:17+05:30",
+      "time": "12 Aug, 09:43 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/5eA62UiePvs/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : AMCA Radar Winner,New Agni-5 Mk2,Tejas Mk2 Night Flying,DRDO Laser Export",
+      "link": "https://www.youtube.com/watch?v=qsr0LWtJaSk",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-08-12T18:05:42+05:30",
+      "time": "12 Aug, 06:05 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/qsr0LWtJaSk/mqdefault.jpg"
+    },
+    {
+      "title": "Did you all know these other reasons for which they also apologized?",
+      "link": "https://www.youtube.com/shorts/iYB_w6N8EsE",
+      "source": "Elite Predators",
+      "sort_key": "2026-08-12T10:00:12+05:30",
+      "time": "12 Aug, 10:00 AM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
+    },
+    {
+      "title": "AMCA Stealth may Fail,India-France  \u20b9100 Billion Fighter!,300 Dhanush Gun Order,Brahmos Huge Export",
+      "link": "https://www.youtube.com/watch?v=V3Tk692eVA0",
+      "source": "Indian Defense News",
+      "sort_key": "2026-08-11T23:00:08+05:30",
+      "time": "11 Aug, 11:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/V3Tk692eVA0/mqdefault.jpg"
+    },
+    {
+      "title": "World\u2019s Most Powerful Jet Radar",
+      "link": "https://www.youtube.com/watch?v=pFPDXTFacbM",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-08-11T21:58:44+05:30",
+      "time": "11 Aug, 09:58 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/pFPDXTFacbM/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - AMCA New Phase, Delhi On High Alert, Indian Navy 1000km Loitering Munitions",
+      "link": "https://www.youtube.com/watch?v=sKizInxSsxM",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-11T21:09:16+05:30",
+      "time": "11 Aug, 09:09 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/sKizInxSsxM/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : FCAS New Partners,Dhvani HGV Reveal,Philippines 9 More BrahMos,300 Dhanush",
+      "link": "https://www.youtube.com/watch?v=uTbNKh0lnSk",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-08-11T18:06:45+05:30",
+      "time": "11 Aug, 06:06 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/uTbNKh0lnSk/mqdefault.jpg"
+    },
+    {
+      "title": "This Weapon Could Send an Entire Nation Back to the Stone Age #shorts #viralshorts #trending #emp",
+      "link": "https://www.youtube.com/shorts/7cdAFoptFSw",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-11T18:00:01+05:30",
+      "time": "11 Aug, 06:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
+    },
+    {
+      "title": "How Protest Are Costing Billions To India?",
+      "link": "https://www.youtube.com/watch?v=hzaHfFhVc3k",
+      "source": "Elite Predators",
+      "sort_key": "2026-08-11T15:17:27+05:30",
+      "time": "11 Aug, 03:17 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/hzaHfFhVc3k/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "12:24 PM IST"
+    "last_updated": "01:24 PM IST"
   }
 }
