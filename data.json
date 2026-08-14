@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Eight Killed in Suspected Gas Leak at Shipbreaking Yard in Bangladesh",
+      "link": "https://newsonair.gov.in/eight-killed-in-suspected-gas-leak-at-shipbreaking-yard-in-bangladesh/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-14T20:00:58+05:30",
+      "time": "14 Aug, 08:00 PM",
+      "type": "news",
+      "description": "Eight people were killed in a suspected gas leak at a shipbreaking yard in Bangladesh today. \u00a0 \u00a0 Police said, the incident occurred at the Ferdous Ste..."
+    },
+    {
+      "title": "2 UAE tankers attacked while transiting Strait of Hormuz",
+      "link": "https://economictimes.indiatimes.com/news/defence/2-uae-tankers-attacked-while-transiting-strait-of-hormuz/articleshow/133244538.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-14T19:54:20+05:30",
+      "time": "14 Aug, 07:54 PM",
+      "type": "news",
+      "description": "The United Arab Emirates accused Iran of conducting drone strikes on two oil tankers navigating the strategic Strait of Hormuz. Meanwhile, activists d..."
+    },
+    {
+      "title": "India&#8217;s generosity, tolerance should not be mistaken for weakness: NSA Ajit Doval on Op Sindoor",
+      "link": "https://www.tribuneindia.com/news/india/indias-generosity-tolerance-should-not-be-mistaken-for-weakness-nsa-ajit-doval-on-op-sindoor",
+      "source": "The Tribune",
+      "sort_key": "2026-08-14T19:35:24+05:30",
+      "time": "14 Aug, 07:35 PM",
+      "type": "news",
+      "description": "National Security Advisor Ajit Doval has said India\u2019s generosity and tolerance should not be mistaken for weakness, asserting that the country can tak..."
+    },
+    {
+      "title": "HAL partners with Adani Defence, BEML to make Prachand Combat Helicopter fuselages",
+      "link": "https://economictimes.indiatimes.com/news/defence/hal-partners-with-adani-defence-beml-to-make-prachand-combat-helicopter-fuselages/articleshow/133243448.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-14T19:28:13+05:30",
+      "time": "14 Aug, 07:28 PM",
+      "type": "news",
+      "description": "Hindustan Aeronautics Limited has partnered with Adani Defence and BEML.  These agreements will boost indigenous helicopter production capabilities si..."
+    },
+    {
+      "title": "Operation Sindoor demonstrated India's capability for strikes against terror networks: President Murmu",
+      "link": "https://www.indiatvnews.com/news/india/operation-sindoor-demonstrated-indias-capability-for-strikes-against-terrorism-president-murmu-2026-08-14-1051399",
+      "source": "India TV",
+      "sort_key": "2026-08-14T19:24:03+05:30",
+      "time": "14 Aug, 07:24 PM",
+      "type": "news",
+      "description": "<a href=\"https://www.indiatvnews.com/news/india/pm-modi-calls-on-president-murmu-amid-speculation-over-possible-union-cabinet-reshuffle-latest-updates..."
+    },
+    {
       "title": "India's defence exports surged to Rs 38,424 crore in FY26: Rajnath Singh",
       "link": "https://economictimes.indiatimes.com/news/defence/indias-defence-exports-surged-to-rs-38424-crore-rajnath-singh/articleshow/133242772.cms",
       "source": "Economic Times",
@@ -206,15 +251,6 @@
       "time": "14 Aug, 07:18 AM",
       "type": "news",
       "description": "US President Donald Trump has announced tariffs of up to 100% on imports of certain larger drones and sensitive unmanned aircraft systems, citing nati..."
-    },
-    {
-      "title": "China stopped Indian Army from patrolling certain Arunachal areas, claims Rahul Gandhi",
-      "link": "https://www.tribuneindia.com/news/india/china-stopped-army-from-patrolling-certain-arunachal-areas-claims-rahul",
-      "source": "The Tribune",
-      "sort_key": "2026-08-14T01:18:42+05:30",
-      "time": "14 Aug, 01:18 AM",
-      "type": "news",
-      "description": "Congress leader Rahul Gandhi on Thursday alleged that China had stopped the Indian troops from patrolling certain areas along the Line of Actual Contr..."
     },
     {
       "title": "Pete Hegseth says reports about poor conditions aboard carrier are misrepresented",
@@ -469,15 +505,6 @@
       "description": "<p>Imphal: The National Investigation Agency (NIA) has arrested a suspected senior functionary of a banned outfit in connection with the April 7 IED a..."
     },
     {
-      "title": "Liberia\u2019s Foreign Minister Sara Beysolow Nyanti arrives in New Delhi on two-day visit to India",
-      "link": "https://newsonair.gov.in/liberias-foreign-minister-sara-beysolow-nyanti-arrives-in-new-delhi-on-two-day-visit-to-india/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-13T11:08:07+05:30",
-      "time": "13 Aug, 11:08 AM",
-      "type": "news",
-      "description": "Minister of Foreign Affairs of Liberia Sara Beysolow Nyanti arrived in New Delhi this morning. She is on a two day visit to the country. She will meet..."
-    },
-    {
       "title": "US Senator says Navy personel allegedly tried to jump of the USS Abraham Lincoln aircraft carrier deployed to fight Iran in Middle East",
       "link": "https://economictimes.indiatimes.com/news/defence/us-senator-says-navy-personel-allegedly-tried-to-jump-of-the-uss-abraham-lincoln-aircraft-carrier-deployed-to-fight-iran-in-middle-east/articleshow/133198028.cms",
       "source": "Economic Times",
@@ -566,36 +593,149 @@
       "time": "12 Aug, 08:27 PM",
       "type": "news",
       "description": "<p>New Delhi, Aug 12. Indian Air Force Chief Air Chief Marshal AP Singh has stressed the need to accelerate indigenous defence technology development,..."
-    },
-    {
-      "title": "India seeks 60 new transport aircraft for IAF, invites bids for a $10 billion deal",
-      "link": "https://theprint.in/defence/india-seeks-60-new-transport-aircraft-for-iaf-invites-bids-for-a-10-billion-deal/3012991/",
-      "source": "The Print",
-      "sort_key": "2026-08-12T20:14:44+05:30",
-      "time": "12 Aug, 08:14 PM",
-      "type": "news",
-      "description": "It is reliably learnt that Airbus, which had initially offered its A400M, is likely to sit it out since its aircraft outweighs requirements with paylo..."
-    },
-    {
-      "title": "Ukraine halts strikes on tankers using Russian port at US request: Report",
-      "link": "https://economictimes.indiatimes.com/news/defence/ukraine-halts-strikes-on-tankers-using-russian-port-at-us-request-report/articleshow/133185281.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-12T19:45:09+05:30",
-      "time": "12 Aug, 07:45 PM",
-      "type": "news",
-      "description": "Ukraine has halted drone attacks on oil tankers following a US request.  This action came after concerns about market destabilization and harm to Amer..."
-    },
-    {
-      "title": "Tata, Mahindra, HAL in race as govt floats \u20b91 lakh crore IAF tender for 60 aircraft",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tata-mahindra-hal-in-race-as-govt-floats-1-lakh-crore-iaf-tender-for-60-aircraft/133185226",
-      "source": "Economic Times",
-      "sort_key": "2026-08-12T19:36:32+05:30",
-      "time": "12 Aug, 07:36 PM",
-      "type": "news",
-      "description": "Indian companies will lead the program, with joint ventures manufacturing the planes.  Around 20% of aircraft will arrive in fly-away condition."
     }
   ],
   "tweets": [
+    {
+      "title": "Lieutenant Commander Shivam Kumar to be conferred Shaurya Chakra for repeatedly entering a burning, gas-leaking LPG tanker in the Gulf of Aden on 18 October 2025 to recover the remains of two missing Indian crew members.",
+      "link": "https://nitter.net/sidhant/status/2088275111027872202#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T20:12:39+05:30",
+      "time": "14 Aug, 08:12 PM",
+      "type": "tweets",
+      "content": "<p>Lieutenant Commander Shivam Kumar to be conferred Shaurya Chakra for repeatedly entering a burning, gas-leaking LPG tanker in the Gulf of Aden on 18 October 2025 to recover the remains of two missing Indian crew members.</p>\n<img src=\"https://nitter.net/pic/media%2FHPsLG9EbgAA2o3m.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Remember the Name | Lt Cdr Shivam Kumar, SC",
+      "link": "https://nitter.net/alpha_defense/status/2088274583258575013#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-14T20:10:33+05:30",
+      "time": "14 Aug, 08:10 PM",
+      "type": "tweets",
+      "content": "<p>Remember the Name | Lt Cdr Shivam Kumar, SC</p>\n<img src=\"https://nitter.net/pic/media%2FHPsKp0gagAAPeXr.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsKqWubIAAbxik.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Full List : https://www.mod.gov.in/sites/default/files/IDC-2026-Recipients-of-Gallantry-Awards.pdf",
+      "link": "https://nitter.net/alpha_defense/status/2088273126077661670#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-14T20:04:46+05:30",
+      "time": "14 Aug, 08:04 PM",
+      "type": "tweets",
+      "content": "<p>Full List : <a href=\"https://www.mod.gov.in/sites/default/files/IDC-2026-Recipients-of-Gallantry-Awards.pdf\">mod.gov.in/sites/default/fil\u2026</a></p>\n<img src=\"https://nitter.net/pic/media%2FHPsJVmubkAA9heB.jpg\" />\n\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>Gallantry Awards | Independence Day 2026</p>\n<img src=\"https://nitter.net/pic/media%2FHPsIBVTbEAA7Bze.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsIB4abQAEH_gu.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsICg3aoAAKzZI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsIC_Va0AAyHwF.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2088271707408847169#m\">https://nitter.net/alpha_defense/status/2088271707408847169#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "R to @alpha_defense: Image",
+      "link": "https://nitter.net/alpha_defense/status/2088271798328832510#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-14T19:59:29+05:30",
+      "time": "14 Aug, 07:59 PM",
+      "type": "tweets",
+      "content": "<img src=\"https://nitter.net/pic/media%2FHPsIH30bsAAgqpD.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsIIRHa8AAqBCd.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "R to @alpha_defense: Image",
+      "link": "https://nitter.net/alpha_defense/status/2088271779622207680#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-14T19:59:25+05:30",
+      "time": "14 Aug, 07:59 PM",
+      "type": "tweets",
+      "content": "<img src=\"https://nitter.net/pic/media%2FHPsIF0daAAA96Fy.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsIGP-agAEWGLF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsIGv5a0AA7CRa.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsIHOaa0AAKluX.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Gallantry Awards | Independence Day 2026",
+      "link": "https://nitter.net/alpha_defense/status/2088271707408847169#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-14T19:59:07+05:30",
+      "time": "14 Aug, 07:59 PM",
+      "type": "tweets",
+      "content": "<p>Gallantry Awards | Independence Day 2026</p>\n<img src=\"https://nitter.net/pic/media%2FHPsIBVTbEAA7Bze.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsIB4abQAEH_gu.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsICg3aoAAKzZI.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsIC_Va0AAyHwF.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @alpha_defense: \ud83d\udea8LCA Mk2 \u2018power on\u2019 in October, reports @alpha_defense! Here\u2019s what it looked like in model form a few years ago. Now there\u2019s a real prototype bird in a hangar in Bangalore waiting to be plugged in. Let\u2019s go! \ud83e\udd79",
+      "link": "https://nitter.net/ShivAroor/status/2088268912635097096#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-14T19:48:01+05:30",
+      "time": "14 Aug, 07:48 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8LCA Mk2 \u2018power on\u2019 in October, reports <a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a>! Here\u2019s what it looked like in model form a few years ago. Now there\u2019s a real prototype bird in a hangar in Bangalore waiting to be plugged in. Let\u2019s go! \ud83e\udd79</p>\n<img src=\"https://nitter.net/pic/media%2FHPsFgUOaIAAab6N.jpg\" />",
+      "author": "@ShivAroor"
+    },
+    {
+      "title": "Indian Army band rehearses ahead of Independence day celebrations",
+      "link": "https://nitter.net/sidhant/status/2088268515547709890#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T19:46:26+05:30",
+      "time": "14 Aug, 07:46 PM",
+      "type": "tweets",
+      "content": "<p>Indian Army band rehearses ahead of Independence day celebrations</p>\n<img src=\"https://nitter.net/pic/media%2FHPsFJQDawAACK8e.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @DefenceDecode: the acquisition will enhance the operational effectiveness of Artillery Regiments and strengthen India\u2019s domestic defence-industrial ecosystem",
+      "link": "https://nitter.net/DefenceDecode/status/2088268414523425223#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-08-14T19:46:02+05:30",
+      "time": "14 Aug, 07:46 PM",
+      "type": "tweets",
+      "content": "<p>the acquisition will enhance the operational effectiveness of Artillery Regiments and strengthen India\u2019s domestic defence-industrial ecosystem</p>",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "MoD has signed \u20b91,577 crore worth of contracts with TASL and NIBE for the procurement of Loiter Munition Systems, loitering munitions and accessories. Procured under the \u2018Buy Indian\u2019 category through the Fast Track Procedure.",
+      "link": "https://nitter.net/DefenceDecode/status/2088268122952442326#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-08-14T19:44:53+05:30",
+      "time": "14 Aug, 07:44 PM",
+      "type": "tweets",
+      "content": "<p>MoD has signed \u20b91,577 crore worth of contracts with TASL and NIBE for the procurement of Loiter Munition Systems, loitering munitions and accessories.<br />\nProcured under the \u2018Buy Indian\u2019 category through the Fast Track Procedure.</p>\n<img src=\"https://nitter.net/pic/media%2FHPsExHfbIAAKE26.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsEx-1bAAA0Hgn.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "MoD signs contracts with M/s Tata Advanced Systems Ltd (TASL) & M/s NIBE Pvt Ltd on 13 Aug 2026 for procurement of Loiter Munition Systems, Loiter Munitions & accessories for the Indian Army at an approximate cost of Rs 1,577 crore. Procured from Indian vendors under the \u2018Buy Indian\u2019 category through the Fast Track Procedure.",
+      "link": "https://nitter.net/alpha_defense/status/2088265453726789863#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-14T19:34:16+05:30",
+      "time": "14 Aug, 07:34 PM",
+      "type": "tweets",
+      "content": "<p>MoD signs contracts with M/s Tata Advanced Systems Ltd (TASL) & M/s NIBE Pvt Ltd on 13 Aug 2026 for procurement of Loiter Munition Systems, Loiter Munitions & accessories for the Indian Army at an approximate cost of Rs 1,577 crore. Procured from Indian vendors under the \u2018Buy Indian\u2019 category through the Fast Track Procedure.</p>\n<img src=\"https://nitter.net/pic/media%2FHPsCXCkbQAAo3YI.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "R to @DefenceDecode: ... in India, focused on gas-turbine technology, power and propulsion. A potentially significant development for India's long-term fighter-engine ambitions and aerospace manufacturing ecosyste",
+      "link": "https://nitter.net/DefenceDecode/status/2088264420413800870#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-08-14T19:30:10+05:30",
+      "time": "14 Aug, 07:30 PM",
+      "type": "tweets",
+      "content": "<p>... in India, focused on gas-turbine technology, power and propulsion.<br />\nA potentially significant development for India's long-term fighter-engine ambitions and aerospace manufacturing ecosyste</p>\n<img src=\"https://nitter.net/pic/media%2FHPsBaigbIAAw8JF.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "Reliance+Rolls-Royce enter the AMCA engine race. \ud83c\uddee\ud83c\uddf3\ud83c\uddec\ud83c\udde7 Reliance Industries and Rolls-Royce are exploring a partnership to develop and manufacture a sovereign indigenous combat engine for India\u2019s AMCA. The proposed partnership includes exploring a dedicated Aerospace GT complex.",
+      "link": "https://nitter.net/DefenceDecode/status/2088263838672269571#m",
+      "source": "Defense Decode",
+      "sort_key": "2026-08-14T19:27:51+05:30",
+      "time": "14 Aug, 07:27 PM",
+      "type": "tweets",
+      "content": "<p>Reliance+Rolls-Royce enter the AMCA engine race. \ud83c\uddee\ud83c\uddf3\ud83c\uddec\ud83c\udde7<br />\n<br />\nReliance Industries and Rolls-Royce are exploring a partnership to develop and manufacture a sovereign indigenous combat engine for India\u2019s AMCA.<br />\n<br />\nThe proposed partnership includes exploring a dedicated Aerospace GT complex.</p>\n<img src=\"https://nitter.net/pic/media%2FHPsA45ZbkAEl8pr.jpg\" />",
+      "author": "@DefenceDecode"
+    },
+    {
+      "title": "Delhi\ud83c\uddee\ud83c\uddf3 this evening",
+      "link": "https://nitter.net/sidhant/status/2088263502138142775#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T19:26:31+05:30",
+      "time": "14 Aug, 07:26 PM",
+      "type": "tweets",
+      "content": "<p>Delhi\ud83c\uddee\ud83c\uddf3 this evening</p>\n<img src=\"https://nitter.net/pic/media%2FHPsAhpnaMAA_0l6.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsAiQGbQAA8A_c.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsAjrNbMAAuMGb.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPsAlDkaoAEcXlA.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "\ud83d\udea8CASO was launched in the day after 3 suspected terrorists were spotted in Sudeen Village of Pouni, Reasi.",
       "link": "https://nitter.net/AngryRumi7/status/2088262135663181912#m",
@@ -615,6 +755,16 @@
       "type": "tweets",
       "content": "<p>India's foreign ministry decked up in Indian tricolor ahead of Independence day celebrations.</p>\n<img src=\"https://nitter.net/pic/media%2FHPr-5ZfacAEJAE9.jpg\" />",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT by @OsintTV: Just before 15th August, this soulful voice of Ilyaz Khan & Padma Yangchen from #Ladakh is dedicated to all the brave souls who, from the time of India\u2019s independence until today, have sacrificed themselves for the nation. They have played a vital role in the development, progress, and prosperity of our country. We salute each and every one of these brave heroes. @KirenRijiju @firefurycorps @adgpi",
+      "link": "https://nitter.net/manishindiatv/status/2088261383125410067#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-14T19:18:06+05:30",
+      "time": "14 Aug, 07:18 PM",
+      "type": "tweets",
+      "content": "<p>Just before 15th August, this soulful voice of Ilyaz Khan & Padma Yangchen from <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Ladakh\">#Ladakh</a> is dedicated to all the brave souls who, from the time of India\u2019s independence until today, have sacrificed themselves for the nation. They have played a vital role in the development, progress, and prosperity of our country. We salute each and every one of these brave heroes. <a href=\"https://nitter.net/KirenRijiju\" title=\"Kiren Rijiju\">@KirenRijiju</a> <a href=\"https://nitter.net/firefurycorps\" title=\"@firefurycorps_IA\">@firefurycorps</a> <a href=\"https://nitter.net/adgpi\" title=\"ADG PI - INDIAN ARMY\">@adgpi</a></p>\n<a href=\"https://nitter.net/manishindiatv/status/2088261383125410067#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088260887312510977%2Fimg%2FRIr12iYtV27swcER.jpg\" />\n</a>",
+      "author": "@manishindiatv"
     },
     {
       "title": "\ud83d\udea8 FLASH NEWS Reliance Industries and Rolls-Royce announce a strategic partnership to develop India\u2019s indigenous combat engine for the Advanced Medium Combat Aircraft (AMCA) programme. India\u2019s AMCA engine push gets a major boost. Via @sneheshphilip Representative pic",
@@ -877,26 +1027,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "R to @sidhant: Reporting:",
-      "link": "https://nitter.net/sidhant/status/2088213713195090271#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T16:08:41+05:30",
-      "time": "14 Aug, 04:08 PM",
-      "type": "tweets",
-      "content": "<p>Reporting:</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Iran's President Masoud Pezeshkian to attend BRICS summit in New Delhi.<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/world/iran-s-president-pezeshkian-to-attend-brics-summit-in-new-delhi-says-iranian-sources-1786703283921\">wionews.com/world/iran-s-pre\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/iran-s-president-pezeshkian-to-attend-brics-summit-in-new-delhi-says-iranian-sources-1786703283921\">\n<img src=\"https://nitter.net/pic/card_img%2F2088213535931396096%2FAt4_Sk1T%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Iran&apos;s President Masoud Pezeshkian to attend BRICS summit in New Delhi, says Iranian sources</b>\n</a>\n<p>Iran&apos;s President Masoud Pezeshkian to attend BRICS summit in New Delhi, says Iranian sources</p>\n<small><a href=\"https://www.wionews.com/world/iran-s-president-pezeshkian-to-attend-brics-summit-in-new-delhi-says-iranian-sources-1786703283921\">wionews.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2088213535717568817#m\">https://nitter.net/sidhant/status/2088213535717568817#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Iran's President Masoud Pezeshkian to attend BRICS summit in New Delhi. Reporting: https://www.wionews.com/world/iran-s-president-pezeshkian-to-attend-brics-summit-in-new-delhi-says-iranian-sources-1786703283921",
-      "link": "https://nitter.net/sidhant/status/2088213535717568817#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T16:07:58+05:30",
-      "time": "14 Aug, 04:07 PM",
-      "type": "tweets",
-      "content": "<p>Iran's President Masoud Pezeshkian to attend BRICS summit in New Delhi.<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/world/iran-s-president-pezeshkian-to-attend-brics-summit-in-new-delhi-says-iranian-sources-1786703283921\">wionews.com/world/iran-s-pre\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/iran-s-president-pezeshkian-to-attend-brics-summit-in-new-delhi-says-iranian-sources-1786703283921\">\n<img src=\"https://nitter.net/pic/card_img%2F2088213535931396096%2FAt4_Sk1T%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Iran&apos;s President Masoud Pezeshkian to attend BRICS summit in New Delhi, says Iranian sources</b>\n</a>\n<p>Iran&apos;s President Masoud Pezeshkian to attend BRICS summit in New Delhi, says Iranian sources</p>\n<small><a href=\"https://www.wionews.com/world/iran-s-president-pezeshkian-to-attend-brics-summit-in-new-delhi-says-iranian-sources-1786703283921\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
       "title": "HAL has signed agreements with Adani Defence and BEML for manufacturing fuselage structures for the LCH Prachand. Under the agreements: \u2022 BEML-48 fuselage structures \u2022 Adani Defence -42 fuselage The partnerships will expand the domestic supplier base and add mfg capacity",
       "link": "https://nitter.net/DefenceDecode/status/2088213428423065674#m",
       "source": "Defense Decode",
@@ -925,26 +1055,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\ude42</p>\n<a href=\"https://nitter.net/hvtiaf_bharat/status/2088201534870024404#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088201479136129024%2Fimg%2FMSsVjF4A8y0-BkmP.jpg\" />\n</a>",
       "author": "@hvtiaf_bharat"
-    },
-    {
-      "title": "India dispatches first batch of relief supplies to earthquake-hit Colombia. 2nd time this year India has sent aid to a country in South America, after Venezuela as Delhi widens its area of humanitarian assistance beyond its neighbourhood. Reporting: https://www.wionews.com/world/india-dispatches-first-batch-of-relief-supplies-to-earthquake-hit-colombia-1786699535574",
-      "link": "https://nitter.net/sidhant/status/2088198657623667021#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T15:08:51+05:30",
-      "time": "14 Aug, 03:08 PM",
-      "type": "tweets",
-      "content": "<p>India dispatches first batch of relief supplies to earthquake-hit Colombia. <br />\n<br />\n2nd time this year India has sent aid to a country in South America, after Venezuela as Delhi widens its area of humanitarian assistance beyond its neighbourhood. <br />\n<br />\nReporting: <br />\n<br />\n<a href=\"https://www.wionews.com/world/india-dispatches-first-batch-of-relief-supplies-to-earthquake-hit-colombia-1786699535574\">wionews.com/world/india-disp\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/india-dispatches-first-batch-of-relief-supplies-to-earthquake-hit-colombia-1786699535574\">\n<img src=\"https://nitter.net/pic/card_img%2F2088198281713401856%2FBC0JzuxW%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India dispatches first batch of relief supplies to earthquake-hit Colombia</b>\n</a>\n<p>India has sent its first tranche of relief supplies to earthquake-hit Colombia, continuing a humanitarian response that has increasingly taken its aid operations beyond the Indian Ocean region.</p>\n<small><a href=\"https://www.wionews.com/world/india-dispatches-first-batch-of-relief-supplies-to-earthquake-hit-colombia-1786699535574\">wionews.com</a></small>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT @Halat_i_Watan: First decision of #LtGenAamerRaza, Comdr National Strategic Command #CNSC is to enhance the air defence capabilities of\u2026",
-      "link": "https://nitter.net/OsintTV/status/2088198419894460807#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-14T15:07:54+05:30",
-      "time": "14 Aug, 03:07 PM",
-      "type": "tweets",
-      "content": "<p>RT <a href=\"https://nitter.net/Halat_i_Watan\" title=\"YALGAAR\">@Halat_i_Watan</a>: First decision of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LtGenAamerRaza\">#LtGenAamerRaza</a>, Comdr National Strategic Command <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CNSC\">#CNSC</a> is to enhance the air defence capabilities of\u2026</p>",
-      "author": "@OsintTV"
     },
     {
       "title": "The number of people falling for this is actually funny \ud83d\ude02",
@@ -1025,16 +1135,6 @@
       "type": "tweets",
       "content": "<p>We\u2019re Hiring: AI Video Editor \ud83c\udfac<br />\n<br />\nIf you are someone or know someone who\u2019s skilled at creating AI-based long-form videos and is interested in working on military/defence-related projects, please share their details with us.<br />\n<br />\nWe\u2019re hiring for a permanent, full-time role.<br />\n<br />\n\ud83d\udccd Location: Gurgaon, Haryana<br />\n\ud83d\udcbc Role: AI Video Editor / Long-Form Video Editor<br />\n\ud83c\udf96\ufe0f Domain: Military & Defence<br />\n<br />\nDetails: <a href=\"http://drive.google.com/file/d/1zT41ho\">drive.google.com/file/d/1zT4\u2026</a>\u2026<br />\n<br />\nPlease DM us or share this with someone who might be a good fit.</p>\n<img src=\"https://nitter.net/pic/media%2FHPqlBPvawAAXvD9.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Iran President Masoud Pezeshkian will be traveling to Delhi to attend the BRICS summit: Iran Sources",
-      "link": "https://nitter.net/sidhant/status/2088160727161074159#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T12:38:08+05:30",
-      "time": "14 Aug, 12:38 PM",
-      "type": "tweets",
-      "content": "<p>Iran President Masoud Pezeshkian will be traveling to Delhi to attend the BRICS summit: Iran Sources</p>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @OsintTV: Happy birthday #Pakistan",
@@ -1367,26 +1467,6 @@
       "author": "@LtGenDPPandey"
     },
     {
-      "title": "RT by @alpha_defense: Covered a lot of ground (sea?!!!\ud83d\ude02) in this podcast with @chakranewz @SandeepUnnithan. We spoke about the past, the present and the future of naval innovation. Do watch and let me know your views. https://m.youtube.com/watch?v=QcqdiCij-zg&pp=0gcJCWgCo7VqN5tD&ra=m @CaptDKS @tarunsingha @cdf_23 @kartha_tara @MacaulaysMonkey @Firezstarter1",
-      "link": "https://nitter.net/Arun_Golaya/status/2087723388018331926#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-13T07:40:18+05:30",
-      "time": "13 Aug, 07:40 AM",
-      "type": "tweets",
-      "content": "<p>Covered a lot of ground (sea?!!!\ud83d\ude02) in this podcast with <a href=\"https://nitter.net/chakranewz\" title=\"chakranewz\">@chakranewz</a> <a href=\"https://nitter.net/SandeepUnnithan\" title=\"Sandeep\">@SandeepUnnithan</a>. We spoke about the past, the present and the future of naval innovation. Do watch and let me know your views. <br />\n<br />\n<a href=\"https://piped.video/watch?v=QcqdiCij-zg&amp;pp=0gcJCWgCo7VqN5tD&amp;ra=m\">piped.video/watch?v=QcqdiC\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/CaptDKS\" title=\"Captain DK Sharma\">@CaptDKS</a> <a href=\"https://nitter.net/tarunsingha\" title=\"Gp Capt Tarun Singha, VSM &amp; Bar (Retd)\">@tarunsingha</a> <a href=\"https://nitter.net/cdf_23\" title=\"Chakra Dialogues Foundation\">@cdf_23</a> <a href=\"https://nitter.net/kartha_tara\" title=\"Tara\">@kartha_tara</a> <a href=\"https://nitter.net/MacaulaysMonkey\" title=\"Atmanirbharta Bhakt\">@MacaulaysMonkey</a> <a href=\"https://nitter.net/Firezstarter1\" title=\"Firestarter\">@Firezstarter1</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/watch?v=QcqdiCij-zg&amp;pp=0gcJCWgCo7VqN5tD&amp;ra=m\">\n<img src=\"https://nitter.net/pic/card_img%2F2087592019912974336%2Fhw7_cWNV%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>The Navy Is Rethinking How Wars Are Fought | The Sandeep Unnithan Show Feat. Cdre Arun Golaya (R)</b>\n</a>\n<p>Why is the Indian Navy ahead of the other services when it comes to...</p>\n<small><a href=\"https://piped.video/watch?v=QcqdiCij-zg&amp;pp=0gcJCWgCo7VqN5tD&amp;ra=m\">youtube.com</a></small>",
-      "author": "@Arun_Golaya"
-    },
-    {
-      "title": "R to @OsintTV: Video Date : 12-08-2026 Venue : All party meeting Location: Islamabad",
-      "link": "https://nitter.net/OsintTV/status/2087605919806890474#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-12T23:53:31+05:30",
-      "time": "12 Aug, 11:53 PM",
-      "type": "tweets",
-      "content": "<p>Video Date : 12-08-2026<br />\nVenue : All party meeting <br />\nLocation: Islamabad</p>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "RT by @alpha_defense: We are training state of the art Military object detection models for http://miar.reachdefence.com, while ingesting popular data sources is nearly complete, we're looking to collaborate with partners who can supply TB scale data for the below spec. Required Image Characteristics - Format: orthorectified GeoTIFF or COG. - Bands: 8-bit pansharpened RGB. - Native GSD: <= 1.0 m; ideally 0.3\u20130.5 m. - Cloud cover: <= 20%; ideally below 5%. - Off-nadir angle: ideally <= 30\u00b0. - Coverage: apron, shelters, taxiways, and parked aircraft, not a tightly cropped single aircraft. - Aircraft: preferably at least 5 clearly visible aircraft. - Georeferencing: valid CRS and raster transform embedded in the GeoTIFF. - Temporal pairs: same installation and overlapping footprint, preferably months apart. Sneak peek into what's cooking right now, if you're interested to contribute , DM.",
       "link": "https://nitter.net/rv_srivatsa/status/2087596163650478576#m",
       "source": "Alpha Defense",
@@ -1397,16 +1477,6 @@
       "author": "@rv_srivatsa"
     },
     {
-      "title": "\ud83d\udea8 EXPOSED: \u201cI AM A FOLLOWER OF HAFIZ SAEED SAAB\u201d: PTI LEADER SHEIKH RASHEED\u2019S SHOCKING ADMISSION Former Pakistani minister and Imran Khan ally Sheikh Rasheed openly declared himself a \u201cfollower and servant\u201d of Hafiz Saeed. He claimed he was kicked out of the US because Hafiz Saeed\u2019s phone number was found on his phone. Then came a series of threats against India. Rasheed said that if India ever turns towards Pakistan, \u201cwe will crush and obliterate it.\u201d He further threatened that no bird would chirp in India, no bells would ring at Birla Mandir, and no work would take place in India that goes against Pakistan. In the video Senior Lashkar leader Sandhu sitting on his right, while senior commander Sheikh Yaqoob sitting on his second left.",
-      "link": "https://nitter.net/OsintTV/status/2087590984221929685#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-12T22:54:10+05:30",
-      "time": "12 Aug, 10:54 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 EXPOSED: \u201cI AM A FOLLOWER OF HAFIZ SAEED SAAB\u201d: PTI LEADER SHEIKH RASHEED\u2019S SHOCKING ADMISSION<br />\n<br />\nFormer Pakistani minister and Imran Khan ally Sheikh Rasheed openly declared himself a \u201cfollower and servant\u201d of Hafiz Saeed.<br />\n<br />\nHe claimed he was kicked out of the US because Hafiz Saeed\u2019s phone number was found on his phone.<br />\n<br />\nThen came a series of threats against India. Rasheed said that if India ever turns towards Pakistan, \u201cwe will crush and obliterate it.\u201d He further threatened that no bird would chirp in India, no bells would ring at Birla Mandir, and no work would take place in India that goes against Pakistan.<br />\n<br />\nIn the video Senior Lashkar leader Sandhu sitting on his right, while senior commander Sheikh Yaqoob sitting on his second left.</p>\n<a href=\"https://nitter.net/OsintTV/status/2087590984221929685#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2087590689513115648%2Fimg%2F6SceaIVc07Awavbu.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
       "title": "MoD has issued a ~\u20b91 lakh cr tender for 60 Multirole Transport Aircraft. Around 80% are planned for Indian manufacture with 60%+ indigenous content, through partnerships between Indian companies, HAL and the OEM. https://aninews.in/news/national/general-news/india-issues-rs-1-lakh-crore-tender-for-60-multirole-transport-aircraft-tata-mahindra-hal-in-race20260812184137/ via @ANI",
       "link": "https://nitter.net/DefenceDecode/status/2087557266144919559#m",
       "source": "Defense Decode",
@@ -1415,26 +1485,6 @@
       "type": "tweets",
       "content": "<p>MoD has issued a ~\u20b91 lakh cr tender for 60 Multirole Transport Aircraft.<br />\nAround 80% are planned for Indian manufacture with 60%+ indigenous content, through partnerships between Indian companies, HAL and the OEM.<br />\n<a href=\"https://aninews.in/news/national/general-news/india-issues-rs-1-lakh-crore-tender-for-60-multirole-transport-aircraft-tata-mahindra-hal-in-race20260812184137/\">aninews.in/news/national/gen\u2026</a> via <a href=\"https://nitter.net/ANI\" title=\"ANI\">@ANI</a></p>\n<img src=\"https://nitter.net/pic/media%2FHPh9-V9asAAdwgY.jpg\" />",
       "author": "@DefenceDecode"
-    },
-    {
-      "title": "I think thats what Shamita meant when she said this",
-      "link": "https://nitter.net/alpha_defense/status/2087554132588790218#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-12T20:27:44+05:30",
-      "time": "12 Aug, 08:27 PM",
-      "type": "tweets",
-      "content": "<p>I think thats what Shamita meant when she said this</p>\n<img src=\"https://nitter.net/pic/media%2FHPh7ZuxasAAv-z4.jpg\" />\n\n<hr />\n<blockquote>\n<b>Abhishek Singh Chauhan\ud83c\uddee\ud83c\uddf3 (@ilyushin_76md)</b>\n<p>\n<p>CAPEX toh geyoo \ud83d\ude2d</p>\n<img src=\"https://nitter.net/pic/media%2FHPh3guAWMAAdTz8.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/ilyushin_76md/status/2087549839592599986#m\">https://nitter.net/ilyushin_76md/status/2087549839592599986#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "\ud83d\udea8West Bengal Police STF arrested one Pakistani national named Rana Rauf belonging to Pakistan's Faisalabad.",
-      "link": "https://nitter.net/Goreunit/status/2087542560579625149#m",
-      "source": "War & Gore",
-      "sort_key": "2026-08-12T19:41:45+05:30",
-      "time": "12 Aug, 07:41 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8West Bengal Police STF arrested one Pakistani national named Rana Rauf belonging to Pakistan's Faisalabad.</p>",
-      "author": "@Goreunit"
     }
   ],
   "youtube": [
@@ -1539,6 +1589,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 PM IST"
+    "last_updated": "08:24 PM IST"
   }
 }
