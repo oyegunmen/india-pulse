@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Reliance Industries, Rolls-Royce announce strategic intent to partner on indigenous AMCA combat engine",
+      "link": "https://economictimes.indiatimes.com/news/defence/reliance-industries-rolls-royce-announce-strategic-intent-to-partner-on-indigenous-amca-combat-engine/articleshow/133241434.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-14T18:07:05+05:30",
+      "time": "14 Aug, 06:07 PM",
+      "type": "news",
+      "description": "Reliance Industries and Rolls-Royce have announced their strategic intent to partner on developing an indigenous combat engine for India\u2019s AMCA progra..."
+    },
+    {
+      "title": "US partners with Boeing, RTX to boost production of SM-3 missile components amid Iran war",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-moves-to-boost-production-of-sm-3-missile-defence-components-amid-iran-war-boeing-rtx/articleshow/133241264.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-14T17:56:16+05:30",
+      "time": "14 Aug, 05:56 PM",
+      "type": "news",
+      "description": "The US Department of War is ramping up missile interceptor production in collaboration with essential partners. Contracts with Boeing and RTX are set ..."
+    },
+    {
       "title": "&#8216;What have I done?&#8217;: The moment Jinnah confronted the horrors of Partition",
       "link": "https://www.tribuneindia.com/news/pakistan/what-have-i-done-the-moment-jinnah-confronted-the-horrors-of-partition",
       "source": "The Tribune",
@@ -602,45 +620,139 @@
       "time": "12 Aug, 06:42 PM",
       "type": "news",
       "description": "Ukrainian forces conducted a significant nighttime operation targeting a major Russian naval base.  Drones and missiles struck air defenses, piers, an..."
-    },
-    {
-      "title": "F-16 aircraft crashes in training flight in Turkey, defence ministry says",
-      "link": "https://economictimes.indiatimes.com/news/defence/f-16-aircraft-crash-turkey-death-toll-in-training-flight-defence-ministry-says-istanbul/articleshow/133183318.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-12T18:21:26+05:30",
-      "time": "12 Aug, 06:21 PM",
-      "type": "news",
-      "description": "A Turkish military F-16 fighter jet crashed during a training flight in northwestern Yalova province on Wednesday, Turkey\u2019s defence ministry said. The..."
-    },
-    {
-      "title": "Hanoi: Visiting NCC delegation briefed on robust India-Vietnam defence ties",
-      "link": "https://defencemonitor.in/hanoi-visiting-ncc-delegation-briefed-on-robust-india-vietnam-defence-ties/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-08-12T18:03:23+05:30",
-      "time": "12 Aug, 06:03 PM",
-      "type": "news",
-      "description": "<p>Hanoi, Aug 12 (IANS) A 15-member delegation from the National Cadet Corps (NCC), currently on a tour of Vietnam as part of the Annual Youth Exchang..."
-    },
-    {
-      "title": "Houthis launch fresh ballistic missile attack on Yemen\u2019s Red Sea port city",
-      "link": "https://defencemonitor.in/houthis-launch-fresh-ballistic-missile-attack-on-yemens-red-sea-port-city/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-08-12T18:02:31+05:30",
-      "time": "12 Aug, 06:02 PM",
-      "type": "news",
-      "description": "<p>Sanaa, Aug 12 (IANS) Yemen&#8217;s Houthi group launched a fresh ballistic missile attack on the Red Sea port city of Mocha on Wednesday, stepping ..."
-    },
-    {
-      "title": "Mumbai Woman Dies After Motorcycle Hit By Heavy Vehicle In Chhattisgarh",
-      "link": "https://www.deccanchronicle.com/nation/mumbai-woman-dies-after-motorcycle-hit-by-heavy-vehicle-in-chhattisgarh-1978643",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-08-12T17:48:39+05:30",
-      "time": "12 Aug, 05:48 PM",
-      "type": "news",
-      "description": "24-year-old Riddhi Thakkar was touring Bastar with a group of bikers when the accident occurred on NH-30"
     }
   ],
   "tweets": [
+    {
+      "title": "India restates that it has extended invite to Bangladesh PM Rahman:",
+      "link": "https://nitter.net/sidhant/status/2088247104384962720#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T18:21:22+05:30",
+      "time": "14 Aug, 06:21 PM",
+      "type": "tweets",
+      "content": "<p>India restates that it has extended invite to Bangladesh PM Rahman:</p>\n<a href=\"https://nitter.net/sidhant/status/2088247104384962720#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088247052392448000%2Fimg%2FruJmPB3OB2p3V-pu.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "We have multifaceted ties with Russia, says MEA Spox on Russian President's comment on North Sea route; Emphasises on connectivity",
+      "link": "https://nitter.net/sidhant/status/2088246566100549811#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T18:19:13+05:30",
+      "time": "14 Aug, 06:19 PM",
+      "type": "tweets",
+      "content": "<p>We have multifaceted ties with Russia, says MEA Spox on Russian President's comment on North Sea route; Emphasises on connectivity</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Our stance remains same on Indus water Treaty says MEA on Pakistan PM's comments on the treaty",
+      "link": "https://nitter.net/sidhant/status/2088246351519707430#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T18:18:22+05:30",
+      "time": "14 Aug, 06:18 PM",
+      "type": "tweets",
+      "content": "<p>Our stance remains same on Indus water Treaty says MEA on Pakistan PM's comments on the treaty</p>\n<a href=\"https://nitter.net/sidhant/status/2088246351519707430#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088246301989466112%2Fimg%2F7SCrXPLq7Y8ixfwt.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Legislative matters are internal, MEA Spox on reports of US role in FCRA bill being sent to JCP",
+      "link": "https://nitter.net/sidhant/status/2088245789760053404#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T18:16:08+05:30",
+      "time": "14 Aug, 06:16 PM",
+      "type": "tweets",
+      "content": "<p>Legislative matters are internal, MEA Spox on reports of US role in FCRA bill being sent to JCP</p>\n<a href=\"https://nitter.net/sidhant/status/2088245789760053404#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088245737515806720%2Fimg%2FnjwVe2EGVvMbjFxD.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India points to strong ties with Afghanistan ahead of Victory Day Celebrations by Afghan Embassy in Delhi",
+      "link": "https://nitter.net/sidhant/status/2088245635334172731#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T18:15:31+05:30",
+      "time": "14 Aug, 06:15 PM",
+      "type": "tweets",
+      "content": "<p>India points to strong ties with Afghanistan ahead of Victory Day Celebrations by Afghan Embassy in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2088245635334172731#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088245576391655424%2Fimg%2F1mO1iR1XpKQ4OQmt.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "See the report, we have robust laws, MEA on US report",
+      "link": "https://nitter.net/sidhant/status/2088245194374172854#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T18:13:46+05:30",
+      "time": "14 Aug, 06:13 PM",
+      "type": "tweets",
+      "content": "<p>See the report, we have robust laws, MEA on US report</p>\n<a href=\"https://nitter.net/sidhant/status/2088245194374172854#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088245129585053696%2Fimg%2F6BUDBtM3tGru56U0.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>White House report says India helps China dodge US tariffs by shipping goods through its ports. <br />\n<br />\nPlaces it in Tier 1, along with Canada, EU, Israel, Japan, Mexico, S.Korea &amp; Taiwan</p>\n<img src=\"https://nitter.net/pic/media%2FHPqHNwwa4AAn14i.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2088130318914171160#m\">https://nitter.net/sidhant/status/2088130318914171160#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Weekly MEA Presser begins",
+      "link": "https://nitter.net/sidhant/status/2088243241720451395#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T18:06:01+05:30",
+      "time": "14 Aug, 06:06 PM",
+      "type": "tweets",
+      "content": "<p>Weekly MEA Presser begins</p>\n<img src=\"https://nitter.net/pic/media%2FHPruJ4NbIAAoovq.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "JUST IN | Reliance Industries and Rolls-Royce announce strategic intent to partner and develop India's indigenous combat engine for the Advanced Medium Combat Aircraft (AMCA) programme.",
+      "link": "https://nitter.net/alpha_defense/status/2088241093561479575#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-14T17:57:29+05:30",
+      "time": "14 Aug, 05:57 PM",
+      "type": "tweets",
+      "content": "<p>JUST IN | Reliance Industries and Rolls-Royce announce strategic intent to partner and develop India's indigenous combat engine for the Advanced Medium Combat Aircraft (AMCA) programme.</p>\n<img src=\"https://nitter.net/pic/media%2FHPrsMH1aQAAIylm.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @NetramDefence: Manipur: A Naga villager was shot dead and three others critically injured while working in paddy fields at Langka Naga village, Kangpokpi district, on Aug 14. The attackers remain unidentified.",
+      "link": "https://nitter.net/KangleipakDaily/status/2088239064080335048#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-14T17:49:25+05:30",
+      "time": "14 Aug, 05:49 PM",
+      "type": "tweets",
+      "content": "<p>Manipur: A Naga villager was shot dead and three others critically injured while working in paddy fields at Langka Naga village, Kangpokpi district, on Aug 14.<br />\n<br />\nThe attackers remain unidentified.</p>\n<img src=\"https://nitter.net/pic/media%2FHPrqW3-bIAErG81.jpg\" />",
+      "author": "@KangleipakDaily"
+    },
+    {
+      "title": "Islambad Pakistan Independence day \ud83e\udd23",
+      "link": "https://nitter.net/Goreunit/status/2088237804165968255#m",
+      "source": "War & Gore",
+      "sort_key": "2026-08-14T17:44:24+05:30",
+      "time": "14 Aug, 05:44 PM",
+      "type": "tweets",
+      "content": "<p>Islambad Pakistan <br />\n<br />\nIndependence day \ud83e\udd23</p>\n<a href=\"https://nitter.net/Goreunit/status/2088237804165968255#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088237751338737664%2Fimg%2FYzv1omdBLQruQ5Fz.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Indipendence day in Islamabad Pakistan <br />\nJahil Qaum</p>\n<a href=\"https://nitter.net/Goreunit/status/2088230252392927588#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088230200387715072%2Fimg%2FFtaVQH3BQMu8v3rP.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2088230252392927588#m\">https://nitter.net/Goreunit/status/2088230252392927588#m</a>\n</footer>\n</blockquote>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "14th August gift from JAAC leader Aman Khan to Pakistan. \"ISI and the Pakistani Army put guns in the hands of Kashmiris to fight against India\" : Amman khan",
+      "link": "https://nitter.net/OsintTV/status/2088235643037983086#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-14T17:35:49+05:30",
+      "time": "14 Aug, 05:35 PM",
+      "type": "tweets",
+      "content": "<p>14th August gift from JAAC leader Aman Khan to Pakistan.<br />\n<br />\n\"ISI and the Pakistani Army put guns in the hands of Kashmiris to fight against India\" : Amman khan</p>\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>\ud83d\udea8 Pakistan\u2019s Terror-ISI-Army Nexus Exposed Once Again at PoJK.<br />\n<br />\n\u201cIt was the ISI and the Pakistani Army that put guns in the hands of Kashmiris\u2026 You showed us the path of the gun,\" says Awami Action Committee core member Sardar Aman Khan.<br />\n<br />\nAman Khan delivered this critical testimony directly to the United Nations, foreign media, and international human rights organizations calling out the Pakistani military establishment for forcing the path of terrorism against India upon the citizens of PoJK.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoJK\">#PoJK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AwamiActionCommittee\">#AwamiActionCommittee</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SardarAmanKhan\">#SardarAmanKhan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanExposed\">#PakistanExposed</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kashmir\">#Kashmir</a></p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2088234133059436598#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088233684621234176%2Fimg%2Fq8yV6Ov4-tlRpWit.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2088234133059436598#m\">https://nitter.net/shivank_8mishra/status/2088234133059436598#m</a>\n</footer>\n</blockquote>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "RT by @OsintTV: \ud83d\udea8 Pakistan\u2019s Terror-ISI-Army Nexus Exposed Once Again at PoJK. \u201cIt was the ISI and the Pakistani Army that put guns in the hands of Kashmiris\u2026 You showed us the path of the gun,\" says Awami Action Committee core member Sardar Aman Khan. Aman Khan delivered this critical testimony directly to the United Nations, foreign media, and international human rights organizations calling out the Pakistani military establishment for forcing the path of terrorism against India upon the citizens of PoJK. #PoJK #AwamiActionCommittee #SardarAmanKhan #PakistanExposed #Kashmir",
+      "link": "https://nitter.net/shivank_8mishra/status/2088234133059436598#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-14T17:29:49+05:30",
+      "time": "14 Aug, 05:29 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8 Pakistan\u2019s Terror-ISI-Army Nexus Exposed Once Again at PoJK.<br />\n<br />\n\u201cIt was the ISI and the Pakistani Army that put guns in the hands of Kashmiris\u2026 You showed us the path of the gun,\" says Awami Action Committee core member Sardar Aman Khan.<br />\n<br />\nAman Khan delivered this critical testimony directly to the United Nations, foreign media, and international human rights organizations calling out the Pakistani military establishment for forcing the path of terrorism against India upon the citizens of PoJK.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoJK\">#PoJK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AwamiActionCommittee\">#AwamiActionCommittee</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SardarAmanKhan\">#SardarAmanKhan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanExposed\">#PakistanExposed</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kashmir\">#Kashmir</a></p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2088234133059436598#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088233684621234176%2Fimg%2Fq8yV6Ov4-tlRpWit.jpg\" />\n</a>",
+      "author": "@shivank_8mishra"
+    },
+    {
+      "title": "Shortly, weekly MEA Presser",
+      "link": "https://nitter.net/sidhant/status/2088233009422160295#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T17:25:21+05:30",
+      "time": "14 Aug, 05:25 PM",
+      "type": "tweets",
+      "content": "<p>Shortly, weekly MEA Presser</p>\n<img src=\"https://nitter.net/pic/media%2FHPrk2iqbUAA13bk.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "After Mohsin Naqvi\u2019s \u201csystem has completely collapsed\u201d remark, Pakistan\u2019s media now seems to be turning up the heat on Shehbaz Sharif\u2019s govt.... ARY News reports Pakistan\u2019s debt surged 74.86%, from Rs 47.832 trillion in June 2022 to Rs 83.642 trillion by June 2026. BOL News flags a $2.2 billion trade deficit in June 2026, up 62.4% year on year, with imports hitting $4.8 billion. Two reports and plenty of red flags. What is happening?. Is the establishment sending signals or applying pressure? \ud83e\udd14",
       "link": "https://nitter.net/OsintTV/status/2088231857305387225#m",
@@ -912,56 +1024,6 @@
       "author": "@major_madhan"
     },
     {
-      "title": "Pakistan Occupied Kashmir (PoK) Leaders directly challenges the Pakistani military and political establishment, demanding a timeframe for the withdrawal of Pakistani forces from the region.",
-      "link": "https://nitter.net/NetramDefence/status/2088158206027776414#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-14T12:28:07+05:30",
-      "time": "14 Aug, 12:28 PM",
-      "type": "tweets",
-      "content": "<p>Pakistan Occupied Kashmir (PoK) Leaders directly challenges the Pakistani military and political establishment, demanding a timeframe for the withdrawal of Pakistani forces from the region.</p>\n<a href=\"https://nitter.net/NetramDefence/status/2088158206027776414#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088158117355986944%2Fimg%2FGtvpj_d6JEU2s-uQ.jpg\" />\n</a>",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Ohio, Delaware, New Jersey extend congratulations/ proclamations ahead of India's Independence day:",
-      "link": "https://nitter.net/sidhant/status/2088157571232432500#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T12:25:35+05:30",
-      "time": "14 Aug, 12:25 PM",
-      "type": "tweets",
-      "content": "<p>Ohio, Delaware, New Jersey extend congratulations/ proclamations ahead of India's Independence day:</p>\n<img src=\"https://nitter.net/pic/media%2FHPqgGXrbQAAzL1p.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPqgGS1aQAAt4G-.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPqgGRSaUAACvo4.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Arunachal Pradesh: NSCN (K-YA) militants opened fire on an Assam Rifles post at Longvi in Changlang district around 3:15 AM. Security forces retaliated, leading to a heavy exchange of fire. No casualties were reported. Combing operations are underway.",
-      "link": "https://nitter.net/NetramDefence/status/2088156796515242495#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-14T12:22:31+05:30",
-      "time": "14 Aug, 12:22 PM",
-      "type": "tweets",
-      "content": "<p>Arunachal Pradesh: NSCN (K-YA) militants opened fire on an Assam Rifles post at Longvi in Changlang district around 3:15 AM. Security forces retaliated, leading to a heavy exchange of fire. No casualties were reported. Combing operations are underway.</p>\n<img src=\"https://nitter.net/pic/media%2FHPqfhs6bkAAvRKc.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
-      "title": "Alaska Governor Mike Dunleavy extends greetings ahead of India's Independence day. Says, \"Alaska is proud to be home to vibrant Indian, Indian American community\"; lauds contribution to the American state's economy, healthcare system.",
-      "link": "https://nitter.net/sidhant/status/2088156377558687965#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T12:20:51+05:30",
-      "time": "14 Aug, 12:20 PM",
-      "type": "tweets",
-      "content": "<p>Alaska Governor Mike Dunleavy extends greetings ahead of India's Independence day. Says, \"Alaska is proud to be home to vibrant Indian, Indian American community\"; lauds contribution to the American state's economy, healthcare system.</p>\n<a href=\"https://nitter.net/sidhant/status/2088156377558687965#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088127874184458240%2Fimg%2FCdlcBVlUg8aqqlCv.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Montana Governor Greg Gianforte extends greeting ahead of India's Independence day. Says, \"we deeply appreciate the contribution of Indian Americans...\"",
-      "link": "https://nitter.net/sidhant/status/2088155874301002236#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T12:18:51+05:30",
-      "time": "14 Aug, 12:18 PM",
-      "type": "tweets",
-      "content": "<p>Montana Governor Greg Gianforte extends greeting ahead of India's Independence day. Says, \"we deeply appreciate the contribution of Indian Americans...\"</p>\n<a href=\"https://nitter.net/sidhant/status/2088155874301002236#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088108090805882880%2Fimg%2Fa-mnfFrXMIRQwHrk.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Trump administration will develop a plan to replace the EMALS electromagnetic catapult system and Advanced Weapons Elevators with traditional steam and hydraulic systems.",
       "link": "https://nitter.net/elitepredatorss/status/2088151907038822785#m",
       "source": "Elite Predators",
@@ -982,7 +1044,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Khauf ke saaye tale...",
+      "title": "RT by @OsintTV: Khauf ke saaye tale...",
       "link": "https://nitter.net/OsintTV/status/2088150620943372321#m",
       "source": "Osint TV",
       "sort_key": "2026-08-14T11:57:58+05:30",
@@ -990,36 +1052,6 @@
       "type": "tweets",
       "content": "<p>Khauf ke saaye tale...</p>\n<a href=\"https://nitter.net/OsintTV/status/2088150620943372321#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088150584830435328%2Fimg%2Fp9FXEM_Y5hpgfHM_.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "On expected lines, Pakistanis fare India unfavourably the most. But 7% of polled Pakistanis do see India favourably. From Pew Research:",
-      "link": "https://nitter.net/sidhant/status/2088150369092460568#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T11:56:58+05:30",
-      "time": "14 Aug, 11:56 AM",
-      "type": "tweets",
-      "content": "<p>On expected lines, Pakistanis fare India unfavourably the most. But 7% of polled Pakistanis do see India favourably. <br />\n<br />\nFrom Pew Research:</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>According to <a href=\"https://nitter.net/pewresearch\" title=\"Pew Research Center\">@pewresearch</a> Sri Lanka (79) has most favourable view about India globally. It is followed by countries like UK &amp; Kenya (71), Germany (63), Israel (60).</p>\n<img src=\"https://nitter.net/pic/media%2FHPphSyZbYAA1vM6.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2088089033826357601#m\">https://nitter.net/sidhant/status/2088089033826357601#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Local leaders in Pakistan occupied Jammu & Kashmir call for withdrawal of occupying Pakistan military under a \"time frame\"",
-      "link": "https://nitter.net/sidhant/status/2088149606219857968#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T11:53:56+05:30",
-      "time": "14 Aug, 11:53 AM",
-      "type": "tweets",
-      "content": "<p>Local leaders in Pakistan occupied Jammu &amp; Kashmir call for withdrawal of occupying Pakistan military under a \"time frame\"</p>\n<a href=\"https://nitter.net/sidhant/status/2088149606219857968#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088149584170418176%2Fimg%2F4cnlyM4-V3i5ELnE.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @sidhant: Caught in the Crossfire: Indian Sailors are at Risk in War-torn High Seas | Outlook India https://www.outlookindia.com/national/caught-in-the-crossfire-indian-sailors-are-at-risk-in-war-torn-high-seas?utm_source=amp&utm_medium=tw&utm_campaign=amp @Outlookindia @FSUIINDIA @FsuiManoj @AllSeafarers",
-      "link": "https://nitter.net/anishsingh21/status/2088145551141527916#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T11:37:49+05:30",
-      "time": "14 Aug, 11:37 AM",
-      "type": "tweets",
-      "content": "<p>Caught in the Crossfire: Indian Sailors are at Risk in War-torn High Seas | Outlook India <a href=\"https://www.outlookindia.com/national/caught-in-the-crossfire-indian-sailors-are-at-risk-in-war-torn-high-seas?utm_source=amp&amp;utm_medium=tw&amp;utm_campaign=amp\">outlookindia.com/national/ca\u2026</a><br />\n<br />\n<a href=\"https://nitter.net/Outlookindia\" title=\"Outlook India\">@Outlookindia</a> <a href=\"https://nitter.net/FSUIINDIA\" title=\"FSUI\">@FSUIINDIA</a> <a href=\"https://nitter.net/FsuiManoj\" title=\"Manoj Yadav l \u092e\u0928\u094b\u091c \u092f\u093e\u0926\u0935\">@FsuiManoj</a> <a href=\"https://nitter.net/AllSeafarers\" title=\"All India Seafarers Union\">@AllSeafarers</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.outlookindia.com/national/caught-in-the-crossfire-indian-sailors-are-at-risk-in-war-torn-high-seas?utm_source=amp&amp;utm_medium=tw&amp;utm_campaign=amp\">\n<img src=\"https://nitter.net/pic/card_img%2F2088145045283373056%2F9Hsvf9zN%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Caught in the Crossfire: Indian Sailors are at Risk in War-torn High Seas | Outlook India</b>\n</a>\n<p>Indian seafarers are sailing through seas of fire without help</p>\n<small><a href=\"https://www.outlookindia.com/national/caught-in-the-crossfire-indian-sailors-are-at-risk-in-war-torn-high-seas?utm_source=amp&amp;utm_medium=tw&amp;utm_campaign=amp\">outlookindia.com</a></small>",
-      "author": "@anishsingh21"
     },
     {
       "title": "The Man. The Myth. The Legend.",
@@ -1052,14 +1084,14 @@
       "author": "@Drishti_K47"
     },
     {
-      "title": "India and Bangladesh explore fresh dates for PM Rahman\u2019s Delhi visit. No dates have been locked. Reporting. https://www.wionews.com/india-news/india-bangladesh-explore-fresh-dates-for-pm-rahman-s-delhi-visit-1786685490038",
-      "link": "https://nitter.net/sidhant/status/2088140224857788473#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T11:16:40+05:30",
-      "time": "14 Aug, 11:16 AM",
+      "title": "RT by @NetramDefence: 7 personnel of @manipur_police were selected for President\u2019s Medal for Distinguished Service & Medal for Meritorious Service. - A Lokhendro Singh - IGP N Worngam - Comdts S Devi Khoisnam & W Kasar - Havildar L Lemboi Kom - Subedars I Shyamsunder Singh & B Singh Soraisham",
+      "link": "https://nitter.net/MN_Unfiltered/status/2088133840728723478#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-14T10:51:17+05:30",
+      "time": "14 Aug, 10:51 AM",
       "type": "tweets",
-      "content": "<p>India and Bangladesh explore fresh dates for PM Rahman\u2019s Delhi visit. No dates have been locked. <br />\n<br />\nReporting.<br />\n<br />\n<a href=\"https://www.wionews.com/india-news/india-bangladesh-explore-fresh-dates-for-pm-rahman-s-delhi-visit-1786685490038\">wionews.com/india-news/india\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/india-news/india-bangladesh-explore-fresh-dates-for-pm-rahman-s-delhi-visit-1786685490038\">\n<img src=\"https://nitter.net/pic/card_img%2F2088140225130455040%2FKVstZTlq%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India &amp; Bangladesh explore fresh dates for PM Rahman\u2019s Delhi visit</b>\n</a>\n<p>No final dates have been locked in so far. Officials from the two countries are looking at domestic political calendars and the need for substantive outcomes from Rahman&apos;s India visit.</p>\n<small><a href=\"https://www.wionews.com/india-news/india-bangladesh-explore-fresh-dates-for-pm-rahman-s-delhi-visit-1786685490038\">wionews.com</a></small>",
-      "author": "@sidhant"
+      "content": "<p>7 personnel of <a href=\"https://nitter.net/manipur_police\" title=\"Manipur Police\">@manipur_police</a> were selected for President\u2019s Medal for Distinguished Service &amp; Medal for Meritorious Service.<br />\n<br />\n- A Lokhendro Singh<br />\n- IGP N Worngam<br />\n- Comdts S Devi Khoisnam &amp; W Kasar<br />\n- Havildar L Lemboi Kom<br />\n- Subedars I Shyamsunder Singh &amp; B Singh Soraisham</p>\n<img src=\"https://nitter.net/pic/media%2FHPqKpwNaEAAyezi.jpg\" />",
+      "author": "@MN_Unfiltered"
     },
     {
       "title": "Pakistanis celebrating Independence Day in Pakistani style\u2026. Celebration at its peak....",
@@ -1070,26 +1102,6 @@
       "type": "tweets",
       "content": "<p>Pakistanis celebrating Independence Day in Pakistani style\u2026.<br />\n<br />\nCelebration at its peak....</p>\n<a href=\"https://nitter.net/OsintTV/status/2088132456054464719#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088132361724510209%2Fimg%2FZ6TjCsI-fswFgv2R.jpg\" />\n</a>",
       "author": "@OsintTV"
-    },
-    {
-      "title": "R to @sidhant: More:",
-      "link": "https://nitter.net/sidhant/status/2088131443818139949#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T10:41:46+05:30",
-      "time": "14 Aug, 10:41 AM",
-      "type": "tweets",
-      "content": "<p>More:</p>\n<img src=\"https://nitter.net/pic/media%2FHPqIeCxaEAAvIlf.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "White House report flags India\u2019s Pune\u2013Gujarat\u2013Chennai belt as a key hub routing Chinese pumps and compressors to dodge US tariffs. From White House report:",
-      "link": "https://nitter.net/sidhant/status/2088131258505420839#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T10:41:02+05:30",
-      "time": "14 Aug, 10:41 AM",
-      "type": "tweets",
-      "content": "<p>White House report flags India\u2019s Pune\u2013Gujarat\u2013Chennai belt as a key hub routing Chinese pumps and compressors to dodge US tariffs.<br />\n<br />\nFrom White House report:</p>\n<img src=\"https://nitter.net/pic/media%2FHPqIRVlaYAA1wqI.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>White House report says India helps China dodge US tariffs by shipping goods through its ports. <br />\n<br />\nPlaces it in Tier 1, along with Canada, EU, Israel, Japan, Mexico, S.Korea &amp; Taiwan</p>\n<img src=\"https://nitter.net/pic/media%2FHPqHNwwa4AAn14i.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2088130318914171160#m\">https://nitter.net/sidhant/status/2088130318914171160#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "MIDHANI has become the first company in India to secure Independent and International Metallic Material Laboratory (S400) approval for wide range of chemical, mechanical and metallurgical testing from GE Aerospace.",
@@ -1132,7 +1144,7 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Shehbaz Sharif: \u2018I declare each and every single drop of Pakistan\u2019s water is our red line. If India does not come to it's senses, it will be given a direct response.\u2019 Ek ek boond? \ud83d\ude02 Shehbaz sahab, the IWT has already been in abeyance for 1 year, 3 months and 22 days. Someone should tell him the warning is outdated.",
+      "title": "RT by @OsintTV: Shehbaz Sharif: \u2018I declare each and every single drop of Pakistan\u2019s water is our red line. If India does not come to it's senses, it will be given a direct response.\u2019 Ek ek boond? \ud83d\ude02 Shehbaz sahab, the IWT has already been in abeyance for 1 year, 3 months and 22 days. Someone should tell him the warning is outdated.",
       "link": "https://nitter.net/OsintTV/status/2088098296468492371#m",
       "source": "Osint TV",
       "sort_key": "2026-08-14T08:30:03+05:30",
@@ -1160,16 +1172,6 @@
       "type": "tweets",
       "content": "<p>Har Ghar Tiranga: 27 Field Ammunition Depot Plants 5,000 Saplings in Kanasar, Launches Anti-Drug Awareness Drive<br />\n<br />\nAs India prepares to celebrate its 80th Independence Day, 27 Field Ammunition Depot (27 FAD), Kanasar, under the aegis of 81 Headquarters Sub Area, organised a massive plantation and anti-drug awareness programme under the Har Ghar Tiranga campaign. Led by Colonel Poonam Sangwan, VSM, Commandant 27 FAD, the initiative saw active participation from Army personnel, families and students from Sobasar and Kanasar schools.<br />\n<br />\nAround 5,000 saplings, including Khejri, Neem, Shisham, Fig, Gulmohar, Gundi and Keshamal, were planted, with a focus on species suited to Bikaner\u2019s harsh arid climate. The programme also featured a Nasha Mukt Bharat awareness session, a \u2018Know Your Army\u2019 initiative and messages on environmental conservation, healthy living and responsible citizenship.<br />\n<br />\nEnvironmentalist Prof. Shyam Sundar Jyani, BDA Deputy Commissioner Kunal Rahar and National Research Centre on Camel Director Dr Anil Kumar Poonia also participated, highlighting the importance of protecting the environment and empowering the youth.<br />\n<br />\nThe initiative showcased a powerful combination of patriotism, environmental responsibility, youth awareness and civil-military cooperation ahead of Independence Day.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23HarGharTiranga\">#HarGharTiranga</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndependenceDay\">#IndependenceDay</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmy\">#IndianArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%2327FAD\">#27FAD</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kanasar\">#Kanasar</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Bikaner\">#Bikaner</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Rajasthan\">#Rajasthan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PlantationDrive\">#PlantationDrive</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23EnvironmentProtection\">#EnvironmentProtection</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NashaMuktBharat\">#NashaMuktBharat</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DrugFreeIndia\">#DrugFreeIndia</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23KnowYourArmy\">#KnowYourArmy</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23IndianArmyNews\">#IndianArmyNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CivilMilitaryCooperation\">#CivilMilitaryCooperation</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GreenIndia\">#GreenIndia</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23YouthAwareness\">#YouthAwareness</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NationBuilding\">#NationBuilding</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceNews\">#DefenceNews</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TINDigital\">#TINDigital</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DefenceJournalistSahil\">#DefenceJournalistSahil</a></p>\n<a href=\"https://nitter.net/DefenceSahil/status/2088011002038427754#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088010851886497792%2Fimg%2FvYQBY_Qn_EN8dnM_.jpg\" />\n</a>",
       "author": "@DefenceSahil"
-    },
-    {
-      "title": "RT by @NetramDefence: CENTCOM formally announced the establishment of Task Force Falcon Strike - the first multi-domain, multinational attack drone task force. It will employ one-way attack unmanned systems operating from air, on sea surface, and beneath the waves.",
-      "link": "https://nitter.net/Globalwatchh/status/2087984498105585781#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-14T00:57:51+05:30",
-      "time": "14 Aug, 12:57 AM",
-      "type": "tweets",
-      "content": "<p>CENTCOM formally announced the establishment of Task Force Falcon Strike - the first multi-domain, multinational attack drone task force.<br />\n<br />\nIt will employ one-way attack unmanned systems operating from air, on sea surface, and beneath the waves.</p>\n<img src=\"https://nitter.net/pic/media%2FHPoC1HcaMAAUjbZ.png\" />",
-      "author": "@Globalwatchh"
     },
     {
       "title": "RT by @NetramDefence: Iraq\u2019s state oil marketing company SOMO confirmed that Abu Dhabi\u2019s ADNOC is among the buyers of its crude, purchasing barrels inside the Persian Gulf. They move them out through Strait of Hormuz via the dark-transit shuttle tanker operations that ADNOC pioneered. - Bloomberg",
@@ -1250,6 +1252,16 @@
       "type": "tweets",
       "content": "<p>Have you noticed how he is slowly disappearing from major meetings and events?<br />\n<br />\nI checked his timeline, he is just meeting random groups and ambassadors lately.<br />\n<br />\nWhen was the last time you spotted EAM in a strategically important meeting?</p>\n<hr />\n<blockquote>\n<b>Dr. S. Jaishankar (@DrSJaishankar)</b>\n<p>\n<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23HarGharTiranga\">#HarGharTiranga</a> \ud83c\uddee\ud83c\uddf3</p>\n<img src=\"https://nitter.net/pic/media%2FHPkniPzW8AA0jgV.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/DrSJaishankar/status/2087743390368637292#m\">https://nitter.net/DrSJaishankar/status/2087743390368637292#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @NetramDefence: \ud83e\uddf5THREAD: Patriots' Day of Manipur Manipur observed Patriots\u2019 Day on 13 August 2026 to honour those executed or deported by the British after the Anglo-Manipuri War of 1891. The day commemorates the sacrifices made in defence of the kingdom. @govt_of_manipur @PMOIndia",
+      "link": "https://nitter.net/MN_Unfiltered/status/2087871996759838778#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-13T17:30:49+05:30",
+      "time": "13 Aug, 05:30 PM",
+      "type": "tweets",
+      "content": "<p>\ud83e\uddf5THREAD: Patriots' Day of Manipur<br />\n<br />\nManipur observed Patriots\u2019 Day on 13 August 2026 to honour those executed or deported by the British after the Anglo-Manipuri War of 1891.<br />\n<br />\nThe day commemorates the sacrifices made in defence of the kingdom.<br />\n<br />\n<a href=\"https://nitter.net/govt_of_manipur\" title=\"Government of Manipur\">@govt_of_manipur</a> <a href=\"https://nitter.net/PMOIndia\" title=\"PMO India\">@PMOIndia</a></p>\n<img src=\"https://nitter.net/pic/media%2FHPmXcWXa8AAYxOy.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHPmaA6XbAAAKWLQ.png\" />",
+      "author": "@MN_Unfiltered"
     },
     {
       "title": "The tank isn\u2019t dead. It just needs a robotic army around it https://theprint.in/opinion/tanks-drones-future-armoured-warfare/3012510/",
@@ -1424,6 +1436,24 @@
   ],
   "youtube": [
     {
+      "title": "India's Unsinkable Aircraft Carrier #shorts #viralshorts #indiannavy #china #indianocean",
+      "link": "https://www.youtube.com/shorts/UuLgIPHgsGw",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-14T18:13:48+05:30",
+      "time": "14 Aug, 06:13 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : 180 FCAS Order,1500Km BrahMos-II,$10Bn Destroyer Deal,42 Prachand by Adani",
+      "link": "https://www.youtube.com/watch?v=7D9bf3q1HrI",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-08-14T17:47:40+05:30",
+      "time": "14 Aug, 05:47 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/7D9bf3q1HrI/mqdefault.jpg"
+    },
+    {
       "title": "Indian Defence News : 150 Fighter Trainers Ke Liye Tejas Ya HLFT-42? IAF Ka Sabse Bada Decision!",
       "link": "https://www.youtube.com/watch?v=6JK4IHy8L7Q",
       "source": "Indian Defense News",
@@ -1503,18 +1533,9 @@
       "time": "12 Aug, 09:43 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/5eA62UiePvs/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : AMCA Radar Winner,New Agni-5 Mk2,Tejas Mk2 Night Flying,DRDO Laser Export",
-      "link": "https://www.youtube.com/watch?v=qsr0LWtJaSk",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-08-12T18:05:42+05:30",
-      "time": "12 Aug, 06:05 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/qsr0LWtJaSk/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
