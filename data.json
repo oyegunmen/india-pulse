@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "&#8216;What have I done?&#8217;: The moment Jinnah confronted the horrors of Partition",
+      "link": "https://www.tribuneindia.com/news/pakistan/what-have-i-done-the-moment-jinnah-confronted-the-horrors-of-partition",
+      "source": "The Tribune",
+      "sort_key": "2026-08-14T17:19:53+05:30",
+      "time": "14 Aug, 05:19 PM",
+      "type": "news",
+      "description": "As Partition tore through the subcontinent in 1947, millions were forced to flee across a newly drawn border amid communal violence, killings and loot..."
+    },
+    {
+      "title": "CM Omar Abdullah hits out at Pakistan over claim on J&K river waters",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/14/cm-omar-abdullah-hits-out-at-pakistan-over-claim-on-jk-river-waters",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-14T16:27:24+05:30",
+      "time": "14 Aug, 04:27 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Two UAE tankers attacked while transiting Hormuz Strait: Report",
+      "link": "https://defencemonitor.in/two-uae-tankers-attacked-while-transiting-hormuz-strait-report/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-08-14T15:59:39+05:30",
+      "time": "14 Aug, 03:59 PM",
+      "type": "news",
+      "description": "<p>Abu Dhabi, Aug 14 (IANS) Two vessels belonging to Abu Dhabi National Oil Company (ADNOC) of the United Arab Emirates (UAE) were attacked while tran..."
+    },
+    {
+      "title": "1057 personnel awarded gallantry, service medals on I-Day 2026",
+      "link": "https://defencemonitor.in/1057-personnel-awarded-gallantry-service-medals-on-i-day-2026/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-08-14T15:56:17+05:30",
+      "time": "14 Aug, 03:56 PM",
+      "type": "news",
+      "description": "<p>New Delhi, Aug 14 (IANS) A total of 1,057 personnel from Police, Fire, Home Guard and Civil Defence, and Correctional Services have been awarded Ga..."
+    },
+    {
+      "title": "NATO fighter jets shoot down drone that entered Latvian airspace",
+      "link": "https://defencemonitor.in/nato-fighter-jets-shoot-down-drone-that-entered-latvian-airspace/",
+      "source": "Defense Monitor",
+      "sort_key": "2026-08-14T15:51:13+05:30",
+      "time": "14 Aug, 03:51 PM",
+      "type": "news",
+      "description": "<p>Riga, Aug 14 (IANS) Fighter jets from the North Atlantic Treaty Organisation (NATO) Baltic Air Policing mission shot down a &#8220;foreign drone&#8..."
+    },
+    {
+      "title": "Chandigarh-born IPS officer in PM Modi\u2019s security team gets President&#8217;s Medal",
+      "link": "https://www.tribuneindia.com/news/chandigarh/chandigarh-born-ips-officer-in-pm-modis-security-team-gets-presidents-medal",
+      "source": "The Tribune",
+      "sort_key": "2026-08-14T15:40:56+05:30",
+      "time": "14 Aug, 03:40 PM",
+      "type": "news",
+      "description": "Umesh Chander Datta, IPS, presently posted as Inspector General with the elite Special Protection Group (SPG), which looks after the security of Prime..."
+    },
+    {
+      "title": "Zoya Hasan's lecture on pluralism at Delhi School called off amid security concerns",
+      "link": "https://www.newindianexpress.com/cities/delhi/2026/Aug/14/zoya-hasans-lecture-on-pluralism-at-delhi-school-called-off-amid-security-concerns",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-14T15:03:28+05:30",
+      "time": "14 Aug, 03:03 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Two UAE vessels attacked while transiting Strait of Hormuz",
       "link": "https://newsonair.gov.in/two-uae-vessels-attacked-while-transiting-strait-of-hormuz/",
       "source": "All India Radio",
@@ -64,15 +127,6 @@
       "description": "US President Donald Trump has announced tariffs of up to 100% on imports of certain larger drones and sensitive unmanned aircraft systems, citing nati..."
     },
     {
-      "title": "Pakistan PM Shehbaz Sharif warns India over Indus Waters Treaty in Independence Day address",
-      "link": "https://www.newindianexpress.com/india/2026/Aug/14/pakistan-pm-shehbaz-sharif-warns-india-over-indus-waters-treaty-in-independence-day-address",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-14T11:25:34+05:30",
-      "time": "14 Aug, 11:25 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "From Forests to Fashion: Former Gun-toting Women Maoists Walk The Ramp",
       "link": "https://www.deccanchronicle.com/southern-states/telangana/from-forests-to-fashion-former-gun-toting-women-maoists-walk-the-ramp-1979072",
       "source": "Deccan Chronicle",
@@ -80,15 +134,6 @@
       "time": "14 Aug, 11:21 AM",
       "type": "news",
       "description": "Of the nine women, seven surrendered in Hyderabad, while one each surrendered in Sukma in Chhattisgarh and Mulugu in Telangana over the last one-and-a..."
-    },
-    {
-      "title": "China's viral 'spicy strips' take a bite of global snack market",
-      "link": "https://www.newindianexpress.com/lifestyle/food/2026/Aug/14/chinas-viral-spicy-strips-take-a-bite-of-global-snack-market",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-14T11:13:35+05:30",
-      "time": "14 Aug, 11:13 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Drone killer noise: Chandigarh scientist develops new anti-drone tech that destroy aerial threats without firing a single bullet or laser beam",
@@ -593,36 +638,59 @@
       "time": "12 Aug, 05:48 PM",
       "type": "news",
       "description": "24-year-old Riddhi Thakkar was touring Bastar with a group of bikers when the accident occurred on NH-30"
-    },
-    {
-      "title": "Lockheed Martin, Verizon, Keysight, ODC and Astris AI Demonstrate Technology for Public Airspace Protection with NVIDIA Technology",
-      "link": "https://www.indiastrategic.in/lockheed-martin-verizon-keysight-odc-and-astris-ai-demonstrate-technology-for-public-airspace-protection-with-nvidia-technology/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-12T17:01:21+05:30",
-      "time": "12 Aug, 05:01 PM",
-      "type": "news",
-      "description": "<p>BETHESDA, Md., August 12, 2026. Lockheed Martin, in collaboration with Verizon, NVIDIA, Keysight Technologies, ODC and Astris AI, recently showcase..."
-    },
-    {
-      "title": "Vladimir Putin threatens retaliation for Western seizures of Russian commercial vessels",
-      "link": "https://economictimes.indiatimes.com/news/defence/vladimir-putin-threatens-retaliation-for-western-seizures-of-russian-commercial-vessels/articleshow/133180698.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-12T16:47:18+05:30",
-      "time": "12 Aug, 04:47 PM",
-      "type": "news",
-      "description": "President Putin threatened retaliation against Western seizures of Russian commercial vessels.  He described these actions as piracy and a breach of i..."
-    },
-    {
-      "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills",
-      "link": "https://economictimes.indiatimes.com/news/defence/north-korea-launches-another-missile-toward-sea-ahead-of-us-south-korean-military-drills/articleshow/133179896.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-12T16:22:39+05:30",
-      "time": "12 Aug, 04:22 PM",
-      "type": "news",
-      "description": "North Korea has executed a second ballistic missile launch within the week, escalating tensions in the region ahead of the upcoming South Korea-US mil..."
     }
   ],
   "tweets": [
+    {
+      "title": "After Mohsin Naqvi\u2019s \u201csystem has completely collapsed\u201d remark, Pakistan\u2019s media now seems to be turning up the heat on Shehbaz Sharif\u2019s govt.... ARY News reports Pakistan\u2019s debt surged 74.86%, from Rs 47.832 trillion in June 2022 to Rs 83.642 trillion by June 2026. BOL News flags a $2.2 billion trade deficit in June 2026, up 62.4% year on year, with imports hitting $4.8 billion. Two reports and plenty of red flags. What is happening?. Is the establishment sending signals or applying pressure? \ud83e\udd14",
+      "link": "https://nitter.net/OsintTV/status/2088231857305387225#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-14T17:20:46+05:30",
+      "time": "14 Aug, 05:20 PM",
+      "type": "tweets",
+      "content": "<p>After Mohsin Naqvi\u2019s \u201csystem has completely collapsed\u201d remark, Pakistan\u2019s media now seems to be turning up the heat on Shehbaz Sharif\u2019s govt....<br />\n<br />\nARY News reports Pakistan\u2019s debt surged 74.86%, from Rs 47.832 trillion in June 2022 to Rs 83.642 trillion by June 2026.<br />\n<br />\nBOL News flags a $2.2 billion trade deficit in June 2026, up 62.4% year on year, with imports hitting $4.8 billion.<br />\n<br />\nTwo reports and plenty of red flags.<br />\n<br />\nWhat is happening?. Is the establishment sending signals or applying pressure? \ud83e\udd14</p>\n<a href=\"https://nitter.net/OsintTV/status/2088231857305387225#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088231750304444417%2Fimg%2FBDhJYFJ9hZWB_VR4.jpg\" />\n</a>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Indipendence day in Islamabad Pakistan Jahil Qaum",
+      "link": "https://nitter.net/Goreunit/status/2088230252392927588#m",
+      "source": "War & Gore",
+      "sort_key": "2026-08-14T17:14:24+05:30",
+      "time": "14 Aug, 05:14 PM",
+      "type": "tweets",
+      "content": "<p>Indipendence day in Islamabad Pakistan <br />\nJahil Qaum</p>\n<a href=\"https://nitter.net/Goreunit/status/2088230252392927588#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088230200387715072%2Fimg%2FFtaVQH3BQMu8v3rP.jpg\" />\n</a>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "IRAN COULD DRAG WAR WITH US UNTIL TRUMP LEAVES OFFICE Senior IRGC adviser Mohammad Reza Naqdi said Iran could prolong its conflict with the United States until the end of Donald Trump\u2019s presidency, using attrition to impose costs and establish deterrence. Naqdi claimed Iran is producing more missiles than it launches and warned that Tehran could sustain the fight for years. He also threatened that if Iran\u2019s missiles were exhausted, US economic interests worldwide could become targets.",
+      "link": "https://nitter.net/NetramDefence/status/2088222274319270274#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-14T16:42:42+05:30",
+      "time": "14 Aug, 04:42 PM",
+      "type": "tweets",
+      "content": "<p>IRAN COULD DRAG WAR WITH US UNTIL TRUMP LEAVES OFFICE<br />\n<br />\nSenior IRGC adviser Mohammad Reza Naqdi said Iran could prolong its conflict with the United States until the end of Donald Trump\u2019s presidency, using attrition to impose costs and establish deterrence.<br />\n<br />\nNaqdi claimed Iran is producing more missiles than it launches and warned that Tehran could sustain the fight for years.<br />\n<br />\nHe also threatened that if Iran\u2019s missiles were exhausted, US economic interests worldwide could become targets.</p>\n<img src=\"https://nitter.net/pic/media%2FHPrbC6KbsAA0zPN.jpg\" />",
+      "author": "@NetramDefence"
+    },
+    {
+      "title": "India gets ready for Independence day celebrations",
+      "link": "https://nitter.net/sidhant/status/2088221788992070109#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T16:40:46+05:30",
+      "time": "14 Aug, 04:40 PM",
+      "type": "tweets",
+      "content": "<p>India gets ready for Independence day celebrations</p>\n<img src=\"https://nitter.net/pic/media%2FHPrapG6bYAAJrRY.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Top Maldives politician @abdulla_shahid expected to step down from MDP Presidency; to contest for primaries for the party's Maldives Presidency Candidacy",
+      "link": "https://nitter.net/sidhant/status/2088221208269734307#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-14T16:38:27+05:30",
+      "time": "14 Aug, 04:38 PM",
+      "type": "tweets",
+      "content": "<p>Top Maldives politician <a href=\"https://nitter.net/abdulla_shahid\" title=\"Abdulla Shahid\">@abdulla_shahid</a> expected to step down from MDP Presidency; to contest for primaries for the party's Maldives Presidency Candidacy</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "R to @sidhant: Reporting:",
       "link": "https://nitter.net/sidhant/status/2088213713195090271#m",
@@ -672,6 +740,16 @@
       "type": "tweets",
       "content": "<p>India dispatches first batch of relief supplies to earthquake-hit Colombia. <br />\n<br />\n2nd time this year India has sent aid to a country in South America, after Venezuela as Delhi widens its area of humanitarian assistance beyond its neighbourhood. <br />\n<br />\nReporting: <br />\n<br />\n<a href=\"https://www.wionews.com/world/india-dispatches-first-batch-of-relief-supplies-to-earthquake-hit-colombia-1786699535574\">wionews.com/world/india-disp\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/india-dispatches-first-batch-of-relief-supplies-to-earthquake-hit-colombia-1786699535574\">\n<img src=\"https://nitter.net/pic/card_img%2F2088198281713401856%2FBC0JzuxW%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India dispatches first batch of relief supplies to earthquake-hit Colombia</b>\n</a>\n<p>India has sent its first tranche of relief supplies to earthquake-hit Colombia, continuing a humanitarian response that has increasingly taken its aid operations beyond the Indian Ocean region.</p>\n<small><a href=\"https://www.wionews.com/world/india-dispatches-first-batch-of-relief-supplies-to-earthquake-hit-colombia-1786699535574\">wionews.com</a></small>",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT @Halat_i_Watan: First decision of #LtGenAamerRaza, Comdr National Strategic Command #CNSC is to enhance the air defence capabilities of\u2026",
+      "link": "https://nitter.net/OsintTV/status/2088198419894460807#m",
+      "source": "Osint TV",
+      "sort_key": "2026-08-14T15:07:54+05:30",
+      "time": "14 Aug, 03:07 PM",
+      "type": "tweets",
+      "content": "<p>RT <a href=\"https://nitter.net/Halat_i_Watan\" title=\"YALGAAR\">@Halat_i_Watan</a>: First decision of <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LtGenAamerRaza\">#LtGenAamerRaza</a>, Comdr National Strategic Command <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CNSC\">#CNSC</a> is to enhance the air defence capabilities of\u2026</p>",
+      "author": "@OsintTV"
     },
     {
       "title": "The number of people falling for this is actually funny \ud83d\ude02",
@@ -984,16 +1062,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "US Defense Secretary Pete Hegseth said that the United States can maintain its naval blockade of Iranian ports \"indefinitely\" by rotating naval ships in and out of the region.",
-      "link": "https://nitter.net/NetramDefence/status/2088132821483426044#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-14T10:47:14+05:30",
-      "time": "14 Aug, 10:47 AM",
-      "type": "tweets",
-      "content": "<p>US Defense Secretary Pete Hegseth said that the United States can maintain its naval blockade of Iranian ports \"indefinitely\" by rotating naval ships in and out of the region.</p>\n<img src=\"https://nitter.net/pic/media%2FHPqJrt4bIAAaF2e.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Pakistanis celebrating Independence Day in Pakistani style\u2026. Celebration at its peak....",
       "link": "https://nitter.net/OsintTV/status/2088132456054464719#m",
       "source": "Osint TV",
@@ -1021,16 +1089,6 @@
       "time": "14 Aug, 10:41 AM",
       "type": "tweets",
       "content": "<p>White House report flags India\u2019s Pune\u2013Gujarat\u2013Chennai belt as a key hub routing Chinese pumps and compressors to dodge US tariffs.<br />\n<br />\nFrom White House report:</p>\n<img src=\"https://nitter.net/pic/media%2FHPqIRVlaYAA1wqI.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>White House report says India helps China dodge US tariffs by shipping goods through its ports. <br />\n<br />\nPlaces it in Tier 1, along with Canada, EU, Israel, Japan, Mexico, S.Korea &amp; Taiwan</p>\n<img src=\"https://nitter.net/pic/media%2FHPqHNwwa4AAn14i.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2088130318914171160#m\">https://nitter.net/sidhant/status/2088130318914171160#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US Commerce\u2019s Office of Trade and Economic Analysis (OTEA) estimates that appox $67 billion in U.S.-bound goods were transshipped from China through the top hubs, Mexico, India, and Vietnam, in 2025, producing an estimated $28 billion in lost tariff revenue White House Report:",
-      "link": "https://nitter.net/sidhant/status/2088130799476638151#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T10:39:12+05:30",
-      "time": "14 Aug, 10:39 AM",
-      "type": "tweets",
-      "content": "<p>US Commerce\u2019s Office of Trade and Economic Analysis (OTEA) estimates that appox $67 billion in U.S.-bound goods were transshipped from China through the top hubs, Mexico, India, and Vietnam, in 2025, producing an estimated $28 billion in lost tariff revenue<br />\n<br />\nWhite House Report:</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>White House report says India helps China dodge US tariffs by shipping goods through its ports. <br />\n<br />\nPlaces it in Tier 1, along with Canada, EU, Israel, Japan, Mexico, S.Korea &amp; Taiwan</p>\n<img src=\"https://nitter.net/pic/media%2FHPqHNwwa4AAn14i.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2088130318914171160#m\">https://nitter.net/sidhant/status/2088130318914171160#m</a>\n</footer>\n</blockquote>",
       "author": "@sidhant"
     },
     {
@@ -1074,16 +1132,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "UN REPORT LINKS DELHI RED FORT BLAST TO AQIS A UN Security Council monitoring report has attributed the November 2025 blast near Delhi\u2019s Red Fort to Al-Qaeda in the Indian Subcontinent (AQIS), adding an international dimension to India\u2019s investigation. The assessment says AQIS has evolved into a decentralised network of smaller cells, with leadership based in Kabul and efforts to expand operations into Bangladesh. The report also warns of Al-Qaeda and Islamic State affiliates exploring chemical and biological threats and increasingly using cryptocurrencies for terrorist financing.",
-      "link": "https://nitter.net/NetramDefence/status/2088111971866734828#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-08-14T09:24:23+05:30",
-      "time": "14 Aug, 09:24 AM",
-      "type": "tweets",
-      "content": "<p>UN REPORT LINKS DELHI RED FORT BLAST TO AQIS<br />\n<br />\nA UN Security Council monitoring report has attributed the November 2025 blast near Delhi\u2019s Red Fort to Al-Qaeda in the Indian Subcontinent (AQIS), adding an international dimension to India\u2019s investigation.<br />\n<br />\nThe assessment says AQIS has evolved into a decentralised network of smaller cells, with leadership based in Kabul and efforts to expand operations into Bangladesh.<br />\n<br />\nThe report also warns of Al-Qaeda and Islamic State affiliates exploring chemical and biological threats and increasingly using cryptocurrencies for terrorist financing.</p>\n<img src=\"https://nitter.net/pic/media%2FHPp2swHbYAAV2Nh.jpg\" />",
-      "author": "@NetramDefence"
-    },
-    {
       "title": "Shehbaz Sharif: \u2018I declare each and every single drop of Pakistan\u2019s water is our red line. If India does not come to it's senses, it will be given a direct response.\u2019 Ek ek boond? \ud83d\ude02 Shehbaz sahab, the IWT has already been in abeyance for 1 year, 3 months and 22 days. Someone should tell him the warning is outdated.",
       "link": "https://nitter.net/OsintTV/status/2088098296468492371#m",
       "source": "Osint TV",
@@ -1121,6 +1169,16 @@
       "time": "14 Aug, 12:57 AM",
       "type": "tweets",
       "content": "<p>CENTCOM formally announced the establishment of Task Force Falcon Strike - the first multi-domain, multinational attack drone task force.<br />\n<br />\nIt will employ one-way attack unmanned systems operating from air, on sea surface, and beneath the waves.</p>\n<img src=\"https://nitter.net/pic/media%2FHPoC1HcaMAAUjbZ.png\" />",
+      "author": "@Globalwatchh"
+    },
+    {
+      "title": "RT by @NetramDefence: Iraq\u2019s state oil marketing company SOMO confirmed that Abu Dhabi\u2019s ADNOC is among the buyers of its crude, purchasing barrels inside the Persian Gulf. They move them out through Strait of Hormuz via the dark-transit shuttle tanker operations that ADNOC pioneered. - Bloomberg",
+      "link": "https://nitter.net/Globalwatchh/status/2087983247234040315#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-08-14T00:52:53+05:30",
+      "time": "14 Aug, 12:52 AM",
+      "type": "tweets",
+      "content": "<p>Iraq\u2019s state oil marketing company SOMO confirmed that Abu Dhabi\u2019s ADNOC is among the buyers of its crude, purchasing barrels inside the Persian Gulf.<br />\n<br />\nThey move them out through Strait of Hormuz via the dark-transit shuttle tanker operations that ADNOC pioneered.<br />\n<br />\n- Bloomberg</p>\n<img src=\"https://nitter.net/pic/media%2FHPoBbKpbsAAunYQ.png\" />",
       "author": "@Globalwatchh"
     },
     {
@@ -1362,29 +1420,18 @@
       "type": "tweets",
       "content": "<p>150 New Aircrafts for Indian Airforce - This is Big <br />\n<a href=\"https://alphadefense.in/2026/08/12/indias-next-fighter-trainer-just-opened-a-crowded-field/\">alphadefense.in/2026/08/12/i\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://alphadefense.in/2026/08/12/indias-next-fighter-trainer-just-opened-a-crowded-field/\">\n<img src=\"https://nitter.net/pic/card_img%2F2087530854839136256%2F_6N6L5QK%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>India&apos;s Next Fighter Trainer Just Opened a Crowded Field - AlphaDefense.in</b>\n</a>\n<p>~By Shamita Rishab Room 469 at Vayu Bhawan does not look like a battlefield. But a quiet contest for India\u2019s\u2026</p>\n<small><a href=\"https://alphadefense.in/2026/08/12/indias-next-fighter-trainer-just-opened-a-crowded-field/\">alphadefense.in</a></small>",
       "author": "@alpha_defense"
-    },
-    {
-      "title": "\ud83d\udd25",
-      "link": "https://nitter.net/alpha_defense/status/2087504172489003030#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-12T17:09:13+05:30",
-      "time": "12 Aug, 05:09 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udd25</p>\n<hr />\n<blockquote>\n<b>FIGHTER (@FighterPiloting)</b>\n<p>\n<p>the STORM is coming</p>\n<img src=\"https://nitter.net/pic/media%2FHPhKrxUbsAAiTid.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/FighterPiloting/status/2087500550619516949#m\">https://nitter.net/FighterPiloting/status/2087500550619516949#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
-      "title": "RT by @OsintTV: Many Indians are posting fake videos from Manipur as Chinese intrusion online. Many are saying \"we're better off being a Chinese state\", \"full support to Chinese\", \"Indian govt. has sold Arunachal to Chinese\"etc. and are earning. But yeah, go on, withhold my post..... \ud83d\udc4f\ud83d\udc4f\ud83e\udd73",
-      "link": "https://nitter.net/Kyangs_Thang/status/2087498568945016846#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-12T16:46:57+05:30",
-      "time": "12 Aug, 04:46 PM",
-      "type": "tweets",
-      "content": "<p>Many Indians are posting fake videos from Manipur as Chinese intrusion online.<br />\n<br />\nMany are saying \"we're better off being a Chinese state\", \"full support to Chinese\", \"Indian govt. has sold Arunachal to Chinese\"etc. and are earning.<br />\n<br />\nBut yeah, go on, withhold my post..... \ud83d\udc4f\ud83d\udc4f\ud83e\udd73</p>\n<img src=\"https://nitter.net/pic/media%2FHPhH5zhaAAEf8ds.png\" />",
-      "author": "@Kyangs_Thang"
     }
   ],
   "youtube": [
+    {
+      "title": "Indian Defence News : 150 Fighter Trainers Ke Liye Tejas Ya HLFT-42? IAF Ka Sabse Bada Decision!",
+      "link": "https://www.youtube.com/watch?v=6JK4IHy8L7Q",
+      "source": "Indian Defense News",
+      "sort_key": "2026-08-14T17:00:13+05:30",
+      "time": "14 Aug, 05:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/6JK4IHy8L7Q/mqdefault.jpg"
+    },
     {
       "title": "If China Attacks India in 2027, Who Wins the War?",
       "link": "https://www.youtube.com/watch?v=zf-h0Q6bLG8",
@@ -1468,6 +1515,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
