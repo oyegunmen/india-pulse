@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Indonesia Declares 14-Day Emergency Response Period After 7.7-Magnitude Earthquake",
+      "link": "https://newsonair.gov.in/indonesia-declares-14-day-emergency-response-after-7-7-magnitude-earthquake/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-16T17:33:11+05:30",
+      "time": "16 Aug, 05:33 PM",
+      "type": "news",
+      "description": "In Indonesia, a 14-day emergency response period was declared in East Nusa Tenggara province today after a powerful magnitude 7.7 earthquake struck of..."
+    },
+    {
       "title": "Javed Akhtar takes 'Mr 10%' dig at Pakistan President Zardari over 'tolerate Hindus' remark",
       "link": "https://www.indiatvnews.com/news/india/javed-akhtar-takes-mr-10-per-cent-dig-at-pakistan-president-zardari-over-tolerate-hindus-remark-latest-updates-2026-08-16-1051535",
       "source": "India TV",
@@ -73,8 +82,8 @@
       "description": "The licensed pistol of a passenger at the Varanasi airport went off during security screening, leaving two people injured on Sunday morning, officials..."
     },
     {
-      "title": "Licensed pistol goes off during security screening at Varanasi airport, two injured",
-      "link": "https://www.newindianexpress.com/india/2026/Aug/16/licensed-pistol-goes-off-during-security-screening-at-varanasi-airport-two-injured",
+      "title": "Licensed pistol 'accidentally discharges' during security screening at Varanasi airport, two injured",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/16/licensed-pistol-accidentally-discharges-during-security-screening-at-varanasi-airport-two-injured",
       "source": "New Indian Express",
       "sort_key": "2026-08-16T12:35:40+05:30",
       "time": "16 Aug, 12:35 PM",
@@ -260,15 +269,6 @@
       "time": "15 Aug, 08:20 PM",
       "type": "news",
       "description": "In Indonesia, the death toll has risen to 47 after a powerful 7.7 magnitude earthquake struck off the coast of Flores today. \u00a0 The earthquake was foll..."
-    },
-    {
-      "title": "Lebanon: 11 killed in Israeli air strikes in southern part",
-      "link": "https://newsonair.gov.in/lebanon-7-killed-in-israeli-air-strike-in-a-village/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-15T19:47:35+05:30",
-      "time": "15 Aug, 07:47 PM",
-      "type": "news",
-      "description": "At least eleven people were reportedly killed in Israeli airstrikes in southern Lebanon today. Lebanon&#8217;s National News Agency reported that one ..."
     },
     {
       "title": "CRPF Suicides: NHRC Sends Notice to MHA Over 19 Deaths in 5 Months",
@@ -674,27 +674,39 @@
       "time": "14 Aug, 06:53 PM",
       "type": "news",
       "description": "As part of partnership, Reliance &#38; Rolls-Royce will explore formation of dedicated Aerospace Gas Turbine Complex that will be a centre of excellen..."
-    },
-    {
-      "title": "Reliance Industries, Rolls-Royce announce strategic intent to partner on indigenous AMCA combat engine",
-      "link": "https://economictimes.indiatimes.com/news/defence/reliance-industries-rolls-royce-announce-strategic-intent-to-partner-on-indigenous-amca-combat-engine/articleshow/133241434.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-14T18:07:05+05:30",
-      "time": "14 Aug, 06:07 PM",
-      "type": "news",
-      "description": "Reliance Industries and Rolls-Royce have announced their strategic intent to partner on developing an indigenous combat engine for India\u2019s AMCA progra..."
-    },
-    {
-      "title": "US partners with Boeing, RTX to boost production of SM-3 missile components amid Iran war",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-moves-to-boost-production-of-sm-3-missile-defence-components-amid-iran-war-boeing-rtx/articleshow/133241264.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-14T17:56:16+05:30",
-      "time": "14 Aug, 05:56 PM",
-      "type": "news",
-      "description": "The US Department of War is ramping up missile interceptor production in collaboration with essential partners. Contracts with Boeing and RTX are set ..."
     }
   ],
   "tweets": [
+    {
+      "title": "\ud83d\udea8NVI NEWS: JOPHAR, RAMNAGAR, Udhampur (Jammu & Kashmir) Search op launched after forces detected movement of suspected individuals.",
+      "link": "https://nitter.net/Goreunit/status/2088962680899969437#m",
+      "source": "War & Gore",
+      "sort_key": "2026-08-16T17:44:48+05:30",
+      "time": "16 Aug, 05:44 PM",
+      "type": "tweets",
+      "content": "<p>\ud83d\udea8NVI NEWS: JOPHAR, RAMNAGAR, Udhampur (Jammu &amp; Kashmir)<br />\n<br />\nSearch op launched after forces detected movement of suspected individuals.</p>",
+      "author": "@Goreunit"
+    },
+    {
+      "title": "India's Army Chief General Dhiraj Seth in Kathmandu. India, Nepal Armies have strong linkages, with Chiefs being honorary General in each other's army.",
+      "link": "https://nitter.net/sidhant/status/2088957525265985601#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-16T17:24:19+05:30",
+      "time": "16 Aug, 05:24 PM",
+      "type": "tweets",
+      "content": "<p>India's Army Chief General Dhiraj Seth in Kathmandu. <br />\n<br />\nIndia, Nepal Armies have strong linkages, with Chiefs being honorary General in each other's army.</p>\n<img src=\"https://nitter.net/pic/media%2FHP13f6AaoAA9HhE.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "General Dhiraj Seth, Chief of the Army Staff (COAS), departed on an official visit to Nepal from 17 to 19 August 2026. The visit aims to further strengthen the close defence cooperation and military-to-military ties between India and Nep",
+      "link": "https://nitter.net/alpha_defense/status/2088957182356418746#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-16T17:22:57+05:30",
+      "time": "16 Aug, 05:22 PM",
+      "type": "tweets",
+      "content": "<p>General Dhiraj Seth, Chief of the Army Staff (COAS), departed on an official visit to Nepal from 17 to 19 August 2026. <br />\n<br />\nThe visit aims to further strengthen the close defence cooperation and military-to-military ties between India and Nep</p>",
+      "author": "@alpha_defense"
+    },
     {
       "title": "Indian Army Chief General Dhiraj Seth in Nepal; to receive the honorary rank of General of the Nepali Army",
       "link": "https://nitter.net/sidhant/status/2088955899805303001#m",
@@ -922,7 +934,7 @@
       "sort_key": "2026-08-16T04:26:31+05:30",
       "time": "16 Aug, 04:26 AM",
       "type": "tweets",
-      "content": "<p>I just watched the conversation between <a href=\"https://nitter.net/Ganeshprasad999\" title=\"Ganeshprasad\">@Ganeshprasad999</a>, <a href=\"https://nitter.net/pradip103\" title=\"Pradeep Bhandari(\u092a\u094d\u0930\u0926\u0940\u092a \u092d\u0902\u0921\u093e\u0930\u0940)\ud83c\uddee\ud83c\uddf3\">@pradip103</a>, and some Congress guy.<br />\n<br />\nI am surprised to see that Ganesh has absolutely no idea about the timeline of the events that took place just after the May 3rd NEET exams.<br />\n<br />\nHe said his team found out everything in 24 hours, so did they miss telling him what happened between 3rd May to 12th May - The Rajasthan Police SOG detained multiple middlemen, coaching centre operators, and students across Rajasthan and Maharashtra. Investigators traced the digital chain of the leaked PDF back to an MBBS student who had forwarded the questionnaire on May 1, confirming that the breach was not isolated to a single centre.<br />\n<br />\nYou guys think the investigation concludes in a day? Our police force has some kind of genie or what?<br />\n<br />\nWhen the topic was the paper leak, his core concern was that some comedian's wife put in the van who was standing in a Mumbai protest with a banner that says \"Simon come back\". The brain-dead comedian has absolutely no idea who is calling to come and what that guy has done to his countrymen.<br />\n<br />\nSecondly, Ganesh was saying I know, feel afraid of police. Buddy, your brain-dead friend Ronak's idle Simon's action killed Lala Lajpat Rai, they were doing protests as well because they were not being heard.<br />\n<br />\nLater, he accepted that he can't know about every protest, then why the hell are you being selective about it buddy?<br />\n<br />\nIf you don't know the full picture, better keep quiet and focus on moderating the debate.<br />\n<br />\nI feel <a href=\"https://nitter.net/pradip103\" title=\"Pradeep Bhandari(\u092a\u094d\u0930\u0926\u0940\u092a \u092d\u0902\u0921\u093e\u0930\u0940)\ud83c\uddee\ud83c\uddf3\">@pradip103</a> kept a light hand on these two lads.</p>\n<hr />\n<blockquote>\n<b>Viktor (@desishitposterr)</b>\n<p>\n<p>Folks, leave everything, watch this debate where <a href=\"https://nitter.net/pradip103\" title=\"Pradeep Bhandari(\u092a\u094d\u0930\u0926\u0940\u092a \u092d\u0902\u0921\u093e\u0930\u0940)\ud83c\uddee\ud83c\uddf3\">@pradip103</a> literally cooked <a href=\"https://nitter.net/anishgawande\" title=\"Anish Gawande\">@anishgawande</a> with facts &amp; data, while the other side ONLY had rhetoric.<br />\n<br />\nShare with your friends &amp; fam!<br />\n<br />\nBtw, it\u2019d be delight to see <a href=\"https://nitter.net/anishgawande\" title=\"Anish Gawande\">@anishgawande</a>\u2019s tone when NCP joins NDA \ud83d\ude0f<br />\n<a href=\"https://piped.video/0MDuF2Pn2TQ?si=ehqh4Gqa65vV0pw1\">piped.video/0MDuF2Pn2TQ?si=ehqh\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/watch?v=0MDuF2Pn2TQ\">\n<img src=\"https://nitter.net/pic/card_img%2F2088547858639388672%2FOLagB_wK%3Fformat%3Djpg%26name%3D800x320_1\" />\n<br />\n<b>12 Years of BJP: Progress or Propaganda? | India\u2019s Rise Comes at What...</b>\n</a>\n<p>\ud83d\udc49Check Odoo: https://www.odoo.com/r/lbT8\ud83d\udc49 Who would you like to s...</p>\n<small><a href=\"https://piped.video/watch?v=0MDuF2Pn2TQ\">youtube.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/desishitposterr/status/2088547944496877822#m\">https://nitter.net/desishitposterr/status/2088547944496877822#m</a>\n</footer>\n</blockquote>",
+      "content": "<p>I just watched the conversation between <a href=\"https://nitter.net/Ganeshprasad999\" title=\"Ganeshprasad\">@Ganeshprasad999</a>, <a href=\"https://nitter.net/pradip103\" title=\"Pradeep Bhandari(\u092a\u094d\u0930\u0926\u0940\u092a \u092d\u0902\u0921\u093e\u0930\u0940)\ud83c\uddee\ud83c\uddf3\">@pradip103</a>, and some Congress guy.<br />\n<br />\nI am surprised to see that Ganesh has absolutely no idea about the timeline of the events that took place just after the May 3rd NEET exams.<br />\n<br />\nHe said his team found out everything in 24 hours, so did they miss telling him what happened between 3rd May to 12th May - The Rajasthan Police SOG detained multiple middlemen, coaching centre operators, and students across Rajasthan and Maharashtra. Investigators traced the digital chain of the leaked PDF back to an MBBS student who had forwarded the questionnaire on May 1, confirming that the breach was not isolated to a single centre.<br />\n<br />\nYou guys think the investigation concludes in a day? Our police force has some kind of genie or what?<br />\n<br />\nWhen the topic was the paper leak, his core concern was that some comedian's wife put in the van who was standing in a Mumbai protest with a banner that says \"Simon come back\". The brain-dead comedian has absolutely no idea who is calling to come and what that guy has done to his countrymen.<br />\n<br />\nSecondly, Ganesh was saying I know, feel afraid of police. Buddy, your brain-dead friend Ronak's idle Simon's action killed Lala Lajpat Rai, they were doing protests as well because they were not being heard.<br />\n<br />\nLater, he accepted that he can't know about every protest, then why the hell are you being selective about it buddy?<br />\n<br />\nIf you don't know the full picture, better keep quiet and focus on moderating the debate.<br />\n<br />\nI feel <a href=\"https://nitter.net/pradip103\" title=\"Pradeep Bhandari(\u092a\u094d\u0930\u0926\u0940\u092a \u092d\u0902\u0921\u093e\u0930\u0940)\ud83c\uddee\ud83c\uddf3\">@pradip103</a> kept a light hand on these two lads.</p>\n<hr />\n<blockquote>\n<b>Viktor (@desishitposterr)</b>\n<p>\n<p>Folks, leave everything, watch this debate where <a href=\"https://nitter.net/pradip103\" title=\"Pradeep Bhandari(\u092a\u094d\u0930\u0926\u0940\u092a \u092d\u0902\u0921\u093e\u0930\u0940)\ud83c\uddee\ud83c\uddf3\">@pradip103</a> literally cooked <a href=\"https://nitter.net/anishgawande\" title=\"Anish Gawande\">@anishgawande</a> with facts &amp; data, while the other side ONLY had rhetoric.<br />\n<br />\nShare with your friends &amp; fam!<br />\n<br />\nBtw, it\u2019d be delight to see <a href=\"https://nitter.net/anishgawande\" title=\"Anish Gawande\">@anishgawande</a>\u2019s tone when NCP joins NDA \ud83d\ude0f<br />\n<a href=\"https://piped.video/0MDuF2Pn2TQ?si=ehqh4Gqa65vV0pw1\">piped.video/0MDuF2Pn2TQ?si=ehqh\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/watch?v=0MDuF2Pn2TQ\">\n<img src=\"https://nitter.net/pic/card_img%2F2088535244521492480%2FPWu1Llt5%3Fformat%3Djpg%26name%3D800x320_1\" />\n<br />\n<b>12 Years of BJP: Progress or Propaganda? | India\u2019s Rise Comes at What...</b>\n</a>\n<p>\ud83d\udc49Check Odoo: https://www.odoo.com/r/lbT8\ud83d\udc49 Who would you like to s...</p>\n<small><a href=\"https://piped.video/watch?v=0MDuF2Pn2TQ\">youtube.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/desishitposterr/status/2088547944496877822#m\">https://nitter.net/desishitposterr/status/2088547944496877822#m</a>\n</footer>\n</blockquote>",
       "author": "@elitepredatorss"
     },
     {
@@ -1406,16 +1418,6 @@
       "author": "@MikeLimaBravo12"
     },
     {
-      "title": "India\u2019s Secretary (CPV & OIA) Sripriya Ranganathan to visit Egypt, Palestine and Lebanon from 16-21 August:",
-      "link": "https://nitter.net/sidhant/status/2088513584363950326#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-15T12:00:15+05:30",
-      "time": "15 Aug, 12:00 PM",
-      "type": "tweets",
-      "content": "<p>India\u2019s Secretary (CPV &amp; OIA) Sripriya Ranganathan to visit Egypt, Palestine and Lebanon from 16-21 August:</p>\n<img src=\"https://nitter.net/pic/media%2FHPvkBpeboAEuiMV.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
       "title": "RT by @alpha_defense: Happy 80th #independenceday \ud83c\uddee\ud83c\uddf3\ud83e\uddff",
       "link": "https://nitter.net/hunt0810/status/2088513269157834984#m",
       "source": "Alpha Defense",
@@ -1514,16 +1516,6 @@
       "type": "tweets",
       "content": "<p>80th independence Day \ud83c\uddee\ud83c\uddf3</p>\n<a href=\"https://nitter.net/Goreunit/status/2088473949944562008#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088473831124152320%2Fimg%2F7l4fEZurlzafoILm.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Happy 80th Independence Day Everyone \ud83c\uddee\ud83c\uddf3!</p>\n<a href=\"https://nitter.net/Goreunit/status/2088349591322394957#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088255208354619392%2Fimg%2F3-ViPINBlUpE3K0z.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2088349591322394957#m\">https://nitter.net/Goreunit/status/2088349591322394957#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Hoping for that \ud83d\ude4f",
-      "link": "https://nitter.net/alpha_defense/status/2088472506248429807#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-15T09:17:02+05:30",
-      "time": "15 Aug, 09:17 AM",
-      "type": "tweets",
-      "content": "<p>Hoping for that \ud83d\ude4f</p>\n<hr />\n<blockquote>\n<b>Karthik Venkata (@KarthikVenkata_)</b>\n<p>\n<p>Any good news tommorow on kaveri or something?<br />\nany scoop?</p>\n<video loop=\"loop\" poster=\"https://nitter.net/pic/tweet_video_thumb%2FHPtPVX0bAAAOPiS.jpg\">\n  <source src=\"https://nitter.net/pic/video.twimg.com%2Ftweet_video%2FHPtPVX0bAAAOPiS.mp4\" type=\"video/mp4\" /></video>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/KarthikVenkata_/status/2088350110963138767#m\">https://nitter.net/KarthikVenkata_/status/2088350110963138767#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
     },
     {
       "title": "RT by @notam_in: On #IndependenceDay2026, #IndianNavy celebrates the spirit of a free India and honours the families whose strength and support stand behind every sailor. From our shores to the high seas, we stand guard for a secure and sovereign India, strengthened by the love and support of our families. #IndependenceDay2026 #80YearsOfFreedom @indiannavy @IN_HQENC @IN_WNC @IN_HQSNC",
@@ -1714,46 +1706,6 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8 FLASH NEWS <br />\n<br />\nReliance Industries and Rolls-Royce announce a strategic partnership to develop India\u2019s indigenous combat engine for the Advanced Medium Combat Aircraft (AMCA) programme.<br />\n<br />\nIndia\u2019s AMCA engine push gets a major boost.<br />\n<br />\nVia <a href=\"https://nitter.net/sneheshphilip\" title=\"Snehesh Alex Philip\">@sneheshphilip</a> <br />\nRepresentative pic</p>\n<img src=\"https://nitter.net/pic/media%2FHPr1ACdW0AEhtfg.jpg\" />",
       "author": "@OsintTV"
-    },
-    {
-      "title": "\ud83d\udea8 PAK ARMY\u2019S \u201cVICTORY\u201d MONUMENT EXPOSES JAISH CONNECTION. At the inauguration of the so called \u201cYadgar-e-Fatah\u201d drama, the Pakistan Army displayed clip of Indian BrahMos strikes hitting the Jaish-e-Mohammed facility in Bahawalpur on the monument\u2019s wall. At the inauguration of the so called \u201cYadgar-e-Fatah\u201d drama, the Pakistan Army displayed clip of Indian BrahMos strikes hitting the Jaish-e-Mohammed facility in Bahawalpur on the monument\u2019s wall. A striking admission that India hit the Jaish HQ in Bahawalpur. But the real takeaway is the Jaish connection. Pakistan Army\u2019s own \u201cvictory\u201d display has now publicly placed a Jaish-e-Mohammed facility at the centre of its military narrative.",
-      "link": "https://nitter.net/OsintTV/status/2088245907510710558#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-14T18:16:36+05:30",
-      "time": "14 Aug, 06:16 PM",
-      "type": "tweets",
-      "content": "<p>\ud83d\udea8 PAK ARMY\u2019S \u201cVICTORY\u201d MONUMENT EXPOSES JAISH CONNECTION.<br />\n<br />\n At the inauguration of the so called \u201cYadgar-e-Fatah\u201d drama, the Pakistan Army displayed clip of Indian BrahMos strikes hitting the Jaish-e-Mohammed facility in Bahawalpur on the monument\u2019s wall. <br />\n<br />\nAt the inauguration of the so called \u201cYadgar-e-Fatah\u201d drama, the Pakistan Army displayed clip of Indian BrahMos strikes hitting the Jaish-e-Mohammed facility in Bahawalpur on the monument\u2019s wall.<br />\n<br />\nA striking admission that India hit the Jaish HQ in Bahawalpur.<br />\n<br />\nBut the real takeaway is the Jaish connection. Pakistan Army\u2019s own \u201cvictory\u201d display has now publicly placed a Jaish-e-Mohammed facility at the centre of its military narrative.</p>\n<a href=\"https://nitter.net/OsintTV/status/2088245907510710558#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088245363333324800%2Fimg%2FYyo59yGSb9EGmbfw.jpg\" />\n</a>",
-      "author": "@OsintTV"
-    },
-    {
-      "title": "India points to strong ties with Afghanistan ahead of Victory Day Celebrations by Afghan Embassy in Delhi",
-      "link": "https://nitter.net/sidhant/status/2088245635334172731#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-14T18:15:31+05:30",
-      "time": "14 Aug, 06:15 PM",
-      "type": "tweets",
-      "content": "<p>India points to strong ties with Afghanistan ahead of Victory Day Celebrations by Afghan Embassy in Delhi</p>\n<a href=\"https://nitter.net/sidhant/status/2088245635334172731#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088245576391655424%2Fimg%2F1mO1iR1XpKQ4OQmt.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Islambad Pakistan Independence day \ud83e\udd23",
-      "link": "https://nitter.net/Goreunit/status/2088237804165968255#m",
-      "source": "War & Gore",
-      "sort_key": "2026-08-14T17:44:24+05:30",
-      "time": "14 Aug, 05:44 PM",
-      "type": "tweets",
-      "content": "<p>Islambad Pakistan <br />\n<br />\nIndependence day \ud83e\udd23</p>\n<a href=\"https://nitter.net/Goreunit/status/2088237804165968255#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088237751338737664%2Fimg%2FYzv1omdBLQruQ5Fz.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>War & Gore (@Goreunit)</b>\n<p>\n<p>Indipendence day in Islamabad Pakistan <br />\nJahil Qaum</p>\n<a href=\"https://nitter.net/Goreunit/status/2088230252392927588#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088230200387715072%2Fimg%2FFtaVQH3BQMu8v3rP.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Goreunit/status/2088230252392927588#m\">https://nitter.net/Goreunit/status/2088230252392927588#m</a>\n</footer>\n</blockquote>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "14th August gift from JAAC leader Aman Khan to Pakistan. \"ISI and the Pakistani Army put guns in the hands of Kashmiris to fight against India\" : Amman khan",
-      "link": "https://nitter.net/OsintTV/status/2088235643037983086#m",
-      "source": "Osint TV",
-      "sort_key": "2026-08-14T17:35:49+05:30",
-      "time": "14 Aug, 05:35 PM",
-      "type": "tweets",
-      "content": "<p>14th August gift from JAAC leader Aman Khan to Pakistan.<br />\n<br />\n\"ISI and the Pakistani Army put guns in the hands of Kashmiris to fight against India\" : Amman khan</p>\n<hr />\n<blockquote>\n<b>Shivank Mishra (@shivank_8mishra)</b>\n<p>\n<p>\ud83d\udea8 Pakistan\u2019s Terror-ISI-Army Nexus Exposed Once Again at PoJK.<br />\n<br />\n\u201cIt was the ISI and the Pakistani Army that put guns in the hands of Kashmiris\u2026 You showed us the path of the gun,\" says Awami Action Committee core member Sardar Aman Khan.<br />\n<br />\nAman Khan delivered this critical testimony directly to the United Nations, foreign media, and international human rights organizations calling out the Pakistani military establishment for forcing the path of terrorism against India upon the citizens of PoJK.<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23PoJK\">#PoJK</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AwamiActionCommittee\">#AwamiActionCommittee</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SardarAmanKhan\">#SardarAmanKhan</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23PakistanExposed\">#PakistanExposed</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Kashmir\">#Kashmir</a></p>\n<a href=\"https://nitter.net/shivank_8mishra/status/2088234133059436598#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088233684621234176%2Fimg%2Fq8yV6Ov4-tlRpWit.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/shivank_8mishra/status/2088234133059436598#m\">https://nitter.net/shivank_8mishra/status/2088234133059436598#m</a>\n</footer>\n</blockquote>",
-      "author": "@OsintTV"
     }
   ],
   "youtube": [
@@ -1810,27 +1762,9 @@
       "time": "14 Aug, 10:28 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/W_vJ4i-wHII/mqdefault.jpg"
-    },
-    {
-      "title": "India's Unsinkable Aircraft Carrier #shorts #viralshorts #indiannavy #china #indianocean",
-      "link": "https://www.youtube.com/shorts/UuLgIPHgsGw",
-      "source": "Defense Squad",
-      "sort_key": "2026-08-14T18:13:48+05:30",
-      "time": "14 Aug, 06:13 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : 180 FCAS Order,1500Km BrahMos-II,$10Bn Destroyer Deal,42 Prachand by Adani",
-      "link": "https://www.youtube.com/watch?v=7D9bf3q1HrI",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-08-14T17:47:40+05:30",
-      "time": "14 Aug, 05:47 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/7D9bf3q1HrI/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
