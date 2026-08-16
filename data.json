@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "President Murmu thanks world leaders for Independence Day greetings",
+      "link": "https://newsonair.gov.in/president-murmu-thanks-world-leaders-for-independence-day-greetings/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-16T11:45:22+05:30",
+      "time": "16 Aug, 11:45 AM",
+      "type": "news",
+      "description": "President Droupadi Murmu has thanked world leaders for congratulating India on the occasion of its 80th Independence Day. \u00a0 Thanking her Maldivian cou..."
+    },
+    {
+      "title": "PM Modi thanks Israeli President Isaac Herzog and PM Benjamin Netanyahu for Independence Day greetings",
+      "link": "https://newsonair.gov.in/pm-modi-thanks-israeli-president-isaac-herzog-and-pm-benjamin-netanyahu-for-independence-day-greetings/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-16T11:43:28+05:30",
+      "time": "16 Aug, 11:43 AM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi has thanked Israel\u2019s President Isaac Herzog and Prime Minister Benjamin Netanyahu for their wishes on India\u2019s Independenc..."
+    },
+    {
       "title": "Punjab-Haryana Khanauri border sealed as farmers begin 228-km Delhi march | Watch",
       "link": "https://www.indiatvnews.com/news/india/punjab-haryana-khanauri-border-sealed-as-farmers-begin-228-km-delhi-march-2026-08-16-1051519",
       "source": "India TV",
@@ -62,15 +80,6 @@
       "time": "16 Aug, 07:49 AM",
       "type": "news",
       "description": "US Secretary of State Marco Rubio extended congratulations to the people of India on Independence Day. In his message, Mr Rubio said that the India-US..."
-    },
-    {
-      "title": "India sets up panel on Teesta amid China\u2019s role",
-      "link": "https://www.newindianexpress.com/thesundaystandard/2026/Aug/16/india-sets-up-panel-on-teesta-amid-chinas-role",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-16T07:39:22+05:30",
-      "time": "16 Aug, 07:39 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "US CENTCOM chief concludes 10-day West Asia tour as USS Abraham Lincoln prepares to return",
@@ -289,15 +298,6 @@
       "description": "<p>By Aroonim Bhuyan New Delhi. Prime Minister Narendra Modi, in his Independence Day address from the Red Fort on August 15, called for a sweeping ch..."
     },
     {
-      "title": "World leaders extend Independence Day greetings to India",
-      "link": "https://newsonair.gov.in/world-leaders-extend-independence-day-greetings-to-india/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-15T13:50:09+05:30",
-      "time": "15 Aug, 01:50 PM",
-      "type": "news",
-      "description": "World leaders and foreign missions extended Independence Day greetings to India today, praising its democratic journey, civilisational heritage and ex..."
-    },
-    {
       "title": "RSS chief Mohan Bhagwat calls youth 'demographic dividend', urges them to shape India's future",
       "link": "https://www.indiatvnews.com/news/india/rss-chief-mohan-bhagwat-calls-youth-demographic-dividend-urges-them-to-shape-india-s-future-2026-08-15-1051452",
       "source": "India TV",
@@ -350,15 +350,6 @@
       "time": "15 Aug, 12:35 PM",
       "type": "news",
       "description": "This surge reflects a strong push towards indigenous defence production and manufacturing. The Defence Acquisition Council approved projects exceeding..."
-    },
-    {
-      "title": "Vice President C P Radhakrishnan, PM Modi extend greetings on Parsi New Year Navroz",
-      "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pm-modi-extend-greetings-on-parsi-new-year-navroz/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-15T12:28:29+05:30",
-      "time": "15 Aug, 12:28 PM",
-      "type": "news",
-      "description": "Vice President C P Radhakrishnan has extended best wishes to all the people belonging to the Parsi community on the occasion of Parsi New Year, Navroz..."
     },
     {
       "title": "I-Day: Modi wants India to be defence supplier to world; says focus on drones, anti-drones, hypersonics",
@@ -746,27 +737,19 @@
       "time": "14 Aug, 12:48 PM",
       "type": "news",
       "description": "National Security Advisor Ajit Doval stated India's tolerance is not weakness.  He discussed Operation Sindoor, which targeted terror camps after an a..."
-    },
-    {
-      "title": "Why is North Korea ramping up criticism of Japan?",
-      "link": "https://economictimes.indiatimes.com/news/defence/why-is-north-korea-ramping-up-criticism-of-japan/articleshow/133230721.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-14T11:59:04+05:30",
-      "time": "14 Aug, 11:59 AM",
-      "type": "news",
-      "description": "North Korea criticizes Japan's military expansion and its alliances with the United States and South Korea.  This rhetoric coincides with an unusual s..."
-    },
-    {
-      "title": "Trump to impose 100% tariffs on larger, sensitive drones; smaller models face 25% levy",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/trump-to-impose-100-tariffs-on-larger-sensitive-drones-smaller-models-face-25-levy/133230751",
-      "source": "Economic Times",
-      "sort_key": "2026-08-14T11:52:54+05:30",
-      "time": "14 Aug, 11:52 AM",
-      "type": "news",
-      "description": "US President Donald Trump has announced tariffs of up to 100% on imports of certain larger drones and sensitive unmanned aircraft systems, citing nati..."
     }
   ],
   "tweets": [
+    {
+      "title": "HoverIt\u2019s Divyastra Mk3 Loitering Munition, powered by DG Propulsion\u2019s indigenous Indian jet engine, has successfully completed its maiden flight. A landmark achievement for India: the first 100% IDDM jet-powered loitering munition to take flight, developed from inception to maiden flight in less than a year. A remarkable demonstration of indigenous design, propulsion and rapid defence innovation.",
+      "link": "https://nitter.net/alpha_defense/status/2088873912801354168#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-16T11:52:04+05:30",
+      "time": "16 Aug, 11:52 AM",
+      "type": "tweets",
+      "content": "<p>HoverIt\u2019s Divyastra Mk3 Loitering Munition, powered by DG Propulsion\u2019s indigenous Indian jet engine, has successfully completed its maiden flight.<br />\n<br />\nA landmark achievement for India: the first 100% IDDM jet-powered loitering munition to take flight, developed from inception to maiden flight in less than a year.<br />\n<br />\nA remarkable demonstration of indigenous design, propulsion and rapid defence innovation.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2088873912801354168#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088864725308473344%2Fimg%2Fej2SuUGtRaijFavh.jpg\" />\n</a>",
+      "author": "@alpha_defense"
+    },
     {
       "title": "Fentanyl !",
       "link": "https://nitter.net/elitepredatorss/status/2088861888323186998#m",
@@ -1638,16 +1621,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": ":)))",
-      "link": "https://nitter.net/alpha_defense/status/2088296180300280283#m",
-      "source": "Alpha Defense",
-      "sort_key": "2026-08-14T21:36:22+05:30",
-      "time": "14 Aug, 09:36 PM",
-      "type": "tweets",
-      "content": "<p>:)))</p>\n<hr />\n<blockquote>\n<b>Harsh Vardhan Thakur (@hvtiaf_bharat)</b>\n<p>\n<p>Tejas Mk 2 is amazing looking</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/hvtiaf_bharat/status/2088254659408646380#m\">https://nitter.net/hvtiaf_bharat/status/2088254659408646380#m</a>\n</footer>\n</blockquote>",
-      "author": "@alpha_defense"
-    },
-    {
       "title": "Never knew a tweet can make me emotional and extemely happy at the same time.",
       "link": "https://nitter.net/elitepredatorss/status/2088280092334264434#m",
       "source": "Elite Predators",
@@ -1826,26 +1799,6 @@
       "type": "tweets",
       "content": "<p>VDG Baldev Singh killed after an exchange of fire with another VDG member in Udhampur.</p>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "Trump administration will develop a plan to replace the EMALS electromagnetic catapult system and Advanced Weapons Elevators with traditional steam and hydraulic systems.",
-      "link": "https://nitter.net/elitepredatorss/status/2088151907038822785#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-14T12:03:05+05:30",
-      "time": "14 Aug, 12:03 PM",
-      "type": "tweets",
-      "content": "<p>Trump administration will develop a plan to replace the EMALS electromagnetic catapult system and Advanced Weapons Elevators with traditional steam and hydraulic systems.</p>\n<img src=\"https://nitter.net/pic/media%2FHPqa7j7acAA_d1N.jpg\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Americans dropped Indo from their Indo-Pacific command in the name of \"restoring legacy\" in June 2026. And just a couple of months later, the US realised the blunder and is now doing damage control. Middle East policy in shambles, Indo-Pacific policy in shambles, continuously losing footprints in Europe. And people wonder whether America is actually declining or not?",
-      "link": "https://nitter.net/elitepredatorss/status/2088151027992379789#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-14T11:59:35+05:30",
-      "time": "14 Aug, 11:59 AM",
-      "type": "tweets",
-      "content": "<p>Americans dropped Indo from their Indo-Pacific command in the name of \"restoring legacy\" in June 2026.<br />\n<br />\nAnd just a couple of months later, the US realised the blunder and is now doing damage control.<br />\n<br />\nMiddle East policy in shambles, Indo-Pacific policy in shambles, continuously losing footprints in Europe.<br />\n<br />\nAnd people wonder whether America is actually declining or not?</p>\n<hr />\n<blockquote>\n<b>Under Secretary of War Elbridge Colby (@USWPColby)</b>\n<p>\n<p>In Manila, I delivered a speech at the Stratbase Institute for Strategic and International Studies (<a href=\"https://nitter.net/StratbaseADRi\" title=\"Stratbase ADRi\">@StratbaseADRi</a>), where I laid out a clear message: America\u2019s interests are more engaged than ever in the Indo-Pacific, and we at the Department of War are concentrated on ensuring those interests are stoutly defended. <a href=\"https://www.war.gov/News/Speeches/Speech/Article/4566924/remarks-by-under-secretary-of-war-for-policy-elbridge-colby-at-the-stratbase-in/1/\">war.gov/News/Speeches/Speech\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.war.gov/News/Speeches/Speech/Article/4566924/remarks-by-under-secretary-of-war-for-policy-elbridge-colby-at-the-stratbase-in/1/\">\n<img src=\"https://nitter.net/pic/card_img%2F2085373974909730817%2FQra-cpNT%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Remarks by Under Secretary of War for Policy Elbridge Colby at the Str</b>\n</a>\n<p>Undersecretary of War for Policy Elbridge Colby delivered a speech at the Stratbase Institute in Manila, Philippines.</p>\n<small><a href=\"https://www.war.gov/News/Speeches/Speech/Article/4566924/remarks-by-under-secretary-of-war-for-policy-elbridge-colby-at-the-stratbase-in/1/\">war.gov</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/USWPColby/status/2086714499524936082#m\">https://nitter.net/USWPColby/status/2086714499524936082#m</a>\n</footer>\n</blockquote>",
-      "author": "@elitepredatorss"
     }
   ],
   "youtube": [
@@ -1932,6 +1885,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
