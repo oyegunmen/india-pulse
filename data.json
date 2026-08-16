@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
+      "link": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-11-chinese-aircraft-eight-naval-vessels-operating-near-its-territory/articleshow/133268729.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-16T06:57:02+05:30",
+      "time": "16 Aug, 06:57 AM",
+      "type": "news",
+      "description": "Taiwan detected eleven Chinese military aircraft sorties and eight naval vessels operating nearby. Seven of these aircraft crossed the Taiwan Strait m..."
+    },
+    {
       "title": "Hormuz ship attacks mount as US vows to cripple Iran economy",
       "link": "https://economictimes.indiatimes.com/news/defence/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/articleshow/133266552.cms",
       "source": "Economic Times",
@@ -773,15 +782,6 @@
       "time": "14 Aug, 07:30 AM",
       "type": "news",
       "description": "The USS George Washington is heading towards the Middle East as concerns grow.  The USS Abraham Lincoln faces an extended deployment, setting a new re..."
-    },
-    {
-      "title": "Trump to impose 100% tariffs on larger, sensitive drones; smaller models face 25% levy",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-imposes-100-tariffs-on-larger-sensitive-drones-smaller-models-face-25-levy/articleshow/133227041.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-14T07:18:05+05:30",
-      "time": "14 Aug, 07:18 AM",
-      "type": "news",
-      "description": "US President Donald Trump has announced tariffs of up to 100% on imports of certain larger drones and sensitive unmanned aircraft systems, citing nati..."
     }
   ],
   "tweets": [
@@ -1949,6 +1949,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
