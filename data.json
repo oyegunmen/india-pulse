@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Stay away from dealing with Iran over Strait of Hormuz-President Trump to Oman",
+      "link": "https://newsonair.gov.in/stay-away-from-dealing-with-iran-over-strait-of-hormuz-president-trump-to-oman/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-17T21:59:32+05:30",
+      "time": "17 Aug, 09:59 PM",
+      "type": "news",
+      "description": "US President Donald Trump today warned Oman against getting involved in a deal with Iran over control of the Strait of Hormuz, threatening to bomb it ..."
+    },
+    {
+      "title": "A bombshell nuke attack claim exposes the trap Trump faces in Iran",
+      "link": "https://economictimes.indiatimes.com/news/defence/a-bombshell-nuke-attack-claim-exposes-the-trap-trump-faces-in-iran/articleshow/133301046.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-17T21:33:55+05:30",
+      "time": "17 Aug, 09:33 PM",
+      "type": "news",
+      "description": "The US-Iran nuclear agreement deadline passed without a breakthrough, and President Trump now seeks surrender. Iran signals readiness for a prolonged ..."
+    },
+    {
       "title": "Indian diaspora in Qatar can send money to their families back home via UPI",
       "link": "https://newsonair.gov.in/indian-diaspora-in-qatar-can-send-money-to-their-families-back-home-via-upi/",
       "source": "All India Radio",
@@ -206,15 +224,6 @@
       "time": "17 Aug, 02:52 PM",
       "type": "news",
       "description": "In a conversation with ETManufacturing, Gautam Maini, Managing Director of the Engineering Business at Raymond Limited spells out the reasons that mak..."
-    },
-    {
-      "title": "Man whose licensed pistol went off &#8216;accidentally&#8217; at Varanasi airport released on bail",
-      "link": "https://www.tribuneindia.com/news/uttar-pradesh/man-whose-licensed-pistol-went-off-accidentally-at-varanasi-airport-released-on-bail",
-      "source": "The Tribune",
-      "sort_key": "2026-08-17T14:52:03+05:30",
-      "time": "17 Aug, 02:52 PM",
-      "type": "news",
-      "description": "Kamlesh Kedarnath Rai, who was detained by police after his licensed pistol went off \u201caccidentally\u201d during a security screening at the Varanasi airpor..."
     },
     {
       "title": "Nine cadres of banned insurgent groups arrested in joint operations across Manipur",
@@ -424,15 +433,6 @@
       "description": "German Shepherd recognised for bravery during operation against terrorists in Jammu and Kashmir"
     },
     {
-      "title": "Category One Hurricane Lala hits Hawaii with strong winds and torrential rain",
-      "link": "https://newsonair.gov.in/category-one-hurricane-lala-hits-hawaii-with-strong-winds-and-torrential-rain/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-16T13:52:01+05:30",
-      "time": "16 Aug, 01:52 PM",
-      "type": "news",
-      "description": "Pacific island nation of Hawaii is facing strong winds and torrential rain as Category One Hurricane Lala moves across the Big Island. Lala has maximu..."
-    },
-    {
       "title": "Kawa UAV successfully conducts maiden flight of jet-powered 'Divyastra Mk3' loitering munition",
       "link": "https://economictimes.indiatimes.com/news/defence/kawa-uav-successfully-conducts-maiden-flight-of-jet-powered-divyastra-mk3-loitering-munition/articleshow/133271643.cms",
       "source": "Economic Times",
@@ -512,18 +512,59 @@
       "time": "15 Aug, 10:27 PM",
       "type": "news",
       "description": "Iran and Oman are nearing a deal on managing Strait of Hormuz. This agreement aims to ensure safe passage through the vital waterway. The United State..."
-    },
-    {
-      "title": "C\u2019garh: Naxalism Ends Only When Maoist Ideology Is Eliminated: Sai",
-      "link": "https://www.deccanchronicle.com/nation/cgarh-naxalism-ends-only-when-maoist-ideology-is-eliminated-sai-1979466",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-08-15T21:28:15+05:30",
-      "time": "15 Aug, 09:28 PM",
-      "type": "news",
-      "description": "\u201cNaxalism has ended. Now it is time to deal with the \u2018Naxali dimag (mindset)\u2019 strongly\u201d: Chhattisgarh chief minister Vishnu Deo Sai"
     }
   ],
   "tweets": [
+    {
+      "title": "Soumendu Bagchi appointed as the next Ambassador of India to Switzerland",
+      "link": "https://nitter.net/sidhant/status/2089387461457940588#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-17T21:52:44+05:30",
+      "time": "17 Aug, 09:52 PM",
+      "type": "tweets",
+      "content": "<p>Soumendu Bagchi appointed as the next Ambassador of India to Switzerland</p>\n<img src=\"https://nitter.net/pic/media%2FHP7-0W4bgAQ8Jgu.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Ajay A. Kumar appointed as the next Ambassador of India to Iraq",
+      "link": "https://nitter.net/sidhant/status/2089387193903317151#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-17T21:51:40+05:30",
+      "time": "17 Aug, 09:51 PM",
+      "type": "tweets",
+      "content": "<p>Ajay A. Kumar appointed as the next Ambassador of India to Iraq</p>\n<img src=\"https://nitter.net/pic/media%2FHP7-k00bcAEAJuS.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "In pictures Afghan Embassy in Delhi celebrates 5th anniversary of \"Victory Day\", the exiting of US forces from Afghanistan. CdA Noor lauds strong India ties, as JS PAI Anand Prakash is the chief guest. Severals Ambs, diplomats attend the event.",
+      "link": "https://nitter.net/sidhant/status/2089386545262592083#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-17T21:49:05+05:30",
+      "time": "17 Aug, 09:49 PM",
+      "type": "tweets",
+      "content": "<p>In pictures<br />\n<br />\nAfghan Embassy in Delhi celebrates 5th anniversary of \"Victory Day\", the exiting of US forces from Afghanistan.<br />\n<br />\nCdA Noor lauds strong India ties, as JS PAI Anand Prakash is the chief guest.<br />\n<br />\nSeverals Ambs, diplomats attend the event.</p>\n<img src=\"https://nitter.net/pic/media%2FHP797D1a4AAi6AF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP7977EagAAfBba.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP798mRasAAOB37.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP799apbgAYogyo.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Afghan Embassy in Delhi decked up to celebrate the \"Victory Day\". First time ever Islamic Emirate govt of Afghanistan is celebrating the day at its Embassy in Delhi. <br />\n<br />\n<a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a></p>\n<img src=\"https://nitter.net/pic/media%2FHP7Q1QIasAAPdgH.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2089337123384262662#m\">https://nitter.net/sidhant/status/2089337123384262662#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Afghan charg\u00e9 d\u2019affaires Noor hails \u2018shared past\u2019 and stronger ties with India at first Victory Day event in Delhi. Points to stronger political trust, economic partnership bwtn the two countries. Delhi's diplomatic community present. Reporting: https://www.wionews.com/world/afghan-charg-d-affaires-noor-hails-shared-past-and-stronger-ties-with-india-at-first-victory-day-event-in-delhi-1786981904433",
+      "link": "https://nitter.net/sidhant/status/2089385177659355523#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-17T21:43:39+05:30",
+      "time": "17 Aug, 09:43 PM",
+      "type": "tweets",
+      "content": "<p>Afghan charg\u00e9 d\u2019affaires Noor hails \u2018shared past\u2019 and stronger ties with India at first Victory Day event in Delhi. Points to stronger political trust, economic partnership bwtn the two countries. Delhi's diplomatic community present.<br />\n<br />\nReporting:<br />\n<br />\n<a href=\"https://www.wionews.com/world/afghan-charg-d-affaires-noor-hails-shared-past-and-stronger-ties-with-india-at-first-victory-day-event-in-delhi-1786981904433\">wionews.com/world/afghan-cha\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://www.wionews.com/world/afghan-charg-d-affaires-noor-hails-shared-past-and-stronger-ties-with-india-at-first-victory-day-event-in-delhi-1786981904433\">\n<img src=\"https://nitter.net/pic/card_img%2F2089383750799142912%2FL6LgFLhY%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Afghan charg\u00e9 d\u2019affaires Noor hails \u2018shared past\u2019 and stronger ties with India at first Victory Day...</b>\n</a>\n<p>Afghanistan\u2019s charg\u00e9 d\u2019affaires Noor Ahmed Noor thanked Indian leadership and EAM S Jaishankar for their support in protecting and respecting the international rights of the Islamic Emirate of...</p>\n<small><a href=\"https://www.wionews.com/world/afghan-charg-d-affaires-noor-hails-shared-past-and-stronger-ties-with-india-at-first-victory-day-event-in-delhi-1786981904433\">wionews.com</a></small>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The United States welcomes the Ministry of Defense\u2019s contract with General Atomics for the lease of two MQ-9B Sea Guardian systems to the Indian Navy: US Embassy Statement",
+      "link": "https://nitter.net/sidhant/status/2089383249894347083#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-17T21:36:00+05:30",
+      "time": "17 Aug, 09:36 PM",
+      "type": "tweets",
+      "content": "<p>The United States welcomes the Ministry of Defense\u2019s contract with General Atomics for the lease of two MQ-9B Sea Guardian systems to the Indian Navy: US Embassy Statement</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>India's defence ministry signs Rs 1,943 crore deal with US firm General Atomics to lease two MQ-9B Sea Guardian drones for the Indian Navy for 30 months:</p>\n<img src=\"https://nitter.net/pic/media%2FHP6ZERlb0AAE2yb.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2089275582412677381#m\">https://nitter.net/sidhant/status/2089275582412677381#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
     {
       "title": "\"Ancient cities of Afghanistan, such as Kabul, Herat, and Kandahar, welcomed Indian traders and caravans, while Indian cities such as Delhi and Lahore benefited from the influence of Afghan scholars, poets, and Sufis\", Afghan CdA Noor at Delhi \"victory day\" celebrations",
       "link": "https://nitter.net/sidhant/status/2089374323572404562#m",
@@ -545,6 +586,16 @@
       "author": "@elitepredatorss"
     },
     {
+      "title": "The country has BTAs, but over glorified analysts\u2019ll talk about history because that makes them sound intellectual. From a technology and manufacturing perspective, you sound clueless and that\u2019s your choice.",
+      "link": "https://nitter.net/alpha_defense/status/2089371726593560994#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T20:50:12+05:30",
+      "time": "17 Aug, 08:50 PM",
+      "type": "tweets",
+      "content": "<p>The country has BTAs, but over glorified analysts\u2019ll talk about history because that makes them sound intellectual. From a technology and manufacturing perspective, you sound clueless and that\u2019s your choice.</p>\n<img src=\"https://nitter.net/pic/media%2FHP7wghTasAE7PQm.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Iran Ambassador Dr. Mohammad Fathali welcomed by Afghan CdA Noor Ahmed Noor at victory day celebrations at Afghan Embassy in Delhi",
       "link": "https://nitter.net/sidhant/status/2089369328814850330#m",
       "source": "Sidhant Sibal",
@@ -563,16 +614,6 @@
       "type": "tweets",
       "content": "<p>Afghan Embassy in Delhi plays visuals of Taliban takeover of Kabul on 15th August 2021</p>\n<a href=\"https://nitter.net/sidhant/status/2089367138696044591#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2089366482165882880%2Fimg%2FGqVZ7tILvxBbdNjl.jpg\" />\n</a>",
       "author": "@sidhant"
-    },
-    {
-      "title": "Proposal to designate ISI-backed Shahzad Bhatti as a individual terrorist under UAPA has been sent to the Ministry of Home Affairs (MHA) and is likely to be approved soon.",
-      "link": "https://nitter.net/AngryRumi7/status/2089364081581137974#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-08-17T20:19:50+05:30",
-      "time": "17 Aug, 08:19 PM",
-      "type": "tweets",
-      "content": "<p>Proposal to designate ISI-backed Shahzad Bhatti as a individual terrorist under UAPA has been sent to the Ministry of Home Affairs (MHA) and is likely to be approved soon.</p>",
-      "author": "@AngryRumi7"
     },
     {
       "title": "Countries present at Afghan Embassy hosted Victory Day Celebrations in Delhi: India Russia China Iraq Qatar UAE Palestine Niger Oman Mongolia Serbia",
@@ -615,7 +656,17 @@
       "author": "@sidhant"
     },
     {
-      "title": "Pakistan embassy in Saudi Arabia requested Pakistanis to not get involved in Begging \ud83d\ude02",
+      "title": "RT by @sidhant: #WIONDispatch | 253 arrested in a 14-state crackdown ISI-backed terror network busted @ShivanChanana and @sidhant have more",
+      "link": "https://nitter.net/WIONews/status/2089345795720196583#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-08-17T19:07:10+05:30",
+      "time": "17 Aug, 07:07 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23WIONDispatch\">#WIONDispatch</a> | 253 arrested in a 14-state crackdown<br />\n<br />\nISI-backed terror network busted<br />\n<br />\n<a href=\"https://nitter.net/ShivanChanana\" title=\"Shivan Chanana\">@ShivanChanana</a> and <a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> have more</p>\n<a href=\"https://nitter.net/WIONews/status/2089345795720196583#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2089342864665018368%2Fimg%2F-NB4wkqiYHj2QtSo.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "RT by @Goreunit: Pakistan embassy in Saudi Arabia requested Pakistanis to not get involved in Begging \ud83d\ude02",
       "link": "https://nitter.net/Goreunit/status/2089342381233492208#m",
       "source": "War & Gore",
       "sort_key": "2026-08-17T18:53:36+05:30",
@@ -653,6 +704,16 @@
       "type": "tweets",
       "content": "<p>.\ud83c\uddee\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8India's Defence Ministry signs \u20b91,943 crore deal with US firm General Atomics to lease two MQ-9B Sea Guardian drones for the Indian Navy for 30 months.</p>\n<img src=\"https://nitter.net/pic/media%2FHP7JtqTbEAAbWS2.jpg\" />",
       "author": "@Goreunit"
+    },
+    {
+      "title": "Reupping the quote I keep saying: \u201cThe life of security forces is like that of goalkeepers, only the misses are counted.\u201d Let\u2019s change the trend. Let\u2019s remember, acknowledge and celebrate the saves too. \ud83c\uddee\ud83c\uddf3",
+      "link": "https://nitter.net/alpha_defense/status/2089328559613780378#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T17:58:41+05:30",
+      "time": "17 Aug, 05:58 PM",
+      "type": "tweets",
+      "content": "<p>Reupping the quote I keep saying: \u201cThe life of security forces is like that of goalkeepers, only the misses are counted.\u201d<br />\n<br />\nLet\u2019s change the trend.<br />\n<br />\nLet\u2019s remember, acknowledge and celebrate the saves too. \ud83c\uddee\ud83c\uddf3</p>\n<hr />\n<blockquote>\n<b>Amit Shah (@AmitShah)</b>\n<p>\n<p>Modi govt destroyed the ISI-backed terror group Shahzad Bhatti Network ahead of Independence Day and thwarted its plans for subversive attacks by arresting more than 200 operatives.<br />\n<br />\nIndian security forces ripped apart the network by launching coordinated operations across different locations in 14 states upholding a brilliant example of India's zero-tolerance towards terrorism.<br />\n<br />\nSubstantial recoveries, including IEDs, grenades bearing Pakistan Ordnance Factory markings, pistols, live cartridges, and CCTV cameras used for espionage, were made from the ISI-funded group. The network was involved in several terrorist activities.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AmitShah/status/2089280063024009216#m\">https://nitter.net/AmitShah/status/2089280063024009216#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
     },
     {
       "title": "India signs contract with American Firm General Atomics Aeronautical Systems for leasing of two MQ-9B Sea Guardian for Indian Navy for 30 months. In picture:",
@@ -715,6 +776,26 @@
       "author": "@sidhant"
     },
     {
+      "title": "RT by @alpha_defense: Indian Army chief Gen Dhiraj Seth conferred honorary rank of General of the Nepali Army by Nepal\u2019s President Ram Chandra Paudel in Kathmandu.",
+      "link": "https://nitter.net/sidhant/status/2089303357555155023#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T16:18:32+05:30",
+      "time": "17 Aug, 04:18 PM",
+      "type": "tweets",
+      "content": "<p>Indian Army chief Gen Dhiraj Seth conferred honorary rank of General of the Nepali Army by Nepal\u2019s President Ram Chandra Paudel in Kathmandu.</p>\n<img src=\"https://nitter.net/pic/media%2FHP6yU_PbMAAwDhK.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Exactly the clip I was talking about. Regards John sir regards.. Good find !",
+      "link": "https://nitter.net/alpha_defense/status/2089302997155434753#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T16:17:06+05:30",
+      "time": "17 Aug, 04:17 PM",
+      "type": "tweets",
+      "content": "<p>Exactly the clip I was talking about.<br />\nRegards John sir regards..<br />\n<br />\nGood find !</p>\n<hr />\n<blockquote>\n<b>Spadex95 (@spadex950)</b>\n<p>\n<p><a href=\"https://nitter.net/harjassgambhir\" title=\"Harjass Gambhir\">@harjassgambhir</a> <a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a> <br />\nEnjoy the video :) . I have the full 10 min documentry do tell me how to send you the footage ? \ud83d\ude0f</p>\n<a href=\"https://nitter.net/spadex950/status/2089277823206990182#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2089277685566787584%2Fimg%2F7agACdNS_FkmFu8e.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/spadex950/status/2089277823206990182#m\">https://nitter.net/spadex950/status/2089277823206990182#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "MASSIVE CRACK DOWN ON PAKISTANI ISI-BACKED TERROR NETWORK Union Home Minister Amit Shah said security agencies arrested 200+ operatives linked to the Pakistan-based Shahzad Bhatti Network ahead of Independence Day. According to the government, coordinated operations across 14 states led to the recovery of IEDs, grenades bearing Pakistan Ordnance Factory markings, firearms and surveillance equipment. ThePrint, citing PTI and a government statement, reported that the network was allegedly involved in grenade, IED and petrol-bomb attacks, targeted killings and reconnaissance of police, defence and religious sites. Over 80 FIRs and 200+ arrests have been recorded against the network under UAPA and other laws. Source: ThePrint/PTI",
       "link": "https://nitter.net/NetramDefence/status/2089297785829138827#m",
       "source": "Netram Defense",
@@ -725,64 +806,14 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Indian Security agencies carried a major multi-state crackdown against the ISI-backed Shahzad Bhatti Network (SBN) ahead of Independence Day and busted its terror syndicate: Indian Govt statement",
-      "link": "https://nitter.net/sidhant/status/2089286420192285140#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-17T15:11:14+05:30",
-      "time": "17 Aug, 03:11 PM",
-      "type": "tweets",
-      "content": "<p>Indian Security agencies carried a major multi-state crackdown against the ISI-backed Shahzad Bhatti Network (SBN) ahead of Independence Day and busted its terror syndicate: Indian Govt statement</p>\n<img src=\"https://nitter.net/pic/media%2FHP6i7EHbwAAnSNt.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\ud83e\udd1d",
-      "link": "https://nitter.net/DefenceDecode/status/2089286151345729568#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-08-17T15:10:10+05:30",
-      "time": "17 Aug, 03:10 PM",
-      "type": "tweets",
-      "content": "<p>\ud83e\udd1d</p>\n<img src=\"https://nitter.net/pic/media%2FHP6ii7PakAAOl__.jpg\" />\n\n<hr />\n<blockquote>\n<b>Rajnath Singh (@rajnathsingh)</b>\n<p>\n<p>\u092d\u093e\u0930\u0924 \u0915\u0940 \u0938\u093e\u0902\u0938\u094d\u0915\u0943\u0924\u093f\u0915 \u092a\u0930\u0902\u092a\u0930\u093e \u092e\u0947\u0902 \u092a\u094d\u0930\u0915\u0943\u0924\u093f \u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u0936\u094d\u0930\u0926\u094d\u0927\u093e, \u0938\u092e\u0938\u094d\u0924 \u091c\u0940\u0935-\u091c\u0917\u0924 \u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u0915\u0930\u0941\u0923\u093e \u0914\u0930 \u0938\u0939-\u0905\u0938\u094d\u0924\u093f\u0924\u094d\u0935 \u0915\u093e \u092d\u093e\u0935 \u0938\u0926\u0948\u0935 \u0928\u093f\u0939\u093f\u0924 \u0930\u0939\u093e \u0939\u0948\u0964 \u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940 \u0907\u0938\u0940 \u0936\u093e\u0936\u094d\u0935\u0924 \u091c\u0940\u0935\u0928-\u0926\u0943\u0937\u094d\u091f\u093f \u0915\u093e \u092a\u093e\u0935\u0928 \u092a\u0930\u094d\u0935 \u0939\u0948, \u091c\u094b \u0939\u092e\u0947\u0902 \u092a\u094d\u0930\u0915\u0943\u0924\u093f \u0915\u0947 \u0938\u0902\u0930\u0915\u094d\u0937\u0923, \u092a\u0930\u094d\u092f\u093e\u0935\u0930\u0923\u0940\u092f \u0938\u0902\u0924\u0941\u0932\u0928 \u0914\u0930 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915 \u091c\u0940\u0935 \u0915\u0947 \u0938\u092e\u094d\u092e\u093e\u0928 \u0915\u093e \u0938\u0902\u0926\u0947\u0936 \u0926\u0947\u0924\u093e \u0939\u0948\u0964<br />\n<br />\n\u0928\u093e\u0917 \u092a\u0902\u091a\u092e\u0940 \u0915\u0947 \u0907\u0938 \u092a\u093e\u0935\u0928 \u0905\u0935\u0938\u0930 \u092a\u0930 \u0906\u092a \u0938\u092d\u0940 \u0915\u094b \u0939\u093e\u0930\u094d\u0926\u093f\u0915 \u092c\u0927\u093e\u0908 \u090f\u0935\u0902 \u0936\u0941\u092d\u0915\u093e\u092e\u0928\u093e\u090f\u0901\u0964</p>\n<img src=\"https://nitter.net/pic/media%2FHP4547Ab0AAeJJb.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/rajnathsingh/status/2089170935291265409#m\">https://nitter.net/rajnathsingh/status/2089170935291265409#m</a>\n</footer>\n</blockquote>",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "India arrests 253 people in 14 states in a crackdown on Pakistan based, ISI backed Shahzad Bhatti Network UP- 62 Haryana-52 Delhi-51 Punjab-44 Rajasthan-15 Maharashtra-8 Uttarakhand-5 Karnataka, Gujarat & Bihar-3 each Telangana, Himachal Pradesh, Jammu & Kashmir & Kerala-2 each",
-      "link": "https://nitter.net/sidhant/status/2089285917039288488#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-17T15:09:14+05:30",
+      "title": "RT by @notam_in: As NOTMAR Issued around Multiple Areas in Arabian Sea for possible firing exercises from (15 August-20 August) Indian Navy's INS Vikramaditya (R33) Aircraft Carrier Rolled Out from Karwar Port, Uttara Kannada for Possible deployment/exercise in Northern Arabian Sea spotted to Sentinel-2 about 12KM away from its Homeport. Image date: 16 August 2026 Geolocation: 14.73919, 74.03107 As expected.",
+      "link": "https://nitter.net/Indowatchosint/status/2089285858570698839#m",
+      "source": "Notam India",
+      "sort_key": "2026-08-17T15:09:00+05:30",
       "time": "17 Aug, 03:09 PM",
       "type": "tweets",
-      "content": "<p>India arrests 253 people in 14 states in a crackdown on Pakistan based, ISI backed Shahzad Bhatti Network<br />\n<br />\nUP- 62<br />\nHaryana-52<br />\nDelhi-51<br />\nPunjab-44<br />\nRajasthan-15<br />\nMaharashtra-8<br />\nUttarakhand-5<br />\nKarnataka, Gujarat &amp; Bihar-3 each<br />\nTelangana, Himachal Pradesh, Jammu &amp; Kashmir &amp; Kerala-2 each</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "\ud83c\uddee\ud83c\uddf3\ud83c\uddf9\ud83c\udded MAITREE-XV 2026 begins The Indian Army contingent has departed for Thailand, for 15th India-Thailand Joint Military Exercise, scheduled frm 18\u201331 August at Surat Thani. With 85 personnel from each side,exercise will focus on joint CI/CT ops in jungle and semi-urban terrain.",
-      "link": "https://nitter.net/DefenceDecode/status/2089284043531805152#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-08-17T15:01:47+05:30",
-      "time": "17 Aug, 03:01 PM",
-      "type": "tweets",
-      "content": "<p>\ud83c\uddee\ud83c\uddf3\ud83c\uddf9\ud83c\udded MAITREE-XV 2026 begins<br />\nThe Indian Army contingent has departed for Thailand, for 15th India-Thailand Joint Military Exercise, scheduled frm 18\u201331 August at Surat Thani.<br />\n<br />\nWith 85 personnel from each side,exercise will focus on joint CI/CT ops in jungle and semi-urban terrain.</p>\n<img src=\"https://nitter.net/pic/media%2FHP6gVSsbMAAPoHT.jpg\" />",
-      "author": "@DefenceDecode"
-    },
-    {
-      "title": "Breaking: India arrests over 200 operatives in multi-state crackdown on ISI-linked Shahzad Bhatti terror network; recovered arms and explosives ahead of Independence Day, annouces India's Home Minister Amit Shah",
-      "link": "https://nitter.net/sidhant/status/2089283009715257412#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-17T14:57:41+05:30",
-      "time": "17 Aug, 02:57 PM",
-      "type": "tweets",
-      "content": "<p>Breaking: India arrests over 200 operatives in multi-state crackdown on ISI-linked Shahzad Bhatti terror network; recovered arms and explosives ahead of Independence Day, annouces India's Home Minister Amit Shah</p>\n<hr />\n<blockquote>\n<b>Amit Shah (@AmitShah)</b>\n<p>\n<p>Modi govt destroyed the ISI-backed terror group Shahzad Bhatti Network ahead of Independence Day and thwarted its plans for subversive attacks by arresting more than 200 operatives.<br />\n<br />\nIndian security forces ripped apart the network by launching coordinated operations across different locations in 14 states upholding a brilliant example of India's zero-tolerance towards terrorism.<br />\n<br />\nSubstantial recoveries, including IEDs, grenades bearing Pakistan Ordnance Factory markings, pistols, live cartridges, and CCTV cameras used for espionage, were made from the ISI-funded group. The network was involved in several terrorist activities.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/AmitShah/status/2089280063024009216#m\">https://nitter.net/AmitShah/status/2089280063024009216#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "RT by @DefenceDecode: \ud83c\uddee\ud83c\uddf3MoD signs a \u20b91,943 crore contract with General Atomics for two MQ-9B Sea Guardian #HALE RPAS on a 30-month lease. The aircraft will provide persistent ISR coverage and enhance Maritime Domain Awareness across the Indian Ocean Region.",
-      "link": "https://nitter.net/DefenceDecode/status/2089282557909385280#m",
-      "source": "Defense Decode",
-      "sort_key": "2026-08-17T14:55:53+05:30",
-      "time": "17 Aug, 02:55 PM",
-      "type": "tweets",
-      "content": "<p>\ud83c\uddee\ud83c\uddf3MoD signs a \u20b91,943 crore contract with General Atomics for two MQ-9B Sea Guardian <a href=\"https://nitter.net/search?f=tweets&amp;q=%23HALE\">#HALE</a> RPAS on a 30-month lease.<br />\nThe aircraft will provide persistent ISR coverage and enhance Maritime Domain Awareness across the Indian Ocean Region.</p>\n<img src=\"https://nitter.net/pic/media%2FHP6fVVpa0AASwp_.jpg\" />",
-      "author": "@DefenceDecode"
+      "content": "<p>As NOTMAR Issued around Multiple Areas in Arabian Sea for possible firing exercises from (15 August-20 August)<br />\n<br />\nIndian Navy's INS Vikramaditya (R33) Aircraft Carrier Rolled Out from Karwar Port, Uttara Kannada for Possible deployment/exercise in Northern Arabian Sea spotted to Sentinel-2 about 12KM away from its Homeport.<br />\n<br />\nImage date: 16 August 2026<br />\nGeolocation: 14.73919, 74.03107<br />\n<br />\nAs expected.</p>\n<img src=\"https://nitter.net/pic/media%2FHP6iYL3aEAAW4ml.jpg\" />\n\n<hr />\n<blockquote>\n<b>NOTAM INDIA \ud83c\uddee\ud83c\uddf3 (@notam_in)</b>\n<p>\n<p>India Has Issued NOTMAR For Surface &amp; Sub-Surface Firing Exercise In Arabian Sea Region. <br />\n       <br />\nArea 1 &amp; 2  <br />\nFrom:12/08/2026 , 10:00 IST          <br />\nUntil:16/08/2026 , 10:00 IST    <br />\n<br />\nArea 3,4,5 &amp; 6  <br />\nFrom:15/08/2026 , 04:00 IST  <br />\nUntil:20/08/2026 , 08:00 IST</p>\n<img src=\"https://nitter.net/pic/media%2FHPv4VywbAAA_c4j.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/notam_in/status/2088536683402965074#m\">https://nitter.net/notam_in/status/2088536683402965074#m</a>\n</footer>\n</blockquote>",
+      "author": "@Indowatchosint"
     },
     {
       "title": "BREAKING: The Ministry of Defence signed a Rs 1,943 crore contract with General Atomics Aeronautical Systems to lease two MQ-9B Sea Guardian high-altitude, long-endurance drones for the Indian Navy over a 30-month period.",
@@ -795,24 +826,24 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Yerevan: Indian Defence Secretary Rajesh Kumar Singh meets Armenia's Defence Minister Suren Papikyan",
-      "link": "https://nitter.net/sidhant/status/2089281018465599527#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-17T14:49:46+05:30",
+      "title": "Defence Secretary Shri Rajesh Kumar Singh called on Minister of Defence of Armenia Mr Suren Papikyan in Yerevan on August 17, 2026. The two sides explored new avenues to further strengthen bilateral defence cooperation, reaffirming their shared commitment to deepening and elevating the India-Armenia defence partnership.",
+      "link": "https://nitter.net/alpha_defense/status/2089280828614307880#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T14:49:01+05:30",
       "time": "17 Aug, 02:49 PM",
       "type": "tweets",
-      "content": "<p>Yerevan: Indian Defence Secretary Rajesh Kumar Singh meets Armenia's Defence Minister Suren Papikyan</p>\n<img src=\"https://nitter.net/pic/media%2FHP6eAhGakAAm1FH.jpg\" />",
-      "author": "@sidhant"
+      "content": "<p>Defence Secretary Shri Rajesh Kumar Singh called on Minister of Defence of Armenia Mr Suren Papikyan in Yerevan on August 17, 2026. <br />\n<br />\nThe two sides explored new avenues to further strengthen bilateral defence cooperation, reaffirming their shared commitment to deepening and elevating the India-Armenia defence partnership.</p>\n<img src=\"https://nitter.net/pic/media%2FHP6d1ZtbwAA6EeL.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
-      "title": "India's defence ministry signs Rs 1,943 crore deal with US firm General Atomics to lease two MQ-9B Sea Guardian drones for the Indian Navy for 30 months:",
-      "link": "https://nitter.net/sidhant/status/2089275582412677381#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-17T14:28:10+05:30",
-      "time": "17 Aug, 02:28 PM",
+      "title": "Ministry of Defence has signed a contract with General Atomics Aeronautical Systems, Inc. (GA-ASI) for the leasing of two MQ-9B Sea Guardian High AltitudeLong Endurance (HALE) Remotely Piloted Aircraft Systems (RPAS) for the Indian Navy for a period of 30 months. The contract is valued at approximately Rs 1,943 crore. It was signed in the presence of Additional Secretary & Director General (Acquisition), Department of Defence, Shri A. Anbarasu, at Kartavya Bhawan-2, New Delhi on August 17, 2026.",
+      "link": "https://nitter.net/alpha_defense/status/2089275161468182636#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T14:26:30+05:30",
+      "time": "17 Aug, 02:26 PM",
       "type": "tweets",
-      "content": "<p>India's defence ministry signs Rs 1,943 crore deal with US firm General Atomics to lease two MQ-9B Sea Guardian drones for the Indian Navy for 30 months:</p>\n<img src=\"https://nitter.net/pic/media%2FHP6ZERlb0AAE2yb.jpg\" />",
-      "author": "@sidhant"
+      "content": "<p>Ministry of Defence has signed a contract with General Atomics Aeronautical Systems, Inc. (GA-ASI) for the leasing of two MQ-9B Sea Guardian High AltitudeLong Endurance (HALE) Remotely Piloted Aircraft Systems (RPAS) for the Indian Navy for a period of 30 months. <br />\n<br />\nThe contract is valued at approximately Rs 1,943 crore. It was signed in the presence of Additional Secretary & Director General (Acquisition), Department of Defence, Shri A. Anbarasu, at Kartavya Bhawan-2, New Delhi on August 17, 2026.</p>\n<img src=\"https://nitter.net/pic/media%2FHP6YrsSaQAEz6y2.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "The Indian Army contingent, led by the 9 Gorkha Rifles, has left for Thailand to participate in Joint Exercise #Maitree2026. The excercise is being conducted from Aug 18-31 August at Surat Thani, this 15th edition focuses on counter-insurgency & counter-terrorism in jungle terrains.",
@@ -825,6 +856,16 @@
       "author": "@NetramDefence"
     },
     {
+      "title": "RT by @alpha_defense: \ud83c\udde6\ud83c\uddf2 \ud83c\uddee\ud83c\uddf3 Today, I received Defence Secretary of India Rajesh Kumar Singh, who arrived in Armenia on an official visit. We discussed issues related to Armenia-India #cooperation in the defence sector, including military-technical #cooperation.",
+      "link": "https://nitter.net/papikyan_suren/status/2089269617956888704#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T14:04:28+05:30",
+      "time": "17 Aug, 02:04 PM",
+      "type": "tweets",
+      "content": "<p>\ud83c\udde6\ud83c\uddf2 \ud83c\uddee\ud83c\uddf3 Today, I received Defence Secretary of India Rajesh Kumar Singh, who arrived in Armenia on an official visit. We discussed issues related to Armenia-India <a href=\"https://nitter.net/search?f=tweets&amp;q=%23cooperation\">#cooperation</a> in the defence sector, including military-technical <a href=\"https://nitter.net/search?f=tweets&amp;q=%23cooperation\">#cooperation</a>.</p>\n<a href=\"https://nitter.net/papikyan_suren/status/2089269617956888704#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2089269158512828416%2Fimg%2F4W3B8NffYbGnvfcY.jpg\" />\n</a>",
+      "author": "@papikyan_suren"
+    },
+    {
       "title": "\ud83d\udea8Jamaat-e-Islami's sit-in begins in Lahore. JAAC leaders say it will continue until the tyrant and murderous Pakistani government agrees to JAAC demands.",
       "link": "https://nitter.net/Goreunit/status/2089267952759816234#m",
       "source": "War & Gore",
@@ -833,6 +874,16 @@
       "type": "tweets",
       "content": "<p>\ud83d\udea8Jamaat-e-Islami's sit-in begins in Lahore. JAAC leaders say it will continue until the tyrant and murderous Pakistani government agrees to JAAC demands.</p>\n<a href=\"https://nitter.net/Goreunit/status/2089267952759816234#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2089267925064822785%2Fimg%2Foos7DzEsxIN8pmOl.jpg\" />\n</a>",
       "author": "@Goreunit"
+    },
+    {
+      "title": "Dear @HQ_IDS_India Imagine if someone quotes this with remains of M88 engine (authenticity of which are under question). The childish ego of some grown boys is fracturing your narrative domain and these things undo all your hardwork. Anyways I just wanted to bring this to your attention knowing you don\u2019t care \ud83e\udd37",
+      "link": "https://nitter.net/alpha_defense/status/2089263061857366232#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T13:38:25+05:30",
+      "time": "17 Aug, 01:38 PM",
+      "type": "tweets",
+      "content": "<p>Dear <a href=\"https://nitter.net/HQ_IDS_India\" title=\"HQ IDS\">@HQ_IDS_India</a> <br />\nImagine if someone quotes this with remains of M88 engine (authenticity of which are under question).<br />\n<br />\nThe childish ego of some grown boys is fracturing your narrative domain and these things undo all your hardwork. <br />\n<br />\nAnyways I just wanted to bring this to your attention knowing you don\u2019t care \ud83e\udd37</p>\n<img src=\"https://nitter.net/pic/media%2FHP6NrVfa4AASb2K.jpg\" />",
+      "author": "@alpha_defense"
     },
     {
       "title": "The making of Lawhori churan by DJ ISPR\ud83d\udcfd\ufe0f\ud83c\udf7f\ud83d\ude02\ud83d\ude02",
@@ -855,14 +906,54 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "Indian Army contingent leaves for Thailand for joint exercise Maitree-XV. The Indian Army contingent is represented primarily by troops from 9 Gorkha Rifles, while the Royal Thai Army contingent comprises personnel from the 3rd Battalion, 25th Infantry Brigade, 5th Division.",
-      "link": "https://nitter.net/sidhant/status/2089248065039499332#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-08-17T12:38:49+05:30",
-      "time": "17 Aug, 12:38 PM",
+      "title": "Hero no matter what a random troll says",
+      "link": "https://nitter.net/alpha_defense/status/2089243804176159181#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T12:21:53+05:30",
+      "time": "17 Aug, 12:21 PM",
       "type": "tweets",
-      "content": "<p>Indian Army contingent leaves for Thailand for joint exercise Maitree-XV. <br />\n<br />\nThe Indian Army contingent is represented primarily by troops from 9 Gorkha Rifles, while the Royal Thai Army contingent comprises personnel from the 3rd Battalion, 25th Infantry Brigade, 5th Division.</p>\n<img src=\"https://nitter.net/pic/media%2FHP5_9_NbsAA1agL.jpg\" />",
-      "author": "@sidhant"
+      "content": "<p>Hero no matter what a random troll says</p>\n<img src=\"https://nitter.net/pic/media%2FHP58KfZaAAAhQs6.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "R to @QuBeatsTech: Congratulations @RajatSethi86 and team \ud83d\ude80",
+      "link": "https://nitter.net/alpha_defense/status/2089240932378083611#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T12:10:29+05:30",
+      "time": "17 Aug, 12:10 PM",
+      "type": "tweets",
+      "content": "<p>Congratulations <a href=\"https://nitter.net/RajatSethi86\" title=\"Rajat Sethi\">@RajatSethi86</a> and team \ud83d\ude80</p>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "1. Rydberg Quantum RF Sensor Rydberg atoms can act as extraordinarily sensitive probes of electromagnetic fields. By exploiting the unique properties of highly excited Rydberg states, quantum RF sensors can detect and characterize radio-frequency signals with exceptional sensitivity, potentially enabling wideband, calibration-free and highly precise RF sensing. The technology could transform applications ranging from electronic warfare and spectrum monitoring to communications, radar and defence intelligence. 2. Quantum Gyroscope Quantum gyroscopes leverage atomic physics and quantum coherence to measure rotation with extraordinary precision, potentially without relying on the mechanical moving parts or conventional spinning structures used in traditional gyroscopes. This opens the door to a new generation of high-precision, GPS-independent navigation systems, with applications across defence, aerospace, submarines, autonomous platforms and strategic navigation.",
+      "link": "https://nitter.net/alpha_defense/status/2089240796356854003#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T12:09:56+05:30",
+      "time": "17 Aug, 12:09 PM",
+      "type": "tweets",
+      "content": "<p>1. Rydberg Quantum RF Sensor<br />\n<br />\nRydberg atoms can act as extraordinarily sensitive probes of electromagnetic fields. By exploiting the unique properties of highly excited Rydberg states, quantum RF sensors can detect and characterize radio-frequency signals with exceptional sensitivity, potentially enabling wideband, calibration-free and highly precise RF sensing. The technology could transform applications ranging from electronic warfare and spectrum monitoring to communications, radar and defence intelligence.<br />\n<br />\n2. Quantum Gyroscope<br />\n<br />\nQuantum gyroscopes leverage atomic physics and quantum coherence to measure rotation with extraordinary precision, potentially without relying on the mechanical moving parts or conventional spinning structures used in traditional gyroscopes. This opens the door to a new generation of high-precision, GPS-independent navigation systems, with applications across defence, aerospace, submarines, autonomous platforms and strategic navigation.</p>\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>JUST IN | QuBeats has won two major multi-crore tenders from Research Centre Imarat (RCI), DRDO to develop two frontier quantum technologies:<br />\n<br />\n\ud83d\udd39 Rydberg-based Quantum RF Sensor<br />\n\ud83d\udd39 Quantum Gyroscope</p>\n<img src=\"https://nitter.net/pic/media%2FHP55QWPa8AAO0uy.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2089240604970811820#m\">https://nitter.net/alpha_defense/status/2089240604970811820#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "JUST IN | QuBeats has won two major multi-crore tenders from Research Centre Imarat (RCI), DRDO to develop two frontier quantum technologies: \ud83d\udd39 Rydberg-based Quantum RF Sensor \ud83d\udd39 Quantum Gyroscope",
+      "link": "https://nitter.net/alpha_defense/status/2089240604970811820#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T12:09:11+05:30",
+      "time": "17 Aug, 12:09 PM",
+      "type": "tweets",
+      "content": "<p>JUST IN | QuBeats has won two major multi-crore tenders from Research Centre Imarat (RCI), DRDO to develop two frontier quantum technologies:<br />\n<br />\n\ud83d\udd39 Rydberg-based Quantum RF Sensor<br />\n\ud83d\udd39 Quantum Gyroscope</p>\n<img src=\"https://nitter.net/pic/media%2FHP55QWPa8AAO0uy.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "RT by @alpha_defense: Indian Army Chief General Dhiraj Seth inspects the Guard of Honour at the Army Headquarters in Kathmandu. He also laid a wreath at the Army Pavilion. (Pics: Nepali Army)",
+      "link": "https://nitter.net/ANI/status/2089237634409545898#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T11:57:22+05:30",
+      "time": "17 Aug, 11:57 AM",
+      "type": "tweets",
+      "content": "<p>Indian Army Chief General Dhiraj Seth inspects the Guard of Honour at the Army Headquarters in Kathmandu. <br />\n<br />\nHe also laid a wreath at the Army Pavilion. <br />\n<br />\n(Pics: Nepali Army)</p>\n<img src=\"https://nitter.net/pic/media%2FHP52X63bQAAvbPW.png\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP52ZB9bEAAzGKF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP52aEnaYAAQVRU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP52cr3bAAAJ_m9.jpg\" />",
+      "author": "@ANI"
     },
     {
       "title": "US President Donald Trump praised the newly signed Mecca Joint Defence Agreement between Saudi Arabia, Turkey, and Pakistan, stating on social media that the trilateral pact is a \"big, bold, and important first step\". \u201cVery happy to see that Saudi Arabia, Turkiye, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middle East is coming together, and how Countries will finally be able to defend themselves in a more meaningful way,\u201d",
@@ -893,6 +984,36 @@
       "type": "tweets",
       "content": "<p>Chief's Nepal visit is pretty important.<br />\n<br />\nFun fact : Both Army's chief holds Honorary General ranks in both the armies. Its a decades old custom between India and Nepal.</p>\n<img src=\"https://nitter.net/pic/media%2FHP4aqIUbAAAmDj3.jpg\" />",
       "author": "@elitepredatorss"
+    },
+    {
+      "title": "RT by @alpha_defense: You are absolutely wrong in your analysis Akhileshwar, if that is your real name. I can name 100s of senior armed forces officers whose children have followed their father's footsteps to join armed forces incl both my children to join the armed forces. Name a bureaucrat , judge or a politician whose children have joined the services before making such sweeping remarks. Do not be an urban Naxal , what the PM alluded to yesterday in his ID speech. You are trying to confuse the young generation with false narrative and these kind of inputs help anti India and anti defence forces handles. I am not sure if you are one of them.",
+      "link": "https://nitter.net/sanjeev__kapoor/status/2089171744431251639#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T07:35:33+05:30",
+      "time": "17 Aug, 07:35 AM",
+      "type": "tweets",
+      "content": "<p>You are absolutely wrong in your analysis Akhileshwar, if that is your real name. <br />\n<br />\nI can name 100s of senior armed forces officers whose children have followed their father's footsteps to join armed forces incl both my children to join the armed forces. <br />\n<br />\nName a bureaucrat , judge or a politician whose children have joined the services before making such sweeping remarks.<br />\n<br />\nDo not be an urban Naxal , what the PM alluded to yesterday in his ID speech. You are trying to confuse the young generation with false narrative and these kind of inputs help anti India and anti defence forces handles. <br />\n<br />\nI am not sure if you are one of them.</p>\n<hr />\n<blockquote>\n<b>Akhileshwar Singh (@Akhiles94820319)</b>\n<p>\n<p>Ever noticed?<br />\nChildren of most of Armed Forces Generals/Officers go abroad, serving or became citizens in US/Europe/Australia. And these officers regularly visit, mostly stay there.<br />\nBut these retired officers identify themselves great deshbhakts.<br />\n<br />\nHope no national security risk?</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Akhiles94820319/status/2088625411693650409#m\">https://nitter.net/Akhiles94820319/status/2088625411693650409#m</a>\n</footer>\n</blockquote>",
+      "author": "@sanjeev__kapoor"
+    },
+    {
+      "title": "It was a good series, but calling it the \u201cmost accurate\u201d is like telling the story of Operation Safed Sagar as if it was all about the MiG-21. It should\u2019ve been called Golden Arrows or Safed Sagar ;Chapter Toni. Safed Sagar was a much bigger operation: 7,631 IAF sorties, of which 3,427 were transport sorties, the backbone of the logistics effort. 2,474 helicopter sorties, involving everything from troop/logistics support to casualty evacuation and high-risk missions. 1,730 fighter sorties and within the fast-jet missions, Mirage 2000 alone accounted for 514 sorties, over 30% of the documented squadron total. No. 7 Squadron alone flew 240 strike missions and dropped ~55 tonnes of ordnance. And I would\u2019ve loved to see the series acknowledge Squadron Leader Rajiv Pundir, Flight Lieutenant Muhilan, Sergeant RK Sahu and Sergeant PVNR Prasad (the four air warriors of the Mi-17 crew who made the supreme sacrifice. The fighters were only one part of a much larger air campaign. No. 9 Squadron\u2019s MiG-27MLs played a significant role. Jaguars flew too. The Canberra took a hit while conducting reconnaissance. And perhaps the quietest but most consequential player was the MiG-29, the air-superiority shield that helped ensure Pakistani F-16s stayed on the other side of the BVR equation. There were two moments in the series that gave me strong Sherdil vibes. Would you guys want me to write a detailed review as an article? What I loved about the series \u201cAhuja sir was celebrated and we so much needed it\u201d So thank you @netflix",
+      "link": "https://nitter.net/alpha_defense/status/2089116990233530373#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T03:57:59+05:30",
+      "time": "17 Aug, 03:57 AM",
+      "type": "tweets",
+      "content": "<p>It was a good series, but calling it the \u201cmost accurate\u201d is like telling the story of Operation Safed Sagar as if it was all about the MiG-21.<br />\n<br />\nIt should\u2019ve been called Golden Arrows or Safed Sagar ;Chapter Toni.<br />\n<br />\nSafed Sagar was a much bigger operation:<br />\n<br />\n7,631 IAF sorties, of which 3,427 were transport sorties, the backbone of the logistics effort.<br />\n<br />\n2,474 helicopter sorties, involving everything from troop/logistics support to casualty evacuation and high-risk missions. <br />\n<br />\n1,730 fighter sorties and within the fast-jet missions, Mirage 2000 alone accounted for 514 sorties, over 30% of the documented squadron total. No. 7 Squadron alone flew 240 strike missions and dropped ~55 tonnes of ordnance. <br />\n<br />\nAnd I would\u2019ve loved to see the series acknowledge Squadron Leader Rajiv Pundir, Flight Lieutenant Muhilan, Sergeant RK Sahu and Sergeant PVNR Prasad (the four air warriors of the Mi-17 crew who made the supreme sacrifice. <br />\n<br />\nThe fighters were only one part of a much larger air campaign.<br />\n<br />\nNo. 9 Squadron\u2019s MiG-27MLs played a significant role. Jaguars flew too. The Canberra took a hit while conducting reconnaissance.<br />\n<br />\nAnd perhaps the quietest but most consequential player was the MiG-29, the air-superiority shield that helped ensure Pakistani F-16s stayed on the other side of the BVR equation.<br />\n<br />\nThere were two moments in the series that gave me strong Sherdil vibes.<br />\n<br />\nWould you guys want me to write a detailed review as an article? What I loved about the series \u201cAhuja sir was celebrated and we so much needed it\u201d<br />\nSo thank you <a href=\"https://nitter.net/netflix\" title=\"Netflix\">@netflix</a></p>\n<hr />\n<blockquote>\n<b>Defence Matrix (@Defencematrix1)</b>\n<p>\n<p>One of the most accurate \"series\" on fighter operations, minus the CGI, which is Okay.<br />\nIt will be hard for the Idiots to grasp the technicality of what is being depicted.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/Defencematrix1/status/2089051824930373974#m\">https://nitter.net/Defencematrix1/status/2089051824930373974#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Collection \ud83d\udc47",
+      "link": "https://nitter.net/alpha_defense/status/2089110733640618363#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-17T03:33:07+05:30",
+      "time": "17 Aug, 03:33 AM",
+      "type": "tweets",
+      "content": "<p>Collection \ud83d\udc47</p>\n<hr />\n<blockquote>\n<b>Spadex95 (@spadex950)</b>\n<p>\n<p>After More Than a Year, India Declassifies Images From Inside <a href=\"https://nitter.net/search?f=tweets&amp;q=%23Pakistan\">#Pakistan</a>, Captured by Indian Soldiers Ahead of the Attack (1/2) <a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a></p>\n<a href=\"https://nitter.net/spadex950/status/2089048733636059638#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2089048305796067328%2Fimg%2FHK8plnmdYlxRuv9J.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHP3KjFEbYAETghK.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP3KlGNaUAE0Ow1.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHP3KqlxbcAEznty.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/spadex950/status/2089048733636059638#m\">https://nitter.net/spadex950/status/2089048733636059638#m</a>\n</footer>\n</blockquote>",
+      "author": "@alpha_defense"
     },
     {
       "title": "Daily US-Israel-Iran War Brief: 16th Aug 2026: - We will be posting daily war updates on the ongoing war in Middle East - \u2060Follow us for daily Brief \u25cf Iranian Parliament Speaker Ghalibaf stated yesterday that Iran achieved a victory in both the military & political dimensions of the conflict. \u25cf Iran accused Qatar of obstructing an inquiry into the fate of Iranian pilots whom Tehran claims are being held in the country, an official with the Armed Forces General Staff said. \u25cf The IDF is preparing for the possibility of several days of combat in Lebanon. The current tensions with Hezbollah come amid Israeli military activity in the Ali Tahr Ridge and Beaufort. \u25cf The IDF struck an Islamic Jihad terrorist in the Khan Yunis area and a Hamas terrorist in the Nuseirat area in Gaza. \u25cf The head of Iran\u2019s parliamentary National Security and Foreign Policy Commission warned Trump to focus on his own security rather than make threats over the Strait of Hormuz. END OF THE BRIEF",
@@ -945,6 +1066,26 @@
       "author": "@Goreunit"
     },
     {
+      "title": "General Dhiraj Seth, Chief of the Army Staff (COAS), departed on an official visit to Nepal from 17 to 19 August 2026. The visit aims to further strengthen the close defence cooperation and military-to-military ties between India and Nep",
+      "link": "https://nitter.net/alpha_defense/status/2088957182356418746#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-16T17:22:57+05:30",
+      "time": "16 Aug, 05:22 PM",
+      "type": "tweets",
+      "content": "<p>General Dhiraj Seth, Chief of the Army Staff (COAS), departed on an official visit to Nepal from 17 to 19 August 2026. <br />\n<br />\nThe visit aims to further strengthen the close defence cooperation and military-to-military ties between India and Nep</p>",
+      "author": "@alpha_defense"
+    },
+    {
+      "title": "Projects under RCI, some new names too :) Credits : @Archit_Ch",
+      "link": "https://nitter.net/alpha_defense/status/2088947059269456018#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-16T16:42:44+05:30",
+      "time": "16 Aug, 04:42 PM",
+      "type": "tweets",
+      "content": "<p>Projects under RCI, some new names too :)<br />\n<br />\nCredits : <a href=\"https://nitter.net/Archit_Ch\" title=\"NeutronX\">@Archit_Ch</a></p>\n<img src=\"https://nitter.net/pic/media%2FHP1uRxBa0AAvmVf.jpg\" />",
+      "author": "@alpha_defense"
+    },
+    {
       "title": "Trump\u2019s demands stretch US Navy to its limits The US Navy is facing mounting pressure as Trump pushes an ambitious fleet expansion while existing forces remain stretched by prolonged deployments, shipbuilding delays and rising costs. The USS Abraham Lincoln spent a record 260 days at sea without a port visit, surpassing the previous 204-day record. Sailors and families have raised concerns over exhaustion and mental health. At the same time, Trump\u2019s proposed \u201cGolden Fleet\u201d includes nuclear-powered battleships potentially costing over $23 billion each, while US shipyards are already struggling with backlogs involving carriers, submarines and destroyers. The administration is also reviewing a return to steam-powered catapults on Ford-class carriers, potentially disrupting the electromagnetic launch systems already being developed.",
       "link": "https://nitter.net/NetramDefence/status/2088944776372777058#m",
       "source": "Netram Defense",
@@ -953,6 +1094,16 @@
       "type": "tweets",
       "content": "<p>Trump\u2019s demands stretch US Navy to its limits<br />\n<br />\nThe US Navy is facing mounting pressure as Trump pushes an ambitious fleet expansion while existing forces remain stretched by prolonged deployments, shipbuilding delays and rising costs.<br />\n<br />\nThe USS Abraham Lincoln spent a record 260 days at sea without a port visit, surpassing the previous 204-day record. Sailors and families have raised concerns over exhaustion and mental health.<br />\n<br />\nAt the same time, Trump\u2019s proposed \u201cGolden Fleet\u201d includes nuclear-powered battleships potentially costing over $23 billion each, while US shipyards are already struggling with backlogs involving carriers, submarines and destroyers.<br />\n<br />\nThe administration is also reviewing a return to steam-powered catapults on Ford-class carriers, potentially disrupting the electromagnetic launch systems already being developed.</p>\n<img src=\"https://nitter.net/pic/media%2FHP1sMTkbIAAbF-V.jpg\" />",
       "author": "@NetramDefence"
+    },
+    {
+      "title": "RT by @alpha_defense: Thank you @alpha_defense! \ud83d\ude4f\ud83c\udffd This means a lot to the #CtrlAltDefence team. We\u2019d love to have you on the podcast sometime too. \ud83d\udd17: https://youtu.be/289fZEJQTqM?si=y4RrUwaIwNt7lE40",
+      "link": "https://nitter.net/ShivAroor/status/2088919845954028014#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-16T14:54:36+05:30",
+      "time": "16 Aug, 02:54 PM",
+      "type": "tweets",
+      "content": "<p>Thank you <a href=\"https://nitter.net/alpha_defense\" title=\"Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3\">@alpha_defense</a>! \ud83d\ude4f\ud83c\udffd<br />\n<br />\nThis means a lot to the <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CtrlAltDefence\">#CtrlAltDefence</a> team. We\u2019d love to have you on the podcast sometime too.<br />\n<br />\n\ud83d\udd17: <a href=\"https://piped.video/289fZEJQTqM?si=y4RrUwaIwNt7lE40\">piped.video/289fZEJQTqM?si=y4Rr\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/289fZEJQTqM?si=y4RrUwaIwNt7lE40\">\n<img src=\"https://nitter.net/pic/card_img%2F2088624784410357760%2Fd3Fcl5be%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>How Bholari Got BRAHMOS&apos;d | Ctrl Alt Defence Ep 52</b>\n</a>\n<p>Operation Sindoor put India\u2019s air power to the test. But what happe...</p>\n<small><a href=\"https://piped.video/289fZEJQTqM?si=y4RrUwaIwNt7lE40\">youtube.com</a></small>\n\n<hr />\n<blockquote>\n<b>Alpha Defense\u2122\ud83c\uddee\ud83c\uddf3 (@alpha_defense)</b>\n<p>\n<p>One of the most insightful episodes on Operation Sindoor and the story of how Bholari got BrahMos\u2019d!<br />\n<br />\nHuge appreciation to <a href=\"https://nitter.net/ShivAroor\" title=\"Shiv Aroor\">@ShivAroor</a> and <a href=\"https://nitter.net/VishnuNDTV\" title=\"Vishnu Som\">@VishnuNDTV</a> for bringing the details, context and stories behind the headlines to the audience.<br />\n<br />\n<a href=\"https://piped.video/289fZEJQTqM?si=W5_jad-IHmKAAzaC\">piped.video/289fZEJQTqM?si=W5_j\u2026</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/289fZEJQTqM?si=W5_jad-IHmKAAzaC\">\n<img src=\"https://nitter.net/pic/card_img%2F2088624784410357760%2Fd3Fcl5be%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>How Bholari Got BRAHMOS&apos;d | Ctrl Alt Defence Ep 52</b>\n</a>\n<p>Operation Sindoor put India\u2019s air power to the test. But what happe...</p>\n<small><a href=\"https://piped.video/289fZEJQTqM?si=W5_jad-IHmKAAzaC\">youtube.com</a></small>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/alpha_defense/status/2088814764088770578#m\">https://nitter.net/alpha_defense/status/2088814764088770578#m</a>\n</footer>\n</blockquote>",
+      "author": "@ShivAroor"
     },
     {
       "title": "R to @Goreunit: Now Local Kashmiris are openly opposing occupying regime.",
@@ -993,6 +1144,16 @@
       "type": "tweets",
       "content": "<p>Situation of Nawaz Sharif and Imran Khan <br />\nBoth of them have been labelled as Raaaaa agents \ud83c\uddee\ud83c\uddf3by Munir gang<br />\n<br />\nNext PM is loading soon, but Nawaz / Imran can't be next PM,</p>\n<a href=\"https://nitter.net/Goreunit/status/2088894938906010110#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088894899093639168%2Fimg%2FYeegLcy633OYjqc2.jpg\" />\n</a>",
       "author": "@Goreunit"
+    },
+    {
+      "title": "HoverIt\u2019s Divyastra Mk3 Loitering Munition, powered by DG Propulsion\u2019s indigenous Indian jet engine, has successfully completed its maiden flight. A landmark achievement for India: the first 100% IDDM jet-powered loitering munition to take flight, developed from inception to maiden flight in less than a year. A remarkable demonstration of indigenous design, propulsion and rapid defence innovation.",
+      "link": "https://nitter.net/alpha_defense/status/2088873912801354168#m",
+      "source": "Alpha Defense",
+      "sort_key": "2026-08-16T11:52:04+05:30",
+      "time": "16 Aug, 11:52 AM",
+      "type": "tweets",
+      "content": "<p>HoverIt\u2019s Divyastra Mk3 Loitering Munition, powered by DG Propulsion\u2019s indigenous Indian jet engine, has successfully completed its maiden flight.<br />\n<br />\nA landmark achievement for India: the first 100% IDDM jet-powered loitering munition to take flight, developed from inception to maiden flight in less than a year.<br />\n<br />\nA remarkable demonstration of indigenous design, propulsion and rapid defence innovation.</p>\n<a href=\"https://nitter.net/alpha_defense/status/2088873912801354168#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2088864725308473344%2Fimg%2Fej2SuUGtRaijFavh.jpg\" />\n</a>",
+      "author": "@alpha_defense"
     },
     {
       "title": "Fentanyl !",
@@ -1137,6 +1298,15 @@
   ],
   "youtube": [
     {
+      "title": "Defence Updates - 10 Su-57 Quick Transfer For India, Indian Navy 2 MQ-9B Drones, Indrajaal Ranger",
+      "link": "https://www.youtube.com/watch?v=wtVZu33u8tY",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-17T21:47:22+05:30",
+      "time": "17 Aug, 09:47 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/wtVZu33u8tY/mqdefault.jpg"
+    },
+    {
       "title": "Biggest Save in Indian History",
       "link": "https://www.youtube.com/watch?v=kRN6q-ZDv6Q",
       "source": "Alpha Defense - Hindi",
@@ -1189,18 +1359,9 @@
       "time": "15 Aug, 10:40 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/lsRZCDwAzNQ/mqdefault.jpg"
-    },
-    {
-      "title": "India's Secret Sports Machine: The Indian Army",
-      "link": "https://www.youtube.com/watch?v=4u63LDD-Xh0",
-      "source": "Elite Predators",
-      "sort_key": "2026-08-15T21:38:42+05:30",
-      "time": "15 Aug, 09:38 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/4u63LDD-Xh0/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
