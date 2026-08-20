@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "CRPF forms &#8216;core group&#8217; of top officers to prevent suicides incidents",
+      "link": "https://www.tribuneindia.com/news/india/crpf-forms-core-group-of-top-officers-to-prevent-suicides-incidents",
+      "source": "The Tribune",
+      "sort_key": "2026-08-20T15:16:10+05:30",
+      "time": "20 Aug, 03:16 PM",
+      "type": "news",
+      "description": "The Central Reserve Police Force (CRPF) has constituted a 10-member &#8216;core group&#8217; comprising its senior officers to work on preventing inci..."
+    },
+    {
+      "title": "Bangladesh holds first contested presidential poll in 35 years",
+      "link": "https://newsonair.gov.in/bangladesh-to-go-to-polls-today-to-elect-a-new-president/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-20T15:11:35+05:30",
+      "time": "20 Aug, 03:11 PM",
+      "type": "news",
+      "description": "Bangladesh&#8217;s presidential election began, with lawmakers voting to choose the country&#8217;s 23rd president in the first contested poll for the..."
+    },
+    {
+      "title": "Security forces launch search operation in J&K's Kathua after suspicious movement",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/20/security-forces-launch-search-operation-in-jks-kathua-after-suspicious-movement",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-20T14:27:00+05:30",
+      "time": "20 Aug, 02:27 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "India and Japan agree to deepen defence technology partnership; Sign MoA on Maritime Security Cooperation",
       "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-japanese-counterpart-shinjiro-koizumi-co-chair-india-japan-defence-ministers-meeting/",
       "source": "All India Radio",
@@ -8,6 +35,15 @@
       "time": "20 Aug, 02:20 PM",
       "type": "news",
       "description": "The India-Japan Defence Ministers Meeting was held in New Delhi today. Defence Minister Rajnath Singh and his Japanese counterpart Shinjiro Koizumi co..."
+    },
+    {
+      "title": "Eyeing China, India and Japan step up Indo-Pacific defence cooperation, sign maritime security MoA",
+      "link": "https://www.indiatvnews.com/news/india/eyeing-china-india-and-japan-step-up-indo-pacific-defence-cooperation-sign-maritime-security-moa-2026-08-20-1051927",
+      "source": "India TV",
+      "sort_key": "2026-08-20T14:18:32+05:30",
+      "time": "20 Aug, 02:18 PM",
+      "type": "news",
+      "description": "<a href=\"https://www.indiatvnews.com/news/india/defence-ministry-debunks-viral-claim-on-rajnath-singh-s-operation-sindoor-remarks-2026-06-27-1046362\" ..."
     },
     {
       "title": "India-Singapore Ministerial Roundtable held in Singapore to strengthen bilateral cooperation in strategic areas",
@@ -172,15 +208,6 @@
       "description": "The 4th round of India-Singapore Ministerial Roundtable (ISMR) will be held in Singapore today. The participating Ministers from the Indian side are F..."
     },
     {
-      "title": "Bangladesh to go to polls today to elect a new President",
-      "link": "https://newsonair.gov.in/bangladesh-to-go-to-polls-today-to-elect-a-new-president/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-20T08:05:35+05:30",
-      "time": "20 Aug, 08:05 AM",
-      "type": "news",
-      "description": "Bangladesh will hold its presidential election today, with lawmakers set to choose between the ruling BNP stalwart Mirza Fakhrul Islam Alamgir and 11-..."
-    },
-    {
       "title": "US President Donald Trump declares economic warfare against Iran",
       "link": "https://newsonair.gov.in/us-president-donald-trump-declares-economic-warfare-against-iran/",
       "source": "All India Radio",
@@ -224,15 +251,6 @@
       "time": "20 Aug, 06:54 AM",
       "type": "news",
       "description": "Defence Secretary Rajesh Kumar Singh has concluded his two day visit to Armenia.\u00a0 During the visit, he held bilateral meetings with Deputy Defence Min..."
-    },
-    {
-      "title": "Al-Qaida offshoot behind Delhi blast tries to set up Bangladesh cells",
-      "link": "https://www.tribuneindia.com/news/india/qaida-offshoot-behind-delhi-blast-tries-to-set-up-bdesh-cells",
-      "source": "The Tribune",
-      "sort_key": "2026-08-20T01:43:25+05:30",
-      "time": "20 Aug, 01:43 AM",
-      "type": "news",
-      "description": "The latest report of the UN Security Council\u2019s Analytical Support and Sanctions Monitoring Team has flagged attempts by Al-Qaida in the Indian Subcont..."
     },
     {
       "title": "IndiGo Website, App Crash Disrupts Flyers",
@@ -620,15 +638,6 @@
       "time": "18 Aug, 03:28 PM",
       "type": "news",
       "description": "<p>Technology milestones improve engine durability and time on wing Team also advancing the future of flight, supporting hybrid electric and Open Fan ..."
-    },
-    {
-      "title": "Today's battle airspace defined by information superiority, split-second decision making: DCAS Air Marshal Tejpal Singh",
-      "link": "https://economictimes.indiatimes.com/news/defence/todays-battle-airspace-defined-by-information-superiority-split-second-decision-making-dcas-air-marshal-tejpal-singh/articleshow/133317782.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-18T15:08:01+05:30",
-      "time": "18 Aug, 03:08 PM",
-      "type": "news",
-      "description": "In today's advanced warfare, winning hinges on information mastery and swift decision-making. To achieve success in multi-domain operations, shortenin..."
     }
   ],
   "tweets": [],
@@ -716,6 +725,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
