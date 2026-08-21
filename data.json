@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Bangladesh PM Tarique Rahman unlikely to visit India for BRICS Summit",
+      "link": "https://www.business-standard.com/external-affairs-defence-security/news/bangladesh-pm-tarique-rahman-unlikely-to-visit-india-for-brics-summit-126082101345_1.html",
+      "source": "Business Standard",
+      "sort_key": "2026-08-21T20:34:10+05:30",
+      "time": "21 Aug, 08:34 PM",
+      "type": "news",
+      "description": "New Delhi and Dhaka are exploring a summit between the two prime ministers later this year as they renegotiate the 30-year-old Ganga Water Treaty expi..."
+    },
+    {
+      "title": "Myanmar military strike kills 14 people at a Buddhist monastery, Opposition group says",
+      "link": "https://www.newindianexpress.com/world/2026/Aug/21/myanmar-military-strike-kills-14-people-at-a-buddhist-monastery-opposition-group-says",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-21T19:58:00+05:30",
+      "time": "21 Aug, 07:58 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Indonesia, China discuss increasing defence cooperation and energy security",
       "link": "https://www.business-standard.com/world-news/indonesia-china-discuss-increasing-defence-cooperation-and-energy-security-126082100613_1.html",
       "source": "Business Standard",
@@ -548,19 +566,19 @@
       "time": "19 Aug, 09:33 PM",
       "type": "news",
       "description": "Iran reportedly considers attacking US military sites in Europe as a warning. This strategy aims to deter Washington from escalating its conflict with..."
-    },
-    {
-      "title": "IAF turns to 3D printing, indigenous solutions to tackle Russian spares shortage",
-      "link": "https://www.indiastrategic.in/iaf-turns-to-3d-printing-indigenous-solutions-to-tackle-russian-spares-shortage/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-19T20:47:14+05:30",
-      "time": "19 Aug, 08:47 PM",
-      "type": "news",
-      "description": "<p>New Delhi, August 19. Facing prolonged delays and rising costs in procuring spare parts for its Russian-origin aircraft, the Indian Air Force (IAF)..."
     }
   ],
   "tweets": [],
   "youtube": [
+    {
+      "title": "Defence Updates - Indian Apache & LCH Near Pakistan, China Threat For India, Japan F2 Jet India",
+      "link": "https://www.youtube.com/watch?v=fsNEeCKujes",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-21T21:15:31+05:30",
+      "time": "21 Aug, 09:15 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/fsNEeCKujes/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Airbus 6th Gen Offer,New Rafale Demand,J16 in Pakistan,AI Fighter Prototype",
       "link": "https://www.youtube.com/watch?v=Jxn--4M7LWg",
@@ -635,6 +653,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "09:24 PM IST"
   }
 }
