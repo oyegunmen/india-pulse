@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Indian envoy discusses issues of mutual interest with B'desh Finance min",
+      "link": "https://www.business-standard.com/external-affairs-defence-security/news/indian-envoy-discusses-issues-of-mutual-interest-with-b-desh-finance-min-126082100718_1.html",
+      "source": "Business Standard",
+      "sort_key": "2026-08-21T15:48:43+05:30",
+      "time": "21 Aug, 03:48 PM",
+      "type": "news",
+      "description": "Indian envoy Dinesh Trivedi met Bangladesh Finance Minister Amir Khosru Mahmud Chowdhury and discussed bilateral development projects and issues of mu..."
+    },
+    {
       "title": "Pakistan Army chief calls militants in Balochistan 'foreign-sponsored proxies' obstructing development",
       "link": "https://www.newindianexpress.com/world/2026/Aug/21/pakistan-army-chief-calls-militants-in-balochistan-foreign-sponsored-proxies-obstructing-development",
       "source": "New Indian Express",
@@ -197,15 +206,6 @@
       "time": "20 Aug, 10:55 PM",
       "type": "news",
       "description": "Besides, forest personnel asked for adequate staff to take on poachers in the Sanctuary and questioned \u201cHardly 3 are in APCs and how can they take a m..."
-    },
-    {
-      "title": "'Think beyond today, build tomorrow's India': PM Modi's big message to top officials in high-level meeting",
-      "link": "https://www.indiatvnews.com/news/india/pm-modi-gives-big-message-to-top-officials-in-high-level-meeting-saying-think-beyond-today-build-tomorrows-india-2026-08-20-1051983",
-      "source": "India TV",
-      "sort_key": "2026-08-20T22:53:00+05:30",
-      "time": "20 Aug, 10:53 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi on Thursday held the third high-level meeting with secretaries of the Central government, urging senior officials to look..."
     },
     {
       "title": "PM Modi congratulates Hakainde Hichilema on re-election as President of Zambia",
@@ -602,42 +602,6 @@
       "time": "19 Aug, 04:46 PM",
       "type": "news",
       "description": "The Supreme Court criticized the Indian Coast Guard for denying a permanent commission.  The court found the Coast Guard's policy vague and arbitrary ..."
-    },
-    {
-      "title": "Mumbai 26/11 case: In absentia trial process begins against Hafiz Saeed",
-      "link": "https://www.business-standard.com/india-news/mumbai-26-11-case-in-absentia-trial-process-begins-against-hafiz-saeed-126081900832_1.html",
-      "source": "Business Standard",
-      "sort_key": "2026-08-19T16:14:52+05:30",
-      "time": "19 Aug, 04:14 PM",
-      "type": "news",
-      "description": "MEA said that India will continue to take all necessary measures to counter terrorism, and urged the global community to recognise the gravity of terr..."
-    },
-    {
-      "title": "BEL, HAL account for 78% of items in latest defence indigenisation list: PL Capital",
-      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/bel-hal-account-for-78-of-items-in-latest-defence-indigenisation-list-pl-capital/133344732",
-      "source": "Economic Times",
-      "sort_key": "2026-08-19T15:55:43+05:30",
-      "time": "19 Aug, 03:55 PM",
-      "type": "news",
-      "description": "The sixth Positive Indigenisation List covers 405 strategically vital items and is expected to create \u20b93,100 crore of business opportunities for domes..."
-    },
-    {
-      "title": "Trump put thousands of soldiers on Washington's streets. They seldom stop crime",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-put-thousands-of-soldiers-on-washingtons-streets-they-seldom-stop-crime/articleshow/133344485.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-19T15:43:54+05:30",
-      "time": "19 Aug, 03:43 PM",
-      "type": "news",
-      "description": "In Washington D.C., National Guard troops are stationed not as crime fighters but as symbols of security. They primarily patrol peaceful neighborhoods..."
-    },
-    {
-      "title": "Elbit Systems Sweden to Launch THMS Mobile Battlefield Networking Platform at DALO",
-      "link": "https://www.indiastrategic.in/elbit-systems-sweden-to-launch-thms-mobile-battlefield-networking-platform-at-dalo/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-19T15:27:05+05:30",
-      "time": "19 Aug, 03:27 PM",
-      "type": "news",
-      "description": "<p>Hernin, Denmark, August 19, 2026. Elbit Systems Sweden AB, a subsidiary of Elbit Systems Ltd., that specializes in advanced digitization, communica..."
     }
   ],
   "tweets": [],
@@ -661,7 +625,7 @@
       "thumbnail": "https://img.youtube.com/vi/IINSjJTNMa0/mqdefault.jpg"
     },
     {
-      "title": "Defence Updates - PAK Bholari Air Base Strike Lie, China Aircraft In Nur Khan, India AI Fighter Jet",
+      "title": "Defence Updates - China Aircraft In Nur Khan, India AI Fighter Jet, BrahMos Bholari Strike Lie",
       "link": "https://www.youtube.com/watch?v=6CJ7qULpMDI",
       "source": "Defense Squad",
       "sort_key": "2026-08-20T21:01:52+05:30",
@@ -725,6 +689,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "04:24 PM IST"
   }
 }
