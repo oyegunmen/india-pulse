@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Manipur resumes Imphal-Dimapur-Guwahati public transport service after over 3 years",
+      "link": "https://nenews.in/manipur/manipur-resumes-imphal-dimapur-guwahati-public-transport-service-after-over-3-years/61560/",
+      "source": "NE News",
+      "sort_key": "2026-08-21T14:07:00+05:30",
+      "time": "21 Aug, 02:07 PM",
+      "type": "news",
+      "description": "<p>Imphal: Public transport services on the Imphal-Dimapur-Guwahati route resumed on Friday after remaining suspended for more than three years, marki..."
+    },
+    {
+      "title": "Paras Defence expects exports to double as Middle East conflict boosts demand",
+      "link": "https://economictimes.indiatimes.com/news/defence/paras-defence-expects-exports-to-double-as-middle-east-conflict-boosts-demand/articleshow/133398447.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-21T14:06:30+05:30",
+      "time": "21 Aug, 02:06 PM",
+      "type": "news",
+      "description": "Paras Defence anticipates its export revenue will double this fiscal year.  This growth is driven by Middle East conflict and rising geopolitical tens..."
+    },
+    {
+      "title": "US imposes sanctions on nine Cuban state-owned firms",
+      "link": "https://newsonair.gov.in/us-imposes-sanctions-on-nine-cuban-state-owned-firms/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-21T14:04:51+05:30",
+      "time": "21 Aug, 02:04 PM",
+      "type": "news",
+      "description": "The Trump administration has imposed new sanctions on nine Cuban state-owned firms in the construction, mining and metals sectors, while tightening re..."
+    },
+    {
+      "title": "China says US 'sanctions and pressure' on Iran not a solution",
+      "link": "https://www.newindianexpress.com/world/2026/Aug/21/china-says-us-sanctions-and-pressure-on-iran-not-a-solution",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-21T13:55:05+05:30",
+      "time": "21 Aug, 01:55 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Eight killed in charter aircraft crash in Western Alaska, US",
       "link": "https://newsonair.gov.in/eight-killed-in-charter-aircraft-crash-in-western-alaska-us/",
       "source": "All India Radio",
@@ -53,15 +89,6 @@
       "time": "21 Aug, 09:54 AM",
       "type": "news",
       "description": "Making an obvious yet unnamed reference to China,\u00a0Japan\u2019s Defence Minister Shinjiro Koizumi on Friday said defence cooperation with India is a \u2018visibl..."
-    },
-    {
-      "title": "Two organizers of Hong Kong\u2019s Tiananmen vigils convicted in national security case",
-      "link": "https://www.newindianexpress.com/world/2026/Aug/21/two-organizers-of-hong-kongs-tiananmen-vigils-convicted-in-national-security-case",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-21T09:31:39+05:30",
-      "time": "21 Aug, 09:31 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "22 Indians aboard two ships hijacked by pirates near Yemen, Somalia",
@@ -424,15 +451,6 @@
       "description": "<p>New Delhi. Coinciding with the Swarnim Jayanti of the Bharatiya Tatrakshak, India will host the fifth Coast Guard Global Summit (CGGS) in New Delhi..."
     },
     {
-      "title": "India delivers medicines and medical supplies to government hospital in Kabul",
-      "link": "https://newsonair.gov.in/india-delivers-medicines-and-medical-supplies-to-government-hospital-in-kabul/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-20T11:37:55+05:30",
-      "time": "20 Aug, 11:37 AM",
-      "type": "news",
-      "description": "India has delivered medicines and medical consumables to a Government Hospital in Kabul, reaffirming its longstanding health partnership with the peop..."
-    },
-    {
       "title": "'Had fruitful discussions on advancing maritime cooperation': Japanese envoy welcomes Defence Minister Koizumi to India",
       "link": "https://economictimes.indiatimes.com/news/defence/had-fruitful-discussions-on-advancing-maritime-cooperation-japanese-envoy-welcomes-defence-minister-koizumi-to-india/articleshow/133363234.cms",
       "source": "Economic Times",
@@ -652,6 +670,15 @@
   "tweets": [],
   "youtube": [
     {
+      "title": "Chinese Fighter Jets in Pakistan",
+      "link": "https://www.youtube.com/watch?v=p-5JJiSuX20",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-08-21T13:51:17+05:30",
+      "time": "21 Aug, 01:51 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/p-5JJiSuX20/mqdefault.jpg"
+    },
+    {
       "title": "Su-30MKI Deep Inside Pakistan!,India\u2019s 5th Gen Fighter Moves Forward!,Pak Gets Ukraine\u2019s Drone Tech?",
       "link": "https://www.youtube.com/watch?v=IINSjJTNMa0",
       "source": "Indian Defense News",
@@ -725,6 +752,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
