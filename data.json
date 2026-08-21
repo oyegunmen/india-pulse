@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Australia charges man over trying to inform Russia of Ukrainian military activities",
+      "link": "https://www.newindianexpress.com/world/2026/Aug/21/australia-charges-man-over-trying-to-inform-russia-of-ukrainian-military-activities",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-21T11:32:48+05:30",
+      "time": "21 Aug, 11:32 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US armed forces conducts first $2,000 attack drone live-fire test near North Korean border",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-armed-forces-conducts-first-2000-attack-drone-live-fire-test-near-north-korean-border/articleshow/133394103.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-21T11:15:14+05:30",
+      "time": "21 Aug, 11:15 AM",
+      "type": "news",
+      "description": "US Marines have conducted their first live-fire FPV attack-drone exercise on the Korean Peninsula, with six Archer drones striking mock barracks at th..."
+    },
+    {
       "title": "'Essentially controlling the straits', Trump reiterates military destruction of Iran",
       "link": "https://economictimes.indiatimes.com/news/defence/essentially-controlling-the-straits-trump-reiterates-military-destruction-of-iran/articleshow/133393271.cms",
       "source": "Economic Times",
@@ -305,15 +323,6 @@
       "time": "20 Aug, 04:20 PM",
       "type": "news",
       "description": "Defence startup Flying Wedge Defence &amp; Aerospace has unveiled its FWD Supreme Lite flight demonstrator as it moves its AI-piloted fighter programm..."
-    },
-    {
-      "title": "India, Japan look at joint naval shipbuilding, technology transfer with pact to deepen defence ties",
-      "link": "https://theprint.in/diplomacy/india-japan-look-at-joint-naval-shipbuilding-technology-transfer-with-pact-to-deepen-defence-ties/3020296/",
-      "source": "The Print",
-      "sort_key": "2026-08-20T15:52:32+05:30",
-      "time": "20 Aug, 03:52 PM",
-      "type": "news",
-      "description": "Maritime security agreement opens avenues for joint development of naval ships and design, greater use of Indian shipbuilding and repair facilities by..."
     },
     {
       "title": "Self-Defence: Karnataka Forest Officers Defend Firing That Killed 3 Tamil Men",
@@ -656,20 +665,11 @@
       "time": "19 Aug, 02:25 PM",
       "type": "news",
       "description": "Bangladesh will seek a \"guarantee clause\" in the renewed Ganges Water Treaty with India and is ready to approach international forums to protect its w..."
-    },
-    {
-      "title": "Kuki chiefs oppose 11th IRB headquarters construction in Manipur\u2019s Tengnoupal",
-      "link": "https://nenews.in/manipur/kuki-chiefs-oppose-11th-irb-headquarters-construction-in-manipurs-tengnoupal/61283/",
-      "source": "NE News",
-      "sort_key": "2026-08-19T11:35:58+05:30",
-      "time": "19 Aug, 11:35 AM",
-      "type": "news",
-      "description": "<p>Imphal: The Kuki Chiefs\u2019 Association (KCA) in Manipur\u2019s Tengnoupal district has objected to the proposed construction of the 11th Indian Reserve Ba..."
     }
   ],
   "tweets": [],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
