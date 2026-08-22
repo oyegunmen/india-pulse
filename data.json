@@ -1,13 +1,58 @@
 {
   "news": [
     {
+      "title": "\"Non-violence is our culture, but protecting nation's security is our duty\": Rajnath Singh",
+      "link": "https://economictimes.indiatimes.com/news/defence/non-violence-is-our-culture-but-protecting-nations-security-is-our-duty-rajnath-singh/articleshow/133425321.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T19:00:58+05:30",
+      "time": "22 Aug, 07:00 PM",
+      "type": "news",
+      "description": "Defence Minister Rajnath Singh asserted that India's dedication to peace should not be interpreted as a sign of weakness. He underlined the crucial re..."
+    },
+    {
+      "title": "Trump\u2019s economic isolation plan risks Iran strikes across Gulf",
+      "link": "https://economictimes.indiatimes.com/news/defence/trumps-economic-isolation-plan-risks-iran-strikes-across-gulf/articleshow/133425259.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T18:59:10+05:30",
+      "time": "22 Aug, 06:59 PM",
+      "type": "news",
+      "description": "Trump is betting that tighter sanctions, a naval blockade and broader economic pressure can push Iran into accepting a US-backed deal after military s..."
+    },
+    {
       "title": "California Assembly adopts resolution recognising November 8 as Diwali Day",
       "link": "https://newsonair.gov.in/california-assembly-adopts-resolution-recognising-november-8-as-diwali-day/",
       "source": "All India Radio",
-      "sort_key": "2026-08-22T17:52:21+05:30",
-      "time": "22 Aug, 05:52 PM",
+      "sort_key": "2026-08-22T18:40:21+05:30",
+      "time": "22 Aug, 06:40 PM",
       "type": "news",
       "description": "In the United States, the California State Assembly has adopted a resolution recognising November 8 this year as Diwali Day and urging people across t..."
+    },
+    {
+      "title": "Over 70 British MPs urge UN intervention over situation in PoJK",
+      "link": "https://newsonair.gov.in/over-70-british-mps-urge-un-intervention-over-situation-in-pojk/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T18:26:20+05:30",
+      "time": "22 Aug, 06:26 PM",
+      "type": "news",
+      "description": "More than 70 British Parliamentarians have written to the UN Secretary-General Antonio Guterres urging intervention over the worsening situation in Pa..."
+    },
+    {
+      "title": "ET WLF 2026: Private players discuss India\u2019s path from defence importer to global power",
+      "link": "https://economictimes.indiatimes.com/news/defence/et-wlf-2026-private-players-discuss-indias-path-from-defence-importer-to-global-power/articleshow/133423317.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T18:13:47+05:30",
+      "time": "22 Aug, 06:13 PM",
+      "type": "news",
+      "description": "Indian defence sector leaders highlight the need for stronger funding and indigenous innovation. Private players are at a turning point, seeking to de..."
+    },
+    {
+      "title": "\"We do not accept the use of Iraqi territory to attack any country\": Iraqi President Nizar Amidi",
+      "link": "https://economictimes.indiatimes.com/news/defence/we-do-not-accept-the-use-of-iraqi-territory-to-attack-any-country-iraqi-president-nizar-amidi/articleshow/133424627.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T18:12:37+05:30",
+      "time": "22 Aug, 06:12 PM",
+      "type": "news",
+      "description": "\"We are keen to prevent Iraq from becoming involved in the war. The country most affected by the war is Iraq. We do not accept the use of Iraqi territ..."
     },
     {
       "title": "Cochin Shipyard delivers third ASW-SWC Mangrol to Indian Navy",
@@ -179,15 +224,6 @@
       "time": "22 Aug, 08:20 AM",
       "type": "news",
       "description": "India and the UK have agreed to expand bilateral exchanges between the armed forces of the two countries through joint exercises, training and capacit..."
-    },
-    {
-      "title": "Mirza Fakhrul Islam Alamgir sworn in as 23rd President of Bangladesh",
-      "link": "https://newsonair.gov.in/mirza-fakhrul-islam-alamgir-takes-oath-as-23rd-president-of-bangladesh/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-22T08:00:23+05:30",
-      "time": "22 Aug, 08:00 AM",
-      "type": "news",
-      "description": "Senior Bangladesh Nationalist Party (BNP) leader and party stalwart Mirza Fakhrul Islam Alamgir was sworn in as the 23rd President of Bangladesh at a ..."
     },
     {
       "title": "US blockade of Iran intensifies as 68 commercial vessels redirected: CENTCOM",
@@ -499,6 +535,15 @@
   "tweets": [],
   "youtube": [
     {
+      "title": "Indian Defence Updates : Su-57D UCAV Command,120KN Modules Ready,PAK Fatah-3 Test,VAHAK Mothership",
+      "link": "https://www.youtube.com/watch?v=-ITNQNa0wbQ",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-08-22T18:53:08+05:30",
+      "time": "22 Aug, 06:53 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/-ITNQNa0wbQ/mqdefault.jpg"
+    },
+    {
       "title": "Exclusive : India\u2019s ELRGR Rocket Fabrication",
       "link": "https://www.youtube.com/watch?v=ubFv3w4IZnA",
       "source": "Alpha Defense - Hindi",
@@ -563,6 +608,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 PM IST"
+    "last_updated": "07:24 PM IST"
   }
 }
