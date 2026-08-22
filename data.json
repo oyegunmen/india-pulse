@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "England thrashes Pakistan by an innings and 103 runs in first test at Headingley",
+      "link": "https://www.newindianexpress.com/sport/cricket/2026/Aug/22/england-thrashes-pakistan-by-an-innings-and-103-runs-in-first-test-at-headingley-2",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-22T11:50:51+05:30",
+      "time": "22 Aug, 11:50 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Two men stabbed inside gurdwara in Canada\u2019s Edmonton",
       "link": "https://newsonair.gov.in/two-men-stabbed-inside-gurdwara-in-canadas-edmonton/",
       "source": "All India Radio",
@@ -548,29 +557,21 @@
       "time": "20 Aug, 12:34 PM",
       "type": "news",
       "description": "Prime Ministrer Lawrence Wong on Thursday met visiting Indian ministers ahead of the fourth India-Singapore Ministerial Roundtable (ISMR) and discusse..."
-    },
-    {
-      "title": "Unauthorised structures outside Pak High Commission in Delhi demolished",
-      "link": "https://www.business-standard.com/external-affairs-defence-security/news/unauthorised-structures-outside-pak-high-commission-in-delhi-demolished-126082000123_1.html",
-      "source": "Business Standard",
-      "sort_key": "2026-08-20T12:01:56+05:30",
-      "time": "20 Aug, 12:01 PM",
-      "type": "news",
-      "description": "A section of structures outside the Pakistan High Commission in New Delhi was demolished after authorities found them to be beyond the mission's appro..."
-    },
-    {
-      "title": "India to Host 5th Coast Guard Global Summit in New Delhi in February 2027",
-      "link": "https://www.indiastrategic.in/india-to-host-5th-coast-guard-global-summit-in-new-delhi-in-february-2027/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-20T11:54:14+05:30",
-      "time": "20 Aug, 11:54 AM",
-      "type": "news",
-      "description": "<p>New Delhi. Coinciding with the Swarnim Jayanti of the Bharatiya Tatrakshak, India will host the fifth Coast Guard Global Summit (CGGS) in New Delhi..."
     }
   ],
   "tweets": [],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Su-30MKI Deep Inside Pakistan!,India\u2019s 5th Gen Fighter Moves Forward!,Pak Gets Ukraine\u2019s Drone Tech?",
+      "link": "https://www.youtube.com/watch?v=IINSjJTNMa0",
+      "source": "Indian Defense News",
+      "sort_key": "2026-08-21T06:30:02+05:30",
+      "time": "21 Aug, 06:30 AM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/IINSjJTNMa0/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "11:24 AM IST"
+    "last_updated": "12:24 PM IST"
   }
 }
