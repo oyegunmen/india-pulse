@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Anti-submarine warfare vessel INS Mangrol delivered to Indian Navy by Cochin Shipyard Limited",
+      "link": "https://economictimes.indiatimes.com/news/defence/anti-submarine-warfare-vessel-ins-mangrol-delivered-to-indian-navy-by-cochin-shipyard-limited/articleshow/133420103.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T14:12:15+05:30",
+      "time": "22 Aug, 02:12 PM",
+      "type": "news",
+      "description": "Cochin Shipyard delivered the INS Mangrol anti-submarine warfare craft to the Indian Navy. This naval craft is built with over eighty percent indigeno..."
+    },
+    {
+      "title": "India raises concern over hijacking of two vessels carrying Indian sailors",
+      "link": "https://newsonair.gov.in/india-raises-concern-over-hijacking-of-two-vessels-carrying-indian-sailors/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T13:52:08+05:30",
+      "time": "22 Aug, 01:52 PM",
+      "type": "news",
+      "description": "India has raised with Somalian authorities the issue of the hijacking of two foreign-flagged commercial vessels with 22 Indian sailors on board. The v..."
+    },
+    {
+      "title": "US tariffs on Canadian products come into effect; Canada vows to retaliate",
+      "link": "https://newsonair.gov.in/us-tariffs-on-canadian-products-come-into-effect-canada-vows-to-retaliate/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T13:50:38+05:30",
+      "time": "22 Aug, 01:50 PM",
+      "type": "news",
+      "description": "The United States has imposed 50 per cent tariffs on 20 billion dollars\u2019 worth of Canadian products. The tariffs came into effect early today. Canada ..."
+    },
+    {
+      "title": "TikTok, ByteDance agree to pay 400 million dollars to settle US lawsuit",
+      "link": "https://newsonair.gov.in/tiktok-bytedance-agree-to-pay-400-million-dollars-to-settle-us-lawsuit/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T13:46:01+05:30",
+      "time": "22 Aug, 01:46 PM",
+      "type": "news",
+      "description": "TikTok and its Chinese parent company, ByteDance, have agreed to pay 400 million dollars to settle a US Department of Justice lawsuit over the app\u2019s c..."
+    },
+    {
+      "title": "Baaz drone battalion of Army deployed at Jalandhar in Punjab, first in a state facing Pakistan",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/22/baaz-drone-battalion-of-army-deployed-at-jalandhar-in-punjab-first-in-a-state-facing-pakistan",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-22T13:22:07+05:30",
+      "time": "22 Aug, 01:22 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "US President pushes for voter ID and citizenship proof ahead of US congressional elections",
       "link": "https://newsonair.gov.in/us-president-pushes-for-voter-id-and-citizenship-proof-ahead-of-us-congressional-elections/",
       "source": "All India Radio",
@@ -8,6 +53,15 @@
       "time": "22 Aug, 01:17 PM",
       "type": "news",
       "description": "US President Donald Trump has renewed his demand for mandatory photo identification and proof of citizenship for voters, placing election rules at the..."
+    },
+    {
+      "title": "China stake ease draws Rs 5K crore FDI proposals",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/22/china-stake-ease-draws-rs-5k-crore-fdi-proposals",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-22T12:43:12+05:30",
+      "time": "22 Aug, 12:43 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "NIA Court Rejects Bail Plea of Pulwama Attack Accused Insha Jan",
@@ -44,15 +98,6 @@
       "time": "22 Aug, 10:58 AM",
       "type": "news",
       "description": "Boris Johnson has claimed that Britain had the capability to sidestep a potential US trap in Iran. He insisted that UK intelligence should have flagge..."
-    },
-    {
-      "title": "India raises concern over hijacking of two vessels carrying Indian sailors",
-      "link": "https://newsonair.gov.in/india-raises-concern-over-hijacking-of-two-vessels-carrying-indian-sailors/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-22T09:13:08+05:30",
-      "time": "22 Aug, 09:13 AM",
-      "type": "news",
-      "description": "India has raised with Somalian authorities the issue of the hijacking of two foreign-flagged commercial vessels with 22 Indian sailors on board. The v..."
     },
     {
       "title": "US President claims Strait of Hormuz is currently American territory; Iran rejects claim",
@@ -199,15 +244,6 @@
       "description": "Pakistan Army Chief Field Marshal Syed Asim Munir on Friday described militants active in Balochistan as \"foreign-sponsored proxies\" working to destab..."
     },
     {
-      "title": "OPINION | Vande Mataram: Amit Shah has hit Congress' raw nerve",
-      "link": "https://www.indiatvnews.com/news/india/vande-mataram-amit-shah-has-hit-congress-raw-nerve-aaj-ki-baat-with-rajat-sharma-opinion-piece-blogpost-2026-08-21-1052074",
-      "source": "India TV",
-      "sort_key": "2026-08-21T17:32:40+05:30",
-      "time": "21 Aug, 05:32 PM",
-      "type": "news",
-      "description": "Indian National Congress has refused to sing the full version of the 'Vande Mataram' song, which energised millions of freedom fighters during British..."
-    },
-    {
       "title": "Indian Army raises &#8216;Baaz battalion&#8217; for drone operations along Pakistan front",
       "link": "https://www.tribuneindia.com/news/defence/indian-army-raises-baaz-battalions-for-drone-operations-along-pakistan-front",
       "source": "The Tribune",
@@ -296,24 +332,6 @@
       "time": "21 Aug, 02:06 PM",
       "type": "news",
       "description": "Paras Defence anticipates its export revenue will double this fiscal year.  This growth is driven by Middle East conflict and rising geopolitical tens..."
-    },
-    {
-      "title": "US imposes sanctions on nine Cuban state-owned firms",
-      "link": "https://newsonair.gov.in/us-imposes-sanctions-on-nine-cuban-state-owned-firms/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-21T14:04:51+05:30",
-      "time": "21 Aug, 02:04 PM",
-      "type": "news",
-      "description": "The Trump administration has imposed new sanctions on nine Cuban state-owned firms in the construction, mining and metals sectors, while tightening re..."
-    },
-    {
-      "title": "Eight killed in charter aircraft crash in Western Alaska, US",
-      "link": "https://newsonair.gov.in/eight-killed-in-charter-aircraft-crash-in-western-alaska-us/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-21T13:22:12+05:30",
-      "time": "21 Aug, 01:22 PM",
-      "type": "news",
-      "description": "A US charter aircraft carrying eight people crashed at a remote radar site in western Alaska, killing everyone on board. According to the US military,..."
     },
     {
       "title": "China deploys  naval fleet with 700 personnel near strategic Red Sea gateway, Suez Canal; amid Pakistan's push for Somalia defence pact",
@@ -530,39 +548,12 @@
       "time": "20 Aug, 03:03 PM",
       "type": "news",
       "description": "<p>New Delhi, August 20. India and Japan on August 20 agreed to significantly deepen defence cooperation across maritime security, military exercises,..."
-    },
-    {
-      "title": "North Korea launches 10 ballistic missiles as US-South Korea drills near end",
-      "link": "https://economictimes.indiatimes.com/news/defence/north-korea-fires-suspected-ballistic-missile-japanese-authorities-say/articleshow/133371401.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-20T14:13:58+05:30",
-      "time": "20 Aug, 02:13 PM",
-      "type": "news",
-      "description": "In the wake of North Korea's missile launch, South Korea expressed strong condemnation and heightened its military readiness during collaborative exer..."
-    },
-    {
-      "title": "Trump warns Iran of \u2018very Draconian sanctions\u2019, downplays Strait of Hormuz\u2019s importance",
-      "link": "https://www.indiastrategic.in/trump-warns-iran-of-very-draconian-sanctions-downplays-strait-of-hormuzs-importance/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-20T13:39:24+05:30",
-      "time": "20 Aug, 01:39 PM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar Washington/Bengaluru, August 19, 2026. US President Donald Trump has warned that Iran could face \u201cvery Draconian sanctions\u201d while d..."
-    },
-    {
-      "title": "India, Japan deepen maritime security ties, agree to explore joint naval shipbuilding",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-japan-deepen-maritime-security-ties-agree-to-explore-joint-naval-shipbuilding/articleshow/133370265.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-08-20T13:37:33+05:30",
-      "time": "20 Aug, 01:37 PM",
-      "type": "news",
-      "description": "India and Japan agreed to deepen maritime security cooperation and naval coordination. They will strengthen naval coordination and explore joint devel..."
     }
   ],
   "tweets": [],
   "youtube": [
     {
-      "title": "60 KM Inside India? The Arunachal Story Nobody Can Explain",
+      "title": "Chinese Army in Arunachal Pradesh | The Reality",
       "link": "https://www.youtube.com/watch?v=lcMQALix7yI",
       "source": "Defense Squad",
       "sort_key": "2026-08-22T13:15:06+05:30",
@@ -635,6 +626,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST"
+    "last_updated": "02:24 PM IST"
   }
 }
