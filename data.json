@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "title": "EAM Jaishankar holds telephonic conversation with Greek counterpart Gerapetritis",
+      "link": "https://newsonair.gov.in/eam-jaishankar-holds-telephonic-conversation-with-greek-counterpart-gerapetritis/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T21:56:25+05:30",
+      "time": "22 Aug, 09:56 PM",
+      "type": "news",
+      "description": "External Affairs Minister Dr S Jaishankar today had a telephonic conversation with his Greek counterpart, Giorgos Gerapetritis. In a social media post..."
+    },
+    {
+      "title": "Zelenskyy announces strikes on Russian infrastructure; holds high-level talks with allies on air defence",
+      "link": "https://economictimes.indiatimes.com/news/defence/zelenskyy-announces-strikes-on-russian-infrastructure-holds-high-level-talks-with-allies-on-air-defence/articleshow/133427465.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T21:45:32+05:30",
+      "time": "22 Aug, 09:45 PM",
+      "type": "news",
+      "description": "Ukrainian forces struck a Russian refinery and logistics hub, impacting export revenues. President Zelenskyy also discussed air defense systems with G..."
+    },
+    {
+      "title": "India-Bangladesh ties have to be based on mutual interests: EAM Jaishankar",
+      "link": "https://newsonair.gov.in/india-bangladesh-ties-have-to-be-based-on-mutual-interests-eam-jaishankar/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T21:33:24+05:30",
+      "time": "22 Aug, 09:33 PM",
+      "type": "news",
+      "description": "External Affairs Minister S Jaishankar has said that India-Bangladesh ties must be based on mutual respect. Speaking at the Economic Times World Leade..."
+    },
+    {
+      "title": "Russian President Putin says Ukraine opened 'Pandora's box' with strikes on economic targets",
+      "link": "https://economictimes.indiatimes.com/news/defence/russian-president-putin-says-ukraine-opened-pandoras-box-with-strikes-on-economic-targets/articleshow/133427240.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T21:25:04+05:30",
+      "time": "22 Aug, 09:25 PM",
+      "type": "news",
+      "description": "Russian President Vladimir Putin warned Kyiv has \"opened Pandora's box\" with strikes on Russian economic targets, vowing to retaliate against Ukraine'..."
+    },
+    {
+      "title": "NIA raids 10 locations in J-K in cross-border terror conspiracy case",
+      "link": "https://economictimes.indiatimes.com/news/defence/nia-raids-10-locations-in-j-k-in-cross-border-terror-conspiracy-case/articleshow/133427242.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T21:24:59+05:30",
+      "time": "22 Aug, 09:24 PM",
+      "type": "news",
+      "description": "The NIA conducted searches at ten locations across Jammu and Kashmir on Saturday. These searches are part of an ongoing investigation into a cross-bor..."
+    },
+    {
+      "title": "India, China have interest in stable ties, but border situation will determine relations: Jaishankar",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/22/india-china-have-interest-in-stable-ties-but-border-situation-will-determine-relations-jaishankar",
+      "source": "New Indian Express",
+      "sort_key": "2026-08-22T21:21:56+05:30",
+      "time": "22 Aug, 09:21 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "IAF turning to predictive AI and digital twins to prepare for future challenges: Air Chief Marshal AP Singh",
+      "link": "https://economictimes.indiatimes.com/news/defence/iaf-turning-to-predictive-ai-and-digital-twins-to-prepare-for-future-challenges-air-chief-marshal-ap-singh/articleshow/133426687.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T20:41:59+05:30",
+      "time": "22 Aug, 08:41 PM",
+      "type": "news",
+      "description": "The Indian Air Force is using artificial intelligence for future defence planning. Predictive AI and digital twins help forecast scenarios and improve..."
+    },
+    {
+      "title": "Maharashtra, German state of Hesse sign MoU to strengthen cooperation in investment, industry",
+      "link": "https://newsonair.gov.in/maharashtra-german-state-of-hesse-sign-mou-to-strengthen-cooperation-in-investment-industry/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T20:22:50+05:30",
+      "time": "22 Aug, 08:22 PM",
+      "type": "news",
+      "description": "Maharashtra and the German state of Hesse have signed a Memorandum of Understanding (MoU) to strengthen cooperation in investment, industry, innovatio..."
+    },
+    {
       "title": "Israel conducts fresh strike in Syria after US criticism",
       "link": "https://economictimes.indiatimes.com/news/defence/israel-conducts-fresh-strike-in-syria-after-us-criticism/articleshow/133426144.cms",
       "source": "Economic Times",
@@ -217,15 +289,6 @@
       "description": "According to the NIA's chargesheet, Jan was allegedly involved in the terror conspiracy and remained in constant contact with Pakistani terrorist Muha..."
     },
     {
-      "title": "Two men stabbed inside gurdwara in Canada\u2019s Edmonton",
-      "link": "https://newsonair.gov.in/two-men-stabbed-inside-gurdwara-in-canadas-edmonton/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-22T11:13:37+05:30",
-      "time": "22 Aug, 11:13 AM",
-      "type": "news",
-      "description": "Two men were stabbed inside a gurdwara in Canada\u2019s Alberta province after a man allegedly disrupted morning prayers ahead of a wedding ceremony. The a..."
-    },
-    {
       "title": "UK could have averted US 'trap' in Iran war, says Boris Johnson; calls for India-US-UK coordination over Hormuz",
       "link": "https://economictimes.indiatimes.com/news/defence/uk-could-have-averted-us-trap-in-iran-war-says-boris-johnson-calls-for-india-us-uk-coordination-over-hormuz/articleshow/133417978.cms",
       "source": "Economic Times",
@@ -233,24 +296,6 @@
       "time": "22 Aug, 10:58 AM",
       "type": "news",
       "description": "Boris Johnson has claimed that Britain had the capability to sidestep a potential US trap in Iran. He insisted that UK intelligence should have flagge..."
-    },
-    {
-      "title": "US President claims Strait of Hormuz is currently American territory; Iran rejects claim",
-      "link": "https://newsonair.gov.in/us-president-claims-strait-of-hormuz-is-currently-american-territory-iran-rejects-claim/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-22T09:07:59+05:30",
-      "time": "22 Aug, 09:07 AM",
-      "type": "news",
-      "description": "US President Donald Trump has claimed that the Strait of Hormuz is currently American territory, while stressing that Iran must never be allowed to de..."
-    },
-    {
-      "title": "India and UK agree to expand defence cooperation through joint exercises and training",
-      "link": "https://newsonair.gov.in/india-and-uk-agree-to-expand-defence-cooperation-through-joint-exercises-and-training/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-22T08:20:32+05:30",
-      "time": "22 Aug, 08:20 AM",
-      "type": "news",
-      "description": "India and the UK have agreed to expand bilateral exchanges between the armed forces of the two countries through joint exercises, training and capacit..."
     },
     {
       "title": "US blockade of Iran intensifies as 68 commercial vessels redirected: CENTCOM",
@@ -512,28 +557,28 @@
       "time": "20 Aug, 10:55 PM",
       "type": "news",
       "description": "Besides, forest personnel asked for adequate staff to take on poachers in the Sanctuary and questioned \u201cHardly 3 are in APCs and how can they take a m..."
-    },
-    {
-      "title": "Uncertainty Deepens Over  Gor-Dalai Lama Meet in Leh",
-      "link": "https://www.deccanchronicle.com/nation/politics/uncertainty-deepens-over-whether-us-envoy-sergio-gor-will-meet-dalai-lama-in-leh-1980822",
-      "source": "Deccan Chronicle",
-      "sort_key": "2026-08-20T20:53:08+05:30",
-      "time": "20 Aug, 08:53 PM",
-      "type": "news",
-      "description": "Early reports emanating from the two Himalayan region cities indicated that Gor was expected to call on the Dalai Lama at his residence -Shewatsel Pho..."
-    },
-    {
-      "title": "Flying Wedge Defence Reveals First Footage of FWD Supreme Lite",
-      "link": "https://www.indiastrategic.in/flying-wedge-defence-reveals-first-footage-of-fwd-supreme-lite/",
-      "source": "India Strategic",
-      "sort_key": "2026-08-20T20:34:13+05:30",
-      "time": "20 Aug, 08:34 PM",
-      "type": "news",
-      "description": "<p>Flying Wedge Defence &#38; Aerospace releases the first video preview of FWD Supreme Lite, the flight demonstrator that moves Supreme from concept ..."
     }
   ],
   "tweets": [],
   "youtube": [
+    {
+      "title": "India\u2019s 250+ Rafale Plan EXPOSED!,France vs Britain for AMCA Engine,Silent Warships,Drone Mothership",
+      "link": "https://www.youtube.com/watch?v=ubbS6GWgXIY",
+      "source": "Indian Defense News",
+      "sort_key": "2026-08-22T22:00:38+05:30",
+      "time": "22 Aug, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/ubbS6GWgXIY/mqdefault.jpg"
+    },
+    {
+      "title": "Defence Updates - Tejas MK2 Big Problem, UAE BrahMos, PAK Army New Plan, Army Tank Thermal Shield",
+      "link": "https://www.youtube.com/watch?v=S0B1ILRGkUo",
+      "source": "Defense Squad",
+      "sort_key": "2026-08-22T21:25:16+05:30",
+      "time": "22 Aug, 09:25 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/S0B1ILRGkUo/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence Updates : Su-57D UCAV Command,120KN Modules Ready,PAK Fatah-3 Test,VAHAK Mothership",
       "link": "https://www.youtube.com/watch?v=-ITNQNa0wbQ",
@@ -596,18 +641,9 @@
       "time": "21 Aug, 06:30 AM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/IINSjJTNMa0/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - China Aircraft In Nur Khan, India AI Fighter Jet, BrahMos Bholari Strike Lie",
-      "link": "https://www.youtube.com/watch?v=6CJ7qULpMDI",
-      "source": "Defense Squad",
-      "sort_key": "2026-08-20T21:01:52+05:30",
-      "time": "20 Aug, 09:01 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/6CJ7qULpMDI/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "08:24 PM IST"
+    "last_updated": "10:24 PM IST"
   }
 }
