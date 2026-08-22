@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "US blockade of Iran intensifies as 68 commercial vessels redirected: CENTCOM",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-blockade-of-iran-intensifies-as-68-commercial-vessels-redirected-centcom/articleshow/133415864.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T07:21:59+05:30",
+      "time": "22 Aug, 07:21 AM",
+      "type": "news",
+      "description": "US forces have redirected sixty-eight commercial vessels and disabled three others.  Warships are supporting the US blockade against Iran in the Strai..."
+    },
+    {
+      "title": "India and Nepal reaffirm commitment to strengthen border management and security",
+      "link": "https://newsonair.gov.in/india-and-nepal-reaffirm-commitment-to-strengthen-border-management-and-security/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T07:09:11+05:30",
+      "time": "22 Aug, 07:09 AM",
+      "type": "news",
+      "description": "India and Nepal reviewed the entire spectrum of bilateral cooperation and reaffirmed their commitment to strengthening cooperation on border managemen..."
+    },
+    {
+      "title": "US, Iran trade threats as Washington readies \u2018toughest sanctions\u2019",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-iran-trade-threats-as-washington-readies-toughest-sanctions/articleshow/133415785.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T07:01:47+05:30",
+      "time": "22 Aug, 07:01 AM",
+      "type": "news",
+      "description": "The United States is set to announce stringent economic sanctions against Iran.  These measures could significantly impact Iran and its key trading pa..."
+    },
+    {
+      "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-navy-aircraft-transits-taiwan-strait-before-planned-xi-trump-meeting/articleshow/133415731.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T06:49:54+05:30",
+      "time": "22 Aug, 06:49 AM",
+      "type": "news",
+      "description": "A US Navy aircraft transited the Taiwan Strait, asserting international law. China's military monitored the patrol aircraft throughout its passage. Th..."
+    },
+    {
       "title": "Iran says it has built \u2018solid defensive shield\u2019 amid US tensions",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-says-it-has-built-solid-defensive-shield-amid-us-tensions/articleshow/133415588.cms",
       "source": "Economic Times",
@@ -415,15 +451,6 @@
       "description": "<p>Seoul, Aug 20 (IANS) North Korea fired a barrage of short-range ballistic missiles toward the East Sea on Thursday, despite a recent olive branch o..."
     },
     {
-      "title": "India and Japan agree to deepen defence technology partnership; Sign MoA on Maritime Security Cooperation",
-      "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-japanese-counterpart-shinjiro-koizumi-co-chair-india-japan-defence-ministers-meeting/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-20T17:23:52+05:30",
-      "time": "20 Aug, 05:23 PM",
-      "type": "news",
-      "description": "The India-Japan Defence Ministers Meeting was held in New Delhi today. Defence Minister Rajnath Singh and his Japanese counterpart Shinjiro Koizumi co..."
-    },
-    {
       "title": "India, Japan deepen strategic ties with maritime security cooperation deal",
       "link": "https://www.business-standard.com/external-affairs-defence-security/news/japan-deepen-strategic-ties-with-maritime-security-cooperation-deal-126082000969_1.html",
       "source": "Business Standard",
@@ -653,6 +680,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "06:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
