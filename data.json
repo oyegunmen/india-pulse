@@ -1,11 +1,29 @@
 {
   "news": [
     {
+      "title": "Army, BSF, Punjab Police discuss measures to curb drug, weapon smuggling along IB",
+      "link": "https://www.tribuneindia.com/news/defence/army-bsf-punjab-police-discuss-measures-to-curb-drug-weapon-smuggling-along-ib",
+      "source": "The Tribune",
+      "sort_key": "2026-08-22T17:03:57+05:30",
+      "time": "22 Aug, 05:03 PM",
+      "type": "news",
+      "description": "Within a fortnight of Punjab Chief Minister Bhagwant Mann calling for closer cooperation between the state government and the Indian Army on border se..."
+    },
+    {
+      "title": "Shah reviews security at Siliguri Corridor, pushes for 'triangular grid'",
+      "link": "https://www.business-standard.com/external-affairs-defence-security/news/shah-reviews-security-at-siliguri-corridor-pushes-for-triangular-grid-126082200595_1.html",
+      "source": "Business Standard",
+      "sort_key": "2026-08-22T16:55:28+05:30",
+      "time": "22 Aug, 04:55 PM",
+      "type": "news",
+      "description": "Union Home Minister Amit Shah on Saturday held a meeting with senior officials of West Bengal and central forces to review security along the nation's..."
+    },
+    {
       "title": "India raises concern over hijacking of two vessels carrying Indian sailors",
       "link": "https://newsonair.gov.in/india-raises-concern-over-hijacking-of-two-vessels-carrying-indian-sailors/",
       "source": "All India Radio",
-      "sort_key": "2026-08-22T15:33:08+05:30",
-      "time": "22 Aug, 03:33 PM",
+      "sort_key": "2026-08-22T16:33:08+05:30",
+      "time": "22 Aug, 04:33 PM",
       "type": "news",
       "description": "India has raised with Somalian authorities the issue of the hijacking of two foreign-flagged commercial vessels with 22 Indian sailors on board. The v..."
     },
@@ -13,10 +31,19 @@
       "title": "US tariffs on Canadian products come into effect; Canada vows to retaliate",
       "link": "https://newsonair.gov.in/us-tariffs-on-canadian-products-come-into-effect-canada-vows-to-retaliate/",
       "source": "All India Radio",
-      "sort_key": "2026-08-22T15:32:38+05:30",
-      "time": "22 Aug, 03:32 PM",
+      "sort_key": "2026-08-22T16:32:38+05:30",
+      "time": "22 Aug, 04:32 PM",
       "type": "news",
       "description": "The United States has imposed 50 per cent tariffs on 20 billion dollars\u2019 worth of Canadian products. The tariffs came into effect early today. Canada ..."
+    },
+    {
+      "title": "CISF jawan dies of gunshot wound at nuclear plant in Rajasthan; suicide suspected",
+      "link": "https://economictimes.indiatimes.com/news/defence/cisf-jawan-dies-of-gunshot-wound-at-nuclear-plant-in-rajasthan-suicide-suspected/articleshow/133422283.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T16:16:18+05:30",
+      "time": "22 Aug, 04:16 PM",
+      "type": "news",
+      "description": "A 25-year-old CISF jawan died from a gunshot wound on duty.  The incident occurred at a nuclear power plant in Rajasthan's Chittorgarh district.  He w..."
     },
     {
       "title": "Iran says the world has accepted it has defeated the US",
@@ -98,15 +125,6 @@
       "time": "22 Aug, 01:17 PM",
       "type": "news",
       "description": "US President Donald Trump has renewed his demand for mandatory photo identification and proof of citizenship for voters, placing election rules at the..."
-    },
-    {
-      "title": "China stake ease draws Rs 5K crore FDI proposals",
-      "link": "https://www.newindianexpress.com/india/2026/Aug/22/china-stake-ease-draws-rs-5k-crore-fdi-proposals",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-22T12:43:12+05:30",
-      "time": "22 Aug, 12:43 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "NIA Court Rejects Bail Plea of Pulwama Attack Accused Insha Jan",
@@ -269,15 +287,6 @@
       "time": "21 Aug, 05:49 PM",
       "type": "news",
       "description": "Pakistan Army Chief Field Marshal Syed Asim Munir on Friday described militants active in Balochistan as \"foreign-sponsored proxies\" working to destab..."
-    },
-    {
-      "title": "Indian Army raises &#8216;Baaz battalion&#8217; for drone operations along Pakistan front",
-      "link": "https://www.tribuneindia.com/news/defence/indian-army-raises-baaz-battalions-for-drone-operations-along-pakistan-front",
-      "source": "The Tribune",
-      "sort_key": "2026-08-21T17:20:10+05:30",
-      "time": "21 Aug, 05:20 PM",
-      "type": "news",
-      "description": "As part of its post-Operation Sindoor transformation, the Indian Army on Friday announced the raising of a dedicated battalion for drone operations al..."
     },
     {
       "title": "Iran vows 'devastating' response as US threatens toughest ever economic hit",
@@ -521,15 +530,6 @@
       "time": "20 Aug, 05:26 PM",
       "type": "news",
       "description": "<p>Seoul, Aug 20 (IANS) North Korea fired a barrage of short-range ballistic missiles toward the East Sea on Thursday, despite a recent olive branch o..."
-    },
-    {
-      "title": "India, Japan deepen strategic ties with maritime security cooperation deal",
-      "link": "https://www.business-standard.com/external-affairs-defence-security/news/japan-deepen-strategic-ties-with-maritime-security-cooperation-deal-126082000969_1.html",
-      "source": "Business Standard",
-      "sort_key": "2026-08-20T17:19:53+05:30",
-      "time": "20 Aug, 05:19 PM",
-      "type": "news",
-      "description": "Defence ministers sign a bilateral deal on maritime security cooperation, with an eye on the Indo-Pacific region"
     }
   ],
   "tweets": [],
@@ -599,6 +599,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST"
+    "last_updated": "05:24 PM IST"
   }
 }
