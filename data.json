@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "California Assembly adopts resolution recognising November 8 as Diwali Day",
+      "link": "https://newsonair.gov.in/california-assembly-adopts-resolution-recognising-november-8-as-diwali-day/",
+      "source": "All India Radio",
+      "sort_key": "2026-08-22T17:52:21+05:30",
+      "time": "22 Aug, 05:52 PM",
+      "type": "news",
+      "description": "In the United States, the California State Assembly has adopted a resolution recognising November 8 this year as Diwali Day and urging people across t..."
+    },
+    {
+      "title": "Cochin Shipyard delivers third ASW-SWC Mangrol to Indian Navy",
+      "link": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/cochin-shipyard-delivers-third-asw-swc-mangrol-to-indian-navy/133423782",
+      "source": "Economic Times",
+      "sort_key": "2026-08-22T17:30:22+05:30",
+      "time": "22 Aug, 05:30 PM",
+      "type": "news",
+      "description": "The over 80% indigenous vessel is equipped for anti-submarine warfare, underwater surveillance and mine warfare in coastal waters."
+    },
+    {
       "title": "Army, BSF, Punjab Police discuss measures to curb drug, weapon smuggling along IB",
       "link": "https://www.tribuneindia.com/news/defence/army-bsf-punjab-police-discuss-measures-to-curb-drug-weapon-smuggling-along-ib",
       "source": "The Tribune",
@@ -109,15 +127,6 @@
       "description": "TikTok and its Chinese parent company, ByteDance, have agreed to pay 400 million dollars to settle a US Department of Justice lawsuit over the app\u2019s c..."
     },
     {
-      "title": "Baaz drone battalion of Army deployed at Jalandhar in Punjab, first in a state facing Pakistan",
-      "link": "https://www.newindianexpress.com/india/2026/Aug/22/baaz-drone-battalion-of-army-deployed-at-jalandhar-in-punjab-first-in-a-state-facing-pakistan",
-      "source": "New Indian Express",
-      "sort_key": "2026-08-22T13:22:07+05:30",
-      "time": "22 Aug, 01:22 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "US President pushes for voter ID and citizenship proof ahead of US congressional elections",
       "link": "https://newsonair.gov.in/us-president-pushes-for-voter-id-and-citizenship-proof-ahead-of-us-congressional-elections/",
       "source": "All India Radio",
@@ -188,15 +197,6 @@
       "time": "22 Aug, 07:21 AM",
       "type": "news",
       "description": "US forces have redirected sixty-eight commercial vessels and disabled three others.  Warships are supporting the US blockade against Iran in the Strai..."
-    },
-    {
-      "title": "India and Nepal reaffirm commitment to strengthen border management and security",
-      "link": "https://newsonair.gov.in/india-and-nepal-reaffirm-commitment-to-strengthen-border-management-and-security/",
-      "source": "All India Radio",
-      "sort_key": "2026-08-22T07:09:11+05:30",
-      "time": "22 Aug, 07:09 AM",
-      "type": "news",
-      "description": "India and Nepal reviewed the entire spectrum of bilateral cooperation and reaffirmed their commitment to strengthening cooperation on border managemen..."
     },
     {
       "title": "US, Iran trade threats as Washington readies \u2018toughest sanctions\u2019",
@@ -494,46 +494,19 @@
       "time": "20 Aug, 08:00 PM",
       "type": "news",
       "description": "Taiwan plans a record defense budget to counter China's military threats. This significant increase signals intensified efforts to deter potential agg..."
-    },
-    {
-      "title": "India visit unlikely without mutual trust, says adviser to B'desh PM",
-      "link": "https://www.business-standard.com/external-affairs-defence-security/news/india-visit-unlikely-without-mutual-trust-says-adviser-to-b-desh-pm-126082000735_1.html",
-      "source": "Business Standard",
-      "sort_key": "2026-08-20T18:13:36+05:30",
-      "time": "20 Aug, 06:13 PM",
-      "type": "news",
-      "description": "The possibility of Bangladesh Prime Minister Tarique Rahman's visit to India next month for BRICS Summit \"remains slim\" unless an appropriate environm..."
-    },
-    {
-      "title": "Massive search operation by Navy, Coast Guard for seven missing Andhra fishermen",
-      "link": "https://defencemonitor.in/massive-search-operation-by-navy-coast-guard-for-seven-missing-andhra-fishermen/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-08-20T17:28:22+05:30",
-      "time": "20 Aug, 05:28 PM",
-      "type": "news",
-      "description": "<p>Amaravati, Aug 20 (IANS) A massive search operation was underway in the Bay of Bengal for seven fishermen from Andhra Pradesh who had set out to se..."
-    },
-    {
-      "title": "India, Japan reaffirm commitment to deepen bilateral defence cooperation",
-      "link": "https://defencemonitor.in/india-japan-reaffirm-commitment-to-deepen-bilateral-defence-cooperation/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-08-20T17:27:14+05:30",
-      "time": "20 Aug, 05:27 PM",
-      "type": "news",
-      "description": "<p>Tokyo/New Delhi, Aug 20 (IANS) India and Japan on Thursday welcomed the steady strengthening of bilateral defence cooperation, including engagement..."
-    },
-    {
-      "title": "North Korea fires barrage of short-range ballistic missiles despite Trump overture",
-      "link": "https://defencemonitor.in/north-korea-fires-barrage-of-short-range-ballistic-missiles-despite-trump-overture/",
-      "source": "Defense Monitor",
-      "sort_key": "2026-08-20T17:26:22+05:30",
-      "time": "20 Aug, 05:26 PM",
-      "type": "news",
-      "description": "<p>Seoul, Aug 20 (IANS) North Korea fired a barrage of short-range ballistic missiles toward the East Sea on Thursday, despite a recent olive branch o..."
     }
   ],
   "tweets": [],
   "youtube": [
+    {
+      "title": "Exclusive : India\u2019s ELRGR Rocket Fabrication",
+      "link": "https://www.youtube.com/watch?v=ubFv3w4IZnA",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-08-22T17:58:01+05:30",
+      "time": "22 Aug, 05:58 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/ubFv3w4IZnA/mqdefault.jpg"
+    },
     {
       "title": "Chinese Army in Arunachal Pradesh | The Reality",
       "link": "https://www.youtube.com/watch?v=lcMQALix7yI",
@@ -587,18 +560,9 @@
       "time": "20 Aug, 09:01 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/6CJ7qULpMDI/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : 140 AMCA Winner,Armenia 50 Pralay Order,6 Netra MK3,79 Fighter Squadrons",
-      "link": "https://www.youtube.com/watch?v=KETMyIVvnZ0",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-08-20T18:10:41+05:30",
-      "time": "20 Aug, 06:10 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/KETMyIVvnZ0/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 PM IST"
+    "last_updated": "06:24 PM IST"
   }
 }
